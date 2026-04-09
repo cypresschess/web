@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130149703.cms\" />Hikaru Nakamura said he has no interest in watching Netflix's documentary on Magnus Carlsen vs Hans Niemann, citing lack of context and personal disinterest. While the film revisits their 2022 controversy, Niemann declares: \"I'm gonna be a stone cold killer. I'm going to become the best player in the world.\"",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-intention-of-watching-world-no-2-hikaru-nakamura-on-magnus-carlsen-vs-hans-niemann-documentary/articleshow/130149703.cms",
+         "pubDate" : "Thu, 09 Apr 2026 17:20:41",
+         "title" : "'No intention of watching': Nakamura on Carlsen vs Hans documentary"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays white against Praggnanandhaa Rameshbabu in Thursday's tenth round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Elisabeth P&auml;htz - Mastering the London System"
       },
       {
+         "description" : "The 2026 FIDE Candidates Tournament, after its 10th round, continues to be the GM Javokhir Sindarov show as he leads by two points. The Uzbek star scored his record-breaking sixth win against GM Praggnanandhaa Rameshbabu and can now boast the most...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-10",
+         "pubDate" : "Thu, 09 Apr 2026 10:55:00",
+         "title" : "Sindarov Sacs Piece For Historic 6th Win; Vaishali Leads Women's Race"
+      },
+      {
          "description" : "Anish Giri moved into sole second place at the Candidates Tournament in Cyprus after defeating Fabiano Caruana with the black pieces in Wednesday's ninth round. Leader Javokhir Sindarov was held to a draw by Matthias Bluebaum after missing winning chances, leaving him 1&frac12; points ahead of Giri. The remaining two games were drawn, including a tense encounter in which Praggnanandhaa Rameshbabu failed to convert a clear advantage against Wei Yi. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-candidates-how-r-vaishali-crushed-divya-deshmukh-in-31-moves-to-join-lead-after-round-9/articleshow/130127263.cms",
          "pubDate" : "Thu, 09 Apr 2026 01:53:02",
          "title" : "Candidates: How R Vaishali crushed Divya Deshmukh in 31 moves to join lead"
+      },
+      {
+         "description" : "With only five rounds to go, GM Javokhir Sindarov maintains his point-and-a-half lead in the 2026 FIDE Candidates tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Smiles at the start of Bluebaum - Sindarov. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> He did, however, have one opportunity today to extend his lead to a full two points. When asked about 24. &hellip; Qb7, and whether, at this point, he's trying to avoid complications, Sindarov explained that he generally wants to play safe, but didn't spend too much time on the move and was surprised to see on the computer that the evaluation of the position is winning for Black. <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-9-vaishali-zhu-lead-giri-emerges",
+         "pubDate" : "Thu, 09 Apr 2026 00:00:00",
+         "title" : "Candidates Round 9: Vaishali, Zhu Lead as Giri Emerges"
       },
       {
          "description" : "Together with his brother Robert, Donald Byrne was among the best players in the United States in the 1970s. He won many games, but he became best known for a loss - against the then little-known Bobby Fischer. Donald Byrne died 50 years ago from an autoimmune disease. He was only 45 years old.",
@@ -626,22 +650,6 @@ news_feed (
          "title" : "Candidates: Javokhir Sindarov takes commanding lead; Zhu Jiner beats Divya Deshmukh"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129964149.cms\" />India's chess contingent faced a disappointing Round 4 at the Candidates tournament, with R Praggnanandhaa and R Vaishali securing draws while Divya Deshmukh suffered a significant loss. Praggnanandhaa's game was described as uncharacteristically subdued, and Vaishali narrowly escaped a difficult position. Deshmukh's experimental play led to fundamental errors and a decisive defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-risk-averse-indians-self-sabotaged-in-round-4/articleshow/129964149.cms",
-         "pubDate" : "Thu, 02 Apr 2026 00:45:53",
-         "title" : "Candidates Chess: How risk-averse Indians self-sabotaged in Round 4"
-      },
-      {
-         "description" : "Round 4 of the 2026 FIDE Candidates Tournament marked the first clear separation in the standings, as GM Javokhir Sindarov emerged as the sole leader heading into the rest day in the Open. With a convincing victory over GM Fabiano Caruana, the 20-year-old Uzbek grandmaster has suddenly become the center of attention. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Left: Caruana resigns against Sindarov. (Photo courtesy FIDE/Michal Walusza) | Right: Anna Muzychuk during her win over Lagno. (Photo courtesy FIDE/Yoav Nis)<br> <br> Meanwhile, the Women's Candidates race remains tighter. A g",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/caruana-stumbles-sindarov-leads-and-muzychuk-joins-assaubayeva-entering-rest-day",
-         "pubDate" : "Thu, 02 Apr 2026 00:00:00",
-         "title" : "Caruana Stumbles, Sindarov Leads, and Muzychuk Joins Assaubayeva Entering Rest day"
-      },
-      {
          "description" : "GM Amin Tabatabaei has continued his golden run in classical chess by pulling off one of the greatest results of his career, an outright victory with a performance rating of 2849 in the 422-player strong 2026 Reykjavik Open. Although Tabatabaei ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-3",
          "pubDate" : "Tue, 31 Mar 2026 11:22:00",
          "title" : "Caruana Wins In 19 Moves, Sindarov Beats Praggnanandhaa With Piece Sac"
-      },
-      {
-         "description" : "Three co-leaders, none of them playing each other, all made draws in the final round, but someone still had to win the Titled Tuesday tournament out of GMs Jan-Krzysztof Duda, Hans Niemann, and Parham Maghsoodloo. And that is the order tiebreaks p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-march-31-2026",
-         "pubDate" : "Tue, 31 Mar 2026 11:11:04",
-         "title" : "Not How He Drew It Up, But Duda Wins Titled Tuesday"
       },
       {
          "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
