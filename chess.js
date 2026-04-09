@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri moved into sole second place at the Candidates Tournament in Cyprus after defeating Fabiano Caruana with the black pieces in Wednesday's ninth round. Leader Javokhir Sindarov was held to a draw by Matthias Bluebaum after missing winning chances, leaving him 1&frac12; points ahead of Giri. The remaining two games were drawn, including a tense encounter in which Praggnanandhaa Rameshbabu failed to convert a clear advantage against Wei Yi. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-9",
+         "pubDate" : "Thu, 09 Apr 2026 06:10:00",
+         "title" : "Candidates R9: Giri scores crucial win, now in sole second place"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130127263.cms\" />Indian chess sensation R Vaishali secured a commanding victory over compatriot Divya Deshmukh at the Women's Candidates, seizing a co-lead. Meanwhile, R Praggnanandhaa faced another draw, struggling to convert his advantage against Wei Yi. In the Open section, Javokhir Sindarov leads the pack with 7/9 points. The tournament continues with crucial pairings in both sections.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-misses-a-big-opportunity-and-giri-beats-caruana-in-candidates-round-9",
          "pubDate" : "Wed, 8 Apr 2026 20:11:00",
          "title" : "Sindarov misses a big opportunity and Giri beats Caruana in Candidates Round 9 - 9"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Wednesday's ninth round, Fabiano Caruana and Anish Giri - who are tied for second place in the open section - face off in a crucial encounter. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Wed, 08 Apr 2026 14:15:00",
-         "title" : "Candidates Round 9 - Live!"
       },
       {
          "description" : "GM Anish Giri played a positional masterpiece to take down GM Fabiano Caruana and grab sole second place in the 2026 FIDE Candidates Tournament after round nine. GM Javokhir Sindarov could have scored a record sixth win, but slipped up against GM ...",
