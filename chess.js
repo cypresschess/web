@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the course \"Mastering the London System,\" Grandmaster Elisabeth P&auml;htz presents the classical London System with an early Bf4 and explains the dynamic structures and ideas that arise from it. She systematically covers Black's main responses and compares the classical London with the Neo London to build a complete and modern repertoire. The focus is on practical understanding, enabling players of all levels to use the London System confidently and flexibly in tournament play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-mastering-the-london-system",
+         "pubDate" : "Thu, 09 Apr 2026 12:00:00",
+         "title" : "Elisabeth P&auml;htz - Mastering the London System"
+      },
+      {
          "description" : "Anish Giri moved into sole second place at the Candidates Tournament in Cyprus after defeating Fabiano Caruana with the black pieces in Wednesday's ninth round. Leader Javokhir Sindarov was held to a draw by Matthias Bluebaum after missing winning chances, leaving him 1&frac12; points ahead of Giri. The remaining two games were drawn, including a tense encounter in which Praggnanandhaa Rameshbabu failed to convert a clear advantage against Wei Yi. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
