@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130127263.cms\" />Indian chess sensation R Vaishali secured a commanding victory over compatriot Divya Deshmukh at the Women's Candidates, seizing a co-lead. Meanwhile, R Praggnanandhaa faced another draw, struggling to convert his advantage against Wei Yi. In the Open section, Javokhir Sindarov leads the pack with 7/9 points. The tournament continues with crucial pairings in both sections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-candidates-how-r-vaishali-crushed-divya-deshmukh-in-31-moves-to-join-lead-after-round-9/articleshow/130127263.cms",
+         "pubDate" : "Thu, 09 Apr 2026 01:53:02",
+         "title" : "Candidates: How R Vaishali crushed Divya Deshmukh in 31 moves to join lead"
+      },
+      {
          "description" : "Together with his brother Robert, Donald Byrne was among the best players in the United States in the 1970s. He won many games, but he became best known for a loss - against the then little-known Bobby Fischer. Donald Byrne died 50 years ago from an autoimmune disease. He was only 45 years old.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/circus-chess-bots",
          "pubDate" : "Wed, 01 Apr 2026 07:26:52",
          "title" : "New Bots: The Chess Circus Comes To Town"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129942148.cms\" />Javokhir Sindarov defeated Praggnanandhaa R after a dramatic knight sacrifice, joining Fabiano Caruana in the lead of the Candidates tournament. The third round saw all three Chinese players lose, with Caruana quickly defeating Wei Yi. In the women's section, Bibisara Assaubayeva and Kateryna Lagno took the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-beats-praggnanandhaa-joins-caruana-in-lead-divya-draws/articleshow/129942148.cms",
-         "pubDate" : "Wed, 01 Apr 2026 05:18:06",
-         "title" : "Candidates Chess: Sindarov beats Praggnanandhaa, joins Caruana in lead; Divya draws"
       },
       {
          "description" : "Chessboxing is taking the world by storm. The appeal is obvious: it&#39;s the only sport that allows you to outwit your opponent with tactics and strategy&#38;mdash;or just punch them senseless if you fail to do so. With alternating rounds of chess and bo...",
