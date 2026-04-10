@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130156692.cms\" />India's Vaishali Rameshbabu leads the FIDE Candidates 2026 women's section after a draw in the 10th round, showcasing impressive form. However, compatriots Divya Deshmukh and R Praggnanandhaa faced setbacks. Divya's endgame collapse likely ended her championship hopes, while Praggnanandhaa's tactical misstep against Sindarov cost him dearly, impacting India's overall challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-r-vaishali-takes-sole-lead-with-four-rounds-to-go/articleshow/130156692.cms",
+         "pubDate" : "Fri, 10 Apr 2026 01:28:48",
+         "title" : "Candidates Chess: India's R Vaishali takes sole lead with four rounds to go"
+      },
+      {
          "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus by defeating Praggnanandhaa Rameshbabu in a sharp game to reach six wins in ten rounds (with no losses). Anish Giri, who remains in sole second place, was held to a draw by Hikaru Nakamura, while Fabiano Caruana also drew. With four rounds remaining, Sindarov now leads by two points. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Candidates R10: There's no stopping Sindarov!"
       },
       {
-         "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely he's simply seeing too much. The other games were drawn. Friday is a rest day. In the Women's event Rameshbabu Vaishali leads after holding a draw against Anna Muzychuk but she's hardly been convincing, in fact no-one has, it's stil",
+         "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa, this restored a two point lead with only four rounds to go. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely, he's simply seeing too much, even then Giri would have to score almost perfectly to even catch him. The other games were drawn. Friday is a rest day. In the Women's event ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-almost-home-and-dry-in-the-fide-candidates-with-four-rounds-to-go",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/april-2026-fide-ratings",
          "pubDate" : "Thu, 02 Apr 2026 07:29:00",
          "title" : "Abdusattorov Ascends To World Number 4; Bodhana Cracks Into Women's Top 100"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129968748.cms\" />Uzbekistan's Javokhir Sindarov stunned joint leader Fabiano Caruana in Cyprus, showcasing a dominant offensive. The youngest participant now leads with 3.5 points, potentially setting up a one-sided Candidates tournament. Meanwhile, in the women's section, top seed Zhu Jiner secured a crucial win against Divya Deshmukh, while Anna Muzychuk claimed her first victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-javokhir-sindarov-takes-commanding-lead-zhu-jiner-beats-divya-deshmukh/articleshow/129968748.cms",
-         "pubDate" : "Thu, 02 Apr 2026 05:50:58",
-         "title" : "Candidates: Javokhir Sindarov takes commanding lead; Zhu Jiner beats Divya Deshmukh"
       },
       {
          "description" : "GM Amin Tabatabaei has continued his golden run in classical chess by pulling off one of the greatest results of his career, an outright victory with a performance rating of 2849 in the 422-player strong 2026 Reykjavik Open. Although Tabatabaei ...",
