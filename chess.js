@@ -10,6 +10,14 @@ news_feed (
          "title" : "Bodhana Sivanandan Interview: Endgames, Mindset & Rapid Rise"
       },
       {
+         "description" : "The Freestyle Friday of April 10, 2026 was a curious affair where GM Jan-Krzysztof Duda led the field with a 100% score and two full points after the ninth round, only to lose to GMs Pranav Venkatesh and Parham Maghsoodloo in the last two rounds. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-april-10-2026",
+         "pubDate" : "Fri, 10 Apr 2026 15:20:39",
+         "title" : "Maghsoodloo Wins Title On Tiebreak Score"
+      },
+      {
          "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
          "pubDate" : "Tue, 31 Mar 2026 18:06:53",
          "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2026 FIDE Candidates Tournament with 2.5 points after three rounds. Caruana won a miniature after a blunder by GM Wei Yi, and Sindarov bravely sacrificed a piece to win with the black pieces again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-3",
-         "pubDate" : "Tue, 31 Mar 2026 11:22:00",
-         "title" : "Caruana Wins In 19 Moves, Sindarov Beats Praggnanandhaa With Piece Sac"
       },
       {
          "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
