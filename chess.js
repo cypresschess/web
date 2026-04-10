@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/apr/10/chess-sindarov-extends-candidates-lead-and-heads-for-world-title-challenge",
+         "pubDate" : "Fri, 10 Apr 2026 07:00:13",
+         "title" : "Chess: Sindarov extends Candidates lead and heads for world title challenge"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130156692.cms\" />India's Vaishali Rameshbabu leads the FIDE Candidates 2026 women's section after a draw in the 10th round, showcasing impressive form. However, compatriots Divya Deshmukh and R Praggnanandhaa faced setbacks. Divya's endgame collapse likely ended her championship hopes, while Praggnanandhaa's tactical misstep against Sindarov cost him dearly, impacting India's overall challenge.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://www.thearticle.com/last-minute-tie-at-the-varsity-chess-match/",
          "pubDate" : "Sat, 21 Mar 2026 11:59:33",
          "title" : "Last-minute tie at the Varsity Chess Match"
-      },
-      {
-         "description" : " The teenager defeated the tournament favourite, Gawain Maroroa Jones, in the final round to secure victory by half a point Freddy Waldhausen Gordon, a 15-year-old from George Heriot's school, Edinburgh, came through with a stunning burst to capture the annual British Rapidplay championship in Peterborough with a score of 9.5/11, defeating the top-seeded GM, Gawain Maroroa Jones, in the final round in <a href=\"https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-11/hFTdUahE/3qeDxhsO\">a must-win game</a> by a checkmating attack where White's queen and both rooks all invaded Black's rear rank. Maroroa Jones was in trouble early in the decisive game, soon had to",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/20/chess-scotlands-freddy-waldhausen-gordon-15-routs-the-english-in-british-rapidplay",
-         "pubDate" : "Fri, 20 Mar 2026 07:25:58",
-         "title" : "Chess: Scotland's Freddy Waldhausen Gordon, 15, routs the English in British Rapidplay"
       }
    ]
 }
