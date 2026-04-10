@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bodhana Sivanandan comes across as an exceptionally calm, self-driven young talent whose love for chess seems to grow naturally from curiosity, beauty, and enjoyment rather than pressure or ego. In the interview, she talks about her admiration for Capablanca, her instinctive feel for endgames, and her practical approach to improvement, often learning simply by playing, spotting mistakes, and correcting them for next time. She also reflects with striking maturity on losses, fame, expectations, and long-term goals, showing that she prefers to focus on steady progress instead of forcing milestones or assumptions about the future. Overall, the conversation paints a picture of a rare chess prodig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-interview-endgames-mindset-rapid-rise",
+         "pubDate" : "Fri, 10 Apr 2026 18:17:13",
+         "title" : "Bodhana Sivanandan Interview: Endgames, Mindset & Rapid Rise"
+      },
+      {
          "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-almost-home-and-dry-in-the-fide-candidates-with-four-rounds-to-go",
          "pubDate" : "Fri, 10 Apr 2026 00:09:00",
          "title" : "Sindarov almost home and dry in the FIDE Candidates with four rounds to go - 10"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Boris Gelfand makes the ceremonial first move for Sindarov - Praggnanandhaa. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> In Round 9, GM Javokhir Sindarov spoiled his chances to beat GM Matthias Bluebaum with one careless move. Would this throw off his chi and cause him to doubt himself more going into the later rounds? The answer seems to be a resounding \"No!\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Niki Riga.<br> <br> <br> <br> The Uzbek talent got back to his winning ways with a crushing win over GM Praggnanandhaa Rameshb",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-10-sindarov-further-cements-lead-assaubayeva-jolts-zhu-out-first",
+         "pubDate" : "Fri, 10 Apr 2026 00:00:00",
+         "title" : "Candidates Round 10: Sindarov Further Cements Lead, Assaubayeva Jolts Zhu Out of First"
       },
       {
          "description" : "Three rounds have been already played at the European Individual Chess Championship 2026 and the games are becoming tougher and tenser with each round! Seventeen players currently hold a perfect score of 3/3 to share the early lead. Among the frontrunners are GM Aydin Suleymanli (AZE, 2653), GM Shant Sargsyan (ARM, 2647), GM Jonas Buhl Bjerre (AUT, 2623), GM Robert Hovhannisyan (ARM, 2621), and the 2024 European Champion GM Aleksandar Indjic (SRB, 2616). They are joined by GM Lorenzo Lodici []",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-r-praggnanandhaa-wastes-his-best-chance-to-score-win/articleshow/130011538.cms",
          "pubDate" : "Sat, 04 Apr 2026 01:20:01",
          "title" : "Candidates Chess: R Praggnanandhaa wastes his best chance to score win"
-      },
-      {
-         "description" : "Round 5 of the 2026 FIDE Candidates and Women's Candidates tournaments brought four decisive results, reinforcing rather than dramatically reshaping the standings.In the Open, the main storyline continues to be the outstanding play of 20-year-old Uzbek GM Javokhir Sindarov, who remains in clear first place with a 4&frac12;/5 score. While GM Fabiano Caruana delivered an important win to stay within striking distance, it was once again Sindarov who took the spotlight and won with the black pieces against one of the tournament favorites, GM Hikaru Nakamura.In the Women's Candidates, GMs Kateryna Lagno and Zhu Jiner joined GM Anna Muzychuk in the lead after scoring full points, creating a three-",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-5-sindarov-soars-caruana-keeps-pace-and-3-way-tie-womens",
-         "pubDate" : "Sat, 04 Apr 2026 00:00:00",
-         "title" : "Candidates Round 5: Sindarov Soars, Caruana Keeps Pace, and 3-way Tie in Women's"
       },
       {
          "description" : " Javokhir Sindarov continues to lead the FIDE Candidates in Cyprus by a point after crushing Hikaru Nakamura with the black pieces. Even at this early stage it's already looking like it's going to be a fight between Sindarov and Fabiano Caruana, they're the only two looking in great form. Caruana overpowered the hitherto undefeated Matthias Bluebaum, he also made the win look very easy. Sindarov's 4.5/5 start is exceptional, that said there are a number of players already looking out of form, so points may be easier to come by that in some Candidates tournaments. The other games were drawn. The women's event looks far harder to predict. Leader Anna Muzychuk had a quiet draw with Aleksandra G",
