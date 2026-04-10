@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
+         "pubDate" : "Fri, 10 Apr 2026 14:45:00",
+         "title" : "European Championship, Round 4 - Live"
+      },
+      {
          "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
