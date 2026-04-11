@@ -1,4 +1,9 @@
 jtable([
+"CYPRESS","2026-04-10","52","<a href=https://ratings.uschess.org/event/202604100383 target='_blank'>Knights of Cypress</a>",
+"PASADENA","2026-04-10","16","<a href=https://ratings.uschess.org/event/202604100363 target='_blank'>Checkmates on Fairmont</a>",
+"SPRING","2026-04-10","13","<a href=https://ratings.uschess.org/event/202604100273 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-04-10","2","<a href=https://ratings.uschess.org/event/202604100243 target='_blank'>FBCC Farm Animals Day Open Extra Game</a>",
+"SUGAR LAND","2026-04-10","12","<a href=https://ratings.uschess.org/event/202604100223 target='_blank'>FBCC Farm Animals Day Open</a>",
 "HOUSTON","2026-04-05","33","<a href=https://ratings.uschess.org/event/202604050193 target='_blank'>$2,500 APRIL CHAMPIONSHIP</a>",
 "HOUSTON","2026-04-05","9","<a href=https://ratings.uschess.org/event/202604050133 target='_blank'>Bellaire Sunday Swiss 2026.04.05</a>",
 "HOUSTON","2026-04-04","11","<a href=https://ratings.uschess.org/event/202604040193 target='_blank'>chesspanda04042026</a>",
@@ -94,9 +99,4 @@ jtable([
 "HOUSTON","2026-01-17","10","<a href=https://ratings.uschess.org/event/202601171123 target='_blank'>2nd Annual MLK Day Blitz</a>",
 "SUGAR LAND","2026-01-17","7","<a href=https://ratings.uschess.org/event/202601170723 target='_blank'>winter-01-17-2026</a>",
 "HOUSTON","2026-01-17","13","<a href=https://ratings.uschess.org/event/202601170333 target='_blank'>chesspanda01172026saturday</a>",
-"CYPRESS","2026-01-16","32","<a href=https://ratings.uschess.org/event/202601160313 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
-"SPRING","2026-01-16","35","<a href=https://ratings.uschess.org/event/202601160233 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-01-16","9","<a href=https://ratings.uschess.org/event/202601160203 target='_blank'>FBCC 2025 Appreciate a Dragon Day Open</a>",
-"SUGAR LAND","2026-01-11","23","<a href=https://ratings.uschess.org/event/202601110803 target='_blank'>Foundation Chess New Year Scholastic</a>",
-"HOUSTON","2026-01-11","11","<a href=https://ratings.uschess.org/event/202601110403 target='_blank'>Bellaire Swiss 1.11.26</a>",
 ]);
