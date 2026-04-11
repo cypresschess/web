@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the Menorca Chess Festival, one player is naturally in the spotlight: reigning world champion Gukesh Dommaraju. While on another, more easterly Mediterranean island his World Championship match opponent is being determined, the 19-year-old is taking part in a small but highly competitive rapid chess tournament. Following a series of disappointing results and his decision to significantly reduce his tournament schedule, he announced that he would forgo his place in this year's Grand Chess Tour. | Photo: Saji Mathew",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/menorca-gukesh",
+         "pubDate" : "Sat, 11 Apr 2026 01:35:00",
+         "title" : "Menorca Masters: Gukesh looks to stabilise form after difficult run"
+      },
+      {
          "description" : "Bodhana Sivanandan comes across as an exceptionally calm, self-driven young talent whose love for chess seems to grow naturally from curiosity, beauty, and enjoyment rather than pressure or ego. In the interview, she talks about her admiration for Capablanca, her instinctive feel for endgames, and her practical approach to improvement, often learning simply by playing, spotting mistakes, and correcting them for next time. She also reflects with striking maturity on losses, fame, expectations, and long-term goals, showing that she prefers to focus on steady progress instead of forcing milestones or assumptions about the future. Overall, the conversation paints a picture of a rare chess prodig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-r-vaishali-takes-sole-lead-with-four-rounds-to-go/articleshow/130156692.cms",
          "pubDate" : "Fri, 10 Apr 2026 01:28:48",
          "title" : "Candidates Chess: India's R Vaishali takes sole lead with four rounds to go"
-      },
-      {
-         "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus by defeating Praggnanandhaa Rameshbabu in a sharp game to reach six wins in ten rounds (with no losses). Anish Giri, who remains in sole second place, was held to a draw by Hikaru Nakamura, while Fabiano Caruana also drew. With four rounds remaining, Sindarov now leads by two points. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-10",
-         "pubDate" : "Fri, 10 Apr 2026 01:15:00",
-         "title" : "Candidates R10: There's no stopping Sindarov!"
       },
       {
          "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa, this restored a two point lead with only four rounds to go. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely, he's simply seeing too much, even then Giri would have to score almost perfectly to even catch him. The other games were drawn. Friday is a rest day. In the Women's event ",
@@ -98,28 +98,12 @@ news_feed (
          "title" : "Candidates Round 10 - Live!"
       },
       {
-         "description" : "In the course \"Mastering the London System,\" Grandmaster Elisabeth P&auml;htz presents the classical London System with an early Bf4 and explains the dynamic structures and ideas that arise from it. She systematically covers Black's main responses and compares the classical London with the Neo London to build a complete and modern repertoire. The focus is on practical understanding, enabling players of all levels to use the London System confidently and flexibly in tournament play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-mastering-the-london-system",
-         "pubDate" : "Thu, 09 Apr 2026 12:00:00",
-         "title" : "Elisabeth P&auml;htz - Mastering the London System"
-      },
-      {
          "description" : "The 2026 FIDE Candidates Tournament, after its 10th round, continues to be the GM Javokhir Sindarov show as he leads by two points. The Uzbek star scored his record-breaking sixth win against GM Praggnanandhaa Rameshbabu and can now boast the most...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-10",
          "pubDate" : "Thu, 09 Apr 2026 10:55:00",
          "title" : "Sindarov Sacs Piece For Record-Breaking 6th Win; Vaishali Leads Women's Race"
-      },
-      {
-         "description" : "Anish Giri moved into sole second place at the Candidates Tournament in Cyprus after defeating Fabiano Caruana with the black pieces in Wednesday's ninth round. Leader Javokhir Sindarov was held to a draw by Matthias Bluebaum after missing winning chances, leaving him 1&frac12; points ahead of Giri. The remaining two games were drawn, including a tense encounter in which Praggnanandhaa Rameshbabu failed to convert a clear advantage against Wei Yi. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-9",
-         "pubDate" : "Thu, 09 Apr 2026 06:10:00",
-         "title" : "Candidates R9: Giri scores crucial win, now in sole second place"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130127263.cms\" />Indian chess sensation R Vaishali secured a commanding victory over compatriot Divya Deshmukh at the Women's Candidates, seizing a co-lead. Meanwhile, R Praggnanandhaa faced another draw, struggling to convert his advantage against Wei Yi. In the Open section, Javokhir Sindarov leads the pack with 7/9 points. The tournament continues with crucial pairings in both sections.",
@@ -136,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/candidates-round-9-vaishali-zhu-lead-giri-emerges",
          "pubDate" : "Thu, 09 Apr 2026 00:00:00",
          "title" : "Candidates Round 9: Vaishali, Zhu Lead as Giri Emerges"
-      },
-      {
-         "description" : "Together with his brother Robert, Donald Byrne was among the best players in the United States in the 1970s. He won many games, but he became best known for a loss - against the then little-known Bobby Fischer. Donald Byrne died 50 years ago from an autoimmune disease. He was only 45 years old.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-donald-byrne",
-         "pubDate" : "Wed, 08 Apr 2026 21:30:00",
-         "title" : "Remembering Donald Byrne"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
@@ -176,14 +152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hans-niemann-documentary-is-untold-chess-mates-worth-watching/articleshow/130111329.cms",
          "pubDate" : "Wed, 08 Apr 2026 11:31:02",
          "title" : "Carlsen vs Hans documentary: Is 'Untold: Chess Mates' worth watching?"
-      },
-      {
-         "description" : "Javokhir Sindarov extended his lead at the Candidates Tournament in Cyprus despite only scoring a draw against Andrey Esipenko in round eight, as Fabiano Caruana, his long-time closest chaser, lost to Hikaru Nakamura. Meanwhile, Anish Giri beat Praggnanandhaa Rameshbabu to join Caruana in second place. With six rounds remaining, Sindarov now leads by two points over his closest rivals. | Photo: FIDE / Yoav Nis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-8",
-         "pubDate" : "Wed, 08 Apr 2026 06:20:00",
-         "title" : "Candidates R8: Nakamura takes down Caruana, Giri beats Pragg"
       },
       {
          "description" : "GM Sina Movahed won his second Titled Tuesday of the spring split and third of his career on April 7, scoring 10/11 to win outright. Movahed also now leads the spring split standings. GM Alexey Sarana rode an 8/8 start to finish in sole second on ...",
