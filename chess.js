@@ -10,6 +10,14 @@ news_feed (
          "title" : "Menorca Masters: Gukesh looks to stabilise form after difficult run"
       },
       {
+         "description" : "Jynxzi, the celebrity prot&#38;eacute;g&#38;eacute; of IM Levy Rozman and one of Twitch&#39;s most subscribed streamers, was crowned as the champion of Friday&#39;s $100,000 PogChamps 6 7 tournament after he swept the top seed, ohnePixel, in the final. Jynxzi, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jynxzi-wins-pogchamps-6-7",
+         "pubDate" : "Fri, 10 Apr 2026 22:14:53",
+         "title" : "Jynxzi Goes From Chess Beginner To PogChamps Hall Of Famer"
+      },
+      {
          "description" : "Bodhana Sivanandan comes across as an exceptionally calm, self-driven young talent whose love for chess seems to grow naturally from curiosity, beauty, and enjoyment rather than pressure or ego. In the interview, she talks about her admiration for Capablanca, her instinctive feel for endgames, and her practical approach to improvement, often learning simply by playing, spotting mistakes, and correcting them for next time. She also reflects with striking maturity on losses, fame, expectations, and long-term goals, showing that she prefers to focus on steady progress instead of forcing milestones or assumptions about the future. Overall, the conversation paints a picture of a rare chess prodig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/circus-chess-bots",
          "pubDate" : "Wed, 01 Apr 2026 07:26:52",
          "title" : "New Bots: The Chess Circus Comes To Town"
-      },
-      {
-         "description" : "Chessboxing is taking the world by storm. The appeal is obvious: it&#39;s the only sport that allows you to outwit your opponent with tactics and strategy&#38;mdash;or just punch them senseless if you fail to do so. With alternating rounds of chess and bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-new-chessboxing-feature",
-         "pubDate" : "Wed, 01 Apr 2026 02:00:00",
-         "title" : "Legally Punch Your Opponents With Chess.com's New Chessboxing Feature"
       },
       {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
