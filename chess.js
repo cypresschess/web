@@ -26,6 +26,14 @@ news_feed (
          "title" : "Power struggle shakes chess world"
       },
       {
+         "description" : "GM Javokhir Sindarov is in the final stretch, with three rounds left in the 2026 FIDE Candidates Tournament. All games of round 11 ended in draws, leaving Sindarov two points ahead after holding GM Fabiano Caruana. GM Praggnanandhaa Rameshbabu cam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-11",
+         "pubDate" : "Sat, 11 Apr 2026 11:39:00",
+         "title" : "Sindarov Holds Caruana, Vaishali Extends Women's Lead"
+      },
+      {
          "description" : "Four rounds have been played at the European Individual Chess Championship 2026 in Katowice, Poland, and only two players remain with a perfect score of 4/4 points! GM Robert Hovhannisyan (ARM, 2621) and GM Eduardo Iturrizaga Bonelli (ESP, 2575) each scored a maximum 4/4 points to head into the first free day of the tournament as the early co-leaders. GM Robert Hovhannisyan took a victory yesterday against GM Dimitris Alexakis (GRE, 2528) in a very sharp Sicilian game. Alexakis made []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-becomes-britains-no-1-female-player/",
          "pubDate" : "Wed, 01 Apr 2026 13:45:36",
          "title" : "Bodhana Sivanandan Becomes Britain's No. 1 Female Player"
-      },
-      {
-         "description" : "GM Javokhir Sindarov grabbed the sole lead at the 2026 FIDE Candidates Tournament on Wednesday, reaching a fantastic plus-three score by beating co-leader GM Fabiano Caruana. GM Anish Giri got back to a 50-percent score by beating GM Andrey Esipen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-4",
-         "pubDate" : "Wed, 01 Apr 2026 11:21:00",
-         "title" : "Sindarov Takes Down Caruana To Grab Sole Lead; Giri Beats Esipenko"
       },
       {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
