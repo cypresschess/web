@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays black against Fabiano Caruana in Saturday's eleventh round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Sat, 11 Apr 2026 14:15:00",
+         "title" : "Candidates Round 11 - Live!"
+      },
+      {
+         "description" : "On February 6th I shared a story of how I got thrown off my best game in a Padel match by unfair/toxic behavior of opponents. I wrote: &#8220;This is my main focus for my upcoming matches: play my best, especially when this trigger comes up.&#8221; Two months later I had a lot of opportunities to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/messy-truth-chess-improvement-progress/",
+         "pubDate" : "Sat, 11 Apr 2026 13:00:00",
+         "title" : "The Messy Truth About Getting Better"
+      },
+      {
+         "description" : "It has long been my observation that the gravest disturbances in any established order seldom announce themselves with fanfare, but rather emerge-quietly at first-through the accumulation of small and telling irregularities. Such, I think, is the case in the present upheaval within the world of chess, a domain which, though ancient in its origins, now []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/power-struggle-shakes-chess-world/",
+         "pubDate" : "Sat, 11 Apr 2026 12:16:53",
+         "title" : "Power struggle shakes chess world"
+      },
+      {
          "description" : "Four rounds have been played at the European Individual Chess Championship 2026 in Katowice, Poland, and only two players remain with a perfect score of 4/4 points! GM Robert Hovhannisyan (ARM, 2621) and GM Eduardo Iturrizaga Bonelli (ESP, 2575) each scored a maximum 4/4 points to head into the first free day of the tournament as the early co-leaders. GM Robert Hovhannisyan took a victory yesterday against GM Dimitris Alexakis (GRE, 2528) in a very sharp Sicilian game. Alexakis made []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-intention-of-watching-world-no-2-hikaru-nakamura-on-magnus-carlsen-vs-hans-niemann-documentary/articleshow/130149703.cms",
          "pubDate" : "Thu, 09 Apr 2026 17:20:41",
          "title" : "'No intention of watching': Nakamura on Carlsen vs Hans documentary"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays white against Praggnanandhaa Rameshbabu in Thursday's tenth round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Thu, 09 Apr 2026 14:15:00",
-         "title" : "Candidates Round 10 - Live!"
       },
       {
          "description" : "The 2026 FIDE Candidates Tournament, after its 10th round, continues to be the GM Javokhir Sindarov show as he leads by two points. The Uzbek star scored his record-breaking sixth win against GM Praggnanandhaa Rameshbabu and can now boast the most...",
@@ -880,22 +896,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
          "pubDate" : "Mon, 23 Mar 2026 07:26:23",
          "title" : "European Open and Women's Chess Club Cups 2026 - Official invitation"
-      },
-      {
-         "description" : "Playing with good focus is key to improving your chess. But I've realized that this advice often drives students into a dangerous trap: perfectionism. They wait for the &#8220;perfect&#8221; moment to play, and as a result, it becomes harder and harder to get themselves to actually play games. When this happens, what was supposed to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/stop-waiting-for-perfect-focus/",
-         "pubDate" : "Sat, 21 Mar 2026 14:00:00",
-         "title" : "Stop Waiting for Perfect Focus (And Just Play)"
-      },
-      {
-         "description" : "The 2026 Varsity Chess Match between Oxford University and Cambridge University is the premier chess social event of the year. This traditional 144th contest , the longest running chess fixture in the world, was held at the Royal Automobile Club, Pall Mall, London, on 7 March 2026 , with The Royal Automobile Club also sponsoring the occasion. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/last-minute-tie-at-the-varsity-chess-match/",
-         "pubDate" : "Sat, 21 Mar 2026 11:59:33",
-         "title" : "Last-minute tie at the Varsity Chess Match"
       }
    ]
 }
