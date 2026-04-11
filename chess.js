@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four rounds have been played at the European Individual Chess Championship 2026 in Katowice, Poland, and only two players remain with a perfect score of 4/4 points! GM Robert Hovhannisyan (ARM, 2621) and GM Eduardo Iturrizaga Bonelli (ESP, 2575) each scored a maximum 4/4 points to head into the first free day of the tournament as the early co-leaders. GM Robert Hovhannisyan took a victory yesterday against GM Dimitris Alexakis (GRE, 2528) in a very sharp Sicilian game. Alexakis made []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/only-two-players-remain-perfect-after-four-played-rounds-at-eicc2026/",
+         "pubDate" : "Sat, 11 Apr 2026 10:13:16",
+         "title" : "Only two players remain perfect after four played rounds at EICC2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130187919.cms\" />Uzbekistan's Javokhir Sindarov is on the cusp of winning the FIDE Candidates 2026, poised to challenge World Champion D Gukesh. His rapid play and impressive unbeaten streak have captivated the chess world. Managed by Tom Guilbaud, Sindarov's career has transformed from obscurity to a top contender, aided by strategic social media promotion and newfound sponsorships.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-d-gukeshs-likely-world-cship-challenger-cracks-code-for-sponsorship-woes-in-chess/articleshow/130187919.cms",
+         "pubDate" : "Sat, 11 Apr 2026 09:12:26",
+         "title" : "Sindarov, Gukesh's likely challenger, cracks code for sponsorship woes in chess"
+      },
+      {
          "description" : "At the Menorca Chess Festival, one player is naturally in the spotlight: reigning world champion Gukesh Dommaraju. While on another, more easterly Mediterranean island his World Championship match opponent is being determined, the 19-year-old is taking part in a small but highly competitive rapid chess tournament. Following a series of disappointing results and his decision to significantly reduce his tournament schedule, he announced that he would forgo his place in this year's Grand Chess Tour. | Photo: Saji Mathew",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,8 +30,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jynxzi-wins-pogchamps-6-7",
-         "pubDate" : "Fri, 10 Apr 2026 22:14:53",
+         "pubDate" : "Fri, 10 Apr 2026 22:14:00",
          "title" : "Jynxzi Goes From Chess Beginner To PogChamps Hall Of Famer"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Matthias Bluebaum have fallen out of contention in the ongoing FIDE Candidates Tournament. That didn&#39;t stop them from trying their luck in 3 0 Thursday after completing their game in the Candidates. Both players played well...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-duda-taher-3-0-thursday-04-09-2026",
+         "pubDate" : "Fri, 10 Apr 2026 20:36:00",
+         "title" : "Candidates Fall Short, Minh Le, Duda, Taher Win 3 0 Thursday"
       },
       {
          "description" : "Bodhana Sivanandan comes across as an exceptionally calm, self-driven young talent whose love for chess seems to grow naturally from curiosity, beauty, and enjoyment rather than pressure or ego. In the interview, she talks about her admiration for Capablanca, her instinctive feel for endgames, and her practical approach to improvement, often learning simply by playing, spotting mistakes, and correcting them for next time. She also reflects with striking maturity on losses, fame, expectations, and long-term goals, showing that she prefers to focus on steady progress instead of forcing milestones or assumptions about the future. Overall, the conversation paints a picture of a rare chess prodig",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "April Monthly Ratings and Website Issues - 2nd April"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129977072.cms\" />World No. 2 American grandmaster Hikaru Nakamura criticised FIDE's anti-cheating measures at the 2026 Candidates in Cyprus, calling them \"complete nonsense.\" He joked, \"Are we like Mossad agents inside Iran or something?\" Nakamura hasn't raised concerns with FIDE, saying the fears are overblown. After four rounds, he has 1.5 points, sharing results with Anish Giri, Andrey Esipenko, and Wei Yi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/are-we-mossad-agents-in-iran-world-no-2-usa-gm-hikaru-nakamura-blasts-fide/articleshow/129977072.cms",
-         "pubDate" : "Thu, 02 Apr 2026 11:29:25",
-         "title" : "'Are we Mossad agents in Iran?': World No. 2 USA Nakamura blasts FIDE"
-      },
-      {
          "description" : "While his compatriot GM Javokhir Sindarov carves up at the 2026 FIDE Candidates Tournament, GM Nodirbek Abdusattorov has quietly moved into fourth position on the April FIDE classical rating list after a commanding victory at the 2026 Prague Inter...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-4",
          "pubDate" : "Wed, 01 Apr 2026 11:21:00",
          "title" : "Sindarov Takes Down Caruana To Grab Sole Lead; Giri Beats Esipenko"
-      },
-      {
-         "description" : "Step right up, come one, come all! The Chess.com circus is in town for one month only, putting on chess performances the likes of which you&#38;rsquo;ve never seen before. Go head-to-head against each entertainer, from the mind-bending Contortionist t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/circus-chess-bots",
-         "pubDate" : "Wed, 01 Apr 2026 07:26:52",
-         "title" : "New Bots: The Chess Circus Comes To Town"
       },
       {
          "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
