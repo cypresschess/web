@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase&acute;26 also impresses with its clarity: Analysing with multiple menu windows without losing the overview is no problem. Are you familiar with the six standard layouts or do you prefer your own? Explore the options and try them all out. You will be amazed at how you can use this ChessBase feature to visually organise your analysis in a meaningful and effective way.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-10-standard-layout-or-custom-layout",
+         "pubDate" : "Sun, 12 Apr 2026 06:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips Part 10: Standard Layout or Custom Layout"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130201895.cms\" />Playing with the black pieces in Round 11 on Saturday, she claimed a jaw-dropping win over the former World Championship challenger Aleksandra Goryachkina.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
