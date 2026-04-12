@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130201895.cms\" />Playing with the black pieces in Round 11 on Saturday, she claimed a jaw-dropping win over the former World Championship challenger Aleksandra Goryachkina.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-indias-vaishali-trapped-russians-rook-to-extend-lead-at-the-top/articleshow/130201895.cms",
+         "pubDate" : "Sun, 12 Apr 2026 03:12:08",
+         "title" : "Candidates Chess: How Vaishali trapped Russian's rook to extend lead at the top"
+      },
+      {
          "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-defends-confidently-against-caruana-vaishali-moves-a-point-clear-in-the-womens-event.-candidates-round-11",
          "pubDate" : "Sat, 11 Apr 2026 23:58:00",
          "title" : "Sindarov defends confidently against Caruana, Vaishali moves a point clear in the women's event. Candidates Round 11 - 11"
+      },
+      {
+         "description" : "IM Renato Terry blazed to a second straight Bullet Brawl&#38;nbsp;victory on Saturday after triumphing over GM Jose Martinez in a sprint to the finish. Martinez and Terry were neck and neck for most of the second half until a 10-game winning streak sa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/renato-terry-wins-bullet-brawl-april-11-2026",
+         "pubDate" : "Sat, 11 Apr 2026 19:32:00",
+         "title" : "Terry Triumphs Over Martinez In Final Sprint"
       },
       {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays black against Fabiano Caruana in Saturday's eleventh round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "Carlsen On 10/10 As Grenke Chess Festival Takes Off In Karlsruhe"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129987999.cms\" />Ukraine's Anna Muzychuk defeated Russia's Kateryna Lagno in Round 4 of the Women's Candidates 2026, with no handshake or acknowledgement reflecting ongoing geopolitical tensions. Muzychuk's precise play exploited Lagno's critical error on move 28, winning in 31 moves. The victory puts Muzychuk atop the leaderboard with 2.5 points, tied with Bibisara Assaubayeva. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-handshake-row-hits-fide-candidates-2026-watch/articleshow/129987999.cms",
-         "pubDate" : "Fri, 03 Apr 2026 01:30:00",
-         "title" : "No handshake row hits FIDE Candidates 2026 - Watch"
-      },
-      {
          "description" : " Javokhir Sindarov put a major marker down by beating Fabiano Caruana in Round 4 of the Candidates, the two were sharing the lead. Sindarov was one of the favourites before the event alongside Caruana. Sindarov has started with 3.5/4, whilst there's an extremely long way to go he looks in very fine form. In the women's event Bibisara Assaubayeva and Anna Muzychuk share the lead on 2.5/5 half a point clear of most of the rest of the players. Thursday sees the first rest day. Round 4 (of 14) Standings: 1st Javokhir Sindarov, 3&frac12;/4. 2nd Fabiano Caruana, 2&frac12;. 3rd-5th Matthias Bluebaum, R Praggnanandhaa and Anish Giri, 2. 6th-7th Yi Wei and Hikaru Nakamura, 1&frac12;. 8th Andrey Esipe",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/april-2026-fide-ratings",
          "pubDate" : "Thu, 02 Apr 2026 07:29:00",
          "title" : "Abdusattorov Ascends To World Number 4; Bodhana Cracks Into Women's Top 100"
-      },
-      {
-         "description" : "GM Amin Tabatabaei has continued his golden run in classical chess by pulling off one of the greatest results of his career, an outright victory with a performance rating of 2849 in the 422-player strong 2026 Reykjavik Open. Although Tabatabaei ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tabatabaei-wins-2026-reykjavik-chess-open",
-         "pubDate" : "Wed, 01 Apr 2026 19:25:00",
-         "title" : "Tabatabaei's Golden Run Continues With Reykjavik Open Demolition"
       },
       {
          "description" : "Please note that the ECF month-end rating process did not run last night, which means that this month's official ratings have not yet been published. We are currently working on...",
