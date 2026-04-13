@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-04-12","12","<a href=https://ratings.uschess.org/event/202604120303 target='_blank'>2026 Houston Circuit T4 by AzChAcad</a>",
+"HOUSTON","2026-04-12","16","<a href=https://ratings.uschess.org/event/202604120263 target='_blank'>Bellaire Sunday Swiss 2026.04.12</a>",
+"HOUSTON","2026-04-11","226","<a href=https://ratings.uschess.org/event/202604111083 target='_blank'>Impact Academy Chess Tournament</a>",
 "HOUSTON","2026-04-11","11","<a href=https://ratings.uschess.org/event/202604110283 target='_blank'>chesspanda04112026saturday</a>",
 "CYPRESS","2026-04-10","52","<a href=https://ratings.uschess.org/event/202604100383 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2026-04-10","16","<a href=https://ratings.uschess.org/event/202604100363 target='_blank'>Checkmates on Fairmont</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2026-01-23","21","<a href=https://ratings.uschess.org/event/202601230273 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-01-18","58","<a href=https://ratings.uschess.org/event/202601180753 target='_blank'>2nd Annual MLK Day Open</a>",
 "HOUSTON","2026-01-18","79","<a href=https://ratings.uschess.org/event/202601180623 target='_blank'>MLK Day Scholastic 2026</a>",
-"HOUSTON","2026-01-18","9","<a href=https://ratings.uschess.org/event/202601180223 target='_blank'>Bellaire Sunday Swiss 2026.01.18</a>",
-"HOUSTON","2026-01-17","10","<a href=https://ratings.uschess.org/event/202601171123 target='_blank'>2nd Annual MLK Day Blitz</a>",
-"SUGAR LAND","2026-01-17","7","<a href=https://ratings.uschess.org/event/202601170723 target='_blank'>winter-01-17-2026</a>",
 ]);
