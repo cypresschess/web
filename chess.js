@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
+         "pubDate" : "Tue, 14 Apr 2026 18:03:51",
+         "title" : "Javokhir Sindarov earns world chess title shot with stunning Candidates win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130264726.cms\" />Javokhir Sindarov clinched the FIDE Candidates 2026 title with a round to spare after an unbeaten run, sealing qualification for the World Championship with a draw against Anish Giri. The Uzbek GM showed consistency throughout, starting with a win over Andrey Esipenko and maintaining control with key draws. He will now face reigning champion D Gukesh for the title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-javokhir-sindarov-wins-candidates-2026-sets-up-world-chess-championship-clash-with-d-gukesh/articleshow/130264726.cms",
+         "pubDate" : "Tue, 14 Apr 2026 17:09:40",
+         "title" : "Sindarov wins Candidates, sets up World C'ship clash with D Gukesh"
+      },
+      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Tuesday's penultimate round, all that Javokhir Sindarov needs to win the tournament is to get a draw in his encounter with black against Anish Giri. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elo-boost-a-gm-hike-in-behind-the-scenes-day-2",
          "pubDate" : "Tue, 14 Apr 2026 12:05:10",
          "title" : "Elo Boost - A GM hike in Cyprus 🇨🇾 | Behind the Scenes - Day 2"
+      },
+      {
+         "description" : "St. Louis University (SLU) and the University of Missouri-Columbia (Mizzou) have combined to win the last seven Collegiate Chess League championships, but the spring 2026 season will crown a new champion. The SRM Institute of Science and Technolog...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoff-update",
+         "pubDate" : "Tue, 14 Apr 2026 11:38:39",
+         "title" : "SRM, UTD Ensure A New CCL Champion"
+      },
+      {
+         "description" : "GM Javokhir Sindarov has won the 2026 FIDE Candidates Tournament with a round to spare after a draw against GM Anish Giri in round 13. More importantly than the &#38;euro;70,000 prize, he will be the next challenger to GM Gukesh Dommaraju for the worl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
+         "pubDate" : "Tue, 14 Apr 2026 11:28:00",
+         "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
       },
       {
          "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
       },
       {
+         "description" : "You can now personalize your Chessable training like never before. Curate your repertoire with the very best parts of each course with the new Repertoire feature. Add variations or entire chapters to your own custom course&#38;mdash;and then add a per...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chessable-repertoire",
+         "pubDate" : "Tue, 14 Apr 2026 08:55:14",
+         "title" : "Create Your Own Curated Opening Repertoire with Chessable's Newest Feature"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130254074.cms\" />In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women's Freestyle Chess World Championship, which is set to take place next year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -70,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-wins-gukesh-struggles-in-menorca-open-masters",
-         "pubDate" : "Tue, 14 Apr 2026 06:36:08",
+         "pubDate" : "Tue, 14 Apr 2026 06:36:00",
          "title" : "Nihal Wins, Gukesh Struggles In Menorca Open Masters"
       },
       {
@@ -88,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/10-year-old-aarit-kapil-defeats-grandmaster-scores-first-im-norm",
          "pubDate" : "Tue, 14 Apr 2026 00:58:00",
          "title" : "Aarit Kapil, 10, Scores First IM Norm After Beating Grandmaster"
+      },
+      {
+         "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-21st-annual-kcf-all-girls-championship-pt-1",
+         "pubDate" : "Tue, 14 Apr 2026 00:00:00",
+         "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 1"
       },
       {
          "description" : "After six played rounds at the European Individual Chess Championship 2026, GM Vignir Vatnar Stefansson (ISL, 2512) emerged as the sole leader of the event with the score of 5.5/6 points! GM Vignir Vatnar Stefansson prevailed today with the black pieces against GM Lorenzo Lodici (ITA, 2601) in a very tense game. After balanced opening where Black looked okay, Stefansson managed to take the clear edge and win the pawn transposing to complex Queens endgame. Lodici had his chances to []",
@@ -578,14 +626,6 @@ news_feed (
          "title" : "Candidates Chess: How Vaishali beat former World champion Tan for 2nd consecutive win"
       },
       {
-         "description" : "What is this announcement?The USA will not send an official delegation to the 2026 Continental.Accordingly, US Chess will not be handling any registration, paperwork, or related administrative matters for this event. US Chess will also not issue endorsement letters or \"no objection\" letters. Why was this decision made?The 2026 Continental Championships are scheduled for June 1-11, 2026, located at Carretera Cocoyoc - Oaxtepec Km 2.5, Centro, 62738, Morelos, Mexico.Currently, the nation of Mexico is under a Level 2 travel advisory from the U.S. Department of State, however, the State of Morelos is a Level 3 designated area, which is defined as \"reconsider travel.\" The advisory further states ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-announcement-about-2026-continental",
-         "pubDate" : "Mon, 06 Apr 2026 00:00:00",
-         "title" : "US Chess Announcement About the 2026 Continental"
-      },
-      {
          "description" : " Javokhir Sindarov has finished the first half of the FIDE Candidates on 6/7 following a draw against Anish Giri. Although Sindarov was better Giri's defence was very accurate and really there didn't seem to be any winning chances. The only decisive game of the day was when Wei Yi took advantage of a gruesome blunder by Andrey Esipenko, this was a case of Esipenko mixing up his move order in a sharp position and being left with a position that was basically unplayable. Bluebaum vs Nakamura and Praggnanandhaa vs Caruana were both drawn in games not without interest. In the Women's event Anna Muzychuk still leads, Rameshbabu Vaishali hasn't looked all that convincing but two days of turn aroun",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -632,14 +672,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-in-danger-of-running-away-with-the-candidates-after-he-moves-to-5.56",
          "pubDate" : "Sun, 5 Apr 2026 02:23:00",
          "title" : "Sindarov in danger of running away with the Candidates after he moves to 5.5/6 - 6"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130031071.cms\" />Javokhir Sindarov continues his dominant run in the FIDE Candidates Open section, widening his lead. In the Women's category, Indian players Vaishali Rameshbabu and Divya Deshmukh secured crucial wins, though their victories relied heavily on opponent errors. The Indian challenge in the Open section, led by Praggnanandhaa, lags significantly behind the leader.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vaishali-divya-deshmukh-save-indian-blushes-praggnanandhaa-must-act-now/articleshow/130031071.cms",
-         "pubDate" : "Sun, 05 Apr 2026 00:48:52",
-         "title" : "Candidates: Vaishali, Divya Deshmukh save Indian blushes; Pragg must act now"
       },
       {
          "description" : "Once again it was all about GM Javokhir Sindarov in the 2026 FIDE Candidates Tournament as the Uzbek star won a difficult position against GM Wei Yi to move to a mind-blowing 5.5/6. He leads his closest pursuer GM Fabiano Caruana by 1.5 points aft...",
@@ -722,36 +754,12 @@ news_feed (
          "title" : "Martinez Notches Back-To-Back Double Wins In 3 0 Thursdays"
       },
       {
-         "description" : "IM Renato Terry won the first Freestyle Friday of April by a full point, scoring 9.5/11. Even with the FIDE Candidates and the Grenke Chess Festival occurring at the same time, the Freestyle Friday Championship continued apace, and Terry moved int...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/terry-wins-freestyle-friday-april-3-2026",
-         "pubDate" : "Fri, 03 Apr 2026 14:02:00",
-         "title" : "Terry Time As Peruvian IM Wins Freestyle Friday By Full Point"
-      },
-      {
-         "description" : "19 players are still on a perfect score after three rounds in the Grenke Chess Freestyle Open, including big names such as GMs Magnus Carlsen, Ian Nepomniachtchi, Hans Niemann, and Vincent Keymer. In round 3, Carlsen seemed to be close to dropping...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grenke-freestyle-chess-open-day-2",
-         "pubDate" : "Fri, 03 Apr 2026 13:04:00",
-         "title" : "Carlsen, Nepomniachtchi, Niemann, Keymer Among 19 Players On 3/3 At Grenke"
-      },
-      {
          "description" : "Introduction The first quarter of 2026 marked an active and strategically important period for the European Chess Union (ECU). Across competition, education, and communications, the ECU continued to advance its institutional mission of promoting and developing chess throughout Europe. The period from January to March 2026 reflected the organization's ongoing commitment to high-level event delivery, professional training, and the strengthening of its public presence. Major Events A principal activity during the reporting period was the European Women's Rapid and Blitz []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-activities-report-january-march-2026/",
          "pubDate" : "Fri, 03 Apr 2026 12:23:09",
          "title" : "ECU Activities Report: January - March 2026"
-      },
-      {
-         "description" : "The Collegiate Chess League Spring 2026 Season Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Will SLU defend their championship title, or will UT Dallas get their revenge and their first ever CCL Champ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/win-prizes-in-the-spring-2026-ccl-predictions-challenge",
-         "pubDate" : "Fri, 03 Apr 2026 12:07:52",
-         "title" : "Win Prizes In The Spring 2026 CCL Predictions Challenge"
       },
       {
          "description" : " Have you been following the big stories in football, cricket, rugby league, boxing, golf, F1, athletics, rowing and chess? <a href=\"https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess\">Continue reading...</a>",
