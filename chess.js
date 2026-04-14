@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov secured overall victory at the Candidates Tournament in Cyprus with a draw against Anish Giri in round thirteen. The 20-year-old clinched first place with a round to spare and will face Gukesh Dommaraju for the world title later this year. Wei Yi scored the only win of the day, while the remaining games were drawn, leaving the standings settled at the top. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-13",
+         "pubDate" : "Tue, 14 Apr 2026 21:35:00",
+         "title" : "Candidates R13: Sindarov secures overall victory with a round to spare!"
+      },
+      {
          "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-javokhir-sindarov-wins-candidates-2026-sets-up-world-chess-championship-clash-with-d-gukesh/articleshow/130264726.cms",
          "pubDate" : "Tue, 14 Apr 2026 17:09:40",
          "title" : "Sindarov wins Candidates, sets up World C'ship clash with D Gukesh"
+      },
+      {
+         "description" : "GM Javokhir Sindarov has won the 2026 FIDE Candidates Tournament with a round to spare after a draw against GM Anish Giri in round 13. More important than the &#38;euro;70,000 prize, he will be the next challenger to GM Gukesh Dommaraju for the world ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
+         "pubDate" : "Tue, 14 Apr 2026 14:28:00",
+         "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
       },
       {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Tuesday's penultimate round, all that Javokhir Sindarov needs to win the tournament is to get a draw in his encounter with black against Anish Giri. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoff-update",
          "pubDate" : "Tue, 14 Apr 2026 11:38:39",
          "title" : "SRM, UTD Ensure A New CCL Champion"
-      },
-      {
-         "description" : "GM Javokhir Sindarov has won the 2026 FIDE Candidates Tournament with a round to spare after a draw against GM Anish Giri in round 13. More importantly than the &#38;euro;70,000 prize, he will be the next challenger to GM Gukesh Dommaraju for the worl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
-         "pubDate" : "Tue, 14 Apr 2026 11:28:00",
-         "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
       },
       {
          "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
