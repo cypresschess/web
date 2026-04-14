@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Tuesday's penultimate round, all that Javokhir Sindarov needs to win the tournament is to get a draw in his encounter with black against Anish Giri. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Tue, 14 Apr 2026 14:15:00",
+         "title" : "Candidates Round 13 - Live!"
+      },
+      {
          "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g8",
          "pubDate" : "Tue, 14 Apr 2026 07:10:00",
          "title" : "Niemann two points ahead in Paris match against Liang"
+      },
+      {
+         "description" : "GM Nihal Sarin won the Menorca Open Masters, scoring two wins against World Champion Gukesh Dommaraju along the way. Nihal&#39;s 6/10 score was enough for clear first place, half a point ahead of GMs Ruslan Ponomariov and Richard Rapport. Gukesh had t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-wins-gukesh-struggles-in-menorca-open-masters",
+         "pubDate" : "Tue, 14 Apr 2026 06:36:08",
+         "title" : "Nihal Wins, Gukesh Struggles In Menorca Open Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130250522.cms\" />",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Sindarov on the brink of winning the Candidates after Round 12, Zhu beats Vaishali to catch her in the Women's event - 12"
       },
       {
-         "description" : "The 21st Kasparov Chess Foundation (KCF) All-Girls National Chess Championship broke its own attendance record with a total of 607 girls competing across the six age-based sections, up from 546 players the year before. Taking place April 10 through 12 at the Hyatt Regency McCormick Place in downtown Chicago, the tournament was organized in partnership with the Renaissance Knights Chess Foundation and US Chess. As this national event enters its third decade of empowering young female chess players, the future is bright. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Players came from 37 states - plus Washington, D.C. and Vancouver, British Columbia - up from 33 states t",
+         "description" : "The 21st Kasparov Chess Foundation (KCF) All-Girls National Chess Championship broke its own attendance record with a total of 601 girls competing across the six age-based sections, up from 546 players the year before. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Taking place April 10 through 12 at the Hyatt Regency McCormick Place in downtown Chicago, the tournament was organized in partnership with the Renaissance Knights Chess Foundation and US Chess. As this national event enters its third decade of empowering young female chess players, the future is bright. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Players came from 37 states - plus ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/21st-kcf-all-girls-national-breaks-records-over-600-attendees",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess",
          "pubDate" : "Fri, 03 Apr 2026 11:03:26",
          "title" : "Sports quiz of the week: World Cup, Masters and County Championship"
-      },
-      {
-         "description" : "Two newly-released clips from Netflix&#38;rsquo;s upcoming Untold: Chess Mates documentary offer glimpses into both sides of the Carlsen vs. Niemann saga, featuring candid reflections from GMs Magnus Carlsen, Hans Niemann, and Hikaru Nakamura, just da...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-releases-new-clip-from-untold-chess-mates-documentary",
-         "pubDate" : "Fri, 03 Apr 2026 08:01:00",
-         "title" : "'He's A Good Player Who Talks A Lot': Carlsen On Niemann In New Netflix Clip"
       },
       {
          "description" : " The Uzbek grandmaster has scored 3.5/4, including an impressive victory against the world No 3 and Candidates favourite, Fabiano Caruana Javokhir Sindarov is already the clear favourite to win the 2026 Candidates in Cyprus and to challenge India's Gukesh Dommaraju for the world crown after the Uzbek grandmaster, 20, began the tournament with a commanding 3.5/4, including an <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-4/97di6JjX/Jzyakrf4\">impressive victory</a> against the pre-tournament favourite and world No 3, Fabiano Caruana. It is the fastest ever start by a player under the format of a double-round Candidates. Sindarov's seconds correctly anticipated that Car",
