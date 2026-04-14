@@ -2,12 +2,172 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "ChessBase&acute;26 also impresses with its clarity: Analysing with multiple menu windows without losing the overview is no problem. Are you familiar with the six standard layouts or do you prefer your own? Explore the options and try them all out. You will be amazed at how you can use this ChessBase feature to visually organise your analysis in a meaningful and effective way.",
+         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-10-standard-layout-or-custom-layout",
-         "pubDate" : "Sun, 12 Apr 2026 06:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips Part 10: Standard Layout or Custom Layout"
+         "link" : "https://en.chessbase.com/post/elo-boost-a-gm-hike-in-behind-the-scenes-day-2",
+         "pubDate" : "Tue, 14 Apr 2026 12:05:10",
+         "title" : "Elo Boost - A GM hike in Cyprus 🇨🇾 | Behind the Scenes - Day 2"
+      },
+      {
+         "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report35th-national-under-17-open-girls-chess-championships-2026/",
+         "pubDate" : "Tue, 14 Apr 2026 11:22:48",
+         "title" : "Final Report:35th National Under-17 Open & Girls Chess Championships - 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130257408.cms\" />Harika Dronavalli clarified viral handshake incident with Nodirbek Yakubboev, saying there was no disrespect. He had pre-informed her he cannot do handshakes due to religious beliefs, and her instinctive resignation gesture caused confusion. She urged social media not to blame him. Similar past incidents exist with Vaishali Rameshbabu. Harika stressed mutual respect and focus on chess, despite controversy overshadowing results.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-handshake-indias-harika-dronavalli-breaks-silence-on-uzbek-gms-namaste-exclusive/articleshow/130257408.cms",
+         "pubDate" : "Tue, 14 Apr 2026 11:04:20",
+         "title" : "No handshake! India's Harika breaks silence on Uzbek GM's 'Namaste'"
+      },
+      {
+         "description" : "It should be clearly emphasized that the longest chess game of all time can only arise by chance. Any prior agreement between the opponents before the game-such as, \"Let's play the longest game in history today!\" - or any such understanding reached during the game, automatically turns them into cheaters, with all the ensuing consequences. Estonian chess expert and trainer, Valery Golubenko, tells us about the struggle to regulate very long theoretical endings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-4",
+         "pubDate" : "Tue, 14 Apr 2026 11:00:00",
+         "title" : "A Game That Outlasted the Day (4)"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Andhra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in ANDHRA UNIVERSITY, VISAKHAPTNAM . Eligibility: Eligibility: Every",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-andhra-university-visakhaptnam-on-02-03-may-2026-2-bathes/",
+         "pubDate" : "Tue, 14 Apr 2026 10:55:22",
+         "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130254074.cms\" />In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women's Freestyle Chess World Championship, which is set to take place next year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
+         "pubDate" : "Tue, 14 Apr 2026 07:57:06",
+         "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
+      },
+      {
+         "description" : "After eight games of their twelve-game match in Paris, Hans Niemann leads Awonder Liang by two points, having scored the only victories so far in games three and eight. The remaining six encounters have been drawn, though Liang missed clear chances in two of them. Niemann's most recent win came with black in a 31-move game, leaving Liang with limited time to respond as the match heads into its final two days. | Photo: Blitz Society",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g8",
+         "pubDate" : "Tue, 14 Apr 2026 07:10:00",
+         "title" : "Niemann two points ahead in Paris match against Liang"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130250522.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-is-joint-leader-vaishali-ready-for-final-push/articleshow/130250522.cms",
+         "pubDate" : "Tue, 14 Apr 2026 03:52:22",
+         "title" : "Candidates Chess: Is joint-leader Vaishali ready for final push?"
+      },
+      {
+         "description" : "As a nine-year-old last year, FM Aarit Kapil stunned none other than GM Magnus Carlsen by making a draw against him in Chess.com&#39;s Titled Tuesday. Recently, he also broke the 3000 barrier on Chess.com, and now the Indian prodigy has become one of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/10-year-old-aarit-kapil-defeats-grandmaster-scores-first-im-norm",
+         "pubDate" : "Tue, 14 Apr 2026 00:58:00",
+         "title" : "Aarit Kapil, 10, Scores First IM Norm After Beating Grandmaster"
+      },
+      {
+         "description" : "After six played rounds at the European Individual Chess Championship 2026, GM Vignir Vatnar Stefansson (ISL, 2512) emerged as the sole leader of the event with the score of 5.5/6 points! GM Vignir Vatnar Stefansson prevailed today with the black pieces against GM Lorenzo Lodici (ITA, 2601) in a very tense game. After balanced opening where Black looked okay, Stefansson managed to take the clear edge and win the pawn transposing to complex Queens endgame. Lodici had his chances to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gm-vignir-vatnar-stefansson-takes-sole-lead-in-european-individual-chess-championship-2026/",
+         "pubDate" : "Mon, 13 Apr 2026 21:00:59",
+         "title" : "GM Vignir Vatnar Stefansson takes sole lead in European Individual Chess Championship"
+      },
+      {
+         "description" : "Nihal Sarin claimed outright victory at the Masters section of the Open Chess Menorca 2026. He ultimately finished half a point ahead of Ruslan Ponomariov and Richard Rapport. A further point behind finished world champion Gukesh Dommaraju and Leinier Dom&iacute;nguez. What conclusions the world champion can draw from this performance regarding his form is something only he can assess. | Photo: Saji Mathew",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/menorca-masters-2026-final-report",
+         "pubDate" : "Mon, 13 Apr 2026 20:15:00",
+         "title" : "Nihal wins Menorca Masters, Gukesh finishes in fourth place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130237146.cms\" />Indian chess prodigy Nihal Sarin brushed off an online opponent's rude gesture earlier this year, focusing instead on his game. Since then, he has surged in form, reaching a career-high rating of 2723, winning the Menorca Masters, and beating world champion D Gukesh twice. He will now aim to qualify for the Esports World Cup 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-middle-finger-moment-to-double-over-world-chess-champion-d-gukesh-what-is-next-for-nihal-sarin/articleshow/130237146.cms",
+         "pubDate" : "Mon, 13 Apr 2026 12:43:51",
+         "title" : "From middle finger moment to double over Gukesh: What is next for Sarin?"
+      },
+      {
+         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inside-the-candidates-2026-in-cyprus-behind-the-scenes-day-1",
+         "pubDate" : "Mon, 13 Apr 2026 12:02:03",
+         "title" : "Inside the Candidates 2026 in Cyprus 🇨🇾 | Behind the Scenes - Day 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130228295.cms\" />Youngest World Cup winner Javokhir Sindarov is on the cusp of Candidates glory, needing just a draw to secure the title after an effortless draw with Hikaru Nakamura. He maintains an unbeaten run and leads by two points, setting up a potential Generation Z clash with D Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-one-draw-away-from-glory-gukesh-clash-looms/articleshow/130228295.cms",
+         "pubDate" : "Mon, 13 Apr 2026 06:35:11",
+         "title" : "Candidates Chess: Sindarov one draw away from glory; Gukesh clash looms"
+      },
+      {
+         "description" : "Javokhir Sindarov maintained his two-point lead at the Candidates Tournament in Cyprus after a quick draw with Hikaru Nakamura in round twelve. Anish Giri missed a major chance to close the gap, drawing a long and complex game against Wei Yi. The remaining two games were also drawn, leaving Sindarov firmly in control with two rounds to play. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-12",
+         "pubDate" : "Mon, 13 Apr 2026 06:30:00",
+         "title" : "Candidates R12: Sindarov a draw away from overall victory, as Giri misses big chance against Wei"
+      },
+      {
+         "description" : "BP will be published soon. S.NO Name Team 1 VISAKH N R &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A 2 GUSAIN HIMAL &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-team-in-raipur-chhattisgarh-from-16-22-march-2026/",
+         "pubDate" : "Mon, 13 Apr 2026 05:58:10",
+         "title" : "Certificate :National Team in Raipur ,Chhattisgarh from 16-22 March 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130222649.cms\" />India's Vaishali Rameshbabu suffered a significant setback in the FIDE Candidates, losing to China's Zhu Jiner and relinquishing her sole lead. The Women's section is now wide open with both players tied at the top. Meanwhile, Javokhir Sindarov is on the cusp of becoming the challenger in the Open section, needing just a draw in his next match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-crashed-into-the-chinese-wall-in-round-12/articleshow/130222649.cms",
+         "pubDate" : "Mon, 13 Apr 2026 01:17:20",
+         "title" : "Candidates Chess: How Vaishali crashed into the Chinese wall in Round 12"
+      },
+      {
+         "description" : " Javokhir Sindarov was happy to take a quick draw against Hikaru Nakamura in Round 12 of the Candidates, in fact his entire preparation was directed towards it. Anish Giri was left trying to beat Wei Yi and he did in fact get a winning position in an endgame but it remained tricky. Giri accidentally repeated the position three times and Wei Yi was immediately alert to this. Matthias Bluebaum was slightly better against Fabiano Caruana but no more than that. Praggnanandhaa was pushing against Andrey Esipenko but had to settle with a draw. Following the rest day Giri will have to win against Sindarov in order to keep his chances alive. The women's event was blown wide open when Zhu Jiner beat ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-on-the-brink-of-winning-the-candidates-after-round-12-zhu-beats-vaishali-to-catch-her-in-the-womens-event",
+         "pubDate" : "Mon, 13 Apr 2026 00:38:00",
+         "title" : "Sindarov on the brink of winning the Candidates after Round 12, Zhu beats Vaishali to catch her in the Women's event - 12"
+      },
+      {
+         "description" : "The 21st Kasparov Chess Foundation (KCF) All-Girls National Chess Championship broke its own attendance record with a total of 607 girls competing across the six age-based sections, up from 546 players the year before. Taking place April 10 through 12 at the Hyatt Regency McCormick Place in downtown Chicago, the tournament was organized in partnership with the Renaissance Knights Chess Foundation and US Chess. As this national event enters its third decade of empowering young female chess players, the future is bright. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Players came from 37 states - plus Washington, D.C. and Vancouver, British Columbia - up from 33 states t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/21st-kcf-all-girls-national-breaks-records-over-600-attendees",
+         "pubDate" : "Mon, 13 Apr 2026 00:00:00",
+         "title" : "21st KCF All-Girls National Breaks Records With Over 600 Attendees"
+      },
+      {
+         "description" : "With the end of the 2026 FIDE Candidates and Women's Candidates tournaments approaching, players who are no longer in contention for first place seem to have accepted their fate and stopped taking big risks, particularly in the Open. But in the Women's event, half the field is very much still in contention! Open: Giri Lets His Chance SlipRound 12 of the Open was quiet, with every game ending in a draw, which means GM Javokhir Sindarov maintains his two-point lead and is now just half a point away from winning the tournament and securing his slot in the next World Championship match. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The most eventful mome",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-12-zhu-catches-vaishali-sindarov-sails",
+         "pubDate" : "Mon, 13 Apr 2026 00:00:00",
+         "title" : "Candidates Round 12: Zhu Catches Vaishali, Sindarov Sails"
+      },
+      {
+         "description" : "GM Javokhir Sindarov is guaranteed at least a playoff to win the 2026 FIDE Candidates Tournament after a 35-minute draw vs. GM Hikaru Nakamura put him two points clear with two rounds to go. GM Anish Giri came agonizingly close to moving within 1....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-12",
+         "pubDate" : "Sun, 12 Apr 2026 11:53:00",
+         "title" : "Sindarov On Brink As Giri Misses Win; Zhu Beats And Catches Vaishali"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130201895.cms\" />Playing with the black pieces in Round 11 on Saturday, she claimed a jaw-dropping win over the former World Championship challenger Aleksandra Goryachkina.",
@@ -16,6 +176,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-indias-vaishali-trapped-russians-rook-to-extend-lead-at-the-top/articleshow/130201895.cms",
          "pubDate" : "Sun, 12 Apr 2026 03:12:08",
          "title" : "Candidates Chess: How Vaishali trapped Russian's rook to extend lead at the top"
+      },
+      {
+         "description" : "All games in the Open were drawn today. I'm sure this was agreeable to GM Javokhir Sindarov, as it puts him that much closer to clinching his prize. This being said, GM Fabiano Caruana put a lot of pressure on the leader, while GM Anish Giri also had good prospects against GM Andrey Esipenko. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> Had both Giri and Caruana converted, we could be looking at a much closer race. The only player who was clearly winning this round was GM Praggnanandhaa Rameshbabu, but good form has continuously eluded him after his excellent first round win, and he was unable to snag the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-11-sindarov-vaishali-solidify-leads",
+         "pubDate" : "Sun, 12 Apr 2026 00:00:00",
+         "title" : "Candidates Round 11: Sindarov, Vaishali Solidify Leads"
       },
       {
          "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
@@ -34,28 +202,12 @@ news_feed (
          "title" : "Terry Triumphs Over Martinez In Final Sprint"
       },
       {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. Sole leader Javokhir Sindarov plays black against Fabiano Caruana in Saturday's eleventh round. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Sat, 11 Apr 2026 14:15:00",
-         "title" : "Candidates Round 11 - Live!"
-      },
-      {
          "description" : "On February 6th I shared a story of how I got thrown off my best game in a Padel match by unfair/toxic behavior of opponents. I wrote: &#8220;This is my main focus for my upcoming matches: play my best, especially when this trigger comes up.&#8221; Two months later I had a lot of opportunities to []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/messy-truth-chess-improvement-progress/",
          "pubDate" : "Sat, 11 Apr 2026 13:00:00",
          "title" : "The Messy Truth About Getting Better"
-      },
-      {
-         "description" : "It has long been my observation that the gravest disturbances in any established order seldom announce themselves with fanfare, but rather emerge-quietly at first-through the accumulation of small and telling irregularities. Such, I think, is the case in the present upheaval within the world of chess, a domain which, though ancient in its origins, now []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/power-struggle-shakes-chess-world/",
-         "pubDate" : "Sat, 11 Apr 2026 12:16:53",
-         "title" : "Power struggle shakes chess world"
       },
       {
          "description" : "GM Javokhir Sindarov is in the final stretch, with three rounds left in the 2026 FIDE Candidates Tournament. All games of round 11 ended in draws, leaving Sindarov two points ahead after holding GM Fabiano Caruana. GM Praggnanandhaa Rameshbabu cam...",
@@ -82,14 +234,6 @@ news_feed (
          "title" : "Sindarov, Gukesh's likely challenger, cracks code for sponsorship woes in chess"
       },
       {
-         "description" : "At the Menorca Chess Festival, one player is naturally in the spotlight: reigning world champion Gukesh Dommaraju. While on another, more easterly Mediterranean island his World Championship match opponent is being determined, the 19-year-old is taking part in a small but highly competitive rapid chess tournament. Following a series of disappointing results and his decision to significantly reduce his tournament schedule, he announced that he would forgo his place in this year's Grand Chess Tour. | Photo: Saji Mathew",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/menorca-gukesh",
-         "pubDate" : "Sat, 11 Apr 2026 01:35:00",
-         "title" : "Menorca Masters: Gukesh looks to stabilise form after difficult run"
-      },
-      {
          "description" : "Jynxzi, the celebrity prot&#38;eacute;g&#38;eacute; of IM Levy Rozman and one of Twitch&#39;s most subscribed streamers, was crowned as the champion of Friday&#39;s $100,000 PogChamps 6 7 tournament after he swept the top seed, ohnePixel, in the final. Jynxzi, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,28 +250,12 @@ news_feed (
          "title" : "Candidates Fall Short, Minh Le, Duda, Taher Win 3 0 Thursday"
       },
       {
-         "description" : "Bodhana Sivanandan comes across as an exceptionally calm, self-driven young talent whose love for chess seems to grow naturally from curiosity, beauty, and enjoyment rather than pressure or ego. In the interview, she talks about her admiration for Capablanca, her instinctive feel for endgames, and her practical approach to improvement, often learning simply by playing, spotting mistakes, and correcting them for next time. She also reflects with striking maturity on losses, fame, expectations, and long-term goals, showing that she prefers to focus on steady progress instead of forcing milestones or assumptions about the future. Overall, the conversation paints a picture of a rare chess prodig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-interview-endgames-mindset-rapid-rise",
-         "pubDate" : "Fri, 10 Apr 2026 18:17:13",
-         "title" : "Bodhana Sivanandan Interview: Endgames, Mindset & Rapid Rise"
-      },
-      {
          "description" : "The Freestyle Friday of April 10, 2026 was a curious affair where GM Jan-Krzysztof Duda led the field with a 100% score and two full points after the ninth round, only to lose to GMs Pranav Venkatesh and Parham Maghsoodloo in the last two rounds. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-april-10-2026",
          "pubDate" : "Fri, 10 Apr 2026 15:20:39",
          "title" : "Maghsoodloo Wins Title On Tiebreak Score"
-      },
-      {
-         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
-         "pubDate" : "Fri, 10 Apr 2026 14:45:00",
-         "title" : "European Championship, Round 4 - Live"
       },
       {
          "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
@@ -442,22 +570,6 @@ news_feed (
          "title" : "US Chess Announcement About the 2026 Continental"
       },
       {
-         "description" : "It has been almost six months since news of GM Daniel Naroditsky's death at age 29 shocked and saddened the chess world. As FM Mike Klein wrote in his obituary for Chess Life, Naroditsky will \"be remembered for his preternatural ability to inspire everyone, from the casual fan to the tournament player,\" and for teaching us \"that you can build community locally and globally.\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The cover of the December 2025 issue of Chess Life Magazine. <br> <br> <br> <br> For Naroditsky, that local community was centered in Charlotte, North Carolina, where he moved after graduating from Stanford University in 2019. He beca",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/naroditsky-memorial-blitz-and-rapid-promises-honor-danyas-legacy-and-vision",
-         "pubDate" : "Mon, 06 Apr 2026 00:00:00",
-         "title" : "Naroditsky Memorial Blitz and Rapid Promises to Honor Danya's Legacy and Vision"
-      },
-      {
-         "description" : "The relatively peaceful Round 7 did not shake up the standings in either section. Players mostly seemed content to play it safe entering the second rest day and halfway point of the 2026 Candidates and Women's Candidates. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All eyes on Sindarov. (Photo courtesy FIDE/Yoav Nis)<br> <br> <br> <br> All eyes once again were on GM Javokhir Sindarov. Even with a big time advantage on the clock, the young star could not cause enough problems for his opponent on the board and made his second draw of the event so far, this time against GM Anish Giri. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/standings-stable-after-candidates-round-7",
-         "pubDate" : "Mon, 06 Apr 2026 00:00:00",
-         "title" : "Standings Stable After Candidates Round 7"
-      },
-      {
          "description" : " Javokhir Sindarov has finished the first half of the FIDE Candidates on 6/7 following a draw against Anish Giri. Although Sindarov was better Giri's defence was very accurate and really there didn't seem to be any winning chances. The only decisive game of the day was when Wei Yi took advantage of a gruesome blunder by Andrey Esipenko, this was a case of Esipenko mixing up his move order in a sharp position and being left with a position that was basically unplayable. Bluebaum vs Nakamura and Praggnanandhaa vs Caruana were both drawn in games not without interest. In the Women's event Anna Muzychuk still leads, Rameshbabu Vaishali hasn't looked all that convincing but two days of turn aroun",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -514,14 +626,6 @@ news_feed (
          "title" : "Candidates: Vaishali, Divya Deshmukh save Indian blushes; Pragg must act now"
       },
       {
-         "description" : "Open: Sindarov's Fifth Win <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Yoav Nis.<br> <br> <br> <br> Another day, another win by GM Javokhir Sindarov. The 20-year-old Uzbek grandmaster delivered the only decisive result of the round, extending his lead to a point-and-a-half. His closest rival, GM Fabiano Caruana, once again opted for his set up with an early Ng1-f3 and g2-g3, which up until this game had served him very well. But it did not get him any real chances against GM Andrey Esipenko. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Fabiano Caruana was unable to exert any real pressu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-6-sindarov-extends-lead-muzychuk-emerges",
-         "pubDate" : "Sun, 05 Apr 2026 00:00:00",
-         "title" : "Candidates Round 6: Sindarov Extends Lead, Muzychuk Emerges"
-      },
-      {
          "description" : "Once again it was all about GM Javokhir Sindarov in the 2026 FIDE Candidates Tournament as the Uzbek star won a difficult position against GM Wei Yi to move to a mind-blowing 5.5/6. He leads his closest pursuer GM Fabiano Caruana by 1.5 points aft...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -554,22 +658,6 @@ news_feed (
          "title" : "Keymer, Niemann Still Perfect, To Clash On Easter Morning"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130018930.cms\" />Indian-origin chess talent Bodhana Sivanandan, 11, is now England's top-rated female chess player with a 2366 FIDE rating, surpassing Lan Yao. She began during lockdown, now ranks 72nd globally, and is a Woman International Master. She beat Mariya Muzychuk and earned praise from former UK Prime Minister and chess officials.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/11-year-old-indian-origin-bodhana-sivanandan-becomes-england-no-1/articleshow/130018930.cms",
-         "pubDate" : "Sat, 04 Apr 2026 12:14:30",
-         "title" : "11-year-old Indian-origin Bodhana Sivanandan becomes England No. 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130018295.cms\" />At the Grenke Chess Festival, Alua Nurman took a selfie with Magnus Carlsen before their match. Though he agreed, Carlsen reported it, leading officials to confiscate her phone under strict anti-cheating rules. The game continued normally, with Carlsen winning. A similar incident happened last year, highlighting how strictly chess authorities enforce rules, even in harmless situations like selfies.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-magnus-carlsen-poses-for-selfie-then-gets-her-phone-seized/articleshow/130018295.cms",
-         "pubDate" : "Sat, 04 Apr 2026 11:37:29",
-         "title" : "Watch: Magnus Carlsen poses for selfie, then gets her phone seized"
-      },
-      {
          "description" : "National Rapid Rank Name 1 Aronyak Ghosh 2 Karthikeyan Murali 3 Hari Madhavan N B 4 Mitrabha Guha 5 Arjun Kalyan 6 Puranik Abhimanyu 7",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -586,36 +674,12 @@ news_feed (
          "title" : "FIDE World Cadets Cup - 2026 in Batumi, Georgia from 15th to 28th June, 2026"
       },
       {
-         "description" : "\"The people who survive the next decade won't be the ones with the best credentials. They'll be the ones who stopped mourning the world that was and started building for the one that doesn't exist yet\" (Terence Tao, Fields Medal-winning mathematician). It is always worth watching the best practitioners of any craft. One learns, if not []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/football-and-chess/",
-         "pubDate" : "Sat, 04 Apr 2026 07:25:50",
-         "title" : "Football and chess"
-      },
-      {
          "description" : " It was the anal bead theory that caused a global sensation. Now, a new Netflix film tells the tale of two grandmasters, one scandal - and a whole lot of bad blood Chess Mates (Netflix, Tuesday) has an unsettling early gambit: the face of Piers Morgan, looming via archive footage. \"Have you ever used anal beads while playing chess?\" Morgan asks down camera, as if prepping an ill-advised phone-in. \"Your curiosity is concerning. Maybe you're personally interested?\" shoots back his interviewee, Hans Niemann (above). The minds of chess masters, as glimpsed in this fantastic documentary, are almost as compelling as any back-passage shenanigans on the table. It's worth looking up the whole clip, f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
          "pubDate" : "Sat, 04 Apr 2026 06:00:15",
          "title" : "Chess Mates: the fantastic true story of the sex toy rumour that buzzed around the world"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130012465.cms\" />Hikaru Nakamura's unexpected loss to Javokhir Sindarov in the Candidates tournament has diminished the hopes of rivals like R Praggnanandhaa and Anish Giri. Sindarov solidified his lead with a fourth win, while Fabiano Caruana remains a contender. In the women's section, Kateryna Lagno, Anna Muzychuk, and Zhu Jiner share the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-javokhir-sindarov-continues-to-surge-ahead/articleshow/130012465.cms",
-         "pubDate" : "Sat, 04 Apr 2026 03:25:52",
-         "title" : "Candidates: Javokhir Sindarov continues to surge ahead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130011538.cms\" />India's R Praggnanandhaa missed a prime chance for victory at the Candidates Tournament, settling for a draw against Andrey Esipenko. Meanwhile, Vaishali Rameshbabu faced her first defeat against Zhu Jiner in the Women's Candidates, while Divya Deshmukh secured a hard-fought draw. The tournament's early stages show a strong lead by Javokhir Sindarov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-r-praggnanandhaa-wastes-his-best-chance-to-score-win/articleshow/130011538.cms",
-         "pubDate" : "Sat, 04 Apr 2026 01:20:01",
-         "title" : "Candidates Chess: R Praggnanandhaa wastes his best chance to score win"
       },
       {
          "description" : " Javokhir Sindarov continues to lead the FIDE Candidates in Cyprus by a point after crushing Hikaru Nakamura with the black pieces. Even at this early stage it's already looking like it's going to be a fight between Sindarov and Fabiano Caruana, they're the only two looking in great form. Caruana overpowered the hitherto undefeated Matthias Bluebaum, he also made the win look very easy. Sindarov's 4.5/5 start is exceptional, that said there are a number of players already looking out of form, so points may be easier to come by that in some Candidates tournaments. The other games were drawn. The women's event looks far harder to predict. Leader Anna Muzychuk had a quiet draw with Aleksandra G",
@@ -674,14 +738,6 @@ news_feed (
          "title" : "Win Prizes In The Spring 2026 CCL Predictions Challenge"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129999248.cms\" />FIDE Master Prasenjit Dutta, a former prodigy from Tripura, runs a chess academy in New Delhi. He mentored Vaibhav Suri, India's 27th Grandmaster, whose dedication and positional mastery shaped his rise. Today, Suri focuses entirely on supporting young phenom R Praggnanandhaa, applying his deep strategic insight as a coach, analyst, and mentor behind the scenes of elite international chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-chess-invisible-second-the-making-of-vaibhav-suri/articleshow/129999248.cms",
-         "pubDate" : "Fri, 03 Apr 2026 11:18:29",
-         "title" : "Praggnanandhaa's invisible second: The making of Vaibhav Suri"
-      },
-      {
          "description" : " Have you been following the big stories in football, cricket, rugby league, boxing, golf, F1, athletics, rowing and chess? <a href=\"https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -706,22 +762,6 @@ news_feed (
          "title" : "Chess: Sindarov, 20, takes early 1-point lead as Uzbek star stuns Candidates field"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129994361.cms\" />Javokhir Sindarov leads the Candidates tournament with 3.5 points with 10 rounds to go, showcasing a confident performance. Meanwhile, seasoned players like Hikaru Nakamura and Anish Giri face challenges, reflecting on their games with philosophical acceptance of life's unpredictability. Giri also shared insights on balancing chess secrets with course sales, emphasising the value of genuine content.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-rivals-hope-sindarov-fumbles-in-the-jungle/articleshow/129994361.cms",
-         "pubDate" : "Fri, 03 Apr 2026 04:53:46",
-         "title" : "Candidates Chess: Rivals hope Sindarov fumbles in the jungle"
-      },
-      {
-         "description" : "It&#39;s the tournament GM Magnus Carlsen won with 9/9 last year, and on Thursday evening he started the new edition with another win: the Grenke Chess Freestyle Open. It is part of the Grenke Chess Festival that boasts over 3,500 participants in Karl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grenke-freestyle-chess-open-day-1",
-         "pubDate" : "Fri, 03 Apr 2026 01:43:00",
-         "title" : "Carlsen On 10/10 As Grenke Chess Festival Takes Off In Karlsruhe"
-      },
-      {
          "description" : " Javokhir Sindarov put a major marker down by beating Fabiano Caruana in Round 4 of the Candidates, the two were sharing the lead. Sindarov was one of the favourites before the event alongside Caruana. Sindarov has started with 3.5/4, whilst there's an extremely long way to go he looks in very fine form. In the women's event Bibisara Assaubayeva and Anna Muzychuk share the lead on 2.5/5 half a point clear of most of the rest of the players. Thursday sees the first rest day. Round 4 (of 14) Standings: 1st Javokhir Sindarov, 3&frac12;/4. 2nd Fabiano Caruana, 2&frac12;. 3rd-5th Matthias Bluebaum, R Praggnanandhaa and Anish Giri, 2. 6th-7th Yi Wei and Hikaru Nakamura, 1&frac12;. 8th Andrey Esipe",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -744,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/april-monthly-ratings-and-website-issues-2nd-april/",
          "pubDate" : "Thu, 02 Apr 2026 15:47:49",
          "title" : "April Monthly Ratings and Website Issues - 2nd April"
-      },
-      {
-         "description" : "While his compatriot GM Javokhir Sindarov carves up at the 2026 FIDE Candidates Tournament, GM Nodirbek Abdusattorov has quietly moved into fourth position on the April FIDE classical rating list after a commanding victory at the 2026 Prague Inter...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/april-2026-fide-ratings",
-         "pubDate" : "Thu, 02 Apr 2026 07:29:00",
-         "title" : "Abdusattorov Ascends To World Number 4; Bodhana Cracks Into Women's Top 100"
       },
       {
          "description" : "Please note that the ECF month-end rating process did not run last night, which means that this month's official ratings have not yet been published. We are currently working on...",
@@ -794,22 +826,6 @@ news_feed (
          "title" : "All games drawn on day two of the Candidates - 2"
       },
       {
-         "description" : "OPEN BELOW 1700 WOMEN-BELOW 1700 Rank Name Rank Name 1 Muthuraman Kesavamoorthy 1 Meha Arin A 2 Kavish Saxena 2 Shalini J 3 Balaram",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-amateur-chess-championship-2025/",
-         "pubDate" : "Mon, 30 Mar 2026 11:11:40",
-         "title" : "Certificate :National Amateur Chess Championship 2025-26"
-      },
-      {
-         "description" : "Kindly find attached live games link for the 35th National Under - 17 Open &#38; Girls Chess Championship - 2026 from 30th March 2026 to 7th April 2026 scheduled at Rajpath Club, S.G.Highway,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-35th-national-under-17-open-girls-chess-championship-2026/",
-         "pubDate" : "Mon, 30 Mar 2026 11:10:25",
-         "title" : "Live games link for 35th National Under - 17 Open & Girls Chess Championship - 2026 "
-      },
-      {
          "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -834,28 +850,12 @@ news_feed (
          "title" : "The One Chess Skill Nobody Talks About (That Changes Everything)"
       },
       {
-         "description" : "Simpson's-in-the-Strand has at last reopened after six years of silence since the Covid pandemic closed its doors, and its return reminds one that some institutions possess the curious stubbornness of English history. For nearly two centuries-first established as Simpson's Grand Cigar Divan in 1828-it has stood upon the Strand as a landmark for chess players. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/simpsons-in-the-strand-reopens-at-last/",
-         "pubDate" : "Sat, 28 Mar 2026 11:38:12",
-         "title" : "Simpson's-in-the-Strand reopens - at last"
-      },
-      {
          "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchuk (2624) the fourth seed. <a href=\"https://www.t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
          "pubDate" : "Fri, 27 Mar 2026 08:00:02",
          "title" : "Chess: iconic Reykjavik Open sparks memory of Bobby Fischer from 1973"
-      },
-      {
-         "description" : "The Uttar Pradesh Chess Sports Association, in collaboration with the All India Chess Federation and the Arbiters' Commission AICF, organised a Senior National Arbiter Seminar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-lucknow-uttar-pradesh-on-14-15-march-2026/",
-         "pubDate" : "Thu, 26 Mar 2026 12:33:47",
-         "title" : "Final Report - Senior National Arbiters' Seminar and Examination, Lucknow, Uttar Pradesh on 14 & 15 March 2026."
       },
       {
          "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
@@ -880,38 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
          "pubDate" : "Wed, 25 Mar 2026 07:35:49",
          "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
-      },
-      {
-         "description" : " by Ben Underwood The 2026 Saint Louis Masters, held in late February at the newly expanded Saint Louis Chess Club, featured 70 top players representing 22 countries. The event showcased a highly competitive field, with 37 Grandmasters and a median rating of 2495, nearly half of all players holding a rating of 2500 or above. [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/\">2026 Saint Louis Masters by the Numbers</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2026-saint-louis-masters-stats/",
-         "pubDate" : "Mon, 23 Mar 2026 19:37:41",
-         "title" : "2026 Saint Louis Masters by the Numbers"
-      },
-      {
-         "description" : " The Saint Louis Chess Club is widely known for elite tournaments and top-level competition, but a significant part of its mission centers on education. Through its Scholastics Department, the club provides structured chess instruction for young players, with a growing emphasis on accessible, online learning through its Digital Classroom. Designed to reach students regardless of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/chess-digital-classroom-expands-education/\">Beyond the Board: Digital Classroom Expands Chess Education</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/chess-digital-classroom-expands-education/",
-         "pubDate" : "Mon, 23 Mar 2026 17:13:17",
-         "title" : "Beyond the Board: Digital Classroom Expands Chess Education"
-      },
-      {
-         "description" : "Praful Zaveri is the founder of Indian Chess School, where he has trained more than 5000 students. In 2023 he began writing a book, Shat Shat Vande Chess, on the cultural, historical, and philosophical journey of chess, on the 15,000‑year \"odyssey\" of the game. Now he has decided to make it into a film. Here is the first trailer - and Praful's thoughts on the enterprise.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-birth-of-a-journey",
-         "pubDate" : "Mon, 23 Mar 2026 09:49:56",
-         "title" : "The Birth of a Journey"
-      },
-      {
-         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
-         "pubDate" : "Mon, 23 Mar 2026 07:26:23",
-         "title" : "European Open and Women's Chess Club Cups 2026 - Official invitation"
       }
    ]
 }
