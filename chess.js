@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130271031.cms\" />In the running for the title, there are three contenders: India's Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China's Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
+         "pubDate" : "Wed, 15 Apr 2026 01:57:14",
+         "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
+      },
+      {
          "description" : "Javokhir Sindarov secured overall victory at the Candidates Tournament in Cyprus with a draw against Anish Giri in round thirteen. The 20-year-old clinched first place with a round to spare and will face Gukesh Dommaraju for the world title later this year. Wei Yi scored the only win of the day, while the remaining games were drawn, leaving the standings settled at the top. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-handshake-uzbek-chess-gm-stuns-indias-harika-dronavali-with-namaste-watch/articleshow/130037793.cms",
          "pubDate" : "Sun, 05 Apr 2026 11:09:26",
          "title" : "No handshake! Uzbek GM stuns India's Harikai with 'Namaste' - Watch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130033491.cms\" />R Praggnanandhaa drew his sixth-round Candidates match, while leader Javokhir Sindarov continued his winning streak, extending his lead. Fabiano Caruana also fell further behind. In the women's section, R Vaishali and Divya Deshmukh secured crucial wins for India. Meanwhile, Amin Tabatabaei halted Magnus Carlsen's winning run in a separate tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-praggnanandhaa-held-by-nakamura-no-stopping-sindarov/articleshow/130033491.cms",
-         "pubDate" : "Sun, 05 Apr 2026 04:04:12",
-         "title" : "Candidates Chess: Praggnanandhaa held by Nakamura; no stopping Sindarov"
       },
       {
          "description" : " Javokhir Sindarov won yet again to move to 5.5/6 and revive memories of Veselin Topalov's 6.5/7 in the first half of the World Championship tournament in San Luis in 2005 (and as Anand admitted, the only person to draw, he saved a lost position), there in exactly the same format, Topalov cruised to victory by drawing the entirity of the second half of the tournament. Whilst Sindarov is on fire, and just looking and feeling in total control, he's only a point and a half clear of Fabiano Caruana at the moment. As stunning as his performance is, he's not yet a certainty, but the performance has been mind blowing. Today he survived some testing moments against Wei Yi, never seemed in real troub",
