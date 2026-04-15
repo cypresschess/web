@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Javokhir Sindarov will play Gukesh for the World Chess Championship title later in the year. He confirmed his first place in the FIDE Candidates tournament in Cyprus with a draw against Anish Giri. Giri set Sindarov some problems but they weren't enough for a serious advantage at any point and a drawn rook and pawn endgame was reached. Giri looks set to finish second but he was obviously disappointed after the game. The women's Candidates continues its unpredictable course. Vaishali Rameshbabu survived an inferior position against Vaishali Rameshbabu and this allowed Bibisara Assaubayeva to join her in the lead after beating Anna Muzychuk. The final day will be very tense. A tie will lead t",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130290400.cms\" />R Vaishali won the 2026 Women's Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-money-did-r-vaishali-win-after-historic-womens-candidates-2026-victory/articleshow/130290400.cms",
+         "pubDate" : "Wed, 15 Apr 2026 17:29:45",
+         "title" : "How much money did R Vaishali win after Women's Candidates victory?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130288852.cms\" />R Vaishali created history by winning the 2026 Women's Candidates, earning the right to challenge China's reigning champion Ju Wenjun for the Women's World Chess Championship crown. She beat Kateryna Lagno in the final round after Divya Deshmukh held Bibisara Assaubayeva to a draw. Vaishali now faces reigning champion Ju Wenjun and is guaranteed €28,000 plus additional bonuses.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-indias-r-vaishali-wins-womens-candidates-sets-up-world-cship-match-against-chinas-ju-wenjun/articleshow/130288852.cms",
+         "pubDate" : "Wed, 15 Apr 2026 16:27:48",
+         "title" : "Historic! India's Vaishali wins Women's Candidates, sets up World C'ship match"
+      },
+      {
+         "description" : " Javokhir Sindarov will play Gukesh for the World Chess Championship title later in the year. He confirmed his first place in the FIDE Candidates tournament in Cyprus with a draw against Anish Giri. Giri set Sindarov some problems but they weren't enough for a serious advantage at any point and a drawn rook and pawn endgame was reached. Giri looks set to finish second but he was obviously disappointed after the game. The women's Candidates continues its unpredictable course. Vaishali Rameshbabu survived an inferior position against Tan Zhongyi and this allowed Bibisara Assaubayeva to join her in the lead after beating Anna Muzychuk. The final day will be very tense. A tie will lead to a play",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-candidates-with-a-round-to-spare",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
          "pubDate" : "Wed, 15 Apr 2026 11:50:50",
          "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
+      },
+      {
+         "description" : "24-year-old Indian star GM Vaishali Rameshbabu will play Chinese GM Ju Wenjun for the women&#39;s world championship title after clinching the 2026 FIDE Women&#39;s Candidates with a final-round win over GM Kateryna Lagno. GM Bibisara Assaubayeva could ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-14",
+         "pubDate" : "Wed, 15 Apr 2026 10:37:00",
+         "title" : "Vaishali Wins Women's Candidates; Sindarov Breaks Record"
       },
       {
          "description" : "Bibisara Assaubayeva joined Vaishali Rameshbabu in the lead of the Women's Candidates Tournament after defeating Anna Muzychuk in round thirteen. Vaishali remained atop the standings after escaping with a draw against Tan Zhongyi, while Zhu Jiner first missed a chance to move into sole first place and then even lost to Aleksandra Goryachkina. Kateryna Lagno stayed in contention by beating Divya Deshmukh, leaving six players still with chances ahead of the final round. | Photo: FIDE / Niki Riga",
@@ -56,6 +80,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
          "pubDate" : "Wed, 15 Apr 2026 01:57:14",
          "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
+      },
+      {
+         "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here, and check out even more puzzles from our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-1",
+         "pubDate" : "Wed, 15 Apr 2026 00:00:00",
+         "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 1"
+      },
+      {
+         "description" : "GM Javokhir Sindarov completed his historic run at the 2026 FIDE Candidates, winning the event with a round to spare. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The handshake that sealed Sindarov's tournament victory. (Photo courtesy FIDE/Niki Riga)<br> <br> <br> <br> The 20-year-old will challenge 19-year-old World Champion GM Gukesh Dommaraju for the crown later in the year in what will be the youngest World Championship match in history. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All eyes were on Giri - Sindarov from the start of Tuesday's round. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-13-sindarov-clinches-assaubayeva-catches-vaishali-zhu-stumbles",
+         "pubDate" : "Wed, 15 Apr 2026 00:00:00",
+         "title" : "Candidates Round 13: Sindarov Clinches, Assaubayeva Catches Vaishali as Zhu Stumbles"
       },
       {
          "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
@@ -538,14 +578,6 @@ news_feed (
          "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130077462.cms\" />Uzbekistan's Javokhir Sindarov, the youngest Candidate, is on the verge of winning the Cyprus tournament with an impressive halfway score. He needs just four more wins to secure the title. Meanwhile, in the women's section, Ukraine's Anna Muzychuk leads the pack, undefeated and aiming for victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-set-for-an-encore-muzychuk-in-charge/articleshow/130077462.cms",
-         "pubDate" : "Tue, 07 Apr 2026 05:47:28",
-         "title" : "Candidates Chess: Sindarov set for an encore; Muzychuk in charge"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130075019.cms\" />Chess is grappling with a cheating crisis, forcing stringent security at top tournaments. World No. 2 Hikaru Nakamura sarcastically compared players to spies due to intense scanning. Indian Grandmasters like Koneru Humpy and Shyam Sundar M support these measures, emphasizing skill-based wins. Pravin Thipsay suggests delaying live broadcasts to curb cheating, arguing popularity doesn't hinge on instant updates.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -560,22 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
          "pubDate" : "Tue, 07 Apr 2026 01:16:00",
          "title" : "Carlsen, Niemann Speak On Chess Scandal In Netflix Untold Documentary"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-high-school-k-12-championship-pt-2",
-         "pubDate" : "Tue, 07 Apr 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National High School (K-12) Championship, Pt. 2"
-      },
-      {
-         "description" : "The U.S. has a new WGM, thanks to the XVII Women's Continental Chess Championship of the Americas, held in Lima, Peru from March 30 to April 6.16-year-old Iris Mou, who entered the event as a WIM, took clear first with a 7&frac12;/9 performance, earning the direct WGM title and a spot in the next FIDE Women's World Cup (see full event regulations). The New Yorker also won $2,000 for her victory. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Federacion Deportiva Peruana de Ajedrez.<br> <br> <br> <br> It was a strong showing for the USA delegation, which finished with four of the top five players in the standings. Colombian WIM Valentina",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/iris-mou-wins-xvii-womens-continental-championship-americas-earns-wgm-title",
-         "pubDate" : "Tue, 07 Apr 2026 00:00:00",
-         "title" : "Iris Mou Wins XVII Women's Continental Championship of the Americas, Earns WGM Title"
       },
       {
          "description" : "Two months ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47. | Photo during the game by Chess Club Kaksikodad - from the right, GM Aleksandr Volodin and the chief arbiter Askold Nassar",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-2026-27/",
          "pubDate" : "Mon, 06 Apr 2026 05:44:32",
          "title" : "Fide Arbiter Seminar 2026-27"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130048524.cms\" />The FIDE Candidates 2026 sees a dominant Javokhir Sindarov in the Open section, while the Women's category is a 'comedy or tragedy of errors'. Indian players Vaishali Rameshbabu and Divya Deshmukh experienced mixed fortunes in Round 7, with Vaishali winning through opponent blunders and Divya failing to convert a sure win. Praggnanandhaa drew his match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-beat-former-world-champion-tan-for-2nd-consecutive-win/articleshow/130048524.cms",
-         "pubDate" : "Mon, 06 Apr 2026 00:42:07",
-         "title" : "Candidates Chess: How Vaishali beat former World champion Tan for 2nd consecutive win"
       },
       {
          "description" : " Javokhir Sindarov has finished the first half of the FIDE Candidates on 6/7 following a draw against Anish Giri. Although Sindarov was better Giri's defence was very accurate and really there didn't seem to be any winning chances. The only decisive game of the day was when Wei Yi took advantage of a gruesome blunder by Andrey Esipenko, this was a case of Esipenko mixing up his move order in a sharp position and being left with a position that was basically unplayable. Bluebaum vs Nakamura and Praggnanandhaa vs Caruana were both drawn in games not without interest. In the Women's event Anna Muzychuk still leads, Rameshbabu Vaishali hasn't looked all that convincing but two days of turn aroun",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-and-caruana-both-win-in-candidates-round-5",
          "pubDate" : "Fri, 3 Apr 2026 23:07:00",
          "title" : "Sindarov and Caruana both win in Candidates Round 5 - 5"
-      },
-      {
-         "description" : "GM Javokhir Sindarov&#39;s dream run continued after GM Hikaru Nakamura thought for 67 minutes on move 13, chose badly, and sank without a trace in round five of the 2026 FIDE Candidates Tournament. Sindarov, now world number-five, is on 4.5/5, with o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-5",
-         "pubDate" : "Fri, 03 Apr 2026 14:50:00",
-         "title" : "Sindarov Stuns Nakamura To Move To 4.5/5; Caruana Beats Bluebaum To Stay In Touch"
       },
       {
          "description" : "Introduction The first quarter of 2026 marked an active and strategically important period for the European Chess Union (ECU). Across competition, education, and communications, the ECU continued to advance its institutional mission of promoting and developing chess throughout Europe. The period from January to March 2026 reflected the organization's ongoing commitment to high-level event delivery, professional training, and the strengthening of its public presence. Major Events A principal activity during the reporting period was the European Women's Rapid and Blitz []",
