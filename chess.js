@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Javokhir Sindarov will play Gukesh for the World Chess Championship title later in the year. He confirmed his first place in the FIDE Candidates tournament in Cyprus with a draw against Anish Giri. Giri set Sindarov some problems but they weren't enough for a serious advantage at any point and a drawn rook and pawn endgame was reached. Giri looks set to finish second but he was obviously disappointed after the game. The women's Candidates continues its unpredictable course. Vaishali Rameshbabu survived an inferior position against Vaishali Rameshbabu and this allowed Bibisara Assaubayeva to join her in the lead after beating Anna Muzychuk. The final day will be very tense. A tie will lead t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-candidates-with-a-round-to-spare",
+         "pubDate" : "Wed, 15 Apr 2026 15:44:00",
+         "title" : "Javokhir Sindarov wins the FIDE Candidates with a round to spare - 13"
+      },
+      {
+         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. No fewer than six players (out of eight) enter the final round with mathematical chances of winning the Women's Candidates Tournament. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
+         "pubDate" : "Wed, 15 Apr 2026 14:15:00",
+         "title" : "Candidates Round 14 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130282020.cms\" />Exclusive: Javokhir Sindarov won the 2026 FIDE Candidates Tournament, earning a World Championship match against D Gukesh. Germany No. 1 Vincent Keymer praised his aggressive and fearless style of play. \"It was easy for him to lose the first game,\" said Keymer as Uzbek prodigy sealed the title with a round to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
+         "pubDate" : "Wed, 15 Apr 2026 11:50:50",
+         "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
+      },
+      {
          "description" : "Bibisara Assaubayeva joined Vaishali Rameshbabu in the lead of the Women's Candidates Tournament after defeating Anna Muzychuk in round thirteen. Vaishali remained atop the standings after escaping with a draw against Tan Zhongyi, while Zhu Jiner first missed a chance to move into sole first place and then even lost to Aleksandra Goryachkina. Kateryna Lagno stayed in contention by beating Divya Deshmukh, leaving six players still with chances ahead of the final round. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-13",
          "pubDate" : "Wed, 15 Apr 2026 10:15:00",
          "title" : "Women's Candidates R13: Assaubayeva and Vaishali share the lead"
+      },
+      {
+         "description" : "GM Haik Martirosyan scored 10/11 to win his first-ever Titled Tuesday on April 14, starting out 9/9 and (after playing 267 moves to split his last two games) carrying that to his first ever win in the event. Last week&#39;s victor GM Sina Movahed scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martirosyan-wins-titled-tuesday-april-14-2026",
+         "pubDate" : "Wed, 15 Apr 2026 05:17:49",
+         "title" : "Martirosyan Joins List Of Titled Tuesday Winners"
       },
       {
          "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
          "pubDate" : "Wed, 15 Apr 2026 01:57:14",
          "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
-      },
-      {
-         "description" : "Javokhir Sindarov secured overall victory at the Candidates Tournament in Cyprus with a draw against Anish Giri in round thirteen. The 20-year-old clinched first place with a round to spare and will face Gukesh Dommaraju for the world title later this year. Wei Yi scored the only win of the day, while the remaining games were drawn, leaving the standings settled at the top. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-13",
-         "pubDate" : "Tue, 14 Apr 2026 21:35:00",
-         "title" : "Candidates R13: Sindarov secures overall victory with a round to spare!"
       },
       {
          "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
          "pubDate" : "Tue, 14 Apr 2026 14:28:00",
          "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
-      },
-      {
-         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elo-boost-a-gm-hike-in-behind-the-scenes-day-2",
-         "pubDate" : "Tue, 14 Apr 2026 12:05:10",
-         "title" : "Elo Boost - A GM hike in Cyprus 🇨🇾 | Behind the Scenes - Day 2"
       },
       {
          "description" : "St. Louis University (SLU) and the University of Missouri-Columbia (Mizzou) have combined to win the last seven Collegiate Chess League championships, but the spring 2026 season will crown a new champion. The SRM Institute of Science and Technolog...",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
       },
       {
-         "description" : "After eight games of their twelve-game match in Paris, Hans Niemann leads Awonder Liang by two points, having scored the only victories so far in games three and eight. The remaining six encounters have been drawn, though Liang missed clear chances in two of them. Niemann's most recent win came with black in a 31-move game, leaving Liang with limited time to respond as the match heads into its final two days. | Photo: Blitz Society",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g8",
-         "pubDate" : "Tue, 14 Apr 2026 07:10:00",
-         "title" : "Niemann two points ahead in Paris match against Liang"
-      },
-      {
          "description" : "GM Nihal Sarin won the Menorca Open Masters, scoring two wins against World Champion Gukesh Dommaraju along the way. Nihal&#39;s 6/10 score was enough for clear first place, half a point ahead of GMs Ruslan Ponomariov and Richard Rapport. Gukesh had t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,14 +178,6 @@ news_feed (
          "title" : "GM Vignir Vatnar Stefansson takes sole lead in European Individual Chess Championship"
       },
       {
-         "description" : "Nihal Sarin claimed outright victory at the Masters section of the Open Chess Menorca 2026. He ultimately finished half a point ahead of Ruslan Ponomariov and Richard Rapport. A further point behind finished world champion Gukesh Dommaraju and Leinier Dom&iacute;nguez. What conclusions the world champion can draw from this performance regarding his form is something only he can assess. | Photo: Saji Mathew",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/menorca-masters-2026-final-report",
-         "pubDate" : "Mon, 13 Apr 2026 20:15:00",
-         "title" : "Nihal wins Menorca Masters, Gukesh finishes in fourth place"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130237146.cms\" />Indian chess prodigy Nihal Sarin brushed off an online opponent's rude gesture earlier this year, focusing instead on his game. Since then, he has surged in form, reaching a career-high rating of 2723, winning the Menorca Masters, and beating world champion D Gukesh twice. He will now aim to qualify for the Esports World Cup 2026.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -186,28 +186,12 @@ news_feed (
          "title" : "From middle finger moment to double over Gukesh: What is next for Sarin?"
       },
       {
-         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inside-the-candidates-2026-in-cyprus-behind-the-scenes-day-1",
-         "pubDate" : "Mon, 13 Apr 2026 12:02:03",
-         "title" : "Inside the Candidates 2026 in Cyprus 🇨🇾 | Behind the Scenes - Day 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130228295.cms\" />Youngest World Cup winner Javokhir Sindarov is on the cusp of Candidates glory, needing just a draw to secure the title after an effortless draw with Hikaru Nakamura. He maintains an unbeaten run and leads by two points, setting up a potential Generation Z clash with D Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-one-draw-away-from-glory-gukesh-clash-looms/articleshow/130228295.cms",
          "pubDate" : "Mon, 13 Apr 2026 06:35:11",
          "title" : "Candidates Chess: Sindarov one draw away from glory; Gukesh clash looms"
-      },
-      {
-         "description" : "Javokhir Sindarov maintained his two-point lead at the Candidates Tournament in Cyprus after a quick draw with Hikaru Nakamura in round twelve. Anish Giri missed a major chance to close the gap, drawing a long and complex game against Wei Yi. The remaining two games were also drawn, leaving Sindarov firmly in control with two rounds to play. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-12",
-         "pubDate" : "Mon, 13 Apr 2026 06:30:00",
-         "title" : "Candidates R12: Sindarov a draw away from overall victory, as Giri misses big chance against Wei"
       },
       {
          "description" : "BP will be published soon. S.NO Name Team 1 VISAKH N R &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A 2 GUSAIN HIMAL &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A",
@@ -634,14 +618,6 @@ news_feed (
          "title" : "Fide Arbiter Seminar 2026-27"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130051408.cms\" />Vaishali Rameshbabu secured a crucial victory at the Candidates chess tournament, capitalising on a significant error by former champion Tan Zhongyi. This win propels Vaishali to joint second place, just half a point behind leader Anna Muzychuk. Meanwhile, in the Open section, Anish Giri held leader Javokhir Sindarov to a draw, while Wei Yi achieved his first win.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vaishali-snatches-win-from-jaws-of-defeat-divya-draws/articleshow/130051408.cms",
-         "pubDate" : "Mon, 06 Apr 2026 04:55:41",
-         "title" : "Candidates Chess: Vaishali snatches win from jaws of defeat, Divya draws"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130048524.cms\" />The FIDE Candidates 2026 sees a dominant Javokhir Sindarov in the Open section, while the Women's category is a 'comedy or tragedy of errors'. Indian players Vaishali Rameshbabu and Divya Deshmukh experienced mixed fortunes in Round 7, with Vaishali winning through opponent blunders and Divya failing to convert a sure win. Praggnanandhaa drew his match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -754,14 +730,6 @@ news_feed (
          "title" : "Sindarov Stuns Nakamura To Move To 4.5/5; Caruana Beats Bluebaum To Stay In Touch"
       },
       {
-         "description" : "For the second time in as many weeks, GM Jose Martinez notched two 3 0 Thursday victories in one day, earning himself $800 in prize money. Martinez posted scores of 9.5/11 in both events to claim first place outright, and lost only a single game i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-0-thursday-martinez-terry-4-4-2026",
-         "pubDate" : "Fri, 03 Apr 2026 14:20:00",
-         "title" : "Martinez Notches Back-To-Back Double Wins In 3 0 Thursdays"
-      },
-      {
          "description" : "Introduction The first quarter of 2026 marked an active and strategically important period for the European Chess Union (ECU). Across competition, education, and communications, the ECU continued to advance its institutional mission of promoting and developing chess throughout Europe. The period from January to March 2026 reflected the organization's ongoing commitment to high-level event delivery, professional training, and the strengthening of its public presence. Major Events A principal activity during the reporting period was the European Women's Rapid and Blitz []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -799,7 +767,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2026-begins-this-sunday/",
          "pubDate" : "Thu, 02 Apr 2026 16:45:55",
-         "title" : "ECF Online Grand Prix 2026 begins this Sunday"
+         "title" : "ECF Online Grand Prix 2026 begins Sunday 5/4/26"
       },
       {
          "description" : "Please note that the ECF month-end rating process ran successfully last night. This means that this month's official ratings have now been published, with monthly ratings displaying correctly in the...",
