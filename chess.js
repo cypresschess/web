@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Vaishali Rameshbabu took her opportunities in the final round of the Women's Candidates tournament to beat Kateryna Lagno and combined with Bibisara Assaubayeva's draw with Divya Deshmukh meant she took clear first place. Vaishali's win means she will play the champion since 2018, Ju Wenjun. Vaishali is the elder sister of Praggnanandhaa. Anna Muzychuk drew with Zhu Jiner and Aleksandra Goryachkina beat Tan Zhongyi in the remaining games. Javokhir Sindarov had already sewn up the Candidates in Round 13 and he engineered a very quick draw against Wei Yi to finish on +6 undefeated. Matthias Bluebaum came in a fighting mood against Anish Giri but it's not really his style and Giri impressively",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/vaishali-wins-the-womens-candidates-tournament",
+         "pubDate" : "Wed, 15 Apr 2026 22:43:00",
+         "title" : "Vaishali wins the Women's Candidates Tournament - 14"
+      },
+      {
+         "description" : "GM David Anton Guijarro emerged as the sole leader of the European Individual Chess Championship 2026 after eight played rounds! GM David Anton Guijarro (ESP, 2656) today scored an important win over GM Jan Malek (POL, 2533) with the white pieces. The Spanish representative opted for positional play in the Queen's Gambit opening, and earned the clear edge in the late middlegame. Pressured on the Kingside, Jan Malek made a decisive mistake with 34g5? immediately giving the winning advantage to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/david-anton-guijarro-in-sole-lead-at-eicc2026-after-eight-played-rounds/",
+         "pubDate" : "Wed, 15 Apr 2026 20:40:27",
+         "title" : "David Anton Guijarro in sole lead at EICC2026 after eight played rounds"
+      },
+      {
+         "description" : " There is no excerpt because this is a protected post. The post <a href=\"https://saintlouischessclub.org/news-insights-press/shop-store/\">Protected: THE PAWN SHOP</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/shop-store/",
+         "pubDate" : "Wed, 15 Apr 2026 19:37:15",
+         "title" : "Protected: THE PAWN SHOP"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130290400.cms\" />R Vaishali won the 2026 Women's Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-candidates-with-a-round-to-spare",
          "pubDate" : "Wed, 15 Apr 2026 15:44:00",
          "title" : "Javokhir Sindarov wins the FIDE Candidates with a round to spare - 13"
+      },
+      {
+         "description" : "One prominent guest of the Candidates Tournament in Cyprus is five-time World Champion Vishy Anand, who knows how it feels to play in and win-the Candidates. In an interview with ChessBase, he recalls the early days of databases and floppy disks, talks about the temptations of computer games, how preparation has changed over the years, and the upcoming World Championship match between challenger Javokhir Sindarov and reigning World Champion Gukesh. | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-re-flooded-with-information-the-key-is-making-sense-of-it-an-interview-with-vishy-anand",
+         "pubDate" : "Wed, 15 Apr 2026 15:06:52",
+         "title" : "\"We're flooded with information - the key is making sense of it\": An interview with Vishy Anand"
       },
       {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. No fewer than six players (out of eight) enter the final round with mathematical chances of winning the Women's Candidates Tournament. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
