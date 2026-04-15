@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/uzbek-gm-sindarov-storms-to-candidates-title-sets-up-world-clash-with-gukesh/articleshow/130273153.cms",
+         "pubDate" : "Wed, 15 Apr 2026 04:47:24",
+         "title" : "GM Sindarov wins Candidates 2026, sets up world title clash with Gukesh"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130271031.cms\" />In the running for the title, there are three contenders: India's Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China's Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-grenke-freestyle-chess-open-day-4",
          "pubDate" : "Sun, 05 Apr 2026 13:19:00",
          "title" : "Keymer Sole Leader Going Into Final Day At Grenke"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130037793.cms\" />At the Grenke Freestyle Open, Harika Dronavali offered a handshake while resigning, but Nodirbek Yakubboev responded with a respectful \"Namaste,\" both smiling. Meanwhile, Keymer and Niemann lead the event. Yakubboev earlier avoided shaking hands with Vaishali, later apologising with gifts. He clarified his actions were due to \"religious reasons,\" while expressing respect for her and Indian players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-handshake-uzbek-chess-gm-stuns-indias-harika-dronavali-with-namaste-watch/articleshow/130037793.cms",
-         "pubDate" : "Sun, 05 Apr 2026 11:09:26",
-         "title" : "No handshake! Uzbek GM stuns India's Harikai with 'Namaste' - Watch"
       },
       {
          "description" : " Javokhir Sindarov won yet again to move to 5.5/6 and revive memories of Veselin Topalov's 6.5/7 in the first half of the World Championship tournament in San Luis in 2005 (and as Anand admitted, the only person to draw, he saved a lost position), there in exactly the same format, Topalov cruised to victory by drawing the entirity of the second half of the tournament. Whilst Sindarov is on fire, and just looking and feeling in total control, he's only a point and a half clear of Fabiano Caruana at the moment. As stunning as his performance is, he's not yet a certainty, but the performance has been mind blowing. Today he survived some testing moments against Wei Yi, never seemed in real troub",
