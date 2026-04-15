@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bibisara Assaubayeva joined Vaishali Rameshbabu in the lead of the Women's Candidates Tournament after defeating Anna Muzychuk in round thirteen. Vaishali remained atop the standings after escaping with a draw against Tan Zhongyi, while Zhu Jiner first missed a chance to move into sole first place and then even lost to Aleksandra Goryachkina. Kateryna Lagno stayed in contention by beating Divya Deshmukh, leaving six players still with chances ahead of the final round. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-13",
+         "pubDate" : "Wed, 15 Apr 2026 10:15:00",
+         "title" : "Women's Candidates R13: Assaubayeva and Vaishali share the lead"
+      },
+      {
          "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
          "pubDate" : "Tue, 14 Apr 2026 14:28:00",
          "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. In Tuesday's penultimate round, all that Javokhir Sindarov needs to win the tournament is to get a draw in his encounter with black against Anish Giri. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Tue, 14 Apr 2026 14:15:00",
-         "title" : "Candidates Round 13 - Live!"
       },
       {
          "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-schools-u19-national-finals/",
          "pubDate" : "Thu, 26 Mar 2026 10:51:27",
          "title" : "ECF Schools U19 National Finals"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament 2026 and the FIDE Women's Candidates Tournament 2026 are set to take place from 28 March to 16 April at the Cap St&#160;Georges Hotel &#38; Resort, Peyia, Paphos, Cyprus. Both events are played as eight-player double round-robin tournaments, with 14 rounds in each competition. The Winner of the FIDE Candidates Tournament 2026 qualifies for the World Chess Championship match against the reigning champion Gukesh D, while the Winner of the FIDE Women's Candidates Tournament 2026 qualifies []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-candidates-tournaments-2026-start-in-cyprus/",
-         "pubDate" : "Wed, 25 Mar 2026 07:35:49",
-         "title" : "FIDE Candidates Tournaments 2026 start in Cyprus"
       }
    ]
 }
