@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130295968.cms\" />Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-indias-r-vaishali-caged-lagnos-dragon-to-claim-historic-womens-candidates-2026-title/articleshow/130295968.cms",
+         "pubDate" : "Thu, 16 Apr 2026 02:12:04",
+         "title" : "Explained: How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title"
+      },
+      {
          "description" : " Vaishali Rameshbabu took her opportunities in the final round of the Women's Candidates tournament to beat Kateryna Lagno and combined with Bibisara Assaubayeva's draw with Divya Deshmukh meant she took clear first place. Vaishali's win means she will play the champion since 2018, Ju Wenjun. Vaishali is the elder sister of Praggnanandhaa. Anna Muzychuk drew with Zhu Jiner and Aleksandra Goryachkina beat Tan Zhongyi in the remaining games. Javokhir Sindarov had already sewn up the Candidates in Round 13 and he engineered a very quick draw against Wei Yi to finish on +6 undefeated. Matthias Bluebaum came in a fighting mood against Anish Giri but it's not really his style and Giri impressively",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/07/untold-chess-mates-review-hans-niemann-magnus-carlsen-netflix",
          "pubDate" : "Tue, 07 Apr 2026 07:01:41",
          "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130075019.cms\" />Chess is grappling with a cheating crisis, forcing stringent security at top tournaments. World No. 2 Hikaru Nakamura sarcastically compared players to spies due to intense scanning. Indian Grandmasters like Koneru Humpy and Shyam Sundar M support these measures, emphasizing skill-based wins. Pravin Thipsay suggests delaying live broadcasts to curb cheating, arguing popularity doesn't hinge on instant updates.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mossad-agents-in-iran-do-indian-gms-agree-with-world-no-2-hikaru-nakamuras-fide-jab/articleshow/130075019.cms",
-         "pubDate" : "Tue, 07 Apr 2026 03:21:59",
-         "title" : "'Mossad agents in Iran': Do Indian GMs agree with World No. 2 Hikaru Nakamura's FIDE jab?"
       },
       {
          "description" : "In Netflix&#38;rsquo;s Untold: Chess Mates, GM Hans Niemann reflects on how his life was changed by cheating allegations, while GM Magnus Carlsen offers fresh insight into what sparked one of the most controversial scandals in modern chess. The 74-m...",
