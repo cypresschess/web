@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-playing-hall-experience-behind-the-scenes-day-4",
+         "pubDate" : "Thu, 16 Apr 2026 11:47:02",
+         "title" : "The Playing Hall Experience | Behind the Scenes - Day 4"
+      },
+      {
+         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
+         "pubDate" : "Thu, 16 Apr 2026 08:35:54",
+         "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
+      },
+      {
          "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun for the world title. Bibisara Assaubayeva drew with Divya Deshmukh and finished in sole second place, while Zhu Jiner and Aleksandra Goryachkina shared third. Arne K&auml;hler caught first impressions from the players. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/queens-gambit-vaishali-triumphs-in-candidates-will-vie-for-world-title/articleshow/130297371.cms",
          "pubDate" : "Thu, 16 Apr 2026 04:06:09",
          "title" : "Queen's Gambit: Vaishali triumphs in Candidates, will vie for world title"
+      },
+      {
+         "description" : "GM Hans Niemann decisively beat fellow American 2700 GM Awonder Liang in a 12-game match in Paris, France. Niemann went undefeated throughout the fast-classical match, winning three games and securing a final 7.5-4.5 victory. The players competed ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-defeats-liang-paris-match-world-number-12",
+         "pubDate" : "Thu, 16 Apr 2026 03:37:30",
+         "title" : "Niemann Defeats Liang In Paris, Hits Career-High World No. 12"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130295968.cms\" />Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
@@ -738,14 +762,6 @@ news_feed (
          "title" : "Why Hoping to Get Lucky is Ruining Your Chess"
       },
       {
-         "description" : "As the only two players still on a perfect 5/5 score in the Grenke Chess Freestyle Open, GMs Hans Niemann and Vincent Keymer will be playing each other on top board in Sunday morning&#39;s sixth round. Behind them is a group of six players on 4.5/5: G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grenke-freestyle-chess-open-day-3",
-         "pubDate" : "Sat, 04 Apr 2026 12:51:00",
-         "title" : "Keymer, Niemann Still Perfect, To Clash On Easter Morning"
-      },
-      {
          "description" : "National Rapid Rank Name 1 Aronyak Ghosh 2 Karthikeyan Murali 3 Hari Madhavan N B 4 Mitrabha Guha 5 Arjun Kalyan 6 Puranik Abhimanyu 7",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -888,22 +904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
          "pubDate" : "Fri, 27 Mar 2026 08:00:02",
          "title" : "Chess: iconic Reykjavik Open sparks memory of Bobby Fischer from 1973"
-      },
-      {
-         "description" : "&#160; The top two players in each section of the English Youth Championships qualify to play for England in the World Youth/Cadet Championships or European Youth Championships, with the first-placed...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-youth-championship-qualifiers-prizewinners/",
-         "pubDate" : "Thu, 26 Mar 2026 10:54:41",
-         "title" : "English Youth Championship Qualifiers & Prizewinners"
-      },
-      {
-         "description" : "Tuesday, 23rd and Wednesday, 24th June 2026 at Nottingham University Pope Building, University Park Campus * The tournament will be a 5 round Team Swiss System tournament for teams with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-schools-u19-national-finals/",
-         "pubDate" : "Thu, 26 Mar 2026 10:51:27",
-         "title" : "ECF Schools U19 National Finals"
       }
    ]
 }
