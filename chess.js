@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nine rounds have been played at the European Individual Chess Championship 2026 and there are only two rounds left before the announcement of the new European Champion. GM Nijat Abasov (AZE, 2586) and GM David Anton Guijarro (ESP, 2656) are in the joint lead ahead of the second free day, with the score of 7.5 points each. Playing on the top board today, GM David Anton Guijarro (ESP, 2656) drew with blacks against GM Aydin Suleymanli (AZE, 2653). The Spanish []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/nijat-abasov-and-david-anton-guijarro-in-joint-lead-at-eicc2026-after-nine-rounds/",
+         "pubDate" : "Thu, 16 Apr 2026 20:16:07",
+         "title" : "Nijat Abasov and David Anton Guijarro in joint lead at EICC2026 after nine rounds"
+      },
+      {
          "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun in the match for the world title. In this interview, Vaishali looks back on the months of preparation that followed her Grand Swiss victory, discusses the support of her family and team, and explains how she coped with the pressure of a tense and closely contested tournament. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
