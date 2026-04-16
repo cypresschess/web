@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun in the match for the world title. In this interview, Vaishali looks back on the months of preparation that followed her Grand Swiss victory, discusses the support of her family and team, and explains how she coped with the pressure of a tense and closely contested tournament. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-vaishali-interview",
+         "pubDate" : "Thu, 16 Apr 2026 19:20:00",
+         "title" : "Vaishali's incredible Candidates journey"
+      },
+      {
+         "description" : "Javokhir Sindarov concluded the Candidates Tournament in Cyprus with a quick draw against Wei Yi, finishing on 10/14 and recording the highest score of the modern Candidates era. Anish Giri secured sole second place by beating Matthias Bluebaum, while Fabiano Caruana ended the event in third after defeating Andrey Esipenko. Sindarov gained more than 30 rating points and climbed to fifth place in the live ratings list. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
+         "pubDate" : "Thu, 16 Apr 2026 18:15:00",
+         "title" : "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins"
+      },
+      {
          "description" : "Preparations are fully underway for the FIDE World Team Rapid and Blitz Chess Championships 2026 in Hong Kong from 16 to 22 June. In previous editions, the tournament has featured numerous top players competing alongside amateurs and rising talents, producing a dynamic atmosphere rarely seen in traditional elite events. Magnus Carlsen is expected to participate in Hong Kong, adding further star power to the competition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,6 +98,14 @@ news_feed (
          "title" : "Explained: How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title"
       },
       {
+         "description" : "In the final round of the 2026 FIDE Candidates, the Open and Women's each delivered two decisive games and two draws, but all of the drama was in the Women's event.GM Javokhir Sindarov had already clinched his spot in the next World Championship with a round to spare, while GMs Vaishali Rameshbabu and Bibisara Assaubayeva entered the Women's event tied for first. Plus, as many as four other players had at least a mathematical chance of claiming a share of first. Talk about being on the edge of your seat! <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sindarov became both a media darlin",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/candidates-round-14-vaishali",
+         "pubDate" : "Thu, 16 Apr 2026 00:00:00",
+         "title" : "Candidates Round 14: Vaishali!!!"
+      },
+      {
          "description" : " Vaishali Rameshbabu took her opportunities in the final round of the Women's Candidates tournament to beat Kateryna Lagno and combined with Bibisara Assaubayeva's draw with Divya Deshmukh meant she took clear first place. Vaishali's win means she will play the champion since 2018, Ju Wenjun. Vaishali is the elder sister of Praggnanandhaa. Anna Muzychuk drew with Zhu Jiner and Aleksandra Goryachkina beat Tan Zhongyi in the remaining games. Javokhir Sindarov had already sewn up the Candidates in Round 13 and he engineered a very quick draw against Wei Yi to finish on +6 undefeated. Matthias Bluebaum came in a fighting mood against Anish Giri but it's not really his style and Giri impressively",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-14",
          "pubDate" : "Wed, 15 Apr 2026 10:37:00",
          "title" : "Vaishali Wins Women's Candidates; Sindarov Breaks Record"
-      },
-      {
-         "description" : "Bibisara Assaubayeva joined Vaishali Rameshbabu in the lead of the Women's Candidates Tournament after defeating Anna Muzychuk in round thirteen. Vaishali remained atop the standings after escaping with a draw against Tan Zhongyi, while Zhu Jiner first missed a chance to move into sole first place and then even lost to Aleksandra Goryachkina. Kateryna Lagno stayed in contention by beating Divya Deshmukh, leaving six players still with chances ahead of the final round. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-13",
-         "pubDate" : "Wed, 15 Apr 2026 10:15:00",
-         "title" : "Women's Candidates R13: Assaubayeva and Vaishali share the lead"
       },
       {
          "description" : "GM Haik Martirosyan scored 10/11 to win his first-ever Titled Tuesday on April 14, starting out 9/9 and (after playing 267 moves to split his last two games) carrying that to his first ever win in the event. Last week&#39;s victor GM Sina Movahed scor...",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-high-school-k-12-championship-pt-2",
          "pubDate" : "Wed, 08 Apr 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 National High School (K-12) Championship, Pt. 2"
-      },
-      {
-         "description" : "Round 8 of the 2026 FIDE Candidates Tournament in Cyprus delivered another major shift. In the open event, GM Javokhir Sindarov continues his unbeaten run, stretching his lead to two full points. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Footballer David Luiz makes the ceremonial move for Esipenko. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Meanwhile, the Women's Candidates race tightened dramatically, as the leaders stumbled and five players now share the top spot as the second half heats up. Open: Sindarov Extends Lead as Nakamura StrikesNakamura Beats CaruanaGM Hikaru Nakamura scored his first victory of the tournament with a hard",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-8-sindarov-extends-lead-nakamura-strikes-womens-field-widens",
-         "pubDate" : "Wed, 08 Apr 2026 00:00:00",
-         "title" : "Candidates Round 8: Sindarov Extends Lead, Nakamura Strikes, Women's Field Widens"
       },
       {
          "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
