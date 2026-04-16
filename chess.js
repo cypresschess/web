@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun for the world title. Bibisara Assaubayeva drew with Divya Deshmukh and finished in sole second place, while Zhu Jiner and Aleksandra Goryachkina shared third. Arne K&auml;hler caught first impressions from the players. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-14",
+         "pubDate" : "Thu, 16 Apr 2026 07:20:00",
+         "title" : "Vaishali beats Lagno, wins hard-fought Women's Candidates Tournament"
+      },
+      {
+         "description" : "GM Vaishali R will challenge Ju Wenjun for the Women's World Chess Championship after winning the FIDE Women's Candidates Tournament 2026 outright with an impressive",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-triumph-r-vaishali-wins-candidates-earns-world-championship-match-against-ju-wenjun/",
+         "pubDate" : "Thu, 16 Apr 2026 05:57:32",
+         "title" : "Historic Triumph: R Vaishali wins Candidates, earns World Championship match against Ju Wenjun,"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130297371.cms\" />Indian chess sees a historic moment as R Vaishali secures a spot in the Women's World Championship match. She will challenge China's Ju Wenjun later this year. This achievement, alongside Praggnanandhaa's potential challenge in the men's section, marks twin Indian representation at the highest chess boards. Vaishali's victory as the lowest seed is a significant feat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/queens-gambit-vaishali-triumphs-in-candidates-will-vie-for-world-title/articleshow/130297371.cms",
+         "pubDate" : "Thu, 16 Apr 2026 04:06:09",
+         "title" : "Queen's Gambit: Vaishali triumphs in Candidates, will vie for world title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130295968.cms\" />Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130099767.cms\" />Indian chess saw mixed fortunes at the FIDE Candidates 2026. Divya Deshmukh surged to the top of the Women's leaderboard with a stunning victory over Anna Muzychuk, while R Praggnanandhaa's World Championship hopes dimmed after a crucial loss. Vaishali Rameshbabu drew her match, setting up an exciting all-Indian clash in the next round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-divya-deshmukh-outfoxed-leader-anna-muzychuk-to-climb-to-the-top/articleshow/130099767.cms",
-         "pubDate" : "Wed, 08 Apr 2026 01:14:56",
-         "title" : "Candidates Chess: How Divya Deshmukh outfoxed leader Anna Muzychuk to climb to the top"
-      },
-      {
          "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! A series of more beginner-friendly puzzles began with yesterday's Tactics Tuesday, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-rapid-blitz-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
          "pubDate" : "Sat, 04 Apr 2026 11:17:17",
          "title" : "Certificate :National Rapid & Blitz Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
-      },
-      {
-         "description" : "Special Note: If a player is accompanied by only one person, he/she will be charged the double-sharing rate. Triple-sharing rates are not applicable for two",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadets-cup-2026-in-batumi-georgia-from-15th-to-28th-june-2026/",
-         "pubDate" : "Sat, 04 Apr 2026 07:45:12",
-         "title" : "FIDE World Cadets Cup - 2026 in Batumi, Georgia from 15th to 28th June, 2026"
       },
       {
          "description" : " It was the anal bead theory that caused a global sensation. Now, a new Netflix film tells the tale of two grandmasters, one scandal - and a whole lot of bad blood Chess Mates (Netflix, Tuesday) has an unsettling early gambit: the face of Piers Morgan, looming via archive footage. \"Have you ever used anal beads while playing chess?\" Morgan asks down camera, as if prepping an ill-advised phone-in. \"Your curiosity is concerning. Maybe you're personally interested?\" shoots back his interviewee, Hans Niemann (above). The minds of chess masters, as glimpsed in this fantastic documentary, are almost as compelling as any back-passage shenanigans on the table. It's worth looking up the whole clip, f",
