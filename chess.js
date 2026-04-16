@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Preparations are fully underway for the FIDE World Team Rapid and Blitz Chess Championships 2026 in Hong Kong from 16 to 22 June. In previous editions, the tournament has featured numerous top players competing alongside amateurs and rising talents, producing a dynamic atmosphere rarely seen in traditional elite events. Magnus Carlsen is expected to participate in Hong Kong, adding further star power to the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/regulations-for-2026-fide-team-rapid-and-blitz",
+         "pubDate" : "Thu, 16 Apr 2026 16:00:00",
+         "title" : "Regulations for FIDE Rapid and Blitz"
+      },
+      {
+         "description" : "Strategical rules are important. Without them, learning chess would be much more difficult, if not impossible. When a beginner starts learning about the royal game, he needs a lot of guidance. Rules like \"a bishop pair is stronger than a bishop and a knight\" or \"the threat is stronger than its execution\" can provide such help. However, once the beginner turns into a grandmaster, he finds out that there is no need to follow the rules every time. Rules tend to have exceptions. Sometimes, specific aspects of the position are more important than an abstract rule. Let us have a look at four positions where it was good to break the rules! | Image: Markus Winkler",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-44-let-s-break-some-rules",
+         "pubDate" : "Thu, 16 Apr 2026 14:00:00",
+         "title" : "The Winning Academy 44: Let's break some rules!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130307038.cms\" />2025 saw third edition of Chennai Grand Masters. R Vaishali, the nation's toast at the moment, was invited to compete in the Challengers section, which includes relatively lower-rated players than the Masters field. Vaishali had a nightmarish tournament, finishing rock bottom. The winner of the Challengers section was Munirethinam Pranesh, a baby-faced assassin on the board.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/behind-vaishalis-candidates-glory-is-a-19-year-old-boy-named-m-pranesh/articleshow/130307038.cms",
+         "pubDate" : "Thu, 16 Apr 2026 12:38:35",
+         "title" : "Behind Vaishali's Candidates glory is a 19-year-old boy named Pranesh"
+      },
+      {
          "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-playing-hall-experience-behind-the-scenes-day-4",
          "pubDate" : "Thu, 16 Apr 2026 11:47:02",
-         "title" : "The Playing Hall Experience | Behind the Scenes - Day 4"
+         "title" : "Decisons | Behind the Scenes - Day 4"
       },
       {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-9",
          "pubDate" : "Wed, 08 Apr 2026 11:52:00",
          "title" : "Giri Beats Caruana To Close Gap To Sindarov; Zhu, Vaishali Grab Women's Lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130111329.cms\" />Netflix's \"Untold: Chess Mates\" revisits the 2022 controversy between Magnus Carlsen and Hans Niemann, sparked by Carlsen's withdrawal after a shock defeat and the subsequent cheating allegations. The film examines Niemann's lawsuit, claims of reputational harm, and tensions involving Chess.com's business ties. Despite polished storytelling, it offers no new evidence, leaving both players standing by their positions. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hans-niemann-documentary-is-untold-chess-mates-worth-watching/articleshow/130111329.cms",
-         "pubDate" : "Wed, 08 Apr 2026 11:31:02",
-         "title" : "Carlsen vs Hans documentary: Is 'Untold: Chess Mates' worth watching?"
       },
       {
          "description" : "GM Sina Movahed won his second Titled Tuesday of the spring split and third of his career on April 7, scoring 10/11 to win outright. Movahed also now leads the spring split standings. GM Alexey Sarana rode an 8/8 start to finish in sole second on ...",
