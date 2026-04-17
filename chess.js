@@ -162,14 +162,6 @@ news_feed (
          "title" : "Javokhir Sindarov wins the FIDE Candidates with a round to spare - 13"
       },
       {
-         "description" : "One prominent guest of the Candidates Tournament in Cyprus is five-time World Champion Vishy Anand, who knows how it feels to play in and win-the Candidates. In an interview with ChessBase, he recalls the early days of databases and floppy disks, talks about the temptations of computer games, how preparation has changed over the years, and the upcoming World Championship match between challenger Javokhir Sindarov and reigning World Champion Gukesh. | Photo: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-re-flooded-with-information-the-key-is-making-sense-of-it-an-interview-with-vishy-anand",
-         "pubDate" : "Wed, 15 Apr 2026 15:06:52",
-         "title" : "\"We're flooded with information - the key is making sense of it\": An interview with Vishy Anand"
-      },
-      {
          "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. No fewer than six players (out of eight) enter the final round with mathematical chances of winning the Women's Candidates Tournament. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
