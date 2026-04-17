@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The closing ceremony of the 2026 Candidates in Cyprus brought together players, organisers and guests after more than two weeks of intense competition. Held at the St. George's Hotel & Resort, the evening combined music, dance and prize presentations, culminating in honours for Vaishali Rameshbabu and Javokhir Sindarov as the winners of the women's and open events, respectively. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-closing-ceremony",
+         "pubDate" : "Fri, 17 Apr 2026 17:00:00",
+         "title" : "An emotional farewell to a historic edition of the Candidates Tournaments"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-vaishali-world-chess-championship-matches-to-be-held-together-heres-what-we-know/articleshow/130333208.cms",
+         "pubDate" : "Fri, 17 Apr 2026 12:43:28",
+         "title" : "Gukesh, Vaishali World Chess C'ship matches to be held together? Here's what we know"
+      },
+      {
          "description" : "ChessBase is expanding. In a press release, Freedom Holding Corp. has announced the acquisition of ChessBase. The Kazakh financial and technology group, based in New York, has been committed to chess for many years - as a partner of FIDE and a sponsor of international tournaments. An initial $5m investment is set to further develop and expand the ChessBase platform. The company will continue to be headquartered in Hamburg, Germany.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g12",
          "pubDate" : "Fri, 17 Apr 2026 04:40:00",
          "title" : "Niemann convincingly beats Liang in Paris"
+      },
+      {
+         "description" : "US Chess is seeking volunteers to assist at the 2026 National Elementary School Championships from April 30 through May 3 in Baltimore, MD. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/volunteers-wanted-2026-national-elementary-school-championships",
+         "pubDate" : "Fri, 17 Apr 2026 00:00:00",
+         "title" : "Volunteers Wanted for 2026 National Elementary School Championships"
       },
       {
          "description" : "Nine rounds have been played at the European Individual Chess Championship 2026 and there are only two rounds left before the announcement of the new European Champion. GM Nijat Abasov (AZE, 2586) and GM David Anton Guijarro (ESP, 2656) are in the joint lead ahead of the second free day, with the score of 7.5 points each. Playing on the top board today, GM David Anton Guijarro (ESP, 2656) drew with blacks against GM Aydin Suleymanli (AZE, 2653). The Spanish []",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "26th European Individual Championship 2026 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130149703.cms\" />Hikaru Nakamura said he has no interest in watching Netflix's documentary on Magnus Carlsen vs Hans Niemann, citing lack of context and personal disinterest. While the film revisits their 2022 controversy, Niemann declares: \"I'm gonna be a stone cold killer. I'm going to become the best player in the world.\"",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-intention-of-watching-world-no-2-hikaru-nakamura-on-magnus-carlsen-vs-hans-niemann-documentary/articleshow/130149703.cms",
-         "pubDate" : "Thu, 09 Apr 2026 17:20:41",
-         "title" : "'No intention of watching': Nakamura on Carlsen vs Hans documentary"
-      },
-      {
          "description" : "The 2026 FIDE Candidates Tournament, after its 10th round, continues to be the GM Javokhir Sindarov show as he leads by two points. The Uzbek star scored his record-breaking sixth win against GM Praggnanandhaa Rameshbabu and can now boast the most...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-extends-his-lead-to-two-points-in-the-candidates-even-after-a-draw-in-round-8",
          "pubDate" : "Wed, 8 Apr 2026 01:45:00",
          "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the just-concluded 2026 National High School (K-12) Championship. All of our coverage from Chicago is available here. WGM Sabina Foisor commentated on all seven rounds, and she bookmarked a number of her favorite positions from the tournament to use in these worksheets. Enjoy! A series of more beginner-friendly puzzles began with yesterday's Tactics Tuesday, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-high-school-k-12-championship-pt-2",
-         "pubDate" : "Wed, 08 Apr 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National High School (K-12) Championship, Pt. 2"
       },
       {
          "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
