@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase is expanding. In a press release, Freedom Holding Corp. has announced the acquisition of ChessBase. The Kazakh financial and technology group, based in New York, has been committed to chess for many years - as a partner of FIDE and a sponsor of international tournaments. An initial $5m investment is set to further develop and expand the ChessBase platform. The company will continue to be headquartered in Hamburg, Germany.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freedom-holding-acquires-chessbase",
+         "pubDate" : "Fri, 17 Apr 2026 10:50:19",
+         "title" : "Freedom Holding acquires ChessBase"
+      },
+      {
+         "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event",
+         "pubDate" : "Fri, 17 Apr 2026 07:00:24",
+         "title" : "Chess: Sindarov wins Candidates with record total, while Vaishali takes women's event"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130323040.cms\" />R Vaishali secured a remarkable victory at the Candidates, overcoming Kateryna Lagno to earn a spot in the World Championship match. Her triumph, achieved as the lowest-rated player in the field, signifies her emergence from her brother Praggnanandhaa's shadow, fulfilling her ambition to forge her own legacy in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/out-of-r-praggnanandhaas-shadow-vaishali-akka-stands-tall/articleshow/130323040.cms",
+         "pubDate" : "Fri, 17 Apr 2026 04:46:15",
+         "title" : "Out of R Praggnanandhaa's shadow, Vaishali 'akka' stands tall"
+      },
+      {
+         "description" : "Three wins and nine draws in twelve games - not a bad record for the winner. Remaining unbeaten, Hans Niemann left no doubt during his match in Paris against Awonder Liang. Niemann (pictured at the Grenke Open 2026 in Karlsruhe) won games three, eight and nine in the all-American clash, in which Liang was unable to score a single win. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g12",
+         "pubDate" : "Fri, 17 Apr 2026 04:40:00",
+         "title" : "Niemann convincingly beats Liang in Paris"
+      },
+      {
          "description" : "Nine rounds have been played at the European Individual Chess Championship 2026 and there are only two rounds left before the announcement of the new European Champion. GM Nijat Abasov (AZE, 2586) and GM David Anton Guijarro (ESP, 2656) are in the joint lead ahead of the second free day, with the score of 7.5 points each. Playing on the top board today, GM David Anton Guijarro (ESP, 2656) drew with blacks against GM Aydin Suleymanli (AZE, 2653). The Spanish []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,28 +50,12 @@ news_feed (
          "title" : "Vaishali's incredible Candidates journey"
       },
       {
-         "description" : "Javokhir Sindarov concluded the Candidates Tournament in Cyprus with a quick draw against Wei Yi, finishing on 10/14 and recording the highest score of the modern Candidates era. Anish Giri secured sole second place by beating Matthias Bluebaum, while Fabiano Caruana ended the event in third after defeating Andrey Esipenko. Sindarov gained more than 30 rating points and climbed to fifth place in the live ratings list. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
-         "pubDate" : "Thu, 16 Apr 2026 18:15:00",
-         "title" : "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins"
-      },
-      {
          "description" : "Preparations are fully underway for the FIDE World Team Rapid and Blitz Chess Championships 2026 in Hong Kong from 16 to 22 June. In previous editions, the tournament has featured numerous top players competing alongside amateurs and rising talents, producing a dynamic atmosphere rarely seen in traditional elite events. Magnus Carlsen is expected to participate in Hong Kong, adding further star power to the competition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/regulations-for-2026-fide-team-rapid-and-blitz",
          "pubDate" : "Thu, 16 Apr 2026 16:00:00",
          "title" : "Regulations for FIDE Rapid and Blitz"
-      },
-      {
-         "description" : "Strategical rules are important. Without them, learning chess would be much more difficult, if not impossible. When a beginner starts learning about the royal game, he needs a lot of guidance. Rules like \"a bishop pair is stronger than a bishop and a knight\" or \"the threat is stronger than its execution\" can provide such help. However, once the beginner turns into a grandmaster, he finds out that there is no need to follow the rules every time. Rules tend to have exceptions. Sometimes, specific aspects of the position are more important than an abstract rule. Let us have a look at four positions where it was good to break the rules! | Image: Markus Winkler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-44-let-s-break-some-rules",
-         "pubDate" : "Thu, 16 Apr 2026 14:00:00",
-         "title" : "The Winning Academy 44: Let's break some rules!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130307038.cms\" />2025 saw third edition of Chennai Grand Masters. R Vaishali, the nation's toast at the moment, was invited to compete in the Challengers section, which includes relatively lower-rated players than the Masters field. Vaishali had a nightmarish tournament, finishing rock bottom. The winner of the Challengers section was Munirethinam Pranesh, a baby-faced assassin on the board.",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "Behind Vaishali's Candidates glory is a 19-year-old boy named Pranesh"
       },
       {
-         "description" : "The ChessBase crew travels to Cyprus to cover the Candidates Tournament, bringing you daily impressions from one of the biggest events in chess. What is the atmosphere like around the world's best players? How is the venue, and where do the stars spend their time? What happens behind the scenes in the media centre and beyond? And what is Cyprus like as a host for such a prestigious event? From travel moments and unexpected encounters to exclusive insights into the tournament environment, we take you along for the journey-day by day. Experience the Candidates from the inside.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-playing-hall-experience-behind-the-scenes-day-4",
-         "pubDate" : "Thu, 16 Apr 2026 11:47:02",
-         "title" : "Decisons | Behind the Scenes - Day 4"
-      },
-      {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
          "pubDate" : "Thu, 16 Apr 2026 08:35:54",
          "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun for the world title. Bibisara Assaubayeva drew with Divya Deshmukh and finished in sole second place, while Zhu Jiner and Aleksandra Goryachkina shared third. Arne K&auml;hler caught first impressions from the players. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-w-14",
-         "pubDate" : "Thu, 16 Apr 2026 07:20:00",
-         "title" : "Vaishali beats Lagno, wins hard-fought Women's Candidates Tournament"
       },
       {
          "description" : "GM Vaishali R will challenge Ju Wenjun for the Women's World Chess Championship after winning the FIDE Women's Candidates Tournament 2026 outright with an impressive",
@@ -562,14 +562,6 @@ news_feed (
          "title" : "Sindarov Sacs Piece For Record-Breaking 6th Win; Vaishali Leads Women's Race"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130127263.cms\" />Indian chess sensation R Vaishali secured a commanding victory over compatriot Divya Deshmukh at the Women's Candidates, seizing a co-lead. Meanwhile, R Praggnanandhaa faced another draw, struggling to convert his advantage against Wei Yi. In the Open section, Javokhir Sindarov leads the pack with 7/9 points. The tournament continues with crucial pairings in both sections.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-candidates-how-r-vaishali-crushed-divya-deshmukh-in-31-moves-to-join-lead-after-round-9/articleshow/130127263.cms",
-         "pubDate" : "Thu, 09 Apr 2026 01:53:02",
-         "title" : "Candidates: How R Vaishali crushed Divya Deshmukh in 31 moves to join lead"
-      },
-      {
          "description" : "With only five rounds to go, GM Javokhir Sindarov maintains his point-and-a-half lead in the 2026 FIDE Candidates tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Smiles at the start of Bluebaum - Sindarov. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> He did, however, have one opportunity today to extend his lead to a full two points. When asked about 24. &hellip; Qb7, and whether, at this point, he's trying to avoid complications, Sindarov explained that he generally wants to play safe, but didn't spend too much time on the move and was surprised to see on the computer that the evaluation of the position is winning for Black. <br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -920,14 +912,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/self-awareness-in-chess/",
          "pubDate" : "Sat, 28 Mar 2026 14:00:00",
          "title" : "The One Chess Skill Nobody Talks About (That Changes Everything)"
-      },
-      {
-         "description" : " The US legend declined a $25,000 offer from shoe firm Clarks to meet the cream of England's juniors The nine-round Reykjavik Open, which began on Wednesday afternoon at the Harpa Conference Centre, is an iconic event. It was first played as an all-play-all in 1964, when Mikhail Tal won, and is close to the Hotel Reykjavik Natura, formerly the Hotel Loftleidir, which featured prominently in the epic Bobby Fischer v Boris Spassky match of 1972. The top seed in the capacity entry of 422 players is Iran's Amin Tabatabaei, the only 2700-rated player in the field, with Romania's Bogdan-Daniel Deac (2655) next, and the veteran Ukrainian Vasyl Ivanchuk (2624) the fourth seed. <a href=\"https://www.t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/mar/27/chess-iconic-reykjavik-open-sparks-memory-of-bobby-fischer-from-1973",
-         "pubDate" : "Fri, 27 Mar 2026 08:00:02",
-         "title" : "Chess: iconic Reykjavik Open sparks memory of Bobby Fischer from 1973"
       }
    ]
 }
