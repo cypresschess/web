@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "KCF Academy is welcoming a very special guest. On April 19th, at 17:00 CET, we open the doors to an evening with Arshak Petrosian, one of the greatest coaches the chess world has ever seen. It is an incredible chance to see live the coach, thinker, and architect of a golden era in chess, live at KCF Academy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-masterclass-secrets-of-a-champion-maker",
+         "pubDate" : "Fri, 17 Apr 2026 19:00:00",
+         "title" : "Live Masterclass: Secrets of a Champion Maker"
+      },
+      {
          "description" : "The closing ceremony of the 2026 Candidates in Cyprus brought together players, organisers and guests after more than two weeks of intense competition. Held at the St. George's Hotel & Resort, the evening combined music, dance and prize presentations, culminating in honours for Vaishali Rameshbabu and Javokhir Sindarov as the winners of the women's and open events, respectively. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2026-closing-ceremony",
          "pubDate" : "Fri, 17 Apr 2026 17:00:00",
          "title" : "An emotional farewell to a historic edition of the Candidates Tournaments"
+      },
+      {
+         "description" : "IMs Renato Terry and Karina Ambartsumova extended their records for 3 0 Thursday tournament victories on Thursday, April 16. Terry won a record 11th victory in the third tournament of the day, advancing ahead of GM Jose Martinez for the most wins ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/taher-maghsoodloo-terry-3-0-thursday-04-16-2026",
+         "pubDate" : "Fri, 17 Apr 2026 14:01:00",
+         "title" : "Terry, Ambartsumova Extend 3 0 Thursday Records"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
@@ -18,12 +34,44 @@ news_feed (
          "title" : "Gukesh, Vaishali World Chess C'ship matches to be held together? Here's what we know"
       },
       {
+         "description" : "The 12-year-old IM Faustino Oro was victorious in Freestyle Friday on April 17, the only of the three co-leaders entering the final round to win his game. GM Pranav Venkatesh finished in second place after leapfrogging the other two, IM Sahib Sing...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oro-wins-freestyle-friday-april-17-2026",
+         "pubDate" : "Fri, 17 Apr 2026 11:12:52",
+         "title" : "Fausti Friday As Oro Takes First Freestyle Gold"
+      },
+      {
+         "description" : "Chess players now have a great reason to go to Atlanta. Another qualification path to the Esports World Cup (EWC) goes through the DreamHack chess event in Atlanta. The event takes place from May 15 to 17 and offers not only a $50,000 prize fund b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-dreamhack-atlanta-2026",
+         "pubDate" : "Fri, 17 Apr 2026 11:04:04",
+         "title" : "DreamHack Atlanta To Start On May 15 With 4 Esports World Cup Spots For Grabs"
+      },
+      {
          "description" : "ChessBase is expanding. In a press release, Freedom Holding Corp. has announced the acquisition of ChessBase. The Kazakh financial and technology group, based in New York, has been committed to chess for many years - as a partner of FIDE and a sponsor of international tournaments. An initial $5m investment is set to further develop and expand the ChessBase platform. The company will continue to be headquartered in Hamburg, Germany.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freedom-holding-acquires-chessbase",
          "pubDate" : "Fri, 17 Apr 2026 10:50:19",
          "title" : "Freedom Holding acquires ChessBase"
+      },
+      {
+         "description" : "GM Javokhir Sindarov blew away the field in the 2026 FIDE Candidates Tournament in Cyprus to win &#38;euro;170,000 (~$200k as of April 17, 2026) and, much more importantly, earn a world championship match against GM Gukesh Dommaraju. The&#38;nbsp;2026 FID...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions",
+         "pubDate" : "Fri, 17 Apr 2026 10:43:00",
+         "title" : "Sindarov, Vaishali Triumph: 7 FIDE Candidates Conclusions"
+      },
+      {
+         "description" : "Kazakh-based investment and technology company Freedom Holding has acquired ChessBase, perhaps the most influential company in chess software and professional training tools over the past three decades. The deal was confirmed in a press release ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freedom-holding-acquires-german-software-company-chessbase",
+         "pubDate" : "Fri, 17 Apr 2026 08:42:00",
+         "title" : "Freedom Holding Acquires ChessBase"
       },
       {
          "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
@@ -50,7 +98,7 @@ news_feed (
          "title" : "Niemann convincingly beats Liang in Paris"
       },
       {
-         "description" : "US Chess is seeking volunteers to assist at the 2026 National Elementary School Championships from April 30 through May 3 in Baltimore, MD. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes",
+         "description" : "US Chess is seeking volunteers to assist at the 2026 National Elementary School Championships from April 30 through May 3 in Baltimore, MD. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership not required, but preferred. Volunteers have a variety of roles which can change from event to event. Examples of past duties performed by volunteers include:Trophy setup and take downChess board set up a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/volunteers-wanted-2026-national-elementary-school-championships",
@@ -706,14 +754,6 @@ news_feed (
          "title" : "Keymer Edges Out Vachier-Lagrave On Tiebreak, Wins Grenke Freestyle Open"
       },
       {
-         "description" : "Everyone&#39;s favorite celebrity chess event is back! Get ready for the most nonsensical chess ever witnessed by humankind, as PogChamps 6 7 takes place on April 10 at 4:30 p.m. ET / 22:30 CET. Eight of the world&#39;s biggest creators will bring the ful...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-pogchamps-6-7",
-         "pubDate" : "Mon, 06 Apr 2026 12:00:00",
-         "title" : "World's Favorite Celebrity Chess Tournament Is Back With PogChamps 6 7"
-      },
-      {
          "description" : "The 2026 European Individual Chess Championship starts tomorrow in Katowice, Poland, and will be played from 7-19 April at the Arena Katowice. With 502 registered players coming from 43 European federations, the event will likely set a new participation record which was previously seen in Vrnjacka Banja, Serbia at the 2023 edition with 484 players. A very strong field includes 93 Grandmasters, 98 International Masters, 7 WGMs, 8 WIMs, and a total of 345 titled players. The top seeds are: []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -738,44 +778,12 @@ news_feed (
          "title" : "Javokhir Sindarov leads the FIDE Candidates by 1.5 points at the half way stage - 7"
       },
       {
-         "description" : "GM Javokhir Sindarov has ended the first half of the 2026 FIDE Candidates Tournament with a record 6/7, though GM Anish Giri built a fortress to deny him yet another win. GM Fabiano Caruana remains 1.5 points back after a draw against GM Praggnana...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-7",
-         "pubDate" : "Sun, 05 Apr 2026 15:21:00",
-         "title" : "Sindarov On Historic 6/7 At Halfway; Wei Yi Grabs 1st Win"
-      },
-      {
-         "description" : "Easter Sunday was another good day on home soil for GM Vincent Keymer, who beat GM Hans Niemann and drew with GM Magnus Carlsen to emerge as the sole leader of&#38;nbsp;the Grenke Chess Freestyle Open with two rounds to go. Three players are trailing ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grenke-freestyle-chess-open-day-4",
-         "pubDate" : "Sun, 05 Apr 2026 13:19:00",
-         "title" : "Keymer Sole Leader Going Into Final Day At Grenke"
-      },
-      {
          "description" : " Javokhir Sindarov won yet again to move to 5.5/6 and revive memories of Veselin Topalov's 6.5/7 in the first half of the World Championship tournament in San Luis in 2005 (and as Anand admitted, the only person to draw, he saved a lost position), there in exactly the same format, Topalov cruised to victory by drawing the entirity of the second half of the tournament. Whilst Sindarov is on fire, and just looking and feeling in total control, he's only a point and a half clear of Fabiano Caruana at the moment. As stunning as his performance is, he's not yet a certainty, but the performance has been mind blowing. Today he survived some testing moments against Wei Yi, never seemed in real troub",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-in-danger-of-running-away-with-the-candidates-after-he-moves-to-5.56",
          "pubDate" : "Sun, 5 Apr 2026 02:23:00",
          "title" : "Sindarov in danger of running away with the Candidates after he moves to 5.5/6 - 6"
-      },
-      {
-         "description" : "Once again it was all about GM Javokhir Sindarov in the 2026 FIDE Candidates Tournament as the Uzbek star won a difficult position against GM Wei Yi to move to a mind-blowing 5.5/6. He leads his closest pursuer GM Fabiano Caruana by 1.5 points aft...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-6",
-         "pubDate" : "Sat, 04 Apr 2026 15:55:00",
-         "title" : "Sindarov Strikes Again; Anna Muzychuk Leads Women's Candidates"
-      },
-      {
-         "description" : "Peruvian IM Renato Terry achieved a groundbreaking feat after pulling off the first Chess.com titled arena trifecta by taking out Saturday&#39;s Bullet Brawl. Terry held his nerve and streaked his way to 156 points, outdoing the second-through-fourt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/renato-terry-wins-bullet-brawl-apr-4-2026",
-         "pubDate" : "Sat, 04 Apr 2026 14:13:00",
-         "title" : "Terry Pulls Off Bullet Brawl, Freestyle Friday, 3 0 Thursday Trifecta"
       },
       {
          "description" : "I love playing poker. It is a super fun game, combining human psychology, game theory, and a component of luck. Since stopping my professional chess career, I allowed myself to dabble in this card game, went to play tournaments, and traveled all the way to Las Vegas to play in the famous World Series of []",
@@ -879,7 +887,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
          "pubDate" : "Tue, 31 Mar 2026 18:06:53",
-         "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support"
+         "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support - UPDATED"
       },
       {
          "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
