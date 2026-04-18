@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What skills define a modern grandmaster, and what can amateurs learn from them? It is a combination of strategies, insights, and techniques compiled by the English GM and coach Nicholas Pert in a two-volume video course. From the opening through tactics and strategy to the endgame, the author explains the thinking and preparation of masters using illustrative games. Jochen Schwarz has examined the Pert course in detail and reviewed it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-revealing-modern-grandmaster-secrets-von-nicholas-pert",
+         "pubDate" : "Sat, 18 Apr 2026 07:00:00",
+         "title" : "Review: Revealing Modern Grandmaster Secrets by Nicholas Pert"
+      },
+      {
          "description" : "Abhimanyu Mishra scored 7&frac12;/9 in consecutive open tournaments in Spain, finishing tied for first place both at the Semana Santa Open in Alicante and at the Menorca Open. The 17-year-old remained undefeated across both events, gaining 15.3 rating points in the process. His recent run brought him up to sixth place in the live ratings list among junior players. | Pictured: Star organiser Patricia Claros and Abhimanyu Mishra | Photo: Luis Barona / Semana Santa Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
