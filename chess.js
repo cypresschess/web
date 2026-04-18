@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yagiz Kaan Erdogmus scored a convincing 5-1 victory over former world champion Veselin Topalov in their six-game classical match held in Monte Carlo from 12 to 17 April. After a tense draw in the opening game, the Turkish teenager won four of the next five encounters, showing strong tactical and positional play throughout the match. The result allowed Erdogmus to become the youngest-ever player to surpass the 2700 rating mark, breaking Wei Yi's record by a considerable margin. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/erdogmus-obtains-emphatic-win-over-topalov-breaks-2700-rating-barrier-at-14",
+         "pubDate" : "Sat, 18 Apr 2026 20:20:00",
+         "title" : "Erdogmus obtains emphatic win over Topalov, joins 2700 club at 14"
+      },
+      {
          "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ignacio-wins-2026-4-player-chess-championship",
-         "pubDate" : "Sat, 18 Apr 2026 07:08:43",
+         "pubDate" : "Sat, 18 Apr 2026 07:08:00",
          "title" : "Ignacio Defends 4-Player Chess Title"
       },
       {
