@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Abhimanyu Mishra scored 7&frac12;/9 in consecutive open tournaments in Spain, finishing tied for first place both at the Semana Santa Open in Alicante and at the Menorca Open. The 17-year-old remained undefeated across both events, gaining 15.3 rating points in the process. His recent run brought him up to sixth place in the live ratings list among junior players. | Pictured: Star organiser Patricia Claros and Abhimanyu Mishra | Photo: Luis Barona / Semana Santa Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhimanyu-mishra-alicante-menorca-2026",
+         "pubDate" : "Sat, 18 Apr 2026 03:50:00",
+         "title" : "Abhimanyu Mishra scores back-to-back 7&frac12;/9 results in Spain"
+      },
+      {
          "description" : "KCF Academy is welcoming a very special guest. On April 19th, at 17:00 CET, we open the doors to an evening with Arshak Petrosian, one of the greatest coaches the chess world has ever seen. It is an incredible chance to see live the coach, thinker, and architect of a golden era in chess, live at KCF Academy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
