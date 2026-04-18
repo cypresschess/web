@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
+         "pubDate" : "Sat, 18 Apr 2026 15:00:00",
+         "title" : "European Championship, Round 10 - Live"
+      },
+      {
+         "description" : "On March 6th I launched Real Chess Training. 300+ students joined in the first week. The feedback has been incredible. Today I want to share 6 lessons from 6 weeks of Real Chess Training. Lesson 1: Hard Training Can Be Fun With all the &#8220;quick and easy&#8221; messaging out there, doing something hard becomes less []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/lessons-from-real-chess-training/",
+         "pubDate" : "Sat, 18 Apr 2026 13:00:00",
+         "title" : "6 Lessons From 6 Weeks of Real Chess Training"
+      },
+      {
          "description" : "With two rounds to go at the European Championship in Katowice, David Anton (pictured) and Nijat Abasov share the lead on 7&frac12;/9 and are set to meet in Saturday's tenth round. Ten players stand just half a point behind, including Aydin Suleymanli, Ediz Gurel and Haik Martirosyan, while a further 24 players remain within a point of first place. The battle for both the title and World Cup qualification spots remains wide open. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-ch-2026-r9",
          "pubDate" : "Sat, 18 Apr 2026 11:10:00",
          "title" : "European Championship: Abasov and Anton share the lead ahead of final weekend in Katowice"
+      },
+      {
+         "description" : "Luis Ignasio, aka EyeoftheTiger1204, defended his title in the second edition of the 4-Player Chess Championship. Despite starting the first game of the Knockout by finishing last, he made what commentator Jai Sandhu called &#34;a sensational return a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ignacio-wins-2026-4-player-chess-championship",
+         "pubDate" : "Sat, 18 Apr 2026 07:08:43",
+         "title" : "Ignacio Defends 4-Player Chess Title"
       },
       {
          "description" : "What skills define a modern grandmaster, and what can amateurs learn from them? It is a combination of strategies, insights, and techniques compiled by the English GM and coach Nicholas Pert in a two-volume video course. From the opening through tactics and strategy to the endgame, the author explains the thinking and preparation of masters using illustrative games. Jochen Schwarz has examined the Pert course in detail and reviewed it.",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "A Game That Outlasted the Day (3)"
       },
       {
-         "description" : "Finishing with two draws on the final day was just enough for GM Vincent Keymer to win the 60,000 euro first prize at the Grenke Chess Freestyle Open&#38;nbsp;and qualify for the 2027 FIDE Freestyle World Championship. The 21-year-old German grandmast...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-2026-grenke-freestyle-chess-open",
-         "pubDate" : "Mon, 06 Apr 2026 13:58:00",
-         "title" : "Keymer Edges Out Vachier-Lagrave On Tiebreak, Wins Grenke Freestyle Open"
-      },
-      {
          "description" : "The 2026 European Individual Chess Championship starts tomorrow in Katowice, Poland, and will be played from 7-19 April at the Arena Katowice. With 502 registered players coming from 43 European federations, the event will likely set a new participation record which was previously seen in Vrnjacka Banja, Serbia at the 2023 edition with 484 players. A very strong field includes 93 Grandmasters, 98 International Masters, 7 WGMs, 8 WIMs, and a total of 345 titled players. The top seeds are: []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournaments-2026",
          "pubDate" : "Sun, 29 Mar 2026 00:12:00",
          "title" : "FIDE Candidates Tournaments 2026 - Games and Results"
-      },
-      {
-         "description" : "It is so easy to lie to ourselves. Over the years, I've worked with dozens of private students and observed more than a thousand course students' improvement stories. The one skill that is rarely talked about, but makes a massive difference is: Self-Awareness. Students who are self-aware are not immune to struggles, plateaus, or losing []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/self-awareness-in-chess/",
-         "pubDate" : "Sat, 28 Mar 2026 14:00:00",
-         "title" : "The One Chess Skill Nobody Talks About (That Changes Everything)"
       }
    ]
 }
