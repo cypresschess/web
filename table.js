@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-04-17","26","<a href=https://ratings.uschess.org/event/202604170773 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2026-04-17","40","<a href=https://ratings.uschess.org/event/202604170693 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-04-12","12","<a href=https://ratings.uschess.org/event/202604120303 target='_blank'>2026 Houston Circuit T4 by AzChAcad</a>",
 "HOUSTON","2026-04-12","16","<a href=https://ratings.uschess.org/event/202604120263 target='_blank'>Bellaire Sunday Swiss 2026.04.12</a>",
 "HOUSTON","2026-04-12","26","<a href=https://ratings.uschess.org/event/202604120193 target='_blank'>SRI MEENAKSHI TEMPLE 04-12-2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-01-24","8","<a href=https://ratings.uschess.org/event/202601240733 target='_blank'>winter-01-24-2026</a>",
 "CYPRESS","2026-01-23","38","<a href=https://ratings.uschess.org/event/202601230393 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-01-23","14","<a href=https://ratings.uschess.org/event/202601230333 target='_blank'>FBCC 2026 National Pie Day Open</a>",
-"SPRING","2026-01-23","21","<a href=https://ratings.uschess.org/event/202601230273 target='_blank'>The Friday Knights</a>",
-"HOUSTON","2026-01-18","58","<a href=https://ratings.uschess.org/event/202601180753 target='_blank'>2nd Annual MLK Day Open</a>",
 ]);
