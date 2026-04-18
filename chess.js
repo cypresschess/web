@@ -10,6 +10,22 @@ news_feed (
          "title" : "Erdogmus obtains emphatic win over Topalov, joins 2700 club at 14"
       },
       {
+         "description" : "Only one round left to be played at the European Individual Chess Championship 2026 and the tension reached its maximum as five players enter the last day co-leading in the tournament! Five-way tie for the top between GM David Anton Guijarro (ESP, 2656), GM Aydin Suleymanli (AZE, 2653), GM Muradli Mahammad (AZE, 2605), GM Nijat Abasov (AZE, 2586) and IM Roman Dehtiarov (UKR, 2452) promises an exiting final round which is scheduled for tomorrow, 15:00 CEST. In a direct encounter []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/five-way-tie-at-the-top-of-eicc2026-ahead-of-the-final-round/",
+         "pubDate" : "Sat, 18 Apr 2026 19:53:49",
+         "title" : "Five-way tie at the top of EICC2026 ahead of the Final Round"
+      },
+      {
+         "description" : "GM Yagiz Kaan Erdogmus has taken another step toward chess history. The 14-year-old Turkish prodigy crushed GM Veselin Topalov 5-1 in the Clash of Generations III on Friday, breaking the 2700 barrier on the live rating list for the first time and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-makes-history-again-to-become-youngest-ever-2700-player",
+         "pubDate" : "Sat, 18 Apr 2026 15:34:00",
+         "title" : "Erdogmus Scores 5-1 Knockout Against Topalov, Closes In On Youngest-Ever 2700 Record"
+      },
+      {
          "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,14 +802,6 @@ news_feed (
          "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
       },
       {
-         "description" : "In Netflix&#38;rsquo;s Untold: Chess Mates, GM Hans Niemann reflects on how his life was changed by cheating allegations, while GM Magnus Carlsen offers fresh insight into what sparked one of the most controversial scandals in modern chess. The 74-m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-new-insight-niemann-cheating-admission-netflix-untold-chessmates",
-         "pubDate" : "Tue, 07 Apr 2026 01:16:00",
-         "title" : "Carlsen, Niemann Speak On Chess Scandal In Netflix Untold Documentary"
-      },
-      {
          "description" : "Two months ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47. | Photo during the game by Chess Club Kaksikodad - from the right, GM Aleksandr Volodin and the chief arbiter Askold Nassar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-and-caruana-both-win-in-candidates-round-5",
          "pubDate" : "Fri, 3 Apr 2026 23:07:00",
          "title" : "Sindarov and Caruana both win in Candidates Round 5 - 5"
-      },
-      {
-         "description" : "Introduction The first quarter of 2026 marked an active and strategically important period for the European Chess Union (ECU). Across competition, education, and communications, the ECU continued to advance its institutional mission of promoting and developing chess throughout Europe. The period from January to March 2026 reflected the organization's ongoing commitment to high-level event delivery, professional training, and the strengthening of its public presence. Major Events A principal activity during the reporting period was the European Women's Rapid and Blitz []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-activities-report-january-march-2026/",
-         "pubDate" : "Fri, 03 Apr 2026 12:23:09",
-         "title" : "ECU Activities Report: January - March 2026"
       },
       {
          "description" : " Have you been following the big stories in football, cricket, rugby league, boxing, golf, F1, athletics, rowing and chess? <a href=\"https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess\">Continue reading...</a>",
