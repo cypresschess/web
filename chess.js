@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With two rounds to go at the European Championship in Katowice, David Anton (pictured) and Nijat Abasov share the lead on 7&frac12;/9 and are set to meet in Saturday's tenth round. Ten players stand just half a point behind, including Aydin Suleymanli, Ediz Gurel and Haik Martirosyan, while a further 24 players remain within a point of first place. The battle for both the title and World Cup qualification spots remains wide open. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2026-r9",
+         "pubDate" : "Sat, 18 Apr 2026 11:10:00",
+         "title" : "European Championship: Abasov and Anton share the lead ahead of final weekend in Katowice"
+      },
+      {
          "description" : "What skills define a modern grandmaster, and what can amateurs learn from them? It is a combination of strategies, insights, and techniques compiled by the English GM and coach Nicholas Pert in a two-volume video course. From the opening through tactics and strategy to the endgame, the author explains the thinking and preparation of masters using illustrative games. Jochen Schwarz has examined the Pert course in detail and reviewed it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Freedom Holding acquires ChessBase"
       },
       {
-         "description" : "GM Javokhir Sindarov blew away the field in the 2026 FIDE Candidates Tournament in Cyprus to win &#38;euro;170,000 (~$200k as of April 17, 2026) and, much more importantly, earn a world championship match against GM Gukesh Dommaraju. The&#38;nbsp;2026 FID...",
+         "description" : "GM Javokhir Sindarov blew away the field in the 2026 FIDE Candidates Tournament in Cyprus to win &#38;euro;170,000 (~$200k) and, much more importantly, earn a world championship match against GM Gukesh Dommaraju. The&#38;nbsp;2026 FIDE Women&#39;s Candidates ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions",
