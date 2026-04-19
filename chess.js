@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130358285.cms\" />Vaishali Rameshbabu's journey to the Women's Candidates title wasn't easy. After a poor run in Chennai shattered her confidence, she even considered skipping the Grand Swiss. A crucial two-hour call with Karthikeyan Murali changed her mind. A mental reset helped her win the event, regain form, and now she prepares to face world champion Ju Wenjun.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
+         "pubDate" : "Sun, 19 Apr 2026 03:00:00",
+         "title" : "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory"
+      },
+      {
          "description" : "Yagiz Kaan Erdogmus scored a convincing 5-1 victory over former world champion Veselin Topalov in their six-game classical match held in Monte Carlo from 12 to 17 April. After a tense draw in the opening game, the Turkish teenager won four of the next five encounters, showing strong tactical and positional play throughout the match. The result allowed Erdogmus to become the youngest-ever player to surpass the 2700 rating mark, breaking Wei Yi's record by a considerable margin. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +658,6 @@ news_feed (
          "title" : "Chess: Sindarov extends Candidates lead and heads for world title challenge"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130156692.cms\" />India's Vaishali Rameshbabu leads the FIDE Candidates 2026 women's section after a draw in the 10th round, showcasing impressive form. However, compatriots Divya Deshmukh and R Praggnanandhaa faced setbacks. Divya's endgame collapse likely ended her championship hopes, while Praggnanandhaa's tactical misstep against Sindarov cost him dearly, impacting India's overall challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-r-vaishali-takes-sole-lead-with-four-rounds-to-go/articleshow/130156692.cms",
-         "pubDate" : "Fri, 10 Apr 2026 01:28:48",
-         "title" : "Candidates Chess: India's R Vaishali takes sole lead with four rounds to go"
-      },
-      {
          "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa, this restored a two point lead with only four rounds to go. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely, he's simply seeing too much, even then Giri would have to score almost perfectly to even catch him. The other games were drawn. Friday is a rest day. In the Women's event ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/fide-candidates-tournament-in-cyprus-starts-with-three-decisive-games",
          "pubDate" : "Sun, 29 Mar 2026 22:09:00",
          "title" : "FIDE Candidates tournament in Cyprus starts with three decisive games - 1"
-      },
-      {
-         "description" : " The FIDE Candidates Tournaments both open and women's events take place in the Cap St Georges resort, Cyprus, Sun 29th Mar to Thu 16th Apr 2026. I would argue that this is the highlight of the entire FIDE World Championship cycle. The poor form of the current champion Gukesh has to be a major motivating factor for anyone in the open event. The event is on the periphery of the current Iran conflict and Humpy Koneru decided that she would not participate in the women's event due to the perceived danger and was at the last minute replaced by Anna Muzychuk. Players open: Hikaru Nakamura, Fabiano Caruana, Anish Giri, R Praggnanandhaa, Javokhir Sindarov, Andrey Esipenko, Matthias Bluebaum and Wei",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournaments-2026",
-         "pubDate" : "Sun, 29 Mar 2026 00:12:00",
-         "title" : "FIDE Candidates Tournaments 2026 - Games and Results"
       }
    ]
 }
