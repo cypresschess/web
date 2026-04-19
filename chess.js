@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase&acute;26 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-11-multitasking-with-several-windows",
+         "pubDate" : "Sun, 19 Apr 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips Part 11: Multitasking with several windows"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-have-a-long-way-to-go-r-vaishali/articleshow/130365184.cms",
+         "pubDate" : "Sun, 19 Apr 2026 04:53:26",
+         "title" : "Still have a long way to go: R Vaishali"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130358285.cms\" />Vaishali Rameshbabu's journey to the Women's Candidates title wasn't easy. After a poor run in Chennai shattered her confidence, she even considered skipping the Grand Swiss. A crucial two-hour call with Karthikeyan Murali changed her mind. A mental reset helped her win the event, regain form, and now she prepares to face world champion Ju Wenjun.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
          "pubDate" : "Sun, 19 Apr 2026 03:00:00",
          "title" : "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory"
+      },
+      {
+         "description" : "GM Arjun Erigaisi has proven his mettle once again in the Bullet Brawl&#38;nbsp;arena by confirming his second title in a commanding display of attacking chess. Arjun scored 52/63 in two hours for a score of 175 points, earning him the $400 first priz...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-18-2026",
+         "pubDate" : "Sat, 18 Apr 2026 22:22:00",
+         "title" : "Arjun Picks Up 2nd Bullet Brawl Title In Dominant Fashion"
       },
       {
          "description" : "Yagiz Kaan Erdogmus scored a convincing 5-1 victory over former world champion Veselin Topalov in their six-game classical match held in Monte Carlo from 12 to 17 April. After a tense draw in the opening game, the Turkish teenager won four of the next five encounters, showing strong tactical and positional play throughout the match. The result allowed Erdogmus to become the youngest-ever player to surpass the 2700 rating mark, breaking Wei Yi's record by a considerable margin. | Photo: FIDE / Michal Walusza",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Only two players remain perfect after four played rounds at EICC2026"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130187919.cms\" />Uzbekistan's Javokhir Sindarov is on the cusp of winning the FIDE Candidates 2026, poised to challenge World Champion D Gukesh. His rapid play and impressive unbeaten streak have captivated the chess world. Managed by Tom Guilbaud, Sindarov's career has transformed from obscurity to a top contender, aided by strategic social media promotion and newfound sponsorships.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-d-gukeshs-likely-world-cship-challenger-cracks-code-for-sponsorship-woes-in-chess/articleshow/130187919.cms",
-         "pubDate" : "Sat, 11 Apr 2026 09:12:26",
-         "title" : "Sindarov, Gukesh's likely challenger, cracks code for sponsorship woes in chess"
-      },
-      {
          "description" : "Jynxzi, the celebrity prot&#38;eacute;g&#38;eacute; of IM Levy Rozman and one of Twitch&#39;s most subscribed streamers, was crowned as the champion of Friday&#39;s $100,000 PogChamps 6 7 tournament after he swept the top seed, ohnePixel, in the final. Jynxzi, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
          "pubDate" : "Tue, 07 Apr 2026 11:48:18",
          "title" : "Certificate :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura and Anish Giri took revenge for first-half losses to shake up the 2026 FIDE Candidates Tournament standings. Nakamura&#39;s first win of the event came against GM Fabiano Caruana, who was caught in second place after Giri outplayed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-8",
-         "pubDate" : "Tue, 07 Apr 2026 11:26:00",
-         "title" : "Caruana Falls To Nakamura, Caught By Giri; Divya Shocks Muzychuk"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Rao's Chess Corner, Mangaluru on behalf of Karnataka State Chess Association and All India Chess",
