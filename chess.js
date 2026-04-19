@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Opening Encyclopedia 2026 has been released. Countless hours of detailed work have gone into creating the latest edition of this annual compendium. The encyclopedia is impressive and a must-have for effective tournament preparation. Further new releases come from experienced ChessBase authors: Elisabeth P&auml;htz on her speciality, the London System, and Andrew Martin, who focuses on the Vienna Game. Also included are the Fritz Powerbook 2026, a series of 60 Minutes courses, ChessBase Magazine 230, and more. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-march",
+         "pubDate" : "Sun, 19 Apr 2026 11:00:00",
+         "title" : "Review: All new releases in March!"
+      },
+      {
          "description" : "ChessBase&acute;26 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
