@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
+         "pubDate" : "Sun, 19 Apr 2026 15:00:00",
+         "title" : "European Championship, Round 11 - Live"
+      },
+      {
          "description" : "The Opening Encyclopedia 2026 has been released. Countless hours of detailed work have gone into creating the latest edition of this annual compendium. The encyclopedia is impressive and a must-have for effective tournament preparation. Further new releases come from experienced ChessBase authors: Elisabeth P&auml;htz on her speciality, the London System, and Andrew Martin, who focuses on the Vienna Game. Also included are the Fritz Powerbook 2026, a series of 60 Minutes courses, ChessBase Magazine 230, and more. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/erdogmus-makes-history-again-to-become-youngest-ever-2700-player",
          "pubDate" : "Sat, 18 Apr 2026 15:34:00",
          "title" : "Erdogmus Scores 5-1 Knockout Against Topalov, Closes In On Youngest-Ever 2700 Record"
-      },
-      {
-         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
-         "pubDate" : "Sat, 18 Apr 2026 15:00:00",
-         "title" : "European Championship, Round 10 - Live"
       },
       {
          "description" : "On March 6th I launched Real Chess Training. 300+ students joined in the first week. The feedback has been incredible. Today I want to share 6 lessons from 6 weeks of Real Chess Training. Lesson 1: Hard Training Can Be Fun With all the &#8220;quick and easy&#8221; messaging out there, doing something hard becomes less []",
