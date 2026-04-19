@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 World Senior Team Championship has begun in Durrës, with 90 teams competing across the 50+ and 65+ sections. Top seeds include USA 1, England 1 and Kazakhstan in the younger category, while England I and Lasker SGK head the 65+ field. The event has attracted a number of leading veterans, among them Michael Adams, John Nunn and Artur Yusupov. | Photo: Georgia Grapsa",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-start",
+         "pubDate" : "Sun, 19 Apr 2026 22:50:00",
+         "title" : "World Senior Team Championship kicks off in Durrës"
+      },
+      {
          "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-ch-2026-live",
          "pubDate" : "Sun, 19 Apr 2026 15:00:00",
          "title" : "European Championship, Round 11 - Live"
-      },
-      {
-         "description" : "The Opening Encyclopedia 2026 has been released. Countless hours of detailed work have gone into creating the latest edition of this annual compendium. The encyclopedia is impressive and a must-have for effective tournament preparation. Further new releases come from experienced ChessBase authors: Elisabeth P&auml;htz on her speciality, the London System, and Andrew Martin, who focuses on the Vienna Game. Also included are the Fritz Powerbook 2026, a series of 60 Minutes courses, ChessBase Magazine 230, and more. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-march",
-         "pubDate" : "Sun, 19 Apr 2026 11:00:00",
-         "title" : "Review: All new releases in March!"
-      },
-      {
-         "description" : "ChessBase&acute;26 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-11-multitasking-with-several-windows",
-         "pubDate" : "Sun, 19 Apr 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips Part 11: Multitasking with several windows"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
@@ -50,14 +42,6 @@ news_feed (
          "title" : "Arjun Picks Up 2nd Bullet Brawl Title In Dominant Fashion"
       },
       {
-         "description" : "Yagiz Kaan Erdogmus scored a convincing 5-1 victory over former world champion Veselin Topalov in their six-game classical match held in Monte Carlo from 12 to 17 April. After a tense draw in the opening game, the Turkish teenager won four of the next five encounters, showing strong tactical and positional play throughout the match. The result allowed Erdogmus to become the youngest-ever player to surpass the 2700 rating mark, breaking Wei Yi's record by a considerable margin. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/erdogmus-obtains-emphatic-win-over-topalov-breaks-2700-rating-barrier-at-14",
-         "pubDate" : "Sat, 18 Apr 2026 20:20:00",
-         "title" : "Erdogmus obtains emphatic win over Topalov, joins 2700 club at 14"
-      },
-      {
          "description" : "Only one round left to be played at the European Individual Chess Championship 2026 and the tension reached its maximum as five players enter the last day co-leading in the tournament! Five-way tie for the top between GM David Anton Guijarro (ESP, 2656), GM Aydin Suleymanli (AZE, 2653), GM Muradli Mahammad (AZE, 2605), GM Nijat Abasov (AZE, 2586) and IM Roman Dehtiarov (UKR, 2452) promises an exiting final round which is scheduled for tomorrow, 15:00 CEST. In a direct encounter []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -82,52 +66,12 @@ news_feed (
          "title" : "6 Lessons From 6 Weeks of Real Chess Training"
       },
       {
-         "description" : "With two rounds to go at the European Championship in Katowice, David Anton (pictured) and Nijat Abasov share the lead on 7&frac12;/9 and are set to meet in Saturday's tenth round. Ten players stand just half a point behind, including Aydin Suleymanli, Ediz Gurel and Haik Martirosyan, while a further 24 players remain within a point of first place. The battle for both the title and World Cup qualification spots remains wide open. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2026-r9",
-         "pubDate" : "Sat, 18 Apr 2026 11:10:00",
-         "title" : "European Championship: Abasov and Anton share the lead ahead of final weekend in Katowice"
-      },
-      {
          "description" : "Luis Ignasio, aka EyeoftheTiger1204, defended his title in the second edition of the 4-Player Chess Championship. Despite starting the first game of the Knockout by finishing last, he made what commentator Jai Sandhu called &#34;a sensational return a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ignacio-wins-2026-4-player-chess-championship",
          "pubDate" : "Sat, 18 Apr 2026 07:08:00",
          "title" : "Ignacio Defends 4-Player Chess Title"
-      },
-      {
-         "description" : "What skills define a modern grandmaster, and what can amateurs learn from them? It is a combination of strategies, insights, and techniques compiled by the English GM and coach Nicholas Pert in a two-volume video course. From the opening through tactics and strategy to the endgame, the author explains the thinking and preparation of masters using illustrative games. Jochen Schwarz has examined the Pert course in detail and reviewed it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-revealing-modern-grandmaster-secrets-von-nicholas-pert",
-         "pubDate" : "Sat, 18 Apr 2026 07:00:00",
-         "title" : "Review: Revealing Modern Grandmaster Secrets by Nicholas Pert"
-      },
-      {
-         "description" : "Abhimanyu Mishra scored 7&frac12;/9 in consecutive open tournaments in Spain, finishing tied for first place both at the Semana Santa Open in Alicante and at the Menorca Open. The 17-year-old remained undefeated across both events, gaining 15.3 rating points in the process. His recent run brought him up to sixth place in the live ratings list among junior players. | Pictured: Star organiser Patricia Claros and Abhimanyu Mishra | Photo: Luis Barona / Semana Santa Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhimanyu-mishra-alicante-menorca-2026",
-         "pubDate" : "Sat, 18 Apr 2026 03:50:00",
-         "title" : "Abhimanyu Mishra scores back-to-back 7&frac12;/9 results in Spain"
-      },
-      {
-         "description" : "KCF Academy is welcoming a very special guest. On April 19th, at 17:00 CET, we open the doors to an evening with Arshak Petrosian, one of the greatest coaches the chess world has ever seen. It is an incredible chance to see live the coach, thinker, and architect of a golden era in chess, live at KCF Academy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-masterclass-secrets-of-a-champion-maker",
-         "pubDate" : "Fri, 17 Apr 2026 19:00:00",
-         "title" : "Live Masterclass: Secrets of a Champion Maker"
-      },
-      {
-         "description" : "The closing ceremony of the 2026 Candidates in Cyprus brought together players, organisers and guests after more than two weeks of intense competition. Held at the St. George's Hotel & Resort, the evening combined music, dance and prize presentations, culminating in honours for Vaishali Rameshbabu and Javokhir Sindarov as the winners of the women's and open events, respectively. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-closing-ceremony",
-         "pubDate" : "Fri, 17 Apr 2026 17:00:00",
-         "title" : "An emotional farewell to a historic edition of the Candidates Tournaments"
       },
       {
          "description" : "IMs Renato Terry and Karina Ambartsumova extended their records for 3 0 Thursday tournament victories on Thursday, April 16. Terry won a record 11th victory in the third tournament of the day, advancing ahead of GM Jose Martinez for the most wins ...",
@@ -162,14 +106,6 @@ news_feed (
          "title" : "DreamHack Atlanta To Start On May 15 With 4 Esports World Cup Spots For Grabs"
       },
       {
-         "description" : "ChessBase is expanding. In a press release, Freedom Holding Corp. has announced the acquisition of ChessBase. The Kazakh financial and technology group, based in New York, has been committed to chess for many years - as a partner of FIDE and a sponsor of international tournaments. An initial $5m investment is set to further develop and expand the ChessBase platform. The company will continue to be headquartered in Hamburg, Germany.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freedom-holding-acquires-chessbase",
-         "pubDate" : "Fri, 17 Apr 2026 10:50:19",
-         "title" : "Freedom Holding acquires ChessBase"
-      },
-      {
          "description" : "GM Javokhir Sindarov blew away the field in the 2026 FIDE Candidates Tournament in Cyprus to win &#38;euro;170,000 (~$200k) and, much more importantly, earn a world championship match against GM Gukesh Dommaraju. The&#38;nbsp;2026 FIDE Women&#39;s Candidates ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -202,14 +138,6 @@ news_feed (
          "title" : "Out of R Praggnanandhaa's shadow, Vaishali 'akka' stands tall"
       },
       {
-         "description" : "Three wins and nine draws in twelve games - not a bad record for the winner. Remaining unbeaten, Hans Niemann left no doubt during his match in Paris against Awonder Liang. Niemann (pictured at the Grenke Open 2026 in Karlsruhe) won games three, eight and nine in the all-American clash, in which Liang was unable to score a single win. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-v-liang-2026-g12",
-         "pubDate" : "Fri, 17 Apr 2026 04:40:00",
-         "title" : "Niemann convincingly beats Liang in Paris"
-      },
-      {
          "description" : "US Chess is seeking volunteers to assist at the 2026 National Elementary School Championships from April 30 through May 3 in Baltimore, MD. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership not required, but preferred. Volunteers have a variety of roles which can change from event to event. Examples of past duties performed by volunteers include:Trophy setup and take downChess board set up a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -224,14 +152,6 @@ news_feed (
          "link" : "https://www.europechess.org/nijat-abasov-and-david-anton-guijarro-in-joint-lead-at-eicc2026-after-nine-rounds/",
          "pubDate" : "Thu, 16 Apr 2026 20:16:07",
          "title" : "Nijat Abasov and David Anton Guijarro in joint lead at EICC2026 after nine rounds"
-      },
-      {
-         "description" : "Vaishali Rameshbabu won the Women's Candidates Tournament by defeating Kateryna Lagno in the final round, finishing clear first on 8&frac12;/14 and earning the right to challenge Ju Wenjun in the match for the world title. In this interview, Vaishali looks back on the months of preparation that followed her Grand Swiss victory, discusses the support of her family and team, and explains how she coped with the pressure of a tense and closely contested tournament. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-vaishali-interview",
-         "pubDate" : "Thu, 16 Apr 2026 19:20:00",
-         "title" : "Vaishali's incredible Candidates journey"
       },
       {
          "description" : "Preparations are fully underway for the FIDE World Team Rapid and Blitz Chess Championships 2026 in Hong Kong from 16 to 22 June. In previous editions, the tournament has featured numerous top players competing alongside amateurs and rising talents, producing a dynamic atmosphere rarely seen in traditional elite events. Magnus Carlsen is expected to participate in Hong Kong, adding further star power to the competition.",
@@ -968,14 +888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-on-day-two-of-the-candidates",
          "pubDate" : "Mon, 30 Mar 2026 22:37:00",
          "title" : "All games drawn on day two of the Candidates - 2"
-      },
-      {
-         "description" : " The FIDE Candidates tournament in Cyprus started promisingly with wins for Javokhir Sindarov over Andrey Esipenko, Praggnanandhaa over Anish Giri and finally Fabiano Caruana over Hikaru Nakamura. Matthias Bluebaum against Wei Yi was a correct draw. In the women's event Aleksandra Goryachkina missed a simple combination that should have ended the game pretty much immediately against Kateryna Lagno. There were other chances but Divya Deshmukh drew with Anna Muzychuk Vaishali Rameshbabu drew with Bibisara Assaubayeva and Zhu Jiner with Tan Zhongyi so everyone is tied on 0.5 points. Round 1 Standings: 1st= Caruana, Praggnanandhaa, Sindarov 1pt; 4th= Bluebaum, Wei Yi 0.5pts; 6th= Nakamura, Giri,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/fide-candidates-tournament-in-cyprus-starts-with-three-decisive-games",
-         "pubDate" : "Sun, 29 Mar 2026 22:09:00",
-         "title" : "FIDE Candidates tournament in Cyprus starts with three decisive games - 1"
       }
    ]
 }
