@@ -18,6 +18,22 @@ news_feed (
          "title" : "Problem Challenge April"
       },
       {
+         "description" : "Armenian chess legend GM Smbat Lputian was arrested on Friday as part of a criminal investigation into alleged fraud and forgery, according to national media. He was later released, though charges against him remain in place. The arrest has been...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/smbat-lputian-reportedly-arrested",
+         "pubDate" : "Mon, 20 Apr 2026 14:37:58",
+         "title" : "Armenian Chess Legend Smbat Lputian Arrested Then Released Amid Investigation"
+      },
+      {
+         "description" : "Seventeen-year-old Ukrainian IM Roman Dehtiarov has made history as both the youngest and lowest-seeded player ever to win the European Individual Chess Championship. He started the event in Katowice, Poland ranked 126th out of 501 players, with a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukrainian-roman-dehtiarov-historic-win-2026-european-chess-championship",
+         "pubDate" : "Mon, 20 Apr 2026 12:31:00",
+         "title" : "Ukrainian IM Dehtiarov Scores Historic European Championship Win, Earns GM Title"
+      },
+      {
          "description" : "The European Individual Chess Championship 2026 concluded yesterday in Katowice, Poland, with the historical result by IM Roman Dehtiarov from Ukraine who stunned the field and emerged as the Winner of the event! Set to turn 18 years old this year, IM Roman Dehtiarov (UKR, 2452) was the 126th-seed on the starting list of players, but finished the event with impressive score of 9/11 points, with a single loss in the fifth round! He emerged as the sole winner of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "26th European Individual Championship 2026 - Games and Results"
       },
       {
-         "description" : "The 2026 FIDE Candidates Tournament, after its 10th round, continues to be the GM Javokhir Sindarov show as he leads by two points. The Uzbek star scored his record-breaking sixth win against GM Praggnanandhaa Rameshbabu and can now boast the most...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-10",
-         "pubDate" : "Thu, 09 Apr 2026 10:55:00",
-         "title" : "Sindarov Sacs Piece For Record-Breaking 6th Win; Vaishali Leads Women's Race"
-      },
-      {
          "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-misses-a-big-opportunity-and-giri-beats-caruana-in-candidates-round-9",
          "pubDate" : "Wed, 8 Apr 2026 20:11:00",
          "title" : "Sindarov misses a big opportunity and Giri beats Caruana in Candidates Round 9 - 9"
-      },
-      {
-         "description" : "GM Anish Giri played a positional masterpiece to take down GM Fabiano Caruana and grab sole second place in the 2026 FIDE Candidates Tournament after round nine. GM Javokhir Sindarov could have scored a record sixth win, but slipped up against GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-9",
-         "pubDate" : "Wed, 08 Apr 2026 11:52:00",
-         "title" : "Giri Beats Caruana To Close Gap To Sindarov; Zhu, Vaishali Grab Women's Lead"
       },
       {
          "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/regulation-5-2/",
          "pubDate" : "Tue, 31 Mar 2026 10:47:05",
          "title" : "Regulation 5"
-      },
-      {
-         "description" : " The second round of the FIDE Candidates in the Cap St Georges resort, near Pegeia, Cyprus saw all the games finish in a draw in the end. In the open event maybe Javokhir Sindarov got a little something against Matthias Bluebaum and perhaps Praggnanandhaa too could have done a little better against Wei Yi, Anish Giri vs Fabiano Caruana was a well played draw, Hikaru Nakamura suffered a little bit against Andrey Esipenko but there was never anything clear. In the women's event there were more missed chances with Kateryna Lagno escaping a lost position for the second day running, this time against Zhu Jiner. Vaishali Rameshbabu was briefly lost against Divya Deshmukh having at first equalised ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/all-games-drawn-on-day-two-of-the-candidates",
-         "pubDate" : "Mon, 30 Mar 2026 22:37:00",
-         "title" : "All games drawn on day two of the Candidates - 2"
       }
    ]
 }
