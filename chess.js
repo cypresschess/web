@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As we reported, 14-year-old Yağız Kaan Erdoğmuş has just become the the youngest player in history to surpass the 2700 rating mark. By beating former world champion Veselin Topalov 5-1 he reached a live Elo rating of 2709.4 and is clearly on his way to join the group of the top-ten players in the world. But will he be the youngest to do so? We checked.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/youngest-player-in-the-top-ten",
+         "pubDate" : "Mon, 20 Apr 2026 18:00:00",
+         "title" : "Youngest player in the top ten?"
+      },
+      {
          "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-95th-gm-aronyak-ghosh-from-chasing-next-tournaments-fee-to-parents-relief/articleshow/130383499.cms",
          "pubDate" : "Mon, 20 Apr 2026 05:45:47",
          "title" : "The making of India's 95th GM: Aronyak Ghosh, from chasing next tournament's fee to parents' relief"
+      },
+      {
+         "description" : "Call for Applications - Maurice Ashley Fellowship<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 Maurice Ashley Fellow Ayden Spellman-Robinson. (Photo courtesy of ICN)<br> <br> <br> <br> Applications are open for the Maurice Ashley Fellowship, with a submission deadline of June 1.This distinguished fellowship supports young Black chess players who demonstrate exceptional promise, discipline, and a passion for the game. Selected fellows will receive elite training, mentorship, and resources designed to help them reach the next level of their chess careers.We are looking for serious applicants with a commitment to growth and a love for the game. If ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/call-applications-maurice-ashley-fellowship",
+         "pubDate" : "Mon, 20 Apr 2026 00:00:00",
+         "title" : "Call for Applications - Maurice Ashley Fellowship"
       },
       {
          "description" : "The 2026 World Senior Team Championship has begun in Durrës, with 90 teams competing across the 50+ and 65+ sections. Top seeds include USA 1, England 1 and Kazakhstan in the younger category, while England I and Lasker SGK head the 65+ field. The event has attracted a number of leading veterans, among them Michael Adams, John Nunn and Artur Yusupov. | Photo: Georgia Grapsa",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-10",
          "pubDate" : "Thu, 09 Apr 2026 10:55:00",
          "title" : "Sindarov Sacs Piece For Record-Breaking 6th Win; Vaishali Leads Women's Race"
-      },
-      {
-         "description" : "With only five rounds to go, GM Javokhir Sindarov maintains his point-and-a-half lead in the 2026 FIDE Candidates tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Smiles at the start of Bluebaum - Sindarov. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> He did, however, have one opportunity today to extend his lead to a full two points. When asked about 24. &hellip; Qb7, and whether, at this point, he's trying to avoid complications, Sindarov explained that he generally wants to play safe, but didn't spend too much time on the move and was surprised to see on the computer that the evaluation of the position is winning for Black. <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-9-vaishali-zhu-lead-giri-emerges",
-         "pubDate" : "Thu, 09 Apr 2026 00:00:00",
-         "title" : "Candidates Round 9: Vaishali, Zhu Lead as Giri Emerges"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
