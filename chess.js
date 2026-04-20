@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130384330.cms\" />Magnus Carlsen has declared Javokhir Sindarov the favourite to win the upcoming World Chess Championship against D Gukesh, citing Sindarov's well-rounded game. Sindarov's dominant Candidates Tournament performance, where he remained unbeaten, has impressed chess legends. Despite this, Gukesh's renowned mental resilience and ability to defend difficult positions remain significant factors in this historic, generational duel.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-has-weaknesses-sindarov-does-not-carlsens-bold-world-championship-prediction/articleshow/130384330.cms",
+         "pubDate" : "Mon, 20 Apr 2026 06:24:51",
+         "title" : "'Gukesh has weaknesses, Sindarov does not': Carlsen's bold World Championship prediction"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130383499.cms\" />Aronyak Ghosh achieved his long-awaited Grandmaster title after a remarkable performance at the 23rd BCC Open 2026 in Bangkok. The 22-year-old's journey, marked by his father's dedication and the family's financial sacrifices, culminated in securing his third GM norm. This achievement signifies the success of years of commitment to the game, with chess now being Aronyak's primary focus.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-95th-gm-aronyak-ghosh-from-chasing-next-tournaments-fee-to-parents-relief/articleshow/130383499.cms",
+         "pubDate" : "Mon, 20 Apr 2026 05:45:47",
+         "title" : "The making of India's 95th GM: Aronyak Ghosh, from chasing next tournament's fee to parents' relief"
+      },
+      {
          "description" : "The 2026 World Senior Team Championship has begun in Durrës, with 90 teams competing across the 50+ and 65+ sections. Top seeds include USA 1, England 1 and Kazakhstan in the younger category, while England I and Lasker SGK head the 65+ field. The event has attracted a number of leading veterans, among them Michael Adams, John Nunn and Artur Yusupov. | Photo: Georgia Grapsa",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -474,14 +490,6 @@ news_feed (
          "title" : "Certificate :National Team in Raipur ,Chhattisgarh from 16-22 March 2026"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130222649.cms\" />India's Vaishali Rameshbabu suffered a significant setback in the FIDE Candidates, losing to China's Zhu Jiner and relinquishing her sole lead. The Women's section is now wide open with both players tied at the top. Meanwhile, Javokhir Sindarov is on the cusp of becoming the challenger in the Open section, needing just a draw in his next match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-vaishali-crashed-into-the-chinese-wall-in-round-12/articleshow/130222649.cms",
-         "pubDate" : "Mon, 13 Apr 2026 01:17:20",
-         "title" : "Candidates Chess: How Vaishali crashed into the Chinese wall in Round 12"
-      },
-      {
          "description" : " Javokhir Sindarov was happy to take a quick draw against Hikaru Nakamura in Round 12 of the Candidates, in fact his entire preparation was directed towards it. Anish Giri was left trying to beat Wei Yi and he did in fact get a winning position in an endgame but it remained tricky. Giri accidentally repeated the position three times and Wei Yi was immediately alert to this. Matthias Bluebaum was slightly better against Fabiano Caruana but no more than that. Praggnanandhaa was pushing against Andrey Esipenko but had to settle with a draw. Following the rest day Giri will have to win against Sindarov in order to keep his chances alive. The women's event was blown wide open when Zhu Jiner beat ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-12",
          "pubDate" : "Sun, 12 Apr 2026 11:53:00",
          "title" : "Sindarov On Brink As Giri Misses Win; Zhu Beats And Catches Vaishali"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130201895.cms\" />Playing with the black pieces in Round 11 on Saturday, she claimed a jaw-dropping win over the former World Championship challenger Aleksandra Goryachkina.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-how-indias-vaishali-trapped-russians-rook-to-extend-lead-at-the-top/articleshow/130201895.cms",
-         "pubDate" : "Sun, 12 Apr 2026 03:12:08",
-         "title" : "Candidates Chess: How Vaishali trapped Russian's rook to extend lead at the top"
       },
       {
          "description" : "All games in the Open were drawn today. I'm sure this was agreeable to GM Javokhir Sindarov, as it puts him that much closer to clinching his prize. This being said, GM Fabiano Caruana put a lot of pressure on the leader, while GM Anish Giri also had good prospects against GM Andrey Esipenko. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> Had both Giri and Caruana converted, we could be looking at a much closer race. The only player who was clearly winning this round was GM Praggnanandhaa Rameshbabu, but good form has continuously eluded him after his excellent first round win, and he was unable to snag the ",
