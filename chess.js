@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/problem-challenge-april",
+         "pubDate" : "Mon, 20 Apr 2026 15:44:02",
+         "title" : "Problem Challenge April"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2026 concluded yesterday in Katowice, Poland, with the historical result by IM Roman Dehtiarov from Ukraine who stunned the field and emerged as the Winner of the event! Set to turn 18 years old this year, IM Roman Dehtiarov (UKR, 2452) was the 126th-seed on the starting list of players, but finished the event with impressive score of 9/11 points, with a single loss in the fifth round! He emerged as the sole winner of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukrainian-teenager-im-roman-dehtiarov-clinches-european-chess-championship-2026/",
+         "pubDate" : "Mon, 20 Apr 2026 12:29:46",
+         "title" : "Ukrainian Teenager IM Roman Dehtiarov clinches European Chess Championship 2026"
+      },
+      {
+         "description" : "There is an ongoing problem at the moment in that Swiss Manager, the main pairing program used at events around England can't access the latest ECF rating list.&#160;There is a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/problem-with-swiss-manager-and-the-ecf-rating-list/",
+         "pubDate" : "Mon, 20 Apr 2026 12:25:04",
+         "title" : "Problem with Swiss Manager and the ECF rating list"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-in-ahmedabad-gujarat-from-18th-to-21st-may-2026/",
+         "pubDate" : "Mon, 20 Apr 2026 12:15:20",
+         "title" : "Announcement : Medical Evaluation in Ahmedabad , Gujarat from 18th to 21st May, 2026 "
+      },
+      {
          "description" : "The ECF Grassroots Funding Initiative remains in business, and we encourage people to apply for funding. The website has been updated. Click here https://www.englishchess.org.uk/ecf-grassroots-initiative/ to see the new...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Mon, 20 Apr 2026 08:48:01",
          "title" : "World Senior Team Chess Championships 2026 - Daily Reports"
+      },
+      {
+         "description" : "WFM Alexandra Botez is not intimidated to play chess in front of a legion of strangers online. But now she&#39;s about to do something much scarier&#38;mdash;play against four kids who are literally younger than Instagram. The next episode of Kids vs. Sta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-7",
+         "pubDate" : "Mon, 20 Apr 2026 08:03:25",
+         "title" : "WFM Alexandra Botez Is The Next Star To Go Up Against Four Prodigies In Kids vs. Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130384330.cms\" />Magnus Carlsen has declared Javokhir Sindarov the favourite to win the upcoming World Chess Championship against D Gukesh, citing Sindarov's well-rounded game. Sindarov's dominant Candidates Tournament performance, where he remained unbeaten, has impressed chess legends. Despite this, Gukesh's renowned mental resilience and ability to defend difficult positions remain significant factors in this historic, generational duel.",
@@ -698,28 +738,12 @@ news_feed (
          "title" : "Giri Beats Caruana To Close Gap To Sindarov; Zhu, Vaishali Grab Women's Lead"
       },
       {
-         "description" : "GM Sina Movahed won his second Titled Tuesday of the spring split and third of his career on April 7, scoring 10/11 to win outright. Movahed also now leads the spring split standings. GM Alexey Sarana rode an 8/8 start to finish in sole second on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-april-7-2026",
-         "pubDate" : "Wed, 08 Apr 2026 02:04:28",
-         "title" : "Movahed Continues To Emerge With Second Titled Tuesday In Four Weeks"
-      },
-      {
          "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-extends-his-lead-to-two-points-in-the-candidates-even-after-a-draw-in-round-8",
          "pubDate" : "Wed, 8 Apr 2026 01:45:00",
          "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
-      },
-      {
-         "description" : "The 2026 European Individual Chess Championship commenced today in Katowice, Poland, which will be the host for 501 chess players in the next two weeks. The event broke the participation record with 501 players from 43 European federations competing over 11 rounds for the prize pool of 100.000 EUR and qualification spots for the next FIDE World Chess Cup. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2026-officially-opened/",
-         "pubDate" : "Tue, 07 Apr 2026 20:26:06",
-         "title" : "European Individual Chess Championship 2026 officially opened"
       },
       {
          "description" : "Please find here No Name 1 Pranab Kumar Samanta 2 Protik Sarkar 3 Vaheeb Shafi Hassan K 4 Rituparna Chutia 5 Sumanta Gore 6 Tirtha",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/luck-in-chess/",
          "pubDate" : "Sat, 04 Apr 2026 13:00:00",
          "title" : "Why Hoping to Get Lucky is Ruining Your Chess"
-      },
-      {
-         "description" : "National Rapid Rank Name 1 Aronyak Ghosh 2 Karthikeyan Murali 3 Hari Madhavan N B 4 Mitrabha Guha 5 Arjun Kalyan 6 Puranik Abhimanyu 7",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-rapid-blitz-chess-championship-2025-26-in-jharkhand-from-11-13-march-2026/",
-         "pubDate" : "Sat, 04 Apr 2026 11:17:17",
-         "title" : "Certificate :National Rapid & Blitz Chess Championship 2025-26 in Jharkhand from 11-13 March 2026"
       },
       {
          "description" : " It was the anal bead theory that caused a global sensation. Now, a new Netflix film tells the tale of two grandmasters, one scandal - and a whole lot of bad blood Chess Mates (Netflix, Tuesday) has an unsettling early gambit: the face of Piers Morgan, looming via archive footage. \"Have you ever used anal beads while playing chess?\" Morgan asks down camera, as if prepping an ill-advised phone-in. \"Your curiosity is concerning. Maybe you're personally interested?\" shoots back his interviewee, Hans Niemann (above). The minds of chess masters, as glimpsed in this fantastic documentary, are almost as compelling as any back-passage shenanigans on the table. It's worth looking up the whole clip, f",
