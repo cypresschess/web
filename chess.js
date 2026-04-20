@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF Grassroots Funding Initiative remains in business, and we encourage people to apply for funding. The website has been updated. Click here https://www.englishchess.org.uk/ecf-grassroots-initiative/ to see the new...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-grassroots-funding-initiative-update/",
+         "pubDate" : "Mon, 20 Apr 2026 10:10:15",
+         "title" : "ECF Grassroots Funding Initiative - update"
+      },
+      {
+         "description" : "Roman Dehtiarov produced a huge surprise at the European Championship in Katowice by defeating David Anton in the final round to win the title outright with 9/11 points. The 17-year-old Ukrainian entered the tournament as the 126th seed and an international master rated 2452. He finished with eight wins, two draws and one loss, defeated six higher-rated opponents and earned the grandmaster title after a 2781 tournament performance rating. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2026-r11",
+         "pubDate" : "Mon, 20 Apr 2026 09:50:00",
+         "title" : "Ukrainian IM Roman Dehtiarov stunningly becomes European champion in Katowice"
+      },
+      {
+         "description" : "By the deadline of 17th April for ECU elections 2026 the following combine tickets have been received by alphabetic order of the Presidential candidate: Ticket Azmaiparashvili, Zurab 1. President:&#160; Mr. Zurab Azmaiparashvili (GEO)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Nominated by &#160;the National Chess Federations of Andorra, Armenia, Azerbaijan, North Macedonia and Turkey 2. Deputy President: &#160;Mr. Vlad Ardeleanu (ROM) Nominated by &#160;the National Chess Federations &#160;of Romania and Moldavia 3. Vice President: &#160;&#160;Mrs. Ingrid Lauterbach (GER) Nominated by the National Chess Federations of Germany and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-elections-2026/",
+         "pubDate" : "Mon, 20 Apr 2026 09:24:56",
+         "title" : "ECU Elections 2026"
+      },
+      {
+         "description" : "Sunday 19th April &#160;The FIDE World Senior Team Chess Championship kicks off today in the seaside resort of Durres in Albania, with a total of 36 teams participating in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-2026-daily-reports/",
+         "pubDate" : "Mon, 20 Apr 2026 08:48:01",
+         "title" : "World Senior Team Chess Championships 2026 - Daily Reports"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130384330.cms\" />Magnus Carlsen has declared Javokhir Sindarov the favourite to win the upcoming World Chess Championship against D Gukesh, citing Sindarov's well-rounded game. Sindarov's dominant Candidates Tournament performance, where he remained unbeaten, has impressed chess legends. Despite this, Gukesh's renowned mental resilience and ability to defend difficult positions remain significant factors in this historic, generational duel.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2026-start",
          "pubDate" : "Sun, 19 Apr 2026 22:50:00",
          "title" : "World Senior Team Championship kicks off in Durrës"
-      },
-      {
-         "description" : "The Polish Chess Federation is hosting the 2026 European Championship in Katowice. The tournament runs on 7-19 April with 501 players competing for the Continental title, prize money and one of the 20 qualifying places for the next edition of the World Cup. Igor Kovalenko (Ukraine), David Anton (Spain) and Bogdan-Daniel Deac (Romania) are the highest-rated participants. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2026-live",
-         "pubDate" : "Sun, 19 Apr 2026 15:00:00",
-         "title" : "European Championship, Round 11 - Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "A Game That Outlasted the Day (3)"
       },
       {
-         "description" : "The 2026 European Individual Chess Championship starts tomorrow in Katowice, Poland, and will be played from 7-19 April at the Arena Katowice. With 502 registered players coming from 43 European federations, the event will likely set a new participation record which was previously seen in Vrnjacka Banja, Serbia at the 2023 edition with 484 players. A very strong field includes 93 Grandmasters, 98 International Masters, 7 WGMs, 8 WIMs, and a total of 345 titled players. The top seeds are: []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2026-starts-in-poland/",
-         "pubDate" : "Mon, 06 Apr 2026 07:21:07",
-         "title" : "European Individual Chess Championship 2026 starts in Poland"
-      },
-      {
          "description" : "All India Chess Federation is pleased to announced following FIDE Arbiter Seminars as per the appended schedule below: SL No Seminar Details Date 1 FAS",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -866,12 +882,12 @@ news_feed (
          "title" : "Bodhana Sivanandan Becomes Britain's No. 1 Female Player"
       },
       {
-         "description" : "&#160; The English Chess Federation is raising money for Macmillan Cancer Support through a special 24-hour online chess marathon. This fundraiser is in memory of Adam Hunt and Jonathan Hawkins,...",
+         "description" : "You can find full details of the event here, including the option to download results and games:&#160;https://www.chess.com/tournament/live/arena/ecf-macmillan-cancer-support-charity-marathon-31114229 There were over 5300 games played over the 24 hours, with over 300...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
          "pubDate" : "Tue, 31 Mar 2026 18:06:53",
-         "title" : "24-Hour Chess Marathon in Support of Macmillan Cancer Support - UPDATED"
+         "title" : "UPDATES and RESULTS! 24-Hour Chess Marathon in Support of Macmillan Cancer Support"
       },
       {
          "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
