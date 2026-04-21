@@ -18,6 +18,14 @@ news_feed (
          "title" : "Vibrating crotches, anal beads and suspicious minds: the long, strange history of chess cheats | Sean Ingle"
       },
       {
+         "description" : "In the fall 2025 season, the University of Texas at Dallas (UTD) team fell just short, losing in the finals 8.5-7.5 against St. Louis University (SLU). They fought their way back in the spring 2026 season, claiming the title 9.5-6.5 against SRM In...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-spring-finals",
+         "pubDate" : "Tue, 21 Apr 2026 06:41:17",
+         "title" : "UTD Claims First CCL Title"
+      },
+      {
          "description" : "Congratulations! Heartiest congratulations to Aronyak Ghosh from West Bengal on achieving the prestigious title of becoming India's 95th Chess Grandmaster. This remarkable accomplishment is a",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jynxzi-wins-pogchamps-6-7",
          "pubDate" : "Fri, 10 Apr 2026 22:14:00",
          "title" : "Jynxzi Goes From Chess Beginner To PogChamps Hall Of Famer"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Matthias Bluebaum have fallen out of contention in the ongoing FIDE Candidates Tournament. That didn&#39;t stop them from trying their luck in 3 0 Thursday after completing their game in the Candidates. Both players played well...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-duda-taher-3-0-thursday-04-09-2026",
-         "pubDate" : "Fri, 10 Apr 2026 20:36:00",
-         "title" : "Candidates Fall Short, Minh Le, Duda, Taher Win 3 0 Thursday"
       },
       {
          "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
