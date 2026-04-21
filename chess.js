@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin won his second Titled Tuesday of the last six weeks on April 21, rejoining GM Sina Movahed atop the spring split standings. Whereas in his previous victory, Nihal led wire-to-wire, this week he lost in the third round. Nonetheless, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-april-21-2026",
+         "pubDate" : "Tue, 21 Apr 2026 11:43:51",
+         "title" : "It's Nihal Again In Titled Tuesday"
+      },
+      {
          "description" : "In an extensive interview after winning the Candidates, Javokhir Sindarov reflected on the key moments behind his victory, his preparation methods and his ambitions for the future. The Uzbek grandmaster discussed the importance of his draw against Fabiano Caruana in Cyprus, his work with coach Roman Vidonyak and his long-term goal of becoming world number one, while also looking ahead to the world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "The untold journey of Vaishali through the eyes of coach R.B. Ramesh"
       },
       {
+         "description" : "Today's exercises continue a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-21st-annual-kcf-all-girls-championship-pt-2",
+         "pubDate" : "Tue, 21 Apr 2026 00:00:00",
+         "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 2"
+      },
+      {
          "description" : "As we reported, 14-year-old Yağız Kaan Erdoğmuş has just become the the youngest player in history to surpass the 2700 rating mark. By beating former world champion Veselin Topalov 5-1 he reached a live Elo rating of 2709.4 and is clearly on his way to join the group of the top-ten players in the world. But will he be the youngest to do so? We checked.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jennifer-shahade-thinking-sideways",
-         "pubDate" : "Mon, 20 Apr 2026 16:48:16",
+         "pubDate" : "Mon, 20 Apr 2026 16:48:00",
          "title" : "Shahade's 'Thinking Sideways' Shows How Chess Thinking Can Improve Life Decisions"
       },
       {
@@ -714,14 +730,6 @@ news_feed (
          "title" : "Only two players remain perfect after four played rounds at EICC2026"
       },
       {
-         "description" : "Jynxzi, the celebrity prot&#38;eacute;g&#38;eacute; of IM Levy Rozman and one of Twitch&#39;s most subscribed streamers, was crowned as the champion of Friday&#39;s $100,000 PogChamps 6 7 tournament after he swept the top seed, ohnePixel, in the final. Jynxzi, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jynxzi-wins-pogchamps-6-7",
-         "pubDate" : "Fri, 10 Apr 2026 22:14:00",
-         "title" : "Jynxzi Goes From Chess Beginner To PogChamps Hall Of Famer"
-      },
-      {
          "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-almost-home-and-dry-in-the-fide-candidates-with-four-rounds-to-go",
          "pubDate" : "Fri, 10 Apr 2026 00:09:00",
          "title" : "Sindarov almost home and dry in the FIDE Candidates with four rounds to go - 10"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> GM Boris Gelfand makes the ceremonial first move for Sindarov - Praggnanandhaa. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> In Round 9, GM Javokhir Sindarov spoiled his chances to beat GM Matthias Bluebaum with one careless move. Would this throw off his chi and cause him to doubt himself more going into the later rounds? The answer seems to be a resounding \"No!\" <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy FIDE/Niki Riga.<br> <br> <br> <br> The Uzbek talent got back to his winning ways with a crushing win over GM Praggnanandhaa Rameshb",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-10-sindarov-further-cements-lead-assaubayeva-jolts-zhu-out-first",
-         "pubDate" : "Fri, 10 Apr 2026 00:00:00",
-         "title" : "Candidates Round 10: Sindarov Further Cements Lead, Assaubayeva Jolts Zhu Out of First"
       },
       {
          "description" : "Three rounds have been already played at the European Individual Chess Championship 2026 and the games are becoming tougher and tenser with each round! Seventeen players currently hold a perfect score of 3/3 to share the early lead. Among the frontrunners are GM Aydin Suleymanli (AZE, 2653), GM Shant Sargsyan (ARM, 2647), GM Jonas Buhl Bjerre (AUT, 2623), GM Robert Hovhannisyan (ARM, 2621), and the 2024 European Champion GM Aleksandar Indjic (SRB, 2616). They are joined by GM Lorenzo Lodici []",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-becomes-britains-no-1-female-player/",
          "pubDate" : "Wed, 01 Apr 2026 13:45:36",
          "title" : "Bodhana Sivanandan Becomes Britain's No. 1 Female Player"
-      },
-      {
-         "description" : "You can find full details of the event here, including the option to download results and games:&#160;https://www.chess.com/tournament/live/arena/ecf-macmillan-cancer-support-charity-marathon-31114229 There were over 5300 games played over the 24 hours, with over 300...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
-         "pubDate" : "Tue, 31 Mar 2026 18:06:53",
-         "title" : "UPDATES and RESULTS! 24-Hour Chess Marathon in Support of Macmillan Cancer Support"
       }
    ]
 }
