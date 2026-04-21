@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an extensive interview after winning the Candidates, Javokhir Sindarov reflected on the key moments behind his victory, his preparation methods and his ambitions for the future. The Uzbek grandmaster discussed the importance of his draw against Fabiano Caruana in Cyprus, his work with coach Roman Vidonyak and his long-term goal of becoming world number one, while also looking ahead to the world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/javokhir-sindarov-interview-fide",
+         "pubDate" : "Tue, 21 Apr 2026 11:16:08",
+         "title" : "Javokhir Sindarov: \"The quarantine changed my life\""
+      },
+      {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/smbat-lputian-reportedly-arrested",
-         "pubDate" : "Mon, 20 Apr 2026 14:37:58",
+         "pubDate" : "Mon, 20 Apr 2026 14:37:00",
          "title" : "Armenian Chess Legend Smbat Lputian Arrested Then Released Amid Investigation"
       },
       {
@@ -126,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-7",
-         "pubDate" : "Mon, 20 Apr 2026 08:03:25",
+         "pubDate" : "Mon, 20 Apr 2026 08:03:00",
          "title" : "WFM Alexandra Botez Is The Next Star To Go Up Against Four Prodigies In Kids vs. Stars"
       },
       {
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/24-hour-chess-marathon-in-support-of-macmillan-cancer-support/",
          "pubDate" : "Tue, 31 Mar 2026 18:06:53",
          "title" : "UPDATES and RESULTS! 24-Hour Chess Marathon in Support of Macmillan Cancer Support"
-      },
-      {
-         "description" : "Regarding the Regulation 5 Complaint by Nick Faulks against Stephen Woodhouse, a panel of non-executive directors found no evidence of bias during Stephen's investigation of an earlier complaint and no...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/regulation-5-2/",
-         "pubDate" : "Tue, 31 Mar 2026 10:47:05",
-         "title" : "Regulation 5"
       }
    ]
 }
