@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/apr/21/chess-cheats-vibrating-crotches-anal-beads-netflix-hans-niemann-magnus-carlsen",
+         "pubDate" : "Tue, 21 Apr 2026 07:00:18",
+         "title" : "Vibrating crotches, anal beads and suspicious minds: the long, strange history of chess cheats | Sean Ingle"
+      },
+      {
+         "description" : "Congratulations! Heartiest congratulations to Aronyak Ghosh from West Bengal on achieving the prestigious title of becoming India's 95th Chess Grandmaster. This remarkable accomplishment is a",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulation-aronyak-ghosh-from-west-bengal-becomes-indias-95th-chess-grandmaster/",
+         "pubDate" : "Tue, 21 Apr 2026 06:29:48",
+         "title" : "Congratulation:-Aronyak Ghosh from West Bengal becomes India's 95th Chess Grandmaster"
+      },
+      {
          "description" : "In the world of Indian chess, few stories are as cinematic as the rise of Vaishali Rameshbabu. While the world watches her exploits, the man who has spent a decade moulding her talent, GM R.B. Ramesh, provides an intimate look at the sacrifice, ethics and the psychological sides of India's newest Women's World Championship challenger. Read the article to know more about not just the professional but also the personal side of this amazing champion. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-3",
          "pubDate" : "Mon, 06 Apr 2026 19:00:00",
          "title" : "A Game That Outlasted the Day (3)"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announced following FIDE Arbiter Seminars as per the appended schedule below: SL No Seminar Details Date 1 FAS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-2026-27/",
-         "pubDate" : "Mon, 06 Apr 2026 05:44:32",
-         "title" : "Fide Arbiter Seminar 2026-27"
       },
       {
          "description" : " Javokhir Sindarov has finished the first half of the FIDE Candidates on 6/7 following a draw against Anish Giri. Although Sindarov was better Giri's defence was very accurate and really there didn't seem to be any winning chances. The only decisive game of the day was when Wei Yi took advantage of a gruesome blunder by Andrey Esipenko, this was a case of Esipenko mixing up his move order in a sharp position and being left with a position that was basically unplayable. Bluebaum vs Nakamura and Praggnanandhaa vs Caruana were both drawn in games not without interest. In the Women's event Anna Muzychuk still leads, Rameshbabu Vaishali hasn't looked all that convincing but two days of turn aroun",
