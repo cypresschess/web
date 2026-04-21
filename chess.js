@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Latin expression memento mori, meaning \"remember [that you have] to die\", has long been associated with humility and reflection on the brevity of life. Chess offers a fitting metaphor for this idea: every game begins with possibilities, unfolds through choices and conflict, and ends inevitably. The clock, the sacrifices and the final checkmate all reflect the limits of time, control and ambition, turning the chessboard into a symbolic lesson on mortality and purpose. | Picture: \"Allegory of Vanity\" by Spanish Baroque-era painter Antonio de Pereda y Salgado",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/memento-mori-chess-uvencio-blanco",
+         "pubDate" : "Tue, 21 Apr 2026 21:30:00",
+         "title" : "Memento mori: The chessboard and human mortality"
+      },
+      {
+         "description" : "Grandmasters, a new docuseries featuring GMs Magnus Carlsen, Wesley So, and Hans Niemann, along with other top figures in the chess world, will premiere as an Official Selection at the prestigious Tribeca Film Festival, with its debut screening sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grandmasters-gets-tribeca-film-festival-premiere",
+         "pubDate" : "Tue, 21 Apr 2026 12:47:00",
+         "title" : "New Documentary Series 'Grandmasters' Gets Tribeca Film Festival Premiere"
+      },
+      {
          "description" : "GM Nihal Sarin won his second Titled Tuesday of the last six weeks on April 21, rejoining GM Sina Movahed atop the spring split standings. Whereas in his previous victory, Nihal led wire-to-wire, this week he lost in the third round. Nonetheless, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/messy-truth-chess-improvement-progress/",
          "pubDate" : "Sat, 11 Apr 2026 13:00:00",
          "title" : "The Messy Truth About Getting Better"
-      },
-      {
-         "description" : "GM Javokhir Sindarov is in the final stretch, with three rounds left in the 2026 FIDE Candidates Tournament. All games of round 11 ended in draws, leaving Sindarov two points ahead after holding GM Fabiano Caruana. GM Praggnanandhaa Rameshbabu cam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-11",
-         "pubDate" : "Sat, 11 Apr 2026 11:39:00",
-         "title" : "Sindarov Holds Caruana, Vaishali Extends Women's Lead"
       },
       {
          "description" : "Four rounds have been played at the European Individual Chess Championship 2026 in Katowice, Poland, and only two players remain with a perfect score of 4/4 points! GM Robert Hovhannisyan (ARM, 2621) and GM Eduardo Iturrizaga Bonelli (ESP, 2575) each scored a maximum 4/4 points to head into the first free day of the tournament as the early co-leaders. GM Robert Hovhannisyan took a victory yesterday against GM Dimitris Alexakis (GRE, 2528) in a very sharp Sicilian game. Alexakis made []",
