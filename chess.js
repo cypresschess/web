@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the world of Indian chess, few stories are as cinematic as the rise of Vaishali Rameshbabu. While the world watches her exploits, the man who has spent a decade moulding her talent, GM R.B. Ramesh, provides an intimate look at the sacrifice, ethics and the psychological sides of India's newest Women's World Championship challenger. Read the article to know more about not just the professional but also the personal side of this amazing champion. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/untold-story-vaishali-ramesh",
+         "pubDate" : "Tue, 21 Apr 2026 01:25:00",
+         "title" : "The untold journey of Vaishali through the eyes of coach R.B. Ramesh"
+      },
+      {
          "description" : "As we reported, 14-year-old Yağız Kaan Erdoğmuş has just become the the youngest player in history to surpass the 2700 rating mark. By beating former world champion Veselin Topalov 5-1 he reached a live Elo rating of 2709.4 and is clearly on his way to join the group of the top-ten players in the world. But will he be the youngest to do so? We checked.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/youngest-player-in-the-top-ten",
          "pubDate" : "Mon, 20 Apr 2026 18:00:00",
          "title" : "Youngest player in the top ten?"
+      },
+      {
+         "description" : "WGM Jennifer Shahade delivers a case for why chess thinking matters far beyond the board in her new book Thinking Sideways: How to Think Like a Chess Player and Win at Life. The two-time U.S. Women&#39;s Champion has long been known as one of the ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jennifer-shahade-thinking-sideways",
+         "pubDate" : "Mon, 20 Apr 2026 16:48:16",
+         "title" : "Shahade's 'Thinking Sideways' Shows How Chess Thinking Can Improve Life Decisions"
       },
       {
          "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-duda-taher-3-0-thursday-04-09-2026",
          "pubDate" : "Fri, 10 Apr 2026 20:36:00",
          "title" : "Candidates Fall Short, Minh Le, Duda, Taher Win 3 0 Thursday"
-      },
-      {
-         "description" : "The Freestyle Friday of April 10, 2026 was a curious affair where GM Jan-Krzysztof Duda led the field with a 100% score and two full points after the ninth round, only to lose to GMs Pranav Venkatesh and Parham Maghsoodloo in the last two rounds. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-april-10-2026",
-         "pubDate" : "Fri, 10 Apr 2026 15:20:39",
-         "title" : "Maghsoodloo Wins Title On Tiebreak Score"
       },
       {
          "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
