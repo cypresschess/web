@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren is back. After losing the World Championship title in December 2024, Ding Liren took a long break from classical chess tournaments and only participated in online or rapid events. At the Chinese Team Championships, he has now returned to classical chess - successfully. | Photos: Sports Bureau of Heilongjiang Province",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-chinese-team-ch-2026",
+         "pubDate" : "Thu, 23 Apr 2026 01:00:00",
+         "title" : "Ding Liren is back!"
+      },
+      {
          "description" : "Fabiano Caruana reflects on his showing at the Candidates Tournament while explaining why he believes Javokhir Sindarov produced one of the strongest performances in the event's history. Caruana discusses Sindarov's opening preparation, his own missed chances, Hikaru Nakamura's costly opening preparation mistake and the likely balance of the forthcoming world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/espn-chess-boom-nba",
          "pubDate" : "Wed, 22 Apr 2026 13:55:11",
          "title" : "ESPN explores chess boom in the NBA"
-      },
-      {
-         "description" : "Thirty-three years ago an unknown player took part in the World Open in Philadelphia. He called himself John von Neumann, beat a FIDE master, and drew grandmaster Helgi Ólafsson from Iceland. His opponents became suspicious when they heard something in his pocket buzzing. The player fled the tournament after the tournament director asked to test him. His identity was never revealed - until it has now been uncovered by Wired Magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solved-at-last-who-was-the-von-neumann-cheat",
-         "pubDate" : "Wed, 22 Apr 2026 10:00:00",
-         "title" : "Solved at last: who was the \"Von Neumann\" cheat?"
       },
       {
          "description" : "European chess fans can rejoice. IM Levy Rozman, known online as GothamChess, has confirmed he&#39;s returning to the old continent following his sold-out first tour in 2025. From October 25 to November 10, the biggest chess YouTuber on Earth will ret...",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 2"
       },
       {
-         "description" : "The Latin expression memento mori, meaning \"remember [that you have] to die\", has long been associated with humility and reflection on the brevity of life. Chess offers a fitting metaphor for this idea: every game begins with possibilities, unfolds through choices and conflict, and ends inevitably. The clock, the sacrifices and the final checkmate all reflect the limits of time, control and ambition, turning the chessboard into a symbolic lesson on mortality and purpose. | Picture: \"Allegory of Vanity\" by Spanish Baroque-era painter Antonio de Pereda y Salgado",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/memento-mori-chess-uvencio-blanco",
-         "pubDate" : "Tue, 21 Apr 2026 21:30:00",
-         "title" : "Memento mori: The chessboard and human mortality"
-      },
-      {
          "description" : "Grandmasters, a new docuseries featuring GMs Magnus Carlsen, Wesley So, and Hans Niemann, along with other top figures in the chess world, will premiere as an Official Selection at the prestigious Tribeca Film Festival, with its debut screening sc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-april-21-2026",
          "pubDate" : "Tue, 21 Apr 2026 11:43:51",
          "title" : "It's Nihal Again In Titled Tuesday"
-      },
-      {
-         "description" : "In an extensive interview after winning the Candidates, Javokhir Sindarov reflected on the key moments behind his victory, his preparation methods and his ambitions for the future. The Uzbek grandmaster discussed the importance of his draw against Fabiano Caruana in Cyprus, his work with coach Roman Vidonyak and his long-term goal of becoming world number one, while also looking ahead to the world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/javokhir-sindarov-interview-fide",
-         "pubDate" : "Tue, 21 Apr 2026 11:16:08",
-         "title" : "Javokhir Sindarov: \"The quarantine changed my life\""
       },
       {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
@@ -106,28 +90,12 @@ news_feed (
          "title" : "Congratulation:-Aronyak Ghosh from West Bengal becomes India's 95th Chess Grandmaster"
       },
       {
-         "description" : "In the world of Indian chess, few stories are as cinematic as the rise of Vaishali Rameshbabu. While the world watches her exploits, the man who has spent a decade moulding her talent, GM R.B. Ramesh, provides an intimate look at the sacrifice, ethics and the psychological sides of India's newest Women's World Championship challenger. Read the article to know more about not just the professional but also the personal side of this amazing champion. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/untold-story-vaishali-ramesh",
-         "pubDate" : "Tue, 21 Apr 2026 01:25:00",
-         "title" : "The untold journey of Vaishali through the eyes of coach R.B. Ramesh"
-      },
-      {
          "description" : "Today's exercises continue a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-21st-annual-kcf-all-girls-championship-pt-2",
          "pubDate" : "Tue, 21 Apr 2026 00:00:00",
          "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 2"
-      },
-      {
-         "description" : "As we reported, 14-year-old Yağız Kaan Erdoğmuş has just become the the youngest player in history to surpass the 2700 rating mark. By beating former world champion Veselin Topalov 5-1 he reached a live Elo rating of 2709.4 and is clearly on his way to join the group of the top-ten players in the world. But will he be the youngest to do so? We checked.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/youngest-player-in-the-top-ten",
-         "pubDate" : "Mon, 20 Apr 2026 18:00:00",
-         "title" : "Youngest player in the top ten?"
       },
       {
          "description" : "WGM Jennifer Shahade delivers a case for why chess thinking matters far beyond the board in her new book Thinking Sideways: How to Think Like a Chess Player and Win at Life. The two-time U.S. Women&#39;s Champion has long been known as one of the ch...",
@@ -194,14 +162,6 @@ news_feed (
          "title" : "ECF Grassroots Funding Initiative - update"
       },
       {
-         "description" : "Roman Dehtiarov produced a huge surprise at the European Championship in Katowice by defeating David Anton in the final round to win the title outright with 9/11 points. The 17-year-old Ukrainian entered the tournament as the 126th seed and an international master rated 2452. He finished with eight wins, two draws and one loss, defeated six higher-rated opponents and earned the grandmaster title after a 2781 tournament performance rating. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2026-r11",
-         "pubDate" : "Mon, 20 Apr 2026 09:50:00",
-         "title" : "Ukrainian IM Roman Dehtiarov stunningly becomes European champion in Katowice"
-      },
-      {
          "description" : "By the deadline of 17th April for ECU elections 2026 the following combine tickets have been received by alphabetic order of the Presidential candidate: Ticket Azmaiparashvili, Zurab 1. President:&#160; Mr. Zurab Azmaiparashvili (GEO)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Nominated by &#160;the National Chess Federations of Andorra, Armenia, Azerbaijan, North Macedonia and Turkey 2. Deputy President: &#160;Mr. Vlad Ardeleanu (ROM) Nominated by &#160;the National Chess Federations &#160;of Romania and Moldavia 3. Vice President: &#160;&#160;Mrs. Ingrid Lauterbach (GER) Nominated by the National Chess Federations of Germany and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -248,14 +208,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/call-applications-maurice-ashley-fellowship",
          "pubDate" : "Mon, 20 Apr 2026 00:00:00",
          "title" : "Call for Applications - Maurice Ashley Fellowship"
-      },
-      {
-         "description" : "The 2026 World Senior Team Championship has begun in Durrës, with 90 teams competing across the 50+ and 65+ sections. Top seeds include USA 1, England 1 and Kazakhstan in the younger category, while England I and Lasker SGK head the 65+ field. The event has attracted a number of leading veterans, among them Michael Adams, John Nunn and Artur Yusupov. | Photo: Georgia Grapsa",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-start",
-         "pubDate" : "Sun, 19 Apr 2026 22:50:00",
-         "title" : "World Senior Team Championship kicks off in Durrës"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
