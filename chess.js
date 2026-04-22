@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess has become an increasingly common pastime among NBA players, and an ESPN article published on 18 April explores why. From Victor Wembanyama's games in New York to Derrick Rose's chess event in Las Vegas, the report looks at how players are embracing the game as a way to sharpen focus, improve decision-making and stay mentally engaged during the long NBA season. | Photo: Wemby's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/espn-chess-boom-nba",
+         "pubDate" : "Wed, 22 Apr 2026 13:55:11",
+         "title" : "ESPN explores chess boom in the NBA"
+      },
+      {
          "description" : "Thirty-three years ago an unknown player took part in the World Open in Philadelphia. He called himself John von Neumann, beat a FIDE master, and drew grandmaster Helgi Ólafsson from Iceland. His opponents became suspicious when they heard something in his pocket buzzing. The player fled the tournament after the tournament director asked to test him. His identity was never revealed - until it has now been uncovered by Wired Magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/solved-at-last-who-was-the-von-neumann-cheat",
          "pubDate" : "Wed, 22 Apr 2026 10:00:00",
          "title" : "Solved at last: who was the \"Von Neumann\" cheat?"
+      },
+      {
+         "description" : "European chess fans can rejoice. IM Levy Rozman, known online as GothamChess, has confirmed he&#39;s returning to the old continent following his sold-out first tour in 2025. From October 25 to November 10, the biggest chess YouTuber on Earth will ret...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-gothamchess-european-tour-2026",
+         "pubDate" : "Wed, 22 Apr 2026 08:00:00",
+         "title" : "GothamChess Returns To Europe For Second Tour Starting October 25"
+      },
+      {
+         "description" : "GM Javokhir Sindarov&#39;s historic win at the 2026 FIDE Candidates Tournament saw him return home a hero to Uzbekistan, where he was met in Tashkent Airport by the prime minister before being awarded a second medal in six months by the president. Can...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-caruana-gukesh-sindarov-predictions",
+         "pubDate" : "Wed, 22 Apr 2026 05:13:19",
+         "title" : "Carlsen, Caruana Give Gukesh-Sindarov World Championship Predictions"
       },
       {
          "description" : "The Latin expression memento mori, meaning \"remember [that you have] to die\", has long been associated with humility and reflection on the brevity of life. Chess offers a fitting metaphor for this idea: every game begins with possibilities, unfolds through choices and conflict, and ends inevitably. The clock, the sacrifices and the final checkmate all reflect the limits of time, control and ambition, turning the chessboard into a symbolic lesson on mortality and purpose. | Picture: \"Allegory of Vanity\" by Spanish Baroque-era painter Antonio de Pereda y Salgado",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "Candidates Round 12: Zhu Catches Vaishali, Sindarov Sails"
       },
       {
-         "description" : "GM Javokhir Sindarov is guaranteed at least a playoff to win the 2026 FIDE Candidates Tournament after a 35-minute draw vs. GM Hikaru Nakamura put him two points clear with two rounds to go. GM Anish Giri came agonizingly close to moving within 1....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-12",
-         "pubDate" : "Sun, 12 Apr 2026 11:53:00",
-         "title" : "Sindarov On Brink As Giri Misses Win; Zhu Beats And Catches Vaishali"
-      },
-      {
          "description" : "All games in the Open were drawn today. I'm sure this was agreeable to GM Javokhir Sindarov, as it puts him that much closer to clinching his prize. This being said, GM Fabiano Caruana put a lot of pressure on the leader, while GM Anish Giri also had good prospects against GM Andrey Esipenko. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> Had both Giri and Caruana converted, we could be looking at a much closer race. The only player who was clearly winning this round was GM Praggnanandhaa Rameshbabu, but good form has continuously eluded him after his excellent first round win, and he was unable to snag the ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-defends-confidently-against-caruana-vaishali-moves-a-point-clear-in-the-womens-event.-candidates-round-11",
          "pubDate" : "Sat, 11 Apr 2026 23:58:00",
          "title" : "Sindarov defends confidently against Caruana, Vaishali moves a point clear in the women's event. Candidates Round 11 - 11"
-      },
-      {
-         "description" : "IM Renato Terry blazed to a second straight Bullet Brawl&#38;nbsp;victory on Saturday after triumphing over GM Jose Martinez in a sprint to the finish. Martinez and Terry were neck and neck for most of the second half until a 10-game winning streak sa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/renato-terry-wins-bullet-brawl-april-11-2026",
-         "pubDate" : "Sat, 11 Apr 2026 19:32:00",
-         "title" : "Terry Triumphs Over Martinez In Final Sprint"
       },
       {
          "description" : "On February 6th I shared a story of how I got thrown off my best game in a Padel match by unfair/toxic behavior of opponents. I wrote: &#8220;This is my main focus for my upcoming matches: play my best, especially when this trigger comes up.&#8221; Two months later I had a lot of opportunities to []",
@@ -928,22 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/april-monthly-ratings-and-website-issues-2nd-april/",
          "pubDate" : "Thu, 02 Apr 2026 15:47:49",
          "title" : "April Monthly Ratings and Website Issues - 2nd April"
-      },
-      {
-         "description" : "Please note that the ECF month-end rating process did not run last night, which means that this month's official ratings have not yet been published. We are currently working on...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/april-month-end-ratings/",
-         "pubDate" : "Wed, 01 Apr 2026 14:34:10",
-         "title" : "April Month End Ratings"
-      },
-      {
-         "description" : "Press Release: Not an April Fool! British chess phenom Bodhana Sivanandan has made history by shooting to the top of the UK chess rankings after a sensational start to 2026,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-becomes-britains-no-1-female-player/",
-         "pubDate" : "Wed, 01 Apr 2026 13:45:36",
-         "title" : "Bodhana Sivanandan Becomes Britain's No. 1 Female Player"
       }
    ]
 }
