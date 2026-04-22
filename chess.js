@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thirty-three years ago an unknown player took part in the World Open in Philadelphia. He called himself John von Neumann, beat a FIDE master, and drew grandmaster Helgi Ólafsson from Iceland. His opponents became suspicious when they heard something in his pocket buzzing. The player fled the tournament after the tournament director asked to test him. His identity was never revealed - until it has now been uncovered by Wired Magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solved-at-last-who-was-the-von-neumann-cheat",
+         "pubDate" : "Wed, 22 Apr 2026 10:00:00",
+         "title" : "Solved at last: who was the \"Von Neumann\" cheat?"
+      },
+      {
          "description" : "The Latin expression memento mori, meaning \"remember [that you have] to die\", has long been associated with humility and reflection on the brevity of life. Chess offers a fitting metaphor for this idea: every game begins with possibilities, unfolds through choices and conflict, and ends inevitably. The clock, the sacrifices and the final checkmate all reflect the limits of time, control and ambition, turning the chessboard into a symbolic lesson on mortality and purpose. | Picture: \"Allegory of Vanity\" by Spanish Baroque-era painter Antonio de Pereda y Salgado",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
