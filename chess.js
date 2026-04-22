@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana reflects on his showing at the Candidates Tournament while explaining why he believes Javokhir Sindarov produced one of the strongest performances in the event's history. Caruana discusses Sindarov's opening preparation, his own missed chances, Hikaru Nakamura's costly opening preparation mistake and the likely balance of the forthcoming world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/caruana-candidates-recap-podcast",
+         "pubDate" : "Wed, 22 Apr 2026 19:00:00",
+         "title" : "Unmissable: Caruana on Sindarov, Nakamura and the Candidates"
+      },
+      {
          "description" : "Chess has become an increasingly common pastime among NBA players, and an ESPN article published on 18 April explores why. From Victor Wembanyama's games in New York to Derrick Rose's chess event in Las Vegas, the report looks at how players are embracing the game as a way to sharpen focus, improve decision-making and stay mentally engaged during the long NBA season. | Photo: Wemby's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-caruana-gukesh-sindarov-predictions",
          "pubDate" : "Wed, 22 Apr 2026 05:13:19",
          "title" : "Carlsen, Caruana Give Gukesh-Sindarov World Championship Predictions"
+      },
+      {
+         "description" : "Today's exercises continue a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here, and check out even more puzzles from our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-2",
+         "pubDate" : "Wed, 22 Apr 2026 00:00:00",
+         "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 2"
       },
       {
          "description" : "The Latin expression memento mori, meaning \"remember [that you have] to die\", has long been associated with humility and reflection on the brevity of life. Chess offers a fitting metaphor for this idea: every game begins with possibilities, unfolds through choices and conflict, and ends inevitably. The clock, the sacrifices and the final checkmate all reflect the limits of time, control and ambition, turning the chessboard into a symbolic lesson on mortality and purpose. | Picture: \"Allegory of Vanity\" by Spanish Baroque-era painter Antonio de Pereda y Salgado",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/candidates-round-12-zhu-catches-vaishali-sindarov-sails",
          "pubDate" : "Mon, 13 Apr 2026 00:00:00",
          "title" : "Candidates Round 12: Zhu Catches Vaishali, Sindarov Sails"
-      },
-      {
-         "description" : "All games in the Open were drawn today. I'm sure this was agreeable to GM Javokhir Sindarov, as it puts him that much closer to clinching his prize. This being said, GM Fabiano Caruana put a lot of pressure on the leader, while GM Anish Giri also had good prospects against GM Andrey Esipenko. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Graphic courtesy of FIDE<br> <br> <br> <br> Had both Giri and Caruana converted, we could be looking at a much closer race. The only player who was clearly winning this round was GM Praggnanandhaa Rameshbabu, but good form has continuously eluded him after his excellent first round win, and he was unable to snag the ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-11-sindarov-vaishali-solidify-leads",
-         "pubDate" : "Sun, 12 Apr 2026 00:00:00",
-         "title" : "Candidates Round 11: Sindarov, Vaishali Solidify Leads"
       },
       {
          "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
