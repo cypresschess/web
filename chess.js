@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov had an incredible performance at the Candidates Tournament. He won the event and finished 1&frac12; points ahead of second-placed Anish Giri. While many people have contributed towards Javokhir's success, one man takes the lion's share. His name is Roman Vidonyak, and he is Sindarov's coach. The journey of Roman and Javokhir began in January 2025 and in the last sixteen months they have achieved something truly special. What are Roman's methods of training? We tried to understand from the man himself. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/roman-vidonyak-interview-sindarov",
+         "pubDate" : "Thu, 23 Apr 2026 11:00:00",
+         "title" : "Coach Roman Vidonyak: Javokhir Sindarov's secret weapon"
+      },
+      {
          "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim lead the standings by three match points over OSG Baden-Baden, with Schachfreunde Wolfhagen still within reach in third place (a win grants two MPs). The final weekend features direct encounters between all three teams, while teams at the bottom of the table will fight hard to avoid relegation. | Photo: Berlin.de",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
