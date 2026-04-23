@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. A 16-player field featuring Magnus Carlsen, Javokhir Sindarov and other leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
+         "pubDate" : "Thu, 23 Apr 2026 16:45:00",
+         "title" : "Chess.com Open Playoffs - Live!"
+      },
+      {
+         "description" : " The 26th European Individual Championship took place 6th (arrival day) to 20th April 2026. In an astonishing result 17 year-old Roman Dehtiarov who started as 126th seed and has had travel limited by the war won with 9/11. There is a reworked game file now. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
+         "pubDate" : "Thu, 23 Apr 2026 14:19:00",
+         "title" : "26th European Individual Championship 2026 - Games and Results"
+      },
+      {
          "description" : "Javokhir Sindarov had an incredible performance at the Candidates Tournament. He won the event and finished 1&frac12; points ahead of second-placed Anish Giri. While many people have contributed towards Javokhir's success, one man takes the lion's share. His name is Roman Vidonyak, and he is Sindarov's coach. The journey of Roman and Javokhir began in January 2025 and in the last sixteen months they have achieved something truly special. What are Roman's methods of training? We tried to understand from the man himself. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/caruana-candidates-recap-podcast",
          "pubDate" : "Wed, 22 Apr 2026 19:00:00",
          "title" : "Unmissable: Caruana on Sindarov, Nakamura and the Candidates"
-      },
-      {
-         "description" : "Chess has become an increasingly common pastime among NBA players, and an ESPN article published on 18 April explores why. From Victor Wembanyama's games in New York to Derrick Rose's chess event in Las Vegas, the report looks at how players are embracing the game as a way to sharpen focus, improve decision-making and stay mentally engaged during the long NBA season. | Photo: Wemby's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/espn-chess-boom-nba",
-         "pubDate" : "Wed, 22 Apr 2026 13:55:11",
-         "title" : "ESPN explores chess boom in the NBA"
       },
       {
          "description" : "European chess fans can rejoice. IM Levy Rozman, known online as GothamChess, has confirmed he&#39;s returning to the old continent following his sold-out first tour in 2025. From October 25 to November 10, the biggest chess YouTuber on Earth will ret...",
@@ -280,6 +288,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ignacio-wins-2026-4-player-chess-championship",
          "pubDate" : "Sat, 18 Apr 2026 07:08:00",
          "title" : "Ignacio Defends 4-Player Chess Title"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce the next player to take on the world: international master and YouTube star Julien Song will face the global chess community in Julien Song vs. The World. The creator will kick off the match with the white pieces ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-julien-song-vs-the-world",
+         "pubDate" : "Sat, 18 Apr 2026 06:55:00",
+         "title" : "Julien Song Takes On The World Starting May 4"
       },
       {
          "description" : "IMs Renato Terry and Karina Ambartsumova extended their records for 3 0 Thursday tournament victories on Thursday, April 16. Terry won a record 11th victory in the third tournament of the day, advancing ahead of GM Jose Martinez for the most wins ...",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "Candidates Chess: Is joint-leader Vaishali ready for final push?"
       },
       {
-         "description" : "As a nine-year-old last year, FM Aarit Kapil stunned none other than GM Magnus Carlsen by making a draw against him in Chess.com&#39;s Titled Tuesday. Recently, he also broke the 3000 barrier on Chess.com, and now the Indian prodigy has become one of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/10-year-old-aarit-kapil-defeats-grandmaster-scores-first-im-norm",
-         "pubDate" : "Tue, 14 Apr 2026 00:58:00",
-         "title" : "Aarit Kapil, 10, Scores First IM Norm After Beating Grandmaster"
-      },
-      {
          "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-rounds-played-at-the-european-individual-chess-championship-2026/",
          "pubDate" : "Thu, 09 Apr 2026 19:50:07",
          "title" : "Three rounds played at the European Individual Chess Championship 2026"
-      },
-      {
-         "description" : " The 26th European Individual Championship takes place 6th (arrival day) to 20th April 2026. Players: Igor Kovalenko, David Anton Guijarro, Daniel Deac Bogdan Aydin Suleymanli, Shant Sargsyan, David Navara, Alexander Donchenko, Anton Demchenko, Ediz Gurel, Haik Martirosyan Buhl Bjerre Jonas Robert Hovhannisyan, Vasyl Ivanchuk, Maxime Lagarde, Gabriel Sargissian, Aleksandar Indjic, Anton Korobov, Jaime Santos Latasa, MarcAndria Maurizzi, Mahammad Muradli, Lorenzo Lodici, Maxim Rodshtein, Maxim Dardha Ihor Samunenkov, Daniil Yuffa, Szymon Gumularz, Casper Schoppen, Constantin Lupulescu, Nijat Abasov, Elham Amar, Manuel Petrosyan, Bartosz Socko, Stamatis Kourkoulos-Arditis, Mustafa Yilmaz, Alan",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
-         "pubDate" : "Thu, 9 Apr 2026 18:50:00",
-         "title" : "26th European Individual Championship 2026 - Games and Results"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
