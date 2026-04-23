@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim lead the standings by three match points over OSG Baden-Baden, with Schachfreunde Wolfhagen still within reach in third place (a win grants two MPs). The final weekend features direct encounters between all three teams, while teams at the bottom of the table will fight hard to avoid relegation. | Photo: Berlin.de",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-preview",
+         "pubDate" : "Thu, 23 Apr 2026 08:15:06",
+         "title" : "This weekend: Berlin to host decisive closing rounds of Bundesliga"
+      },
+      {
          "description" : "Ding Liren is back. After losing the World Championship title in December 2024, Ding Liren took a long break from classical chess tournaments and only participated in online or rapid events. At the Chinese Team Championships, he has now returned to classical chess - successfully. | Photos: Sports Bureau of Heilongjiang Province",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
