@@ -896,22 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-takes-an-early-lead-in-the-candidates-after-beating-caruana-in-round-4",
          "pubDate" : "Thu, 2 Apr 2026 21:00:00",
          "title" : "Sindarov takes an early lead in the Candidates after beating Caruana in Round 4 - 3-4"
-      },
-      {
-         "description" : "The ECF Online Grand Prix Series returns for 2026, beginning on Sunday, 5 April and running through to December. The series features monthly blitz and rapid tournaments open to all...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2026-begins-this-sunday/",
-         "pubDate" : "Thu, 02 Apr 2026 16:45:55",
-         "title" : "ECF Online Grand Prix 2026 begins Sunday 5/4/26"
-      },
-      {
-         "description" : "Please note that the ECF month-end rating process ran successfully last night. This means that this month's official ratings have now been published, with monthly ratings displaying correctly in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/april-monthly-ratings-and-website-issues-2nd-april/",
-         "pubDate" : "Thu, 02 Apr 2026 15:47:49",
-         "title" : "April Monthly Ratings and Website Issues - 2nd April"
       }
    ]
 }
