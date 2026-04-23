@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chess.com Open Playoffs takes place Thu 23rd to Sun 26th Apr 2026. This offers a place in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. I've decided to adopt the Chess.com method of putting the winners and losers section in the same file. There's no ideal solution but there's a certain utility in having inherently connected games together. Rounds 50 and above are the losers par",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
+         "pubDate" : "Thu, 23 Apr 2026 22:33:00",
+         "title" : "Chess.com Open Playoffs 2026 - Games and Results"
+      },
+      {
          "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. A 16-player field featuring Magnus Carlsen, Javokhir Sindarov and other leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
          "pubDate" : "Thu, 23 Apr 2026 16:45:00",
          "title" : "Chess.com Open Playoffs - Live!"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda, and Nihal Sarin are the last ones standing in the Winners Bracket of the 2026 Chess.com Open Playoffs, after winning two matches on Thursday. In the Losers Bracket, the first four players were...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-1",
+         "pubDate" : "Thu, 23 Apr 2026 15:21:00",
+         "title" : "Carlsen, Lazavik, Duda, Nihal Advance In Winners Bracket; Sindarov Eliminated"
       },
       {
          "description" : " The 26th European Individual Championship took place 6th (arrival day) to 20th April 2026. In an astonishing result 17 year-old Roman Dehtiarov who started as 126th seed and has had travel limited by the war won with 9/11. There is a reworked game file now. ",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
       },
       {
-         "description" : "GM Nihal Sarin won the Menorca Open Masters, scoring two wins against World Champion Gukesh Dommaraju along the way. Nihal&#39;s 6/10 score was enough for clear first place, half a point ahead of GMs Ruslan Ponomariov and Richard Rapport. Gukesh had t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-wins-gukesh-struggles-in-menorca-open-masters",
-         "pubDate" : "Tue, 14 Apr 2026 06:36:00",
-         "title" : "Nihal Wins, Gukesh Struggles In Menorca Open Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130250522.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/03/chess-sindarov-21-takes-early-1-point-lead-as-uzbek-star-stuns-candidates-field",
          "pubDate" : "Fri, 03 Apr 2026 07:00:45",
          "title" : "Chess: Sindarov, 20, takes early 1-point lead as Uzbek star stuns Candidates field"
-      },
-      {
-         "description" : " Javokhir Sindarov put a major marker down by beating Fabiano Caruana in Round 4 of the Candidates, the two were sharing the lead. Sindarov was one of the favourites before the event alongside Caruana. Sindarov has started with 3.5/4, whilst there's an extremely long way to go he looks in very fine form. In the women's event Bibisara Assaubayeva and Anna Muzychuk share the lead on 2.5/5 half a point clear of most of the rest of the players. Thursday sees the first rest day. Round 4 (of 14) Standings: 1st Javokhir Sindarov, 3&frac12;/4. 2nd Fabiano Caruana, 2&frac12;. 3rd-5th Matthias Bluebaum, R Praggnanandhaa and Anish Giri, 2. 6th-7th Yi Wei and Hikaru Nakamura, 1&frac12;. 8th Andrey Esipe",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-takes-an-early-lead-in-the-candidates-after-beating-caruana-in-round-4",
-         "pubDate" : "Thu, 2 Apr 2026 21:00:00",
-         "title" : "Sindarov takes an early lead in the Candidates after beating Caruana in Round 4 - 3-4"
       }
    ]
 }
