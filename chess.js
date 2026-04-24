@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "SC Viernheim extended their lead in the 2025/26 Chess Bundesliga with a narrow win over Sfr. Wolfhagen in round thirteen, while OSG Baden-Baden were held to a draw by Heimbach-Weis-Neuwied. The results leave Viernheim four match points clear of Baden-Baden with two rounds remaining. A draw in Saturday's direct encounter with Baden-Baden would be sufficient for the leaders to secure the title. | Pictured: 14-year-old Turkish prodigy Yagiz Kaan Erdogmus (Viernheim) | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-r13",
+         "pubDate" : "Sat, 25 Apr 2026 00:40:00",
+         "title" : "Bundesliga: Viernheim still perfect, Baden-Baden only manage a draw"
+      },
+      {
+         "description" : "Zachery's journey is a remarkable rise from a small content creator to the face behind the YouTube channel thechessnerd, now with over 227,000 subscribers, and a presenter for FIDE, hosting press conferences at the 2026 Candidates Tournament. He began in 2019 at just 18 years old, uploading chess videos, and saw explosive growth during the pandemic as his content reached a global audience. Alongside this, his playing strength climbed from 1680 Elo in 2016 to over 2100 within a decade. So how did he make the leap from creator to official FIDE presenter, and how did his chess level improve? In this interview with Arne Kaehler, he shares the full story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zachery-saine-from-youtuber-to-fide-presenter",
+         "pubDate" : "Sat, 25 Apr 2026 00:30:11",
+         "title" : "Zachery Saine - From YouTuber to FIDE presenter"
+      },
+      {
+         "description" : "This weekend KCF Academy subscribers will have the opportunity to meet the extraordinary Peter Svidler during a regular live Sunday session. Don't miss this unique opportunity to enhance your chess understanding with insights from a true chess legend and get an expert's take on the just-concluded 2026 FIDE Candidates Tournament. Add to Your Calendar: Sunday, April 26, 2026, 17:00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-masterclass-with-peter-svidler",
+         "pubDate" : "Fri, 24 Apr 2026 22:00:00",
+         "title" : "Live Masterclass with Peter Svidler"
+      },
+      {
          "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. On day two, the winners bracket semifinals see Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Nihal Sarin. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +50,22 @@ news_feed (
          "title" : "Chess.com Open: Carlsen shines, Sindarov knocked out"
       },
       {
+         "description" : "The 2025 Broadway Cast Recording of Chess, the cult-favorite musical set against a Cold War-era world championship match, has officially dropped on Spotify and other streaming platforms.&#38;nbsp; The show returned to Broadway in New York last fall ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-cast-recording-drops-on-spotify",
+         "pubDate" : "Fri, 24 Apr 2026 13:30:50",
+         "title" : "'Chess' Hits Spotify As Broadway Star Aaron Tveit Says He Plays \"Lots of Chess.com!\""
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GMs Denis Lazavik&#38;nbsp;and Jan-Krzysztof Duda, with a 3-2 score in both matches, to advance to the 2026 Chess.com Open Playoffs Grand Final. Just by reaching the Winners Final, however, Duda has earned one of the three q...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-2",
+         "pubDate" : "Fri, 24 Apr 2026 12:23:00",
+         "title" : "Carlsen Advances To Grand Final After Beating Lazavik, Duda"
+      },
+      {
          "description" : "GM Nodirbek Yakubboev won his first Freestyle Friday on April 24, going undefeated to win outright with 10/11 points. The result nearly doubled his total in the Freestyle Friday Championship, moving him into fourth place on the leaderboard behind ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r5",
          "pubDate" : "Fri, 24 Apr 2026 06:20:00",
          "title" : "World Senior Team Championship heats up, USA and Italy share the lead in 50+ section"
+      },
+      {
+         "description" : "With five rounds in the books at the 2026 World Senior Team Chess Championship, Team USA has scored 4&frac12;/5 points and shares the lead - with the Italian team it drew in Round 4 - in the 50+ section. Held in Durres, Albania, from April 19 through 28, the Americans are looking for their fourth consecutive team title after completing the \"three-peat\" last year.The USA Women's team is currently on an even 2&frac12;/5 score, putting it a half-point behind the Czech Republic and Kazakhstan women's teams. Overall, 36 teams (including four women's teams) are competing in the 50+ section.Play resumes on Saturday, April 25 for Round 6 of the nine-round event, with the broadcast beginning at 8:15 ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/team-usa-leads-world-senior-team-championship-entering-second-half",
+         "pubDate" : "Fri, 24 Apr 2026 00:00:00",
+         "title" : "Team USA Leads World Senior Team Championship Entering Second Half"
       },
       {
          "description" : " The Chess.com Open Playoffs takes place Thu 23rd to Sun 26th Apr 2026. This offers a place in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. I've decided to adopt the Chess.com method of putting the winners and losers section in the same file. There's no ideal solution but there's a certain utility in having inherently connected games together. Rounds 50 and above are the losers par",
@@ -594,22 +642,6 @@ news_feed (
          "title" : "Sindarov wins Candidates, sets up World C'ship clash with D Gukesh"
       },
       {
-         "description" : "GM Javokhir Sindarov has won the 2026 FIDE Candidates Tournament with a round to spare after a draw against GM Anish Giri in round 13. More important than the &#38;euro;70,000 prize, he will be the next challenger to GM Gukesh Dommaraju for the world ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-13",
-         "pubDate" : "Tue, 14 Apr 2026 14:28:00",
-         "title" : "Sindarov Wins Candidates With Round To Spare; Women's Still Wide Open"
-      },
-      {
-         "description" : "St. Louis University (SLU) and the University of Missouri-Columbia (Mizzou) have combined to win the last seven Collegiate Chess League championships, but the spring 2026 season will crown a new champion. The SRM Institute of Science and Technolog...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-spring-playoff-update",
-         "pubDate" : "Tue, 14 Apr 2026 11:38:39",
-         "title" : "SRM, UTD Ensure A New CCL Champion"
-      },
-      {
          "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -704,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/21st-kcf-all-girls-national-breaks-records-over-600-attendees",
          "pubDate" : "Mon, 13 Apr 2026 00:00:00",
          "title" : "21st KCF All-Girls National Breaks Records With Over 600 Attendees"
-      },
-      {
-         "description" : "With the end of the 2026 FIDE Candidates and Women's Candidates tournaments approaching, players who are no longer in contention for first place seem to have accepted their fate and stopped taking big risks, particularly in the Open. But in the Women's event, half the field is very much still in contention! Open: Giri Lets His Chance SlipRound 12 of the Open was quiet, with every game ending in a draw, which means GM Javokhir Sindarov maintains his two-point lead and is now just half a point away from winning the tournament and securing his slot in the next World Championship match. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The most eventful mome",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-12-zhu-catches-vaishali-sindarov-sails",
-         "pubDate" : "Mon, 13 Apr 2026 00:00:00",
-         "title" : "Candidates Round 12: Zhu Catches Vaishali, Sindarov Sails"
       },
       {
          "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
          "pubDate" : "Sat, 04 Apr 2026 06:00:15",
          "title" : "Chess Mates: the fantastic true story of the sex toy rumour that buzzed around the world"
-      },
-      {
-         "description" : " Javokhir Sindarov continues to lead the FIDE Candidates in Cyprus by a point after crushing Hikaru Nakamura with the black pieces. Even at this early stage it's already looking like it's going to be a fight between Sindarov and Fabiano Caruana, they're the only two looking in great form. Caruana overpowered the hitherto undefeated Matthias Bluebaum, he also made the win look very easy. Sindarov's 4.5/5 start is exceptional, that said there are a number of players already looking out of form, so points may be easier to come by that in some Candidates tournaments. The other games were drawn. The women's event looks far harder to predict. Leader Anna Muzychuk had a quiet draw with Aleksandra G",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-and-caruana-both-win-in-candidates-round-5",
-         "pubDate" : "Fri, 3 Apr 2026 23:07:00",
-         "title" : "Sindarov and Caruana both win in Candidates Round 5 - 5"
       }
    ]
 }
