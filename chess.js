@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12, 13, and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has been lar",
+         "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-and-caruana-both-win-in-candidates-round-5",
          "pubDate" : "Fri, 3 Apr 2026 23:07:00",
          "title" : "Sindarov and Caruana both win in Candidates Round 5 - 5"
-      },
-      {
-         "description" : " Have you been following the big stories in football, cricket, rugby league, boxing, golf, F1, athletics, rowing and chess? <a href=\"https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess",
-         "pubDate" : "Fri, 03 Apr 2026 11:03:26",
-         "title" : "Sports quiz of the week: World Cup, Masters and County Championship"
       }
    ]
 }
