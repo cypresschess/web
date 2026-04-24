@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12, 13, and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has been lar",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
+         "pubDate" : "Fri, 24 Apr 2026 07:00:34",
+         "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
+      },
+      {
+         "description" : "At the halfway stage of the World Senior Team Championship in Durrës, the standings have begun to take clearer shape. In the 50+ section, USA 1 and Italy moved into the lead after key round-five victories, while France 1 emerged as sole leaders in the 65+ category. With closely contested matches and limited separation across both sections, the tournament remains open ahead of the decisive final rounds following the rest day. | Photo: Georgia Grapsa",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r5",
+         "pubDate" : "Fri, 24 Apr 2026 06:20:00",
+         "title" : "World Senior Team Championship heats up, USA and Italy share the lead in 50+ section"
+      },
+      {
          "description" : " The Chess.com Open Playoffs takes place Thu 23rd to Sun 26th Apr 2026. This offers a place in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. I've decided to adopt the Chess.com method of putting the winners and losers section in the same file. There's no ideal solution but there's a certain utility in having inherently connected games together. Rounds 50 and above are the losers par",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,38 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
          "pubDate" : "Thu, 23 Apr 2026 14:19:00",
          "title" : "26th European Individual Championship 2026 - Games and Results"
-      },
-      {
-         "description" : "Javokhir Sindarov had an incredible performance at the Candidates Tournament. He won the event and finished 1&frac12; points ahead of second-placed Anish Giri. While many people have contributed towards Javokhir's success, one man takes the lion's share. His name is Roman Vidonyak, and he is Sindarov's coach. The journey of Roman and Javokhir began in January 2025 and in the last sixteen months they have achieved something truly special. What are Roman's methods of training? We tried to understand from the man himself. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/roman-vidonyak-interview-sindarov",
-         "pubDate" : "Thu, 23 Apr 2026 11:00:00",
-         "title" : "Coach Roman Vidonyak: Javokhir Sindarov's secret weapon"
-      },
-      {
-         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim lead the standings by three match points over OSG Baden-Baden, with Schachfreunde Wolfhagen still within reach in third place (a win grants two MPs). The final weekend features direct encounters between all three teams, while teams at the bottom of the table will fight hard to avoid relegation. | Photo: Berlin.de",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-preview",
-         "pubDate" : "Thu, 23 Apr 2026 08:15:06",
-         "title" : "This weekend: Berlin to host decisive closing rounds of Bundesliga"
-      },
-      {
-         "description" : "Ding Liren is back. After losing the World Championship title in December 2024, Ding Liren took a long break from classical chess tournaments and only participated in online or rapid events. At the Chinese Team Championships, he has now returned to classical chess - successfully. | Photos: Sports Bureau of Heilongjiang Province",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-chinese-team-ch-2026",
-         "pubDate" : "Thu, 23 Apr 2026 01:00:00",
-         "title" : "Ding Liren is back!"
-      },
-      {
-         "description" : "Fabiano Caruana reflects on his showing at the Candidates Tournament while explaining why he believes Javokhir Sindarov produced one of the strongest performances in the event's history. Caruana discusses Sindarov's opening preparation, his own missed chances, Hikaru Nakamura's costly opening preparation mistake and the likely balance of the forthcoming world title match against Gukesh Dommaraju. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/caruana-candidates-recap-podcast",
-         "pubDate" : "Wed, 22 Apr 2026 19:00:00",
-         "title" : "Unmissable: Caruana on Sindarov, Nakamura and the Candidates"
       },
       {
          "description" : "European chess fans can rejoice. IM Levy Rozman, known online as GothamChess, has confirmed he&#39;s returning to the old continent following his sold-out first tour in 2025. From October 25 to November 10, the biggest chess YouTuber on Earth will ret...",
@@ -682,14 +666,6 @@ news_feed (
          "title" : "From middle finger moment to double over Gukesh: What is next for Sarin?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130228295.cms\" />Youngest World Cup winner Javokhir Sindarov is on the cusp of Candidates glory, needing just a draw to secure the title after an effortless draw with Hikaru Nakamura. He maintains an unbeaten run and leads by two points, setting up a potential Generation Z clash with D Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-sindarov-one-draw-away-from-glory-gukesh-clash-looms/articleshow/130228295.cms",
-         "pubDate" : "Mon, 13 Apr 2026 06:35:11",
-         "title" : "Candidates Chess: Sindarov one draw away from glory; Gukesh clash looms"
-      },
-      {
          "description" : "BP will be published soon. S.NO Name Team 1 VISAKH N R &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A 2 GUSAIN HIMAL &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -888,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/03/sports-quiz-week-world-cup-masters-county-championship-football-cricket-rugby-boxing-golf-motor-sport-chess",
          "pubDate" : "Fri, 03 Apr 2026 11:03:26",
          "title" : "Sports quiz of the week: World Cup, Masters and County Championship"
-      },
-      {
-         "description" : " The Uzbek grandmaster has scored 3.5/4, including an impressive victory against the world No 3 and Candidates favourite, Fabiano Caruana Javokhir Sindarov is already the clear favourite to win the 2026 Candidates in Cyprus and to challenge India's Gukesh Dommaraju for the world crown after the Uzbek grandmaster, 20, began the tournament with a commanding 3.5/4, including an <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-4/97di6JjX/Jzyakrf4\">impressive victory</a> against the pre-tournament favourite and world No 3, Fabiano Caruana. It is the fastest ever start by a player under the format of a double-round Candidates. Sindarov's seconds correctly anticipated that Car",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/03/chess-sindarov-21-takes-early-1-point-lead-as-uzbek-star-stuns-candidates-field",
-         "pubDate" : "Fri, 03 Apr 2026 07:00:45",
-         "title" : "Chess: Sindarov, 20, takes early 1-point lead as Uzbek star stuns Candidates field"
       }
    ]
 }
