@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. On day two, the winners bracket semifinals see Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Nihal Sarin. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
+         "pubDate" : "Fri, 24 Apr 2026 16:45:00",
+         "title" : "Chess.com Open Playoffs - Live!"
+      },
+      {
+         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim lead the standings by three match points over OSG Baden-Baden, with Schachfreunde Wolfhagen still within reach in third place (a win grants two MPs). The final weekend features direct encounters between all three teams. | Follow the action live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
+         "pubDate" : "Fri, 24 Apr 2026 16:00:00",
+         "title" : "Bundesliga Round 13 - Live!"
+      },
+      {
+         "description" : "Four players remain unbeaten after the opening day of the Chess.com Open Playoffs, with Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda and Nihal Sarin progressing through the Winners Bracket. Several close matches and multiple Armageddon deciders marked the early rounds, while eight players dropped into the Losers Bracket and four were eliminated, including new World Championship challenger Javokhir Sindarov. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d1",
+         "pubDate" : "Fri, 24 Apr 2026 15:05:00",
+         "title" : "Chess.com Open: Carlsen shines, Sindarov knocked out"
+      },
+      {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
          "pubDate" : "Thu, 23 Apr 2026 22:33:00",
          "title" : "Chess.com Open Playoffs 2026 - Games and Results"
-      },
-      {
-         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. A 16-player field featuring Magnus Carlsen, Javokhir Sindarov and other leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
-         "pubDate" : "Thu, 23 Apr 2026 16:45:00",
-         "title" : "Chess.com Open Playoffs - Live!"
       },
       {
          "description" : "GMs Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda, and Nihal Sarin are the last ones standing in the Winners Bracket of the 2026 Chess.com Open Playoffs, after winning two matches on Thursday. In the Losers Bracket, the first four players were...",
