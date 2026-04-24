@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chess.com Open: Carlsen shines, Sindarov knocked out"
       },
       {
+         "description" : "GM Nodirbek Yakubboev won his first Freestyle Friday on April 24, going undefeated to win outright with 10/11 points. The result nearly doubled his total in the Freestyle Friday Championship, moving him into fourth place on the leaderboard behind ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-april-24-2026",
+         "pubDate" : "Fri, 24 Apr 2026 12:08:54",
+         "title" : "Yakubboev Is Latest First-Time Freestyle Friday Winner"
+      },
+      {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-andhra-university-visakhaptnam-on-02-03-may-2026-2-bathes/",
          "pubDate" : "Tue, 14 Apr 2026 10:55:22",
          "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
-      },
-      {
-         "description" : "You can now personalize your Chessable training like never before. Curate your repertoire with the very best parts of each course with the new Repertoire feature. Add variations or entire chapters to your own custom course&#38;mdash;and then add a per...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chessable-repertoire",
-         "pubDate" : "Tue, 14 Apr 2026 08:55:14",
-         "title" : "Create Your Own Curated Opening Repertoire with Chessable's Newest Feature"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130254074.cms\" />In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women's Freestyle Chess World Championship, which is set to take place next year.",
