@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen reached the Grand Final of the Chess.com Open after two closely contested 3-2 victories over Denis Lazavik and Jan-Krzysztof Duda. Despite falling short, Duda secured qualification for the Esports World Cup by reaching the Winners Final. In the Losers Bracket, Sina Movahed and Nodirbek Abdusattorov advanced with two wins each, while six players were eliminated as the field narrowed further ahead of the final two days of action. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d2",
+         "pubDate" : "Sat, 25 Apr 2026 11:00:00",
+         "title" : "Chess.com Open: Carlsen reaches Grand Final, Duda qualifies to Esports World Cup"
+      },
+      {
          "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tabatabaei-martirosyan-bortnyk-3-0-thursday-04-23-2026",
          "pubDate" : "Fri, 24 Apr 2026 20:43:00",
          "title" : "Tabatabaei, Martirosyan, Bortnyk Win Wild Week Of 3 0 Thursdays"
-      },
-      {
-         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. On day two, the winners bracket semifinals see Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Nihal Sarin. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
-         "pubDate" : "Fri, 24 Apr 2026 16:45:00",
-         "title" : "Chess.com Open Playoffs - Live!"
       },
       {
          "description" : "Four players remain unbeaten after the opening day of the Chess.com Open Playoffs, with Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda and Nihal Sarin progressing through the Winners Bracket. Several close matches and multiple Armageddon deciders marked the early rounds, while eight players dropped into the Losers Bracket and four were eliminated, including new World Championship challenger Javokhir Sindarov. | Photo: ChessBase / Nils Rohde",
