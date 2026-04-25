@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2026-04-24","45","<a href=https://ratings.uschess.org/event/202604240183 target='_blank'>Knights of Cypress</a>",
+"SPRING","2026-04-24","11","<a href=https://ratings.uschess.org/event/202604240173 target='_blank'>THE FRIDAY KNIGHTS (TX)</a>",
+"SUGAR LAND","2026-04-24","8","<a href=https://ratings.uschess.org/event/202604240113 target='_blank'>FBCC 2026 Rainy Days Open</a>",
 "HOUSTON","2026-04-19","15","<a href=https://ratings.uschess.org/event/202604190543 target='_blank'>Bellaire Sunday Swiss 2026.04.19</a>",
 "HOUSTON","2026-04-19","2","<a href=https://ratings.uschess.org/event/202604190393 target='_blank'>Match Play</a>",
 "SUGAR LAND","2026-04-19","11","<a href=https://ratings.uschess.org/event/202604190173 target='_blank'>Sunbridge Learning Chess Tournament</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2026-02-01","6","<a href=https://ratings.uschess.org/event/202602010193 target='_blank'>2026 Houston Circuit T1 by AzChAcad</a>",
 "SPRING","2026-01-31","228","<a href=https://ratings.uschess.org/event/202601311013 target='_blank'>KLEIN WINTER SCHOLASTIC</a>",
 "HOUSTON","2026-01-31","10","<a href=https://ratings.uschess.org/event/202601310423 target='_blank'>chesspanda01312026saturday</a>",
-"PASADENA","2026-01-30","10","<a href=https://ratings.uschess.org/event/202601300333 target='_blank'>Checkmates on Fairmont</a>",
-"HOUSTON","2026-01-30","27","<a href=https://ratings.uschess.org/event/202601300213 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-01-30","12","<a href=https://ratings.uschess.org/event/202601300193 target='_blank'>2026 FBCC Draw a Dinosaur Day Open</a>",
 ]);
