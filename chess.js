@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Barcelona and across Catalonia, chess is being integrated into public education as a tool for learning and inclusion. Schools such as Escola Jaume Balmes and Escola Ramon y Cajal use the game to teach subjects ranging from mathematics to language, while also helping students from diverse backgrounds connect. Supported by educators and institutions, the initiative demonstrates how chess can foster engagement, participation and personal development in the classroom. | Photo: KNZO Photography",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-for-inclusion-catalonia",
+         "pubDate" : "Sat, 25 Apr 2026 21:00:00",
+         "title" : "Chess for inclusion: A powerful educational transformation in Catalonia"
+      },
+      {
          "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen has already qualified to the Grand Final, while five players will fight to gain the right to challenge him via the Losers Bracket. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/why-chess-improvement-planning-is-frustratin/",
          "pubDate" : "Sat, 25 Apr 2026 13:00:00",
          "title" : "Why Planning Can Be So Frustrating (But Important)"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda will have a rematch with GM Magnus Carlsen in the Grand Final of the 2026 Chess.com Open Playoffs. On Saturday, the Polish star won the Losers Final 1.5-0.5 with the black pieces in a sharp Nimzo-Indian Defense against GM Den...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-3",
+         "pubDate" : "Sat, 25 Apr 2026 11:24:00",
+         "title" : "Duda Sets Up Rematch Vs. Carlsen In Grand Final"
       },
       {
          "description" : "GMs Amin Tabatabaei, Haik Martirosyan, and Oleksandr Bortnyk won 3 0 Thursday tournaments on April 23. No one had a smooth run to the title as GM Jose Martinez, one of the top Thursday performers this year, made the podium in each event, but could...",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
          "pubDate" : "Wed, 15 Apr 2026 11:50:50",
          "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
-      },
-      {
-         "description" : "24-year-old Indian star GM Vaishali Rameshbabu will play Chinese GM Ju Wenjun for the women&#39;s world championship title after clinching the 2026 FIDE Women&#39;s Candidates with a final-round win over GM Kateryna Lagno. GM Bibisara Assaubayeva could ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-candidates-tournament-round-14",
-         "pubDate" : "Wed, 15 Apr 2026 10:37:00",
-         "title" : "Vaishali Wins Women's Candidates; Sindarov Breaks Record"
       },
       {
          "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
