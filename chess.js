@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-king-s-indian-a-complete-repertoire-for-black-by-gm-felix-blohberger",
+         "pubDate" : "Sat, 25 Apr 2026 07:00:00",
+         "title" : "Review: King's Indian - A Complete Repertoire for Black by GM Felix Blohberger"
+      },
+      {
          "description" : "SC Viernheim extended their lead in the 2025/26 Chess Bundesliga with a narrow win over Sfr. Wolfhagen in round thirteen, while OSG Baden-Baden were held to a draw by Heimbach-Weis-Neuwied. The results leave Viernheim four match points clear of Baden-Baden with two rounds remaining. A draw in Saturday's direct encounter with Baden-Baden would be sufficient for the leaders to secure the title. | Pictured: 14-year-old Turkish prodigy Yagiz Kaan Erdogmus (Viernheim) | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Live Masterclass with Peter Svidler"
       },
       {
+         "description" : "GMs Amin Tabatabaei, Haik Martirosyan, and Oleksandr Bortnyk won 3 0 Thursday tournaments on April 23. No one had a smooth run to the title as GM Jose Martinez, one of the top Thursday performers this year, made the podium in each event, but could...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tabatabaei-martirosyan-bortnyk-3-0-thursday-04-23-2026",
+         "pubDate" : "Fri, 24 Apr 2026 20:43:00",
+         "title" : "Tabatabaei, Martirosyan, Bortnyk Win Wild Week Of 3 0 Thursdays"
+      },
+      {
          "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. On day two, the winners bracket semifinals see Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Nihal Sarin. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
          "pubDate" : "Fri, 24 Apr 2026 16:45:00",
          "title" : "Chess.com Open Playoffs - Live!"
-      },
-      {
-         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim lead the standings by three match points over OSG Baden-Baden, with Schachfreunde Wolfhagen still within reach in third place (a win grants two MPs). The final weekend features direct encounters between all three teams. | Follow the action live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
-         "pubDate" : "Fri, 24 Apr 2026 16:00:00",
-         "title" : "Bundesliga Round 13 - Live!"
       },
       {
          "description" : "Four players remain unbeaten after the opening day of the Chess.com Open Playoffs, with Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda and Nihal Sarin progressing through the Winners Bracket. Several close matches and multiple Armageddon deciders marked the early rounds, while eight players dropped into the Losers Bracket and four were eliminated, including new World Championship challenger Javokhir Sindarov. | Photo: ChessBase / Nils Rohde",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
          "pubDate" : "Fri, 24 Apr 2026 07:00:34",
          "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
-      },
-      {
-         "description" : "At the halfway stage of the World Senior Team Championship in Durrës, the standings have begun to take clearer shape. In the 50+ section, USA 1 and Italy moved into the lead after key round-five victories, while France 1 emerged as sole leaders in the 65+ category. With closely contested matches and limited separation across both sections, the tournament remains open ahead of the decisive final rounds following the rest day. | Photo: Georgia Grapsa",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r5",
-         "pubDate" : "Fri, 24 Apr 2026 06:20:00",
-         "title" : "World Senior Team Championship heats up, USA and Italy share the lead in 50+ section"
       },
       {
          "description" : "With five rounds in the books at the 2026 World Senior Team Chess Championship, Team USA has scored 4&frac12;/5 points and shares the lead - with the Italian team it drew in Round 4 - in the 50+ section. Held in Durres, Albania, from April 19 through 28, the Americans are looking for their fourth consecutive team title after completing the \"three-peat\" last year.The USA Women's team is currently on an even 2&frac12;/5 score, putting it a half-point behind the Czech Republic and Kazakhstan women's teams. Overall, 36 teams (including four women's teams) are competing in the 50+ section.Play resumes on Saturday, April 25 for Round 6 of the nine-round event, with the broadcast beginning at 8:15 ",
@@ -586,14 +586,6 @@ news_feed (
          "title" : "Vaishali Wins Women's Candidates; Sindarov Breaks Record"
       },
       {
-         "description" : "GM Haik Martirosyan scored 10/11 to win his first-ever Titled Tuesday on April 14, starting out 9/9 and (after playing 267 moves to split his last two games) carrying that to his first ever win in the event. Last week&#39;s victor GM Sina Movahed scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martirosyan-wins-titled-tuesday-april-14-2026",
-         "pubDate" : "Wed, 15 Apr 2026 05:17:49",
-         "title" : "Martirosyan Joins List Of Titled Tuesday Winners"
-      },
-      {
          "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -880,14 +872,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/luck-in-chess/",
          "pubDate" : "Sat, 04 Apr 2026 13:00:00",
          "title" : "Why Hoping to Get Lucky is Ruining Your Chess"
-      },
-      {
-         "description" : " It was the anal bead theory that caused a global sensation. Now, a new Netflix film tells the tale of two grandmasters, one scandal - and a whole lot of bad blood Chess Mates (Netflix, Tuesday) has an unsettling early gambit: the face of Piers Morgan, looming via archive footage. \"Have you ever used anal beads while playing chess?\" Morgan asks down camera, as if prepping an ill-advised phone-in. \"Your curiosity is concerning. Maybe you're personally interested?\" shoots back his interviewee, Hans Niemann (above). The minds of chess masters, as glimpsed in this fantastic documentary, are almost as compelling as any back-passage shenanigans on the table. It's worth looking up the whole clip, f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
-         "pubDate" : "Sat, 04 Apr 2026 06:00:15",
-         "title" : "Chess Mates: the fantastic true story of the sex toy rumour that buzzed around the world"
       }
    ]
 }
