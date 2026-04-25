@@ -2,44 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen reached the Grand Final of the Chess.com Open after two closely contested 3-2 victories over Denis Lazavik and Jan-Krzysztof Duda. Despite falling short, Duda secured qualification for the Esports World Cup by reaching the Winners Final. In the Losers Bracket, Sina Movahed and Nodirbek Abdusattorov advanced with two wins each, while six players were eliminated as the field narrowed further ahead of the final two days of action. | Photo: ChessBase / Nils Rohde",
+         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen has already qualified to the Grand Final, while five players will fight to gain the right to challenge him via the Losers Bracket. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d2",
-         "pubDate" : "Sat, 25 Apr 2026 11:00:00",
-         "title" : "Chess.com Open: Carlsen reaches Grand Final, Duda qualifies to Esports World Cup"
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
+         "pubDate" : "Sat, 25 Apr 2026 16:45:00",
+         "title" : "Chess.com Open Playoffs - Live!"
       },
       {
-         "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-king-s-indian-a-complete-repertoire-for-black-by-gm-felix-blohberger",
-         "pubDate" : "Sat, 25 Apr 2026 07:00:00",
-         "title" : "Review: King's Indian - A Complete Repertoire for Black by GM Felix Blohberger"
+         "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2026-starts-in-trogir-croatia/",
+         "pubDate" : "Sat, 25 Apr 2026 14:24:50",
+         "title" : "European School Chess Championship 2026 starts in Trogir, Croatia"
       },
       {
-         "description" : "SC Viernheim extended their lead in the 2025/26 Chess Bundesliga with a narrow win over Sfr. Wolfhagen in round thirteen, while OSG Baden-Baden were held to a draw by Heimbach-Weis-Neuwied. The results leave Viernheim four match points clear of Baden-Baden with two rounds remaining. A draw in Saturday's direct encounter with Baden-Baden would be sufficient for the leaders to secure the title. | Pictured: 14-year-old Turkish prodigy Yagiz Kaan Erdogmus (Viernheim) | Photo: ChessBase / Nils Rohde",
+         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. Following Friday's thirteenth round, SC Viernheim lead the standings by four match points over OSG Baden-Baden. The twp frontrunners face off in the penultimate round on Saturday. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-r13",
-         "pubDate" : "Sat, 25 Apr 2026 00:40:00",
-         "title" : "Bundesliga: Viernheim still perfect, Baden-Baden only manage a draw"
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
+         "pubDate" : "Sat, 25 Apr 2026 14:00:00",
+         "title" : "Bundesliga Round 14 - Live!"
       },
       {
-         "description" : "Zachery's journey is a remarkable rise from a small content creator to the face behind the YouTube channel thechessnerd, now with over 227,000 subscribers, and a presenter for FIDE, hosting press conferences at the 2026 Candidates Tournament. He began in 2019 at just 18 years old, uploading chess videos, and saw explosive growth during the pandemic as his content reached a global audience. Alongside this, his playing strength climbed from 1680 Elo in 2016 to over 2100 within a decade. So how did he make the leap from creator to official FIDE presenter, and how did his chess level improve? In this interview with Arne Kaehler, he shares the full story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zachery-saine-from-youtuber-to-fide-presenter",
-         "pubDate" : "Sat, 25 Apr 2026 00:30:11",
-         "title" : "Zachery Saine - From YouTuber to FIDE presenter"
-      },
-      {
-         "description" : "This weekend KCF Academy subscribers will have the opportunity to meet the extraordinary Peter Svidler during a regular live Sunday session. Don't miss this unique opportunity to enhance your chess understanding with insights from a true chess legend and get an expert's take on the just-concluded 2026 FIDE Candidates Tournament. Add to Your Calendar: Sunday, April 26, 2026, 17:00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-masterclass-with-peter-svidler",
-         "pubDate" : "Fri, 24 Apr 2026 22:00:00",
-         "title" : "Live Masterclass with Peter Svidler"
+         "description" : "Over the past weeks, I've gotten more and more excited about my upcoming work projects. I had so many ideas. But when I sat down to actually plan the quarter, I realized I won't have time for most of them. I started by writing down everything I wanted to do. What you see above is []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/why-chess-improvement-planning-is-frustratin/",
+         "pubDate" : "Sat, 25 Apr 2026 13:00:00",
+         "title" : "Why Planning Can Be So Frustrating (But Important)"
       },
       {
          "description" : "GMs Amin Tabatabaei, Haik Martirosyan, and Oleksandr Bortnyk won 3 0 Thursday tournaments on April 23. No one had a smooth run to the title as GM Jose Martinez, one of the top Thursday performers this year, made the podium in each event, but could...",
@@ -48,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tabatabaei-martirosyan-bortnyk-3-0-thursday-04-23-2026",
          "pubDate" : "Fri, 24 Apr 2026 20:43:00",
          "title" : "Tabatabaei, Martirosyan, Bortnyk Win Wild Week Of 3 0 Thursdays"
-      },
-      {
-         "description" : "Four players remain unbeaten after the opening day of the Chess.com Open Playoffs, with Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda and Nihal Sarin progressing through the Winners Bracket. Several close matches and multiple Armageddon deciders marked the early rounds, while eight players dropped into the Losers Bracket and four were eliminated, including new World Championship challenger Javokhir Sindarov. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d1",
-         "pubDate" : "Fri, 24 Apr 2026 15:05:00",
-         "title" : "Chess.com Open: Carlsen shines, Sindarov knocked out"
       },
       {
          "description" : "The 2025 Broadway Cast Recording of Chess, the cult-favorite musical set against a Cold War-era world championship match, has officially dropped on Spotify and other streaming platforms.&#38;nbsp; The show returned to Broadway in New York last fall ...",
@@ -778,14 +762,6 @@ news_feed (
          "title" : "Three rounds played at the European Individual Chess Championship 2026"
       },
       {
-         "description" : "The second round of the European Individual Chess Championship 2026 is in the books, and the highlights were on the top boards major upsets! Tournament's rating favorite GM Igor Kovalenko (UKR, 2685) lost with the black pieces against IM Samuel-Timotei Ghimpu (ROU, 2443), who played a fantastic game. Ghimpu overcame time-trouble issues and never let go of the decisive edge he earned in the endgame. Another major upset occurred on the third board in the game between third-seeded GM Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/major-upsets-mark-the-second-round-of-european-chess-championship-2026/",
-         "pubDate" : "Wed, 08 Apr 2026 20:40:49",
-         "title" : "Major upsets mark the second round of European Chess Championship 2026"
-      },
-      {
          "description" : " The 9th Round of the FIDE Candidates tournament in Cyprus saw some very consequent action. First of all the leader by two points Javokhir Sindarov missed a clear winning chance against Matthias Bluebaum and had to settle for a draw. No disaster but nevertheless a chance. Fabiano Caruana dropped out of contention when he lost to Anish Giri, who is now 1.5 points behind Sindarov and is surely the only player that can catch the leader. In the women's event there was another very wild day that finished with Zhu Jiner and Rameshbabu Vaishali sharing the lead, Anna Muzychuk missed a chance to join them. Round 9 (of 14) Standings: 1st Javokhir Sindarov, 7/9. 2nd Anish Giri, 5&frac12;. 3rd-5th Matt",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -864,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-in-danger-of-running-away-with-the-candidates-after-he-moves-to-5.56",
          "pubDate" : "Sun, 5 Apr 2026 02:23:00",
          "title" : "Sindarov in danger of running away with the Candidates after he moves to 5.5/6 - 6"
-      },
-      {
-         "description" : "I love playing poker. It is a super fun game, combining human psychology, game theory, and a component of luck. Since stopping my professional chess career, I allowed myself to dabble in this card game, went to play tournaments, and traveled all the way to Las Vegas to play in the famous World Series of []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/luck-in-chess/",
-         "pubDate" : "Sat, 04 Apr 2026 13:00:00",
-         "title" : "Why Hoping to Get Lucky is Ruining Your Chess"
       }
    ]
 }
