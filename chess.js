@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen and Jan-Krzysztof Duda face off in Sunday's Grand Final. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
+         "pubDate" : "Sun, 26 Apr 2026 16:45:00",
+         "title" : "Chess.com Open Playoffs - Live!"
+      },
+      {
+         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim secured overall victory with a round to spare. Baden-Baden and Wolfhagen enter the final round tied for third place. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
+         "pubDate" : "Sun, 26 Apr 2026 10:00:00",
+         "title" : "Bundesliga Round 15 - Live!"
+      },
+      {
          "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase&acute;26 with clear graphical elements.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-25-2026",
-         "pubDate" : "Sat, 25 Apr 2026 22:12:09",
+         "pubDate" : "Sat, 25 Apr 2026 22:12:00",
          "title" : "Arjun Overcomes Bortnyk In Battle For Bullet Brawl Glory"
       },
       {
@@ -26,28 +42,12 @@ news_feed (
          "title" : "Chess for inclusion: A powerful educational transformation in Catalonia"
       },
       {
-         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen has already qualified to the Grand Final, while five players will fight to gain the right to challenge him via the Losers Bracket. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
-         "pubDate" : "Sat, 25 Apr 2026 16:45:00",
-         "title" : "Chess.com Open Playoffs - Live!"
-      },
-      {
          "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-championship-2026-starts-in-trogir-croatia/",
          "pubDate" : "Sat, 25 Apr 2026 14:24:50",
          "title" : "European School Chess Championship 2026 starts in Trogir, Croatia"
-      },
-      {
-         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. Following Friday's thirteenth round, SC Viernheim lead the standings by four match points over OSG Baden-Baden. The twp frontrunners face off in the penultimate round on Saturday. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
-         "pubDate" : "Sat, 25 Apr 2026 14:00:00",
-         "title" : "Bundesliga Round 14 - Live!"
       },
       {
          "description" : "Over the past weeks, I've gotten more and more excited about my upcoming work projects. I had so many ideas. But when I sat down to actually plan the quarter, I realized I won't have time for most of them. I started by writing down everything I wanted to do. What you see above is []",
