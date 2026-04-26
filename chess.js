@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "SC Viernheim completed the 2025/26 Chess Bundesliga season with a perfect record, winning all fifteen matches to secure the title on 30/30 match points. The team finished 7 match points ahead of OSG Baden-Baden and Sfr. Wolfhagen. Baden-Baden took second place thanks to their superior tiebreak score (board points). Consistent performances across the lineup, including a leading score by Bassem Amin, underpinned Viernheim's second championship success in three seasons. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-r15",
+         "pubDate" : "Sun, 26 Apr 2026 20:40:00",
+         "title" : "SC Viernheim secure second Bundesliga title with flawless season"
+      },
+      {
+         "description" : " The Chess.com Open Playoffs took Thu 23rd to Sun 26th Apr 2026. This offered two places in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. Magnus Carlsen beat Jan-Krzysztof Duda in the Final, lost the Grand Final and then finally won again in the reset final. Both players qualified for the Esports World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
+         "pubDate" : "Sun, 26 Apr 2026 18:30:00",
+         "title" : "Chess.com Open Playoffs 2026 - Games and Results"
+      },
+      {
          "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen and Jan-Krzysztof Duda face off in Sunday's Grand Final. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
          "pubDate" : "Sun, 26 Apr 2026 16:45:00",
          "title" : "Chess.com Open Playoffs - Live!"
+      },
+      {
+         "description" : "Team Liquid&#39;s GM Magnus Carlsen won the 2026 Chess.com Open Playoffs after defeating GM Jan-Krzysztof Duda in an exhilarating Grand Final. Duda, coming from the Losers Bracket, dominated the first match 2.5-0.5, but Carlsen came back in the Match ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2026-chesscom-open-playoffs",
+         "pubDate" : "Sun, 26 Apr 2026 10:28:38",
+         "title" : "Carlsen Wins Chess.com Open, Recovers From Tough Start Vs. Duda"
       },
       {
          "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim secured overall victory with a round to spare. Baden-Baden and Wolfhagen enter the final round tied for third place. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/team-usa-leads-world-senior-team-championship-entering-second-half",
          "pubDate" : "Fri, 24 Apr 2026 00:00:00",
          "title" : "Team USA Leads World Senior Team Championship Entering Second Half"
-      },
-      {
-         "description" : " The Chess.com Open Playoffs takes place Thu 23rd to Sun 26th Apr 2026. This offers a place in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. I've decided to adopt the Chess.com method of putting the winners and losers section in the same file. There's no ideal solution but there's a certain utility in having inherently connected games together. Rounds 50 and above are the losers par",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
-         "pubDate" : "Thu, 23 Apr 2026 22:33:00",
-         "title" : "Chess.com Open Playoffs 2026 - Games and Results"
       },
       {
          "description" : "GMs Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda, and Nihal Sarin are the last ones standing in the Winners Bracket of the 2026 Chess.com Open Playoffs, after winning two matches on Thursday. In the Losers Bracket, the first four players were...",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions",
          "pubDate" : "Fri, 17 Apr 2026 10:43:00",
          "title" : "Sindarov, Vaishali Triumph: 7 FIDE Candidates Conclusions"
-      },
-      {
-         "description" : "Kazakh-based investment and technology company Freedom Holding has acquired ChessBase, perhaps the most influential company in chess software and professional training tools over the past three decades. The deal was confirmed in a press release ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freedom-holding-acquires-german-software-company-chessbase",
-         "pubDate" : "Fri, 17 Apr 2026 08:42:00",
-         "title" : "Freedom Holding Acquires ChessBase"
       },
       {
          "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
