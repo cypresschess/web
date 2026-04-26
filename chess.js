@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase&acute;26 with clear graphical elements.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-12-arrows-and-marks",
+         "pubDate" : "Sun, 26 Apr 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips, Part 12: Arrows and marks"
+      },
+      {
+         "description" : "GM Arjun Erigaisi has rocketed up Bullet Brawl&#39;s all-time leaderboard after fending off GM Oleksander Bortnyk and notching his second straight $400 victory on Saturday. With Bortnyk breathing down his neck for most of the arena, Arjun held his ner...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-25-2026",
+         "pubDate" : "Sat, 25 Apr 2026 22:12:09",
+         "title" : "Arjun Overcomes Bortnyk In Battle For Bullet Brawl Glory"
+      },
+      {
          "description" : "In Barcelona and across Catalonia, chess is being integrated into public education as a tool for learning and inclusion. Schools such as Escola Jaume Balmes and Escola Ramon y Cajal use the game to teach subjects ranging from mathematics to language, while also helping students from diverse backgrounds connect. Supported by educators and institutions, the initiative demonstrates how chess can foster engagement, participation and personal development in the classroom. | Photo: KNZO Photography",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Queen's Gambit: Vaishali triumphs in Candidates, will vie for world title"
       },
       {
-         "description" : "GM Hans Niemann decisively beat fellow American 2700 GM Awonder Liang in a 12-game match in Paris, France. Niemann went undefeated throughout the fast-classical match, winning three games and securing a final 7.5-4.5 victory. The players competed ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-defeats-liang-paris-match-world-number-12",
-         "pubDate" : "Thu, 16 Apr 2026 03:37:30",
-         "title" : "Niemann Defeats Liang In Paris, Hits Career-High World No. 12"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130295968.cms\" />Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://www.europechess.org/david-anton-guijarro-in-sole-lead-at-eicc2026-after-eight-played-rounds/",
          "pubDate" : "Wed, 15 Apr 2026 20:40:27",
          "title" : "David Anton Guijarro in sole lead at EICC2026 after eight played rounds"
-      },
-      {
-         "description" : " There is no excerpt because this is a protected post. The post <a href=\"https://saintlouischessclub.org/news-insights-press/shop-store/\">Protected: THE PAWN SHOP</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/shop-store/",
-         "pubDate" : "Wed, 15 Apr 2026 19:37:15",
-         "title" : "Protected: THE PAWN SHOP"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130290400.cms\" />R Vaishali won the 2026 Women's Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
