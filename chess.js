@@ -18,28 +18,12 @@ news_feed (
          "title" : "Chess.com Open Playoffs 2026 - Games and Results"
       },
       {
-         "description" : "The Chess.com Open Playoffs, running from 23 to 26 April, offer a direct route to the Esports World Cup, with up to three qualification places at stake. Leading grandmasters contest a double-elimination playoff bracket in a rapid format (10+0) with Armageddon tiebreaks deciding drawn matches. Magnus Carlsen and Jan-Krzysztof Duda face off in Sunday's Grand Final. | Follow the games live starting at 17.15 CEST (11.15 ET, 20.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-live",
-         "pubDate" : "Sun, 26 Apr 2026 16:45:00",
-         "title" : "Chess.com Open Playoffs - Live!"
-      },
-      {
          "description" : "Team Liquid&#39;s GM Magnus Carlsen won the 2026 Chess.com Open Playoffs after defeating GM Jan-Krzysztof Duda in an exhilarating Grand Final. Duda, coming from the Losers Bracket, dominated the first match 2.5-0.5, but Carlsen came back in the Match ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2026-chesscom-open-playoffs",
-         "pubDate" : "Sun, 26 Apr 2026 10:28:38",
+         "pubDate" : "Sun, 26 Apr 2026 10:28:00",
          "title" : "Carlsen Wins Chess.com Open, Recovers From Tough Start Vs. Duda"
-      },
-      {
-         "description" : "The 2025/26 Chess Bundesliga season concludes with three rounds in Berlin from 24 to 26 April. SC Viernheim secured overall victory with a round to spare. Baden-Baden and Wolfhagen enter the final round tied for third place. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-live",
-         "pubDate" : "Sun, 26 Apr 2026 10:00:00",
-         "title" : "Bundesliga Round 15 - Live!"
       },
       {
          "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase&acute;26 with clear graphical elements.",
@@ -56,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-25-2026",
          "pubDate" : "Sat, 25 Apr 2026 22:12:00",
          "title" : "Arjun Overcomes Bortnyk In Battle For Bullet Brawl Glory"
-      },
-      {
-         "description" : "In Barcelona and across Catalonia, chess is being integrated into public education as a tool for learning and inclusion. Schools such as Escola Jaume Balmes and Escola Ramon y Cajal use the game to teach subjects ranging from mathematics to language, while also helping students from diverse backgrounds connect. Supported by educators and institutions, the initiative demonstrates how chess can foster engagement, participation and personal development in the classroom. | Photo: KNZO Photography",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-inclusion-catalonia",
-         "pubDate" : "Sat, 25 Apr 2026 21:00:00",
-         "title" : "Chess for inclusion: A powerful educational transformation in Catalonia"
       },
       {
          "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
@@ -840,14 +816,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-3",
          "pubDate" : "Mon, 06 Apr 2026 19:00:00",
          "title" : "A Game That Outlasted the Day (3)"
-      },
-      {
-         "description" : " Javokhir Sindarov has finished the first half of the FIDE Candidates on 6/7 following a draw against Anish Giri. Although Sindarov was better Giri's defence was very accurate and really there didn't seem to be any winning chances. The only decisive game of the day was when Wei Yi took advantage of a gruesome blunder by Andrey Esipenko, this was a case of Esipenko mixing up his move order in a sharp position and being left with a position that was basically unplayable. Bluebaum vs Nakamura and Praggnanandhaa vs Caruana were both drawn in games not without interest. In the Women's event Anna Muzychuk still leads, Rameshbabu Vaishali hasn't looked all that convincing but two days of turn aroun",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-leads-the-fide-candidates-by-1.5-points-at-the-half-way-stage",
-         "pubDate" : "Sun, 5 Apr 2026 22:37:00",
-         "title" : "Javokhir Sindarov leads the FIDE Candidates by 1.5 points at the half way stage - 7"
       }
    ]
 }
