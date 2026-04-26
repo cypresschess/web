@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-leads-the-fide-candidates-by-1.5-points-at-the-half-way-stage",
          "pubDate" : "Sun, 5 Apr 2026 22:37:00",
          "title" : "Javokhir Sindarov leads the FIDE Candidates by 1.5 points at the half way stage - 7"
-      },
-      {
-         "description" : " Javokhir Sindarov won yet again to move to 5.5/6 and revive memories of Veselin Topalov's 6.5/7 in the first half of the World Championship tournament in San Luis in 2005 (and as Anand admitted, the only person to draw, he saved a lost position), there in exactly the same format, Topalov cruised to victory by drawing the entirity of the second half of the tournament. Whilst Sindarov is on fire, and just looking and feeling in total control, he's only a point and a half clear of Fabiano Caruana at the moment. As stunning as his performance is, he's not yet a certainty, but the performance has been mind blowing. Today he survived some testing moments against Wei Yi, never seemed in real troub",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-in-danger-of-running-away-with-the-candidates-after-he-moves-to-5.56",
-         "pubDate" : "Sun, 5 Apr 2026 02:23:00",
-         "title" : "Sindarov in danger of running away with the Candidates after he moves to 5.5/6 - 6"
       }
    ]
 }
