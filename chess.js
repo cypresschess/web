@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Mir Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his grandaughter is due for release in July. We had a preview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-life-of-mir-sultan-khan",
+         "pubDate" : "Mon, 27 Apr 2026 10:45:50",
+         "title" : "The life of Mir Sultan Khan"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-indian-yet-in-esports-chess-world-cup-2026-how-can-it-change-the-road-ahead-explained/articleshow/130547660.cms",
+         "pubDate" : "Mon, 27 Apr 2026 08:01:32",
+         "title" : "No Indian yet in Esports Chess World Cup 2026: How can it change?"
+      },
+      {
          "description" : "Magnus Carlsen won the Chess.com Open after overcoming Jan-Krzysztof Duda in the Grand Final, despite losing the initial match and being taken to a Reset. Duda, playing on his 28th birthday, forced a decider with a 2&frac12;-&frac12; victory but could not maintain the momentum. Carlsen, who competed throughout the event using a tablet, secured the title in the final two-game match, with both players qualifying for the Esports World Cup. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-vignir-vatnar-stefansson-takes-sole-lead-in-european-individual-chess-championship-2026/",
          "pubDate" : "Mon, 13 Apr 2026 21:00:59",
          "title" : "GM Vignir Vatnar Stefansson takes sole lead in European Individual Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130237146.cms\" />Indian chess prodigy Nihal Sarin brushed off an online opponent's rude gesture earlier this year, focusing instead on his game. Since then, he has surged in form, reaching a career-high rating of 2723, winning the Menorca Masters, and beating world champion D Gukesh twice. He will now aim to qualify for the Esports World Cup 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-middle-finger-moment-to-double-over-world-chess-champion-d-gukesh-what-is-next-for-nihal-sarin/articleshow/130237146.cms",
-         "pubDate" : "Mon, 13 Apr 2026 12:43:51",
-         "title" : "From middle finger moment to double over Gukesh: What is next for Sarin?"
       },
       {
          "description" : "BP will be published soon. S.NO Name Team 1 VISAKH N R &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A 2 GUSAIN HIMAL &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A",
