@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the Chess.com Open after overcoming Jan-Krzysztof Duda in the Grand Final, despite losing the initial match and being taken to a Reset. Duda, playing on his 28th birthday, forced a decider with a 2&frac12;-&frac12; victory but could not maintain the momentum. Carlsen, who competed throughout the event using a tablet, secured the title in the final two-game match, with both players qualifying for the Esports World Cup. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d4",
+         "pubDate" : "Mon, 27 Apr 2026 06:35:00",
+         "title" : "Carlsen beats Duda in Grand Final Reset, wins Chess.com Open"
+      },
+      {
          "description" : "SC Viernheim completed the 2025/26 Chess Bundesliga season with a perfect record, winning all fifteen matches to secure the title on 30/30 match points. The team finished 7 match points ahead of OSG Baden-Baden and Sfr. Wolfhagen. Baden-Baden took second place thanks to their superior tiebreak score (board points). Consistent performances across the lineup, including a leading score by Bassem Amin, underpinned Viernheim's second championship success in three seasons. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
