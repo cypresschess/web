@@ -10,12 +10,12 @@ news_feed (
          "title" : "Top tens in the Chessmetrics list"
       },
       {
-         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Mir Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his grandaughter is due for release in July. We had a preview. | All pictures shown courtesy of chesshistory.com.",
+         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his granddaughter is due for release in July. We had a preview. | All pictures shown courtesy of chesshistory.com.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-life-of-mir-sultan-khan",
+         "link" : "https://en.chessbase.com/post/the-life-of-mian-sultan-khan",
          "pubDate" : "Mon, 27 Apr 2026 10:45:50",
-         "title" : "The life of Mir Sultan Khan"
+         "title" : "The life of Mian Sultan Khan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/07/untold-chess-mates-review-hans-niemann-magnus-carlsen-netflix",
          "pubDate" : "Tue, 07 Apr 2026 07:01:41",
          "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
-      },
-      {
-         "description" : "Two months ago Valery Golubenko played what may well have been one of the longest chess games ever seen, measured by number of moves, under the rather restrictive conditions of modern chess life. At move 88, with queen and b-pawn against queen, Golubenko's opponent held for 37 moves, until he missed an only move, and it was theoretically a mate in 47. | Photo during the game by Chess Club Kaksikodad - from the right, GM Aleksandr Volodin and the chief arbiter Askold Nassar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-3",
-         "pubDate" : "Mon, 06 Apr 2026 19:00:00",
-         "title" : "A Game That Outlasted the Day (3)"
       }
    ]
 }
