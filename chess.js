@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Mir Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his grandaughter is due for release in July. We had a preview.",
+         "description" : "\"I was intrigued to see the list of the youngest players to reach the top ten,\" said chess statistician Jeff Sonas. \"As the article states, my monthly Chessmetrics historical ratings are indeed unofficial, but being able to look further back, more than a century before FIDE Elo ratings started, certainly does help to place the modern FIDE-rated players into a historical context for comparisons like this.\" Here is Jeff's historical data.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-tens-in-the-chessmetrics-list",
+         "pubDate" : "Mon, 27 Apr 2026 17:24:17",
+         "title" : "Top tens in the Chessmetrics list"
+      },
+      {
+         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Mir Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his grandaughter is due for release in July. We had a preview. | All pictures shown courtesy of chesshistory.com.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-life-of-mir-sultan-khan",
