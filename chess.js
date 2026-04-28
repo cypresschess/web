@@ -10,12 +10,20 @@ news_feed (
          "title" : "Hong Kong World Rapid and Blitz"
       },
       {
+         "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-april-28-2026",
+         "pubDate" : "Tue, 28 Apr 2026 11:23:46",
+         "title" : "Duda Abides Late Loss, Recovers To Win Titled Tuesday"
+      },
+      {
          "description" : "WFM Alexandra Botez got off to a shaky start in the seventh episode of Kids vs. Stars when she found herself lost in seven moves against her 13-year-old Canadian compatriot WFM Ashley Qian. That game couldn&#39;t be save, but despite serious time trou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alexandra-botez-kids-vs-stars-episode-7",
-         "pubDate" : "Tue, 28 Apr 2026 07:27:28",
-         "title" : "Alexandra Botez Defeats Kids, 'Would Love Andrea To Have Such A Fun Experience!'"
+         "pubDate" : "Tue, 28 Apr 2026 07:27:00",
+         "title" : "Alexandra Botez Wins 7th Kids Vs. Stars"
       },
       {
          "description" : "Millions of viewers of Jeopardy!&#38;mdash;one of America&#38;rsquo;s most popular TV shows&#38;mdash;saw a dramatic shakeup on Monday when IM Greg Shahade dethroned one of its most dominant contestants ever. Jamie Ding had become a popular personality duri...",
@@ -26,20 +34,12 @@ news_feed (
          "title" : "IM Greg Shahade Wins Jeopardy, Ends Ding's 31-Game Streak"
       },
       {
-         "description" : "\"Madwoman's Game\" premiered on 16 April at the Miami Chess Festival, presenting a chess-focused documentary that follows Bianca Mitchell-Avila's journey through competition, mentorship and personal development. The film explores how the game informs decision-making beyond the board. Its production was notably supported by Keanu Reeves, whose involvement came as an unexpected boost to the project. | Image: Screenshot from \"Madwoman's Game\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/madwomans-game-premier-miami",
-         "pubDate" : "Tue, 28 Apr 2026 02:00:00",
-         "title" : "\"Madwoman's Game\", chess-themed documentary produced by Keanu Reeves, premieres at Miami Festival"
-      },
-      {
-         "description" : "\"I was intrigued to see the list of the youngest players to reach the top ten,\" said chess statistician Jeff Sonas. \"As the article states, my monthly Chessmetrics historical ratings are indeed unofficial, but being able to look further back, more than a century before FIDE Elo ratings started, certainly does help to place the modern FIDE-rated players into a historical context for comparisons like this.\" Here is Jeff's historical data.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-tens-in-the-chessmetrics-list",
-         "pubDate" : "Mon, 27 Apr 2026 17:24:17",
-         "title" : "Top tens in the Chessmetrics list"
+         "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship. Stay tuned tomorrow for a full report on this event, as well as another worksheet. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-fide-world-senior-team-championship",
+         "pubDate" : "Tue, 28 Apr 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 FIDE World Senior Team Championship"
       },
       {
          "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his granddaughter is due for release in July. We had a preview. | All pictures shown courtesy of chesshistory.com.",
@@ -58,22 +58,6 @@ news_feed (
          "title" : "No Indian yet in Esports Chess World Cup 2026: How can it change?"
       },
       {
-         "description" : "Magnus Carlsen won the Chess.com Open after overcoming Jan-Krzysztof Duda in the Grand Final, despite losing the initial match and being taken to a Reset. Duda, playing on his 28th birthday, forced a decider with a 2&frac12;-&frac12; victory but could not maintain the momentum. Carlsen, who competed throughout the event using a tablet, secured the title in the final two-game match, with both players qualifying for the Esports World Cup. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-open-playoffs-d4",
-         "pubDate" : "Mon, 27 Apr 2026 06:35:00",
-         "title" : "Carlsen beats Duda in Grand Final Reset, wins Chess.com Open"
-      },
-      {
-         "description" : "SC Viernheim completed the 2025/26 Chess Bundesliga season with a perfect record, winning all fifteen matches to secure the title on 30/30 match points. The team finished 7 match points ahead of OSG Baden-Baden and Sfr. Wolfhagen. Baden-Baden took second place thanks to their superior tiebreak score (board points). Consistent performances across the lineup, including a leading score by Bassem Amin, underpinned Viernheim's second championship success in three seasons. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-final-weekend-2026-r15",
-         "pubDate" : "Sun, 26 Apr 2026 20:40:00",
-         "title" : "SC Viernheim secure second Bundesliga title with flawless season"
-      },
-      {
          "description" : " The Chess.com Open Playoffs took Thu 23rd to Sun 26th Apr 2026. This offered two places in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. Magnus Carlsen beat Jan-Krzysztof Duda in the Final, lost the Grand Final and then finally won again in the reset final. Both players qualified for the Esports World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -88,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-2026-chesscom-open-playoffs",
          "pubDate" : "Sun, 26 Apr 2026 10:28:00",
          "title" : "Carlsen Wins Chess.com Open, Recovers From Tough Start Vs. Duda"
-      },
-      {
-         "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase&acute;26 with clear graphical elements.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-12-arrows-and-marks",
-         "pubDate" : "Sun, 26 Apr 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips, Part 12: Arrows and marks"
       },
       {
          "description" : "GM Arjun Erigaisi has rocketed up Bullet Brawl&#39;s all-time leaderboard after fending off GM Oleksander Bortnyk and notching his second straight $400 victory on Saturday. With Bortnyk breathing down his neck for most of the arena, Arjun held his ner...",
@@ -458,14 +434,6 @@ news_feed (
          "title" : "Gukesh, Vaishali World Chess C'ship matches to be held together? Here's what we know"
       },
       {
-         "description" : "The 12-year-old IM Faustino Oro was victorious in Freestyle Friday on April 17, the only of the three co-leaders entering the final round to win his game. GM Pranav Venkatesh finished in second place after leapfrogging the other two, IM Sahib Sing...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oro-wins-freestyle-friday-april-17-2026",
-         "pubDate" : "Fri, 17 Apr 2026 11:12:52",
-         "title" : "Fausti Friday As Oro Takes First Freestyle Gold"
-      },
-      {
          "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -736,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-on-the-brink-of-winning-the-candidates-after-round-12-zhu-beats-vaishali-to-catch-her-in-the-womens-event",
          "pubDate" : "Mon, 13 Apr 2026 00:38:00",
          "title" : "Sindarov on the brink of winning the Candidates after Round 12, Zhu beats Vaishali to catch her in the Women's event - 12"
-      },
-      {
-         "description" : "The 21st Kasparov Chess Foundation (KCF) All-Girls National Chess Championship broke its own attendance record with a total of 601 girls competing across the six age-based sections, up from 546 players the year before. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Taking place April 10 through 12 at the Hyatt Regency McCormick Place in downtown Chicago, the tournament was organized in partnership with the Renaissance Knights Chess Foundation and US Chess. As this national event enters its third decade of empowering young female chess players, the future is bright. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Players came from 37 states - plus ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/21st-kcf-all-girls-national-breaks-records-over-600-attendees",
-         "pubDate" : "Mon, 13 Apr 2026 00:00:00",
-         "title" : "21st KCF All-Girls National Breaks Records With Over 600 Attendees"
       },
       {
          "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
