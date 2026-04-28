@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Madwoman's Game\" premiered on 16 April at the Miami Chess Festival, presenting a chess-focused documentary that follows Bianca Mitchell-Avila's journey through competition, mentorship and personal development. The film explores how the game informs decision-making beyond the board. Its production was notably supported by Keanu Reeves, whose involvement came as an unexpected boost to the project. | Image: Screenshot from \"Madwoman's Game\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/madwomans-game-premier-miami",
+         "pubDate" : "Tue, 28 Apr 2026 02:00:00",
+         "title" : "\"Madwoman's Game\", chess-themed documentary produced by Keanu Reeves, premieres at Miami Festival"
+      },
+      {
          "description" : "\"I was intrigued to see the list of the youngest players to reach the top ten,\" said chess statistician Jeff Sonas. \"As the article states, my monthly Chessmetrics historical ratings are indeed unofficial, but being able to look further back, more than a century before FIDE Elo ratings started, certainly does help to place the modern FIDE-rated players into a historical context for comparisons like this.\" Here is Jeff's historical data.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
