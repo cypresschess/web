@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With almost 500 participants, the European Individual Championship in Katowice proved to be an attractive tournament for chess players in the Old Continent. However, it was somewhat lacking in top-level players. Among the \"rank and file\" was Roger Lorenz, who was impressed by the organisation, though less so by his own result. Nevertheless, his overall conclusion is positive. | Photos: Roger Lorenz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/die-europameisterschaft-in-kattowitz-mit-fussball-atmosphaere",
+         "pubDate" : "Tue, 28 Apr 2026 22:00:00",
+         "title" : "A football-like atmosphere at the European Championship in Katowice"
+      },
+      {
          "description" : "The fourth edition of the FIDE World Team Rapid and Blitz Chess Championships will take place from 16 to 22 June in Hong Kong, marking the event's first appearance in East Asia. Top teams have already confirmed their participation, featuring some of the biggest names in the game, including world number one Magnus Carlsen, alongside the most recent FIDE Candidates and Women's Candidates winners, Javokhir Sindarov and Vaishali Rameshbabu. | Photos: Rafal Oleksiewicz and Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
