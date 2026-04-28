@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth edition of the FIDE World Team Rapid and Blitz Chess Championships will take place from 16 to 22 June in Hong Kong, marking the event's first appearance in East Asia. Top teams have already confirmed their participation, featuring some of the biggest names in the game, including world number one Magnus Carlsen, alongside the most recent FIDE Candidates and Women's Candidates winners, Javokhir Sindarov and Vaishali Rameshbabu. | Photos: Rafal Oleksiewicz and Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hong-kong-world-rapid-and-blitz",
+         "pubDate" : "Tue, 28 Apr 2026 13:00:35",
+         "title" : "Hong Kong World Rapid and Blitz"
+      },
+      {
+         "description" : "Millions of viewers of Jeopardy!&#38;mdash;one of America&#38;rsquo;s most popular TV shows&#38;mdash;saw a dramatic shakeup on Monday when IM Greg Shahade dethroned one of its most dominant contestants ever. Jamie Ding had become a popular personality duri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/greg-shahade-wins-jeopardy-ends-champion-dings-31-game-streak",
+         "pubDate" : "Tue, 28 Apr 2026 03:52:00",
+         "title" : "IM Greg Shahade Wins Jeopardy, Ends Ding's 31-Game Streak"
+      },
+      {
          "description" : "\"Madwoman's Game\" premiered on 16 April at the Miami Chess Festival, presenting a chess-focused documentary that follows Bianca Mitchell-Avila's journey through competition, mentorship and personal development. The film explores how the game informs decision-making beyond the board. Its production was notably supported by Keanu Reeves, whose involvement came as an unexpected boost to the project. | Image: Screenshot from \"Madwoman's Game\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -450,14 +466,6 @@ news_feed (
          "title" : "DreamHack Atlanta To Start On May 15 With 4 Esports World Cup Spots For Grabs"
       },
       {
-         "description" : "GM Javokhir Sindarov blew away the field in the 2026 FIDE Candidates Tournament in Cyprus to win &#38;euro;170,000 (~$200k) and, much more importantly, earn a world championship match against GM Gukesh Dommaraju. The&#38;nbsp;2026 FIDE Women&#39;s Candidates ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions",
-         "pubDate" : "Fri, 17 Apr 2026 10:43:00",
-         "title" : "Sindarov, Vaishali Triumph: 7 FIDE Candidates Conclusions"
-      },
-      {
          "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -808,30 +816,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
          "pubDate" : "Tue, 07 Apr 2026 11:48:18",
          "title" : "Certificate :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
-      },
-      {
-         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Rao's Chess Corner, Mangaluru on behalf of Karnataka State Chess Association and All India Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-exam-held-in-mangalore-on-21-22-march-2026/",
-         "pubDate" : "Tue, 07 Apr 2026 09:59:15",
-         "title" : "Final Report : SNA Seminar & Exam held in Mangalore on 21 & 22 March 2026"
-      },
-      {
-         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2026-27 period. Many arbiters missed the refresher course",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2026-27-for-left-over-arbiters-on-25-26-april-2026/",
-         "pubDate" : "Tue, 07 Apr 2026 09:53:42",
-         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2026-27 FOR LEFT OVER ARBITERS ON 25 & 26 April 2026."
-      },
-      {
-         "description" : "Please find the list of participants who have successfully appeared in the AICF Arbiters Refresher Course 2026-27 under the following categories: International Arbiters Fide Arbiters",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/successful-arbiters-aicf-arbiters-refresher-course-2026-27/",
-         "pubDate" : "Tue, 07 Apr 2026 08:57:21",
-         "title" : "Successful Arbiters - AICF Arbiters Refresher Course 2026-27."
       }
    ]
 }
