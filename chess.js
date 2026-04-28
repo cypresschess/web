@@ -23,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-life-of-mian-sultan-khan",
          "pubDate" : "Mon, 27 Apr 2026 10:45:50",
-         "title" : "The life of Mian Sultan Khan"
+         "title" : "The life of Miran Sultan Khan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/successful-arbiters-aicf-arbiters-refresher-course-2026-27/",
          "pubDate" : "Tue, 07 Apr 2026 08:57:21",
          "title" : "Successful Arbiters - AICF Arbiters Refresher Course 2026-27."
-      },
-      {
-         "description" : " The ugly side of chess is pored over in this Netflix documentary, looking at how lurid online gossip led to a lawsuit, conspiracy theories and a bitter rivalry. Sadly, there's little new here 'Every conversation I have about chess\", says Hans Niemann, \"leads to anal beads.\" In any other context that might seem something of a non-sequitur. But in the context of Niemann, it makes a lot of sense. For the uninitiated, Niemann was the chess prodigy accused in 2022 of cheating against world champion Magnus Carlsen - some said by using a vibrating sex toy to direct his play, leading him to a shock (pun intended) victory. As ridiculous as it sounds - the sort of thing that would be laughed out of t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/tv-and-radio/2026/apr/07/untold-chess-mates-review-hans-niemann-magnus-carlsen-netflix",
-         "pubDate" : "Tue, 07 Apr 2026 07:01:41",
-         "title" : "Untold: Chess Mates review - inside the anal beads rumours that rocked a sport"
       }
    ]
 }
