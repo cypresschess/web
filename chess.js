@@ -10,6 +10,14 @@ news_feed (
          "title" : "Hong Kong World Rapid and Blitz"
       },
       {
+         "description" : "WFM Alexandra Botez got off to a shaky start in the seventh episode of Kids vs. Stars when she found herself lost in seven moves against her 13-year-old Canadian compatriot WFM Ashley Qian. That game couldn&#39;t be save, but despite serious time trou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexandra-botez-kids-vs-stars-episode-7",
+         "pubDate" : "Tue, 28 Apr 2026 07:27:28",
+         "title" : "Alexandra Botez Defeats Kids, 'Would Love Andrea To Have Such A Fun Experience!'"
+      },
+      {
          "description" : "Millions of viewers of Jeopardy!&#38;mdash;one of America&#38;rsquo;s most popular TV shows&#38;mdash;saw a dramatic shakeup on Monday when IM Greg Shahade dethroned one of its most dominant contestants ever. Jamie Ding had become a popular personality duri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -458,14 +466,6 @@ news_feed (
          "title" : "Fausti Friday As Oro Takes First Freestyle Gold"
       },
       {
-         "description" : "Chess players now have a great reason to go to Atlanta. Another qualification path to the Esports World Cup (EWC) goes through the DreamHack chess event in Atlanta. The event takes place from May 15 to 17 and offers not only a $50,000 prize fund b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-dreamhack-atlanta-2026",
-         "pubDate" : "Fri, 17 Apr 2026 11:04:04",
-         "title" : "DreamHack Atlanta To Start On May 15 With 4 Esports World Cup Spots For Grabs"
-      },
-      {
          "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -808,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-extends-his-lead-to-two-points-in-the-candidates-even-after-a-draw-in-round-8",
          "pubDate" : "Wed, 8 Apr 2026 01:45:00",
          "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
-      },
-      {
-         "description" : "Please find here No Name 1 Pranab Kumar Samanta 2 Protik Sarkar 3 Vaheeb Shafi Hassan K 4 Rituparna Chutia 5 Sumanta Gore 6 Tirtha",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-cum-examination-at-guwahati-2025-on-20-21-sept-2025/",
-         "pubDate" : "Tue, 07 Apr 2026 11:48:18",
-         "title" : "Certificate :Senior National Arbiter Seminar cum Examination at Guwahati 2025 on 20 & 21 Sept 2025"
       }
    ]
 }
