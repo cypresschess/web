@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Senior Team Championship 2026 has concluded in Durrës, with USA 1 securing the 50+ title after drawing their final match, while Italy and Kazakhstan completed the podium. In the 65+ section, Germany - Lasker claimed gold ahead of Italy, with Iceland taking bronze on tiebreaks. The women's standings were led by USA Women and the FIDE Women's Team respectively, following closely contested tournaments across both categories. | Pictured: Artur Yusupov (top board for Germany-Lasker in the 65+ section) | Photo: International Senior Chess Events",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r9",
+         "pubDate" : "Wed, 29 Apr 2026 07:00:00",
+         "title" : "World Senior Team Championships: USA and Germany, both top seeds in their categories, grab gold"
+      },
+      {
          "description" : "With almost 500 participants, the European Individual Championship in Katowice proved to be an attractive tournament for chess players in the Old Continent. However, it was somewhat lacking in top-level players. Among the \"rank and file\" was Roger Lorenz, who was impressed by the organisation, though less so by his own result. Nevertheless, his overall conclusion is positive. | Photos: Roger Lorenz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
