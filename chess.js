@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2026 Superbet Chess Classic Romania - Make Your Picks 2026 Superbet Chess Classic Romania Who Will Win in Bucharest? Pick the players you think will finish 1st, 2nd, 3rd &#38; 4th at the 2026 Superbet Chess Classic Romania. 1 Your Details Full Name Email Address 2 Make Your Picks Select a player for each finishing [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-superbet-romania-make-your-picks/\">2026 Superbet Romania | Make Your Picks</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/2026-superbet-romania-make-your-picks/",
+         "pubDate" : "Wed, 29 Apr 2026 15:25:01",
+         "title" : "2026 Superbet Romania | Make Your Picks"
+      },
+      {
+         "description" : "This episode explains how to use the quick access toolbar in ChessBase to manage game notation more efficiently. It shows how to handle variations, delete or hide moves, and quickly add comments, diagrams, and evaluation symbols.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-quick-access-toolbars",
+         "pubDate" : "Wed, 29 Apr 2026 15:16:46",
+         "title" : "ChessBase tips for beginners - Quick access toolbars"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130600479.cms\" />In this exclusive interview, Vincent Keymer reflected on his rise from winning the Grenke Open at 13 to claiming the Grenke Freestyle 2026 title in Karlsruhe. Germany's No. 1 spoke about freestyle chess relying more on intuition, handling the \"intimidation factor\" of Magnus Carlsen, and balancing school with chess while growing up in a family of musicians. Keymer also praised coach P&eacute;ter L&eacute;k&oacute; and discussed the challenges young chess players face in Germany compared to countries like India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "Keymer Exclusive: Being Germany No. 1, Carlsen intimidation, and more"
       },
       {
+         "description" : "Get ready to climb the highest heights! The Chess.com King of the Hill Chess Championship is the next event of the Chess.com Community Championships. The event takes place from May 6 to May 8 and will feature a $2,500 prize fund&#38;mdash;along with t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-chess-championship-2026",
+         "pubDate" : "Wed, 29 Apr 2026 08:11:11",
+         "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
+      },
+      {
          "description" : "The World Senior Team Championship 2026 has concluded in Durrës, with USA 1 securing the 50+ title after drawing their final match, while Italy and Kazakhstan completed the podium. In the 65+ section, Germany - Lasker claimed gold ahead of Italy, with Iceland taking bronze on tiebreaks. The women's standings were led by USA Women and the FIDE Women's Team respectively, following closely contested tournaments across both categories. | Pictured: Artur Yusupov (top board for Germany-Lasker in the 65+ section) | Photo: International Senior Chess Events",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r9",
          "pubDate" : "Wed, 29 Apr 2026 07:00:00",
          "title" : "World Senior Team Championships: USA and Germany, both top seeds in their categories, grab gold"
+      },
+      {
+         "description" : "Both official USA teams won gold medals in the 50+ section of the 2026 World Senior Team Championship. Team USA won gold with a 7&frac12;/9 score (six wins, three draws), finishing ahead of Italy on tiebreaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA (Photo courtesy FIDE/Georgia Graspa)<br> <br> <br> <br> Team USA Women was the top-finishing women's team in the section, finishing with a 5/9 score (four wins, two draws, three losses) a half-point ahead of Czech Republic Women and Kazakhstan Women. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA Women (Photo courtesy FIDE/Georgia Graspa)<br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/double-gold-usa-2026-fide-world-senior-team-championship",
+         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
+         "title" : "Double Gold for USA at 2026 FIDE World Senior Team Championship"
       },
       {
          "description" : "With almost 500 participants, the European Individual Championship in Katowice proved to be an attractive tournament for chess players in the Old Continent. However, it was somewhat lacking in top-level players. Among the \"rank and file\" was Roger Lorenz, who was impressed by the organisation, though less so by his own result. Nevertheless, his overall conclusion is positive. | Photos: Roger Lorenz",
@@ -71,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-life-of-mian-sultan-khan",
          "pubDate" : "Mon, 27 Apr 2026 10:45:50",
-         "title" : "The life of Miran Sultan Khan"
+         "title" : "The life of Mian Sultan Khan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
@@ -442,14 +474,6 @@ news_feed (
          "title" : "Julien Song Takes On The World Starting May 4"
       },
       {
-         "description" : "IMs Renato Terry and Karina Ambartsumova extended their records for 3 0 Thursday tournament victories on Thursday, April 16. Terry won a record 11th victory in the third tournament of the day, advancing ahead of GM Jose Martinez for the most wins ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/taher-maghsoodloo-terry-3-0-thursday-04-16-2026",
-         "pubDate" : "Fri, 17 Apr 2026 14:01:00",
-         "title" : "Terry, Ambartsumova Extend 3 0 Thursday Records"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
          "pubDate" : "Tue, 14 Apr 2026 07:57:06",
          "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
-      },
-      {
-         "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-21st-annual-kcf-all-girls-championship-pt-1",
-         "pubDate" : "Tue, 14 Apr 2026 00:00:00",
-         "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 1"
       },
       {
          "description" : "After six played rounds at the European Individual Chess Championship 2026, GM Vignir Vatnar Stefansson (ISL, 2512) emerged as the sole leader of the event with the score of 5.5/6 points! GM Vignir Vatnar Stefansson prevailed today with the black pieces against GM Lorenzo Lodici (ITA, 2601) in a very tense game. After balanced opening where Black looked okay, Stefansson managed to take the clear edge and win the pawn transposing to complex Queens endgame. Lodici had his chances to []",
