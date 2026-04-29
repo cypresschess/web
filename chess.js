@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-misses-a-big-opportunity-and-giri-beats-caruana-in-candidates-round-9",
          "pubDate" : "Wed, 8 Apr 2026 20:11:00",
          "title" : "Sindarov misses a big opportunity and Giri beats Caruana in Candidates Round 9 - 9"
-      },
-      {
-         "description" : " Javokhir Sindarov is in the poll position of the FIDE Candidates in Cyprus after drawing with Andrey Esipenko in Round 8 and moving to 6.5/8. Sindarov was barely troubled in the first game to finish. Sindarov's closest challenger was Fabiano Caruana but he was defeated by a determined Hikaru Nakamura. Anish Giri joined Caruana in a tie for second place two points behind Sindarov after beating Praggnanandhaa, the gap is still a bit too far to make Giri optimistic but he's in touch if Sindarov starts to lose. Wei Yi drew against Bluebaum in the other game. The women's event was blown wide open by an extraordinary reversal of fortunes for Anna Muzychuk in her game against Divya Deshmukh. Muzyc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-extends-his-lead-to-two-points-in-the-candidates-even-after-a-draw-in-round-8",
-         "pubDate" : "Wed, 8 Apr 2026 01:45:00",
-         "title" : "Sindarov extends his lead to two points in the Candidates even after a draw in Round 8 - 8"
       }
    ]
 }
