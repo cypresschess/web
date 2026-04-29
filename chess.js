@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130600479.cms\" />In this exclusive interview, Vincent Keymer reflected on his rise from winning the Grenke Open at 13 to claiming the Grenke Freestyle 2026 title in Karlsruhe. Germany's No. 1 spoke about freestyle chess relying more on intuition, handling the \"intimidation factor\" of Magnus Carlsen, and balancing school with chess while growing up in a family of musicians. Keymer also praised coach P&eacute;ter L&eacute;k&oacute; and discussed the challenges young chess players face in Germany compared to countries like India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vincent-keymer-exclusive-being-germany-no-1-magnus-carlsen-intimidation-freestyle-chess-and-more/articleshow/130600479.cms",
+         "pubDate" : "Wed, 29 Apr 2026 08:28:32",
+         "title" : "Keymer Exclusive: Being Germany No. 1, Carlsen intimidation, and more"
+      },
+      {
          "description" : "The World Senior Team Championship 2026 has concluded in Durrës, with USA 1 securing the 50+ title after drawing their final match, while Italy and Kazakhstan completed the podium. In the 65+ section, Germany - Lasker claimed gold ahead of Italy, with Iceland taking bronze on tiebreaks. The women's standings were led by USA Women and the FIDE Women's Team respectively, following closely contested tournaments across both categories. | Pictured: Artur Yusupov (top board for Germany-Lasker in the 65+ section) | Photo: International Senior Chess Events",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
          "pubDate" : "Tue, 14 Apr 2026 07:57:06",
          "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130250522.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-is-joint-leader-vaishali-ready-for-final-push/articleshow/130250522.cms",
-         "pubDate" : "Tue, 14 Apr 2026 03:52:22",
-         "title" : "Candidates Chess: Is joint-leader Vaishali ready for final push?"
       },
       {
          "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
