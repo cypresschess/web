@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " 2026 Superbet Chess Classic Romania - Make Your Picks 2026 Superbet Chess Classic Romania Who Will Win in Bucharest? Pick the players you think will finish 1st, 2nd, 3rd &#38; 4th at the 2026 Superbet Chess Classic Romania. 1 Your Details Full Name Email Address 2 Make Your Picks Select a player for each finishing [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/2026-superbet-romania-make-your-picks/\">2026 Superbet Romania | Make Your Picks</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/2026-superbet-romania-make-your-picks/",
-         "pubDate" : "Wed, 29 Apr 2026 15:25:01",
-         "title" : "2026 Superbet Romania | Make Your Picks"
+         "description" : "Changes to the 2026 lineup of the Grand Chess Tour have been confirmed ahead of the opening events in May. Gukesh Dommaraju has withdrawn from the full tour schedule, with Javokhir Sindarov stepping in as his replacement - though the two upcoming World Championship contenders will still meet at the first leg in Poland. Levon Aronian will miss the Bucharest event due to illness, with Jorden van Foreest (pictured) stepping in as tour regular. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2026-replacements",
+         "pubDate" : "Wed, 29 Apr 2026 20:00:00",
+         "title" : "Grand Chess Tour: Sindarov and Van Foreest step in as tour regulars"
+      },
+      {
+         "description" : "The 2026 ECF Official Chess Yearbook is now available as a PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/04/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the contents include Home News 2025...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2026/",
+         "pubDate" : "Wed, 29 Apr 2026 15:59:19",
+         "title" : "ECF Yearbook 2026"
       },
       {
          "description" : "This episode explains how to use the quick access toolbar in ChessBase to manage game notation more efficiently. It shows how to handle variations, delete or hide moves, and quickly add comments, diagrams, and evaluation symbols.",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-quick-access-toolbars",
          "pubDate" : "Wed, 29 Apr 2026 15:16:46",
          "title" : "ChessBase tips for beginners - Quick access toolbars"
+      },
+      {
+         "description" : "GM Alojzije Jankovic has strongly denied allegations of financial misconduct and called the Croatian Chess Federation&#39;s announcement that it has filed a criminal complaint against its former secretary general an attempt to damage his reputation. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gm-alojzije-jankovic-denies-fraud-allegations",
+         "pubDate" : "Wed, 29 Apr 2026 09:17:00",
+         "title" : "GM Jankovic Denies Fraud Allegations, Calls Timing \"No Coincidence\" Amid Election Bid"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130600479.cms\" />In this exclusive interview, Vincent Keymer reflected on his rise from winning the Grenke Open at 13 to claiming the Grenke Freestyle 2026 title in Karlsruhe. Germany's No. 1 spoke about freestyle chess relying more on intuition, handling the \"intimidation factor\" of Magnus Carlsen, and balancing school with chess while growing up in a family of musicians. Keymer also praised coach P&eacute;ter L&eacute;k&oacute; and discussed the challenges young chess players face in Germany compared to countries like India.",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r9",
          "pubDate" : "Wed, 29 Apr 2026 07:00:00",
          "title" : "World Senior Team Championships: USA and Germany, both top seeds in their categories, grab gold"
+      },
+      {
+         "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship, where USA and USA Women each won gold medals. For more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-fide-world-senior-team-championship",
+         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 FIDE World Senior Team Championship"
       },
       {
          "description" : "Both official USA teams won gold medals in the 50+ section of the 2026 World Senior Team Championship. Team USA won gold with a 7&frac12;/9 score (six wins, three draws), finishing ahead of Italy on tiebreaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA (Photo courtesy FIDE/Georgia Graspa)<br> <br> <br> <br> Team USA Women was the top-finishing women's team in the section, finishing with a 5/9 score (four wins, two draws, three losses) a half-point ahead of Czech Republic Women and Kazakhstan Women. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA Women (Photo courtesy FIDE/Georgia Graspa)<br",
@@ -466,14 +490,6 @@ news_feed (
          "title" : "Ignacio Defends 4-Player Chess Title"
       },
       {
-         "description" : "Chess.com is thrilled to announce the next player to take on the world: international master and YouTube star Julien Song will face the global chess community in Julien Song vs. The World. The creator will kick off the match with the white pieces ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-julien-song-vs-the-world",
-         "pubDate" : "Sat, 18 Apr 2026 06:55:00",
-         "title" : "Julien Song Takes On The World Starting May 4"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-1",
          "pubDate" : "Wed, 15 Apr 2026 00:00:00",
          "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 1"
-      },
-      {
-         "description" : "GM Javokhir Sindarov completed his historic run at the 2026 FIDE Candidates, winning the event with a round to spare. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The handshake that sealed Sindarov's tournament victory. (Photo courtesy FIDE/Niki Riga)<br> <br> <br> <br> The 20-year-old will challenge 19-year-old World Champion GM Gukesh Dommaraju for the crown later in the year in what will be the youngest World Championship match in history. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All eyes were on Giri - Sindarov from the start of Tuesday's round. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-13-sindarov-clinches-assaubayeva-catches-vaishali-zhu-stumbles",
-         "pubDate" : "Wed, 15 Apr 2026 00:00:00",
-         "title" : "Candidates Round 13: Sindarov Clinches, Assaubayeva Catches Vaishali as Zhu Stumbles"
       },
       {
          "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
