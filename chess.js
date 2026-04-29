@@ -792,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-rounds-played-at-the-european-individual-chess-championship-2026/",
          "pubDate" : "Thu, 09 Apr 2026 19:50:07",
          "title" : "Three rounds played at the European Individual Chess Championship 2026"
-      },
-      {
-         "description" : " The 9th Round of the FIDE Candidates tournament in Cyprus saw some very consequent action. First of all the leader by two points Javokhir Sindarov missed a clear winning chance against Matthias Bluebaum and had to settle for a draw. No disaster but nevertheless a chance. Fabiano Caruana dropped out of contention when he lost to Anish Giri, who is now 1.5 points behind Sindarov and is surely the only player that can catch the leader. In the women's event there was another very wild day that finished with Zhu Jiner and Rameshbabu Vaishali sharing the lead, Anna Muzychuk missed a chance to join them. Round 9 (of 14) Standings: 1st Javokhir Sindarov, 7/9. 2nd Anish Giri, 5&frac12;. 3rd-5th Matt",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-misses-a-big-opportunity-and-giri-beats-caruana-in-candidates-round-9",
-         "pubDate" : "Wed, 8 Apr 2026 20:11:00",
-         "title" : "Sindarov misses a big opportunity and Giri beats Caruana in Candidates Round 9 - 9"
       }
    ]
 }
