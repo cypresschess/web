@@ -514,14 +514,6 @@ news_feed (
          "title" : "6 Lessons From 6 Weeks of Real Chess Training"
       },
       {
-         "description" : "Luis Ignasio, aka EyeoftheTiger1204, defended his title in the second edition of the 4-Player Chess Championship. Despite starting the first game of the Knockout by finishing last, he made what commentator Jai Sandhu called &#34;a sensational return a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ignacio-wins-2026-4-player-chess-championship",
-         "pubDate" : "Sat, 18 Apr 2026 07:08:00",
-         "title" : "Ignacio Defends 4-Player Chess Title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
