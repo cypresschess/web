@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face an ambitious field that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus (pictured), who recently became the youngest player to ever cross the 2700 rating mark. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-preview",
+         "pubDate" : "Thu, 30 Apr 2026 08:00:00",
+         "title" : "TePe Sigeman: Carlsen to face rising star Erdogmus in first-ever classical chess encounter"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130622766.cms\" />Magnus Carlsen makes a rare classical over-the-board appearance in Malmo, Sweden, for the TePe Sigeman &amp; Co tournament. While Carlsen is a focal point, young talents like Yagiz Kaan, Nodirbek Abdusattorov, and Erigaisi Arjun will also vie for attention in the elite eight-player event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-classical-return-yagizs-presence-add-charm-to-malmo-meet/articleshow/130622766.cms",
+         "pubDate" : "Thu, 30 Apr 2026 04:06:26",
+         "title" : "Magnus Carlsen's classical return, Yagiz's presence add charm to Malmo meet"
+      },
+      {
          "description" : "Recent events, including the Candidates and the European Championship, have significantly reshaped the FIDE Circuit standings. Nodirbek Abdusattorov remains in front, but Javokhir Sindarov has closed the gap, while Anish Giri and Fabiano Caruana have moved into the top ten. In the women's circuit, Vaishali Rameshbabu now leads after her Candidates victory, with several new contenders rising in the rankings. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-andhra-university-visakhaptnam-on-02-03-may-2026-2-bathes/",
          "pubDate" : "Tue, 14 Apr 2026 10:55:22",
          "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130254074.cms\" />In a nation where only four women have ever earned the GM title, 35-year-old Harika remains one of its most enduring pillars. As her compatriots prepare for the traditional grind of World Championship cycles, Harika has qualified for the inaugural FIDE Women's Freestyle Chess World Championship, which is set to take place next year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-dronavalli-exclusive-blank-mind-and-bold-leap-how-the-veteran-cracked-freestyle-chess-on-debut/articleshow/130254074.cms",
-         "pubDate" : "Tue, 14 Apr 2026 07:57:06",
-         "title" : "'Blank mind' &amp; bold leap: How Harika Dronavalli cracked freestyle chess on debut"
       },
       {
          "description" : "After six played rounds at the European Individual Chess Championship 2026, GM Vignir Vatnar Stefansson (ISL, 2512) emerged as the sole leader of the event with the score of 5.5/6 points! GM Vignir Vatnar Stefansson prevailed today with the black pieces against GM Lorenzo Lodici (ITA, 2601) in a very tense game. After balanced opening where Black looked okay, Stefansson managed to take the clear edge and win the pawn transposing to complex Queens endgame. Lodici had his chances to []",
