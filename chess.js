@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recent events, including the Candidates and the European Championship, have significantly reshaped the FIDE Circuit standings. Nodirbek Abdusattorov remains in front, but Javokhir Sindarov has closed the gap, while Anish Giri and Fabiano Caruana have moved into the top ten. In the women's circuit, Vaishali Rameshbabu now leads after her Candidates victory, with several new contenders rising in the rankings. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-2026-27-update-april-26",
+         "pubDate" : "Thu, 30 Apr 2026 02:00:00",
+         "title" : "FIDE Circuit 2026-27: Abdusattorov maintains the lead, Sindarov closes in"
+      },
+      {
          "description" : "Changes to the 2026 lineup of the Grand Chess Tour have been confirmed ahead of the opening events in May. Gukesh Dommaraju has withdrawn from the full tour schedule, with Javokhir Sindarov stepping in as his replacement - though the two upcoming World Championship contenders will still meet at the first leg in Poland. Levon Aronian will miss the Bucharest event due to illness, with Jorden van Foreest (pictured) stepping in as tour regular. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r9",
          "pubDate" : "Wed, 29 Apr 2026 07:00:00",
          "title" : "World Senior Team Championships: USA and Germany, both top seeds in their categories, grab gold"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 1 through 3, the US Chess National Elementary School Championships take place in Baltimore, MD! This national event features some of the best scholastic chess players in the United States and US Chess is proud to host this exciting event.First thing's first, registration is still open until 10:00 a.m. EDT on Friday, May 1. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Elementary School Championships! With four special guests, you'll also want to bookmark the special gu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-elementary-school-championship-preview",
+         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
+         "title" : "2026 National Elementary School Championship Preview! "
       },
       {
          "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship, where USA and USA Women each won gold medals. For more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
          "pubDate" : "Wed, 15 Apr 2026 01:57:14",
          "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
-      },
-      {
-         "description" : "Today's exercises begin a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here, and check out even more puzzles from our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-1",
-         "pubDate" : "Wed, 15 Apr 2026 00:00:00",
-         "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 1"
       },
       {
          "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
