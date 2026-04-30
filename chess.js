@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two weeks ago, the chess auction at Sotheby's concluded, featuring numerous items from the collection of Lothar Schmid. The most valuable pieces fetched well over &pound;100,000. The online auction was accompanied by an exhibition and a lecture. The musician and chess enthusiast Jason Kouchak was in attendance. | Photo: Jason Kouchak in front of the painting \"The Chess Players\" (or \"The Devil's Checkmate\") by Friedrich Moritz August Retzsch, circa 1831.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lothar-schmid-collection-sothebys",
+         "pubDate" : "Thu, 30 Apr 2026 18:20:00",
+         "title" : "Lothar Schmid's collection auctioned at Sotheby's"
+      },
+      {
          "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face an ambitious field that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus (pictured), who recently became the youngest player to ever cross the 2700 rating mark. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
