@@ -34,6 +34,14 @@ news_feed (
          "title" : "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results"
       },
       {
+         "description" : "GM Jan-Krzysztof Duda won Freestyle Friday in a comeback on May 1, winning in the final round to scratch out a win on tiebreaks over GM Jose Martinez. The feat marks&#38;nbsp;the second time Duda has won both Titled Tuesday and Freestyle Friday in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-may-1-2026",
+         "pubDate" : "Fri, 01 May 2026 11:10:11",
+         "title" : "Duda Completes Strong Week With Freestyle Friday Victory"
+      },
+      {
          "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won four times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,6 +120,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-national-elementary-school-championship-preview",
          "pubDate" : "Wed, 29 Apr 2026 00:00:00",
          "title" : "2026 National Elementary School Championship Preview! "
+      },
+      {
+         "description" : "US Chess is accepting nominations for the Dan Heisman Award for Excellence in Chess Instruction.This annual award recognizes a chess instructor who has demonstrated long-standing commitment to developing chess players, in service to the chess and broader communities. A chess instructor is a teacher first and foremost. While a coach often has these same attributes, an instructor conveys a broader concept.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> Dan Heisman in 2007<br> <br> <br> This award is made possible through a generous gift from Dan Heisman, whose family has a long history of supporting philanthropic causes.\"It occurred to me that there was no award recognizing ex",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-accepting-nominations-2026-dan-heisman-award-excellence-chess-instruction",
+         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
+         "title" : "US Chess Accepting Nominations for 2026 Dan Heisman Award for Excellence in Chess Instruction"
       },
       {
          "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship, where USA and USA Women each won gold medals. For more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory"
       },
       {
-         "description" : "GM Arjun Erigaisi has proven his mettle once again in the Bullet Brawl&#38;nbsp;arena by confirming his second title in a commanding display of attacking chess. Arjun scored 52/63 in two hours for a score of 175 points, earning him the $400 first priz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-18-2026",
-         "pubDate" : "Sat, 18 Apr 2026 22:22:00",
-         "title" : "Arjun Picks Up 2nd Bullet Brawl Title In Dominant Fashion"
-      },
-      {
          "description" : "Only one round left to be played at the European Individual Chess Championship 2026 and the tension reached its maximum as five players enter the last day co-leading in the tournament! Five-way tie for the top between GM David Anton Guijarro (ESP, 2656), GM Aydin Suleymanli (AZE, 2653), GM Muradli Mahammad (AZE, 2605), GM Nijat Abasov (AZE, 2586) and IM Roman Dehtiarov (UKR, 2452) promises an exiting final round which is scheduled for tomorrow, 15:00 CEST. In a direct encounter []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-indias-r-vaishali-caged-lagnos-dragon-to-claim-historic-womens-candidates-2026-title/articleshow/130295968.cms",
          "pubDate" : "Thu, 16 Apr 2026 02:12:04",
          "title" : "Explained: How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title"
-      },
-      {
-         "description" : "In the final round of the 2026 FIDE Candidates, the Open and Women's each delivered two decisive games and two draws, but all of the drama was in the Women's event.GM Javokhir Sindarov had already clinched his spot in the next World Championship with a round to spare, while GMs Vaishali Rameshbabu and Bibisara Assaubayeva entered the Women's event tied for first. Plus, as many as four other players had at least a mathematical chance of claiming a share of first. Talk about being on the edge of your seat! <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sindarov became both a media darlin",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/candidates-round-14-vaishali",
-         "pubDate" : "Thu, 16 Apr 2026 00:00:00",
-         "title" : "Candidates Round 14: Vaishali!!!"
       },
       {
          "description" : " Vaishali Rameshbabu took her opportunities in the final round of the Women's Candidates tournament to beat Kateryna Lagno and combined with Bibisara Assaubayeva's draw with Divya Deshmukh meant she took clear first place. Vaishali's win means she will play the champion since 2018, Ju Wenjun. Vaishali is the elder sister of Praggnanandhaa. Anna Muzychuk drew with Zhu Jiner and Aleksandra Goryachkina beat Tan Zhongyi in the remaining games. Javokhir Sindarov had already sewn up the Candidates in Round 13 and he engineered a very quick draw against Wei Yi to finish on +6 undefeated. Matthias Bluebaum came in a fighting mood against Anish Giri but it's not really his style and Giri impressively",
