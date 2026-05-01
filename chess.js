@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won four times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-comeback-chinese-team-ch",
+         "pubDate" : "Fri, 01 May 2026 08:00:00",
+         "title" : "Ding Liren scores 4/5 and a 2795 TPR at Chinese Team Championship"
+      },
+      {
+         "description" : " USA retain the world 50+ title, while Germany-Lasker SGK win the 65+ equivalent, with England fourth in both events England finished out of the medals for the first time in five years in this week's world senior team championships for over-50s and over-65s, played at Durres, Albania, as the US, fielding a largely former USSR squad, retained the over-50 gold medals, while a nominally German team, which also included a former Soviet star, won the over-65s event. The US victory was clear but had a controversial aspect in the team's use of package deals, which are forbidden in Olympiads but still allowed in senior events. <a href=\"https://www.theguardian.com/sport/2026/may/01/chess-england-fail",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
+         "pubDate" : "Fri, 01 May 2026 07:00:41",
+         "title" : "Chess: England fail to win senior team world medals for first time in five years"
+      },
+      {
+         "description" : "Greenland has held its first national chess championship, marking a milestone for the game's development in the region. Conducted online to overcome geographical challenges, the event brought together players from across the island, with Egon Mattaaq emerging as the inaugural champion. The tournament highlights growing efforts to build a connected chess community and expand participation in even the most remote areas. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/greenlandic-chess-ch-2026",
+         "pubDate" : "Fri, 01 May 2026 01:40:00",
+         "title" : "Egon Mattaaq wins historic first Greenlandic Chess Championship"
+      },
+      {
          "description" : "Two weeks ago, the chess auction at Sotheby's concluded, featuring numerous items from the collection of Lothar Schmid. The most valuable pieces fetched well over &pound;100,000. The online auction was accompanied by an exhibition and a lecture. The musician and chess enthusiast Jason Kouchak was in attendance. | Photo: Jason Kouchak in front of the painting \"The Chess Players\" (or \"The Devil's Checkmate\") by Friedrich Moritz August Retzsch, circa 1831.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Lothar Schmid's collection auctioned at Sotheby's"
       },
       {
-         "description" : "World number one Magnus Carlsen is set to return to classical tournament play at the TePe Sigeman Chess Tournament, scheduled for 1-7 May in Malm&ouml;. The Norwegian will face an ambitious field that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus (pictured), who recently became the youngest player to ever cross the 2700 rating mark. Played as an eight-player round-robin, the long-running Swedish event once again combines established elite names with emerging contenders. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-preview",
-         "pubDate" : "Thu, 30 Apr 2026 08:00:00",
-         "title" : "TePe Sigeman: Carlsen to face rising star Erdogmus in first-ever classical chess encounter"
+         "description" : "If 2024 was the golden year for India, with double gold in the Olympiad and GM Gukesh Dommaraju crowned world champion, 2026 is shaping up to be a golden year for Uzbekistan so far. The nation&#39;s number-one GM Nodirbek Abdusattorov has already been...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/may-2026-fide-ratings",
+         "pubDate" : "Thu, 30 Apr 2026 15:59:45",
+         "title" : "Sindarov Rises To No. 5, Erdogmus Becomes Youngest-Ever 2700 On May Rating List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130622766.cms\" />Magnus Carlsen makes a rare classical over-the-board appearance in Malmo, Sweden, for the TePe Sigeman &amp; Co tournament. While Carlsen is a focal point, young talents like Yagiz Kaan, Nodirbek Abdusattorov, and Erigaisi Arjun will also vie for attention in the elite eight-player event.",
@@ -24,38 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-classical-return-yagizs-presence-add-charm-to-malmo-meet/articleshow/130622766.cms",
          "pubDate" : "Thu, 30 Apr 2026 04:06:26",
          "title" : "Magnus Carlsen's classical return, Yagiz's presence add charm to Malmo meet"
-      },
-      {
-         "description" : "Recent events, including the Candidates and the European Championship, have significantly reshaped the FIDE Circuit standings. Nodirbek Abdusattorov remains in front, but Javokhir Sindarov has closed the gap, while Anish Giri and Fabiano Caruana have moved into the top ten. In the women's circuit, Vaishali Rameshbabu now leads after her Candidates victory, with several new contenders rising in the rankings. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-circuit-2026-27-update-april-26",
-         "pubDate" : "Thu, 30 Apr 2026 02:00:00",
-         "title" : "FIDE Circuit 2026-27: Abdusattorov maintains the lead, Sindarov closes in"
-      },
-      {
-         "description" : "Changes to the 2026 lineup of the Grand Chess Tour have been confirmed ahead of the opening events in May. Gukesh Dommaraju has withdrawn from the full tour schedule, with Javokhir Sindarov stepping in as his replacement - though the two upcoming World Championship contenders will still meet at the first leg in Poland. Levon Aronian will miss the Bucharest event due to illness, with Jorden van Foreest (pictured) stepping in as tour regular. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2026-replacements",
-         "pubDate" : "Wed, 29 Apr 2026 20:00:00",
-         "title" : "Grand Chess Tour: Sindarov and Van Foreest step in as tour regulars"
-      },
-      {
-         "description" : "The 2026 ECF Official Chess Yearbook is now available as a PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/04/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the contents include Home News 2025...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2026/",
-         "pubDate" : "Wed, 29 Apr 2026 15:59:19",
-         "title" : "ECF Yearbook 2026"
-      },
-      {
-         "description" : "This episode explains how to use the quick access toolbar in ChessBase to manage game notation more efficiently. It shows how to handle variations, delete or hide moves, and quickly add comments, diagrams, and evaluation symbols.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-quick-access-toolbars",
-         "pubDate" : "Wed, 29 Apr 2026 15:16:46",
-         "title" : "ChessBase tips for beginners - Quick access toolbars"
       },
       {
          "description" : "GM Alojzije Jankovic has strongly denied allegations of financial misconduct and called the Croatian Chess Federation&#39;s announcement that it has filed a criminal complaint against its former secretary general an attempt to damage his reputation. ...",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
       },
       {
-         "description" : "The World Senior Team Championship 2026 has concluded in Durrës, with USA 1 securing the 50+ title after drawing their final match, while Italy and Kazakhstan completed the podium. In the 65+ section, Germany - Lasker claimed gold ahead of Italy, with Iceland taking bronze on tiebreaks. The women's standings were led by USA Women and the FIDE Women's Team respectively, following closely contested tournaments across both categories. | Pictured: Artur Yusupov (top board for Germany-Lasker in the 65+ section) | Photo: International Senior Chess Events",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2026-r9",
-         "pubDate" : "Wed, 29 Apr 2026 07:00:00",
-         "title" : "World Senior Team Championships: USA and Germany, both top seeds in their categories, grab gold"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 1 through 3, the US Chess National Elementary School Championships take place in Baltimore, MD! This national event features some of the best scholastic chess players in the United States and US Chess is proud to host this exciting event.First thing's first, registration is still open until 10:00 a.m. EDT on Friday, May 1. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Elementary School Championships! With four special guests, you'll also want to bookmark the special gu",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -112,22 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/double-gold-usa-2026-fide-world-senior-team-championship",
          "pubDate" : "Wed, 29 Apr 2026 00:00:00",
          "title" : "Double Gold for USA at 2026 FIDE World Senior Team Championship"
-      },
-      {
-         "description" : "With almost 500 participants, the European Individual Championship in Katowice proved to be an attractive tournament for chess players in the Old Continent. However, it was somewhat lacking in top-level players. Among the \"rank and file\" was Roger Lorenz, who was impressed by the organisation, though less so by his own result. Nevertheless, his overall conclusion is positive. | Photos: Roger Lorenz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/die-europameisterschaft-in-kattowitz-mit-fussball-atmosphaere",
-         "pubDate" : "Tue, 28 Apr 2026 22:00:00",
-         "title" : "A football-like atmosphere at the European Championship in Katowice"
-      },
-      {
-         "description" : "The fourth edition of the FIDE World Team Rapid and Blitz Chess Championships will take place from 16 to 22 June in Hong Kong, marking the event's first appearance in East Asia. Top teams have already confirmed their participation, featuring some of the biggest names in the game, including world number one Magnus Carlsen, alongside the most recent FIDE Candidates and Women's Candidates winners, Javokhir Sindarov and Vaishali Rameshbabu. | Photos: Rafal Oleksiewicz and Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hong-kong-world-rapid-and-blitz",
-         "pubDate" : "Tue, 28 Apr 2026 13:00:35",
-         "title" : "Hong Kong World Rapid and Blitz"
       },
       {
          "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
@@ -160,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-fide-world-senior-team-championship",
          "pubDate" : "Tue, 28 Apr 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 FIDE World Senior Team Championship"
-      },
-      {
-         "description" : "He is one of the most remarkable figures in the world of chess. Born in a rural village in British India, and receiving only rudimentary schooling, Sultan Khan became very adept at the game. When he moved to England he won numerous prestigeous tournaments, and beat the likes of U.S. Champion Marshall and World Champion Capablanca. A new book by his oldest son and his granddaughter is due for release in July. We had a preview. | All pictures shown courtesy of chesshistory.com.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-life-of-mian-sultan-khan",
-         "pubDate" : "Mon, 27 Apr 2026 10:45:50",
-         "title" : "The life of Mian Sultan Khan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
@@ -506,14 +466,6 @@ news_feed (
          "title" : "Five-way tie at the top of EICC2026 ahead of the Final Round"
       },
       {
-         "description" : "GM Yagiz Kaan Erdogmus has taken another step toward chess history. The 14-year-old Turkish prodigy crushed GM Veselin Topalov 5-1 in the Clash of Generations III on Friday, breaking the 2700 barrier on the live rating list for the first time and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-makes-history-again-to-become-youngest-ever-2700-player",
-         "pubDate" : "Sat, 18 Apr 2026 15:34:00",
-         "title" : "Erdogmus Scores 5-1 Knockout Against Topalov, Closes In On Youngest-Ever 2700 Record"
-      },
-      {
          "description" : "On March 6th I launched Real Chess Training. 300+ students joined in the first week. The feedback has been incredible. Today I want to share 6 lessons from 6 weeks of Real Chess Training. Lesson 1: Hard Training Can Be Fun With all the &#8220;quick and easy&#8221; messaging out there, doing something hard becomes less []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -784,30 +736,6 @@ news_feed (
          "link" : "https://www.europechess.org/only-two-players-remain-perfect-after-four-played-rounds-at-eicc2026/",
          "pubDate" : "Sat, 11 Apr 2026 10:13:16",
          "title" : "Only two players remain perfect after four played rounds at EICC2026"
-      },
-      {
-         "description" : " Anish Giri won two games in a row to advance into second place, but has little chance of overhauling the leader Javokhir Sindarov extended his lead at the world championship Candidates in Cyprus on Thursday when the 20-year-old Uzbek grandmaster won for the sixth time at the event to take his overall total to an unbeaten eight points out of 10, two ahead of his closest challenger, the Netherlands No 1, Anish Giri. India's Praggnanandhaa Rameshbabu had prepared a sharp and complex defence to the Queen's Gambit with an early push of his g and h pawns, but he <a href=\"https://lichess.org/broadcast/fide-candidates-2026-open/round-10/G3oSxPgs/RN9BrHlK\">blundered at move 22</a> and Sindarov was a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/10/chess-sindarov-extends-candidates-lead-and-heads-for-world-title-challenge",
-         "pubDate" : "Fri, 10 Apr 2026 07:00:13",
-         "title" : "Chess: Sindarov extends Candidates lead and heads for world title challenge"
-      },
-      {
-         "description" : " Javokhir Sindarov put the disappointment of missing a win against Bluebaum in Round 9 and won a fine game against Praggnanandhaa, this restored a two point lead with only four rounds to go. Sindarov said his coach told him that he was playing the best chess and not to worry. In post-game analysis he was so precise it was obvious what great form he's in, a level above anyone else here. It's of course possible Caruana could beat him with the white pieces in Round 11 and Giri in Round 13, but at this stage it seems unlikely, he's simply seeing too much, even then Giri would have to score almost perfectly to even catch him. The other games were drawn. Friday is a rest day. In the Women's event ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-almost-home-and-dry-in-the-fide-candidates-with-four-rounds-to-go",
-         "pubDate" : "Fri, 10 Apr 2026 00:09:00",
-         "title" : "Sindarov almost home and dry in the FIDE Candidates with four rounds to go - 10"
-      },
-      {
-         "description" : "Three rounds have been already played at the European Individual Chess Championship 2026 and the games are becoming tougher and tenser with each round! Seventeen players currently hold a perfect score of 3/3 to share the early lead. Among the frontrunners are GM Aydin Suleymanli (AZE, 2653), GM Shant Sargsyan (ARM, 2647), GM Jonas Buhl Bjerre (AUT, 2623), GM Robert Hovhannisyan (ARM, 2621), and the 2024 European Champion GM Aleksandar Indjic (SRB, 2616). They are joined by GM Lorenzo Lodici []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-individual-chess-championship-2026/",
-         "pubDate" : "Thu, 09 Apr 2026 19:50:07",
-         "title" : "Three rounds played at the European Individual Chess Championship 2026"
       }
    ]
 }
