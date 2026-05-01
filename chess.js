@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Fri, 01 May 2026 14:45:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
+         "description" : "Our hosting provider, which provides the server for our websites, email, rating and LMS systems, has informed us of a global security incident impacting managed cloud servers across the internet....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rating-system-incident-and-file-resubmission-required/",
+         "pubDate" : "Fri, 01 May 2026 14:24:34",
+         "title" : "Rating System Incident and File Resubmission Required"
+      },
+      {
+         "description" : "The European School Chess Championship 2026 is underway in Trogir, Croatia! Four rounds have been already played across six age categories: U7, U9, U11, U13, U15, and U17, and most of the sections got sole leaders. In the U7 age category, Albert-Tudor Jacota (ROU) and Sophia Kaliskami (GRE), tie for the top scoring 3.5/4 points each, with the only drawn game they played between each other. The co-leaders are followed by four players who score 3/4 points each: Hakon Gudbjartsson []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2026-underway-in-croatia/",
+         "pubDate" : "Fri, 01 May 2026 13:38:32",
+         "title" : "European School Chess Championship 2026 underway in Croatia"
+      },
+      {
          "description" : " The 31st Tepe Sigeman & Co Chess Tournament takes place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
