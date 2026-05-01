@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "description" : "Nodirbek Abdusattorov and Andy Woodward took the early lead at the TePe Sigeman & Co Chess Tournament after scoring the only wins of round one in Malm&ouml;. Abdusattorov beat Zhu Jiner, while Woodward (pictured) defeated local representative Nils Grandelius. Magnus Carlsen's first classical game in almost a year ended in a draw against Arjun Erigaisi, while 14-year-old Yagiz Kaan Erdogmus also drew with Jorden van Foreest. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Fri, 01 May 2026 14:45:00",
-         "title" : "TePe Sigeman - Live!"
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-2",
+         "pubDate" : "Sat, 02 May 2026 01:20:32",
+         "title" : "TePe Sigeman: Abdusattorov and Woodward grab wins on opening day"
+      },
+      {
+         "description" : " There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she made an incomprehensible blunder 23.Nd4? which was met by the absolutely obvious Rc8 and her position collapsed. Magnus Carlsen faced Arjun Erigaisi's Petroff, an opening that proved successful in the Candidates, a couple of times it seemed like Carlsen was getting somewhere but he had to settle for a draw. Jorden van Foreest also looked like he might have something but after 20.Re1 it was dead equal. Round 1 Standings: 1st= Abdusattorov, Wo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-woodward-take-an-early-lead-in-the-sigeman-co-chess-tournament",
+         "pubDate" : "Fri, 1 May 2026 20:56:00",
+         "title" : "Abdusattorov and Woodward take an early lead in the Sigeman & Co Chess tournament - 1"
       },
       {
          "description" : "Our hosting provider, which provides the server for our websites, email, rating and LMS systems, has informed us of a global security incident impacting managed cloud servers across the internet....",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rating-system-incident-and-file-resubmission-required/",
          "pubDate" : "Fri, 01 May 2026 14:24:34",
          "title" : "Rating System Incident and File Resubmission Required"
+      },
+      {
+         "description" : "World number-four Nodirbek Abdusattorov and 15-year-old rising star GM Andy Woodward took the early lead in Malmo as the 2026 TePe Sigeman Chess Tournament began. They both pounced on game-deciding blunders, with Abdusattorov beating GM Zhu Jiner ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-1",
+         "pubDate" : "Fri, 01 May 2026 14:19:00",
+         "title" : "Abdusattorov, Woodward Lead As Carlsen Returns To Classical Chess In Malmo"
+      },
+      {
+         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk and IM Renato Terry all continued their recent strong blitz form with wins in 3 0 Thursday tournaments on April 30. For Duda, winning the first event was a nice complement to his victory in Titled Tuesday ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-bortnyk-terry-3-0-thursday-04-23-2026",
+         "pubDate" : "Fri, 01 May 2026 14:09:48",
+         "title" : "Duda, Bortnyk, Terry Continue Blitz Runs In 3 0 Thursday"
       },
       {
          "description" : "The European School Chess Championship 2026 is underway in Trogir, Croatia! Four rounds have been already played across six age categories: U7, U9, U11, U13, U15, and U17, and most of the sections got sole leaders. In the U7 age category, Albert-Tudor Jacota (ROU) and Sophia Kaliskami (GRE), tie for the top scoring 3.5/4 points each, with the only drawn game they played between each other. The co-leaders are followed by four players who score 3/4 points each: Hakon Gudbjartsson []",
@@ -394,14 +418,6 @@ news_feed (
          "title" : "Armenian Chess Legend Smbat Lputian Arrested Then Released Amid Investigation"
       },
       {
-         "description" : "Seventeen-year-old Ukrainian IM Roman Dehtiarov has made history as both the youngest and lowest-seeded player ever to win the European Individual Chess Championship. He started the event in Katowice, Poland ranked 126th out of 501 players, with a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukrainian-roman-dehtiarov-historic-win-2026-european-chess-championship",
-         "pubDate" : "Mon, 20 Apr 2026 12:31:00",
-         "title" : "Ukrainian IM Dehtiarov Scores Historic European Championship Win, Earns GM Title"
-      },
-      {
          "description" : "The European Individual Chess Championship 2026 concluded yesterday in Katowice, Poland, with the historical result by IM Roman Dehtiarov from Ukraine who stunned the field and emerged as the Winner of the event! Set to turn 18 years old this year, IM Roman Dehtiarov (UKR, 2452) was the 126th-seed on the starting list of players, but finished the event with impressive score of 9/11 points, with a single loss in the fifth round! He emerged as the sole winner of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Mon, 20 Apr 2026 08:48:01",
          "title" : "World Senior Team Chess Championships 2026 - Daily Reports"
-      },
-      {
-         "description" : "WFM Alexandra Botez is not intimidated to play chess in front of a legion of strangers online. But now she&#39;s about to do something much scarier&#38;mdash;play against four kids who are literally younger than Instagram. The next episode of Kids vs. Sta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-7",
-         "pubDate" : "Mon, 20 Apr 2026 08:03:00",
-         "title" : "WFM Alexandra Botez Is The Next Star To Go Up Against Four Prodigies In Kids vs. Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130384330.cms\" />Magnus Carlsen has declared Javokhir Sindarov the favourite to win the upcoming World Chess Championship against D Gukesh, citing Sindarov's well-rounded game. Sindarov's dominant Candidates Tournament performance, where he remained unbeaten, has impressed chess legends. Despite this, Gukesh's renowned mental resilience and ability to defend difficult positions remain significant factors in this historic, generational duel.",
