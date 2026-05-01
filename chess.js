@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 31st Tepe Sigeman & Co Chess Tournament takes place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/31st-tepe-sigeman-co-chess-tournament-2026",
+         "pubDate" : "Fri, 1 May 2026 11:20:00",
+         "title" : "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results"
+      },
+      {
          "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won four times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/may-2026-fide-ratings",
-         "pubDate" : "Thu, 30 Apr 2026 15:59:45",
-         "title" : "Sindarov Rises To No. 5, Erdogmus Becomes Youngest-Ever 2700 On May Rating List"
+         "pubDate" : "Thu, 30 Apr 2026 15:59:00",
+         "title" : "Sindarov Rises To No. 5, Erdogmus Becomes Youngest-Ever 2700 On May FIDE Rating List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130622766.cms\" />Magnus Carlsen makes a rare classical over-the-board appearance in Malmo, Sweden, for the TePe Sigeman &amp; Co tournament. While Carlsen is a focal point, young talents like Yagiz Kaan, Nodirbek Abdusattorov, and Erigaisi Arjun will also vie for attention in the elite eight-player event.",
