@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has opened early registration for ChessMom 2026, a programme designed to support professional players who are mothers at the Chess Olympiad in Uzbekistan. Building on its 2024 debut, the initiative offers financial and logistical assistance, with expanded eligibility now including mothers of children under two. National federations and players are encouraged to register interest ahead of the official regulations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessmom-2026-registration-open",
+         "pubDate" : "Sat, 02 May 2026 20:30:00",
+         "title" : "ChessMom 2026: Registration now open"
+      },
+      {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/just-dont-fight/",
          "pubDate" : "Sat, 02 May 2026 13:00:00",
          "title" : "Just Don't Fight"
+      },
+      {
+         "description" : "&#34;That was a fun game, for sure!&#34; said GM Magnus Carlsen after risking the Benoni to beat GM Nils Grandelius and join the 2026 TePe Sigeman Chess Tournament leaders after round two. GM Nodirbek Abdusattorov let a winning position slip three times a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
+         "pubDate" : "Sat, 02 May 2026 12:12:12",
+         "title" : "Carlsen Beats Grandelius To Catch Leaders"
       },
       {
          "description" : "In Volume 1 of his Fritztrainer on calculation, \"Foundations\", Surya Ganguly presented the basics of accurate calculation. In Volume 2, \"Advanced Practice\", the Indian grandmaster now takes things a step further. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He reviews the course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-2",
          "pubDate" : "Sat, 02 May 2026 01:20:32",
          "title" : "TePe Sigeman: Abdusattorov and Woodward grab wins on opening day"
+      },
+      {
+         "description" : "The 2026 National Elementary School Championships are underway in Baltimore! With a record-breaking 2,500+ participants, this tournament will be one to remember. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> With all the chess, special guests, and side events, the biggest challenge is remembering to step outside of the sleek, spacious Baltimore Convention Center to take in stunning views of the harbor. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Danah Denice of Heidnseek Entertainment, LLC performed the nati",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-elementary-school-championships-break-attendance-record-baltimore",
+         "pubDate" : "Sat, 02 May 2026 00:00:00",
+         "title" : "National Elementary School Championships Break Attendance Record in Baltimore"
       },
       {
          "description" : " There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she made an incomprehensible blunder 23.Nd4? which was met by the absolutely obvious Rc8 and her position collapsed. Magnus Carlsen faced Arjun Erigaisi's Petroff, an opening that proved successful in the Candidates, a couple of times it seemed like Carlsen was getting somewhere but he had to settle for a draw. Jorden van Foreest also looked like he might have something but after 20.Re1 it was dead equal. Round 1 Standings: 1st= Abdusattorov, Wo",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 2"
       },
       {
-         "description" : "WGM Jennifer Shahade delivers a case for why chess thinking matters far beyond the board in her new book Thinking Sideways: How to Think Like a Chess Player and Win at Life. The two-time U.S. Women&#39;s Champion has long been known as one of the ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jennifer-shahade-thinking-sideways",
-         "pubDate" : "Mon, 20 Apr 2026 16:48:00",
-         "title" : "Shahade's 'Thinking Sideways' Shows How Chess Thinking Can Improve Life Decisions"
-      },
-      {
          "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/out-of-r-praggnanandhaas-shadow-vaishali-akka-stands-tall/articleshow/130323040.cms",
          "pubDate" : "Fri, 17 Apr 2026 04:46:15",
          "title" : "Out of R Praggnanandhaa's shadow, Vaishali 'akka' stands tall"
-      },
-      {
-         "description" : "US Chess is seeking volunteers to assist at the 2026 National Elementary School Championships from April 30 through May 3 in Baltimore, MD. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership not required, but preferred. Volunteers have a variety of roles which can change from event to event. Examples of past duties performed by volunteers include:Trophy setup and take downChess board set up a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/volunteers-wanted-2026-national-elementary-school-championships",
-         "pubDate" : "Fri, 17 Apr 2026 00:00:00",
-         "title" : "Volunteers Wanted for 2026 National Elementary School Championships"
       },
       {
          "description" : "Nine rounds have been played at the European Individual Chess Championship 2026 and there are only two rounds left before the announcement of the new European Champion. GM Nijat Abasov (AZE, 2586) and GM David Anton Guijarro (ESP, 2656) are in the joint lead ahead of the second free day, with the score of 7.5 points each. Playing on the top board today, GM David Anton Guijarro (ESP, 2656) drew with blacks against GM Aydin Suleymanli (AZE, 2653). The Spanish []",
