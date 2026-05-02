@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen scored the only win of round two at the TePe Sigeman & Co Chess Tournament, beating Nils Grandelius with the black pieces to join Andy Woodward and Nodirbek Abdusattorov in the lead on 1&frac12;/2 points. Abdusattorov missed clear winning chances against Woodward, while Arjun Erigaisi and Jorden van Foreest pressed in what turned out to be long draws against Yagiz Kaan Erdogmus and Zhu Jiner, respectively. | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-r2",
+         "pubDate" : "Sun, 03 May 2026 00:35:00",
+         "title" : "TePe Sigeman: Carlsen scores, joins the lead"
+      },
+      {
+         "description" : " Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only winner when he defeated Nils Grandelius using the Modern Benoni as black. Once Carlsen assumed the initiative, he quickly overpowered his opponent. Nodirbek Abdusattorov seemed to be heading for a win against Andy Woodward first just before first time control 39.g6! would have won and 40.Nd4? was almost equal. Abdusattorov was then soon winning again but couldn't land the final blow and 60.Rxf7? was the move that ended the winning chance",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/31st-tepe-sigeman-co-chess-tournament-2026",
+         "pubDate" : "Sat, 2 May 2026 21:50:00",
+         "title" : "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2"
+      },
+      {
          "description" : "FIDE has opened early registration for ChessMom 2026, a programme designed to support professional players who are mothers at the Chess Olympiad in Uzbekistan. Building on its 2024 debut, the initiative offers financial and logistical assistance, with expanded eligibility now including mothers of children under two. National federations and players are encouraged to register interest ahead of the official regulations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "ChessMom 2026: Registration now open"
       },
       {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Sat, 02 May 2026 14:45:00",
-         "title" : "TePe Sigeman - Live!"
+         "description" : "For the first time since January, GM Hikaru Nakamura took part in and won an edition of Bullet Brawl, keeping his 100% win rate in 2026 intact. The Bullet Brawl king scored 52.5/65 for a total of 172 points, 20 points more than the second placed G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-2-2026",
+         "pubDate" : "Sat, 02 May 2026 16:03:31",
+         "title" : "Bullet Brawl King Nakamura Returns To Win 55th Title"
       },
       {
          "description" : "You sit down at your desk. Training is planned. And then your brain starts negotiating. &#8220;I'm not really feeling it today. Maybe I should just watch an opening video instead. Or take it easy and play some blitz.&#8221; If you're anything like me, you know how this ends. You dig a little deeper and come []",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
-         "pubDate" : "Sat, 02 May 2026 12:12:12",
+         "pubDate" : "Sat, 02 May 2026 12:12:00",
          "title" : "Carlsen Beats Grandelius To Catch Leaders"
       },
       {
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/21/chess-cheats-vibrating-crotches-anal-beads-netflix-hans-niemann-magnus-carlsen",
          "pubDate" : "Tue, 21 Apr 2026 07:00:18",
          "title" : "Vibrating crotches, anal beads and suspicious minds: the long, strange history of chess cheats | Sean Ingle"
-      },
-      {
-         "description" : "In the fall 2025 season, the University of Texas at Dallas (UTD) team fell just short, losing in the finals 8.5-7.5 against St. Louis University (SLU). They fought their way back in the spring 2026 season, claiming the title 9.5-6.5 against SRM In...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-spring-finals",
-         "pubDate" : "Tue, 21 Apr 2026 06:41:17",
-         "title" : "UTD Claims First CCL Title"
       },
       {
          "description" : "Congratulations! Heartiest congratulations to Aronyak Ghosh from West Bengal on achieving the prestigious title of becoming India's 95th Chess Grandmaster. This remarkable accomplishment is a",
