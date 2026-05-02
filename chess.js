@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Volume 1 of his Fritztrainer on calculation, \"Foundations\", Surya Ganguly presented the basics of accurate calculation. In Volume 2, \"Advanced Practice\", the Indian grandmaster now takes things a step further. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He reviews the course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-advanced-practice-teil-2",
+         "pubDate" : "Sat, 02 May 2026 10:00:00",
+         "title" : "Review: Calculation Step by Step - Advanced Practice (Vol. 2)"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam on 16 &#38; 17 May 2026 at Swami Vivekanand",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-on-16-17-may-2026-at-swami-vivekanand-international-school-kandivali-west-mumbai/",
+         "pubDate" : "Sat, 02 May 2026 08:09:13",
+         "title" : "SNA Seminar & Exam on 16 & 17 May 2026 at Swami Vivekanand International School, Kandivali (West), Mumbai."
+      },
+      {
          "description" : "Nodirbek Abdusattorov and Andy Woodward took the early lead at the TePe Sigeman & Co Chess Tournament after scoring the only wins of round one in Malm&ouml;. Abdusattorov beat Zhu Jiner, while Woodward (pictured) defeated local representative Nils Grandelius. Magnus Carlsen's first classical game in almost a year ended in a draw against Arjun Erigaisi, while 14-year-old Yagiz Kaan Erdogmus also drew with Jorden van Foreest. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/messy-truth-chess-improvement-progress/",
          "pubDate" : "Sat, 11 Apr 2026 13:00:00",
          "title" : "The Messy Truth About Getting Better"
-      },
-      {
-         "description" : "Four rounds have been played at the European Individual Chess Championship 2026 in Katowice, Poland, and only two players remain with a perfect score of 4/4 points! GM Robert Hovhannisyan (ARM, 2621) and GM Eduardo Iturrizaga Bonelli (ESP, 2575) each scored a maximum 4/4 points to head into the first free day of the tournament as the early co-leaders. GM Robert Hovhannisyan took a victory yesterday against GM Dimitris Alexakis (GRE, 2528) in a very sharp Sicilian game. Alexakis made []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/only-two-players-remain-perfect-after-four-played-rounds-at-eicc2026/",
-         "pubDate" : "Sat, 11 Apr 2026 10:13:16",
-         "title" : "Only two players remain perfect after four played rounds at EICC2026"
       }
    ]
 }
