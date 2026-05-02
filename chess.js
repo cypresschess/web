@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Sat, 02 May 2026 14:45:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
+         "description" : "You sit down at your desk. Training is planned. And then your brain starts negotiating. &#8220;I'm not really feeling it today. Maybe I should just watch an opening video instead. Or take it easy and play some blitz.&#8221; If you're anything like me, you know how this ends. You dig a little deeper and come []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/just-dont-fight/",
+         "pubDate" : "Sat, 02 May 2026 13:00:00",
+         "title" : "Just Don't Fight"
+      },
+      {
          "description" : "In Volume 1 of his Fritztrainer on calculation, \"Foundations\", Surya Ganguly presented the basics of accurate calculation. In Volume 2, \"Advanced Practice\", the Indian grandmaster now takes things a step further. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He reviews the course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Duda Completes Strong Week With Freestyle Friday Victory"
       },
       {
-         "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won four times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
+         "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won thee times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ding-liren-comeback-chinese-team-ch",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/problem-challenge-april",
          "pubDate" : "Mon, 20 Apr 2026 15:44:02",
          "title" : "Problem Challenge April"
-      },
-      {
-         "description" : "Armenian chess legend GM Smbat Lputian was arrested on Friday as part of a criminal investigation into alleged fraud and forgery, according to national media. He was later released, though charges against him remain in place. The arrest has been...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/smbat-lputian-reportedly-arrested",
-         "pubDate" : "Mon, 20 Apr 2026 14:37:00",
-         "title" : "Armenian Chess Legend Smbat Lputian Arrested Then Released Amid Investigation"
       },
       {
          "description" : "The European Individual Chess Championship 2026 concluded yesterday in Katowice, Poland, with the historical result by IM Roman Dehtiarov from Ukraine who stunned the field and emerged as the Winner of the event! Set to turn 18 years old this year, IM Roman Dehtiarov (UKR, 2452) was the 126th-seed on the starting list of players, but finished the event with impressive score of 9/11 points, with a single loss in the fifth round! He emerged as the sole winner of []",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-defends-confidently-against-caruana-vaishali-moves-a-point-clear-in-the-womens-event.-candidates-round-11",
          "pubDate" : "Sat, 11 Apr 2026 23:58:00",
          "title" : "Sindarov defends confidently against Caruana, Vaishali moves a point clear in the women's event. Candidates Round 11 - 11"
-      },
-      {
-         "description" : "On February 6th I shared a story of how I got thrown off my best game in a Padel match by unfair/toxic behavior of opponents. I wrote: &#8220;This is my main focus for my upcoming matches: play my best, especially when this trigger comes up.&#8221; Two months later I had a lot of opportunities to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/messy-truth-chess-improvement-progress/",
-         "pubDate" : "Sat, 11 Apr 2026 13:00:00",
-         "title" : "The Messy Truth About Getting Better"
       }
    ]
 }
