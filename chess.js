@@ -26,11 +26,19 @@ news_feed (
          "title" : "ChessMom 2026: Registration now open"
       },
       {
-         "description" : "For the first time since January, GM Hikaru Nakamura took part in and won an edition of Bullet Brawl, keeping his 100% win rate in 2026 intact. The Bullet Brawl king scored 52.5/65 for a total of 172 points, 20 points more than the second placed G...",
+         "description" : "&#34;That was a fun game, for sure!&#34; said GM Magnus Carlsen after risking the Benoni to beat GM Nils Grandelius and join the 2026 TePe Sigeman Chess Tournament leaders after round two. GM Nodirbek Abdusattorov let a winning position slip three times a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
+         "pubDate" : "Sat, 02 May 2026 16:50:00",
+         "title" : "Carlsen Beats Grandelius To Catch Leaders"
+      },
+      {
+         "description" : "For the first time since January, GM Hikaru Nakamura took part in and won an edition of Bullet Brawl, keeping his 100% win rate in 2026 intact. The Bullet Brawl king scored 52.5/65 for a total of 172 points, 20 points more than the second-placed G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-2-2026",
-         "pubDate" : "Sat, 02 May 2026 16:03:31",
+         "pubDate" : "Sat, 02 May 2026 16:03:00",
          "title" : "Bullet Brawl King Nakamura Returns To Win 55th Title"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/just-dont-fight/",
          "pubDate" : "Sat, 02 May 2026 13:00:00",
          "title" : "Just Don't Fight"
-      },
-      {
-         "description" : "&#34;That was a fun game, for sure!&#34; said GM Magnus Carlsen after risking the Benoni to beat GM Nils Grandelius and join the 2026 TePe Sigeman Chess Tournament leaders after round two. GM Nodirbek Abdusattorov let a winning position slip three times a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
-         "pubDate" : "Sat, 02 May 2026 12:12:00",
-         "title" : "Carlsen Beats Grandelius To Catch Leaders"
       },
       {
          "description" : "In Volume 1 of his Fritztrainer on calculation, \"Foundations\", Surya Ganguly presented the basics of accurate calculation. In Volume 2, \"Advanced Practice\", the Indian grandmaster now takes things a step further. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He reviews the course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
@@ -792,14 +792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/sindarov-on-the-brink-of-winning-the-candidates-after-round-12-zhu-beats-vaishali-to-catch-her-in-the-womens-event",
          "pubDate" : "Mon, 13 Apr 2026 00:38:00",
          "title" : "Sindarov on the brink of winning the Candidates after Round 12, Zhu beats Vaishali to catch her in the Women's event - 12"
-      },
-      {
-         "description" : " Javokhir Sindarov moved a step closer to winning the FIDE Candidates tournament in Cyprus. Sindarov was put under serious pressure for the first time in the event. Sindarov made a number of inaccuracies 22...Rc8! would probably have avoided all difficulty, I'm not sure Sindarov was lost but after Caruana's 31.g4?! he realised immediately that he should save the position which he did fairly easily from then on. A two point lead with three rounds to go means Sindarov is almost there. The other games were drawn, Anish Giri had his chances against Andrey Esipenko, Praggnanandhaa was flat out winning against Bluebaum and Wei Yi easily held Nakamura. In the women's event Vaishali Rameshbabu now l",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-defends-confidently-against-caruana-vaishali-moves-a-point-clear-in-the-womens-event.-candidates-round-11",
-         "pubDate" : "Sat, 11 Apr 2026 23:58:00",
-         "title" : "Sindarov defends confidently against Caruana, Vaishali moves a point clear in the women's event. Candidates Round 11 - 11"
       }
    ]
 }
