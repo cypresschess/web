@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Would you like to make the most of ChessBase&acute;26, especially in the opening, to improve your repertoire? With the Powerbooks and Powerbases, you will always be one step ahead of your opponents. Learn how to use these comprehensive and up-to-date databases with ChessBase and how to train your favourite openings with Fritz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-13-powerbooks-and-powerbases",
+         "pubDate" : "Sun, 03 May 2026 09:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips, Part 13: Powerbooks and Powerbases"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130727183.cms\" />Despite a power outage and darkness, eight-year-old chess prodigy Tamizh Amudhan competed in the Freestyle Friday online championship from his home in Thiruthangal. Using a candle and mobile torch, he even managed to defeat World No. 7 Vincent Keymer before his laptop battery died.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/power-cut-candlelight-giant-killing-8-year-old-tamizh-amudhan-stuns-world-no-7-vincent-keymer/articleshow/130727183.cms",
+         "pubDate" : "Sun, 03 May 2026 04:10:08",
+         "title" : "Power cut, candlelight, giant-killing: 8-year-old stuns World No. 7 Keymer"
+      },
+      {
          "description" : "Magnus Carlsen scored the only win of round two at the TePe Sigeman & Co Chess Tournament, beating Nils Grandelius with the black pieces to join Andy Woodward and Nodirbek Abdusattorov in the lead on 1&frac12;/2 points. Abdusattorov missed clear winning chances against Woodward, while Arjun Erigaisi and Jorden van Foreest pressed in what turned out to be long draws against Yagiz Kaan Erdogmus and Zhu Jiner, respectively. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/final-report35th-national-under-17-open-girls-chess-championships-2026/",
          "pubDate" : "Tue, 14 Apr 2026 11:22:48",
          "title" : "Final Report:35th National Under-17 Open & Girls Chess Championships - 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130257408.cms\" />Harika Dronavalli clarified viral handshake incident with Nodirbek Yakubboev, saying there was no disrespect. He had pre-informed her he cannot do handshakes due to religious beliefs, and her instinctive resignation gesture caused confusion. She urged social media not to blame him. Similar past incidents exist with Vaishali Rameshbabu. Harika stressed mutual respect and focus on chess, despite controversy overshadowing results.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-handshake-indias-harika-dronavalli-breaks-silence-on-uzbek-gms-namaste-exclusive/articleshow/130257408.cms",
-         "pubDate" : "Tue, 14 Apr 2026 11:04:20",
-         "title" : "No handshake! India's Harika breaks silence on Uzbek GM's 'Namaste'"
       },
       {
          "description" : "It should be clearly emphasized that the longest chess game of all time can only arise by chance. Any prior agreement between the opponents before the game-such as, \"Let's play the longest game in history today!\" - or any such understanding reached during the game, automatically turns them into cheaters, with all the ensuing consequences. Estonian chess expert and trainer, Valery Golubenko, tells us about the struggle to regulate very long theoretical endings.",
