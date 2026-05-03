@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Sun, 03 May 2026 14:45:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
          "description" : "The 2nd quarter of 2026 ECU Board meeting held via teleconference on 30 April 2026. Main information and Decision ECU Elections and General Assembly 2026 &#160; European Championships",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-r2",
          "pubDate" : "Sun, 03 May 2026 00:35:00",
          "title" : "TePe Sigeman: Carlsen scores, joins the lead"
+      },
+      {
+         "description" : "While professional players shudder at the thought of playing more than one classical chess game in a day, the 2,500-plus kids in Baltimore for the 2026 National Elementary School Championships couldn't be happier to get in three games in a single day yesterday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The crowd outside the Baltimore convention center. (Photo by John Hartmann)<br> <br> <br> <br> Between rounds, practically every table in the skittles room had a chess board on it, and lines to play blitz against special guests enveloped the playing area. There's nothing as infectious as the energy of these children. If they could play even more ch",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/leaderboards-take-shape-entering-final-nes-leg-baltimore",
+         "pubDate" : "Sun, 03 May 2026 00:00:00",
+         "title" : "Leaderboards Take Shape Entering Final NES Leg in Baltimore"
       },
       {
          "description" : " Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only winner when he defeated Nils Grandelius using the Modern Benoni as black. Once Carlsen assumed the initiative, he quickly overpowered his opponent. Nodirbek Abdusattorov seemed to be heading for a win against Andy Woodward first just before first time control 39.g6! would have won and 40.Nd4? was almost equal. Abdusattorov was then soon winning again but couldn't land the final blow and 60.Rxf7? was the move that ended the winning chance",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-95th-gm-aronyak-ghosh-from-chasing-next-tournaments-fee-to-parents-relief/articleshow/130383499.cms",
          "pubDate" : "Mon, 20 Apr 2026 05:45:47",
          "title" : "The making of India's 95th GM: Aronyak Ghosh, from chasing next tournament's fee to parents' relief"
-      },
-      {
-         "description" : "Call for Applications - Maurice Ashley Fellowship<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 Maurice Ashley Fellow Ayden Spellman-Robinson. (Photo courtesy of ICN)<br> <br> <br> <br> Applications are open for the Maurice Ashley Fellowship, with a submission deadline of June 1.This distinguished fellowship supports young Black chess players who demonstrate exceptional promise, discipline, and a passion for the game. Selected fellows will receive elite training, mentorship, and resources designed to help them reach the next level of their chess careers.We are looking for serious applicants with a commitment to growth and a love for the game. If ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/call-applications-maurice-ashley-fellowship",
-         "pubDate" : "Mon, 20 Apr 2026 00:00:00",
-         "title" : "Call for Applications - Maurice Ashley Fellowship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
