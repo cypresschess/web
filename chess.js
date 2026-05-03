@@ -10,6 +10,14 @@ news_feed (
          "title" : "TePe Sigeman - Live!"
       },
       {
+         "description" : "GMs Yagiz Kaan Erdogmus and Arjun Erigaisi picked up their first wins of the 2026 TePe Sigeman Chess Tournament to reach a five-way tie for the lead with GMs Magnus Carlsen, Nodirbek Abdusattorov, and Andy Woodward. Erdogmus is up to 2711.9 and wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-3",
+         "pubDate" : "Sun, 03 May 2026 10:41:53",
+         "title" : "Erdogmus, Arjun Grab 1st Wins To Join Leaders"
+      },
+      {
          "description" : "The 2nd quarter of 2026 ECU Board meeting held via teleconference on 30 April 2026. Main information and Decision ECU Elections and General Assembly 2026 &#160; European Championships",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grandmasters-gets-tribeca-film-festival-premiere",
          "pubDate" : "Tue, 21 Apr 2026 12:47:00",
          "title" : "New Documentary Series 'Grandmasters' Gets Tribeca Film Festival Premiere"
-      },
-      {
-         "description" : "GM Nihal Sarin won his second Titled Tuesday of the last six weeks on April 21, rejoining GM Sina Movahed atop the spring split standings. Whereas in his previous victory, Nihal led wire-to-wire, this week he lost in the third round. Nonetheless, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-wins-titled-tuesday-april-21-2026",
-         "pubDate" : "Tue, 21 Apr 2026 11:43:51",
-         "title" : "It's Nihal Again In Titled Tuesday"
       },
       {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
