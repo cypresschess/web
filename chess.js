@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2nd quarter of 2026 ECU Board meeting held via teleconference on 30 April 2026. Main information and Decision ECU Elections and General Assembly 2026 &#160; European Championships",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board/",
+         "pubDate" : "Sun, 03 May 2026 10:07:46",
+         "title" : "Communique of the ECU Board"
+      },
+      {
          "description" : "Would you like to make the most of ChessBase&acute;26, especially in the opening, to improve your repertoire? With the Powerbooks and Powerbases, you will always be one step ahead of your opponents. Learn how to use these comprehensive and up-to-date databases with ChessBase and how to train your favourite openings with Fritz.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
