@@ -1,5 +1,7 @@
 jtable([
+"CYPRESS","2026-05-01","32","<a href=https://ratings.uschess.org/event/202605010333 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "HOUSTON","2026-05-01","16","<a href=https://ratings.uschess.org/event/202605010253 target='_blank'>The Friday Knights</a>",
+"SUGAR LAND","2026-05-01","8","<a href=https://ratings.uschess.org/event/202605010163 target='_blank'>FBCC 2026 National Space Day Open</a>",
 "KATY","2026-04-29","7","<a href=https://ratings.uschess.org/event/202604290163 target='_blank'>Katy Kids Chess</a>",
 "HOUSTON","2026-04-28","19","<a href=https://ratings.uschess.org/event/202604280243 target='_blank'>APRIL TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-04-26","15","<a href=https://ratings.uschess.org/event/202604260383 target='_blank'>Bellaire Sunday Swiss 2026.04.26</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-02-08","39","<a href=https://ratings.uschess.org/event/202602080753 target='_blank'>$2,500 FEBRUARY CHAMPIONSHIP</a>",
 "HOUSTON","2026-02-08","8","<a href=https://ratings.uschess.org/event/202602080243 target='_blank'>Bellaire Sunday Swiss 2026.02.08</a>",
 "SUGAR LAND","2026-02-07","11","<a href=https://ratings.uschess.org/event/202602071043 target='_blank'>winter-02-07-2026</a>",
-"HOUSTON","2026-02-07","10","<a href=https://ratings.uschess.org/event/202602070493 target='_blank'>chesspanda02072026saturday</a>",
-"SPRING","2026-02-06","26","<a href=https://ratings.uschess.org/event/202602060183 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
