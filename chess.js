@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
+         "pubDate" : "Sun, 3 May 2026 21:31:00",
+         "title" : "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3"
+      },
+      {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-3",
-         "pubDate" : "Sun, 03 May 2026 10:41:53",
+         "pubDate" : "Sun, 03 May 2026 10:41:00",
          "title" : "Erdogmus, Arjun Grab 1st Wins To Join Leaders"
       },
       {
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-r2",
          "pubDate" : "Sun, 03 May 2026 00:35:00",
          "title" : "TePe Sigeman: Carlsen scores, joins the lead"
+      },
+      {
+         "description" : "2,535 players from 36 states (plus Washington, D.C.) competed in Baltimore, MD to determine the nation's top elementary school players; New York players and schools win seven championships. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> See our recap report on Monday, May 4, which will include photos. In the meantime, see photos and videos on Twitter/X via @USChess and #ElemChessChamps, and on our Instagram and Facebook pages. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> The 202",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-national-elementary-championships-results",
+         "pubDate" : "Sun, 03 May 2026 00:00:00",
+         "title" : "Flash Report: National Elementary Championships Results"
       },
       {
          "description" : "While professional players shudder at the thought of playing more than one classical chess game in a day, the 2,500-plus kids in Baltimore for the 2026 National Elementary School Championships couldn't be happier to get in three games in a single day yesterday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The crowd outside the Baltimore convention center. (Photo by John Hartmann)<br> <br> <br> <br> Between rounds, practically every table in the skittles room had a chess board on it, and lines to play blitz against special guests enveloped the playing area. There's nothing as infectious as the energy of these children. If they could play even more ch",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://aicf.in/congratulation-aronyak-ghosh-from-west-bengal-becomes-indias-95th-chess-grandmaster/",
          "pubDate" : "Tue, 21 Apr 2026 06:29:48",
          "title" : "Congratulation:-Aronyak Ghosh from West Bengal becomes India's 95th Chess Grandmaster"
-      },
-      {
-         "description" : "Today's exercises continue a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-21st-annual-kcf-all-girls-championship-pt-2",
-         "pubDate" : "Tue, 21 Apr 2026 00:00:00",
-         "title" : "Tactics Tuesday: 21st Annual KCF All-Girls Championship, Pt. 2"
       },
       {
          "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
