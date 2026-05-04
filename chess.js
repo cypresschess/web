@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-vignir-vatnar-stefansson-takes-sole-lead-in-european-individual-chess-championship-2026/",
          "pubDate" : "Mon, 13 Apr 2026 21:00:59",
          "title" : "GM Vignir Vatnar Stefansson takes sole lead in European Individual Chess Championship"
-      },
-      {
-         "description" : "BP will be published soon. S.NO Name Team 1 VISAKH N R &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A 2 GUSAIN HIMAL &#160;RAILWAYS SPORTS PROMOTION BOARD&#160; A",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-team-in-raipur-chhattisgarh-from-16-22-march-2026/",
-         "pubDate" : "Mon, 13 Apr 2026 05:58:10",
-         "title" : "Certificate :National Team in Raipur ,Chhattisgarh from 16-22 March 2026"
       }
    ]
 }
