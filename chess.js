@@ -18,6 +18,14 @@ news_feed (
          "title" : "19-yo Pranesh, who helped Vaishali in her Candidates win, joins S8UL"
       },
       {
+         "description" : "GM Jorden van Foreest is the first player to beat GM Magnus Carlsen in classical chess since GM Gukesh Dommaraju&#39;s famous win in Norway Chess 2025. Carlsen looked set to escape a tough game intact but finally fell in a nail-biting endgame, while G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-4",
+         "pubDate" : "Mon, 04 May 2026 12:01:00",
+         "title" : "Van Foreest Beats Carlsen In Thriller; 14-Year-Old Erdogmus Grabs Sole Lead"
+      },
+      {
          "description" : "Yagiz Kaan Erdogmus and Arjun Erigaisi scored their first wins of the TePe Sigeman & Co Chess Tournament in round three, joining Magnus Carlsen, Nodirbek Abdusattorov and Andy Woodward in a five-way tie for first place. Erdogmus beat Zhu Jiner and climbed further on the live ratings list, while Erigaisi defeated Nils Grandelius to return to the world top ten. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-2",
          "pubDate" : "Wed, 22 Apr 2026 00:00:00",
          "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 2"
-      },
-      {
-         "description" : "Grandmasters, a new docuseries featuring GMs Magnus Carlsen, Wesley So, and Hans Niemann, along with other top figures in the chess world, will premiere as an Official Selection at the prestigious Tribeca Film Festival, with its debut screening sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grandmasters-gets-tribeca-film-festival-premiere",
-         "pubDate" : "Tue, 21 Apr 2026 12:47:00",
-         "title" : "New Documentary Series 'Grandmasters' Gets Tribeca Film Festival Premiere"
       },
       {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
