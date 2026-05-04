@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2026-05-03","15","<a href=https://ratings.uschess.org/event/202605030283 target='_blank'>Houston FIDE 26</a>",
+"HOUSTON","2026-05-03","47","<a href=https://ratings.uschess.org/event/202605030263 target='_blank'>Poison Pawns May 2026</a>",
+"KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
+"HOUSTON","2026-05-02","10","<a href=https://ratings.uschess.org/event/202605020163 target='_blank'>chesspanda05022026saturday</a>",
 "CYPRESS","2026-05-01","32","<a href=https://ratings.uschess.org/event/202605010333 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "HOUSTON","2026-05-01","16","<a href=https://ratings.uschess.org/event/202605010253 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-05-01","8","<a href=https://ratings.uschess.org/event/202605010163 target='_blank'>FBCC 2026 National Space Day Open</a>",
@@ -95,8 +99,4 @@ jtable([
 "HOUSTON","2026-02-14","10","<a href=https://ratings.uschess.org/event/202602140253 target='_blank'>chesspanda02142026saturday</a>",
 "SPRING","2026-02-13","31","<a href=https://ratings.uschess.org/event/202602130173 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-02-13","15","<a href=https://ratings.uschess.org/event/202602130153 target='_blank'>FBCC 2026 Chuck Yeager's Birthday Open</a>",
-"CYPRESS","2026-02-13","35","<a href=https://ratings.uschess.org/event/202602130123 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
-"HOUSTON","2026-02-08","39","<a href=https://ratings.uschess.org/event/202602080753 target='_blank'>$2,500 FEBRUARY CHAMPIONSHIP</a>",
-"HOUSTON","2026-02-08","8","<a href=https://ratings.uschess.org/event/202602080243 target='_blank'>Bellaire Sunday Swiss 2026.02.08</a>",
-"SUGAR LAND","2026-02-07","11","<a href=https://ratings.uschess.org/event/202602071043 target='_blank'>winter-02-07-2026</a>",
 ]);
