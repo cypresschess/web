@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Mon, 04 May 2026 14:45:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130801075.cms\" />S8UL signed 19-year-old Grandmaster Pranesh M for the Esports World Cup 2026, alongside Nihal Sarin and Aravindh Chithambaram. Pranesh recently gained attention after helping R Vaishali stay calm during her historic FIDE Women's Candidates triumph. Chess returns to EWC this August with a $1.5 million prize pool.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/19-year-old-pranesh-m-who-helped-vaishali-in-her-womens-candidates-win-joins-s8ul-ahead-of-esports-world-cup/articleshow/130801075.cms",
+         "pubDate" : "Mon, 04 May 2026 13:17:59",
+         "title" : "19-yo Pranesh, who helped Vaishali in her Candidates win, joins S8UL"
+      },
+      {
          "description" : "Yagiz Kaan Erdogmus and Arjun Erigaisi scored their first wins of the TePe Sigeman & Co Chess Tournament in round three, joining Magnus Carlsen, Nodirbek Abdusattorov and Andy Woodward in a five-way tie for first place. Erdogmus beat Zhu Jiner and climbed further on the live ratings list, while Erigaisi defeated Nils Grandelius to return to the world top ten. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,7 +274,7 @@ news_feed (
          "title" : "Duda Abides Late Loss, Recovers To Win Titled Tuesday"
       },
       {
-         "description" : "WFM Alexandra Botez got off to a shaky start in the seventh episode of Kids vs. Stars when she found herself lost in seven moves against her 13-year-old Canadian compatriot WFM Ashley Qian. That game couldn&#39;t be save, but despite serious time trou...",
+         "description" : "WFM Alexandra Botez got off to a shaky start in the seventh episode of Kids vs. Stars when she found herself lost in seven moves against her 13-year-old Canadian compatriot WFM Ashley Qian. That game couldn&#39;t be saved, but despite serious time tro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alexandra-botez-kids-vs-stars-episode-7",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
          "pubDate" : "Tue, 14 Apr 2026 18:03:51",
          "title" : "Javokhir Sindarov earns world chess title shot with stunning Candidates win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130264726.cms\" />Javokhir Sindarov clinched the FIDE Candidates 2026 title with a round to spare after an unbeaten run, sealing qualification for the World Championship with a draw against Anish Giri. The Uzbek GM showed consistency throughout, starting with a win over Andrey Esipenko and maintaining control with key draws. He will now face reigning champion D Gukesh for the title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-javokhir-sindarov-wins-candidates-2026-sets-up-world-chess-championship-clash-with-d-gukesh/articleshow/130264726.cms",
-         "pubDate" : "Tue, 14 Apr 2026 17:09:40",
-         "title" : "Sindarov wins Candidates, sets up World C'ship clash with D Gukesh"
       },
       {
          "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
