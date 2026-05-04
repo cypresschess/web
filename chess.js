@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/erdogmus-leads-the-sigeman-tournament-with-34-van-foreest-beats-carlsen",
+         "pubDate" : "Mon, 4 May 2026 21:01:00",
+         "title" : "Erdogmus leads the Sigeman tournament with 3/4, Van Foreest beats Carlsen - 4"
+      },
+      {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-3",
          "pubDate" : "Mon, 04 May 2026 01:35:00",
          "title" : "TePe Sigeman: Erigaisi and Erdogmus win, join five-player leading group"
+      },
+      {
+         "description" : "Sunday saw the coronation of new national champions at the 2026 National Elementary School Championships in Baltimore, MD. Note that this was championships, plural, because this event hosts four distinct national championships across different elementary grade ranges.Yesterday's flash report highlights the individual and team winners, full results can be found here, and the tournament is already rated on MUIR.Now, it's time to dive into the critical moments of Sunday's games with a final batch of annotations courtesy of commentator WGM Sabina Foisor. K-6: Four Tie for FirstThe K-6 Championship is a unique hybrid between the typical wide-ranging sections of the spring scholastics and the by-g",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-elementary-school-championships-full-report",
+         "pubDate" : "Mon, 04 May 2026 00:00:00",
+         "title" : "2026 National Elementary School Championships: Full Report"
+      },
+      {
+         "description" : "Attention US Chess Delegates:Please submit your Advance Delegate Motions (ADMs) for the 2026 Advance Agenda by May 8, 2026 by 5 p.m. EDT. Use this fillable form. For guidelines, click here.To submit, email Click here to show email address. If you wish to check your delegate status, use this link. The page for the 2026 Annual Meeting is here.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/delegates-call-submit-advance-delegate-motions-adms-may-8",
+         "pubDate" : "Mon, 04 May 2026 00:00:00",
+         "title" : "Delegates Call: Submit Advance Delegate Motions (ADMs) by May 8"
       },
       {
          "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
@@ -402,14 +426,6 @@ news_feed (
          "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
       },
       {
-         "description" : "With five rounds in the books at the 2026 World Senior Team Chess Championship, Team USA has scored 4&frac12;/5 points and shares the lead - with the Italian team it drew in Round 4 - in the 50+ section. Held in Durres, Albania, from April 19 through 28, the Americans are looking for their fourth consecutive team title after completing the \"three-peat\" last year.The USA Women's team is currently on an even 2&frac12;/5 score, putting it a half-point behind the Czech Republic and Kazakhstan women's teams. Overall, 36 teams (including four women's teams) are competing in the 50+ section.Play resumes on Saturday, April 25 for Round 6 of the nine-round event, with the broadcast beginning at 8:15 ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/team-usa-leads-world-senior-team-championship-entering-second-half",
-         "pubDate" : "Fri, 24 Apr 2026 00:00:00",
-         "title" : "Team USA Leads World Senior Team Championship Entering Second Half"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda, and Nihal Sarin are the last ones standing in the Winners Bracket of the 2026 Chess.com Open Playoffs, after winning two matches on Thursday. In the Losers Bracket, the first four players were...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -440,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-caruana-gukesh-sindarov-predictions",
          "pubDate" : "Wed, 22 Apr 2026 05:13:19",
          "title" : "Carlsen, Caruana Give Gukesh-Sindarov World Championship Predictions"
-      },
-      {
-         "description" : "Today's exercises continue a series on the just-concluded 21st Annual KCF All-Girls Championship, held April 10 through 12 in Chicago. Check out our full report here, and check out even more puzzles from our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-21st-kcf-all-girls-pt-2",
-         "pubDate" : "Wed, 22 Apr 2026 00:00:00",
-         "title" : "Wednesday Workout: 21st KCF All-Girls, Pt. 2"
       },
       {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-andhra-university-visakhaptnam-on-02-03-may-2026-2-bathes/",
          "pubDate" : "Tue, 14 Apr 2026 10:55:22",
          "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
-      },
-      {
-         "description" : "After six played rounds at the European Individual Chess Championship 2026, GM Vignir Vatnar Stefansson (ISL, 2512) emerged as the sole leader of the event with the score of 5.5/6 points! GM Vignir Vatnar Stefansson prevailed today with the black pieces against GM Lorenzo Lodici (ITA, 2601) in a very tense game. After balanced opening where Black looked okay, Stefansson managed to take the clear edge and win the pawn transposing to complex Queens endgame. Lodici had his chances to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gm-vignir-vatnar-stefansson-takes-sole-lead-in-european-individual-chess-championship-2026/",
-         "pubDate" : "Mon, 13 Apr 2026 21:00:59",
-         "title" : "GM Vignir Vatnar Stefansson takes sole lead in European Individual Chess Championship"
       }
    ]
 }
