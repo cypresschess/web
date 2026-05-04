@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yagiz Kaan Erdogmus and Arjun Erigaisi scored their first wins of the TePe Sigeman & Co Chess Tournament in round three, joining Magnus Carlsen, Nodirbek Abdusattorov and Andy Woodward in a five-way tie for first place. Erdogmus beat Zhu Jiner and climbed further on the live ratings list, while Erigaisi defeated Nils Grandelius to return to the world top ten. | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-3",
+         "pubDate" : "Mon, 04 May 2026 01:35:00",
+         "title" : "TePe Sigeman: Erigaisi and Erdogmus win, join five-player leading group"
+      },
+      {
          "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
          "pubDate" : "Sun, 3 May 2026 21:31:00",
          "title" : "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3"
-      },
-      {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Sun, 03 May 2026 14:45:00",
-         "title" : "TePe Sigeman - Live!"
       },
       {
          "description" : "GMs Yagiz Kaan Erdogmus and Arjun Erigaisi picked up their first wins of the 2026 TePe Sigeman Chess Tournament to reach a five-way tie for the lead with GMs Magnus Carlsen, Nodirbek Abdusattorov, and Andy Woodward. Erdogmus is up to 2711.9 and wo...",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board/",
          "pubDate" : "Sun, 03 May 2026 10:07:46",
          "title" : "Communique of the ECU Board"
-      },
-      {
-         "description" : "Would you like to make the most of ChessBase&acute;26, especially in the opening, to improve your repertoire? With the Powerbooks and Powerbases, you will always be one step ahead of your opponents. Learn how to use these comprehensive and up-to-date databases with ChessBase and how to train your favourite openings with Fritz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-13-powerbooks-and-powerbases",
-         "pubDate" : "Sun, 03 May 2026 09:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips, Part 13: Powerbooks and Powerbases"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130727183.cms\" />Despite a power outage and darkness, eight-year-old chess prodigy Tamizh Amudhan competed in the Freestyle Friday online championship from his home in Thiruthangal. Using a candle and mobile torch, he even managed to defeat World No. 7 Vincent Keymer before his laptop battery died.",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2"
       },
       {
-         "description" : "FIDE has opened early registration for ChessMom 2026, a programme designed to support professional players who are mothers at the Chess Olympiad in Uzbekistan. Building on its 2024 debut, the initiative offers financial and logistical assistance, with expanded eligibility now including mothers of children under two. National federations and players are encouraged to register interest ahead of the official regulations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessmom-2026-registration-open",
-         "pubDate" : "Sat, 02 May 2026 20:30:00",
-         "title" : "ChessMom 2026: Registration now open"
-      },
-      {
          "description" : "&#34;That was a fun game, for sure!&#34; said GM Magnus Carlsen after risking the Benoni to beat GM Nils Grandelius and join the 2026 TePe Sigeman Chess Tournament leaders after round two. GM Nodirbek Abdusattorov let a winning position slip three times a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,28 +98,12 @@ news_feed (
          "title" : "Just Don't Fight"
       },
       {
-         "description" : "In Volume 1 of his Fritztrainer on calculation, \"Foundations\", Surya Ganguly presented the basics of accurate calculation. In Volume 2, \"Advanced Practice\", the Indian grandmaster now takes things a step further. Hannes Langrock is an editor at a fiction publishing house and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. He reviews the course \"Calculation Step by Step Vol. 1\". | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-calculation-step-by-step-advanced-practice-teil-2",
-         "pubDate" : "Sat, 02 May 2026 10:00:00",
-         "title" : "Review: Calculation Step by Step - Advanced Practice (Vol. 2)"
-      },
-      {
          "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam on 16 &#38; 17 May 2026 at Swami Vivekanand",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-exam-on-16-17-may-2026-at-swami-vivekanand-international-school-kandivali-west-mumbai/",
          "pubDate" : "Sat, 02 May 2026 08:09:13",
          "title" : "SNA Seminar & Exam on 16 & 17 May 2026 at Swami Vivekanand International School, Kandivali (West), Mumbai."
-      },
-      {
-         "description" : "Nodirbek Abdusattorov and Andy Woodward took the early lead at the TePe Sigeman & Co Chess Tournament after scoring the only wins of round one in Malm&ouml;. Abdusattorov beat Zhu Jiner, while Woodward (pictured) defeated local representative Nils Grandelius. Magnus Carlsen's first classical game in almost a year ended in a draw against Arjun Erigaisi, while 14-year-old Yagiz Kaan Erdogmus also drew with Jorden van Foreest. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-2",
-         "pubDate" : "Sat, 02 May 2026 01:20:32",
-         "title" : "TePe Sigeman: Abdusattorov and Woodward grab wins on opening day"
       },
       {
          "description" : "The 2026 National Elementary School Championships are underway in Baltimore! With a record-breaking 2,500+ participants, this tournament will be one to remember. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> With all the chess, special guests, and side events, the biggest challenge is remembering to step outside of the sleek, spacious Baltimore Convention Center to take in stunning views of the harbor. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Danah Denice of Heidnseek Entertainment, LLC performed the nati",
@@ -202,36 +170,12 @@ news_feed (
          "title" : "Duda Completes Strong Week With Freestyle Friday Victory"
       },
       {
-         "description" : "Ding Liren took a long break from classical chess after losing the World Championship title in December 2024. He lost the title to Gukesh Dommaraju and was thereafter only occasionally active in online or rapid tournaments. For his comeback, the former world champion chose the Chinese Team Championship. At the tournament in Daqing, he played five games for his team, won thee times, drew twice and achieved a performance rating of almost 2800 points. | Photos: Heilongjiang Provincial Sports Bureau",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-comeback-chinese-team-ch",
-         "pubDate" : "Fri, 01 May 2026 08:00:00",
-         "title" : "Ding Liren scores 4/5 and a 2795 TPR at Chinese Team Championship"
-      },
-      {
          "description" : " USA retain the world 50+ title, while Germany-Lasker SGK win the 65+ equivalent, with England fourth in both events England finished out of the medals for the first time in five years in this week's world senior team championships for over-50s and over-65s, played at Durres, Albania, as the US, fielding a largely former USSR squad, retained the over-50 gold medals, while a nominally German team, which also included a former Soviet star, won the over-65s event. The US victory was clear but had a controversial aspect in the team's use of package deals, which are forbidden in Olympiads but still allowed in senior events. <a href=\"https://www.theguardian.com/sport/2026/may/01/chess-england-fail",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
          "pubDate" : "Fri, 01 May 2026 07:00:41",
          "title" : "Chess: England fail to win senior team world medals for first time in five years"
-      },
-      {
-         "description" : "Greenland has held its first national chess championship, marking a milestone for the game's development in the region. Conducted online to overcome geographical challenges, the event brought together players from across the island, with Egon Mattaaq emerging as the inaugural champion. The tournament highlights growing efforts to build a connected chess community and expand participation in even the most remote areas. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/greenlandic-chess-ch-2026",
-         "pubDate" : "Fri, 01 May 2026 01:40:00",
-         "title" : "Egon Mattaaq wins historic first Greenlandic Chess Championship"
-      },
-      {
-         "description" : "Two weeks ago, the chess auction at Sotheby's concluded, featuring numerous items from the collection of Lothar Schmid. The most valuable pieces fetched well over &pound;100,000. The online auction was accompanied by an exhibition and a lecture. The musician and chess enthusiast Jason Kouchak was in attendance. | Photo: Jason Kouchak in front of the painting \"The Chess Players\" (or \"The Devil's Checkmate\") by Friedrich Moritz August Retzsch, circa 1831.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lothar-schmid-collection-sothebys",
-         "pubDate" : "Thu, 30 Apr 2026 18:20:00",
-         "title" : "Lothar Schmid's collection auctioned at Sotheby's"
       },
       {
          "description" : "If 2024 was the golden year for India, with double gold in the Olympiad and GM Gukesh Dommaraju crowned world champion, 2026 is shaping up to be a golden year for Uzbekistan so far. The nation&#39;s number-one GM Nodirbek Abdusattorov has already been...",
@@ -816,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-national-team-in-raipur-chhattisgarh-from-16-22-march-2026/",
          "pubDate" : "Mon, 13 Apr 2026 05:58:10",
          "title" : "Certificate :National Team in Raipur ,Chhattisgarh from 16-22 March 2026"
-      },
-      {
-         "description" : " Javokhir Sindarov was happy to take a quick draw against Hikaru Nakamura in Round 12 of the Candidates, in fact his entire preparation was directed towards it. Anish Giri was left trying to beat Wei Yi and he did in fact get a winning position in an endgame but it remained tricky. Giri accidentally repeated the position three times and Wei Yi was immediately alert to this. Matthias Bluebaum was slightly better against Fabiano Caruana but no more than that. Praggnanandhaa was pushing against Andrey Esipenko but had to settle with a draw. Following the rest day Giri will have to win against Sindarov in order to keep his chances alive. The women's event was blown wide open when Zhu Jiner beat ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sindarov-on-the-brink-of-winning-the-candidates-after-round-12-zhu-beats-vaishali-to-catch-her-in-the-womens-event",
-         "pubDate" : "Mon, 13 Apr 2026 00:38:00",
-         "title" : "Sindarov on the brink of winning the Candidates after Round 12, Zhu beats Vaishali to catch her in the Women's event - 12"
       }
    ]
 }
