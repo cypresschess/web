@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "So many top chess tournaments taking place, all at the same time. How can you keep abreast? We will tell you how ChessBase provides you with all the live games. Take for example this exciting FIDE event, with former World Championship challenger Ian Nepomniachtchi, marking a rare appearance in an open. To follow this or many other tournaments, you just need to go to the ChessBase Live Broadcast page. Try it out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-the-world-chess-festival",
+         "pubDate" : "Tue, 05 May 2026 10:16:18",
+         "title" : "Watch the World Chess Festival"
+      },
+      {
          "description" : "Yagiz Kaan Erdogmus (pictured) became the sole leader of the TePe Sigeman & Co Chess Tournament after beating Nils Grandelius on Monday, as the Turkish prodigy is the only player on a plus-two score with three rounds to go in Malm&ouml;. Jorden van Foreest scored his first-ever win over Magnus Carlsen in what turned out to be an exciting, 88-move battle, while Zhu Jiner defeated Andy Woodward. Nodirbek Abdusattorov and Arjun Erigaisi drew and are tied for second place with Van Foreest, half a point behind Erdogmus. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,30 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
          "pubDate" : "Tue, 14 Apr 2026 18:03:51",
          "title" : "Javokhir Sindarov earns world chess title shot with stunning Candidates win"
-      },
-      {
-         "description" : "The 35th National Under-17 Open &#38; Girls Chess Championships 2026 was conducted simultaneously at the Rajpath Club, Ahmedabad, Gujarat from 30th March to 7th April",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report35th-national-under-17-open-girls-chess-championships-2026/",
-         "pubDate" : "Tue, 14 Apr 2026 11:22:48",
-         "title" : "Final Report:35th National Under-17 Open & Girls Chess Championships - 2026"
-      },
-      {
-         "description" : "It should be clearly emphasized that the longest chess game of all time can only arise by chance. Any prior agreement between the opponents before the game-such as, \"Let's play the longest game in history today!\" - or any such understanding reached during the game, automatically turns them into cheaters, with all the ensuing consequences. Estonian chess expert and trainer, Valery Golubenko, tells us about the struggle to regulate very long theoretical endings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-4",
-         "pubDate" : "Tue, 14 Apr 2026 11:00:00",
-         "title" : "A Game That Outlasted the Day (4)"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , Andhra Chess Association is organizing Senior National Arbiter Seminar &#38; exam in ANDHRA UNIVERSITY, VISAKHAPTNAM . Eligibility: Eligibility: Every",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-andhra-university-visakhaptnam-on-02-03-may-2026-2-bathes/",
-         "pubDate" : "Tue, 14 Apr 2026 10:55:22",
-         "title" : "SNA Seminar & Exam in ANDHRA UNIVERSITY, VISAKHAPTNAM on 02 & 03 May 2026 (2 Batches)"
       }
    ]
 }
