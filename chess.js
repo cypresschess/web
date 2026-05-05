@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yagiz Kaan Erdogmus (pictured) became the sole leader of the TePe Sigeman & Co Chess Tournament after beating Nils Grandelius on Monday, as the Turkish prodigy is the only player on a plus-two score with three rounds to go in Malm&ouml;. Jorden van Foreest scored his first-ever win over Magnus Carlsen in what turned out to be an exciting, 88-move battle, while Zhu Jiner defeated Andy Woodward. Nodirbek Abdusattorov and Arjun Erigaisi drew and are tied for second place with Van Foreest, half a point behind Erdogmus. | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-4",
+         "pubDate" : "Tue, 05 May 2026 07:50:00",
+         "title" : "TePe Sigeman: Erdogmus becomes sole leader, Van Foreest beats Carlsen"
+      },
+      {
          "description" : "It was a rainy night in Sivakasi, and there was a power cut, but it didn't stop 8-year-old Tamizh Amudhan from playing Freestyle Friday on chess.com. The laptop was on, the mobile hotspot was connected, the candle was lit, and the spirit was high as usual. It was 8:30 PM IST on 1 May when Tamizh Amudhan got paired up against elite GM Vincent Keymer, who recently qualified for the Freestyle World Championship 2027 after winning the Grenke Freestyle Chess tournament, and guess what happened? Check out the game in this article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/erdogmus-leads-the-sigeman-tournament-with-34-van-foreest-beats-carlsen",
          "pubDate" : "Mon, 4 May 2026 21:01:00",
          "title" : "Erdogmus leads the Sigeman tournament with 3/4, Van Foreest beats Carlsen - 4"
-      },
-      {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Mon, 04 May 2026 14:45:00",
-         "title" : "TePe Sigeman - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130801075.cms\" />S8UL signed 19-year-old Grandmaster Pranesh M for the Esports World Cup 2026, alongside Nihal Sarin and Aravindh Chithambaram. Pranesh recently gained attention after helping R Vaishali stay calm during her historic FIDE Women's Candidates triumph. Chess returns to EWC this August with a $1.5 million prize pool.",
