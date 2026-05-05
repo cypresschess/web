@@ -34,12 +34,36 @@ news_feed (
          "title" : "Expression of Interest: Glorney Cup 2026"
       },
       {
+         "description" : "Stow the provisions, open the sails, and take on the scourge of the seven seas! A parrot, a captain, an Internet pirate, a legend, and a chess master. Can you beat all five bots before they sail into the sunset? Challenge them on the Play Computer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-pirate-bots",
+         "pubDate" : "Tue, 05 May 2026 12:14:25",
+         "title" : "Challenge The New Pirate Bots Before They Set Sail"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130828074.cms\" />World No. 1 and five-time world Magnus Carlsen suffered his first classical chess defeat in nearly a year after losing to Jorden van Foreest at the TePe Sigeman &amp; Co Tournament 2026 in Malmo. Carlsen had remained unbeaten since his loss to D Gukesh in 2025. Arjun Erigaisi stayed unbeaten after drawing with Nodirbek Abdusattorov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-suffers-first-classical-chess-defeat-since-table-slam-outburst-against-d-gukesh/articleshow/130828074.cms",
          "pubDate" : "Tue, 05 May 2026 12:01:16",
          "title" : "Carlsen suffers first classical chess loss since table-slam outburst vs Gukesh"
+      },
+      {
+         "description" : "GM Arjun Erigaisi pounced on a blunder by GM Jorden van Foreest to grab his second win and join GM Yagiz Kaan Erdogmus in the 2026 TePe Sigeman Chess Tournament lead. Erdogmus escaped with a 104-move draw vs. GM Andy Woodward, while GM Magnus Carl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-5",
+         "pubDate" : "Tue, 05 May 2026 11:48:00",
+         "title" : "Carlsen Bounces Back; Arjun Catches Erdogmus"
+      },
+      {
+         "description" : "A last-round win by GM Fabiano Caruana over GM Wesley So, who had been leading, left five players in the lead after three rounds at&#38;nbsp;the 2026 Super Rapid &#38;amp; Blitz Poland, the first event on the 2026 Grand Chess Tour. Besides Caruana and So,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-1",
+         "pubDate" : "Tue, 05 May 2026 10:41:00",
+         "title" : "Sindarov, Caruana, So, Niemann, Fedoseev All Share Lead On Opening Day"
       },
       {
          "description" : "So many top chess tournaments taking place, all at the same time. How can you keep abreast? We will tell you how ChessBase provides you with all the live games. Take for example this exciting FIDE event, with former World Championship challenger Ian Nepomniachtchi, marking a rare appearance in an open. To follow this or many other tournaments, you just need to go to the ChessBase Live Broadcast page. Try it out.",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tamizh-amudhan-beats-vincent-keymer",
          "pubDate" : "Tue, 05 May 2026 02:00:00",
          "title" : "8-year-old Tamizh Amudhan defeats Vincent Keymer: Against all odds"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-1",
+         "pubDate" : "Tue, 05 May 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 1"
       },
       {
          "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
@@ -362,14 +394,6 @@ news_feed (
          "title" : "IM Greg Shahade Wins Jeopardy, Ends Ding's 31-Game Streak"
       },
       {
-         "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship. Stay tuned tomorrow for a full report on this event, as well as another worksheet. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-fide-world-senior-team-championship",
-         "pubDate" : "Tue, 28 Apr 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 FIDE World Senior Team Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -466,36 +490,12 @@ news_feed (
          "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
       },
       {
-         "description" : "GMs Magnus Carlsen, Denis Lazavik, Jan-Krzysztof Duda, and Nihal Sarin are the last ones standing in the Winners Bracket of the 2026 Chess.com Open Playoffs, after winning two matches on Thursday. In the Losers Bracket, the first four players were...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-1",
-         "pubDate" : "Thu, 23 Apr 2026 15:21:00",
-         "title" : "Carlsen, Lazavik, Duda, Nihal Advance In Winners Bracket; Sindarov Eliminated"
-      },
-      {
          "description" : " The 26th European Individual Championship took place 6th (arrival day) to 20th April 2026. In an astonishing result 17 year-old Roman Dehtiarov who started as 126th seed and has had travel limited by the war won with 9/11. There is a reworked game file now. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
          "pubDate" : "Thu, 23 Apr 2026 14:19:00",
          "title" : "26th European Individual Championship 2026 - Games and Results"
-      },
-      {
-         "description" : "European chess fans can rejoice. IM Levy Rozman, known online as GothamChess, has confirmed he&#39;s returning to the old continent following his sold-out first tour in 2025. From October 25 to November 10, the biggest chess YouTuber on Earth will ret...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-gothamchess-european-tour-2026",
-         "pubDate" : "Wed, 22 Apr 2026 08:00:00",
-         "title" : "GothamChess Returns To Europe For Second Tour Starting October 25"
-      },
-      {
-         "description" : "GM Javokhir Sindarov&#39;s historic win at the 2026 FIDE Candidates Tournament saw him return home a hero to Uzbekistan, where he was met in Tashkent Airport by the prime minister before being awarded a second medal in six months by the president. Can...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-caruana-gukesh-sindarov-predictions",
-         "pubDate" : "Wed, 22 Apr 2026 05:13:19",
-         "title" : "Carlsen, Caruana Give Gukesh-Sindarov World Championship Predictions"
       },
       {
          "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
          "pubDate" : "Wed, 15 Apr 2026 01:57:14",
          "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
-      },
-      {
-         "description" : "<ul><li> Uzbek grandmaster wins Candidates with round to spare </li><li> Sindarov, 20, to face India's Gukesh for world title in fall </li></ul> Javokhir Sindarov will challenge for Gukesh Dommaraju's world chess championship this fall after clinching the Candidates tournament with a game to spare on Tuesday afternoon in Cyprus. The 20-year-old Uzbek grandmaster closed out an emphatic victory in the 14-game double round-robin with a tame 58-move draw playing with the black pieces against Dutch star Anish Giri, moving to 9&frac12; points and leaving the world No 9 two adrift with one round remaining. <a href=\"https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
-         "pubDate" : "Tue, 14 Apr 2026 18:03:51",
-         "title" : "Javokhir Sindarov earns world chess title shot with stunning Candidates win"
       }
    ]
 }
