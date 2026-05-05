@@ -58,7 +58,7 @@ news_feed (
          "title" : "Carlsen Bounces Back; Arjun Catches Erdogmus"
       },
       {
-         "description" : "A last-round win by GM Fabiano Caruana over GM Wesley So, who had been leading, left five players in the lead after three rounds at&#38;nbsp;the 2026 Super Rapid &#38;amp; Blitz Poland, the first event on the 2026 Grand Chess Tour. Besides Caruana and So,...",
+         "description" : "A last-round win by GM Fabiano Caruana over GM Wesley So, who had been leading, left five players on 4/6 after three rounds at the 2026 Super Rapid &#38;amp; Blitz Poland, the first event of the 2026 Grand Chess Tour. Besides Caruana and So, other lea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-1",
@@ -334,7 +334,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-chess-championship-2026",
-         "pubDate" : "Wed, 29 Apr 2026 08:11:11",
+         "pubDate" : "Wed, 29 Apr 2026 08:11:00",
          "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
       },
       {
