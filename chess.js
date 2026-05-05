@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a rainy night in Sivakasi, and there was a power cut, but it didn't stop 8-year-old Tamizh Amudhan from playing Freestyle Friday on chess.com. The laptop was on, the mobile hotspot was connected, the candle was lit, and the spirit was high as usual. It was 8:30 PM IST on 1 May when Tamizh Amudhan got paired up against elite GM Vincent Keymer, who recently qualified for the Freestyle World Championship 2027 after winning the Grenke Freestyle Chess tournament, and guess what happened? Check out the game in this article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tamizh-amudhan-beats-vincent-keymer",
+         "pubDate" : "Tue, 05 May 2026 02:00:00",
+         "title" : "8-year-old Tamizh Amudhan defeats Vincent Keymer: Against all odds"
+      },
+      {
          "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-4",
          "pubDate" : "Mon, 04 May 2026 12:01:00",
          "title" : "Van Foreest Beats Carlsen In Thriller; 14-Year-Old Erdogmus Grabs Sole Lead"
-      },
-      {
-         "description" : "Yagiz Kaan Erdogmus and Arjun Erigaisi scored their first wins of the TePe Sigeman & Co Chess Tournament in round three, joining Magnus Carlsen, Nodirbek Abdusattorov and Andy Woodward in a five-way tie for first place. Erdogmus beat Zhu Jiner and climbed further on the live ratings list, while Erigaisi defeated Nils Grandelius to return to the world top ten. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-3",
-         "pubDate" : "Mon, 04 May 2026 01:35:00",
-         "title" : "TePe Sigeman: Erigaisi and Erdogmus win, join five-player leading group"
       },
       {
          "description" : "Sunday saw the coronation of new national champions at the 2026 National Elementary School Championships in Baltimore, MD. Note that this was championships, plural, because this event hosts four distinct national championships across different elementary grade ranges.Yesterday's flash report highlights the individual and team winners, full results can be found here, and the tournament is already rated on MUIR.Now, it's time to dive into the critical moments of Sunday's games with a final batch of annotations courtesy of commentator WGM Sabina Foisor. K-6: Four Tie for FirstThe K-6 Championship is a unique hybrid between the typical wide-ranging sections of the spring scholastics and the by-g",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/power-cut-candlelight-giant-killing-8-year-old-tamizh-amudhan-stuns-world-no-7-vincent-keymer/articleshow/130727183.cms",
          "pubDate" : "Sun, 03 May 2026 04:10:08",
          "title" : "Power cut, candlelight, giant-killing: 8-year-old stuns World No. 7 Keymer"
-      },
-      {
-         "description" : "Magnus Carlsen scored the only win of round two at the TePe Sigeman & Co Chess Tournament, beating Nils Grandelius with the black pieces to join Andy Woodward and Nodirbek Abdusattorov in the lead on 1&frac12;/2 points. Abdusattorov missed clear winning chances against Woodward, while Arjun Erigaisi and Jorden van Foreest pressed in what turned out to be long draws against Yagiz Kaan Erdogmus and Zhu Jiner, respectively. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-r2",
-         "pubDate" : "Sun, 03 May 2026 00:35:00",
-         "title" : "TePe Sigeman: Carlsen scores, joins the lead"
       },
       {
          "description" : "2,535 players from 36 states (plus Washington, D.C.) competed in Baltimore, MD to determine the nation's top elementary school players; New York players and schools win seven championships. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> See our recap report on Monday, May 4, which will include photos. In the meantime, see photos and videos on Twitter/X via @USChess and #ElemChessChamps, and on our Instagram and Facebook pages. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> The 202",
