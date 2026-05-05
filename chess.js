@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Tue, 05 May 2026 14:45:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
+         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Gukesh Dommaraju and Javokhir Sindarov, who are set to play for the World Championship title later in the year, are among the participants. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
+         "pubDate" : "Tue, 05 May 2026 13:50:00",
+         "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2026/",
+         "pubDate" : "Tue, 05 May 2026 13:32:00",
+         "title" : "ECF Yearbook 2026"
+      },
+      {
+         "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland on 27-30 July.&#160;England will be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/expression-of-interest-glorney-cup-2026/",
+         "pubDate" : "Tue, 05 May 2026 12:30:35",
+         "title" : "Expression of Interest: Glorney Cup 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130828074.cms\" />World No. 1 and five-time world Magnus Carlsen suffered his first classical chess defeat in nearly a year after losing to Jorden van Foreest at the TePe Sigeman &amp; Co Tournament 2026 in Malmo. Carlsen had remained unbeaten since his loss to D Gukesh in 2025. Arjun Erigaisi stayed unbeaten after drawing with Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-suffers-first-classical-chess-defeat-since-table-slam-outburst-against-d-gukesh/articleshow/130828074.cms",
+         "pubDate" : "Tue, 05 May 2026 12:01:16",
+         "title" : "Carlsen suffers first classical chess loss since table-slam outburst vs Gukesh"
+      },
+      {
          "description" : "So many top chess tournaments taking place, all at the same time. How can you keep abreast? We will tell you how ChessBase provides you with all the live games. Take for example this exciting FIDE event, with former World Championship challenger Ian Nepomniachtchi, marking a rare appearance in an open. To follow this or many other tournaments, you just need to go to the ChessBase Live Broadcast page. Try it out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
          "pubDate" : "Wed, 15 Apr 2026 11:50:50",
          "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
-      },
-      {
-         "description" : "Uzbek grandmaster Javokhir Sindarov delivered a dominant, unbeaten performance to win the Candidates Tournament in Cyprus with a round to spare, finishing on 9.5 points. The 20-year-old's victory sets up a World Championship clash against India's D Gukesh, creating the youngest-ever title matchup in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/uzbek-gm-sindarov-storms-to-candidates-title-sets-up-world-clash-with-gukesh/articleshow/130273153.cms",
-         "pubDate" : "Wed, 15 Apr 2026 04:47:24",
-         "title" : "GM Sindarov wins Candidates 2026, sets up world title clash with Gukesh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130271031.cms\" />In the running for the title, there are three contenders: India's Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China's Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
