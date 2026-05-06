@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since Leon Mendonca and Aram Hakobyan were both visiting the ChessBase office, we handed them a beta version to puzzle fight each other. The app launched this weekend, it's free, and you can try Puzzle Fight yourself. Fair warning: it's hard to stop, as the video proves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/puzzle-fight-leon-mendonca-and-aram-hakobyan-try-out-the-new-chessbase-app",
+         "pubDate" : "Wed, 06 May 2026 06:46:27",
+         "title" : "Puzzle Fight: Leon Mendonca and Aram Hakobyan try out the new ChessBase app"
+      },
+      {
          "description" : "The Super Rapid & Blitz Poland tournament opened in Warsaw, with the three first rounds of rapid chess leaving a five-way tie for first place in the standings. Fabiano Caruana, Javokhir Sindarov, Wesley So (pictured), Vladimir Fedoseev and Hans Niemann all scored 4/6, with Sindarov and Niemann the only unbeaten players among them. Gukesh Dommaraju finished one point behind, ahead of Wednesday's round-five clash with Sindarov, his future World Championship challenger. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
