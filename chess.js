@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Super Rapid & Blitz Poland tournament opened in Warsaw, with the three first rounds of rapid chess leaving a five-way tie for first place in the standings. Fabiano Caruana, Javokhir Sindarov, Wesley So (pictured), Vladimir Fedoseev and Hans Niemann all scored 4/6, with Sindarov and Niemann the only unbeaten players among them. Gukesh Dommaraju finished one point behind, ahead of Wednesday's round-five clash with Sindarov, his future World Championship challenger. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-1",
+         "pubDate" : "Wed, 06 May 2026 02:15:00",
+         "title" : "Super Rapid & Blitz Poland: Five players share the lead on 4/6"
+      },
+      {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
          "pubDate" : "Tue, 05 May 2026 14:45:00",
          "title" : "TePe Sigeman - Live!"
-      },
-      {
-         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Gukesh Dommaraju and Javokhir Sindarov, who are set to play for the World Championship title later in the year, are among the participants. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
-         "pubDate" : "Tue, 05 May 2026 13:50:00",
-         "title" : "Super Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
          "pubDate" : "Wed, 15 Apr 2026 11:50:50",
          "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130271031.cms\" />In the running for the title, there are three contenders: India's Vaishali Rameshbabu, Kazakhstan's Bibisara Assaubayeva, and China's Zhu Jiner. Vaishali and Bibisara currently lead with 7.5/13 points, followed by Jiner on 7/13. The math is simple yet somewhat disquieting. If Vaishali and Bibisara both win their final games, they head into a tie-break on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/three-players-one-crown-how-can-indias-vaishali-win-womens-candidates-at-the-eleventh-hour/articleshow/130271031.cms",
-         "pubDate" : "Wed, 15 Apr 2026 01:57:14",
-         "title" : "3 players, one crown: How can India's Vaishali win Women's Candidates at eleventh hour?"
       }
    ]
 }
