@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the 59th consecutive year, Biel/Bienne will host its prestigious International Chess Festival. From 11 to 24 July 2026, over the course of two weeks, more than 500 participants - ranging from ambitious amateurs to the world's elite - will showcase their creativity, tactical finesse and strategic depth across a variety of formats. Below is an overview of the twelve tournaments, offering the chance to play alongside living chess legends such as Levon Aronian and Alexandra Kosteniuk, as well as rising star Lu Miaoyi (pictured). Matthias Bl&uuml;baum and Candidates Tournament winner Vaishali Rameshbabu will also play. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/something-for-everyone-the-59th-biel-international-chess-festival-11-to-24-july",
+         "pubDate" : "Wed, 06 May 2026 21:00:00",
+         "title" : "Something for everyone: The 59th Biel International Chess Festival - 11 to 24 July"
+      },
+      {
+         "description" : "Discover the secrets of the Hippopotamus Defense with Andrew Martin, a unique and flexible opening that thrives on patience, timing, and psychological pressure. This course shows why many aggressive players fail against the Hippo, often attacking too early and falling into devastating counterplay. Learn how to stay calm, choose the right moment to strike, and turn this seemingly passive setup into a powerful weapon against your opponents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hippopotamus-defense-basics-by-andrew-martin",
+         "pubDate" : "Wed, 06 May 2026 20:00:00",
+         "title" : "Hippopotamus Defense basics by Andrew Martin"
+      },
+      {
+         "description" : " The first event in the Grand Chess Tour 2026 is the <a href=\"https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026\">Super Rapid & Blitz Poland in Warsaw</a>. This is a category 20 field. The players meet once in a rapid game and twice in the blitz. Of major interest was the first meeting of Javokhir Sindarov and World Champion Gukesh in the rapid. It turned out to be a little disappointing. In a balanced position Sindarov sacrificed a piece and there was just never enough for it. There were three games on day 2 and Sindarov lost all three. Hans Moke Niemann and Wesley So lead the rapid on 4.5/6 with the last day tomorrow followed by two days of blitz. Round 6 of 9 st",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/gukesh-beats-sindarov-in-the-gct-poland-super-rapid",
+         "pubDate" : "Wed, 6 May 2026 18:20:00",
+         "title" : "Gukesh beats Sindarov in the GCT Poland Super Rapid - 5"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130861835.cms\" />World champion D Gukesh showed rare emotion after defeating future title challenger Javokhir Sindarov at the Grand Chess Tour in Poland. Playing with the black pieces, Gukesh outplayed the Uzbek grandmaster in 52 moves and celebrated with a fist pump after the win. The victory was seen as a strong statement ahead of their World Championship clash later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-world-chess-champion-d-gukesh-celebrates-emotionally-after-beating-javokhir-sindarov-watch/articleshow/130861835.cms",
+         "pubDate" : "Wed, 06 May 2026 15:54:43",
+         "title" : "Rare! Gukesh celebrates emotionally after beating Sindarov - Watch"
+      },
+      {
          "description" : " The GCT Super Rapid & Blitz Poland takes place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
       },
       {
+         "description" : "Swedish GM Axel Smith is preparing for an extraordinary test of mental endurance by playing 49 blindfold games simultaneously, not just in pursuit of a record, but to raise awareness for a climate campaign. On Thursday, May 7, the Swedish grandm...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gm-axel-smith-to-attempt-record-49-board-blindfold-simul",
+         "pubDate" : "Wed, 06 May 2026 09:48:27",
+         "title" : "Swedish GM Axel Smith To Attempt 49-Board Blindfold Record"
+      },
+      {
          "description" : "For most players, a six-month wait between Titled Tuesday victories would not be remarkable; hundreds play every single week, yet only a few dozen players have even won twice ever. But for all-time victories leader GM Hikaru Nakamura, months betwe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,7 +106,7 @@ news_feed (
          "title" : "Check is in the Mail, May 2026: Absolute Success!"
       },
       {
-         "description" : "Getting a new rule into the rulebook - or revising an old time rule - can take different paths before they are considered by the Delegates at their annual meeting. Changes can be proposed as motions at the Membership meeting, on the advanced Delegate's Meeting agenda, or live, at their meeting, by a Delegate. Some rules take a lot of debate, some do not. In the end the Delegates give the new wording a thumbs up, thumbs down, or a thumb that is parallel with the floor (undecided).A few columns ago we took a look some of the rules changes the 2025 Delegates debated. Once the smoke cleared, a few of those rules got sent off to the Rules Committee for another look see. The committee will report ",
+         "description" : "Getting a new rule into the rulebook - or revising an old time rule - can take different paths before they are considered by the Delegates at their annual meeting. Changes can be proposed as motions at the Membership meeting, on the advanced Delegates' Meeting agenda, or live, at their meeting, by a Delegate. Some rules take a lot of debate, some do not. In the end the Delegates give the new wording a thumbs up, thumbs down, or a thumb that is parallel with the floor (undecided).A few columns ago we took a look some of the rules changes the 2025 Delegates debated. Once the smoke cleared, a few of those rules got sent off to the Rules Committee for another look see. The committee will report ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/just-rules-rulebook-wanna-bes",
@@ -482,14 +522,6 @@ news_feed (
          "title" : "'Chess' Hits Spotify As Broadway Star Aaron Tveit Says He Plays \"Lots of Chess.com!\""
       },
       {
-         "description" : "GM Magnus Carlsen defeated GMs Denis Lazavik&#38;nbsp;and Jan-Krzysztof Duda, with a 3-2 score in both matches, to advance to the 2026 Chess.com Open Playoffs Grand Final. Just by reaching the Winners Final, however, Duda has earned one of the three q...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-2",
-         "pubDate" : "Fri, 24 Apr 2026 12:23:00",
-         "title" : "Carlsen Advances To Grand Final After Beating Lazavik, Duda"
-      },
-      {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -720,30 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/david-anton-guijarro-in-sole-lead-at-eicc2026-after-eight-played-rounds/",
          "pubDate" : "Wed, 15 Apr 2026 20:40:27",
          "title" : "David Anton Guijarro in sole lead at EICC2026 after eight played rounds"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130290400.cms\" />R Vaishali won the 2026 Women's Candidates with 8.5/14, earning €28,000 plus €2,200 per half-point, taking her total beyond €40,000. Her victory also secures a World Championship clash against Ju Wenjun, offering bigger prize money and global recognition in the next stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-money-did-r-vaishali-win-after-historic-womens-candidates-2026-victory/articleshow/130290400.cms",
-         "pubDate" : "Wed, 15 Apr 2026 17:29:45",
-         "title" : "How much money did R Vaishali win after Women's Candidates victory?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130288852.cms\" />R Vaishali created history by winning the 2026 Women's Candidates, earning the right to challenge China's reigning champion Ju Wenjun for the Women's World Chess Championship crown. She beat Kateryna Lagno in the final round after Divya Deshmukh held Bibisara Assaubayeva to a draw. Vaishali now faces reigning champion Ju Wenjun and is guaranteed €28,000 plus additional bonuses.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/historic-indias-r-vaishali-wins-womens-candidates-sets-up-world-cship-match-against-chinas-ju-wenjun/articleshow/130288852.cms",
-         "pubDate" : "Wed, 15 Apr 2026 16:27:48",
-         "title" : "Historic! India's Vaishali wins Women's Candidates, sets up World C'ship match"
-      },
-      {
-         "description" : " Javokhir Sindarov will play Gukesh for the World Chess Championship title later in the year. He confirmed his first place in the FIDE Candidates tournament in Cyprus with a draw against Anish Giri. Giri set Sindarov some problems but they weren't enough for a serious advantage at any point and a drawn rook and pawn endgame was reached. Giri looks set to finish second but he was obviously disappointed after the game. The women's Candidates continues its unpredictable course. Vaishali Rameshbabu survived an inferior position against Tan Zhongyi and this allowed Bibisara Assaubayeva to join her in the lead after beating Anna Muzychuk. The final day will be very tense. A tie will lead to a play",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-candidates-with-a-round-to-spare",
-         "pubDate" : "Wed, 15 Apr 2026 15:44:00",
-         "title" : "Javokhir Sindarov wins the FIDE Candidates with a round to spare - 13"
       }
    ]
 }
