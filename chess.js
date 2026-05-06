@@ -2,28 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Since Leon Mendonca and Aram Hakobyan were both visiting the ChessBase office, we handed them a beta version to puzzle fight each other. The app launched this weekend, it's free, and you can try Puzzle Fight yourself. Fair warning: it's hard to stop, as the video proves.",
+         "description" : "Arjun Erigaisi and Yagiz Kaan Erdogmus share the lead on 3&frac12; points after round five of the TePe Sigeman & Co tournament in Malm&ouml;. Erigaisi defeated Jorden van Foreest, while Erdogmus held a 104-move draw against Andy Woodward to remain atop the standings. Magnus Carlsen (pictured) bounced back from his loss to Van Foreest by beating Zhu Jiner, while Nils Grandelius drew quickly with Nodirbek Abdusattorov. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/puzzle-fight-leon-mendonca-and-aram-hakobyan-try-out-the-new-chessbase-app",
-         "pubDate" : "Wed, 06 May 2026 06:46:27",
-         "title" : "Puzzle Fight: Leon Mendonca and Aram Hakobyan try out the new ChessBase app"
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-5",
+         "pubDate" : "Wed, 06 May 2026 11:35:00",
+         "title" : "TePe Sigeman: Erigaisi joins Erdogmus in the lead, Carlsen defeats Zhu"
       },
       {
-         "description" : "The Super Rapid & Blitz Poland tournament opened in Warsaw, with the three first rounds of rapid chess leaving a five-way tie for first place in the standings. Fabiano Caruana, Javokhir Sindarov, Wesley So (pictured), Vladimir Fedoseev and Hans Niemann all scored 4/6, with Sindarov and Niemann the only unbeaten players among them. Gukesh Dommaraju finished one point behind, ahead of Wednesday's round-five clash with Sindarov, his future World Championship challenger. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-1",
-         "pubDate" : "Wed, 06 May 2026 02:15:00",
-         "title" : "Super Rapid & Blitz Poland: Five players share the lead on 4/6"
+         "description" : "We are delighted to share the news that Kayal Vijay has been crowned Under 9 Girls Champion at the European Schools Chess Championship 2026, held in Croatia from 27th April...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/kayal-vijay-under-9-girls-champion-european-schools/",
+         "pubDate" : "Wed, 06 May 2026 09:52:13",
+         "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
       },
       {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Tue, 05 May 2026 14:45:00",
-         "title" : "TePe Sigeman - Live!"
+         "description" : "For most players, a six-month wait between Titled Tuesday victories would not be remarkable; hundreds play every single week, yet only a few dozen players have even won twice ever. But for all-time victories leader GM Hikaru Nakamura, months betwe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-5-2026",
+         "pubDate" : "Wed, 06 May 2026 02:03:15",
+         "title" : "Nakamura Reasserts Control In Titled Tuesday"
       },
       {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
@@ -72,30 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-1",
          "pubDate" : "Tue, 05 May 2026 10:41:00",
          "title" : "Sindarov, Caruana, So, Niemann, Fedoseev All Share Lead On Opening Day"
-      },
-      {
-         "description" : "So many top chess tournaments taking place, all at the same time. How can you keep abreast? We will tell you how ChessBase provides you with all the live games. Take for example this exciting FIDE event, with former World Championship challenger Ian Nepomniachtchi, marking a rare appearance in an open. To follow this or many other tournaments, you just need to go to the ChessBase Live Broadcast page. Try it out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-the-world-chess-festival",
-         "pubDate" : "Tue, 05 May 2026 10:16:18",
-         "title" : "Watch the World Chess Festival"
-      },
-      {
-         "description" : "Yagiz Kaan Erdogmus (pictured) became the sole leader of the TePe Sigeman & Co Chess Tournament after beating Nils Grandelius on Monday, as the Turkish prodigy is the only player on a plus-two score with three rounds to go in Malm&ouml;. Jorden van Foreest scored his first-ever win over Magnus Carlsen in what turned out to be an exciting, 88-move battle, while Zhu Jiner defeated Andy Woodward. Nodirbek Abdusattorov and Arjun Erigaisi drew and are tied for second place with Van Foreest, half a point behind Erdogmus. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-4",
-         "pubDate" : "Tue, 05 May 2026 07:50:00",
-         "title" : "TePe Sigeman: Erdogmus becomes sole leader, Van Foreest beats Carlsen"
-      },
-      {
-         "description" : "It was a rainy night in Sivakasi, and there was a power cut, but it didn't stop 8-year-old Tamizh Amudhan from playing Freestyle Friday on chess.com. The laptop was on, the mobile hotspot was connected, the candle was lit, and the spirit was high as usual. It was 8:30 PM IST on 1 May when Tamizh Amudhan got paired up against elite GM Vincent Keymer, who recently qualified for the Freestyle World Championship 2027 after winning the Grenke Freestyle Chess tournament, and guess what happened? Check out the game in this article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tamizh-amudhan-beats-vincent-keymer",
-         "pubDate" : "Tue, 05 May 2026 02:00:00",
-         "title" : "8-year-old Tamizh Amudhan defeats Vincent Keymer: Against all odds"
       },
       {
          "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -480,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-2",
          "pubDate" : "Fri, 24 Apr 2026 12:23:00",
          "title" : "Carlsen Advances To Grand Final After Beating Lazavik, Duda"
-      },
-      {
-         "description" : "GM Nodirbek Yakubboev won his first Freestyle Friday on April 24, going undefeated to win outright with 10/11 points. The result nearly doubled his total in the Freestyle Friday Championship, moving him into fourth place on the leaderboard behind ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-april-24-2026",
-         "pubDate" : "Fri, 24 Apr 2026 12:08:54",
-         "title" : "Yakubboev Is Latest First-Time Freestyle Friday Winner"
       },
       {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
