@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The GCT Super Rapid & Blitz Poland takes place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
+         "pubDate" : "Wed, 6 May 2026 14:44:00",
+         "title" : "GCT Super Rapid & Blitz Poland 2026 - Games and Results"
+      },
+      {
+         "description" : " Arjun Erigaisi beat Jorden van Foreest in the fifth round of the 31st Sigeman & Co tournament in Malmo. van Foreest will probably be disappointed with his play and especially 25...e5 which directly led to his loss. Magnus Carlsen said that his play was shaky against Zhu Jiner and that he'd been outplayed in a key middlegame sequence. Zhu had the upper hand sometimes and Carlsen then got the advantage but let it go. The strange 33...Kf8 would have been equal and only with 36...Nxg3? was Carlsen winning. Andy Woodward was briefly winning against Yagiz Kaan Erdogmus, the game lasted 104 moves but the position remained stubbornly equal after he failed to find 37.h5! Absolutely no-one can blame ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-and-erdogmus-lead-the-sigeman-co-tournament-after-five-rounds",
+         "pubDate" : "Wed, 6 May 2026 14:10:00",
+         "title" : "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5"
+      },
+      {
+         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Gukesh Dommaraju and Javokhir Sindarov, who are set to play for the World Championship title later in the year, are among the participants. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
+         "pubDate" : "Wed, 06 May 2026 13:50:00",
+         "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who finished the event in the second place. Finnur Arnason (ISL) came third with 7 points. Sophia []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
+         "pubDate" : "Wed, 06 May 2026 11:36:06",
+         "title" : "European School Chess Champions 2026 crowned in Croatia"
+      },
+      {
          "description" : "Arjun Erigaisi and Yagiz Kaan Erdogmus share the lead on 3&frac12; points after round five of the TePe Sigeman & Co tournament in Malm&ouml;. Erigaisi defeated Jorden van Foreest, while Erdogmus held a 104-move draw against Andy Woodward to remain atop the standings. Magnus Carlsen (pictured) bounced back from his loss to Van Foreest by beating Zhu Jiner, while Nils Grandelius drew quickly with Nodirbek Abdusattorov. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-5-2026",
          "pubDate" : "Wed, 06 May 2026 02:03:15",
          "title" : "Nakamura Reasserts Control In Titled Tuesday"
+      },
+      {
+         "description" : "This issue of Check is in the Mail contains games (and puzzles) from the 2024 Absolute Championship tournament. As you will also see in the Front Office section, ICCF CCM Timothy Harris won the tournament. This is the first time Timothy has won an Absolute Championship tournament. Congratulations Timothy!With three of the six games provided in this issue containing a variation of the Ruy Lopez opening, it was clearly the most popular.Even though the typical six games are provided in this issue, as an added bonus, I have included all twelve games played by ICCF CCM Timothy Harris in the LiChess Study. Please note: Games not included in this issue may still be published in an upcoming issue. F",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-may-2026-absolute-success",
+         "pubDate" : "Wed, 06 May 2026 00:00:00",
+         "title" : "Check is in the Mail, May 2026: Absolute Success!"
+      },
+      {
+         "description" : "Getting a new rule into the rulebook - or revising an old time rule - can take different paths before they are considered by the Delegates at their annual meeting. Changes can be proposed as motions at the Membership meeting, on the advanced Delegate's Meeting agenda, or live, at their meeting, by a Delegate. Some rules take a lot of debate, some do not. In the end the Delegates give the new wording a thumbs up, thumbs down, or a thumb that is parallel with the floor (undecided).A few columns ago we took a look some of the rules changes the 2025 Delegates debated. Once the smoke cleared, a few of those rules got sent off to the Rules Committee for another look see. The committee will report ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-rulebook-wanna-bes",
+         "pubDate" : "Wed, 06 May 2026 00:00:00",
+         "title" : "Just the Rules: Rulebook Wanna Be(s)"
       },
       {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
@@ -336,22 +384,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-accepting-nominations-2026-dan-heisman-award-excellence-chess-instruction",
          "pubDate" : "Wed, 29 Apr 2026 00:00:00",
          "title" : "US Chess Accepting Nominations for 2026 Dan Heisman Award for Excellence in Chess Instruction"
-      },
-      {
-         "description" : "Today's exercises come from the just-concluded 2026 FIDE World Senior Team Championship, where USA and USA Women each won gold medals. For more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-fide-world-senior-team-championship",
-         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 FIDE World Senior Team Championship"
-      },
-      {
-         "description" : "Both official USA teams won gold medals in the 50+ section of the 2026 World Senior Team Championship. Team USA won gold with a 7&frac12;/9 score (six wins, three draws), finishing ahead of Italy on tiebreaks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA (Photo courtesy FIDE/Georgia Graspa)<br> <br> <br> <br> Team USA Women was the top-finishing women's team in the section, finishing with a 5/9 score (four wins, two draws, three losses) a half-point ahead of Czech Republic Women and Kazakhstan Women. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Team USA Women (Photo courtesy FIDE/Georgia Graspa)<br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/double-gold-usa-2026-fide-world-senior-team-championship",
-         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
-         "title" : "Double Gold for USA at 2026 FIDE World Senior Team Championship"
       },
       {
          "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
@@ -712,22 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/javokhir-sindarov-wins-the-fide-candidates-with-a-round-to-spare",
          "pubDate" : "Wed, 15 Apr 2026 15:44:00",
          "title" : "Javokhir Sindarov wins the FIDE Candidates with a round to spare - 13"
-      },
-      {
-         "description" : "The Candidates Tournaments form the final qualifying stage of the FIDE World Championship cycle. Each tournament features eight of the world's strongest players competing in a double round-robin format over fourteen rounds of classical chess. No fewer than six players (out of eight) enter the final round with mathematical chances of winning the Women's Candidates Tournament. | Follow the games live with expert commentary starting at 14.30 CEST (8.30 ET, 18.00 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2026-live",
-         "pubDate" : "Wed, 15 Apr 2026 14:15:00",
-         "title" : "Candidates Round 14 - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130282020.cms\" />Exclusive: Javokhir Sindarov won the 2026 FIDE Candidates Tournament, earning a World Championship match against D Gukesh. Germany No. 1 Vincent Keymer praised his aggressive and fearless style of play. \"It was easy for him to lose the first game,\" said Keymer as Uzbek prodigy sealed the title with a round to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/javokhir-sindarov-got-a-bit-lucky-germanys-no-1-vincent-keymer-on-critical-moment-in-candidates-2026-win-exclusive/articleshow/130282020.cms",
-         "pubDate" : "Wed, 15 Apr 2026 11:50:50",
-         "title" : "'Sindarov got lucky': German No. 1 Keymer on 'critical moment' | Exclusive"
       }
    ]
 }
