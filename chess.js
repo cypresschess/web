@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
+         "pubDate" : "Thu, 07 May 2026 11:50:00",
+         "title" : "TePe Sigeman - Live!"
+      },
+      {
          "description" : "Arjun Erigaisi took the sole lead at the TePe Sigeman & Co Chess Tournament after beating Zhu Jiner with black in round six. Magnus Carlsen also won with black, defeating Andy Woodward, and is now half a point behind the leader alongside Yagiz Kaan Erdogmus, who drew with Nodirbek Abdusattorov. Erigaisi will face Woodward in the final round, while Carlsen meets Erdogmus in a key encounter. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5"
       },
       {
-         "description" : "GMs Wesley So and Hans Niemann lead 2026 Super Rapid &#38;amp; Blitz Poland after six rounds, with GM Vladimir Fedoseev just one point behind in sole second. Lagging two points behind him are GMs Fabiano Caruana, Gukesh Dommaraju (who will be celebrat...",
+         "description" : "GMs Wesley So and Hans Niemann lead the 2026 Super Rapid &#38;amp; Blitz Poland after six rounds, with GM Vladimir Fedoseev just one point behind in sole second. Lagging two points behind him are GMs Fabiano Caruana, Gukesh Dommaraju (who will be cele...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-2",
@@ -98,7 +106,7 @@ news_feed (
          "title" : "Arjun Leads Carlsen, Erdogmus Before Final Round In Malmo"
       },
       {
-         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who finished the event in the second place. Finnur Arnason (ISL) came third with 7 points. Sophia []",
+         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who finished the event in the second place and as the best ranked boy in the event, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/behind-vaishalis-candidates-glory-is-a-19-year-old-boy-named-m-pranesh/articleshow/130307038.cms",
          "pubDate" : "Thu, 16 Apr 2026 12:38:35",
          "title" : "Behind Vaishali's Candidates glory is a 19-year-old boy named Pranesh"
-      },
-      {
-         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
-         "pubDate" : "Thu, 16 Apr 2026 08:35:54",
-         "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
       }
    ]
 }
