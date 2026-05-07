@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi took the sole lead at the TePe Sigeman & Co Chess Tournament after beating Zhu Jiner with black in round six. Magnus Carlsen also won with black, defeating Andy Woodward, and is now half a point behind the leader alongside Yagiz Kaan Erdogmus, who drew with Nodirbek Abdusattorov. Erigaisi will face Woodward in the final round, while Carlsen meets Erdogmus in a key encounter. | Photo: Peter Doggers / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-6",
+         "pubDate" : "Thu, 07 May 2026 08:35:00",
+         "title" : "TePe Sigeman: Erigaisi sole leader, Carlsen and Erdogmus a half point back"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/28th-asian-youth-chess-championships-2026-in-shenzhen-china-from-15th-to-25th-july-2026/",
+         "pubDate" : "Thu, 07 May 2026 07:20:46",
+         "title" : "28th Asian Youth Chess Championships - 2026 in Shenzhen, China from 15th to 25th July 2026"
+      },
+      {
+         "description" : "Wesley So (pictured) and Hans Niemann are tied for first place after day two of the Super Rapid & Blitz tournament in Warsaw, reaching 9/12 with six rapid rounds completed. Defending champion Vladimir Fedoseev stands one point behind, while Gukesh Dommaraju stands on fifty percent and, importantly, defeated Javokhir Sindarov with black in their first encounter since Sindarov gained the right to challenge the Indian star in a match for the world title. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-2",
+         "pubDate" : "Thu, 07 May 2026 05:50:00",
+         "title" : "Super Rapid & Blitz Poland: So and Niemann share the lead, Sindarov struggles"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130868475.cms\" />India's chess boom is inspiring young talents, but families face huge financial and logistical struggles behind the scenes. Parents spend lakhs on foreign tournaments, visas, travel, and coaching, often without sponsorship or federation support. Many also deal with poor tournament systems in India and scams abroad. Despite rising success stories like Vaishali and Gukesh, chess parents say survival in the sport remains extremely difficult.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/is-representing-india-worth-it-the-draining-family-cost-of-raising-a-chess-star/articleshow/130868475.cms",
+         "pubDate" : "Thu, 07 May 2026 03:30:00",
+         "title" : "Is representing India worth it? The draining family cost of raising a chess star"
+      },
+      {
          "description" : " The final round of the Sigeman & Co Chess Tournament in Malmo promises to be very tense after an interesting round 6. Arjun Erigaisi beat Zhu Jiner in an endgame where the Chinese player had a tricky defence in a holdable position. Magnus Carlsen chose the King's Indian against Andy Woodward which led to double edged play and eventually Carlsen brought home the full point. Carlsen will have white against Yagiz Kaan Erdogmus in what will be a must win game for both of them and their first classical meeting. Jorden Van Foreest was winning against Nils Grandelius but missed his chance and had to settle for a draw. Round 6 Standings: 1st Erigaisi 4.5pts 2nd= Carlsen, Erdogmus 4pts, 4th Abdusatt",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
          "pubDate" : "Wed, 6 May 2026 23:01:00",
          "title" : "Erigaisi leads the Sigeman tournament alone with one round to go - 6"
-      },
-      {
-         "description" : "For the 59th consecutive year, Biel/Bienne will host its prestigious International Chess Festival. From 11 to 24 July 2026, over the course of two weeks, more than 500 participants - ranging from ambitious amateurs to the world's elite - will showcase their creativity, tactical finesse and strategic depth across a variety of formats. Below is an overview of the twelve tournaments, offering the chance to play alongside living chess legends such as Levon Aronian and Alexandra Kosteniuk, as well as rising star Lu Miaoyi (pictured). Matthias Bl&uuml;baum and Candidates Tournament winner Vaishali Rameshbabu will also play. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/something-for-everyone-the-59th-biel-international-chess-festival-11-to-24-july",
-         "pubDate" : "Wed, 06 May 2026 21:00:00",
-         "title" : "Something for everyone: The 59th Biel International Chess Festival - 11 to 24 July"
       },
       {
          "description" : "Discover the secrets of the Hippopotamus Defense with Andrew Martin, a unique and flexible opening that thrives on patience, timing, and psychological pressure. This course shows why many aggressive players fail against the Hippo, often attacking too early and falling into devastating counterplay. Learn how to stay calm, choose the right moment to strike, and turn this seemingly passive setup into a powerful weapon against your opponents.",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5"
       },
       {
-         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Gukesh Dommaraju and Javokhir Sindarov, who are set to play for the World Championship title later in the year, are among the participants. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
-         "pubDate" : "Wed, 06 May 2026 13:50:00",
-         "title" : "Super Rapid & Blitz Poland - Live!"
-      },
-      {
          "description" : "GMs Wesley So and Hans Niemann lead 2026 Super Rapid &#38;amp; Blitz Poland after six rounds, with GM Vladimir Fedoseev just one point behind in sole second. Lagging two points behind him are GMs Fabiano Caruana, Gukesh Dommaraju (who will be celebrat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
          "pubDate" : "Wed, 06 May 2026 11:36:06",
          "title" : "European School Chess Champions 2026 crowned in Croatia"
-      },
-      {
-         "description" : "Arjun Erigaisi and Yagiz Kaan Erdogmus share the lead on 3&frac12; points after round five of the TePe Sigeman & Co tournament in Malm&ouml;. Erigaisi defeated Jorden van Foreest, while Erdogmus held a 104-move draw against Andy Woodward to remain atop the standings. Magnus Carlsen (pictured) bounced back from his loss to Van Foreest by beating Zhu Jiner, while Nils Grandelius drew quickly with Nodirbek Abdusattorov. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-5",
-         "pubDate" : "Wed, 06 May 2026 11:35:00",
-         "title" : "TePe Sigeman: Erigaisi joins Erdogmus in the lead, Carlsen defeats Zhu"
       },
       {
          "description" : "We are delighted to share the news that Kayal Vijay has been crowned Under 9 Girls Champion at the European Schools Chess Championship 2026, held in Croatia from 27th April...",
@@ -720,22 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
          "pubDate" : "Thu, 16 Apr 2026 08:35:54",
          "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "GM Vaishali R will challenge Ju Wenjun for the Women's World Chess Championship after winning the FIDE Women's Candidates Tournament 2026 outright with an impressive",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-triumph-r-vaishali-wins-candidates-earns-world-championship-match-against-ju-wenjun/",
-         "pubDate" : "Thu, 16 Apr 2026 05:57:32",
-         "title" : "Historic Triumph: R Vaishali wins Candidates, earns World Championship match against Ju Wenjun,"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130297371.cms\" />Indian chess sees a historic moment as R Vaishali secures a spot in the Women's World Championship match. She will challenge China's Ju Wenjun later this year. This achievement, alongside Praggnanandhaa's potential challenge in the men's section, marks twin Indian representation at the highest chess boards. Vaishali's victory as the lowest seed is a significant feat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/queens-gambit-vaishali-triumphs-in-candidates-will-vie-for-world-title/articleshow/130297371.cms",
-         "pubDate" : "Thu, 16 Apr 2026 04:06:09",
-         "title" : "Queen's Gambit: Vaishali triumphs in Candidates, will vie for world title"
       }
    ]
 }
