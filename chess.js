@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-wins-the-31st-sigeman-co-tournament-after-tie-break-win-over-erigaisi",
+         "pubDate" : "Thu, 7 May 2026 22:32:00",
+         "title" : "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7"
+      },
+      {
+         "description" : "Hans Niemann won the rapid section of the Super Rapid & Blitz tournament in Warsaw, scoring 13/18 as the only unbeaten player across the nine rounds. The 22-year-old Californian enters the 18 blitz rounds with a one-point lead over Wesley So and a two-point lead over defending champion Vladimir Fedoseev, while Fabiano Caruana, Gukesh Dommaraju and Jan-Krzysztof Duda share fourth place on 9/18. | Pictured: Hans Niemann and commentator Cristian Chirila | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-3",
+         "pubDate" : "Thu, 07 May 2026 21:50:00",
+         "title" : "Super Rapid & Blitz Poland: Niemann wins rapid section"
+      },
+      {
          "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Entering the third day of rapid action, Wesley So and Hans Niemann are tied for first place. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-3",
-         "pubDate" : "Thu, 07 May 2026 09:40:19",
+         "pubDate" : "Thu, 07 May 2026 09:40:00",
          "title" : "Niemann Leads After Rapid Segment, 18 Blitz Games To Go"
       },
       {
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-7",
-         "pubDate" : "Thu, 07 May 2026 09:34:51",
+         "pubDate" : "Thu, 07 May 2026 09:34:00",
          "title" : "Carlsen Beats Erdogmus, Arjun To Win TePe Sigeman Chess"
       },
       {
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/out-of-r-praggnanandhaas-shadow-vaishali-akka-stands-tall/articleshow/130323040.cms",
          "pubDate" : "Fri, 17 Apr 2026 04:46:15",
          "title" : "Out of R Praggnanandhaa's shadow, Vaishali 'akka' stands tall"
-      },
-      {
-         "description" : "Nine rounds have been played at the European Individual Chess Championship 2026 and there are only two rounds left before the announcement of the new European Champion. GM Nijat Abasov (AZE, 2586) and GM David Anton Guijarro (ESP, 2656) are in the joint lead ahead of the second free day, with the score of 7.5 points each. Playing on the top board today, GM David Anton Guijarro (ESP, 2656) drew with blacks against GM Aydin Suleymanli (AZE, 2653). The Spanish []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/nijat-abasov-and-david-anton-guijarro-in-joint-lead-at-eicc2026-after-nine-rounds/",
-         "pubDate" : "Thu, 16 Apr 2026 20:16:07",
-         "title" : "Nijat Abasov and David Anton Guijarro in joint lead at EICC2026 after nine rounds"
       }
    ]
 }
