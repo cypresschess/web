@@ -26,6 +26,22 @@ news_feed (
          "title" : "TePe Sigeman - Live!"
       },
       {
+         "description" : "GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after nine rounds of rapid chess, with 18 rounds of blitz to come in the next two days. A win against GM Jan-Krzysztof Duda in round eight, accompanied by two draws, was enough to break...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-3",
+         "pubDate" : "Thu, 07 May 2026 09:40:19",
+         "title" : "Niemann Leads After Rapid Segment, 18 Blitz Games To Go"
+      },
+      {
+         "description" : "GM Magnus Carlsen has won the 2026 TePe Sigeman Chess Tournament after grinding out a trademark classical win over GM Yagiz Kaan Erdogmus and then beating GM Arjun Erigaisi 2-1 in blitz tiebreaks. Arjun began the day as sole leader but needed luck...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-7",
+         "pubDate" : "Thu, 07 May 2026 09:34:51",
+         "title" : "Carlsen Beats Erdogmus, Arjun To Win TePe Sigeman Chess"
+      },
+      {
          "description" : "Arjun Erigaisi took the sole lead at the TePe Sigeman & Co Chess Tournament after beating Zhu Jiner with black in round six. Magnus Carlsen also won with black, defeating Andy Woodward, and is now half a point behind the leader alongside Yagiz Kaan Erdogmus, who drew with Nodirbek Abdusattorov. Erigaisi will face Woodward in the final round, while Carlsen meets Erdogmus in a key encounter. | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Carlsen Wins Chess.com Open, Recovers From Tough Start Vs. Duda"
       },
       {
-         "description" : "GM Arjun Erigaisi has rocketed up Bullet Brawl&#39;s all-time leaderboard after fending off GM Oleksander Bortnyk and notching his second straight $400 victory on Saturday. With Bortnyk breathing down his neck for most of the arena, Arjun held his ner...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-april-25-2026",
-         "pubDate" : "Sat, 25 Apr 2026 22:12:00",
-         "title" : "Arjun Overcomes Bortnyk In Battle For Bullet Brawl Glory"
-      },
-      {
          "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/why-chess-improvement-planning-is-frustratin/",
          "pubDate" : "Sat, 25 Apr 2026 13:00:00",
          "title" : "Why Planning Can Be So Frustrating (But Important)"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda will have a rematch with GM Magnus Carlsen in the Grand Final of the 2026 Chess.com Open Playoffs. On Saturday, the Polish star won the Losers Final 1.5-0.5 with the black pieces in a sharp Nimzo-Indian Defense against GM Den...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-3",
-         "pubDate" : "Sat, 25 Apr 2026 11:24:00",
-         "title" : "Duda Sets Up Rematch Vs. Carlsen In Grand Final"
       },
       {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/nijat-abasov-and-david-anton-guijarro-in-joint-lead-at-eicc2026-after-nine-rounds/",
          "pubDate" : "Thu, 16 Apr 2026 20:16:07",
          "title" : "Nijat Abasov and David Anton Guijarro in joint lead at EICC2026 after nine rounds"
-      },
-      {
-         "description" : "Preparations are fully underway for the FIDE World Team Rapid and Blitz Chess Championships 2026 in Hong Kong from 16 to 22 June. In previous editions, the tournament has featured numerous top players competing alongside amateurs and rising talents, producing a dynamic atmosphere rarely seen in traditional elite events. Magnus Carlsen is expected to participate in Hong Kong, adding further star power to the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/regulations-for-2026-fide-team-rapid-and-blitz",
-         "pubDate" : "Thu, 16 Apr 2026 16:00:00",
-         "title" : "Regulations for FIDE Rapid and Blitz"
       }
    ]
 }
