@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Entering the third day of rapid action, Wesley So and Hans Niemann are tied for first place. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
+         "pubDate" : "Thu, 07 May 2026 13:50:00",
+         "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "Please find the link below to download the book. 1.Book 1 2. Book 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-in-schools-book/",
+         "pubDate" : "Thu, 07 May 2026 11:50:51",
+         "title" : "CHESS IN SCHOOLS BOOK"
+      },
+      {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -126,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gm-axel-smith-to-attempt-record-49-board-blindfold-simul",
-         "pubDate" : "Wed, 06 May 2026 09:48:27",
+         "pubDate" : "Wed, 06 May 2026 09:48:00",
          "title" : "Swedish GM Axel Smith To Attempt 49-Board Blindfold Record"
       },
       {
@@ -136,6 +152,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-5-2026",
          "pubDate" : "Wed, 06 May 2026 02:03:15",
          "title" : "Nakamura Reasserts Control In Titled Tuesday"
+      },
+      {
+         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Elementary School Championships. These photos are categorized and tagged to the best of our ability.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Side Events:K6 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> K-6 Blitz winner Viyaan Krishna Doddapaneni. (Photo by Caroline King)<br> <br> <br> <br> K3 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-nes-photo-report-assorted-medalists",
+         "pubDate" : "Wed, 06 May 2026 00:00:00",
+         "title" : "2026 NES Photo Report: Assorted Medalists"
       },
       {
          "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 1 through 3, the US Chess National Elementary School Championships take place in Baltimore, MD! This national event features some of the best scholastic chess players in the United States and US Chess is proud to host this exciting event.First thing's first, registration is still open until 10:00 a.m. EDT on Friday, May 1. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Elementary School Championships! With four special guests, you'll also want to bookmark the special gu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-national-elementary-school-championship-preview",
-         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
-         "title" : "2026 National Elementary School Championship Preview! "
-      },
-      {
          "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/regulations-for-2026-fide-team-rapid-and-blitz",
          "pubDate" : "Thu, 16 Apr 2026 16:00:00",
          "title" : "Regulations for FIDE Rapid and Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130307038.cms\" />2025 saw third edition of Chennai Grand Masters. R Vaishali, the nation's toast at the moment, was invited to compete in the Challengers section, which includes relatively lower-rated players than the Masters field. Vaishali had a nightmarish tournament, finishing rock bottom. The winner of the Challengers section was Munirethinam Pranesh, a baby-faced assassin on the board.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/behind-vaishalis-candidates-glory-is-a-19-year-old-boy-named-m-pranesh/articleshow/130307038.cms",
-         "pubDate" : "Thu, 16 Apr 2026 12:38:35",
-         "title" : "Behind Vaishali's Candidates glory is a 19-year-old boy named Pranesh"
       }
    ]
 }
