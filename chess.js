@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The final round of the Sigeman & Co Chess Tournament in Malmo promises to be very tense after an interesting round 6. Arjun Erigaisi beat Zhu Jiner in an endgame where the Chinese player had a tricky defence in a holdable position. Magnus Carlsen chose the King's Indian against Andy Woodward which led to double edged play and eventually Carlsen brought home the full point. Carlsen will have white against Yagiz Kaan Erdogmus in what will be a must win game for both of them and their first classical meeting. Jorden Van Foreest was winning against Nils Grandelius but missed his chance and had to settle for a draw. Round 6 Standings: 1st Erigaisi 4.5pts 2nd= Carlsen, Erdogmus 4pts, 4th Abdusatt",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
+         "pubDate" : "Wed, 6 May 2026 23:01:00",
+         "title" : "Erigaisi leads the Sigeman tournament alone with one round to go - 6"
+      },
+      {
          "description" : "For the 59th consecutive year, Biel/Bienne will host its prestigious International Chess Festival. From 11 to 24 July 2026, over the course of two weeks, more than 500 participants - ranging from ambitious amateurs to the world's elite - will showcase their creativity, tactical finesse and strategic depth across a variety of formats. Below is an overview of the twelve tournaments, offering the chance to play alongside living chess legends such as Levon Aronian and Alexandra Kosteniuk, as well as rising star Lu Miaoyi (pictured). Matthias Bl&uuml;baum and Candidates Tournament winner Vaishali Rameshbabu will also play. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,22 @@ news_feed (
          "title" : "Super Rapid & Blitz Poland - Live!"
       },
       {
+         "description" : "GMs Wesley So and Hans Niemann lead 2026 Super Rapid &#38;amp; Blitz Poland after six rounds, with GM Vladimir Fedoseev just one point behind in sole second. Lagging two points behind him are GMs Fabiano Caruana, Gukesh Dommaraju (who will be celebrat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-2",
+         "pubDate" : "Wed, 06 May 2026 13:18:00",
+         "title" : "So, Niemann Share Lead; Gukesh Beats Sindarov With Fist Pump"
+      },
+      {
+         "description" : "GM Arjun Erigaisi ground out a 67-move win over GM Zhu Jiner to go into the final round of the 2026 TePe Sigeman Chess Tournament as the sole leader on 4.5/6. GM Magnus Carlsen is half a point back after using the King&#39;s Indian Defense to take dow...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-6",
+         "pubDate" : "Wed, 06 May 2026 12:41:00",
+         "title" : "Arjun Leads Carlsen, Erdogmus Before Final Round In Malmo"
+      },
+      {
          "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who finished the event in the second place. Finnur Arnason (ISL) came third with 7 points. Sophia []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-5-2026",
          "pubDate" : "Wed, 06 May 2026 02:03:15",
          "title" : "Nakamura Reasserts Control In Titled Tuesday"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-1",
+         "pubDate" : "Wed, 06 May 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 1"
       },
       {
          "description" : "This issue of Check is in the Mail contains games (and puzzles) from the 2024 Absolute Championship tournament. As you will also see in the Front Office section, ICCF CCM Timothy Harris won the tournament. This is the first time Timothy has won an Absolute Championship tournament. Congratulations Timothy!With three of the six games provided in this issue containing a variation of the Ruy Lopez opening, it was clearly the most popular.Even though the typical six games are provided in this issue, as an added bonus, I have included all twelve games played by ICCF CCM Timothy Harris in the LiChess Study. Please note: Games not included in this issue may still be published in an upcoming issue. F",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "2026 National Elementary School Championship Preview! "
       },
       {
-         "description" : "US Chess is accepting nominations for the Dan Heisman Award for Excellence in Chess Instruction.This annual award recognizes a chess instructor who has demonstrated long-standing commitment to developing chess players, in service to the chess and broader communities. A chess instructor is a teacher first and foremost. While a coach often has these same attributes, an instructor conveys a broader concept.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> Dan Heisman in 2007<br> <br> <br> This award is made possible through a generous gift from Dan Heisman, whose family has a long history of supporting philanthropic causes.\"It occurred to me that there was no award recognizing ex",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-accepting-nominations-2026-dan-heisman-award-excellence-chess-instruction",
-         "pubDate" : "Wed, 29 Apr 2026 00:00:00",
-         "title" : "US Chess Accepting Nominations for 2026 Dan Heisman Award for Excellence in Chess Instruction"
-      },
-      {
          "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -504,22 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chesscom-open-playoffs-day-3",
          "pubDate" : "Sat, 25 Apr 2026 11:24:00",
          "title" : "Duda Sets Up Rematch Vs. Carlsen In Grand Final"
-      },
-      {
-         "description" : "GMs Amin Tabatabaei, Haik Martirosyan, and Oleksandr Bortnyk won 3 0 Thursday tournaments on April 23. No one had a smooth run to the title as GM Jose Martinez, one of the top Thursday performers this year, made the podium in each event, but could...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tabatabaei-martirosyan-bortnyk-3-0-thursday-04-23-2026",
-         "pubDate" : "Fri, 24 Apr 2026 20:43:00",
-         "title" : "Tabatabaei, Martirosyan, Bortnyk Win Wild Week Of 3 0 Thursdays"
-      },
-      {
-         "description" : "The 2025 Broadway Cast Recording of Chess, the cult-favorite musical set against a Cold War-era world championship match, has officially dropped on Spotify and other streaming platforms.&#38;nbsp; The show returned to Broadway in New York last fall ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-cast-recording-drops-on-spotify",
-         "pubDate" : "Fri, 24 Apr 2026 13:30:50",
-         "title" : "'Chess' Hits Spotify As Broadway Star Aaron Tveit Says He Plays \"Lots of Chess.com!\""
       },
       {
          "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
@@ -728,30 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/queens-gambit-vaishali-triumphs-in-candidates-will-vie-for-world-title/articleshow/130297371.cms",
          "pubDate" : "Thu, 16 Apr 2026 04:06:09",
          "title" : "Queen's Gambit: Vaishali triumphs in Candidates, will vie for world title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130295968.cms\" />Playing white pieces while chasing a result, players often get greedy and make more adventurous, attacking moves on the board, weakening their defence in the process. Vaishali had white pieces. She was up against Russia's Kateryna Lagno, a mother of four and quite brilliant at keeping a poker face on the table. Vaishali had to be brave to overcome the challenge posed by the veteran, and she did so with a clinical precision that belied the stakes.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-how-indias-r-vaishali-caged-lagnos-dragon-to-claim-historic-womens-candidates-2026-title/articleshow/130295968.cms",
-         "pubDate" : "Thu, 16 Apr 2026 02:12:04",
-         "title" : "Explained: How Vaishali caged Lagno's 'dragon' to claim historic Women's Candidates title"
-      },
-      {
-         "description" : " Vaishali Rameshbabu took her opportunities in the final round of the Women's Candidates tournament to beat Kateryna Lagno and combined with Bibisara Assaubayeva's draw with Divya Deshmukh meant she took clear first place. Vaishali's win means she will play the champion since 2018, Ju Wenjun. Vaishali is the elder sister of Praggnanandhaa. Anna Muzychuk drew with Zhu Jiner and Aleksandra Goryachkina beat Tan Zhongyi in the remaining games. Javokhir Sindarov had already sewn up the Candidates in Round 13 and he engineered a very quick draw against Wei Yi to finish on +6 undefeated. Matthias Bluebaum came in a fighting mood against Anish Giri but it's not really his style and Giri impressively",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/vaishali-wins-the-womens-candidates-tournament",
-         "pubDate" : "Wed, 15 Apr 2026 22:43:00",
-         "title" : "Vaishali wins the Women's Candidates Tournament - 14"
-      },
-      {
-         "description" : "GM David Anton Guijarro emerged as the sole leader of the European Individual Chess Championship 2026 after eight played rounds! GM David Anton Guijarro (ESP, 2656) today scored an important win over GM Jan Malek (POL, 2533) with the white pieces. The Spanish representative opted for positional play in the Queen's Gambit opening, and earned the clear edge in the late middlegame. Pressured on the Kingside, Jan Malek made a decisive mistake with 34g5? immediately giving the winning advantage to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/david-anton-guijarro-in-sole-lead-at-eicc2026-after-eight-played-rounds/",
-         "pubDate" : "Wed, 15 Apr 2026 20:40:27",
-         "title" : "David Anton Guijarro in sole lead at EICC2026 after eight played rounds"
       }
    ]
 }
