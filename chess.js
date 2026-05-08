@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently we had the remarkable British rapid chess champion Bodhana Sivanandan, 11 years old, for a visit. Now we learn that English chess has found another primary school super-talent: nine-year-old Kayal Vijay, from Hertfordshire, triumphed at the 2026 European School Chess Championships in Croatia. The two London schoolgirls have something in common: Indian heritage.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-s-new-chess-star-is-nine",
+         "pubDate" : "Fri, 08 May 2026 18:00:00",
+         "title" : "England's new chess star is nine!"
+      },
+      {
          "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Hans Niemann won the rapid section ahead of the 18 rounds of blitz that take place on Friday and Saturday. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/super-poland-2026-live",
          "pubDate" : "Fri, 08 May 2026 13:50:00",
          "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "GMs Jose Martinez and Alexey Sarana have been scoring victories in 3 0 Thursday tournaments since the very first day of the event, and both players added to their trophy cases on May 7. Sarana won the first tournament of the day before finishing h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-martinez-martinez-3-0-thursday-05-07-2026",
+         "pubDate" : "Fri, 08 May 2026 10:41:11",
+         "title" : "Martinez, Sarana Dominate 3 0 Thursday Tournaments"
       },
       {
          "description" : "Bent Larsen was the strongest chess player in Danish history and, for many years, the leading Western challenger behind Bobby Fischer, winning the Danish Championship six times and achieving major international successes. This ChessBase training course explores his brilliant attacking style, creative positional ideas, and opening innovations such as 1.b3 and his contributions to the Accelerated Dragon, while also examining his middlegame, endgame, and tactical mastery. Renowned experts including Peter Heine Nielsen, Dorian Rogozenco, Mihail Marin, Karsten M&uuml;ller, and Oliver Reeh provide deep analysis, personal stories, and insights into Larsen's unique chess legacy.",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/malmo-chess-magnus-carlsen-lords-over-yagiz-kaan-arjun-erigaisi-for-another-elite-title/articleshow/130948057.cms",
          "pubDate" : "Fri, 08 May 2026 04:26:20",
          "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
+      },
+      {
+         "description" : "Editor's Note: This article is written by 13-year-old Pranavi Pramod, who is in the top 50 ratings list for girls of her age. She is also one of the youngest tournament directors (TDs) in the country (TDs must be at least 13 years old to enroll in the mandatory SafeSport training).Thanks to a 2025 US Chess Women grant, Pranavi was able to work with the Fremont Chess Club and the Mission San Jose Elementary (MSJE) affiliate to not only organize the 2026 Fremont All-Girls Chess Championship, but to make it free for all entrants.The inaugural Fremont All-Girls Chess Championship was held on April 26, 2026, at the Warm Springs Community Center in Fremont, California.In recent years, female membe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-fremont-all-girls-chess-championship-uses-us-chess-women-grant-make-chess-accessible",
+         "pubDate" : "Fri, 08 May 2026 00:00:00",
+         "title" : "2026 Fremont All-Girls Chess Championship Uses US Chess Women Grant to Make Chess Accessible"
       },
       {
          "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "SNA Seminar & Exam on 16 & 17 May 2026 at Swami Vivekanand International School, Kandivali (West), Mumbai."
       },
       {
-         "description" : "The 2026 National Elementary School Championships are underway in Baltimore! With a record-breaking 2,500+ participants, this tournament will be one to remember. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> With all the chess, special guests, and side events, the biggest challenge is remembering to step outside of the sleek, spacious Baltimore Convention Center to take in stunning views of the harbor. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Danah Denice of Heidnseek Entertainment, LLC performed the nati",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-elementary-school-championships-break-attendance-record-baltimore",
-         "pubDate" : "Sat, 02 May 2026 00:00:00",
-         "title" : "National Elementary School Championships Break Attendance Record in Baltimore"
-      },
-      {
          "description" : " There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she made an incomprehensible blunder 23.Nd4? which was met by the absolutely obvious Rc8 and her position collapsed. Magnus Carlsen faced Arjun Erigaisi's Petroff, an opening that proved successful in the Candidates, a couple of times it seemed like Carlsen was getting somewhere but he had to settle for a draw. Jorden van Foreest also looked like he might have something but after 20.Re1 it was dead equal. Round 1 Standings: 1st= Abdusattorov, Wo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alexandra-botez-kids-vs-stars-episode-7",
          "pubDate" : "Tue, 28 Apr 2026 07:27:00",
          "title" : "Alexandra Botez Wins 7th Kids Vs. Stars"
-      },
-      {
-         "description" : "Millions of viewers of Jeopardy!&#38;mdash;one of America&#38;rsquo;s most popular TV shows&#38;mdash;saw a dramatic shakeup on Monday when IM Greg Shahade dethroned one of its most dominant contestants ever. Jamie Ding had become a popular personality duri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/greg-shahade-wins-jeopardy-ends-champion-dings-31-game-streak",
-         "pubDate" : "Tue, 28 Apr 2026 03:52:00",
-         "title" : "IM Greg Shahade Wins Jeopardy, Ends Ding's 31-Game Streak"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
