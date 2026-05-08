@@ -10,12 +10,28 @@ news_feed (
          "title" : "England's new chess star is nine!"
       },
       {
+         "description" : "Even by ending the day with three losses, GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after the first nine rounds of blitz. GM Wesley So wasn&#39;t able to catch up as he lost two out of the last four games himself, making draws in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-4",
+         "pubDate" : "Fri, 08 May 2026 14:50:00",
+         "title" : "Niemann Leads By Half A Point; So, Caruana, Fedoseev Catch Up"
+      },
+      {
          "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Hans Niemann won the rapid section ahead of the 18 rounds of blitz that take place on Friday and Saturday. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/super-poland-2026-live",
          "pubDate" : "Fri, 08 May 2026 13:50:00",
          "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "GM Vincent Keymer won Freestyle Friday on May 8 by a full point, scoring 9.5/11 ahead of IM Marco Materia and GM Pranav Venkatesh. Keymer only scored 0.5/2 against Materia and Pranav individually, but won every other game to become the first playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-may-8-2026",
+         "pubDate" : "Fri, 08 May 2026 12:35:24",
+         "title" : "Keymer Wins On First Official Freestyle Friday Broadcast"
       },
       {
          "description" : "GMs Jose Martinez and Alexey Sarana have been scoring victories in 3 0 Thursday tournaments since the very first day of the event, and both players added to their trophy cases on May 7. Sarana won the first tournament of the day before finishing h...",
@@ -560,22 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-chess-championship-2026",
          "pubDate" : "Wed, 29 Apr 2026 08:11:00",
          "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
-      },
-      {
-         "description" : "Chess.com Open runner-up GM Jan-Krzysztof Duda, who qualified for the 2026 Esports World Cup with the result, followed up by winning Titled Tuesday on April 28. Propelled by an 8/8 start, Duda would only score half a point in the next two rounds, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-april-28-2026",
-         "pubDate" : "Tue, 28 Apr 2026 11:23:46",
-         "title" : "Duda Abides Late Loss, Recovers To Win Titled Tuesday"
-      },
-      {
-         "description" : "WFM Alexandra Botez got off to a shaky start in the seventh episode of Kids vs. Stars when she found herself lost in seven moves against her 13-year-old Canadian compatriot WFM Ashley Qian. That game couldn&#39;t be saved, but despite serious time tro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexandra-botez-kids-vs-stars-episode-7",
-         "pubDate" : "Tue, 28 Apr 2026 07:27:00",
-         "title" : "Alexandra Botez Wins 7th Kids Vs. Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
