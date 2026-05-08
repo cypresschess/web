@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bent Larsen was the strongest chess player in Danish history and, for many years, the leading Western challenger behind Bobby Fischer, winning the Danish Championship six times and achieving major international successes. This ChessBase training course explores his brilliant attacking style, creative positional ideas, and opening innovations such as 1.b3 and his contributions to the Accelerated Dragon, while also examining his middlegame, endgame, and tactical mastery. Renowned experts including Peter Heine Nielsen, Dorian Rogozenco, Mihail Marin, Karsten M&uuml;ller, and Oliver Reeh provide deep analysis, personal stories, and insights into Larsen's unique chess legacy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-vol-20-bent-larsen",
+         "pubDate" : "Fri, 08 May 2026 08:00:00",
+         "title" : "Master Class Vol.20 - Bent Larsen"
+      },
+      {
+         "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, making a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezed through to a blitz ­playoff in Thursday's final round after ­Turkey's 14-year-old ­talent Yagiz Kaan Erdogmus ­blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.co",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/may/08/chess-magnus-carlsen-enjoys-narrow-win-in-malmo-during-rare-classical-outing",
+         "pubDate" : "Fri, 08 May 2026 07:00:39",
+         "title" : "Chess: Magnus Carlsen enjoys narrow win in Malm&ouml; during rare classical outing"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130948057.cms\" />Magnus Carlsen clinched the TePe Sigeman &amp; Co. chess title in Malmo after a dramatic classical win against Yagiz Kaan and two decisive blitz victories over Arjun Erigaisi. Carlsen's resilience in the classical phase, forcing complex endgames, proved pivotal. Erigaisi fought valiantly, securing a draw in the classical finale and winning one blitz tiebreak before Carlsen ultimately triumphed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/malmo-chess-magnus-carlsen-lords-over-yagiz-kaan-arjun-erigaisi-for-another-elite-title/articleshow/130948057.cms",
+         "pubDate" : "Fri, 08 May 2026 04:26:20",
+         "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
+      },
+      {
          "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-poland-2026-3",
          "pubDate" : "Thu, 07 May 2026 21:50:00",
          "title" : "Super Rapid & Blitz Poland: Niemann wins rapid section"
-      },
-      {
-         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Entering the third day of rapid action, Wesley So and Hans Niemann are tied for first place. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
-         "pubDate" : "Thu, 07 May 2026 13:50:00",
-         "title" : "Super Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "Please find the link below to download the book. 1.Book 1 2. Book 2",
@@ -720,22 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-vaishali-world-chess-championship-matches-to-be-held-together-heres-what-we-know/articleshow/130333208.cms",
          "pubDate" : "Fri, 17 Apr 2026 12:43:28",
          "title" : "Gukesh, Vaishali World Chess C'ship matches to be held together? Here's what we know"
-      },
-      {
-         "description" : " The Uzbek 20-year-old won first prize unbeaten but his girlfriend, Bibisara Assaubayeva, finished second to the lowest seed in the Women's Candidates Javokhir Sindarov finished with a record total in the world championship Candidates in Pegeia, western Cyprus, as the 20-year-old from Uzbekistan won the competition with a record 10/14 total, 1.5 points clear of his nearest rival, Anish Giri. The Women's Candidates was won by India's 24-year-old Vaishali Rameshbabu, half a point ahead of Kazakhstan's Bibisara Assaubayeva, who is also Sindarov's girlfriend. Sindarov dominated the field with a controlled display reminiscent of the old Soviet master Mikhail Botvinnik. His pre-game preparation wa",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event",
-         "pubDate" : "Fri, 17 Apr 2026 07:00:24",
-         "title" : "Chess: Sindarov wins Candidates with record total, while Vaishali takes women's event"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130323040.cms\" />R Vaishali secured a remarkable victory at the Candidates, overcoming Kateryna Lagno to earn a spot in the World Championship match. Her triumph, achieved as the lowest-rated player in the field, signifies her emergence from her brother Praggnanandhaa's shadow, fulfilling her ambition to forge her own legacy in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/out-of-r-praggnanandhaas-shadow-vaishali-akka-stands-tall/articleshow/130323040.cms",
-         "pubDate" : "Fri, 17 Apr 2026 04:46:15",
-         "title" : "Out of R Praggnanandhaa's shadow, Vaishali 'akka' stands tall"
       }
    ]
 }
