@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Hans Niemann won the rapid section ahead of the 18 rounds of blitz that take place on Friday and Saturday. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
+         "pubDate" : "Fri, 08 May 2026 13:50:00",
+         "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
          "description" : "Bent Larsen was the strongest chess player in Danish history and, for many years, the leading Western challenger behind Bobby Fischer, winning the Danish Championship six times and achieving major international successes. This ChessBase training course explores his brilliant attacking style, creative positional ideas, and opening innovations such as 1.b3 and his contributions to the Accelerated Dragon, while also examining his middlegame, endgame, and tactical mastery. Renowned experts including Peter Heine Nielsen, Dorian Rogozenco, Mihail Marin, Karsten M&uuml;ller, and Oliver Reeh provide deep analysis, personal stories, and insights into Larsen's unique chess legacy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/08/chess-magnus-carlsen-enjoys-narrow-win-in-malmo-during-rare-classical-outing",
          "pubDate" : "Fri, 08 May 2026 07:00:39",
          "title" : "Chess: Magnus Carlsen enjoys narrow win in Malm&ouml; during rare classical outing"
+      },
+      {
+         "description" : "Have you ever studied a bunch of lines in an opening, just to see your opponent playing something completely different? Your struggle is finally over, as you can now access Chess.com&#39;s game database. Check what other people are playing and take yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-games-database",
+         "pubDate" : "Fri, 08 May 2026 07:00:00",
+         "title" : "Access The World's Largest Chess Database With Over 30 Billion Games On Chess.com"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130948057.cms\" />Magnus Carlsen clinched the TePe Sigeman &amp; Co. chess title in Malmo after a dramatic classical win against Yagiz Kaan and two decisive blitz victories over Arjun Erigaisi. Carlsen's resilience in the classical phase, forcing complex endgames, proved pivotal. Erigaisi fought valiantly, securing a draw in the classical finale and winning one blitz tiebreak before Carlsen ultimately triumphed.",
@@ -570,14 +586,6 @@ news_feed (
          "title" : "Chess.com Open Playoffs 2026 - Games and Results"
       },
       {
-         "description" : "Team Liquid&#39;s GM Magnus Carlsen won the 2026 Chess.com Open Playoffs after defeating GM Jan-Krzysztof Duda in an exhilarating Grand Final. Duda, coming from the Losers Bracket, dominated the first match 2.5-0.5, but Carlsen came back in the Match ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2026-chesscom-open-playoffs",
-         "pubDate" : "Sun, 26 Apr 2026 10:28:00",
-         "title" : "Carlsen Wins Chess.com Open, Recovers From Tough Start Vs. Duda"
-      },
-      {
          "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/lessons-from-real-chess-training/",
          "pubDate" : "Sat, 18 Apr 2026 13:00:00",
          "title" : "6 Lessons From 6 Weeks of Real Chess Training"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130333208.cms\" />India is set to witness a historic chess moment as young prodigies Dommaraju Gukesh and Vaishali Rameshbabu vie for World Championship titles. Gukesh is the reigning champion, while Vaishali faces the formidable Ju Wenjun. FIDE is now seeking bids for host cities, with a potential for both matches to be held concurrently, creating an unprecedented dual championship event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-vaishali-world-chess-championship-matches-to-be-held-together-heres-what-we-know/articleshow/130333208.cms",
-         "pubDate" : "Fri, 17 Apr 2026 12:43:28",
-         "title" : "Gukesh, Vaishali World Chess C'ship matches to be held together? Here's what we know"
       }
    ]
 }
