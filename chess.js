@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2026-invitation/",
+         "pubDate" : "Sat, 09 May 2026 17:18:13",
+         "title" : "European Small Nations Individual Chess Championship 2026 - Invitation"
+      },
+      {
          "description" : "Winning against the reigning world champion is always difficult. The first German player to achieve this feat after the Second World War was Wolfgang Unzicker, for many years the number one player in the Federal Republic of Germany. At the 1961 European Team Championship, he outplayed the then world champion Mikhail Botvinnik. Wolfgang Uhlmann, for many years the number one player in the GDR, was not to be outdone. In 1962, at the Chess Olympiad in Varna, he defeated Botvinnik - though not quite as convincingly as Unzicker had done a year earlier. | Image: Wolfgang Uhlmann in 1970 | Photo: Rob Mieremet, Anefo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/upset-varna-1962-wolfgang-uhlmann-beats-botvinnik",
          "pubDate" : "Sat, 09 May 2026 17:00:00",
          "title" : "A memorable upset: Wolfgang Uhlmann beats the world champion at the 1962 Varna Olympiad"
+      },
+      {
+         "description" : " The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. Hans Moke Niemann held off a fabulous Caruana challenge on the final day to win by half a point. Wesley So was a point further back. World Championship rivals Gukesh and Sindarov met and Gukesh won the rapid game and Sindarov both blitz. The rapid games scored double the blitz game in the combined standing.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
+         "pubDate" : "Sat, 9 May 2026 16:46:00",
+         "title" : "GCT Super Rapid & Blitz Poland 2026 - Games and Results"
       },
       {
          "description" : "Six months ago, I wrote about my challenge to stick to my plan without interpreting results along the way. The main idea was to focus on execution of what I believe to be the right work, without getting discouraged by a lack of short-term results. Here is how this period went. How It Felt The []",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-wins-2026-super-rapid-blitz-poland",
-         "pubDate" : "Sat, 09 May 2026 07:53:08",
+         "pubDate" : "Sat, 09 May 2026 07:53:00",
          "title" : "Wildcard Niemann Wins Super Rapid & Blitz 2026 With Clutch Finale"
       },
       {
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-world-chess-champion-d-gukesh-celebrates-emotionally-after-beating-javokhir-sindarov-watch/articleshow/130861835.cms",
          "pubDate" : "Wed, 06 May 2026 15:54:43",
          "title" : "Rare! Gukesh celebrates emotionally after beating Sindarov - Watch"
-      },
-      {
-         "description" : " The GCT Super Rapid & Blitz Poland takes place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
-         "pubDate" : "Wed, 6 May 2026 14:44:00",
-         "title" : "GCT Super Rapid & Blitz Poland 2026 - Games and Results"
       },
       {
          "description" : " Arjun Erigaisi beat Jorden van Foreest in the fifth round of the 31st Sigeman & Co tournament in Malmo. van Foreest will probably be disappointed with his play and especially 25...e5 which directly led to his loss. Magnus Carlsen said that his play was shaky against Zhu Jiner and that he'd been outplayed in a key middlegame sequence. Zhu had the upper hand sometimes and Carlsen then got the advantage but let it go. The strange 33...Kf8 would have been equal and only with 36...Nxg3? was Carlsen winning. Andy Woodward was briefly winning against Yagiz Kaan Erdogmus, the game lasted 104 moves but the position remained stubbornly equal after he failed to find 37.h5! Absolutely no-one can blame ",
