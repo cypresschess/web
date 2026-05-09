@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-05-08","24","<a href=https://ratings.uschess.org/event/202605080343 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-05-08","14","<a href=https://ratings.uschess.org/event/202605080303 target='_blank'>FBCC National Give Someone a Cupcake Day Open</a>",
 "HOUSTON","2026-05-03","15","<a href=https://ratings.uschess.org/event/202605030283 target='_blank'>Houston FIDE 26</a>",
 "HOUSTON","2026-05-03","47","<a href=https://ratings.uschess.org/event/202605030263 target='_blank'>Poison Pawns May 2026</a>",
 "KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
@@ -97,6 +99,4 @@ jtable([
 "TOMBALL","2026-02-14","15","<a href=https://ratings.uschess.org/event/202602140343 target='_blank'>TOMBALL CHESS TOURNAMENT</a>",
 "HOUSTON","2026-02-14","7","<a href=https://ratings.uschess.org/event/202602140303 target='_blank'>FEB 14TH TROPHY SCHOLASTIC</a>",
 "HOUSTON","2026-02-14","10","<a href=https://ratings.uschess.org/event/202602140253 target='_blank'>chesspanda02142026saturday</a>",
-"SPRING","2026-02-13","31","<a href=https://ratings.uschess.org/event/202602130173 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-02-13","15","<a href=https://ratings.uschess.org/event/202602130153 target='_blank'>FBCC 2026 Chuck Yeager's Birthday Open</a>",
 ]);
