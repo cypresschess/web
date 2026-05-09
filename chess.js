@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja scored 6&frac12;/9 to top the first day of blitz at the Super Rapid & Blitz Poland tournament, but his difficult rapid section left him only eighth overall. Hans Niemann remains the sole leader despite scoring 3&frac12;/9 on Friday, with Wesley So half a point behind. Fabiano Caruana and Vladimir Fedoseev are tied for third, a full point behind So. The standings remain tightly packed before Saturday's final day of action. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-4",
+         "pubDate" : "Sat, 09 May 2026 04:30:00",
+         "title" : "Super Rapid & Blitz: Niemann leads, Firouzja shines on first day of blitz"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130969427.cms\" />Javokhir Sindarov defeated D Gukesh in their first-ever blitz clash at the Grand Chess Tour in Warsaw, avenging his earlier rapid loss to the World Champion. Gukesh's rare fist-pump celebration after that previous win had gone viral. With one win each, their growing rivalry now heads into a decisive final reverse-blitz showdown before this year's World Championship clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-d-gukeshs-viral-first-pump-celebration-javokhir-sindarov-gets-his-revenge-watch/articleshow/130969427.cms",
+         "pubDate" : "Sat, 09 May 2026 02:18:33",
+         "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
+      },
+      {
          "description" : "Recently we had the remarkable British rapid chess champion Bodhana Sivanandan, 11 years old, for a visit. Now we learn that English chess has found another primary school super-talent: nine-year-old Kayal Vijay, from Hertfordshire, triumphed at the 2026 European School Chess Championships in Croatia. The two London schoolgirls have something in common: Indian heritage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,12 @@ news_feed (
          "title" : "England's new chess star is nine!"
       },
       {
-         "description" : "Even by ending the day with three losses, GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after the first nine rounds of blitz. GM Wesley So wasn&#39;t able to catch up as he lost two out of the last four games himself, making draws in t...",
+         "description" : "Even after ending the day with three losses, GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after the first nine rounds of blitz. GM Wesley So wasn&#39;t able to catch up as he lost two out of the last four games himself, making draws i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-4",
          "pubDate" : "Fri, 08 May 2026 14:50:00",
          "title" : "Niemann Leads By Half A Point; So, Caruana, Fedoseev Catch Up"
-      },
-      {
-         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Hans Niemann won the rapid section ahead of the 18 rounds of blitz that take place on Friday and Saturday. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
-         "pubDate" : "Fri, 08 May 2026 13:50:00",
-         "title" : "Super Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "GM Vincent Keymer won Freestyle Friday on May 8 by a full point, scoring 9.5/11 ahead of IM Marco Materia and GM Pranav Venkatesh. Keymer only scored 0.5/2 against Materia and Pranav individually, but won every other game to become the first playe...",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-martinez-martinez-3-0-thursday-05-07-2026",
          "pubDate" : "Fri, 08 May 2026 10:41:11",
          "title" : "Martinez, Sarana Dominate 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "Bent Larsen was the strongest chess player in Danish history and, for many years, the leading Western challenger behind Bobby Fischer, winning the Danish Championship six times and achieving major international successes. This ChessBase training course explores his brilliant attacking style, creative positional ideas, and opening innovations such as 1.b3 and his contributions to the Accelerated Dragon, while also examining his middlegame, endgame, and tactical mastery. Renowned experts including Peter Heine Nielsen, Dorian Rogozenco, Mihail Marin, Karsten M&uuml;ller, and Oliver Reeh provide deep analysis, personal stories, and insights into Larsen's unique chess legacy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-vol-20-bent-larsen",
-         "pubDate" : "Fri, 08 May 2026 08:00:00",
-         "title" : "Master Class Vol.20 - Bent Larsen"
       },
       {
          "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
@@ -90,14 +90,6 @@ news_feed (
          "title" : "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7"
       },
       {
-         "description" : "Hans Niemann won the rapid section of the Super Rapid & Blitz tournament in Warsaw, scoring 13/18 as the only unbeaten player across the nine rounds. The 22-year-old Californian enters the 18 blitz rounds with a one-point lead over Wesley So and a two-point lead over defending champion Vladimir Fedoseev, while Fabiano Caruana, Gukesh Dommaraju and Jan-Krzysztof Duda share fourth place on 9/18. | Pictured: Hans Niemann and commentator Cristian Chirila | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-3",
-         "pubDate" : "Thu, 07 May 2026 21:50:00",
-         "title" : "Super Rapid & Blitz Poland: Niemann wins rapid section"
-      },
-      {
          "description" : "Please find the link below to download the book. 1.Book 1 2. Book 2",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -130,28 +122,12 @@ news_feed (
          "title" : "Carlsen Beats Erdogmus, Arjun To Win TePe Sigeman Chess"
       },
       {
-         "description" : "Arjun Erigaisi took the sole lead at the TePe Sigeman & Co Chess Tournament after beating Zhu Jiner with black in round six. Magnus Carlsen also won with black, defeating Andy Woodward, and is now half a point behind the leader alongside Yagiz Kaan Erdogmus, who drew with Nodirbek Abdusattorov. Erigaisi will face Woodward in the final round, while Carlsen meets Erdogmus in a key encounter. | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-6",
-         "pubDate" : "Thu, 07 May 2026 08:35:00",
-         "title" : "TePe Sigeman: Erigaisi sole leader, Carlsen and Erdogmus a half point back"
-      },
-      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/28th-asian-youth-chess-championships-2026-in-shenzhen-china-from-15th-to-25th-july-2026/",
          "pubDate" : "Thu, 07 May 2026 07:20:46",
          "title" : "28th Asian Youth Chess Championships - 2026 in Shenzhen, China from 15th to 25th July 2026"
-      },
-      {
-         "description" : "Wesley So (pictured) and Hans Niemann are tied for first place after day two of the Super Rapid & Blitz tournament in Warsaw, reaching 9/12 with six rapid rounds completed. Defending champion Vladimir Fedoseev stands one point behind, while Gukesh Dommaraju stands on fifty percent and, importantly, defeated Javokhir Sindarov with black in their first encounter since Sindarov gained the right to challenge the Indian star in a match for the world title. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-2",
-         "pubDate" : "Thu, 07 May 2026 05:50:00",
-         "title" : "Super Rapid & Blitz Poland: So and Niemann share the lead, Sindarov struggles"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130868475.cms\" />India's chess boom is inspiring young talents, but families face huge financial and logistical struggles behind the scenes. Parents spend lakhs on foreign tournaments, visas, travel, and coaching, often without sponsorship or federation support. Many also deal with poor tournament systems in India and scams abroad. Despite rising success stories like Vaishali and Gukesh, chess parents say survival in the sport remains extremely difficult.",
@@ -168,14 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
          "pubDate" : "Wed, 6 May 2026 23:01:00",
          "title" : "Erigaisi leads the Sigeman tournament alone with one round to go - 6"
-      },
-      {
-         "description" : "Discover the secrets of the Hippopotamus Defense with Andrew Martin, a unique and flexible opening that thrives on patience, timing, and psychological pressure. This course shows why many aggressive players fail against the Hippo, often attacking too early and falling into devastating counterplay. Learn how to stay calm, choose the right moment to strike, and turn this seemingly passive setup into a powerful weapon against your opponents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hippopotamus-defense-basics-by-andrew-martin",
-         "pubDate" : "Wed, 06 May 2026 20:00:00",
-         "title" : "Hippopotamus Defense basics by Andrew Martin"
       },
       {
          "description" : " The first event in the Grand Chess Tour 2026 is the <a href=\"https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026\">Super Rapid & Blitz Poland in Warsaw</a>. This is a category 20 field. The players meet once in a rapid game and twice in the blitz. Of major interest was the first meeting of Javokhir Sindarov and World Champion Gukesh in the rapid. It turned out to be a little disappointing. In a balanced position Sindarov sacrificed a piece and there was just never enough for it. There were three games on day 2 and Sindarov lost all three. Hans Moke Niemann and Wesley So lead the rapid on 4.5/6 with the last day tomorrow followed by two days of blitz. Round 6 of 9 st",
