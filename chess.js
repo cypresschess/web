@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Winning against the reigning world champion is always difficult. The first German player to achieve this feat after the Second World War was Wolfgang Unzicker, for many years the number one player in the Federal Republic of Germany. At the 1961 European Team Championship, he outplayed the then world champion Mikhail Botvinnik. Wolfgang Uhlmann, for many years the number one player in the GDR, was not to be outdone. In 1962, at the Chess Olympiad in Varna, he defeated Botvinnik - though not quite as convincingly as Unzicker had done a year earlier. | Image: Wolfgang Uhlmann in 1970 | Photo: Rob Mieremet, Anefo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/upset-varna-1962-wolfgang-uhlmann-beats-botvinnik",
+         "pubDate" : "Sat, 09 May 2026 17:00:00",
+         "title" : "A memorable upset: Wolfgang Uhlmann beats the world champion at the 1962 Varna Olympiad"
+      },
+      {
+         "description" : "Six months ago, I wrote about my challenge to stick to my plan without interpreting results along the way. The main idea was to focus on execution of what I believe to be the right work, without getting discouraged by a lack of short-term results. Here is how this period went. How It Felt The []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/trust-the-process-results/",
+         "pubDate" : "Sat, 09 May 2026 13:00:00",
+         "title" : "I Stopped Checking My Numbers For 6 Months"
+      },
+      {
          "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Ahead of the final day of action, Hans Niemann is the sole leader, with Wesley So standing close behind, at a mere half-point distance. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/shocking-arjuna-awardee-gm-abhijeet-gupta-slams-chess-federation-over-unpaid-rs-5-5-lakh-prize-money/articleshow/130974067.cms",
          "pubDate" : "Sat, 09 May 2026 09:14:25",
          "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
+      },
+      {
+         "description" : "GM Hans Niemann won the 2026 Super Rapid &#38;amp; Blitz Poland, the biggest tournament win of his career so far, to earn the $50,000 first prize. Following up on last year&#39;s winner, GM Vladimir Fedoseev, it&#39;s the second year in a row that a wildcard ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-2026-super-rapid-blitz-poland",
+         "pubDate" : "Sat, 09 May 2026 07:53:08",
+         "title" : "Wildcard Niemann Wins Super Rapid & Blitz 2026 With Clutch Finale"
       },
       {
          "description" : "The Advance Variation in the French Defence can be seen as the purest form of handling this opening, as White forms the thematic French pawn chain as early as move three and aims to rely on his advantage in space and minor pieces. In his review, Lukas K&ouml;pl examines Jan Werle's contribution to the \"60 Minutes\" series from the perspective of both player and trainer.",
@@ -570,14 +594,6 @@ news_feed (
          "title" : "Magnus Carlsen's classical return, Yagiz's presence add charm to Malmo meet"
       },
       {
-         "description" : "GM Alojzije Jankovic has strongly denied allegations of financial misconduct and called the Croatian Chess Federation&#39;s announcement that it has filed a criminal complaint against its former secretary general an attempt to damage his reputation. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gm-alojzije-jankovic-denies-fraud-allegations",
-         "pubDate" : "Wed, 29 Apr 2026 09:17:00",
-         "title" : "GM Jankovic Denies Fraud Allegations, Calls Timing \"No Coincidence\" Amid Election Bid"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130600479.cms\" />In this exclusive interview, Vincent Keymer reflected on his rise from winning the Grenke Open at 13 to claiming the Grenke Freestyle 2026 title in Karlsruhe. Germany's No. 1 spoke about freestyle chess relying more on intuition, handling the \"intimidation factor\" of Magnus Carlsen, and balancing school with chess while growing up in a family of musicians. Keymer also praised coach P&eacute;ter L&eacute;k&oacute; and discussed the challenges young chess players face in Germany compared to countries like India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/five-way-tie-at-the-top-of-eicc2026-ahead-of-the-final-round/",
          "pubDate" : "Sat, 18 Apr 2026 19:53:49",
          "title" : "Five-way tie at the top of EICC2026 ahead of the Final Round"
-      },
-      {
-         "description" : "On March 6th I launched Real Chess Training. 300+ students joined in the first week. The feedback has been incredible. Today I want to share 6 lessons from 6 weeks of Real Chess Training. Lesson 1: Hard Training Can Be Fun With all the &#8220;quick and easy&#8221; messaging out there, doing something hard becomes less []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/lessons-from-real-chess-training/",
-         "pubDate" : "Sat, 18 Apr 2026 13:00:00",
-         "title" : "6 Lessons From 6 Weeks of Real Chess Training"
       }
    ]
 }
