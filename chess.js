@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Ahead of the final day of action, Hans Niemann is the sole leader, with Wesley So standing close behind, at a mere half-point distance. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
+         "pubDate" : "Sat, 09 May 2026 11:50:00",
+         "title" : "Super Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "In this episode of Monthly Dragon, Chris Ward presents three entertaining and highly tactical Dragon games, focusing on key themes such as the thematic d5-break, the power of the Dragon bishop and active king play in the endgame. Particularly impressive are the games featuring Havard Haug, Emre Can and Hikaru Nakamura, where Black repeatedly seizes the initiative through tactical motifs, loose pieces, and aggressive rook and queen activity. The main lesson throughout the episode is that in the Dragon, dynamic play, piece activity, and tactical awareness are often far more important than perfect pawn structure. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-beautiful-sicilian-tactics-the-monthly-dragon",
+         "pubDate" : "Sat, 09 May 2026 11:00:00",
+         "title" : "Three beautiful Sicilian tactics - The Monthly Dragon"
+      },
+      {
+         "description" : "Following the ECU Board meeting on 30 April, the ECU Board met via teleconference on 8 May 2026. Main information and decisions: The ECU Board approved the verification report of the ECU Legal adviser Mr. Marco Biagioli confirming the validity of all candidacies for ECU elections received by 17th of April and published on 20th of April 2026. https://www.europechess.org/ecu-elections-2026/ Regarding letters and requests received by the ECU, the ECU Board notes the decisions already announced. Communique of the ECU Board []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-2/",
+         "pubDate" : "Sat, 09 May 2026 10:11:11",
+         "title" : "Communique of the ECU Board"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130974067.cms\" />Abhijeet Gupta has alleged that his Rs 5.5 lakh winner's prize from the Odisha GM Open, held in January 2026 with a Rs 45 lakh prize pool, remains unpaid. The Arjuna Awardee criticised organisers and the All India Chess Federation for a lack of accountability, saying repeated emails went unanswered. Gupta urged authorities to protect the \"dignity and trust\" of Indian chess players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/shocking-arjuna-awardee-gm-abhijeet-gupta-slams-chess-federation-over-unpaid-rs-5-5-lakh-prize-money/articleshow/130974067.cms",
+         "pubDate" : "Sat, 09 May 2026 09:14:25",
+         "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
+      },
+      {
          "description" : "The Advance Variation in the French Defence can be seen as the purest form of handling this opening, as White forms the thematic French pawn chain as early as move three and aims to rely on his advantage in space and minor pieces. In his review, Lukas K&ouml;pl examines Jan Werle's contribution to the \"60 Minutes\" series from the perspective of both player and trainer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +58,11 @@ news_feed (
          "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
       },
       {
-         "description" : "GM Dmitry Andreikin has been crowned as the winner of the 2026 Chess.com King of the Hill Championship on Friday, marking the first time that a former super-GM has won a Chess.com Community Chess Championship event.&#38;nbsp; In the wake of a match ...",
+         "description" : "GM Dmitry Andreikin has been crowned as the winner of the 2026 Chess.com King of the Hill Championship on Friday, marking the first time that a super-GM has won a Chess.com Community Chess Championship event.&#38;nbsp; In the wake of a match loss to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dmitry-andreikin-wins-2026-king-of-the-hill-community-championship",
-         "pubDate" : "Fri, 08 May 2026 21:08:40",
+         "pubDate" : "Fri, 08 May 2026 21:08:00",
          "title" : "Andreikin Rises From The Abyss To Win King Of The Hill Championship"
       },
       {
