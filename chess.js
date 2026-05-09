@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Advance Variation in the French Defence can be seen as the purest form of handling this opening, as White forms the thematic French pawn chain as early as move three and aims to rely on his advantage in space and minor pieces. In his review, Lukas K&ouml;pl examines Jan Werle's contribution to the \"60 Minutes\" series from the perspective of both player and trainer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-jan-werle-french-advance",
+         "pubDate" : "Sat, 09 May 2026 07:00:00",
+         "title" : "Review: \"Mastering the French Advance Main Line\" by Jan Werle"
+      },
+      {
          "description" : "Alireza Firouzja scored 6&frac12;/9 to top the first day of blitz at the Super Rapid & Blitz Poland tournament, but his difficult rapid section left him only eighth overall. Hans Niemann remains the sole leader despite scoring 3&frac12;/9 on Friday, with Wesley So half a point behind. Fabiano Caruana and Vladimir Fedoseev are tied for third, a full point behind So. The standings remain tightly packed before Saturday's final day of action. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/after-d-gukeshs-viral-first-pump-celebration-javokhir-sindarov-gets-his-revenge-watch/articleshow/130969427.cms",
          "pubDate" : "Sat, 09 May 2026 02:18:33",
          "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
+      },
+      {
+         "description" : "GM Dmitry Andreikin has been crowned as the winner of the 2026 Chess.com King of the Hill Championship on Friday, marking the first time that a former super-GM has won a Chess.com Community Chess Championship event.&#38;nbsp; In the wake of a match ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dmitry-andreikin-wins-2026-king-of-the-hill-community-championship",
+         "pubDate" : "Fri, 08 May 2026 21:08:40",
+         "title" : "Andreikin Rises From The Abyss To Win King Of The Hill Championship"
       },
       {
          "description" : "Recently we had the remarkable British rapid chess champion Bodhana Sivanandan, 11 years old, for a visit. Now we learn that English chess has found another primary school super-talent: nine-year-old Kayal Vijay, from Hertfordshire, triumphed at the 2026 European School Chess Championships in Croatia. The two London schoolgirls have something in common: Indian heritage.",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vincent-keymer-exclusive-being-germany-no-1-magnus-carlsen-intimidation-freestyle-chess-and-more/articleshow/130600479.cms",
          "pubDate" : "Wed, 29 Apr 2026 08:28:32",
          "title" : "Keymer Exclusive: Being Germany No. 1, Carlsen intimidation, and more"
-      },
-      {
-         "description" : "Get ready to climb the highest heights! The Chess.com King of the Hill Chess Championship is the next event of the Chess.com Community Championships. The event takes place from May 6 to May 8 and will feature a $2,500 prize fund&#38;mdash;along with t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-chess-championship-2026",
-         "pubDate" : "Wed, 29 Apr 2026 08:11:00",
-         "title" : "Chess.com King Of The Hill Chess Championship Kicks Off On May 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
