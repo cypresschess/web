@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana scored 7/9 points on the final day of blitz action at the Super Rapid & Blitz Poland tournament. In the end, he fell half a point short of catching Hans Niemann in the overall standings. Alireza Firouzja made a strong start in the blitz tournament on Friday, but his gap to Niemann in first place only grew on the final day of the blitz event. With this tournament victory, against world stars such as Fabiano Caruana, reigning world champion Gukesh Dommaraju and Candidates' winner Javokhir Sindarov, Niemann has reached a new milestone in his chess career. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-poland-2026-5",
+         "pubDate" : "Sat, 09 May 2026 21:50:00",
+         "title" : "Hans Niemann wins Super Rapid & Blitz Poland, reaches new milestone"
+      },
+      {
          "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
       },
       {
-         "description" : "GM Hans Niemann won the 2026 Super Rapid &#38;amp; Blitz Poland, the biggest tournament win of his career so far, to earn the $50,000 first prize. Following up on last year&#39;s winner, GM Vladimir Fedoseev, it&#39;s the second year in a row that a wildcard ...",
+         "description" : "GM Hans Niemann has won the 2026 Super Rapid &#38;amp; Blitz Poland, the biggest tournament win of his career so far, to earn the $50,000 first prize. Following up on last year&#39;s winner, GM Vladimir Fedoseev, it&#39;s the second year in a row that a wildc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-wins-2026-super-rapid-blitz-poland",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
          "pubDate" : "Sun, 19 Apr 2026 03:00:00",
          "title" : "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory"
-      },
-      {
-         "description" : "Only one round left to be played at the European Individual Chess Championship 2026 and the tension reached its maximum as five players enter the last day co-leading in the tournament! Five-way tie for the top between GM David Anton Guijarro (ESP, 2656), GM Aydin Suleymanli (AZE, 2653), GM Muradli Mahammad (AZE, 2605), GM Nijat Abasov (AZE, 2586) and IM Roman Dehtiarov (UKR, 2452) promises an exiting final round which is scheduled for tomorrow, 15:00 CEST. In a direct encounter []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/five-way-tie-at-the-top-of-eicc2026-ahead-of-the-final-round/",
-         "pubDate" : "Sat, 18 Apr 2026 19:53:49",
-         "title" : "Five-way tie at the top of EICC2026 ahead of the Final Round"
       }
    ]
 }
