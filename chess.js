@@ -10,6 +10,14 @@ news_feed (
          "title" : "Hans Niemann wins Super Rapid & Blitz Poland, reaches new milestone"
       },
       {
+         "description" : "Bullet Brawl&#38;nbsp;was set alight on Saturday by another junior talent, GM Andy Woodward, who blazed his way to a debut title ahead 191 titled players. Fresh off a solid performance at TePe Sigeman &#38;amp; Co Chess Tournament 2026, Woodward put on an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andy-woodward-wins-bullet-brawl-may-9-2026",
+         "pubDate" : "Sat, 09 May 2026 18:08:00",
+         "title" : "Hyperbullet Maestro Woodward Dashes To 1st Bullet Brawl Title"
+      },
+      {
          "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/still-have-a-long-way-to-go-r-vaishali/articleshow/130365184.cms",
          "pubDate" : "Sun, 19 Apr 2026 04:53:26",
          "title" : "Still have a long way to go: R Vaishali"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130358285.cms\" />Vaishali Rameshbabu's journey to the Women's Candidates title wasn't easy. After a poor run in Chennai shattered her confidence, she even considered skipping the Grand Swiss. A crucial two-hour call with Karthikeyan Murali changed her mind. A mental reset helped her win the event, regain form, and now she prepares to face world champion Ju Wenjun.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-didnt-even-see-chess-for-15-days-a-miraculous-story-behind-candidates-glory/articleshow/130358285.cms",
-         "pubDate" : "Sun, 19 Apr 2026 03:00:00",
-         "title" : "'Vaishali didn't even see chess for 15 days': A miraculous story behind Candidates glory"
       }
    ]
 }
