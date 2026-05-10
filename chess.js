@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-239",
+         "pubDate" : "Sun, 10 May 2026 22:55:00",
+         "title" : "Jon Speelman: Scholars and gentlemen"
+      },
+      {
          "description" : "2026 Super Chess Classic Romania brings elite classical chess to Bucharest, Romania, from May 12 to May 24. The tournament takes place at the National Bank of Romania Museum in the historic Lipscani district. The event is the first classical tournament of the 2026 Grand Chess Tour season. It features a 10-player round robin, with the likes of Caruana, Keymer, Firouzja, Giri, So, Pragg and Sindarov participating. It will be an exciting week.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
