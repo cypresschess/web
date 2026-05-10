@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we have a special guest on Svitlana's Smart Moves: Leon Mendonca. Since we all got to know each other well during the Biel Chess Festival 2024, we decided it was finally time to record a show together. In this episode, Svitlana Demchenko introduces the tricky Cowboy Attack in the Sicilian, and surprisingly, Leon turns out to be a genuine fan of the opening as well, making this an opening variation that is definitely worth a closer look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-cowboy-attack-with-leon-mendonca",
+         "pubDate" : "Sun, 10 May 2026 11:30:00",
+         "title" : "Svitlana's Smart Moves - The Cowboy Attack with Leon Mendonca"
+      },
+      {
          "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase&acute;26, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
