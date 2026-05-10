@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase&acute;26, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-14-save-resources-with-remote-engines",
+         "pubDate" : "Sun, 10 May 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 14: Save resources with remote engines"
+      },
+      {
          "description" : "Fabiano Caruana scored 7/9 points on the final day of blitz action at the Super Rapid & Blitz Poland tournament. In the end, he fell half a point short of catching Hans Niemann in the overall standings. Alireza Firouzja made a strong start in the blitz tournament on Friday, but his gap to Niemann in first place only grew on the final day of the blitz event. With this tournament victory, against world stars such as Fabiano Caruana, reigning world champion Gukesh Dommaraju and Candidates' winner Javokhir Sindarov, Niemann has reached a new milestone in his chess career. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-95th-gm-aronyak-ghosh-from-chasing-next-tournaments-fee-to-parents-relief/articleshow/130383499.cms",
          "pubDate" : "Mon, 20 Apr 2026 05:45:47",
          "title" : "The making of India's 95th GM: Aronyak Ghosh, from chasing next tournament's fee to parents' relief"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130365184.cms\" />R Vaishali, the new World Championship Challenger, expressed her joy and ambition upon returning to Chennai. She aims to emulate Indian chess legends like Koneru Humpy and D Harika, emphasizing the importance of mental strength and support systems. Vaishali hopes her success inspires more girls to pursue chess professionally, highlighting recent triumphs by Indian women in the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/still-have-a-long-way-to-go-r-vaishali/articleshow/130365184.cms",
-         "pubDate" : "Sun, 19 Apr 2026 04:53:26",
-         "title" : "Still have a long way to go: R Vaishali"
       }
    ]
 }
