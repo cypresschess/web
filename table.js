@@ -1,6 +1,11 @@
 jtable([
+"HOUSTON","2026-05-09","26","<a href=https://ratings.uschess.org/event/202605090713 target='_blank'>TCR: Clutch City Open 2026</a>",
+"HOUSTON","2026-05-09","37","<a href=https://ratings.uschess.org/event/202605090463 target='_blank'>TCR: Clutch City Scholastic 2026</a>",
+"HOUSTON","2026-05-09","10","<a href=https://ratings.uschess.org/event/202605090403 target='_blank'>chesspanda05092026saturday</a>",
+"HOUSTON","2026-05-09","9","<a href=https://ratings.uschess.org/event/202605090383 target='_blank'>MAY 9TH  TROPHY SCHOLASTIC</a>",
 "SPRING","2026-05-08","24","<a href=https://ratings.uschess.org/event/202605080343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-05-08","14","<a href=https://ratings.uschess.org/event/202605080303 target='_blank'>FBCC National Give Someone a Cupcake Day Open</a>",
+"CYPRESS","2026-05-08","51","<a href=https://ratings.uschess.org/event/202605080233 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-03","15","<a href=https://ratings.uschess.org/event/202605030283 target='_blank'>Houston FIDE 26</a>",
 "HOUSTON","2026-05-03","47","<a href=https://ratings.uschess.org/event/202605030263 target='_blank'>Poison Pawns May 2026</a>",
 "KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
@@ -94,9 +99,4 @@ jtable([
 "HOUSTON","2026-02-20","15","<a href=https://ratings.uschess.org/event/202602200243 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-02-20","10","<a href=https://ratings.uschess.org/event/202602200223 target='_blank'>FBCC 2026 Love Your Pet Day Open</a>",
 "HOUSTON","2026-02-16","29","<a href=https://ratings.uschess.org/event/202602160193 target='_blank'>Bellaire Scholastic 2026</a>",
-"HOUSTON","2026-02-15","11","<a href=https://ratings.uschess.org/event/202602150313 target='_blank'>2026 Houston Circuit T2 by AzChAcad</a>",
-"HOUSTON","2026-02-15","12","<a href=https://ratings.uschess.org/event/202602150273 target='_blank'>Bellaire Sunday Swiss 2026.02.15</a>",
-"TOMBALL","2026-02-14","15","<a href=https://ratings.uschess.org/event/202602140343 target='_blank'>TOMBALL CHESS TOURNAMENT</a>",
-"HOUSTON","2026-02-14","7","<a href=https://ratings.uschess.org/event/202602140303 target='_blank'>FEB 14TH TROPHY SCHOLASTIC</a>",
-"HOUSTON","2026-02-14","10","<a href=https://ratings.uschess.org/event/202602140253 target='_blank'>chesspanda02142026saturday</a>",
 ]);
