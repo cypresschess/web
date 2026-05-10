@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2026 Super Chess Classic Romania brings elite classical chess to Bucharest, Romania, from May 12 to May 24. The tournament takes place at the National Bank of Romania Museum in the historic Lipscani district. The event is the first classical tournament of the 2026 Grand Chess Tour season. It features a 10-player round robin, with the likes of Caruana, Keymer, Firouzja, Giri, So, Pragg and Sindarov participating. It will be an exciting week.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-chess-classic-in-romania",
+         "pubDate" : "Sun, 10 May 2026 16:00:00",
+         "title" : "Super Chess Classic in Romania"
+      },
+      {
          "description" : "Today we have a special guest on Svitlana's Smart Moves: Leon Mendonca. Since we all got to know each other well during the Biel Chess Festival 2024, we decided it was finally time to record a show together. In this episode, Svitlana Demchenko introduces the tricky Cowboy Attack in the Sicilian, and surprisingly, Leon turns out to be a genuine fan of the opening as well, making this an opening variation that is definitely worth a closer look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
