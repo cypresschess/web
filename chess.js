@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frederik Svane won the Sardinia World Chess Festival outright with 7&frac12;/9 points, defeating Karthikeyan Murali in the final round after both had entered the day tied for first place. The event in Orosei also saw 12-year-old Faustino Oro secure his third grandmaster norm, completing the title requirements and becoming the second-youngest grandmaster in chess history. | Photo: Sardinia World Chess Festival / KNZO Photography",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sardinia-festival-2026-final-report",
+         "pubDate" : "Tue, 12 May 2026 01:15:00",
+         "title" : "Frederik Svane wins Sardinia Chess Festival, Faustino Oro secures GM title"
+      },
+      {
          "description" : "With a superb performance, a 15-year-old prodigy dominated the international Baku Open: Sina Movahed (pictured left in the title photo) won seven games and drew twice. The young Iranian GM thus won the strong tournament with 8/9, finishing a point and a half ahead of the rest of the field. The best tiebreak scores among the players tied for second place were achieved by IM Santhosh Parvathareddy Ajay - the Indian is also still an U16 player - and Khazar Babazadar (AZE), ahead of five other players on the same score. | Photos: Organizers / Azerbaijan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/15-year-old-sina-movahed-wins-strong-baku-open",
          "pubDate" : "Mon, 11 May 2026 18:59:03",
          "title" : "15-year old Sina Movahed wins strong Baku Open"
+      },
+      {
+         "description" : "It took GM Axel Smith more than 29 hours to complete a 49-board blindfold simul this weekend. The Swedish grandmaster scored a dominant 41-8&#38;mdash;but said afterward that raising awareness for a climate cause mattered more than the result or any r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/axel-smith-completes-49-board-blindfold-simul",
+         "pubDate" : "Mon, 11 May 2026 14:12:00",
+         "title" : "Axel Smith Scores 41-8 In 49-Board Blindfold Simul, Sets Unofficial Record"
       },
       {
          "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/faustino-oro-seals-title-to-become-2nd-youngest-gm-ever-at-12",
          "pubDate" : "Mon, 11 May 2026 07:38:00",
          "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
+      },
+      {
+         "description" : "Editor's Note: This article is on the Southeast Regional Women and Girls Chess Championship, which brought out some of the region's strongest female players. It also attracted titled players from outside of the southeast, including co-champion FM Megan Paragua of New York and this article's author, WIM Dr. Alexey Root, who traveled all the way from Texas.One reason for this tournament's success was the guaranteed $5,000 prize fund made possible from a US Chess grant. You can find more reporting on tournaments and other events made possibly by US Chess grants here.While some spent their Saturday preparing for Mother's Day on May 10, dozens of chess players were instead competing for prizes at",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/southeastern-regional-womens-and-girls-chess-championship-metro-atlanta-chess-connections",
+         "pubDate" : "Mon, 11 May 2026 00:00:00",
+         "title" : "Southeastern Regional Women's and Girls' Chess Championship: Metro Atlanta Chess Connections"
       },
       {
          "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dmitry-andreikin-wins-2026-king-of-the-hill-community-championship",
          "pubDate" : "Fri, 08 May 2026 21:08:00",
          "title" : "Andreikin Rises From The Abyss To Win King Of The Hill Championship"
-      },
-      {
-         "description" : "Recently we had the remarkable British rapid chess champion Bodhana Sivanandan, 11 years old, for a visit. Now we learn that English chess has found another primary school super-talent: nine-year-old Kayal Vijay, from Hertfordshire, triumphed at the 2026 European School Chess Championships in Croatia. The two London schoolgirls have something in common: Indian heritage.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-s-new-chess-star-is-nine",
-         "pubDate" : "Fri, 08 May 2026 18:00:00",
-         "title" : "England's new chess star is nine!"
       },
       {
          "description" : "Even after ending the day with three losses, GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after the first nine rounds of blitz. GM Wesley So wasn&#39;t able to catch up as he lost two out of the last four games himself, making draws i...",
@@ -594,14 +610,6 @@ news_feed (
          "title" : "Flash Report: National Elementary Championships Results"
       },
       {
-         "description" : "While professional players shudder at the thought of playing more than one classical chess game in a day, the 2,500-plus kids in Baltimore for the 2026 National Elementary School Championships couldn't be happier to get in three games in a single day yesterday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The crowd outside the Baltimore convention center. (Photo by John Hartmann)<br> <br> <br> <br> Between rounds, practically every table in the skittles room had a chess board on it, and lines to play blitz against special guests enveloped the playing area. There's nothing as infectious as the energy of these children. If they could play even more ch",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leaderboards-take-shape-entering-final-nes-leg-baltimore",
-         "pubDate" : "Sun, 03 May 2026 00:00:00",
-         "title" : "Leaderboards Take Shape Entering Final NES Leg in Baltimore"
-      },
-      {
          "description" : " Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only winner when he defeated Nils Grandelius using the Modern Benoni as black. Once Carlsen assumed the initiative, he quickly overpowered his opponent. Nodirbek Abdusattorov seemed to be heading for a win against Andy Woodward first just before first time control 39.g6! would have won and 40.Nd4? was almost equal. Abdusattorov was then soon winning again but couldn't land the final blow and 60.Rxf7? was the move that ended the winning chance",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rating-system-incident-and-file-resubmission-required/",
          "pubDate" : "Fri, 01 May 2026 14:24:34",
          "title" : "Rating System Incident and File Resubmission Required"
-      },
-      {
-         "description" : "World number-four Nodirbek Abdusattorov and 15-year-old rising star GM Andy Woodward took the early lead in Malmo as the 2026 TePe Sigeman Chess Tournament began. They both pounced on game-deciding blunders, with Abdusattorov beating GM Zhu Jiner ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-1",
-         "pubDate" : "Fri, 01 May 2026 14:19:00",
-         "title" : "Abdusattorov, Woodward Lead As Carlsen Returns To Classical Chess In Malmo"
       },
       {
          "description" : "The European School Chess Championship 2026 is underway in Trogir, Croatia! Four rounds have been already played across six age categories: U7, U9, U11, U13, U15, and U17, and most of the sections got sole leaders. In the U7 age category, Albert-Tudor Jacota (ROU) and Sophia Kaliskami (GRE), tie for the top scoring 3.5/4 points each, with the only drawn game they played between each other. The co-leaders are followed by four players who score 3/4 points each: Hakon Gudbjartsson []",
