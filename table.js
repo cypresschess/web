@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-05-10","18","<a href=https://ratings.uschess.org/event/202605100233 target='_blank'>Bellaire Sunday Swiss 2026.05.10</a>",
+"HOUSTON","2026-05-09","47","<a href=https://ratings.uschess.org/event/202605091113 target='_blank'>SBSC Girls Tournament 2026</a>",
 "HOUSTON","2026-05-09","26","<a href=https://ratings.uschess.org/event/202605090713 target='_blank'>TCR: Clutch City Open 2026</a>",
 "HOUSTON","2026-05-09","37","<a href=https://ratings.uschess.org/event/202605090463 target='_blank'>TCR: Clutch City Scholastic 2026</a>",
 "HOUSTON","2026-05-09","10","<a href=https://ratings.uschess.org/event/202605090403 target='_blank'>chesspanda05092026saturday</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-02-21","9","<a href=https://ratings.uschess.org/event/202602210353 target='_blank'>chesspanda02212025saturday</a>",
 "CYPRESS","2026-02-20","40","<a href=https://ratings.uschess.org/event/202602200323 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-02-20","15","<a href=https://ratings.uschess.org/event/202602200243 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-02-20","10","<a href=https://ratings.uschess.org/event/202602200223 target='_blank'>FBCC 2026 Love Your Pet Day Open</a>",
-"HOUSTON","2026-02-16","29","<a href=https://ratings.uschess.org/event/202602160193 target='_blank'>Bellaire Scholastic 2026</a>",
 ]);
