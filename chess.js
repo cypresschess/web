@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a superb performance, a 15-year-old prodigy dominated the international Baku Open: Sina Movahed (pictured left in the title photo) won seven games and drew twice. The young Iranian GM thus won the strong tournament with 8/9, finishing a point and a half ahead of the rest of the field. The best tiebreak scores among the players tied for second place were achieved by IM Santhosh Parvathareddy Ajay - the Indian is also still an U16 player - and Khazar Babazadar (AZE), ahead of five other players on the same score. | Photos: Organizers / Azerbaijan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/15-year-old-sina-movahed-wins-strong-baku-open",
+         "pubDate" : "Mon, 11 May 2026 18:59:03",
+         "title" : "15-year old Sina Movahed wins strong Baku Open"
+      },
+      {
          "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Sardinia World Chess Festival 2026 - "
       },
       {
+         "description" : "Titled Tuesday is getting its biggest prize fund ever. Starting June 2, the event will feature a weekly $10,000 prize fund, bringing its yearly total to more than $500,000&#38;mdash;more than three times the current purse. Titled Tuesday has become ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/titled-tuesday-new-10k-prize-fund",
+         "pubDate" : "Mon, 11 May 2026 09:00:00",
+         "title" : "Titled Tuesday Now Bigger Than Ever With $10,000 In Prizes Every Week"
+      },
+      {
          "description" : "Another path to the prestigious Esports World Cup (EWC) has been revealed. Players can now participate in India Rising for a $30,000 prize fund and, most importantly, one spot at the EWC in Riyadh. The event mixes online qualifiers with a thrillin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-seals-title-to-become-2nd-youngest-gm-ever-at-12",
-         "pubDate" : "Mon, 11 May 2026 07:38:23",
+         "pubDate" : "Mon, 11 May 2026 07:38:00",
          "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
       },
       {
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Abdusattorov, Woodward Lead As Carlsen Returns To Classical Chess In Malmo"
       },
       {
-         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk and IM Renato Terry all continued their recent strong blitz form with wins in 3 0 Thursday tournaments on April 30. For Duda, winning the first event was a nice complement to his victory in Titled Tuesday ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-bortnyk-terry-3-0-thursday-04-23-2026",
-         "pubDate" : "Fri, 01 May 2026 14:09:48",
-         "title" : "Duda, Bortnyk, Terry Continue Blitz Runs In 3 0 Thursday"
-      },
-      {
          "description" : "The European School Chess Championship 2026 is underway in Trogir, Croatia! Four rounds have been already played across six age categories: U7, U9, U11, U13, U15, and U17, and most of the sections got sole leaders. In the U7 age category, Albert-Tudor Jacota (ROU) and Sophia Kaliskami (GRE), tie for the top scoring 3.5/4 points each, with the only drawn game they played between each other. The co-leaders are followed by four players who score 3/4 points each: Hakon Gudbjartsson []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://aicf.in/congratulation-aronyak-ghosh-from-west-bengal-becomes-indias-95th-chess-grandmaster/",
          "pubDate" : "Tue, 21 Apr 2026 06:29:48",
          "title" : "Congratulation:-Aronyak Ghosh from West Bengal becomes India's 95th Chess Grandmaster"
-      },
-      {
-         "description" : "Were you able to handle the four rook endgame studies we showed you recently? They were a little bit harder to solve than they looked. We now bring you all the intricacies and subtleties in short videos by IM Gauri Shankar, who works as a chess trainer in Chicago. And of course we give you full analysis in a ChessBase replayer, where you can switch on an engine to help resolve any residual questions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/problem-challenge-april",
-         "pubDate" : "Mon, 20 Apr 2026 15:44:02",
-         "title" : "Problem Challenge April"
       }
    ]
 }
