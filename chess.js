@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this ChessBase training course, Ivan Sokolov explores the fascinating world of colour-reversed Benoni, Benko, and Blumenfeld structures, showing how Black's active piece play and dynamic counterplay can fully compensate for White's extra tempo. The course focuses heavily on understanding pawn structures, long-term middlegame plans, open files, and queenside pressure, giving players practical strategic guidance rather than pure memorization. It is especially suited for advanced players who want a deeper understanding of one of chess's most aggressive and strategically rich opening families.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-14-reversed-colour-systems",
+         "pubDate" : "Mon, 11 May 2026 09:12:39",
+         "title" : "Ivan Sokolov - Understanding Middlegame Strategy Vol.14 Reversed Colour Systems"
+      },
+      {
          "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,22 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Mon, 20 Apr 2026 08:48:01",
          "title" : "World Senior Team Chess Championships 2026 - Daily Reports"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130384330.cms\" />Magnus Carlsen has declared Javokhir Sindarov the favourite to win the upcoming World Chess Championship against D Gukesh, citing Sindarov's well-rounded game. Sindarov's dominant Candidates Tournament performance, where he remained unbeaten, has impressed chess legends. Despite this, Gukesh's renowned mental resilience and ability to defend difficult positions remain significant factors in this historic, generational duel.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-has-weaknesses-sindarov-does-not-carlsens-bold-world-championship-prediction/articleshow/130384330.cms",
-         "pubDate" : "Mon, 20 Apr 2026 06:24:51",
-         "title" : "'Gukesh has weaknesses, Sindarov does not': Carlsen's bold World Championship prediction"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130383499.cms\" />Aronyak Ghosh achieved his long-awaited Grandmaster title after a remarkable performance at the 23rd BCC Open 2026 in Bangkok. The 22-year-old's journey, marked by his father's dedication and the family's financial sacrifices, culminated in securing his third GM norm. This achievement signifies the success of years of commitment to the game, with chess now being Aronyak's primary focus.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-95th-gm-aronyak-ghosh-from-chasing-next-tournaments-fee-to-parents-relief/articleshow/130383499.cms",
-         "pubDate" : "Mon, 20 Apr 2026 05:45:47",
-         "title" : "The making of India's 95th GM: Aronyak Ghosh, from chasing next tournament's fee to parents' relief"
       }
    ]
 }
