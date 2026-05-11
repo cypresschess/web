@@ -42,6 +42,22 @@ news_feed (
          "title" : "Sardinia World Chess Festival 2026 - "
       },
       {
+         "description" : "Another path to the prestigious Esports World Cup (EWC) has been revealed. Players can now participate in India Rising for a $30,000 prize fund and, most importantly, one spot at the EWC in Riyadh. The event mixes online qualifiers with a thrillin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-india-rising-2026",
+         "pubDate" : "Mon, 11 May 2026 08:00:00",
+         "title" : "India Rising Tournament Revealed As New Path To Esports World Cup"
+      },
+      {
+         "description" : "History was made when IM Faustino Oro sealed his final grandmaster norm with a round to spare at the Sardinia World Chess Festival in Italy on Saturday. The Argentinian &#34;Messi of Chess&#34; becomes the second-youngest player ever to earn the title. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-seals-title-to-become-2nd-youngest-gm-ever-at-12",
+         "pubDate" : "Mon, 11 May 2026 07:38:23",
+         "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
+      },
+      {
          "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,20 +666,12 @@ news_feed (
          "title" : "European School Chess Championship 2026 underway in Croatia"
       },
       {
-         "description" : " The 31st Tepe Sigeman & Co Chess Tournament takes place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. ",
+         "description" : " The 31st Tepe Sigeman & Co Chess Tournament took place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. Magnus Carlsen beat Arjun Erigaisi in a tie-break blitz match in a final Armageddon game to win the event. Carlsen had earlier ground down Yagiz Kaan Erdogmus in a long endgame, Erigaisi escaped a lost position against Andy Woodward. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/31st-tepe-sigeman-co-chess-tournament-2026",
          "pubDate" : "Fri, 1 May 2026 11:20:00",
          "title" : "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda won Freestyle Friday in a comeback on May 1, winning in the final round to scratch out a win on tiebreaks over GM Jose Martinez. The feat marks&#38;nbsp;the second time Duda has won both Titled Tuesday and Freestyle Friday in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-may-1-2026",
-         "pubDate" : "Fri, 01 May 2026 11:10:11",
-         "title" : "Duda Completes Strong Week With Freestyle Friday Victory"
       },
       {
          "description" : " USA retain the world 50+ title, while Germany-Lasker SGK win the 65+ equivalent, with England fourth in both events England finished out of the medals for the first time in five years in this week's world senior team championships for over-50s and over-65s, played at Durres, Albania, as the US, fielding a largely former USSR squad, retained the over-50 gold medals, while a nominally German team, which also included a former Soviet star, won the over-65s event. The US victory was clear but had a controversial aspect in the team's use of package deals, which are forbidden in Olympiads but still allowed in senior events. <a href=\"https://www.theguardian.com/sport/2026/may/01/chess-england-fail",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
          "pubDate" : "Fri, 01 May 2026 07:00:41",
          "title" : "Chess: England fail to win senior team world medals for first time in five years"
-      },
-      {
-         "description" : "If 2024 was the golden year for India, with double gold in the Olympiad and GM Gukesh Dommaraju crowned world champion, 2026 is shaping up to be a golden year for Uzbekistan so far. The nation&#39;s number-one GM Nodirbek Abdusattorov has already been...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/may-2026-fide-ratings",
-         "pubDate" : "Thu, 30 Apr 2026 15:59:00",
-         "title" : "Sindarov Rises To No. 5, Erdogmus Becomes Youngest-Ever 2700 On May FIDE Rating List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130622766.cms\" />Magnus Carlsen makes a rare classical over-the-board appearance in Malmo, Sweden, for the TePe Sigeman &amp; Co tournament. While Carlsen is a focal point, young talents like Yagiz Kaan, Nodirbek Abdusattorov, and Erigaisi Arjun will also vie for attention in the elite eight-player event.",
@@ -768,30 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/problem-challenge-april",
          "pubDate" : "Mon, 20 Apr 2026 15:44:02",
          "title" : "Problem Challenge April"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2026 concluded yesterday in Katowice, Poland, with the historical result by IM Roman Dehtiarov from Ukraine who stunned the field and emerged as the Winner of the event! Set to turn 18 years old this year, IM Roman Dehtiarov (UKR, 2452) was the 126th-seed on the starting list of players, but finished the event with impressive score of 9/11 points, with a single loss in the fifth round! He emerged as the sole winner of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukrainian-teenager-im-roman-dehtiarov-clinches-european-chess-championship-2026/",
-         "pubDate" : "Mon, 20 Apr 2026 12:29:46",
-         "title" : "Ukrainian Teenager IM Roman Dehtiarov clinches European Chess Championship 2026"
-      },
-      {
-         "description" : "There is an ongoing problem at the moment in that Swiss Manager, the main pairing program used at events around England can't access the latest ECF rating list.&#160;There is a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/problem-with-swiss-manager-and-the-ecf-rating-list/",
-         "pubDate" : "Mon, 20 Apr 2026 12:25:04",
-         "title" : "Problem with Swiss Manager and the ECF rating list"
-      },
-      {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-in-ahmedabad-gujarat-from-18th-to-21st-may-2026/",
-         "pubDate" : "Mon, 20 Apr 2026 12:15:20",
-         "title" : "Announcement : Medical Evaluation in Ahmedabad , Gujarat from 18th to 21st May, 2026 "
       }
    ]
 }
