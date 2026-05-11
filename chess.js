@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/italy-and-ukraine-win-mitropa-chess-cup-2026/",
+         "pubDate" : "Mon, 11 May 2026 10:39:38",
+         "title" : "Italy and Ukraine win Mitropa Chess Cup 2026"
+      },
+      {
+         "description" : " Argentinian chess player Faustino Oro finally has become a Grandmaster after a six points from nine games performance at the Sardinia World Chess Festival. Oro had previous norms at the Legends and Prodigies tournament in September 2025 and the Magistral Szmetan-Giardelli in December 2025. Oro had been chasing the third and final mark since then but couldn't break Abhimanyu Mishra's record of 12 years, 4 months, 25 days. Oro finally got his title at age of 12 years, 6 months, 26 days, the second youngest in history beating third place Sergey Karjakin by a few days. Oro earned the title after a win over Bartlomiej Niedbala in round 8 but his tournament ended on a bit of a whimper with a loss",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/faustino-oro-earns-his-final-gm-norm-in-sardinia",
+         "pubDate" : "Mon, 11 May 2026 09:51:00",
+         "title" : "Faustino Oro earns his final GM norm in Sardinia - 9"
+      },
+      {
+         "description" : "Rank Name Rank Name 1 NANDISH V S 1 PRATITEE BORDOLOI 2 ETHAN VAZ 2 SARANYA DEVI NARAHARI 3 MADHVENDRA SHARMA 3 ANUSHKA BAPU KUTWAL",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-under-17-chess-championship-in-gujarat-from-30-march-to-07-april-2026/",
+         "pubDate" : "Mon, 11 May 2026 09:24:18",
+         "title" : "Certificate :National Under 17 Chess Championship in Gujarat from 30 March to 07 April 2026"
+      },
+      {
          "description" : "In this ChessBase training course, Ivan Sokolov explores the fascinating world of colour-reversed Benoni, Benko, and Blumenfeld structures, showing how Black's active piece play and dynamic counterplay can fully compensate for White's extra tempo. The course focuses heavily on understanding pawn structures, long-term middlegame plans, open files, and queenside pressure, giving players practical strategic guidance rather than pure memorization. It is especially suited for advanced players who want a deeper understanding of one of chess's most aggressive and strategically rich opening families.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-14-reversed-colour-systems",
          "pubDate" : "Mon, 11 May 2026 09:12:39",
          "title" : "Ivan Sokolov - Understanding Middlegame Strategy Vol.14 Reversed Colour Systems"
+      },
+      {
+         "description" : " The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on 6/9 was Faustino Oro who in spite of a loss to Nepomniachtchi in the final round earned his final GM norm at 12 years, 6 months, 26 days, the second youngest in history, a couple of months behind Abhimanyu Mishra.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
+         "pubDate" : "Mon, 11 May 2026 09:10:00",
+         "title" : "Sardinia World Chess Festival 2026 - "
       },
       {
          "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
@@ -330,7 +362,7 @@ news_feed (
          "title" : "Arjun Leads Carlsen, Erdogmus Before Final Round In Malmo"
       },
       {
-         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who finished the event in the second place and as the best ranked boy in the event, []",
+         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who tied in the first place, and as the best ranked boy in the event, clinched title []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
@@ -760,30 +792,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-in-ahmedabad-gujarat-from-18th-to-21st-may-2026/",
          "pubDate" : "Mon, 20 Apr 2026 12:15:20",
          "title" : "Announcement : Medical Evaluation in Ahmedabad , Gujarat from 18th to 21st May, 2026 "
-      },
-      {
-         "description" : "The ECF Grassroots Funding Initiative remains in business, and we encourage people to apply for funding. The website has been updated. Click here https://www.englishchess.org.uk/ecf-grassroots-initiative/ to see the new...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-grassroots-funding-initiative-update/",
-         "pubDate" : "Mon, 20 Apr 2026 10:10:15",
-         "title" : "ECF Grassroots Funding Initiative - update"
-      },
-      {
-         "description" : "By the deadline of 17th April for ECU elections 2026 the following combine tickets have been received by alphabetic order of the Presidential candidate: Ticket Azmaiparashvili, Zurab 1. President:&#160; Mr. Zurab Azmaiparashvili (GEO)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Nominated by &#160;the National Chess Federations of Andorra, Armenia, Azerbaijan, North Macedonia and Turkey 2. Deputy President: &#160;Mr. Vlad Ardeleanu (ROM) Nominated by &#160;the National Chess Federations &#160;of Romania and Moldavia 3. Vice President: &#160;&#160;Mrs. Ingrid Lauterbach (GER) Nominated by the National Chess Federations of Germany and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-elections-2026/",
-         "pubDate" : "Mon, 20 Apr 2026 09:24:56",
-         "title" : "ECU Elections 2026"
-      },
-      {
-         "description" : "Sunday 19th April &#160;The FIDE World Senior Team Chess Championship kicks off today in the seaside resort of Durres in Albania, with a total of 36 teams participating in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-2026-daily-reports/",
-         "pubDate" : "Mon, 20 Apr 2026 08:48:01",
-         "title" : "World Senior Team Chess Championships 2026 - Daily Reports"
       }
    ]
 }
