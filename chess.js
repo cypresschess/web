@@ -10,6 +10,14 @@ news_feed (
          "title" : "Frederik Svane wins Sardinia Chess Festival, Faustino Oro secures GM title"
       },
       {
+         "description" : "A new book by best-selling author Ben Mezrich offers the most detailed account yet of the controversy between GMs Magnus Carlsen and Hans Niemann, revealing new details behind what became the biggest scandal in modern chess. In Checkmate: Genius...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ben-mezrich-checkmate-carlsen-niemann-controversy",
+         "pubDate" : "Mon, 11 May 2026 22:54:00",
+         "title" : "\"He's A Genius\" - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
+      },
+      {
          "description" : "With a superb performance, a 15-year-old prodigy dominated the international Baku Open: Sina Movahed (pictured left in the title photo) won seven games and drew twice. The young Iranian GM thus won the strong tournament with 8/9, finishing a point and a half ahead of the rest of the field. The best tiebreak scores among the players tied for second place were achieved by IM Santhosh Parvathareddy Ajay - the Indian is also still an U16 player - and Khazar Babazadar (AZE), ahead of five other players on the same score. | Photos: Organizers / Azerbaijan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,22 +760,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
          "pubDate" : "Thu, 23 Apr 2026 14:19:00",
          "title" : "26th European Individual Championship 2026 - Games and Results"
-      },
-      {
-         "description" : " The journey from the Von Neumann to the Niemann affair has much to teach us about the changed landscape of the sport There really is, it turns out, a true story involving cheating in chess and a vibrating crotch. Only this one is a whodunnit that dates back more than 30 years and was only solved last week. Imagine the scene at the World Open in Philadelphia in 1993 when a mysterious unrated player with fake dreadlocks and headphones, and with a bulge that vibrates in his trousers, shows up. Now multiply it 100-fold when this unknown amateur, who calls himself John von Neumann after the founder of game theory, draws with a grandmaster, Helgi Ólafsson, in round two. <a href=\"https://www.theg",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/21/chess-cheats-vibrating-crotches-anal-beads-netflix-hans-niemann-magnus-carlsen",
-         "pubDate" : "Tue, 21 Apr 2026 07:00:18",
-         "title" : "Vibrating crotches, anal beads and suspicious minds: the long, strange history of chess cheats | Sean Ingle"
-      },
-      {
-         "description" : "Congratulations! Heartiest congratulations to Aronyak Ghosh from West Bengal on achieving the prestigious title of becoming India's 95th Chess Grandmaster. This remarkable accomplishment is a",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulation-aronyak-ghosh-from-west-bengal-becomes-indias-95th-chess-grandmaster/",
-         "pubDate" : "Tue, 21 Apr 2026 06:29:48",
-         "title" : "Congratulation:-Aronyak Ghosh from West Bengal becomes India's 95th Chess Grandmaster"
       }
    ]
 }
