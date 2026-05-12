@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "About a month ago, the 2026 FIDE Candidates Tournament concluded in the picturesque village of Pegia, near Paphos, Cyprus. Yevgeny Levanzov had the privilege of spending an extended time at the event and delivering three lectures there. In the following review, he covers the tournament both from a professional chess perspective and by describing the surrounding atmosphere, including the various activities offered to spectators, notable figures who came to visit and some touching human stories. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-2026-recap-levanzov",
+         "pubDate" : "Tue, 12 May 2026 17:20:00",
+         "title" : "FIDE Candidates 2026: Experiences, stories and analysis"
+      },
+      {
+         "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-titled-tuesday-may-12-2026",
+         "pubDate" : "Tue, 12 May 2026 12:22:00",
+         "title" : "Nepomniachtchi Ends 20-Month Titled Tuesday Drought"
+      },
+      {
          "description" : "Frederik Svane won the Sardinia World Chess Festival outright with 7&frac12;/9 points, defeating Karthikeyan Murali in the final round after both had entered the day tied for first place. The event in Orosei also saw 12-year-old Faustino Oro secure his third grandmaster norm, completing the title requirements and becoming the second-youngest grandmaster in chess history. | Photo: Sardinia World Chess Festival / KNZO Photography",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sardinia-festival-2026-final-report",
          "pubDate" : "Tue, 12 May 2026 01:15:00",
          "title" : "Frederik Svane wins Sardinia Chess Festival, Faustino Oro secures GM title"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-2",
+         "pubDate" : "Tue, 12 May 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 2"
       },
       {
          "description" : "A new book by best-selling author Ben Mezrich offers the most detailed account yet of the controversy between GMs Magnus Carlsen and Hans Niemann, revealing new details behind what became the biggest scandal in modern chess. In Checkmate: Genius...",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Certificate :National Under 17 Chess Championship in Gujarat from 30 March to 07 April 2026"
       },
       {
-         "description" : "In this ChessBase training course, Ivan Sokolov explores the fascinating world of colour-reversed Benoni, Benko, and Blumenfeld structures, showing how Black's active piece play and dynamic counterplay can fully compensate for White's extra tempo. The course focuses heavily on understanding pawn structures, long-term middlegame plans, open files, and queenside pressure, giving players practical strategic guidance rather than pure memorization. It is especially suited for advanced players who want a deeper understanding of one of chess's most aggressive and strategically rich opening families.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategy-vol-14-reversed-colour-systems",
-         "pubDate" : "Mon, 11 May 2026 09:12:39",
-         "title" : "Ivan Sokolov - Understanding Middlegame Strategy Vol.14 Reversed Colour Systems"
-      },
-      {
          "description" : " The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on 6/9 was Faustino Oro who in spite of a loss to Nepomniachtchi in the final round earned his final GM norm at 12 years, 6 months, 26 days, the second youngest in history, a couple of months behind Abhimanyu Mishra.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "Southeastern Regional Women's and Girls' Chess Championship: Metro Atlanta Chess Connections"
       },
       {
-         "description" : "Following Javokhir Sindarov's victory at the Candidates Tournament, GM Jon Speelman examines the emergence of a new generation of World Championship contenders ahead of his expected title match against Gukesh Dommaraju. Particular attention is given to Sindarov's defensive draw against Fabiano Caruana, a game presented as a key moment of the tournament and an illustration of his preparation, resilience and practical decision-making under pressure. | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-239",
-         "pubDate" : "Sun, 10 May 2026 22:55:00",
-         "title" : "Jon Speelman: Scholars and gentlemen"
-      },
-      {
          "description" : "2026 Super Chess Classic Romania brings elite classical chess to Bucharest, Romania, from May 12 to May 24. The tournament takes place at the National Bank of Romania Museum in the historic Lipscani district. The event is the first classical tournament of the 2026 Grand Chess Tour season. It features a 10-player round robin, with the likes of Caruana, Keymer, Firouzja, Giri, So, Pragg and Sindarov participating. It will be an exciting week.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,28 +130,12 @@ news_feed (
          "title" : "Super Chess Classic in Romania"
       },
       {
-         "description" : "Today we have a special guest on Svitlana's Smart Moves: Leon Mendonca. Since we all got to know each other well during the Biel Chess Festival 2024, we decided it was finally time to record a show together. In this episode, Svitlana Demchenko introduces the tricky Cowboy Attack in the Sicilian, and surprisingly, Leon turns out to be a genuine fan of the opening as well, making this an opening variation that is definitely worth a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-cowboy-attack-with-leon-mendonca",
-         "pubDate" : "Sun, 10 May 2026 11:30:00",
-         "title" : "Svitlana's Smart Moves - The Cowboy Attack with Leon Mendonca"
-      },
-      {
          "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase&acute;26, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-14-save-resources-with-remote-engines",
          "pubDate" : "Sun, 10 May 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for beginners, part 14: Save resources with remote engines"
-      },
-      {
-         "description" : "Fabiano Caruana scored 7/9 points on the final day of blitz action at the Super Rapid & Blitz Poland tournament. In the end, he fell half a point short of catching Hans Niemann in the overall standings. Alireza Firouzja made a strong start in the blitz tournament on Friday, but his gap to Niemann in first place only grew on the final day of the blitz event. With this tournament victory, against world stars such as Fabiano Caruana, reigning world champion Gukesh Dommaraju and Candidates' winner Javokhir Sindarov, Niemann has reached a new milestone in his chess career. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-5",
-         "pubDate" : "Sat, 09 May 2026 21:50:00",
-         "title" : "Hans Niemann wins Super Rapid & Blitz Poland, reaches new milestone"
       },
       {
          "description" : "Bullet Brawl&#38;nbsp;was set alight on Saturday by another junior talent, GM Andy Woodward, who blazed his way to a debut title ahead 191 titled players. Fresh off a solid performance at TePe Sigeman &#38;amp; Co Chess Tournament 2026, Woodward put on an...",
@@ -194,14 +186,6 @@ news_feed (
          "title" : "Super Rapid & Blitz Poland - Live!"
       },
       {
-         "description" : "In this episode of Monthly Dragon, Chris Ward presents three entertaining and highly tactical Dragon games, focusing on key themes such as the thematic d5-break, the power of the Dragon bishop and active king play in the endgame. Particularly impressive are the games featuring Havard Haug, Emre Can and Hikaru Nakamura, where Black repeatedly seizes the initiative through tactical motifs, loose pieces, and aggressive rook and queen activity. The main lesson throughout the episode is that in the Dragon, dynamic play, piece activity, and tactical awareness are often far more important than perfect pawn structure. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-beautiful-sicilian-tactics-the-monthly-dragon",
-         "pubDate" : "Sat, 09 May 2026 11:00:00",
-         "title" : "Three beautiful Sicilian tactics - The Monthly Dragon"
-      },
-      {
          "description" : "Following the ECU Board meeting on 30 April, the ECU Board met via teleconference on 8 May 2026. Main information and decisions: The ECU Board approved the verification report of the ECU Legal adviser Mr. Marco Biagioli confirming the validity of all candidacies for ECU elections received by 17th of April and published on 20th of April 2026. https://www.europechess.org/ecu-elections-2026/ Regarding letters and requests received by the ECU, the ECU Board notes the decisions already announced. Communique of the ECU Board []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -224,22 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-wins-2026-super-rapid-blitz-poland",
          "pubDate" : "Sat, 09 May 2026 07:53:00",
          "title" : "Wildcard Niemann Wins Super Rapid & Blitz 2026 With Clutch Finale"
-      },
-      {
-         "description" : "The Advance Variation in the French Defence can be seen as the purest form of handling this opening, as White forms the thematic French pawn chain as early as move three and aims to rely on his advantage in space and minor pieces. In his review, Lukas K&ouml;pl examines Jan Werle's contribution to the \"60 Minutes\" series from the perspective of both player and trainer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-jan-werle-french-advance",
-         "pubDate" : "Sat, 09 May 2026 07:00:00",
-         "title" : "Review: \"Mastering the French Advance Main Line\" by Jan Werle"
-      },
-      {
-         "description" : "Alireza Firouzja scored 6&frac12;/9 to top the first day of blitz at the Super Rapid & Blitz Poland tournament, but his difficult rapid section left him only eighth overall. Hans Niemann remains the sole leader despite scoring 3&frac12;/9 on Friday, with Wesley So half a point behind. Fabiano Caruana and Vladimir Fedoseev are tied for third, a full point behind So. The standings remain tightly packed before Saturday's final day of action. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-4",
-         "pubDate" : "Sat, 09 May 2026 04:30:00",
-         "title" : "Super Rapid & Blitz: Niemann leads, Firouzja shines on first day of blitz"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130969427.cms\" />Javokhir Sindarov defeated D Gukesh in their first-ever blitz clash at the Grand Chess Tour in Warsaw, avenging his earlier rapid loss to the World Champion. Gukesh's rare fist-pump celebration after that previous win had gone viral. With one win each, their growing rivalry now heads into a decisive final reverse-blitz showdown before this year's World Championship clash.",
@@ -610,14 +578,6 @@ news_feed (
          "title" : "Power cut, candlelight, giant-killing: 8-year-old stuns World No. 7 Keymer"
       },
       {
-         "description" : "2,535 players from 36 states (plus Washington, D.C.) competed in Baltimore, MD to determine the nation's top elementary school players; New York players and schools win seven championships. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> See our recap report on Monday, May 4, which will include photos. In the meantime, see photos and videos on Twitter/X via @USChess and #ElemChessChamps, and on our Instagram and Facebook pages. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos by Caroline King.<br> <br> The 202",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-national-elementary-championships-results",
-         "pubDate" : "Sun, 03 May 2026 00:00:00",
-         "title" : "Flash Report: National Elementary Championships Results"
-      },
-      {
          "description" : " Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only winner when he defeated Nils Grandelius using the Modern Benoni as black. Once Carlsen assumed the initiative, he quickly overpowered his opponent. Nodirbek Abdusattorov seemed to be heading for a win against Andy Woodward first just before first time control 39.g6! would have won and 40.Nd4? was almost equal. Abdusattorov was then soon winning again but couldn't land the final blow and 60.Rxf7? was the move that ended the winning chance",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -632,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
          "pubDate" : "Sat, 02 May 2026 16:50:00",
          "title" : "Carlsen Beats Grandelius To Catch Leaders"
-      },
-      {
-         "description" : "For the first time since January, GM Hikaru Nakamura took part in and won an edition of Bullet Brawl, keeping his 100% win rate in 2026 intact. The Bullet Brawl king scored 52.5/65 for a total of 172 points, 20 points more than the second-placed G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-2-2026",
-         "pubDate" : "Sat, 02 May 2026 16:03:00",
-         "title" : "Bullet Brawl King Nakamura Returns To Win 55th Title"
       },
       {
          "description" : "You sit down at your desk. Training is planned. And then your brain starts negotiating. &#8220;I'm not really feeling it today. Maybe I should just watch an opening video instead. Or take it easy and play some blitz.&#8221; If you're anything like me, you know how this ends. You dig a little deeper and come []",
