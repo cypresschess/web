@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A little over a hundred years ago, the Dresden Chess Club celebrated its 50th anniversary with a major international tournament. It was not the favoured Alexander Alekhine, who became World Champion a year later, but Aron Nimzowitsch who emerged as the winner of the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dresden-chess-congress-1926-centenary",
+         "pubDate" : "Wed, 13 May 2026 02:10:00",
+         "title" : "A hundred years ago: The Dresden Chess Congress of 1926"
+      },
+      {
          "description" : "About a month ago, the 2026 FIDE Candidates Tournament concluded in the picturesque village of Pegia, near Paphos, Cyprus. Yevgeny Levanzov had the privilege of spending an extended time at the event and delivering three lectures there. In the following review, he covers the tournament both from a professional chess perspective and by describing the surrounding atmosphere, including the various activities offered to spectators, notable figures who came to visit and some touching human stories. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Nepomniachtchi Ends 20-Month Titled Tuesday Drought"
       },
       {
-         "description" : "Frederik Svane won the Sardinia World Chess Festival outright with 7&frac12;/9 points, defeating Karthikeyan Murali in the final round after both had entered the day tied for first place. The event in Orosei also saw 12-year-old Faustino Oro secure his third grandmaster norm, completing the title requirements and becoming the second-youngest grandmaster in chess history. | Photo: Sardinia World Chess Festival / KNZO Photography",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sardinia-festival-2026-final-report",
-         "pubDate" : "Tue, 12 May 2026 01:15:00",
-         "title" : "Frederik Svane wins Sardinia Chess Festival, Faustino Oro secures GM title"
-      },
-      {
          "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ben-mezrich-checkmate-carlsen-niemann-controversy",
          "pubDate" : "Mon, 11 May 2026 22:54:00",
          "title" : "\"He's A Genius\" - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
-      },
-      {
-         "description" : "With a superb performance, a 15-year-old prodigy dominated the international Baku Open: Sina Movahed (pictured left in the title photo) won seven games and drew twice. The young Iranian GM thus won the strong tournament with 8/9, finishing a point and a half ahead of the rest of the field. The best tiebreak scores among the players tied for second place were achieved by IM Santhosh Parvathareddy Ajay - the Indian is also still an U16 player - and Khazar Babazadar (AZE), ahead of five other players on the same score. | Photos: Organizers / Azerbaijan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/15-year-old-sina-movahed-wins-strong-baku-open",
-         "pubDate" : "Mon, 11 May 2026 18:59:03",
-         "title" : "15-year old Sina Movahed wins strong Baku Open"
       },
       {
          "description" : "It took GM Axel Smith more than 29 hours to complete a 49-board blindfold simul this weekend. The Swedish grandmaster scored a dominant 41-8&#38;mdash;but said afterward that raising awareness for a climate cause mattered more than the result or any r...",
