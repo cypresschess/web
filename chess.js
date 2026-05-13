@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jose Martinez won the opening stage of the 2026 Romania Grand Prix in Bucharest after drawing (with black) an Armageddon decider against Aydin Suleymanli. The rapid tournament, held at the Palace of Parliament on 9-10 May, attracted 581 players from 27 countries. Five players tied for first place on 8&frac12;/10, with Martinez and Suleymanli advancing to the playoff thanks to superior Buchholz scores. | Photo: Romanian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bucharest-grand-prix-2026-final-report",
+         "pubDate" : "Wed, 13 May 2026 15:00:00",
+         "title" : "Martinez prevails in Armageddon against Suleymanli, wins Bucharest Grand Prix"
+      },
+      {
+         "description" : "A FIDE Arbiter seminar was organised by All India Chess Federation and FIDE Arbiters' Commission at Vijayawad, Andhra Pradesh, INDIA from 42 to 26 April",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminar-vijayawada-india-from-24-26-april-2026/",
+         "pubDate" : "Wed, 13 May 2026 12:21:14",
+         "title" : "FIDE ARBITER SEMINAR, Vijayawada (INDIA) from 24-26 April 2026"
+      },
+      {
          "description" : "The first stage of the inaugural FIDE World University Team Championship has concluded, with 32 teams advancing from two online Swiss qualifiers to the knockout phase. Saint Louis University topped the Americas and Africa qualifier, while Ural State Mining University led the Europe and Asia event. The qualified teams will now compete online for eight places in the over-the-board finals, scheduled for August 3-9 in Almaty, Kazakhstan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
