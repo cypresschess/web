@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
+         "pubDate" : "Wed, 13 May 2026 22:47:00",
+         "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
+      },
+      {
          "description" : "If a game could have been legally drawn dozens of moves earlier, why was it played on? Why were obvious draw claims never made, even when repetitions were plainly visible? Why did both players repeatedly adjourn a position whose theoretical outcome was already beyond doubt? Was it artificially extended to get it recognition by Guinness? Estonian chess expert and trainer Valery Golubenko tells us about the struggle to regulate very long theoretical endings.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bucharest-grand-prix-2026-final-report",
          "pubDate" : "Wed, 13 May 2026 15:00:00",
          "title" : "Martinez prevails in Armageddon against Suleymanli, wins Bucharest Grand Prix"
+      },
+      {
+         "description" : "France announced its Open and Women&#39;s teams for the 46th FIDE Chess Olympiad 2026 on Tuesday and notably addressed the absence of French number-one and world number-nine GM Alireza Firouzja. The Iranian-born grandmaster, who moved to France in 201...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/france-olympiad-lineup-firouzja-left-out",
+         "pubDate" : "Wed, 13 May 2026 13:04:32",
+         "title" : "Firouzja Turns Down French Olympiad Spot, Federation Warns Over Future"
       },
       {
          "description" : "A FIDE Arbiter seminar was organised by All India Chess Federation and FIDE Arbiters' Commission at Vijayawad, Andhra Pradesh, INDIA from 42 to 26 April",
@@ -80,6 +96,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dresden-chess-congress-1926-centenary",
          "pubDate" : "Wed, 13 May 2026 02:10:00",
          "title" : "A hundred years ago: The Dresden Chess Congress of 1926"
+      },
+      {
+         "description" : "The Frank P. Samford Jr. and Frank Samford III Chess Fellowships are pleased to announce the 40th consecutive annual awards. The fellowships were created by the late Frank P. Samford Jr., of Birmingham, Ala., to advance the game he loved by identifying and assisting the most promising young chess masters in the United States.Since its inception in 1987 the Samford, under the leadership of Frank Samford III, has been successful in promoting the chess careers of more than three dozen young Americans, many of whom have gone on to become grandmasters, members of the U.S. Olympiad Chess Team, and U.S. Champions. Four members of the 2024 bronze medal-winning U.S. Women's Olympiad team were current",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-annual-samford-fellowships-announced",
+         "pubDate" : "Wed, 13 May 2026 00:00:00",
+         "title" : "2026 Annual Samford Fellowships Announced"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 15 through 17, the US Chess National Middle School (K-8) Championship take place in Round Rock, TX! This national event features some of the best scholastic chess players in the United States, and US Chess is proud to host this exciting event.First thing's first, registration is still open until 10:00 a.m. CDT on Friday, May 15. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Middle School (K-8) Championship! Special Guest Grandmaster Julio SadorraUS Chess is proud to we",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-middle-school-k-8-championship-preview",
+         "pubDate" : "Wed, 13 May 2026 00:00:00",
+         "title" : "2026 National Middle School (K-8) Championship Preview!"
       },
       {
          "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -570,14 +602,6 @@ news_feed (
          "title" : "Sindarov, Caruana, So, Niemann, Fedoseev All Share Lead On Opening Day"
       },
       {
-         "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-1",
-         "pubDate" : "Tue, 05 May 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 1"
-      },
-      {
          "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-4",
          "pubDate" : "Mon, 04 May 2026 12:01:00",
          "title" : "Van Foreest Beats Carlsen In Thriller; 14-Year-Old Erdogmus Grabs Sole Lead"
-      },
-      {
-         "description" : "Sunday saw the coronation of new national champions at the 2026 National Elementary School Championships in Baltimore, MD. Note that this was championships, plural, because this event hosts four distinct national championships across different elementary grade ranges.Yesterday's flash report highlights the individual and team winners, full results can be found here, and the tournament is already rated on MUIR.Now, it's time to dive into the critical moments of Sunday's games with a final batch of annotations courtesy of commentator WGM Sabina Foisor. K-6: Four Tie for FirstThe K-6 Championship is a unique hybrid between the typical wide-ranging sections of the spring scholastics and the by-g",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-national-elementary-school-championships-full-report",
-         "pubDate" : "Mon, 04 May 2026 00:00:00",
-         "title" : "2026 National Elementary School Championships: Full Report"
       },
       {
          "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/31st-tepe-sigeman-co-chess-tournament-2026",
          "pubDate" : "Sat, 2 May 2026 21:50:00",
          "title" : "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2"
-      },
-      {
-         "description" : "&#34;That was a fun game, for sure!&#34; said GM Magnus Carlsen after risking the Benoni to beat GM Nils Grandelius and join the 2026 TePe Sigeman Chess Tournament leaders after round two. GM Nodirbek Abdusattorov let a winning position slip three times a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-2",
-         "pubDate" : "Sat, 02 May 2026 16:50:00",
-         "title" : "Carlsen Beats Grandelius To Catch Leaders"
       },
       {
          "description" : "You sit down at your desk. Training is planned. And then your brain starts negotiating. &#8220;I'm not really feeling it today. Maybe I should just watch an opening video instead. Or take it easy and play some blitz.&#8221; If you're anything like me, you know how this ends. You dig a little deeper and come []",
