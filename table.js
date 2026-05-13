@@ -10,6 +10,7 @@ jtable([
 "CYPRESS","2026-05-08","51","<a href=https://ratings.uschess.org/event/202605080233 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-03","15","<a href=https://ratings.uschess.org/event/202605030283 target='_blank'>Houston FIDE 26</a>",
 "HOUSTON","2026-05-03","47","<a href=https://ratings.uschess.org/event/202605030263 target='_blank'>Poison Pawns May 2026</a>",
+"HOUSTON","2026-05-02","17","<a href=https://ratings.uschess.org/event/202605021013 target='_blank'>HCA-CK chess tournament May-26</a>",
 "KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
 "HOUSTON","2026-05-02","10","<a href=https://ratings.uschess.org/event/202605020163 target='_blank'>chesspanda05022026saturday</a>",
 "CYPRESS","2026-05-01","32","<a href=https://ratings.uschess.org/event/202605010333 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-02-21","59","<a href=https://ratings.uschess.org/event/202602210653 target='_blank'>TEXAS ACTION CHAMPIONSHIP 2026</a>",
 "HOUSTON","2026-02-21","9","<a href=https://ratings.uschess.org/event/202602210353 target='_blank'>chesspanda02212025saturday</a>",
 "CYPRESS","2026-02-20","40","<a href=https://ratings.uschess.org/event/202602200323 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-02-20","15","<a href=https://ratings.uschess.org/event/202602200243 target='_blank'>The Friday Knights</a>",
 ]);
