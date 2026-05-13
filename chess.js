@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are proud to spotlight a landmark moment for the chess community: the C.E.S.S. Project &#8220;Competences and Higher Education through Chess&#8221; a groundbreaking EU-funded initiative awarded to the Romanian Chess Federation under the Smart Growth, Digitalization and Financial Instruments Programme 2021-2027 (PoCIDIF). With a total investment of 4,5 million euros, this is one of the most significant European funding achievements in the history of chess a powerful testament to the sport's growing recognition as a tool for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/introducing-c-e-s-s-a-historic-milestone-for-chess-in-europe/",
+         "pubDate" : "Wed, 13 May 2026 07:11:35",
+         "title" : "Introducing C.E.S.S. - A Historic Milestone for Chess in Europe"
+      },
+      {
+         "description" : "46th Chess Olympiad is scheduled to held in Samarkand, Uzbekistan, from September 15-27, 2026,As per the selection regulations of AICF, the final team will be selected",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/qualification-criteria-for-the-46th-chess-olympiad-2026/",
+         "pubDate" : "Wed, 13 May 2026 06:32:10",
+         "title" : "Qualification criteria for the 46th Chess Olympiad 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131054548.cms\" />Koneru Humpy said only China's Zhu Jiner currently has the potential to break the 2600 Elo barrier and enter the Open world top-100 among women players. Humpy stressed that women need regular participation in Open tournaments to improve significantly. She also defended withdrawing from the Candidates event over safety concerns and called India's chess rise a \"Tamil Nadu boom\".",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/judit-polgar-and-hou-yifan-were-exceptions-koneru-humpy-urges-women-chess-players-to-play-more-open-tournaments/articleshow/131054548.cms",
+         "pubDate" : "Wed, 13 May 2026 04:20:58",
+         "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
+      },
+      {
          "description" : "A little over a hundred years ago, the Dresden Chess Club celebrated its 50th anniversary with a major international tournament. It was not the favoured Alexander Alekhine, who became World Champion a year later, but Aron Nimzowitsch who emerged as the winner of the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
