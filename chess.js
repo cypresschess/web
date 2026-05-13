@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first stage of the inaugural FIDE World University Team Championship has concluded, with 32 teams advancing from two online Swiss qualifiers to the knockout phase. Saint Louis University topped the Americas and Africa qualifier, while Ural State Mining University led the Europe and Asia event. The qualified teams will now compete online for eight places in the over-the-board finals, scheduled for August 3-9 in Almaty, Kazakhstan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-university-team-championship-2026-first-stage",
+         "pubDate" : "Wed, 13 May 2026 11:00:00",
+         "title" : "FIDE World University Team Chess Championship 2026: 32 teams advance to knockout stage"
+      },
+      {
+         "description" : "Please ignore any emails that are not from a named person in the ECF Office asking you to &#8216;Update Password' or similar, and claiming your email account passord is set...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/password-expiration-phishing-emails/",
+         "pubDate" : "Wed, 13 May 2026 07:47:48",
+         "title" : "Password expiration phishing emails"
+      },
+      {
+         "description" : "The Asian Rapid &#38; Blitz Chess Championship will be held at Hong Kong, China from 27th to 31st July 2026. The detailed regulations you can",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-rapid-blitz-chess-championship-2026-scheduled-to-be-held-from-27th-to-31st-july-2026-at-hong-kong/",
+         "pubDate" : "Wed, 13 May 2026 07:25:49",
+         "title" : "Asian Rapid & Blitz Chess Championship 2026, scheduled to be held from 27th to 31st July 2026 at Hong Kong."
+      },
+      {
          "description" : "We are proud to spotlight a landmark moment for the chess community: the C.E.S.S. Project &#8220;Competences and Higher Education through Chess&#8221; a groundbreaking EU-funded initiative awarded to the Romanian Chess Federation under the Smart Growth, Digitalization and Financial Instruments Programme 2021-2027 (PoCIDIF). With a total investment of 4,5 million euros, this is one of the most significant European funding achievements in the history of chess a powerful testament to the sport's growing recognition as a tool for []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
