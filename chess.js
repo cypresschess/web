@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If a game could have been legally drawn dozens of moves earlier, why was it played on? Why were obvious draw claims never made, even when repetitions were plainly visible? Why did both players repeatedly adjourn a position whose theoretical outcome was already beyond doubt? Was it artificially extended to get it recognition by Guinness? Estonian chess expert and trainer Valery Golubenko tells us about the struggle to regulate very long theoretical endings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-5",
+         "pubDate" : "Wed, 13 May 2026 19:00:00",
+         "title" : "A Game That Outlasted the Day (5)"
+      },
+      {
          "description" : "Jose Martinez won the opening stage of the 2026 Romania Grand Prix in Bucharest after drawing (with black) an Armageddon decider against Aydin Suleymanli. The rapid tournament, held at the Palace of Parliament on 9-10 May, attracted 581 players from 27 countries. Five players tied for first place on 8&frac12;/10, with Martinez and Suleymanli advancing to the playoff thanks to superior Buchholz scores. | Photo: Romanian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +82,14 @@ news_feed (
          "title" : "A hundred years ago: The Dresden Chess Congress of 1926"
       },
       {
+         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-2",
+         "pubDate" : "Wed, 13 May 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 2"
+      },
+      {
          "description" : "About a month ago, the 2026 FIDE Candidates Tournament concluded in the picturesque village of Pegia, near Paphos, Cyprus. Yevgeny Levanzov had the privilege of spending an extended time at the event and delivering three lectures there. In the following review, he covers the tournament both from a professional chess perspective and by describing the surrounding atmosphere, including the various activities offered to spectators, notable figures who came to visit and some touching human stories. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-titled-tuesday-may-12-2026",
          "pubDate" : "Tue, 12 May 2026 12:22:00",
-         "title" : "Nepomniachtchi Ends 20-Month Titled Tuesday Drought"
+         "title" : "Nepomniachtchi Back In Titled Tuesday Win Column"
       },
       {
          "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -103,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ben-mezrich-checkmate-carlsen-niemann-controversy",
          "pubDate" : "Mon, 11 May 2026 22:54:00",
-         "title" : "\"He's A Genius\" - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
+         "title" : "'He's A Genius' - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
       },
       {
          "description" : "It took GM Axel Smith more than 29 hours to complete a 49-board blindfold simul this weekend. The Swedish grandmaster scored a dominant 41-8&#38;mdash;but said afterward that raising awareness for a climate cause mattered more than the result or any r...",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-national-elementary-school-championships-full-report",
          "pubDate" : "Mon, 04 May 2026 00:00:00",
          "title" : "2026 National Elementary School Championships: Full Report"
-      },
-      {
-         "description" : "Attention US Chess Delegates:Please submit your Advance Delegate Motions (ADMs) for the 2026 Advance Agenda by May 8, 2026 by 5 p.m. EDT. Use this fillable form. For guidelines, click here.To submit, email Click here to show email address. If you wish to check your delegate status, use this link. The page for the 2026 Annual Meeting is here.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/delegates-call-submit-advance-delegate-motions-adms-may-8",
-         "pubDate" : "Mon, 04 May 2026 00:00:00",
-         "title" : "Delegates Call: Submit Advance Delegate Motions (ADMs) by May 8"
       },
       {
          "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
