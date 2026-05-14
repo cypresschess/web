@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Thu, 14 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
          "description" : "Wadim Rosenstein came into prominence when he organised the first edition of WR Chess in 2023. He then came up with the idea of the FIDE World Rapid and Blitz Teams - an event that has become a mainstay in the chess calendar. In recent times, if you follow Rosenstein on his X account, the number of activities that he is doing for chess has grown exponentially! In this interview, we ask him about these events, his vision for chess and whether he is planning to become the FIDE President. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
          "pubDate" : "Fri, 24 Apr 2026 07:00:34",
          "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
-      },
-      {
-         "description" : " The 26th European Individual Championship took place 6th (arrival day) to 20th April 2026. In an astonishing result 17 year-old Roman Dehtiarov who started as 126th seed and has had travel limited by the war won with 9/11. There is a reworked game file now. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/26th-european-individual-championship-2026",
-         "pubDate" : "Thu, 23 Apr 2026 14:19:00",
-         "title" : "26th European Individual Championship 2026 - Games and Results"
       }
    ]
 }
