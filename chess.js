@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Times explores chess revival at Simpson's in the Strand"
       },
       {
+         "description" : "All games were drawn as the Super Chess Classic Romania 2026 began in Bucharest on Thursday. It wasn&#39;t for a lack of fighting spirit, with GM Alireza Firouzja spoiling a decisive advantage against GM Praggnanandhaa Rameshbabu, while GMs Wesley So ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-1",
+         "pubDate" : "Thu, 14 May 2026 16:12:02",
+         "title" : "Pragg Escapes Vs. Firouzja As Super Chess Classic Begins In Bucharest"
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
          "pubDate" : "Thu, 14 May 2026 06:21:05",
          "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
+      },
+      {
+         "description" : "The Chess Journalists of America (CJA) calls for nominations for the annual Chess Journalists of America awards. The CJA Awards recognize the best in all facets of chess journalism, both in print and online. The best chess articles, columns, photojournalism, online writing, and social media are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2025, and May 31, 2026.CJA is a nonprofit organization dedicated to promoting the study and knowledge of chess as a journalistic and scholarly endeavor. Membership is open to everyone at an annual membership ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/call-nominations-2026-chess-journalist-america-awards",
+         "pubDate" : "Thu, 14 May 2026 00:00:00",
+         "title" : "Call for Nominations: 2026 Chess Journalist of America Awards"
       },
       {
          "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Check is in the Mail, May 2026: Absolute Success!"
       },
       {
-         "description" : "Getting a new rule into the rulebook - or revising an old time rule - can take different paths before they are considered by the Delegates at their annual meeting. Changes can be proposed as motions at the Membership meeting, on the advanced Delegates' Meeting agenda, or live, at their meeting, by a Delegate. Some rules take a lot of debate, some do not. In the end the Delegates give the new wording a thumbs up, thumbs down, or a thumb that is parallel with the floor (undecided).A few columns ago we took a look some of the rules changes the 2025 Delegates debated. Once the smoke cleared, a few of those rules got sent off to the Rules Committee for another look see. The committee will report ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-rulebook-wanna-bes",
-         "pubDate" : "Wed, 06 May 2026 00:00:00",
-         "title" : "Just the Rules: Rulebook Wanna Be(s)"
-      },
-      {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
          "pubDate" : "Sun, 3 May 2026 21:31:00",
          "title" : "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3"
-      },
-      {
-         "description" : "GMs Yagiz Kaan Erdogmus and Arjun Erigaisi picked up their first wins of the 2026 TePe Sigeman Chess Tournament to reach a five-way tie for the lead with GMs Magnus Carlsen, Nodirbek Abdusattorov, and Andy Woodward. Erdogmus is up to 2711.9 and wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-3",
-         "pubDate" : "Sun, 03 May 2026 10:41:00",
-         "title" : "Erdogmus, Arjun Grab 1st Wins To Join Leaders"
       },
       {
          "description" : "The 2nd quarter of 2026 ECU Board meeting held via teleconference on 30 April 2026. Main information and Decision ECU Elections and General Assembly 2026 &#160; European Championships",
