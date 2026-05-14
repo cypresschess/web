@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Simpson's in the Strand has reopened with a nod to its origins as a chess venue, a detail explored by Harry Wallop in The Times. Wallop's article uses the London restaurant's history to examine a wider revival of over-the-board chess, from social clubs and caf&eacute; events to rising sales of physical chess sets, and considers why the game's face-to-face appeal has endured in a screen-heavy age. | Photo: Matt Brown via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-times-simpsons-chess-revival",
+         "pubDate" : "Thu, 14 May 2026 20:45:00",
+         "title" : "The Times explores chess revival at Simpson's in the Strand"
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Wadim Rosenstein and his intensive plan to promote chess"
       },
       {
-         "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-opening-encyclopedia-2026",
-         "pubDate" : "Thu, 14 May 2026 07:00:00",
-         "title" : "Review: Opening Encyclopedia 2026"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084127.cms\" />Faustino Oro, a 12-year-old Argentine chess prodigy known as the \"Messi of Chess,\" has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro's talent, discipline, and love for the game helped him succeed.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,36 +34,12 @@ news_feed (
          "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
       },
       {
-         "description" : "Four days, thousands of rapid and blitz chess games, international and national participants such as Maghsoodloo, Pranav and Blohberger - the 2026 Grand Prix at PlusCity in the Austrian town of Pasching is once again set to become one of Europe's biggest chess festivals. Anyone who wants not only to think chess, but to experience it, should be there in person and enjoy the chess atmosphere at the Austrian National Championships. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pluscity-grand-prix-2026-preview",
-         "pubDate" : "Thu, 14 May 2026 06:10:00",
-         "title" : "PlusCity Grand Prix in Austria: Rapid and blitz chess extravaganza"
-      },
-      {
          "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
          "pubDate" : "Wed, 13 May 2026 22:47:00",
          "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
-      },
-      {
-         "description" : "If a game could have been legally drawn dozens of moves earlier, why was it played on? Why were obvious draw claims never made, even when repetitions were plainly visible? Why did both players repeatedly adjourn a position whose theoretical outcome was already beyond doubt? Was it artificially extended to get it recognition by Guinness? Estonian chess expert and trainer Valery Golubenko tells us about the struggle to regulate very long theoretical endings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-5",
-         "pubDate" : "Wed, 13 May 2026 19:00:00",
-         "title" : "A Game That Outlasted the Day (5)"
-      },
-      {
-         "description" : "Jose Martinez won the opening stage of the 2026 Romania Grand Prix in Bucharest after drawing (with black) an Armageddon decider against Aydin Suleymanli. The rapid tournament, held at the Palace of Parliament on 9-10 May, attracted 581 players from 27 countries. Five players tied for first place on 8&frac12;/10, with Martinez and Suleymanli advancing to the playoff thanks to superior Buchholz scores. | Photo: Romanian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bucharest-grand-prix-2026-final-report",
-         "pubDate" : "Wed, 13 May 2026 15:00:00",
-         "title" : "Martinez prevails in Armageddon against Suleymanli, wins Bucharest Grand Prix"
       },
       {
          "description" : "France announced its Open and Women&#39;s teams for the 46th FIDE Chess Olympiad 2026 on Tuesday and notably addressed the absence of French number-one and world number-nine GM Alireza Firouzja. The Iranian-born grandmaster, who moved to France in 201...",
@@ -80,14 +56,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-vijayawada-india-from-24-26-april-2026/",
          "pubDate" : "Wed, 13 May 2026 12:21:14",
          "title" : "FIDE ARBITER SEMINAR, Vijayawada (INDIA) from 24-26 April 2026"
-      },
-      {
-         "description" : "The first stage of the inaugural FIDE World University Team Championship has concluded, with 32 teams advancing from two online Swiss qualifiers to the knockout phase. Saint Louis University topped the Americas and Africa qualifier, while Ural State Mining University led the Europe and Asia event. The qualified teams will now compete online for eight places in the over-the-board finals, scheduled for August 3-9 in Almaty, Kazakhstan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-university-team-championship-2026-first-stage",
-         "pubDate" : "Wed, 13 May 2026 11:00:00",
-         "title" : "FIDE World University Team Chess Championship 2026: 32 teams advance to knockout stage"
       },
       {
          "description" : "Please ignore any emails that are not from a named person in the ECF Office asking you to &#8216;Update Password' or similar, and claiming your email account passord is set...",
@@ -130,14 +98,6 @@ news_feed (
          "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
       },
       {
-         "description" : "A little over a hundred years ago, the Dresden Chess Club celebrated its 50th anniversary with a major international tournament. It was not the favoured Alexander Alekhine, who became World Champion a year later, but Aron Nimzowitsch who emerged as the winner of the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dresden-chess-congress-1926-centenary",
-         "pubDate" : "Wed, 13 May 2026 02:10:00",
-         "title" : "A hundred years ago: The Dresden Chess Congress of 1926"
-      },
-      {
          "description" : "The Frank P. Samford Jr. and Frank Samford III Chess Fellowships are pleased to announce the 40th consecutive annual awards. The fellowships were created by the late Frank P. Samford Jr., of Birmingham, Ala., to advance the game he loved by identifying and assisting the most promising young chess masters in the United States.Since its inception in 1987 the Samford, under the leadership of Frank Samford III, has been successful in promoting the chess careers of more than three dozen young Americans, many of whom have gone on to become grandmasters, members of the U.S. Olympiad Chess Team, and U.S. Champions. Four members of the 2024 bronze medal-winning U.S. Women's Olympiad team were current",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -160,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-2",
          "pubDate" : "Wed, 13 May 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 2"
-      },
-      {
-         "description" : "About a month ago, the 2026 FIDE Candidates Tournament concluded in the picturesque village of Pegia, near Paphos, Cyprus. Yevgeny Levanzov had the privilege of spending an extended time at the event and delivering three lectures there. In the following review, he covers the tournament both from a professional chess perspective and by describing the surrounding atmosphere, including the various activities offered to spectators, notable figures who came to visit and some touching human stories. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2026-recap-levanzov",
-         "pubDate" : "Tue, 12 May 2026 17:20:00",
-         "title" : "FIDE Candidates 2026: Experiences, stories and analysis"
       },
       {
          "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
@@ -266,22 +218,6 @@ news_feed (
          "title" : "Southeastern Regional Women's and Girls' Chess Championship: Metro Atlanta Chess Connections"
       },
       {
-         "description" : "2026 Super Chess Classic Romania brings elite classical chess to Bucharest, Romania, from May 12 to May 24. The tournament takes place at the National Bank of Romania Museum in the historic Lipscani district. The event is the first classical tournament of the 2026 Grand Chess Tour season. It features a 10-player round robin, with the likes of Caruana, Keymer, Firouzja, Giri, So, Pragg and Sindarov participating. It will be an exciting week.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-chess-classic-in-romania",
-         "pubDate" : "Sun, 10 May 2026 16:00:00",
-         "title" : "Super Chess Classic in Romania"
-      },
-      {
-         "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase&acute;26, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-14-save-resources-with-remote-engines",
-         "pubDate" : "Sun, 10 May 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 14: Save resources with remote engines"
-      },
-      {
          "description" : "Bullet Brawl&#38;nbsp;was set alight on Saturday by another junior talent, GM Andy Woodward, who blazed his way to a debut title ahead 191 titled players. Fresh off a solid performance at TePe Sigeman &#38;amp; Co Chess Tournament 2026, Woodward put on an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -296,14 +232,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2026-invitation/",
          "pubDate" : "Sat, 09 May 2026 17:18:13",
          "title" : "European Small Nations Individual Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "Winning against the reigning world champion is always difficult. The first German player to achieve this feat after the Second World War was Wolfgang Unzicker, for many years the number one player in the Federal Republic of Germany. At the 1961 European Team Championship, he outplayed the then world champion Mikhail Botvinnik. Wolfgang Uhlmann, for many years the number one player in the GDR, was not to be outdone. In 1962, at the Chess Olympiad in Varna, he defeated Botvinnik - though not quite as convincingly as Unzicker had done a year earlier. | Image: Wolfgang Uhlmann in 1970 | Photo: Rob Mieremet, Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/upset-varna-1962-wolfgang-uhlmann-beats-botvinnik",
-         "pubDate" : "Sat, 09 May 2026 17:00:00",
-         "title" : "A memorable upset: Wolfgang Uhlmann beats the world champion at the 1962 Varna Olympiad"
       },
       {
          "description" : " The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. Hans Moke Niemann held off a fabulous Caruana challenge on the final day to win by half a point. Wesley So was a point further back. World Championship rivals Gukesh and Sindarov met and Gukesh won the rapid game and Sindarov both blitz. The rapid games scored double the blitz game in the combined standing.",
