@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wadim Rosenstein came into prominence when he organised the first edition of WR Chess in 2023. He then came up with the idea of the FIDE World Rapid and Blitz Teams - an event that has become a mainstay in the chess calendar. In recent times, if you follow Rosenstein on his X account, the number of activities that he is doing for chess has grown exponentially! In this interview, we ask him about these events, his vision for chess and whether he is planning to become the FIDE President. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wadim-rosenstein-interview-2026",
+         "pubDate" : "Thu, 14 May 2026 11:00:00",
+         "title" : "Wadim Rosenstein and his intensive plan to promote chess"
+      },
+      {
          "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
