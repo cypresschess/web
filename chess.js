@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-opening-encyclopedia-2026",
+         "pubDate" : "Thu, 14 May 2026 07:00:00",
+         "title" : "Review: Opening Encyclopedia 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084127.cms\" />Faustino Oro, a 12-year-old Argentine chess prodigy known as the \"Messi of Chess,\" has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro's talent, discipline, and love for the game helped him succeed.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
+         "pubDate" : "Thu, 14 May 2026 06:21:05",
+         "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
+      },
+      {
+         "description" : "Four days, thousands of rapid and blitz chess games, international and national participants such as Maghsoodloo, Pranav and Blohberger - the 2026 Grand Prix at PlusCity in the Austrian town of Pasching is once again set to become one of Europe's biggest chess festivals. Anyone who wants not only to think chess, but to experience it, should be there in person and enjoy the chess atmosphere at the Austrian National Championships. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pluscity-grand-prix-2026-preview",
+         "pubDate" : "Thu, 14 May 2026 06:10:00",
+         "title" : "PlusCity Grand Prix in Austria: Rapid and blitz chess extravaganza"
+      },
+      {
          "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
