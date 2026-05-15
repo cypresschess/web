@@ -10,6 +10,14 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
+         "pubDate" : "Fri, 15 May 2026 11:19:39",
+         "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
+      },
+      {
          "description" : "In 1983, 21 years after Wolfgang Uhlmann's victory over Mikhail Botvinnik at the 1962 Chess Olympiad in Varna, a German player once again managed to defeat a reigning world champion. In the first round of the International Mephisto Chess Tournament in Hanover, Wolfram Hartmann, then a 27-year-old law student from Bamberg, achieved one of the most astonishing underdog victories in German chess history against Anatoly Karpov (pictured). | Photo: V. Savostianov, Novosti Press (via Douglas Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/19-year-old-pranesh-m-who-helped-vaishali-in-her-womens-candidates-win-joins-s8ul-ahead-of-esports-world-cup/articleshow/130801075.cms",
          "pubDate" : "Mon, 04 May 2026 13:17:59",
          "title" : "19-yo Pranesh, who helped Vaishali in her Candidates win, joins S8UL"
-      },
-      {
-         "description" : "GM Jorden van Foreest is the first player to beat GM Magnus Carlsen in classical chess since GM Gukesh Dommaraju&#39;s famous win in Norway Chess 2025. Carlsen looked set to escape a tough game intact but finally fell in a nail-biting endgame, while G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-4",
-         "pubDate" : "Mon, 04 May 2026 12:01:00",
-         "title" : "Van Foreest Beats Carlsen In Thriller; 14-Year-Old Erdogmus Grabs Sole Lead"
       },
       {
          "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
