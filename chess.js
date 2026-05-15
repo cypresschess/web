@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1983, 21 years after Wolfgang Uhlmann's victory over Mikhail Botvinnik at the 1962 Chess Olympiad in Varna, a German player once again managed to defeat a reigning world champion. In the first round of the International Mephisto Chess Tournament in Hanover, Wolfram Hartmann, then a 27-year-old law student from Bamberg, achieved one of the most astonishing underdog victories in German chess history against Anatoly Karpov (pictured). | Photo: V. Savostianov, Novosti Press (via Douglas Griffin)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hartmann-beats-karpov-hanover-1983",
+         "pubDate" : "Fri, 15 May 2026 11:00:00",
+         "title" : "Amateur beats world champion: Wolfram Hartmann beats Anatoly Karpov in Hanover (1983)"
+      },
+      {
+         "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uks-favourite-educational-book-seller-supports-english-schools-chess-championships/",
+         "pubDate" : "Fri, 15 May 2026 08:53:05",
+         "title" : "UK's favourite educational book seller supports English Schools Chess Championships"
+      },
+      {
          "description" : "All five games ended drawn in the first round of the Super Chess Classic Romania, though several players had chances to grab full points. Alireza Firouzja missed the clearest opportunity against defending champion Praggnanandhaa Rameshbabu (pictured), while Fabiano Caruana failed to make the most of an extra pawn against Jorden van Foreest. Wesley So v. Vincent Keymer was a double-edged, remarkable battle. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Super Chess Classic Romania: All draws, Pragg escapes against Firouzja"
       },
       {
-         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen at the 2022 Sinquefield Cup <a href=\"https://www.theguardian.com/sport/2022/oct/04/hans-niemann-chess-com-cheating-investigation-magnus-carlsen\">led to cheating allegations</a>, a $100m lawsuit, an out of court settlement, the Netflix documentary <em>Untold: Chess Mates</em>, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 first prize at the Warsaw Rapid &amp; Blitz in Poland, ahead of the US champion and t",
+         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with ­Magnus Carlsen at the 2022 ­Sinquefield Cup led to cheating allegations, a $100m lawsuit, an out-of-court settlement, the Netflix documentary Untold: Chess Mates, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 (&pound;37,400) first prize at the Warsaw Rapid and Blitz in Poland, ahead of the US champion and world No 3, Fabiano Caruana, India's reigning world champion, Gukesh Dommaraju, and the Candidates winner, Javokhir",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/france-olympiad-lineup-firouzja-left-out",
-         "pubDate" : "Wed, 13 May 2026 13:04:32",
+         "pubDate" : "Wed, 13 May 2026 13:04:00",
          "title" : "Firouzja Turns Down French Olympiad Spot, Federation Warns Over Future"
       },
       {
