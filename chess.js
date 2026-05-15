@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games ended drawn in the first round of the Super Chess Classic Romania, though several players had chances to grab full points. Alireza Firouzja missed the clearest opportunity against defending champion Praggnanandhaa Rameshbabu (pictured), while Fabiano Caruana failed to make the most of an extra pawn against Jorden van Foreest. Wesley So v. Vincent Keymer was a double-edged, remarkable battle. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-1",
+         "pubDate" : "Fri, 15 May 2026 07:25:00",
+         "title" : "Super Chess Classic Romania: All draws, Pragg escapes against Firouzja"
+      },
+      {
+         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen at the 2022 Sinquefield Cup <a href=\"https://www.theguardian.com/sport/2022/oct/04/hans-niemann-chess-com-cheating-investigation-magnus-carlsen\">led to cheating allegations</a>, a $100m lawsuit, an out of court settlement, the Netflix documentary <em>Untold: Chess Mates</em>, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 first prize at the Warsaw Rapid &amp; Blitz in Poland, ahead of the US champion and t",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
+         "pubDate" : "Fri, 15 May 2026 07:00:31",
+         "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
+      },
+      {
          "description" : "Simpson's in the Strand has reopened with a nod to its origins as a chess venue, a detail explored by Harry Wallop in The Times. Wallop's article uses the London restaurant's history to examine a wider revival of over-the-board chess, from social clubs and caf&eacute; events to rising sales of physical chess sets, and considers why the game's face-to-face appeal has endured in a screen-heavy age. | Photo: Matt Brown via Wikimedia Commons",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-1",
-         "pubDate" : "Thu, 14 May 2026 16:12:02",
+         "pubDate" : "Thu, 14 May 2026 16:12:00",
          "title" : "Pragg Escapes Vs. Firouzja As Super Chess Classic Begins In Bucharest"
-      },
-      {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Thu, 14 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
       },
       {
          "description" : "Wadim Rosenstein came into prominence when he organised the first edition of WR Chess in 2023. He then came up with the idea of the FIDE World Rapid and Blitz Teams - an event that has become a mainstay in the chess calendar. In recent times, if you follow Rosenstein on his X account, the number of activities that he is doing for chess has grown exponentially! In this interview, we ask him about these events, his vision for chess and whether he is planning to become the FIDE President. | Photo: Lennart Ootes",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/why-chess-improvement-planning-is-frustratin/",
          "pubDate" : "Sat, 25 Apr 2026 13:00:00",
          "title" : "Why Planning Can Be So Frustrating (But Important)"
-      },
-      {
-         "description" : " The teenager crushed Veselin Topalov 5-1 to become the youngest ever 2700-rated grandmaster, after which his coach said his future target was 2900 Yagiz Kaan Erdogmus, 14, has become chess's youngest ever 2700-rated grandmaster, breaking an age record set a decade ago by China's Wei Yi at 15. The Turkish teenager is already the highest ever rated 12-, 13- and 14-year-old, and the youngest to reach the world top 50. For the moment, his new achievement only shows in the live daily ratings, but will become official when Fide's monthly list for May is published at the end of the month. Veselin Topalov was the world No 1 20 years ago and was the Fide world champion. However, the Bulgarian has be",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
-         "pubDate" : "Fri, 24 Apr 2026 07:00:34",
-         "title" : "Chess: Turkey's Yagiz Erdogmus, 14, reaches record 2700 rating - 'now for 2800 and 2900'"
       }
    ]
 }
