@@ -10,11 +10,19 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
+         "description" : "No one has ever won all three 3 0 Thursday blitz tournaments on the same day, but GM Arjun Erigaisi nearly changed that on May 14, finishing just short on tiebreaks from a perfect hat-trick of victories. Arjun dominated the first tournament, winni...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-arjun-martinez-3-0-thursday-03-14-2026",
+         "pubDate" : "Fri, 15 May 2026 13:41:23",
+         "title" : "Arjun Erigaisi Nearly Sweeps 3 0 Thursday Tournaments"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
-         "pubDate" : "Fri, 15 May 2026 11:19:39",
+         "pubDate" : "Fri, 15 May 2026 11:19:00",
          "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
       },
       {
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-5",
          "pubDate" : "Tue, 05 May 2026 11:48:00",
          "title" : "Carlsen Bounces Back; Arjun Catches Erdogmus"
-      },
-      {
-         "description" : "A last-round win by GM Fabiano Caruana over GM Wesley So, who had been leading, left five players on 4/6 after three rounds at the 2026 Super Rapid &#38;amp; Blitz Poland, the first event of the 2026 Grand Chess Tour. Besides Caruana and So, other lea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-1",
-         "pubDate" : "Tue, 05 May 2026 10:41:00",
-         "title" : "Sindarov, Caruana, So, Niemann, Fedoseev All Share Lead On Opening Day"
       },
       {
          "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
