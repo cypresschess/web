@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Fri, 15 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
          "description" : "In 1983, 21 years after Wolfgang Uhlmann's victory over Mikhail Botvinnik at the 1962 Chess Olympiad in Varna, a German player once again managed to defeat a reigning world champion. In the first round of the International Mephisto Chess Tournament in Hanover, Wolfram Hartmann, then a 27-year-old law student from Bamberg, achieved one of the most astonishing underdog victories in German chess history against Anatoly Karpov (pictured). | Photo: V. Savostianov, Novosti Press (via Douglas Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hartmann-beats-karpov-hanover-1983",
          "pubDate" : "Fri, 15 May 2026 11:00:00",
-         "title" : "Amateur beats world champion: Wolfram Hartmann beats Anatoly Karpov in Hanover (1983)"
+         "title" : "Amateur beats world champion: Wolfram Hartmann beats Anatoly Karpov in Hannover (1983)"
       },
       {
          "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Super Chess Classic Romania: All draws, Pragg escapes against Firouzja"
       },
       {
-         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with ­Magnus Carlsen at the 2022 ­Sinquefield Cup led to cheating allegations, a $100m lawsuit, an out-of-court settlement, the Netflix documentary Untold: Chess Mates, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 (&pound;37,400) first prize at the Warsaw Rapid and Blitz in Poland, ahead of the US champion and world No 3, Fabiano Caruana, India's reigning world champion, Gukesh Dommaraju, and the Candidates winner, Javokhir",
+         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen at the 2022 Sinquefield Cup led to cheating allegations, a $100m lawsuit, an out-of-court settlement, the Netflix documentary Untold: Chess Mates, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 (&pound;37,400) first prize at the Warsaw Rapid and Blitz in Poland, ahead of the US champion and world No 3, Fabiano Caruana, India's reigning world champion, Gukesh Dommaraju, and the Candidates winner, Javokhir S",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
