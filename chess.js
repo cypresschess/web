@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. After two rounds, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are sharing the lead on 1&frac12;/2 points. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Sat, 16 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
+         "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/worst-advice-truth-about-success/",
+         "pubDate" : "Sat, 16 May 2026 13:00:00",
+         "title" : "The Worst Advice I ever Got"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , AOCA is organizing Senior National Arbiter Seminar &#38; exam on 25 &#38; 26 May 2026 at KIIT University ,Bhubaneshwar .",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-on-25-26-may-2026-at-kiit-university-bhubaneshwar/",
+         "pubDate" : "Sat, 16 May 2026 12:37:54",
+         "title" : "SNA Seminar & Exam on 25 & 26 May 2026 at KIIT University ,Bhubaneshwar ."
+      },
+      {
          "description" : "As the Grand Chess Tour (GCT) enters its 11th edition, it has become a cornerstone of the professional chess world. With a $2 million prize fund and a reach spanning four continents, the tour is often described as a \"well-oiled machine\". In an exclusive look at the tour's history, CEO and Executive Director Michael Khodarkovsky shares the philosophy that has sustained this elite circuit for over a decade. | Photo: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,7 +162,7 @@ news_feed (
          "title" : "Firouzja Turns Down French Olympiad Spot, Federation Warns Over Future"
       },
       {
-         "description" : "A FIDE Arbiter seminar was organised by All India Chess Federation and FIDE Arbiters' Commission at Vijayawad, Andhra Pradesh, INDIA from 42 to 26 April",
+         "description" : "A FIDE Arbiter seminar was organized by All India Chess Federation and FIDE Arbiters' Commission at Vijayawada, Andhra Pradesh, INDIA from 24 to 26 April",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-arbiter-seminar-vijayawada-india-from-24-26-april-2026/",
@@ -768,22 +792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
          "pubDate" : "Sun, 26 Apr 2026 18:30:00",
          "title" : "Chess.com Open Playoffs 2026 - Games and Results"
-      },
-      {
-         "description" : "The European School Chess Championship 2026 is set to commence in Trogir, Croatia, and takes place from April 26th to May 6th 2026. The event is played in six age categories: U7, U9, U11, U13, U15, and U17, with separate competitions for Open and for Girls U9 age section. The Championship gathers children from 20 European federations who will compete for trophies, medals and the title of European School Chess Champion in the respective age category. The top seeded players []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2026-starts-in-trogir-croatia/",
-         "pubDate" : "Sat, 25 Apr 2026 14:24:50",
-         "title" : "European School Chess Championship 2026 starts in Trogir, Croatia"
-      },
-      {
-         "description" : "Over the past weeks, I've gotten more and more excited about my upcoming work projects. I had so many ideas. But when I sat down to actually plan the quarter, I realized I won't have time for most of them. I started by writing down everything I wanted to do. What you see above is []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/why-chess-improvement-planning-is-frustratin/",
-         "pubDate" : "Sat, 25 Apr 2026 13:00:00",
-         "title" : "Why Planning Can Be So Frustrating (But Important)"
       }
    ]
 }
