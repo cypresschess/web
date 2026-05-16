@@ -26,6 +26,14 @@ news_feed (
          "title" : "SNA Seminar & Exam on 25 & 26 May 2026 at KIIT University ,Bhubaneshwar ."
       },
       {
+         "description" : "It was a dream day for the Dutch as GM Jorden van Foreest brilliantly defeated GM Bogdan-Daniel Deac, while a slip on move 68 by GM Alireza Firouzja saw GM Anish Giri join his compatriot in the lead. The five-way tie for first in the Super Chess C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-3",
+         "pubDate" : "Sat, 16 May 2026 12:11:43",
+         "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
+      },
+      {
          "description" : "As the Grand Chess Tour (GCT) enters its 11th edition, it has become a cornerstone of the professional chess world. With a $2 million prize fund and a reach spanning four continents, the tour is often described as a \"well-oiled machine\". In an exclusive look at the tour's history, CEO and Executive Director Michael Khodarkovsky shares the philosophy that has sustained this elite circuit for over a decade. | Photo: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-classic-romania-2026-2",
          "pubDate" : "Sat, 16 May 2026 01:40:00",
          "title" : "Super Chess Classic Romania: Keymer, Pragg and MVL score"
+      },
+      {
+         "description" : "The 2026 National Middle School Championships kicked off yesterday at the Kalahari Resort and Convention Center in Round Rock, Texas. With 1,274 players from around the country competing across six sections, the competition was fierce, and we've already seen some key upsets! Here's a look back at all the action, and a look ahead to today's schedule. Blitz and BugEarly arrivals to Round Rock were able to warm up with Thursday's Blitz and Bughouse tournaments.The team of Elliott Goodrich and CM Tariq Yue dominated the Bughouse, scoring a perfect 10/10 to take home the title, while Trevor Tang and Uther Rodriguez finished second with eight points. 12 teams took part.Top honors in the K-8 Blitz ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/and-were-off-2026NMS",
+         "pubDate" : "Sat, 16 May 2026 00:00:00",
+         "title" : "And We're Off!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 1"
       },
       {
-         "description" : "This issue of Check is in the Mail contains games (and puzzles) from the 2024 Absolute Championship tournament. As you will also see in the Front Office section, ICCF CCM Timothy Harris won the tournament. This is the first time Timothy has won an Absolute Championship tournament. Congratulations Timothy!With three of the six games provided in this issue containing a variation of the Ruy Lopez opening, it was clearly the most popular.Even though the typical six games are provided in this issue, as an added bonus, I have included all twelve games played by ICCF CCM Timothy Harris in the LiChess Study. Please note: Games not included in this issue may still be published in an upcoming issue. F",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-may-2026-absolute-success",
-         "pubDate" : "Wed, 06 May 2026 00:00:00",
-         "title" : "Check is in the Mail, May 2026: Absolute Success!"
-      },
-      {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/expression-of-interest-glorney-cup-2026/",
          "pubDate" : "Tue, 05 May 2026 12:30:35",
          "title" : "Expression of Interest: Glorney Cup 2026"
-      },
-      {
-         "description" : "Stow the provisions, open the sails, and take on the scourge of the seven seas! A parrot, a captain, an Internet pirate, a legend, and a chess master. Can you beat all five bots before they sail into the sunset? Challenge them on the Play Computer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-pirate-bots",
-         "pubDate" : "Tue, 05 May 2026 12:14:25",
-         "title" : "Challenge The New Pirate Bots Before They Set Sail"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130828074.cms\" />World No. 1 and five-time world Magnus Carlsen suffered his first classical chess defeat in nearly a year after losing to Jorden van Foreest at the TePe Sigeman &amp; Co Tournament 2026 in Malmo. Carlsen had remained unbeaten since his loss to D Gukesh in 2025. Arjun Erigaisi stayed unbeaten after drawing with Nodirbek Abdusattorov.",
