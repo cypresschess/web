@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Nine regular tour players, all elite GMs with 2700+ ratings, are joined by wildcard Bogdan-Daniel Deac. Fabiano Caruana, Javokhir Sindarov and Anish Giri are the top seeds. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "description" : "Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave became the first co-leaders of the Super Chess Classic Romania after winning in round two. Keymer punished Bogdan-Daniel Deac's kingside weakening, Vachier-Lagrave outplayed Alireza Firouzja in a Najdorf Sicilian, and Praggnanandhaa ended Javokhir Sindarov's 53-game unbeaten streak in classical chess. Fabiano Caruana v. Anish Giri and Jorden van Foreest v. Wesley So were drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Fri, 15 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-2",
+         "pubDate" : "Sat, 16 May 2026 01:40:00",
+         "title" : "Super Chess Classic Romania: Keymer, Pragg and MVL score"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk needed only nine points to win Freestyle Friday outright on May 15, good enough for his eighth Freestyle Friday victory, which tied GM Hikaru Nakamura for the most all time. GM Frederik Svane finished in sole second place on 8...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-may-15-2026",
+         "pubDate" : "Fri, 15 May 2026 16:50:41",
+         "title" : "Bortnyk Ties Nakamura With 8th Freestyle Friday Victory"
       },
       {
          "description" : "No one has ever won all three 3 0 Thursday blitz tournaments on the same day, but GM Arjun Erigaisi nearly changed that on May 14, finishing just short on tiebreaks from a perfect hat-trick of victories. Arjun dominated the first tournament, winni...",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-suffers-first-classical-chess-defeat-since-table-slam-outburst-against-d-gukesh/articleshow/130828074.cms",
          "pubDate" : "Tue, 05 May 2026 12:01:16",
          "title" : "Carlsen suffers first classical chess loss since table-slam outburst vs Gukesh"
-      },
-      {
-         "description" : "GM Arjun Erigaisi pounced on a blunder by GM Jorden van Foreest to grab his second win and join GM Yagiz Kaan Erdogmus in the 2026 TePe Sigeman Chess Tournament lead. Erdogmus escaped with a 104-move draw vs. GM Andy Woodward, while GM Magnus Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-5",
-         "pubDate" : "Tue, 05 May 2026 11:48:00",
-         "title" : "Carlsen Bounces Back; Arjun Catches Erdogmus"
       },
       {
          "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
