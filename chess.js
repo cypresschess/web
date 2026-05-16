@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-3",
-         "pubDate" : "Sat, 16 May 2026 12:11:43",
+         "pubDate" : "Sat, 16 May 2026 12:11:00",
          "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
       },
       {
