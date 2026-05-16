@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the Grand Chess Tour (GCT) enters its 11th edition, it has become a cornerstone of the professional chess world. With a $2 million prize fund and a reach spanning four continents, the tour is often described as a \"well-oiled machine\". In an exclusive look at the tour's history, CEO and Executive Director Michael Khodarkovsky shares the philosophy that has sustained this elite circuit for over a decade. | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/history-gct-michael-khodarkovsky",
+         "pubDate" : "Sat, 16 May 2026 11:00:00",
+         "title" : "The history of Grand Chess Tour by CEO Michael Khodarkovsky"
+      },
+      {
          "description" : "Strategy, repertoire work and modern trends: five current ChessBase products provide fresh inspiration for training and tournament practice. From Ivan Sokolov's structural middlegame understanding to Isaac Garner's practical repertoire ideas, as well as compact solutions against the London System and data-driven Powerbooks, the result is a versatile selection for modern chess training - well-founded, practice-oriented and tailored to different playing styles. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Super Chess Classic Romania: Keymer, Pragg and MVL score"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
+         "pubDate" : "Fri, 15 May 2026 17:00:00",
+         "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
+      },
+      {
          "description" : "GM Oleksandr Bortnyk needed only nine points to win Freestyle Friday outright on May 15, good enough for his eighth Freestyle Friday victory, which tied GM Hikaru Nakamura for the most all time. GM Frederik Svane finished in sole second place on 8...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-arjun-martinez-3-0-thursday-03-14-2026",
          "pubDate" : "Fri, 15 May 2026 13:41:23",
          "title" : "Arjun Erigaisi Nearly Sweeps 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
-         "pubDate" : "Fri, 15 May 2026 11:19:00",
-         "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
       },
       {
          "description" : "In 1983, 21 years after Wolfgang Uhlmann's victory over Mikhail Botvinnik at the 1962 Chess Olympiad in Varna, a German player once again managed to defeat a reigning world champion. In the first round of the International Mephisto Chess Tournament in Hanover, Wolfram Hartmann, then a 27-year-old law student from Bamberg, achieved one of the most astonishing underdog victories in German chess history against Anatoly Karpov (pictured). | Photo: V. Savostianov, Novosti Press (via Douglas Griffin)",
