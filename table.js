@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-05-15","19","<a href=https://ratings.uschess.org/event/202605150233 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2026-05-15","54","<a href=https://ratings.uschess.org/event/202605150213 target='_blank'>THE KNIGHTS OF CYPRESS (TX)</a>",
 "HOUSTON","2026-05-10","18","<a href=https://ratings.uschess.org/event/202605100233 target='_blank'>Bellaire Sunday Swiss 2026.05.10</a>",
 "HOUSTON","2026-05-09","47","<a href=https://ratings.uschess.org/event/202605091113 target='_blank'>SBSC Girls Tournament 2026</a>",
 "HOUSTON","2026-05-09","26","<a href=https://ratings.uschess.org/event/202605090713 target='_blank'>TCR: Clutch City Open 2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220103 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "LEAGUE CITY","2026-02-21","187","<a href=https://ratings.uschess.org/event/202602210993 target='_blank'>Goforth Elementary Scholastic</a>",
 "HOUSTON","2026-02-21","59","<a href=https://ratings.uschess.org/event/202602210653 target='_blank'>TEXAS ACTION CHAMPIONSHIP 2026</a>",
-"HOUSTON","2026-02-21","9","<a href=https://ratings.uschess.org/event/202602210353 target='_blank'>chesspanda02212025saturday</a>",
-"CYPRESS","2026-02-20","40","<a href=https://ratings.uschess.org/event/202602200323 target='_blank'>Knights of Cypress</a>",
 ]);
