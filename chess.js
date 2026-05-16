@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Strategy, repertoire work and modern trends: five current ChessBase products provide fresh inspiration for training and tournament practice. From Ivan Sokolov's structural middlegame understanding to Isaac Garner's practical repertoire ideas, as well as compact solutions against the London System and data-driven Powerbooks, the result is a versatile selection for modern chess training - well-founded, practice-oriented and tailored to different playing styles. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-new-releases-in-april",
+         "pubDate" : "Sat, 16 May 2026 07:00:00",
+         "title" : "Review: New releases in April!"
+      },
+      {
          "description" : "Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave became the first co-leaders of the Super Chess Classic Romania after winning in round two. Keymer punished Bogdan-Daniel Deac's kingside weakening, Vachier-Lagrave outplayed Alireza Firouzja in a Najdorf Sicilian, and Praggnanandhaa ended Javokhir Sindarov's 53-game unbeaten streak in classical chess. Fabiano Caruana v. Anish Giri and Jorden van Foreest v. Wesley So were drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
