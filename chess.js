@@ -10,12 +10,12 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
-         "description" : "GM Vincent Keymer&#39;s gamble of choosing to play his first ever Najdorf against GM Maxime Vachier-Lagrave&#38;nbsp;paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news of the day was that GM Ali...",
+         "description" : "GM Vincent Keymer&#39;s gamble of choosing to allow GM Maxime Vachier-Lagrave to be the first player ever to play the Najdorf against him paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-4",
-         "pubDate" : "Sun, 17 May 2026 12:10:08",
-         "title" : "Keymer Grabs Sole Lead As Firouzja Misses Game Due To Illness"
+         "pubDate" : "Sun, 17 May 2026 12:10:00",
+         "title" : "Keymer Grabs Sole Lead As Firouzja Misses Game Due To 'Medical Issue'"
       },
       {
          "description" : "The 2026 European Youth Chess Championship will take place from 2-13 November, 2026 in Hersonissos, Creta, Greece. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The Championships will be played at ****Royal &#38; Imperial Belvedere Resort in Hersonissos, Crete, []",
@@ -24,6 +24,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
          "pubDate" : "Sun, 17 May 2026 09:13:29",
          "title" : "European Youth Chess Championship 2026 - Official invitation"
+      },
+      {
+         "description" : "Almost 1,300 players from 30 states competed in Round Rock, Texas to determine the nation's top middle school chess players <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Round Rock, TX: The 501(c)3 US Chess Federation's 2026 National Middle School (K-8) Championship took place from May 15-17 at Kalahari Resorts &amp; Conventions. A total of just under 1,300 players from 30 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship until becoming the National Middle School Championship in 2022.The individual K-8 Champion is:FM Bryan Enming Lin, 8th Grade, Hunter College Elementary and High School, New York, New York (7/7)L",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-national-middle-school-championship-results",
+         "pubDate" : "Sun, 17 May 2026 00:00:00",
+         "title" : "Flash Report: National Middle School Championship Results"
       },
       {
          "description" : "Triple Round DayOnly two players survived Saturday unscathed to emerge with perfect 5/5 scores entering the final two rounds. IM Bryan Enming Lin (NY) and Srikar Kandikayala (TX) will face off this morning on the top board, with Kandikayala taking the white pieces.Lin has been taking care of business as the highest rated player in the tournament. But that isn't to say his opponents haven't been taking their best shots against him. In particular, Samant Robert Sen (NY) pushed Lin to his limits in their Round 4 battle. Commentator WGM Sabina Foisor has the goods: Kandikayala upset CM Jashith Karthi (CA) Saturday night thanks to bold play in a sharp Ragozin. Four players trail the co-leaders by",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kayal-vijay-under-9-girls-champion-european-schools/",
          "pubDate" : "Wed, 06 May 2026 09:52:13",
          "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
-      },
-      {
-         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Elementary School Championships. These photos are categorized and tagged to the best of our ability.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Side Events:K6 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> K-6 Blitz winner Viyaan Krishna Doddapaneni. (Photo by Caroline King)<br> <br> <br> <br> K3 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-nes-photo-report-assorted-medalists",
-         "pubDate" : "Wed, 06 May 2026 00:00:00",
-         "title" : "2026 NES Photo Report: Assorted Medalists"
       },
       {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
