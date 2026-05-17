@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. After three rounds, five players share the lead on plus-one scores. Vincent Keymer v. Maxime Vachier-Lagrave and Jorden van Foreest v. Praggnanandhaa Rameshbabu are two clashes of co-leaders in round four. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Sun, 17 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
          "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase&acute;26, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Review: The Ultimate Antidote against the London System"
       },
       {
+         "description" : "Triple Round DayOnly two players survived Saturday unscathed to emerge with perfect 5/5 scores entering the final two rounds. IM Bryan Enming Lin (NY) and Srikar Kandikayala (TX) will face off this morning on the top board, with Kandikayala taking the white pieces.Lin has been taking care of business as the highest rated player in the tournament. But that isn't to say his opponents haven't been taking their best shots against him. In particular, Samant Robert Sen (NY) pushed Lin to his limits in their Round 4 battle. Commentator WGM Sabina Foisor has the goods: Kandikayala upset CM Jashith Karthi (CA) Saturday night thanks to bold play in a sharp Ragozin. Four players trail the co-leaders by",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/race-tightens-entering-final-day-2026-national-middle-school-k-8-championship",
+         "pubDate" : "Sun, 17 May 2026 00:00:00",
+         "title" : "Race Tightens Entering Final Day of 2026 National Middle School (K-8) Championship"
+      },
+      {
          "description" : "GM Hikaru Nakamura added another chapter to his storied Bullet Brawl career on Saturday, dominating a 173-player titled field to win the latest edition of Chess.com&#38;rsquo;s premier weekly bullet arena with an impressive 171-point haul. Although ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-16-2026",
-         "pubDate" : "Sat, 16 May 2026 19:48:22",
+         "pubDate" : "Sat, 16 May 2026 19:48:00",
          "title" : "Nakamura Crushes Bullet Brawl Field, Claims 7th Calendar Victory"
-      },
-      {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. After two rounds, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are sharing the lead on 1&frac12;/2 points. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Sat, 16 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
       },
       {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-nes-photo-report-assorted-medalists",
          "pubDate" : "Wed, 06 May 2026 00:00:00",
          "title" : "2026 NES Photo Report: Assorted Medalists"
-      },
-      {
-         "description" : "Today's puzzles begin a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-1",
-         "pubDate" : "Wed, 06 May 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 1"
       },
       {
          "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
