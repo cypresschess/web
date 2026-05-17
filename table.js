@@ -1,4 +1,5 @@
 jtable([
+"PASADENA","2026-05-16","20","<a href=https://ratings.uschess.org/event/202605160713 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-05-15","19","<a href=https://ratings.uschess.org/event/202605150233 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-15","54","<a href=https://ratings.uschess.org/event/202605150213 target='_blank'>THE KNIGHTS OF CYPRESS (TX)</a>",
 "HOUSTON","2026-05-10","18","<a href=https://ratings.uschess.org/event/202605100233 target='_blank'>Bellaire Sunday Swiss 2026.05.10</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220393 target='_blank'>Bellaire Sunday Swiss 2026.02.22</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220103 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "LEAGUE CITY","2026-02-21","187","<a href=https://ratings.uschess.org/event/202602210993 target='_blank'>Goforth Elementary Scholastic</a>",
-"HOUSTON","2026-02-21","59","<a href=https://ratings.uschess.org/event/202602210653 target='_blank'>TEXAS ACTION CHAMPIONSHIP 2026</a>",
 ]);
