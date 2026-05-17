@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The London System is no longer a fringe opening on the margins of chess theory, but has developed into a serious and widely tested weapon - an assessment recently confirmed by Magnus Carlsen in an interview. Against this backdrop, Mihail Marin presents an approach that confronts London players with concrete problems at an early stage and demands a high degree of flexibility - a requirement that can prove particularly uncomfortable for unprepared adherents of the system. In his review, Lukas K&ouml;pl takes a closer look at this antidote for Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-ultimate-antidote-against-the-london-system",
+         "pubDate" : "Sun, 17 May 2026 07:00:00",
+         "title" : "Review: The Ultimate Antidote against the London System"
+      },
+      {
          "description" : "GM Hikaru Nakamura added another chapter to his storied Bullet Brawl career on Saturday, dominating a 173-player titled field to win the latest edition of Chess.com&#38;rsquo;s premier weekly bullet arena with an impressive 171-point haul. Although ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "The Worst Advice I ever Got"
       },
       {
-         "description" : "On behalf of All India Chess Federation , AOCA is organizing Senior National Arbiter Seminar &#38; exam on 25 &#38; 26 May 2026 at KIIT University ,Bhubaneshwar .",
+         "description" : "On behalf of All India Chess Federation ,&#160;AOCA &#160;is organizing Senior National Arbiter Seminar &#38; exam&#160;on 25 &#38; 26 May 2026&#160;at KIIT University ,Bhubaneshwar .",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-exam-on-25-26-may-2026-at-kiit-university-bhubaneshwar/",
