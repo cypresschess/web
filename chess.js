@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase&acute;26, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-15-setting-up-and-analysing-positions",
+         "pubDate" : "Sun, 17 May 2026 12:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 15: Setting up and analysing positions"
+      },
+      {
+         "description" : "The 2026 European Youth Chess Championship will take place from 2-13 November, 2026 in Hersonissos, Creta, Greece. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The Championships will be played at ****Royal &#38; Imperial Belvedere Resort in Hersonissos, Crete, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
+         "pubDate" : "Sun, 17 May 2026 09:13:29",
+         "title" : "European Youth Chess Championship 2026 - Official invitation"
+      },
+      {
          "description" : "The London System is no longer a fringe opening on the margins of chess theory, but has developed into a serious and widely tested weapon - an assessment recently confirmed by Magnus Carlsen in an interview. Against this backdrop, Mihail Marin presents an approach that confronts London players with concrete problems at an early stage and demands a high degree of flexibility - a requirement that can prove particularly uncomfortable for unprepared adherents of the system. In his review, Lukas K&ouml;pl takes a closer look at this antidote for Black.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Super Chess Classic Romania: Keymer, Pragg and MVL score"
       },
       {
-         "description" : "The 2026 National Middle School Championships kicked off yesterday at the Kalahari Resort and Convention Center in Round Rock, Texas. With 1,274 players from around the country competing across six sections, the competition was fierce, and we've already seen some key upsets! Here's a look back at all the action, and a look ahead to today's schedule. Blitz and BugEarly arrivals to Round Rock were able to warm up with Thursday's Blitz and Bughouse tournaments.The team of Elliott Goodrich and CM Tariq Yue dominated the Bughouse, scoring a perfect 10/10 to take home the title, while Trevor Tang and Uther Rodriguez finished second with eight points. 12 teams took part.Top honors in the K-8 Blitz ",
+         "description" : "The 2026 National Middle School (K-8) Championship kicked off yesterday at the Kalahari Resort and Convention Center in Round Rock, TX. With 1,274 players from around the country competing across six sections (including 233 in the Championship section), the competition was fierce, and we've already seen some key upsets! Here's a look back at all the action, and a look ahead to today's schedule. Blitz and BugEarly arrivals to Round Rock were able to warm up with Thursday's Blitz and Bughouse tournaments.The team of Elliott Goodrich (NY) and CM Tariq Yue (PA) dominated the Bughouse, scoring a perfect 10/10 to take home the title, while Texans Trevor Tang and Uther Rodriguez finished second wit",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/and-were-off-2026NMS",
@@ -250,7 +266,7 @@ news_feed (
          "title" : "2026 Annual Samford Fellowships Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 15 through 17, the US Chess National Middle School (K-8) Championship take place in Round Rock, TX! This national event features some of the best scholastic chess players in the United States, and US Chess is proud to host this exciting event.First thing's first, registration is still open until 10:00 a.m. CDT on Friday, May 15. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Middle School (K-8) Championship! Special Guest Grandmaster Julio SadorraUS Chess is proud to we",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 15 through 17, the US Chess National Middle School (K-8) Championship take place in Round Rock, TX! This national event features some of the best scholastic chess players in the United States, and US Chess is proud to host this exciting event.First things first, registration is still open until 10:00 a.m. CDT on Friday, May 15. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Middle School (K-8) Championship! Special Guest Grandmaster Julio SadorraUS Chess is proud to wel",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-national-middle-school-k-8-championship-preview",
@@ -490,12 +506,12 @@ news_feed (
          "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
       },
       {
-         "description" : "Editor's Note: This article is written by 13-year-old Pranavi Pramod, who is in the top 50 ratings list for girls of her age. She is also one of the youngest tournament directors (TDs) in the country (TDs must be at least 13 years old to enroll in the mandatory SafeSport training).Thanks to a 2025 US Chess Women grant, Pranavi was able to work with the Fremont Chess Club and the Mission San Jose Elementary (MSJE) affiliate to not only organize the 2026 Fremont All-Girls Chess Championship, but to make it free for all entrants.The inaugural Fremont All-Girls Chess Championship was held on April 26, 2026, at the Warm Springs Community Center in Fremont, California.In recent years, female membe",
+         "description" : "Editor's Note: This article is written by 13-year-old Pranavi Pramod, who is in the top 50 ratings list for girls of her age. She is also one of the youngest tournament directors (TDs) in the country (TDs must be at least 13 years old to enroll in the mandatory SafeSport training).Thanks to a 2025 US Chess Women's grant, Pranavi was able to work with the Fremont Chess Club and the Mission San Jose Elementary (MSJE) affiliate to not only organize the 2026 Fremont All-Girls Chess Championship, but to make it free for all entrants.The inaugural Fremont All-Girls Chess Championship was held on April 26, 2026, at the Warm Springs Community Center in Fremont, California.In recent years, female mem",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-fremont-all-girls-chess-championship-uses-us-chess-women-grant-make-chess-accessible",
          "pubDate" : "Fri, 08 May 2026 00:00:00",
-         "title" : "2026 Fremont All-Girls Chess Championship Uses US Chess Women Grant to Make Chess Accessible"
+         "title" : "2026 Fremont All-Girls Chess Championship Uses US Chess Women's Grant to Make Chess Accessible"
       },
       {
          "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
