@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura added another chapter to his storied Bullet Brawl career on Saturday, dominating a 173-player titled field to win the latest edition of Chess.com&#38;rsquo;s premier weekly bullet arena with an impressive 171-point haul. Although ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-16-2026",
+         "pubDate" : "Sat, 16 May 2026 19:48:22",
+         "title" : "Nakamura Crushes Bullet Brawl Field, Claims 7th Calendar Victory"
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. After two rounds, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are sharing the lead on 1&frac12;/2 points. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gm-axel-smith-to-attempt-record-49-board-blindfold-simul",
          "pubDate" : "Wed, 06 May 2026 09:48:00",
          "title" : "Swedish GM Axel Smith To Attempt 49-Board Blindfold Record"
-      },
-      {
-         "description" : "For most players, a six-month wait between Titled Tuesday victories would not be remarkable; hundreds play every single week, yet only a few dozen players have even won twice ever. But for all-time victories leader GM Hikaru Nakamura, months betwe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-5-2026",
-         "pubDate" : "Wed, 06 May 2026 02:03:15",
-         "title" : "Nakamura Reasserts Control In Titled Tuesday"
       },
       {
          "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Elementary School Championships. These photos are categorized and tagged to the best of our ability.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Side Events:K6 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> K-6 Blitz winner Viyaan Krishna Doddapaneni. (Photo by Caroline King)<br> <br> <br> <br> K3 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
