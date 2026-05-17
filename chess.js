@@ -10,12 +10,12 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
-         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase&acute;26, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-15-setting-up-and-analysing-positions",
-         "pubDate" : "Sun, 17 May 2026 12:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, Part 15: Setting up and analysing positions"
+         "description" : "GM Vincent Keymer&#39;s gamble of choosing to play his first ever Najdorf against GM Maxime Vachier-Lagrave&#38;nbsp;paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news of the day was that GM Ali...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-4",
+         "pubDate" : "Sun, 17 May 2026 12:10:08",
+         "title" : "Keymer Grabs Sole Lead As Firouzja Misses Game Due To Illness"
       },
       {
          "description" : "The 2026 European Youth Chess Championship will take place from 2-13 November, 2026 in Hersonissos, Creta, Greece. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The Championships will be played at ****Royal &#38; Imperial Belvedere Resort in Hersonissos, Crete, []",
@@ -24,14 +24,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
          "pubDate" : "Sun, 17 May 2026 09:13:29",
          "title" : "European Youth Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "The London System is no longer a fringe opening on the margins of chess theory, but has developed into a serious and widely tested weapon - an assessment recently confirmed by Magnus Carlsen in an interview. Against this backdrop, Mihail Marin presents an approach that confronts London players with concrete problems at an early stage and demands a high degree of flexibility - a requirement that can prove particularly uncomfortable for unprepared adherents of the system. In his review, Lukas K&ouml;pl takes a closer look at this antidote for Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-ultimate-antidote-against-the-london-system",
-         "pubDate" : "Sun, 17 May 2026 07:00:00",
-         "title" : "Review: The Ultimate Antidote against the London System"
       },
       {
          "description" : "Triple Round DayOnly two players survived Saturday unscathed to emerge with perfect 5/5 scores entering the final two rounds. IM Bryan Enming Lin (NY) and Srikar Kandikayala (TX) will face off this morning on the top board, with Kandikayala taking the white pieces.Lin has been taking care of business as the highest rated player in the tournament. But that isn't to say his opponents haven't been taking their best shots against him. In particular, Samant Robert Sen (NY) pushed Lin to his limits in their Round 4 battle. Commentator WGM Sabina Foisor has the goods: Kandikayala upset CM Jashith Karthi (CA) Saturday night thanks to bold play in a sharp Ragozin. Four players trail the co-leaders by",
@@ -74,30 +66,6 @@ news_feed (
          "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
       },
       {
-         "description" : "As the Grand Chess Tour (GCT) enters its 11th edition, it has become a cornerstone of the professional chess world. With a $2 million prize fund and a reach spanning four continents, the tour is often described as a \"well-oiled machine\". In an exclusive look at the tour's history, CEO and Executive Director Michael Khodarkovsky shares the philosophy that has sustained this elite circuit for over a decade. | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/history-gct-michael-khodarkovsky",
-         "pubDate" : "Sat, 16 May 2026 11:00:00",
-         "title" : "The history of Grand Chess Tour by CEO Michael Khodarkovsky"
-      },
-      {
-         "description" : "Strategy, repertoire work and modern trends: five current ChessBase products provide fresh inspiration for training and tournament practice. From Ivan Sokolov's structural middlegame understanding to Isaac Garner's practical repertoire ideas, as well as compact solutions against the London System and data-driven Powerbooks, the result is a versatile selection for modern chess training - well-founded, practice-oriented and tailored to different playing styles. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-new-releases-in-april",
-         "pubDate" : "Sat, 16 May 2026 07:00:00",
-         "title" : "Review: New releases in April!"
-      },
-      {
-         "description" : "Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave became the first co-leaders of the Super Chess Classic Romania after winning in round two. Keymer punished Bogdan-Daniel Deac's kingside weakening, Vachier-Lagrave outplayed Alireza Firouzja in a Najdorf Sicilian, and Praggnanandhaa ended Javokhir Sindarov's 53-game unbeaten streak in classical chess. Fabiano Caruana v. Anish Giri and Jorden van Foreest v. Wesley So were drawn. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-2",
-         "pubDate" : "Sat, 16 May 2026 01:40:00",
-         "title" : "Super Chess Classic Romania: Keymer, Pragg and MVL score"
-      },
-      {
          "description" : "The 2026 National Middle School (K-8) Championship kicked off yesterday at the Kalahari Resort and Convention Center in Round Rock, TX. With 1,274 players from around the country competing across six sections (including 233 in the Championship section), the competition was fierce, and we've already seen some key upsets! Here's a look back at all the action, and a look ahead to today's schedule. Blitz and BugEarly arrivals to Round Rock were able to warm up with Thursday's Blitz and Bughouse tournaments.The team of Elliott Goodrich (NY) and CM Tariq Yue (PA) dominated the Bughouse, scoring a perfect 10/10 to take home the title, while Texans Trevor Tang and Uther Rodriguez finished second wit",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -130,28 +98,12 @@ news_feed (
          "title" : "Arjun Erigaisi Nearly Sweeps 3 0 Thursday Tournaments"
       },
       {
-         "description" : "In 1983, 21 years after Wolfgang Uhlmann's victory over Mikhail Botvinnik at the 1962 Chess Olympiad in Varna, a German player once again managed to defeat a reigning world champion. In the first round of the International Mephisto Chess Tournament in Hanover, Wolfram Hartmann, then a 27-year-old law student from Bamberg, achieved one of the most astonishing underdog victories in German chess history against Anatoly Karpov (pictured). | Photo: V. Savostianov, Novosti Press (via Douglas Griffin)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hartmann-beats-karpov-hanover-1983",
-         "pubDate" : "Fri, 15 May 2026 11:00:00",
-         "title" : "Amateur beats world champion: Wolfram Hartmann beats Anatoly Karpov in Hannover (1983)"
-      },
-      {
          "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uks-favourite-educational-book-seller-supports-english-schools-chess-championships/",
          "pubDate" : "Fri, 15 May 2026 08:53:05",
          "title" : "UK's favourite educational book seller supports English Schools Chess Championships"
-      },
-      {
-         "description" : "All five games ended drawn in the first round of the Super Chess Classic Romania, though several players had chances to grab full points. Alireza Firouzja missed the clearest opportunity against defending champion Praggnanandhaa Rameshbabu (pictured), while Fabiano Caruana failed to make the most of an extra pawn against Jorden van Foreest. Wesley So v. Vincent Keymer was a double-edged, remarkable battle. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-1",
-         "pubDate" : "Fri, 15 May 2026 07:25:00",
-         "title" : "Super Chess Classic Romania: All draws, Pragg escapes against Firouzja"
       },
       {
          "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen at the 2022 Sinquefield Cup led to cheating allegations, a $100m lawsuit, an out-of-court settlement, the Netflix documentary Untold: Chess Mates, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 (&pound;37,400) first prize at the Warsaw Rapid and Blitz in Poland, ahead of the US champion and world No 3, Fabiano Caruana, India's reigning world champion, Gukesh Dommaraju, and the Candidates winner, Javokhir S",
@@ -162,28 +114,12 @@ news_feed (
          "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
       },
       {
-         "description" : "Simpson's in the Strand has reopened with a nod to its origins as a chess venue, a detail explored by Harry Wallop in The Times. Wallop's article uses the London restaurant's history to examine a wider revival of over-the-board chess, from social clubs and caf&eacute; events to rising sales of physical chess sets, and considers why the game's face-to-face appeal has endured in a screen-heavy age. | Photo: Matt Brown via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-times-simpsons-chess-revival",
-         "pubDate" : "Thu, 14 May 2026 20:45:00",
-         "title" : "The Times explores chess revival at Simpson's in the Strand"
-      },
-      {
          "description" : "All games were drawn as the Super Chess Classic Romania 2026 began in Bucharest on Thursday. It wasn&#39;t for a lack of fighting spirit, with GM Alireza Firouzja spoiling a decisive advantage against GM Praggnanandhaa Rameshbabu, while GMs Wesley So ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-1",
          "pubDate" : "Thu, 14 May 2026 16:12:00",
          "title" : "Pragg Escapes Vs. Firouzja As Super Chess Classic Begins In Bucharest"
-      },
-      {
-         "description" : "Wadim Rosenstein came into prominence when he organised the first edition of WR Chess in 2023. He then came up with the idea of the FIDE World Rapid and Blitz Teams - an event that has become a mainstay in the chess calendar. In recent times, if you follow Rosenstein on his X account, the number of activities that he is doing for chess has grown exponentially! In this interview, we ask him about these events, his vision for chess and whether he is planning to become the FIDE President. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wadim-rosenstein-interview-2026",
-         "pubDate" : "Thu, 14 May 2026 11:00:00",
-         "title" : "Wadim Rosenstein and his intensive plan to promote chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084127.cms\" />Faustino Oro, a 12-year-old Argentine chess prodigy known as the \"Messi of Chess,\" has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro's talent, discipline, and love for the game helped him succeed.",
@@ -642,14 +578,6 @@ news_feed (
          "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
       },
       {
-         "description" : "Swedish GM Axel Smith is preparing for an extraordinary test of mental endurance by playing 49 blindfold games simultaneously, not just in pursuit of a record, but to raise awareness for a climate campaign. On Thursday, May 7, the Swedish grandm...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gm-axel-smith-to-attempt-record-49-board-blindfold-simul",
-         "pubDate" : "Wed, 06 May 2026 09:48:00",
-         "title" : "Swedish GM Axel Smith To Attempt 49-Board Blindfold Record"
-      },
-      {
          "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Elementary School Championships. These photos are categorized and tagged to the best of our ability.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Side Events:K6 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> K-6 Blitz winner Viyaan Krishna Doddapaneni. (Photo by Caroline King)<br> <br> <br> <br> K3 Blitz<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -808,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-indian-yet-in-esports-chess-world-cup-2026-how-can-it-change-the-road-ahead-explained/articleshow/130547660.cms",
          "pubDate" : "Mon, 27 Apr 2026 08:01:32",
          "title" : "No Indian yet in Esports Chess World Cup 2026: How can it change?"
-      },
-      {
-         "description" : " The Chess.com Open Playoffs took Thu 23rd to Sun 26th Apr 2026. This offered two places in the Esports World Cup. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Denis Lazavik, Sam Sevian, Javokhir Sindarov, Arjun Erigaisi, Vincent Keymer, Qualified through Play-Ins, Ian Nepomniachtchi, Nodirbek Abdusattorov, Pranesh M, Yu Yangyi, Sina Movahed, Daniil Dubov, Nihal Sarin and Shant Sargsyan. The event is a Double Elimination KO. Magnus Carlsen beat Jan-Krzysztof Duda in the Final, lost the Grand Final and then finally won again in the reset final. Both players qualified for the Esports World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-open-playoffs-2026",
-         "pubDate" : "Sun, 26 Apr 2026 18:30:00",
-         "title" : "Chess.com Open Playoffs 2026 - Games and Results"
       }
    ]
 }
