@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-5",
-         "pubDate" : "Mon, 18 May 2026 11:49:50",
+         "pubDate" : "Mon, 18 May 2026 11:49:00",
          "title" : "Firouzja Pulls Off Great Escape From Bed"
       },
       {
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-dejan-joveljic-bot",
          "pubDate" : "Mon, 18 May 2026 08:00:00",
          "title" : "Challenge The World's 'Best Chess Soccer Player' And MLS Star Striker Dejan Jovelji&#263"
-      },
-      {
-         "description" : "Vincent Keymer took the sole lead at the Super Chess Classic Romania in Bucharest after defeating Maxime Vachier-Lagrave in round four, while the other completed games were drawn. Fabiano Caruana v. Alireza Firouzja was postponed after Firouzja was unable to play for medical reasons. Keymer now stands half a point ahead of the field, though Caruana still has a game in hand. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-4",
-         "pubDate" : "Mon, 18 May 2026 08:00:00",
-         "title" : "Super Chess Classic Romania: Keymer beats MVL's Najdorf, leads"
       },
       {
          "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, FM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
