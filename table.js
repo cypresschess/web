@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-05-17","14","<a href=https://ratings.uschess.org/event/202605170413 target='_blank'>Bellaire Sunday Swiss 2026.05.17</a>",
+"HOUSTON","2026-05-17","6","<a href=https://ratings.uschess.org/event/202605170263 target='_blank'>2026 Houston Circuit T5 by AzChAcad</a>",
 "PASADENA","2026-05-16","20","<a href=https://ratings.uschess.org/event/202605160713 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-05-15","19","<a href=https://ratings.uschess.org/event/202605150233 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-15","54","<a href=https://ratings.uschess.org/event/202605150213 target='_blank'>THE KNIGHTS OF CYPRESS (TX)</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2026-02-27","42","<a href=https://ratings.uschess.org/event/202602270193 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-02-24","16","<a href=https://ratings.uschess.org/event/202602240433 target='_blank'>FEBRUARY Tuesday Night Swiss 2026</a>",
 "HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220393 target='_blank'>Bellaire Sunday Swiss 2026.02.22</a>",
-"HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220103 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
-"LEAGUE CITY","2026-02-21","187","<a href=https://ratings.uschess.org/event/202602210993 target='_blank'>Goforth Elementary Scholastic</a>",
 ]);
