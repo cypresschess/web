@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. After three rounds, five players share the lead on plus-one scores. Vincent Keymer v. Maxime Vachier-Lagrave and Jorden van Foreest v. Praggnanandhaa Rameshbabu are two clashes of co-leaders in round four. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "description" : "Vincent Keymer took the sole lead at the Super Chess Classic Romania in Bucharest after defeating Maxime Vachier-Lagrave in round four, while the other completed games were drawn. Fabiano Caruana v. Alireza Firouzja was postponed after Firouzja was unable to play for medical reasons. Keymer now stands half a point ahead of the field, though Caruana still has a game in hand. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Sun, 17 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-4",
+         "pubDate" : "Mon, 18 May 2026 08:00:00",
+         "title" : "Super Chess Classic Romania: Keymer beats MVL's Najdorf, leads"
       },
       {
          "description" : "GM Vincent Keymer&#39;s gamble of choosing to allow GM Maxime Vachier-Lagrave to be the first player ever to play the Najdorf against him paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news o...",
