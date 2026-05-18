@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vincent-keymer-exclusive-being-germany-no-1-magnus-carlsen-intimidation-freestyle-chess-and-more/articleshow/130600479.cms",
          "pubDate" : "Wed, 29 Apr 2026 08:28:32",
          "title" : "Keymer Exclusive: Being Germany No. 1, Carlsen intimidation, and more"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130547660.cms\" />Magnus Carlsen won the Chess.com Open, while Denis Lazavik beat Nihal Sarin, leaving no Indian qualified yet for the Esports World Cup 2026, as of yet. Extra qualification spots don't pass down, increasing pressure on Sarin. He remains India's one of the besthopes, with chances through circuit rankings and qualifiers in the evolving esports chess format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-indian-yet-in-esports-chess-world-cup-2026-how-can-it-change-the-road-ahead-explained/articleshow/130547660.cms",
-         "pubDate" : "Mon, 27 Apr 2026 08:01:32",
-         "title" : "No Indian yet in Esports Chess World Cup 2026: How can it change?"
       }
    ]
 }
