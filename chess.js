@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131183159.cms\" />Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-d-gukeshs-world-cship-challenger-sindarov-plays-classical-chess-against-bedridden-alireza-firouzja-watch/articleshow/131183159.cms",
+         "pubDate" : "Mon, 18 May 2026 18:02:27",
+         "title" : "Rare! Gukesh's challenger Sindarov plays against bedridden Firouzja - Watch"
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer is the sole leader after four rounds. On Monday, he faces Anish Giri, who stands a half point back in the standings, with the black pieces. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Chithambaram becomes first Indian to qualify for Esports World Cup 2026"
       },
       {
+         "description" : "GM Alireza Firouzja followed in the footsteps (not literally) of GM Tony Miles as an ankle injury forced him to play round five of the&#38;nbsp;Super Chess Classic Romania 2026 from a hotel bed. GM Javokhir Sindarov almost won that clash, but it was a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-5",
+         "pubDate" : "Mon, 18 May 2026 11:49:50",
+         "title" : "Firouzja Pulls Off Great Escape From Bed"
+      },
+      {
          "description" : "As we enter the last week of Major League Soccer (MLS) All-Star voting, you can now play chess against MLS star Dejan Jovelji&#263! A dangerous player on the field, Joveljić also knows how to score over the chessboard. With a jaw-dropping 2217 rating,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-classic-romania-2026-4",
          "pubDate" : "Mon, 18 May 2026 08:00:00",
          "title" : "Super Chess Classic Romania: Keymer beats MVL's Najdorf, leads"
+      },
+      {
+         "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, FM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/full-report-lin-hunter-win-2026-national-middle-school-k-8-championship",
+         "pubDate" : "Mon, 18 May 2026 00:00:00",
+         "title" : "Full Report: Lin, Hunter Win 2026 National Middle School (K-8) Championship"
       },
       {
          "description" : "GM Vincent Keymer&#39;s gamble of choosing to allow GM Maxime Vachier-Lagrave to be the first player ever to play the Najdorf against him paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news o...",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
       },
       {
-         "description" : "Editor's Note: This article is written by 13-year-old Pranavi Pramod, who is in the top 50 ratings list for girls of her age. She is also one of the youngest tournament directors (TDs) in the country (TDs must be at least 13 years old to enroll in the mandatory SafeSport training).Thanks to a 2025 US Chess Women's grant, Pranavi was able to work with the Fremont Chess Club and the Mission San Jose Elementary (MSJE) affiliate to not only organize the 2026 Fremont All-Girls Chess Championship, but to make it free for all entrants.The inaugural Fremont All-Girls Chess Championship was held on April 26, 2026, at the Warm Springs Community Center in Fremont, California.In recent years, female mem",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-fremont-all-girls-chess-championship-uses-us-chess-women-grant-make-chess-accessible",
-         "pubDate" : "Fri, 08 May 2026 00:00:00",
-         "title" : "2026 Fremont All-Girls Chess Championship Uses US Chess Women's Grant to Make Chess Accessible"
-      },
-      {
          "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-and-erdogmus-lead-the-sigeman-co-tournament-after-five-rounds",
          "pubDate" : "Wed, 6 May 2026 14:10:00",
          "title" : "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5"
-      },
-      {
-         "description" : "GMs Wesley So and Hans Niemann lead the 2026 Super Rapid &#38;amp; Blitz Poland after six rounds, with GM Vladimir Fedoseev just one point behind in sole second. Lagging two points behind him are GMs Fabiano Caruana, Gukesh Dommaraju (who will be cele...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-2",
-         "pubDate" : "Wed, 06 May 2026 13:18:00",
-         "title" : "So, Niemann Share Lead; Gukesh Beats Sindarov With Fist Pump"
       },
       {
          "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who tied in the first place, and as the best ranked boy in the event, clinched title []",
