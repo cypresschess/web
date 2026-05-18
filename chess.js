@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer is the sole leader after four rounds. On Monday, he faces Anish Giri, who stands a half point back in the standings, with the black pieces. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Mon, 18 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131177362.cms\" />Indian Grandmaster Aravindh Chithambaram became the first Indian to qualify for the Chess event at Esports World Cup 2026 after winning the Road to EWC qualifier at DreamHack Atlanta. The 26-year-old defeated Alexey Sarana in a dramatic Armageddon decider to secure qualification, USD 15,000 prize money, and a place in the main event scheduled from August 11-15.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-aravindh-chithambaram-becomes-first-indian-chess-player-to-qualify-for-esports-world-cup-2026/articleshow/131177362.cms",
+         "pubDate" : "Mon, 18 May 2026 13:11:16",
+         "title" : "Chithambaram becomes first Indian to qualify for Esports World Cup 2026"
+      },
+      {
+         "description" : "As we enter the last week of Major League Soccer (MLS) All-Star voting, you can now play chess against MLS star Dejan Jovelji&#263! A dangerous player on the field, Joveljić also knows how to score over the chessboard. With a jaw-dropping 2217 rating,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-dejan-joveljic-bot",
+         "pubDate" : "Mon, 18 May 2026 08:00:00",
+         "title" : "Challenge The World's 'Best Chess Soccer Player' And MLS Star Striker Dejan Jovelji&#263"
+      },
+      {
          "description" : "Vincent Keymer took the sole lead at the Super Chess Classic Romania in Bucharest after defeating Maxime Vachier-Lagrave in round four, while the other completed games were drawn. Fabiano Caruana v. Alireza Firouzja was postponed after Firouzja was unable to play for medical reasons. Keymer now stands half a point ahead of the field, though Caruana still has a game in hand. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-2",
          "pubDate" : "Wed, 06 May 2026 13:18:00",
          "title" : "So, Niemann Share Lead; Gukesh Beats Sindarov With Fist Pump"
-      },
-      {
-         "description" : "GM Arjun Erigaisi ground out a 67-move win over GM Zhu Jiner to go into the final round of the 2026 TePe Sigeman Chess Tournament as the sole leader on 4.5/6. GM Magnus Carlsen is half a point back after using the King&#39;s Indian Defense to take dow...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-6",
-         "pubDate" : "Wed, 06 May 2026 12:41:00",
-         "title" : "Arjun Leads Carlsen, Erdogmus Before Final Round In Malmo"
       },
       {
          "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who tied in the first place, and as the best ranked boy in the event, clinched title []",
