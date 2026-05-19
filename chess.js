@@ -10,6 +10,14 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
+         "description" : "GM Alexey Sarana was your winner in Titled Tuesday on May 19, scoring 9.5 points and coming out ahead of GM Christopher Yoo in tiebreaks. GM Hikaru Nakamura finished third for a second straight week, while GM Arjun Erigaisi took fourth place, havi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-may-19-2026",
+         "pubDate" : "Tue, 19 May 2026 11:28:58",
+         "title" : "Nakamura Sets Record, But Sarana Wins Titled Tuesday"
+      },
+      {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Live Chess Ratings And Rankings Now Available On Chess.com"
       },
       {
-         "description" : "All five games were drawn in round five of the Super Chess Classic Romania, but the day included an unusual episode as Alireza Firouzja faced Javokhir Sindarov while lying on a bed in a hotel room due to an ankle injury. Sindarov obtained a clear advantage, but Firouzja defended successfully. Elsewhere, Praggnanandhaa Rameshbabu, Bogdan-Daniel Deac and Maxime Vachier-Lagrave missed chances to put more pressure on their opponents. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-5",
-         "pubDate" : "Tue, 19 May 2026 07:10:00",
-         "title" : "Super Chess Classic Romania: Injured Firouzja plays from bed, saves draw against Sindarov"
+         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-3",
+         "pubDate" : "Tue, 19 May 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131183159.cms\" />Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
@@ -386,14 +394,6 @@ news_feed (
          "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
       },
       {
-         "description" : "Editor's Note: This article is on the Southeastern Regional Women's and Girl's Chess Championship, which brought out some of the region's strongest female players. It also attracted titled players from outside of the southeast, including co-champion FM Megan Paragua of New York and this article's author, WIM Dr. Alexey Root, who traveled all the way from Texas.One reason for this tournament's success was the guaranteed $5,000 prize fund made possible from a US Chess grant. You can find more reporting on tournaments and other events made possibly by US Chess grants here.While some spent their Saturday preparing for Mother's Day on May 10, dozens of chess players were instead competing for pri",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/southeastern-regional-womens-and-girls-chess-championship-metro-atlanta-chess-connections",
-         "pubDate" : "Mon, 11 May 2026 00:00:00",
-         "title" : "Southeastern Regional Women's and Girls' Chess Championship: Metro Atlanta Chess Connections"
-      },
-      {
          "description" : "Bullet Brawl&#38;nbsp;was set alight on Saturday by another junior talent, GM Andy Woodward, who blazed his way to a debut title ahead 191 titled players. Fresh off a solid performance at TePe Sigeman &#38;amp; Co Chess Tournament 2026, Woodward put on an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -544,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
          "pubDate" : "Thu, 07 May 2026 11:50:00",
          "title" : "TePe Sigeman - Live!"
-      },
-      {
-         "description" : "GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after nine rounds of rapid chess, with 18 rounds of blitz to come in the next two days. A win against GM Jan-Krzysztof Duda in round eight, accompanied by two draws, was enough to break...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-3",
-         "pubDate" : "Thu, 07 May 2026 09:40:00",
-         "title" : "Niemann Leads After Rapid Segment, 18 Blitz Games To Go"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
