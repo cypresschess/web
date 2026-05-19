@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-at-visakhapatnam-02-03-may-2026/",
+         "pubDate" : "Tue, 19 May 2026 09:12:43",
+         "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
+      },
+      {
          "description" : "All five games were drawn in round five of the Super Chess Classic Romania, but the day included an unusual episode as Alireza Firouzja faced Javokhir Sindarov while lying on a bed in a hotel room due to an ankle injury. Sindarov obtained a clear advantage, but Firouzja defended successfully. Elsewhere, Praggnanandhaa Rameshbabu, Bogdan-Daniel Deac and Maxime Vachier-Lagrave missed chances to put more pressure on their opponents. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
