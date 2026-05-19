@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Tuesday is a rest day for eight of the ten participants, while Fabiano Caruana and Alireza Firouzja play their postponed round-four encounter - Firouzja suffered an ankle injury and was unable to play the game on Sunday. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Tue, 19 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-at-visakhapatnam-02-03-may-2026/",
          "pubDate" : "Tue, 19 May 2026 09:12:43",
          "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
+      },
+      {
+         "description" : "We&#39;re excited to announce that you can now keep up with every FIDE rating change and ranking movement live on Chess.com! Keep an eye on your favorite players, learn about their latest results, and even see if they&#39;re playing a rated event right no...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-live-ratings",
+         "pubDate" : "Tue, 19 May 2026 07:18:00",
+         "title" : "Live Chess Ratings And Rankings Now Available On Chess.com"
       },
       {
          "description" : "All five games were drawn in round five of the Super Chess Classic Romania, but the day included an unusual episode as Alireza Firouzja faced Javokhir Sindarov while lying on a bed in a hotel room due to an ankle injury. Sindarov obtained a clear advantage, but Firouzja defended successfully. Elsewhere, Praggnanandhaa Rameshbabu, Bogdan-Daniel Deac and Maxime Vachier-Lagrave missed chances to put more pressure on their opponents. | Photo: Lennart Ootes",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-3",
          "pubDate" : "Thu, 07 May 2026 09:40:00",
          "title" : "Niemann Leads After Rapid Segment, 18 Blitz Games To Go"
-      },
-      {
-         "description" : "GM Magnus Carlsen has won the 2026 TePe Sigeman Chess Tournament after grinding out a trademark classical win over GM Yagiz Kaan Erdogmus and then beating GM Arjun Erigaisi 2-1 in blitz tiebreaks. Arjun began the day as sole leader but needed luck...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-7",
-         "pubDate" : "Thu, 07 May 2026 09:34:00",
-         "title" : "Carlsen Beats Erdogmus, Arjun To Win TePe Sigeman Chess"
       },
       {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
