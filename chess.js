@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games were drawn in round five of the Super Chess Classic Romania, but the day included an unusual episode as Alireza Firouzja faced Javokhir Sindarov while lying on a bed in a hotel room due to an ankle injury. Sindarov obtained a clear advantage, but Firouzja defended successfully. Elsewhere, Praggnanandhaa Rameshbabu, Bogdan-Daniel Deac and Maxime Vachier-Lagrave missed chances to put more pressure on their opponents. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-5",
+         "pubDate" : "Tue, 19 May 2026 07:10:00",
+         "title" : "Super Chess Classic Romania: Injured Firouzja plays from bed, saves draw against Sindarov"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131183159.cms\" />Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-d-gukeshs-world-cship-challenger-sindarov-plays-classical-chess-against-bedridden-alireza-firouzja-watch/articleshow/131183159.cms",
          "pubDate" : "Mon, 18 May 2026 18:02:27",
          "title" : "Rare! Gukesh's challenger Sindarov plays against bedridden Firouzja - Watch"
-      },
-      {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer is the sole leader after four rounds. On Monday, he faces Anish Giri, who stands a half point back in the standings, with the black pieces. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Mon, 18 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131177362.cms\" />Indian Grandmaster Aravindh Chithambaram became the first Indian to qualify for the Chess event at Esports World Cup 2026 after winning the Road to EWC qualifier at DreamHack Atlanta. The 26-year-old defeated Alexey Sarana in a dramatic Armageddon decider to secure qualification, USD 15,000 prize money, and a place in the main event scheduled from August 11-15.",
