@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Tuesday is a rest day for eight of the ten participants, while Fabiano Caruana and Alireza Firouzja play their postponed round-four encounter - Firouzja suffered an ankle injury and was unable to play the game on Sunday. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "description" : "Fabiano Caruana defeated Alireza Firouzja in their postponed round-four game at the Super Chess Classic Romania, played on the tournament's free day after being rescheduled. Firouzja, recovering from an ankle injury, again played from a bed in the hotel. Caruana gained a clear edge in a sharp Slav Defence and converted after Firouzja made a decisive mistake on move 37. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Tue, 19 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-firouzja-caruana",
+         "pubDate" : "Wed, 20 May 2026 04:50:00",
+         "title" : "Super Chess Classic Romania: Caruana beats Firouzja in postponed encounter"
       },
       {
          "description" : "GM Alexey Sarana was your winner in Titled Tuesday on May 19, scoring 9.5 points and coming out ahead of GM Christopher Yoo in tiebreaks. GM Hikaru Nakamura finished third for a second straight week, while GM Arjun Erigaisi took fourth place, havi...",
