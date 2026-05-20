@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Organised by the British Chess Problem Society!&#160; Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2026-2027/",
+         "pubDate" : "Wed, 20 May 2026 07:00:16",
+         "title" : "Winton British Chess Solving Championship 2026-2027"
+      },
+      {
+         "description" : "It has gained 40 Elo points, and now stands at 3620 Elo. It can show you the best moves, the most promising lines. But it concentrates on teaching. It will play practice games against you, at your level of play, and imitate the style of famous players if you wish. It has AI-supported training with subtle hints, and will train tactics and endgames with you. It even teaches you Freestyle Chess. It practically forces you to become a stronger player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-21-is-here",
+         "pubDate" : "Wed, 20 May 2026 06:54:31",
+         "title" : "Fritz 21 is here!"
+      },
+      {
          "description" : "Fabiano Caruana defeated Alireza Firouzja in their postponed round-four game at the Super Chess Classic Romania, played on the tournament's free day after being rescheduled. Firouzja, recovering from an ankle injury, again played from a bed in the hotel. Caruana gained a clear edge in a sharp Slav Defence and converted after Firouzja made a decisive mistake on move 37. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
