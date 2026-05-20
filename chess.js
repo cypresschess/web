@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has officially announced the star-studded team lineups for the upcoming FIDE World Rapid &#38;amp; Blitz Team Chess Championships 2026. Descending upon Hong Kong&#38;rsquo;s iconic Queen Elizabeth Stadium&#38;nbsp;June 17-21, this high-stakes festival of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-team-rapid-blitz-championships-announcement",
+         "pubDate" : "Wed, 20 May 2026 14:34:00",
+         "title" : "Carlsen Headlines Star-Studded Return Of World Team Rapid & Blitz Championships"
+      },
+      {
          "description" : "Don't miss your chance. Today is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-6",
-         "pubDate" : "Wed, 20 May 2026 11:14:46",
+         "pubDate" : "Wed, 20 May 2026 11:14:00",
          "title" : "Keymer Extends Lead Without Playing After Firouzja Drops Out"
       },
       {
@@ -58,14 +66,6 @@ news_feed (
          "title" : "Winton British Chess Solving Championship 2026-2027"
       },
       {
-         "description" : "It has gained 40 Elo points, and now stands at 3620 Elo. It can show you the best moves, the most promising lines. But it concentrates on teaching. It will play practice games against you, at your level of play, and imitate the style of famous players if you wish. It has AI-supported training with subtle hints, and will train tactics and endgames with you. It even teaches you Freestyle Chess. It practically forces you to become a stronger player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-21-is-here",
-         "pubDate" : "Wed, 20 May 2026 06:54:31",
-         "title" : "Fritz 21 is here!"
-      },
-      {
          "description" : "GM Alireza Firouzja has withdrawn from the Super Chess Classic Romania 2026 following an ankle injury sustained during the event, the Grand Chess Tour announced on Wednesday. Despite the withdrawal, the 22-year-old is expected to travel to Oslo th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,12 +74,12 @@ news_feed (
          "title" : "Firouzja Withdraws From GCT Romania After Ankle Injury"
       },
       {
-         "description" : "Fabiano Caruana defeated Alireza Firouzja in their postponed round-four game at the Super Chess Classic Romania, played on the tournament's free day after being rescheduled. Firouzja, recovering from an ankle injury, again played from a bed in the hotel. Caruana gained a clear edge in a sharp Slav Defence and converted after Firouzja made a decisive mistake on move 37. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-firouzja-caruana",
-         "pubDate" : "Wed, 20 May 2026 04:50:00",
-         "title" : "Super Chess Classic Romania: Caruana beats Firouzja in postponed encounter"
+         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Middle School (K-8) Championship. These photos are categorized and tagged to the best of our ability. All coverage from this event can be found here.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.All photos are by Javier Carrera unless labeled otherwise. Side Events:K-8 Blitz ChampionshipFirst place: Ethan Guo (CA) Not Pictured Second place (co-champion): Jashith Karthi (CA)<br> <br> <br> <br> Image<br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-nms-photo-report-assorted-medalists",
+         "pubDate" : "Wed, 20 May 2026 00:00:00",
+         "title" : "2026 NMS Photo Report: Assorted Medalists"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 25 in observance of Memorial Day, and will reopen for normal business operations on Tuesday, May 26. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
@@ -378,14 +378,6 @@ news_feed (
          "title" : "2026 Annual Samford Fellowships Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This weekend, May 15 through 17, the US Chess National Middle School (K-8) Championship take place in Round Rock, TX! This national event features some of the best scholastic chess players in the United States, and US Chess is proud to host this exciting event.First things first, registration is still open until 10:00 a.m. CDT on Friday, May 15. If you have not registered, please visit the event page and register online.Now, here are a few selections from the schedule of events that you can look forward to at the 2026 National Middle School (K-8) Championship! Special Guest Grandmaster Julio SadorraUS Chess is proud to wel",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-national-middle-school-k-8-championship-preview",
-         "pubDate" : "Wed, 13 May 2026 00:00:00",
-         "title" : "2026 National Middle School (K-8) Championship Preview!"
-      },
-      {
          "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -544,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dmitry-andreikin-wins-2026-king-of-the-hill-community-championship",
          "pubDate" : "Fri, 08 May 2026 21:08:00",
          "title" : "Andreikin Rises From The Abyss To Win King Of The Hill Championship"
-      },
-      {
-         "description" : "Even after ending the day with three losses, GM Hans Niemann leads the 2026 Super Rapid &#38;amp; Blitz Poland after the first nine rounds of blitz. GM Wesley So wasn&#39;t able to catch up as he lost two out of the last four games himself, making draws i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-4",
-         "pubDate" : "Fri, 08 May 2026 14:50:00",
-         "title" : "Niemann Leads By Half A Point; So, Caruana, Fedoseev Catch Up"
       },
       {
          "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
