@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Don't miss your chance. Today is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off-4",
+         "pubDate" : "Wed, 20 May 2026 14:00:00",
+         "title" : "Only today: it's 25% off!"
+      },
+      {
+         "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026.&#160;To apply for an award you must complete the official Award...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-annual-awards-scheme-2026/",
+         "pubDate" : "Wed, 20 May 2026 11:42:58",
+         "title" : "ECF Annual Awards Scheme 2026"
+      },
+      {
          "description" : "Please find below IA FA SNA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Certificate of SNA Seminar & Exam held in Mohali on 31 Jan & 01 Feb 2026"
       },
       {
+         "description" : "GMs Aravindh Chithambaram, Andrey Esipenko, Liem Le, and Alexey Sarana were the four players to qualify, through DreamHack Atlanta 2026, for the 2026 Esports World Cup Play-in. There, they will face the four other players who finish at the top of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-dreamhack-atlanta-aravindh-esipenko-liem-le-sarana",
+         "pubDate" : "Wed, 20 May 2026 08:09:30",
+         "title" : "Aravindh, Esipenko, Liem Le, Sarana Qualify For Esports World Cup Play-in"
+      },
+      {
          "description" : "Organised by the British Chess Problem Society!&#160; Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fritz-21-is-here",
          "pubDate" : "Wed, 20 May 2026 06:54:31",
          "title" : "Fritz 21 is here!"
+      },
+      {
+         "description" : "GM Alireza Firouzja has withdrawn from the Super Chess Classic Romania 2026 following an ankle injury sustained during the event, the Grand Chess Tour announced on Wednesday. Despite the withdrawal, the 22-year-old is expected to travel to Oslo th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-withdraws-from-gct-romania",
+         "pubDate" : "Wed, 20 May 2026 06:29:29",
+         "title" : "Firouzja Withdraws From GCT Romania After Ankle Injury"
       },
       {
          "description" : "Fabiano Caruana defeated Alireza Firouzja in their postponed round-four game at the Super Chess Classic Romania, played on the tournament's free day after being rescheduled. Firouzja, recovering from an ankle injury, again played from a bed in the hotel. Caruana gained a clear edge in a sharp Slav Defence and converted after Firouzja made a decisive mistake on move 37. | Photo: Lennart Ootes",
@@ -522,28 +554,12 @@ news_feed (
          "title" : "Keymer Wins On First Official Freestyle Friday Broadcast"
       },
       {
-         "description" : "GMs Jose Martinez and Alexey Sarana have been scoring victories in 3 0 Thursday tournaments since the very first day of the event, and both players added to their trophy cases on May 7. Sarana won the first tournament of the day before finishing h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-martinez-martinez-3-0-thursday-05-07-2026",
-         "pubDate" : "Fri, 08 May 2026 10:41:11",
-         "title" : "Martinez, Sarana Dominate 3 0 Thursday Tournaments"
-      },
-      {
          "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/08/chess-magnus-carlsen-enjoys-narrow-win-in-malmo-during-rare-classical-outing",
          "pubDate" : "Fri, 08 May 2026 07:00:39",
          "title" : "Chess: Magnus Carlsen enjoys narrow win in Malm&ouml; during rare classical outing"
-      },
-      {
-         "description" : "Have you ever studied a bunch of lines in an opening, just to see your opponent playing something completely different? Your struggle is finally over, as you can now access Chess.com&#39;s game database. Check what other people are playing and take yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-games-database",
-         "pubDate" : "Fri, 08 May 2026 07:00:00",
-         "title" : "Access The World's Largest Chess Database With Over 30 Billion Games On Chess.com"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130948057.cms\" />Magnus Carlsen clinched the TePe Sigeman &amp; Co. chess title in Malmo after a dramatic classical win against Yagiz Kaan and two decisive blitz victories over Arjun Erigaisi. Carlsen's resilience in the classical phase, forcing complex endgames, proved pivotal. Erigaisi fought valiantly, securing a draw in the classical finale and winning one blitz tiebreak before Carlsen ultimately triumphed.",
