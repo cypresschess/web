@@ -18,6 +18,14 @@ news_feed (
          "title" : "ECF Annual Awards Scheme 2026"
       },
       {
+         "description" : "GM Vincent Keymer increased his lead to a full point over the Super Chess Classic Romania 2026 field after GM Alireza Firouzja&#39;s withdrawal from the event gave him a forfeit win. All the other games in round six were drawn, with GMs Wesley So (vs....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-6",
+         "pubDate" : "Wed, 20 May 2026 11:14:46",
+         "title" : "Keymer Extends Lead Without Playing After Firouzja Drops Out"
+      },
+      {
          "description" : "Please find below IA FA SNA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-dreamhack-atlanta-aravindh-esipenko-liem-le-sarana",
-         "pubDate" : "Wed, 20 May 2026 08:09:30",
+         "pubDate" : "Wed, 20 May 2026 08:09:00",
          "title" : "Aravindh, Esipenko, Liem Le, Sarana Qualify For Esports World Cup Play-in"
       },
       {
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-withdraws-from-gct-romania",
-         "pubDate" : "Wed, 20 May 2026 06:29:29",
+         "pubDate" : "Wed, 20 May 2026 06:29:00",
          "title" : "Firouzja Withdraws From GCT Romania After Ankle Injury"
       },
       {
@@ -72,6 +80,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-classic-romania-2026-firouzja-caruana",
          "pubDate" : "Wed, 20 May 2026 04:50:00",
          "title" : "Super Chess Classic Romania: Caruana beats Firouzja in postponed encounter"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 25 in observance of Memorial Day, and will reopen for normal business operations on Tuesday, May 26. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-25",
+         "pubDate" : "Wed, 20 May 2026 00:00:00",
+         "title" : "US Chess Offices Closed Monday, May 25"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-3",
+         "pubDate" : "Wed, 20 May 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 3"
       },
       {
          "description" : "GM Alexey Sarana was your winner in Titled Tuesday on May 19, scoring 9.5 points and coming out ahead of GM Christopher Yoo in tiebreaks. GM Hikaru Nakamura finished third for a second straight week, while GM Arjun Erigaisi took fourth place, havi...",
@@ -362,28 +386,12 @@ news_feed (
          "title" : "2026 National Middle School (K-8) Championship Preview!"
       },
       {
-         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-2",
-         "pubDate" : "Wed, 13 May 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 2"
-      },
-      {
          "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-titled-tuesday-may-12-2026",
          "pubDate" : "Tue, 12 May 2026 12:22:00",
          "title" : "Nepomniachtchi Back In Titled Tuesday Win Column"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-2",
-         "pubDate" : "Tue, 12 May 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 2"
       },
       {
          "description" : "A new book by best-selling author Ben Mezrich offers the most detailed account yet of the controversy between GMs Magnus Carlsen and Hans Niemann, revealing new details behind what became the biggest scandal in modern chess. In Checkmate: Genius...",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-poland-day-4",
          "pubDate" : "Fri, 08 May 2026 14:50:00",
          "title" : "Niemann Leads By Half A Point; So, Caruana, Fedoseev Catch Up"
-      },
-      {
-         "description" : "GM Vincent Keymer won Freestyle Friday on May 8 by a full point, scoring 9.5/11 ahead of IM Marco Materia and GM Pranav Venkatesh. Keymer only scored 0.5/2 against Materia and Pranav individually, but won every other game to become the first playe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-may-8-2026",
-         "pubDate" : "Fri, 08 May 2026 12:35:24",
-         "title" : "Keymer Wins On First Official Freestyle Friday Broadcast"
       },
       {
          "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
