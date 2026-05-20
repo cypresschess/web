@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find below IA FA SNA",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-list-of-successful-arbiters-aicf-arbiters-refresher-course-2026-27/",
+         "pubDate" : "Wed, 20 May 2026 08:33:13",
+         "title" : "Final list of Successful Arbiters - AICF Arbiters Refresher Course 2026-27."
+      },
+      {
+         "description" : "No Name 1 Simranjot, Kaur 2 Kuldeep, Sahajlan 3 Keshav, Kumar 4 Arul, Tripathi 5 Shweta 6 Ashu, Tosh Kaushal 7 Bansal, Arun 8 Lakshita,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-mohali-on-31-jan-01-feb-2026/",
+         "pubDate" : "Wed, 20 May 2026 08:22:55",
+         "title" : "Certificate of SNA Seminar & Exam held in Mohali on 31 Jan & 01 Feb 2026"
+      },
+      {
          "description" : "Organised by the British Chess Problem Society!&#160; Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -706,14 +722,6 @@ news_feed (
          "title" : "Just Don't Fight"
       },
       {
-         "description" : "On behalf of All India Chess Federation , Maharashtra Chess Association is organizing Senior National Arbiter Seminar &#38; exam on 16 &#38; 17 May 2026 at Swami Vivekanand",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-on-16-17-may-2026-at-swami-vivekanand-international-school-kandivali-west-mumbai/",
-         "pubDate" : "Sat, 02 May 2026 08:09:13",
-         "title" : "SNA Seminar & Exam on 16 & 17 May 2026 at Swami Vivekanand International School, Kandivali (West), Mumbai."
-      },
-      {
          "description" : " There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she made an incomprehensible blunder 23.Nd4? which was met by the absolutely obvious Rc8 and her position collapsed. Magnus Carlsen faced Arjun Erigaisi's Petroff, an opening that proved successful in the Candidates, a couple of times it seemed like Carlsen was getting somewhere but he had to settle for a draw. Jorden van Foreest also looked like he might have something but after 20.Re1 it was dead equal. Round 1 Standings: 1st= Abdusattorov, Wo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-classical-return-yagizs-presence-add-charm-to-malmo-meet/articleshow/130622766.cms",
          "pubDate" : "Thu, 30 Apr 2026 04:06:26",
          "title" : "Magnus Carlsen's classical return, Yagiz's presence add charm to Malmo meet"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130600479.cms\" />In this exclusive interview, Vincent Keymer reflected on his rise from winning the Grenke Open at 13 to claiming the Grenke Freestyle 2026 title in Karlsruhe. Germany's No. 1 spoke about freestyle chess relying more on intuition, handling the \"intimidation factor\" of Magnus Carlsen, and balancing school with chess while growing up in a family of musicians. Keymer also praised coach P&eacute;ter L&eacute;k&oacute; and discussed the challenges young chess players face in Germany compared to countries like India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vincent-keymer-exclusive-being-germany-no-1-magnus-carlsen-intimidation-freestyle-chess-and-more/articleshow/130600479.cms",
-         "pubDate" : "Wed, 29 Apr 2026 08:28:32",
-         "title" : "Keymer Exclusive: Being Germany No. 1, Carlsen intimidation, and more"
       }
    ]
 }
