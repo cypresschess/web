@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Javokhir Sindarov pounced on a mistake by leader GM Vincent Keymer to grab his first classical win since the FIDE Candidates and transform the Super Chess Classic Romania 2026 standings with two rounds to go. Keymer was caught by GM Fabiano Car...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-7",
+         "pubDate" : "Thu, 21 May 2026 11:10:53",
+         "title" : "Sindarov's 1st Win Since Candidates Sees Caruana, Van Foreest Catch Keymer"
+      },
+      {
          "description" : "Plenty of footballers enjoy chess. But few, if any, can match the level of Major League Soccer star Dejan Jovelji&#263. Recently, the Serbian forward showed off his skills in a match against IM Levy Rozman, better known as GothamChess. Mohamed Salah...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-india-rising-2026",
          "pubDate" : "Mon, 11 May 2026 08:00:00",
          "title" : "India Rising Tournament Revealed As New Path To Esports World Cup"
-      },
-      {
-         "description" : "History was made when IM Faustino Oro sealed his final grandmaster norm with a round to spare at the Sardinia World Chess Festival in Italy on Saturday. The Argentinian &#34;Messi of Chess&#34; becomes the second-youngest player ever to earn the title. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-seals-title-to-become-2nd-youngest-gm-ever-at-12",
-         "pubDate" : "Mon, 11 May 2026 07:38:00",
-         "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
       },
       {
          "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
