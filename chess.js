@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Plenty of footballers enjoy chess. But few, if any, can match the level of Major League Soccer star Dejan Jovelji&#263. Recently, the Serbian forward showed off his skills in a match against IM Levy Rozman, better known as GothamChess. Mohamed Salah...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dejan-joveljic-faces-gothamchess-strongest-chess-playing-athlete",
+         "pubDate" : "Thu, 21 May 2026 07:34:31",
+         "title" : "Dejan Jovelji&#263 Faces GothamChess, Shows Why He May Be The Strongest Chess-Playing Athlete"
+      },
+      {
          "description" : "GMs Fabiano Caruana and Yagiz Kaan Erdogmus have added their names to the $50,000 Naroditsky Memorial Rapid &#38;amp; Blitz this July, joining an already spectacular lineup that includes GMs Hikaru Nakamura, Wesley So, Javokhir Sindarov, Hans Niemann,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Caruana, Erdogmus Join Spectacular Naroditsky Memorial Lineup"
       },
       {
+         "description" : "Don't miss your chance. Today, Thursday May 21, 2026, is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off-4",
+         "pubDate" : "Thu, 21 May 2026 00:00:00",
+         "title" : "Only today: it's 25% off!"
+      },
+      {
          "description" : "FIDE has officially announced the star-studded team lineups for the upcoming FIDE World Rapid &#38;amp; Blitz Team Chess Championships 2026. Descending upon Hong Kong&#38;rsquo;s iconic Queen Elizabeth Stadium&#38;nbsp;June 17-21, this high-stakes festival of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-world-team-rapid-blitz-championships-announcement",
          "pubDate" : "Wed, 20 May 2026 14:34:00",
          "title" : "Carlsen Headlines Star-Studded Return Of World Team Rapid & Blitz Championships"
-      },
-      {
-         "description" : "Don't miss your chance. Today is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off-4",
-         "pubDate" : "Wed, 20 May 2026 14:00:00",
-         "title" : "Only today: it's 25% off!"
       },
       {
          "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026.&#160;To apply for an award you must complete the official Award...",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "Faustino Oro Seals Title To Become 2nd Youngest GM Ever At 12"
       },
       {
-         "description" : "Bullet Brawl&#38;nbsp;was set alight on Saturday by another junior talent, GM Andy Woodward, who blazed his way to a debut title ahead 191 titled players. Fresh off a solid performance at TePe Sigeman &#38;amp; Co Chess Tournament 2026, Woodward put on an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andy-woodward-wins-bullet-brawl-may-9-2026",
-         "pubDate" : "Sat, 09 May 2026 18:08:00",
-         "title" : "Hyperbullet Maestro Woodward Dashes To 1st Bullet Brawl Title"
-      },
-      {
          "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -520,14 +520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/shocking-arjuna-awardee-gm-abhijeet-gupta-slams-chess-federation-over-unpaid-rs-5-5-lakh-prize-money/articleshow/130974067.cms",
          "pubDate" : "Sat, 09 May 2026 09:14:25",
          "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
-      },
-      {
-         "description" : "GM Hans Niemann has won the 2026 Super Rapid &#38;amp; Blitz Poland, the biggest tournament win of his career so far, to earn the $50,000 first prize. Following up on last year&#39;s winner, GM Vladimir Fedoseev, it&#39;s the second year in a row that a wildc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-2026-super-rapid-blitz-poland",
-         "pubDate" : "Sat, 09 May 2026 07:53:00",
-         "title" : "Wildcard Niemann Wins Super Rapid & Blitz 2026 With Clutch Finale"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130969427.cms\" />Javokhir Sindarov defeated D Gukesh in their first-ever blitz clash at the Grand Chess Tour in Warsaw, avenging his earlier rapid loss to the World Champion. Gukesh's rare fist-pump celebration after that previous win had gone viral. With one win each, their growing rivalry now heads into a decisive final reverse-blitz showdown before this year's World Championship clash.",
