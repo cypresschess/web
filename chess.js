@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
          "pubDate" : "Fri, 01 May 2026 07:00:41",
          "title" : "Chess: England fail to win senior team world medals for first time in five years"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130622766.cms\" />Magnus Carlsen makes a rare classical over-the-board appearance in Malmo, Sweden, for the TePe Sigeman &amp; Co tournament. While Carlsen is a focal point, young talents like Yagiz Kaan, Nodirbek Abdusattorov, and Erigaisi Arjun will also vie for attention in the elite eight-player event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-classical-return-yagizs-presence-add-charm-to-malmo-meet/articleshow/130622766.cms",
-         "pubDate" : "Thu, 30 Apr 2026 04:06:26",
-         "title" : "Magnus Carlsen's classical return, Yagiz's presence add charm to Malmo meet"
       }
    ]
 }
