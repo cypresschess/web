@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana and Yagiz Kaan Erdogmus have added their names to the $50,000 Naroditsky Memorial Rapid &#38;amp; Blitz this July, joining an already spectacular lineup that includes GMs Hikaru Nakamura, Wesley So, Javokhir Sindarov, Hans Niemann,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-erdogmus-join-spectacular-naroditsky-memorial-lineup",
+         "pubDate" : "Thu, 21 May 2026 03:38:01",
+         "title" : "Caruana, Erdogmus Join Spectacular Naroditsky Memorial Lineup"
+      },
+      {
          "description" : "FIDE has officially announced the star-studded team lineups for the upcoming FIDE World Rapid &#38;amp; Blitz Team Chess Championships 2026. Descending upon Hong Kong&#38;rsquo;s iconic Queen Elizabeth Stadium&#38;nbsp;June 17-21, this high-stakes festival of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/after-d-gukeshs-viral-first-pump-celebration-javokhir-sindarov-gets-his-revenge-watch/articleshow/130969427.cms",
          "pubDate" : "Sat, 09 May 2026 02:18:33",
          "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
-      },
-      {
-         "description" : "GM Dmitry Andreikin has been crowned as the winner of the 2026 Chess.com King of the Hill Championship on Friday, marking the first time that a super-GM has won a Chess.com Community Chess Championship event.&#38;nbsp; In the wake of a match loss to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dmitry-andreikin-wins-2026-king-of-the-hill-community-championship",
-         "pubDate" : "Fri, 08 May 2026 21:08:00",
-         "title" : "Andreikin Rises From The Abyss To Win King Of The Hill Championship"
       },
       {
          "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
