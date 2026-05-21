@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-7",
-         "pubDate" : "Thu, 21 May 2026 11:10:53",
+         "pubDate" : "Thu, 21 May 2026 11:10:00",
          "title" : "Sindarov's 1st Win Since Candidates Sees Caruana, Van Foreest Catch Keymer"
       },
       {
@@ -24,6 +24,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-erdogmus-join-spectacular-naroditsky-memorial-lineup",
          "pubDate" : "Thu, 21 May 2026 03:38:01",
          "title" : "Caruana, Erdogmus Join Spectacular Naroditsky Memorial Lineup"
+      },
+      {
+         "description" : "Editor's note: If any photo is missing or misidentified, please email Click here to show email address for corrections or additions.You could fill up a whole chess board with the 64 USA players who took the trip to Playa Salinitas, Sonsonate, El Salvador for the XV Pan-American U7-U17 Chess Championship.There's power in numbers, as USA won five gold medals across the 12 sections. Overall, USA finished with 12 medals and finished with the most podium points out of the 25 federations in attendance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Mohit Manchanda<br> <br> <br> <br> As a continental event, medalists are eligible for direct ti",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-wins-12-medals-top-honors-xv-pan-american-u7-u17",
+         "pubDate" : "Thu, 21 May 2026 00:00:00",
+         "title" : "USA Wins 12 Medals, Top Honors at XV Pan-American U7-U17"
       },
       {
          "description" : "Don't miss your chance. Today, Thursday May 21, 2026, is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/judit-polgar-and-hou-yifan-were-exceptions-koneru-humpy-urges-women-chess-players-to-play-more-open-tournaments/articleshow/131054548.cms",
          "pubDate" : "Wed, 13 May 2026 04:20:58",
          "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
-      },
-      {
-         "description" : "The Frank P. Samford Jr. and Frank Samford III Chess Fellowships are pleased to announce the 40th consecutive annual awards. The fellowships were created by the late Frank P. Samford Jr., of Birmingham, Ala., to advance the game he loved by identifying and assisting the most promising young chess masters in the United States.Since its inception in 1987 the Samford, under the leadership of Frank Samford III, has been successful in promoting the chess careers of more than three dozen young Americans, many of whom have gone on to become grandmasters, members of the U.S. Olympiad Chess Team, and U.S. Champions. Four members of the 2024 bronze medal-winning U.S. Women's Olympiad team were current",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-annual-samford-fellowships-announced",
-         "pubDate" : "Wed, 13 May 2026 00:00:00",
-         "title" : "2026 Annual Samford Fellowships Announced"
       },
       {
          "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
