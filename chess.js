@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often a medal contender This week's puzzle is a chance to enter an annual national competition in which Guardian readers traditionally perform well and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by investment managers Winton. This competition is only open to British residents and entry is free. To take part, simply send White's first move by post to",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/may/22/chess-your-chance-to-take-part-in-the-british-solving-championship",
+         "pubDate" : "Fri, 22 May 2026 07:00:52",
+         "title" : "Chess: your chance to take part in the British Solving Championship"
+      },
+      {
          "description" : "GM Javokhir Sindarov pounced on a mistake by leader GM Vincent Keymer to grab his first classical win since the FIDE Candidates and transform the Super Chess Classic Romania 2026 standings with two rounds to go. Keymer was caught by GM Fabiano Car...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/31st-tepe-sigeman-co-chess-tournament-2026",
          "pubDate" : "Fri, 1 May 2026 11:20:00",
          "title" : "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results"
-      },
-      {
-         "description" : " USA retain the world 50+ title, while Germany-Lasker SGK win the 65+ equivalent, with England fourth in both events England finished out of the medals for the first time in five years in this week's world senior team championships for over-50s and over-65s, played at Durres, Albania, as the US, fielding a largely former USSR squad, retained the over-50 gold medals, while a nominally German team, which also included a former Soviet star, won the over-65s event. The US victory was clear but had a controversial aspect in the team's use of package deals, which are forbidden in Olympiads but still allowed in senior events. <a href=\"https://www.theguardian.com/sport/2026/may/01/chess-england-fail",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
-         "pubDate" : "Fri, 01 May 2026 07:00:41",
-         "title" : "Chess: England fail to win senior team world medals for first time in five years"
       }
    ]
 }
