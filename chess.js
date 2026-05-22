@@ -18,12 +18,28 @@ news_feed (
          "title" : "GM Ramesh shares 31 thoughtful suggestions regarding classroom discipline"
       },
       {
+         "description" : "For GM Haik Martirosyan, last month, it was Titled Tuesday. This month, Freestyle Friday. Martirosyan won the weekly freestyle chess event on May 22, his second following a win on February 13. Martirosyan scored an incredible 10.5 back then, but t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martirosyan-wins-freestyle-friday-may-22-2026",
+         "pubDate" : "Fri, 22 May 2026 11:38:02",
+         "title" : "Martirosyan Wins Another Tournament"
+      },
+      {
          "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026. To apply for an award you must complete the official...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2026-ecf-awards/",
          "pubDate" : "Fri, 22 May 2026 10:00:58",
          "title" : "2026 ECF Awards"
+      },
+      {
+         "description" : "Huddle up, chess fans: BlitzChamps V is back. Eight NFL stars are trading the field for the board on May 26 at 5 p.m. ET / 23:00 CEST, and the clock will be just as dangerous as any pass rush. With bragging rights and a $100,000 prize fund going t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-v",
+         "pubDate" : "Fri, 22 May 2026 10:00:00",
+         "title" : "BlitzChamps V Returns With Star NFL Players On May 26"
       },
       {
          "description" : "The ECU E-Magazine March &#38; April 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-classic-romania-2026-7",
          "pubDate" : "Fri, 22 May 2026 04:30:00",
          "title" : "Super Chess Classic: Sindarov takes down Keymer, Caruana beats Pragg"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Phil Carney.<br> <br> <br> <br> On the final weekend in March, D.C.-area students gathered at the Stead Park Recreation Center for the Charles Carroll Carter Capital Chess Classic, a free-to-enter K-12 tournament run by Silver Knights Chess Academy with free lunch and a $10,000 college scholarship prize fund generously provided by Friends of Stead Park.The tournament's 81 competitors included players from each of D.C.'s eight wards, and more than 35 schools from all over the city were represented. Twenty local students of varying ages and grade levels went home with a share of the prize fun",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/checkmates-and-checks-how-dc-tournament-helped-local-students-land-college-scholarships",
+         "pubDate" : "Fri, 22 May 2026 00:00:00",
+         "title" : "Checkmates and Checks: How a D.C. Tournament Helped Local Students Land College Scholarships"
       },
       {
          "description" : "GM Javokhir Sindarov pounced on a mistake by leader GM Vincent Keymer to grab his first classical win since the FIDE Candidates and transform the Super Chess Classic Romania 2026 standings with two rounds to go. Keymer was caught by GM Fabiano Car...",
@@ -362,14 +386,6 @@ news_feed (
          "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
       },
       {
-         "description" : "The Chess Journalists of America (CJA) calls for nominations for the annual Chess Journalists of America awards. The CJA Awards recognize the best in all facets of chess journalism, both in print and online. The best chess articles, columns, photojournalism, online writing, and social media are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2025, and May 31, 2026.CJA is a nonprofit organization dedicated to promoting the study and knowledge of chess as a journalistic and scholarly endeavor. Membership is open to everyone at an annual membership ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/call-nominations-2026-chess-journalist-america-awards",
-         "pubDate" : "Thu, 14 May 2026 00:00:00",
-         "title" : "Call for Nominations: 2026 Chess Journalist of America Awards"
-      },
-      {
          "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -488,22 +504,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
          "pubDate" : "Mon, 11 May 2026 09:10:00",
          "title" : "Sardinia World Chess Festival 2026 - "
-      },
-      {
-         "description" : "Titled Tuesday is getting its biggest prize fund ever. Starting June 2, the event will feature a weekly $10,000 prize fund, bringing its yearly total to more than $500,000&#38;mdash;more than three times the current purse. Titled Tuesday has become ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/titled-tuesday-new-10k-prize-fund",
-         "pubDate" : "Mon, 11 May 2026 09:00:00",
-         "title" : "Titled Tuesday Now Bigger Than Ever With $10,000 In Prizes Every Week"
-      },
-      {
-         "description" : "Another path to the prestigious Esports World Cup (EWC) has been revealed. Players can now participate in India Rising for a $30,000 prize fund and, most importantly, one spot at the EWC in Riyadh. The event mixes online qualifiers with a thrillin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-india-rising-2026",
-         "pubDate" : "Mon, 11 May 2026 08:00:00",
-         "title" : "India Rising Tournament Revealed As New Path To Esports World Cup"
       },
       {
          "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
