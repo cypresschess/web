@@ -10,6 +10,14 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
+         "description" : "After a draw in their direct encounter, GMs Fabiano Caruana and Vincent Keymer lead the Super Chess Classic Romania 2026 ahead of the last round. GM Javokhir Sindarov scored his second win in a row against GM Jorden van Foreest, who started the ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-8",
+         "pubDate" : "Fri, 22 May 2026 13:35:22",
+         "title" : "Caruana, Keymer Lead Ahead Of Final Day As Van Foreest, Giri Falter"
+      },
+      {
          "description" : "In a recent post, R. B. Ramesh shared 31 thoughtful suggestions for students and coaches during training sessions. From concentration and independent thinking to note-taking and stamina, the ideas reflect what serious learning truly looks like. Many of these habits go beyond chess and help shape better learners and individuals. Read the full article and reflect on how many of these lessons you can apply. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "2026 ECF Awards"
       },
       {
-         "description" : "Huddle up, chess fans: BlitzChamps V is back. Eight NFL stars are trading the field for the board on May 26 at 5 p.m. ET / 23:00 CEST, and the clock will be just as dangerous as any pass rush. With bragging rights and a $100,000 prize fund going t...",
+         "description" : "Huddle up, chess fans: BlitzChamps V is back. Eight NFL stars are trading the field for the board on May 26 at 5:30 p.m. ET / 23:30 CEST, and the clock will be just as dangerous as any pass rush. With bragging rights and a $100,000 prize fund goin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-blitzchamps-v",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "'He's A Genius' - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
       },
       {
-         "description" : "It took GM Axel Smith more than 29 hours to complete a 49-board blindfold simul this weekend. The Swedish grandmaster scored a dominant 41-8&#38;mdash;but said afterward that raising awareness for a climate cause mattered more than the result or any r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/axel-smith-completes-49-board-blindfold-simul",
-         "pubDate" : "Mon, 11 May 2026 14:12:00",
-         "title" : "Axel Smith Scores 41-8 In 49-Board Blindfold Simul, Sets Unofficial Record"
-      },
-      {
          "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/just-dont-fight/",
          "pubDate" : "Sat, 02 May 2026 13:00:00",
          "title" : "Just Don't Fight"
-      },
-      {
-         "description" : " There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she made an incomprehensible blunder 23.Nd4? which was met by the absolutely obvious Rc8 and her position collapsed. Magnus Carlsen faced Arjun Erigaisi's Petroff, an opening that proved successful in the Candidates, a couple of times it seemed like Carlsen was getting somewhere but he had to settle for a draw. Jorden van Foreest also looked like he might have something but after 20.Re1 it was dead equal. Round 1 Standings: 1st= Abdusattorov, Wo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-woodward-take-an-early-lead-in-the-sigeman-co-chess-tournament",
-         "pubDate" : "Fri, 1 May 2026 20:56:00",
-         "title" : "Abdusattorov and Woodward take an early lead in the Sigeman & Co Chess tournament - 1"
       }
    ]
 }
