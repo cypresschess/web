@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often a medal contender This week's puzzle is a chance to enter an annual national competition in which Guardian readers traditionally perform well and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by investment managers Winton. This competition is only open to British residents and entry is free. To take part, simply send White's first move by post to",
+         "description" : "In a recent post, R. B. Ramesh shared 31 thoughtful suggestions for students and coaches during training sessions. From concentration and independent thinking to note-taking and stamina, the ideas reflect what serious learning truly looks like. Many of these habits go beyond chess and help shape better learners and individuals. Read the full article and reflect on how many of these lessons you can apply. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ramesh-suggestions-clasroom-discipline",
+         "pubDate" : "Fri, 22 May 2026 12:00:00",
+         "title" : "GM Ramesh shares 31 thoughtful suggestions regarding classroom discipline"
+      },
+      {
+         "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026. To apply for an award you must complete the official...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-ecf-awards/",
+         "pubDate" : "Fri, 22 May 2026 10:00:58",
+         "title" : "2026 ECF Awards"
+      },
+      {
+         "description" : "The ECU E-Magazine March &#38; April 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-march-april-2026/",
+         "pubDate" : "Fri, 22 May 2026 08:07:20",
+         "title" : "ECU E-Magazine March & April 2026"
+      },
+      {
+         "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often medal contenders This week's puzzle is a chance to enter an annual national competition in which Guardian readers ­traditionally perform well and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by the investment ­managers ­Winton. This competition is only open to ­British ­residents and entry is free. To take part, simply send White's first move ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/22/chess-your-chance-to-take-part-in-the-british-solving-championship",
          "pubDate" : "Fri, 22 May 2026 07:00:52",
          "title" : "Chess: your chance to take part in the British Solving Championship"
+      },
+      {
+         "description" : "Javokhir Sindarov defeated former sole leader Vincent Keymer in round seven of the Super Chess Classic Romania, allowing Fabiano Caruana and Jorden van Foreest to join Keymer in first place. Sindarov's win was his first since his Candidates Tournament triumph, while Caruana beat defending champion Praggnanandhaa Rameshbabu and Van Foreest received a forfeit win following Alireza Firouzja's withdrawal. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-7",
+         "pubDate" : "Fri, 22 May 2026 04:30:00",
+         "title" : "Super Chess Classic: Sindarov takes down Keymer, Caruana beats Pragg"
       },
       {
          "description" : "GM Javokhir Sindarov pounced on a mistake by leader GM Vincent Keymer to grab his first classical win since the FIDE Candidates and transform the Super Chess Classic Romania 2026 standings with two rounds to go. Keymer was caught by GM Fabiano Car...",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-erdogmus-join-spectacular-naroditsky-memorial-lineup",
-         "pubDate" : "Thu, 21 May 2026 03:38:01",
+         "pubDate" : "Thu, 21 May 2026 03:38:00",
          "title" : "Caruana, Erdogmus Join Spectacular Naroditsky Memorial Lineup"
       },
       {
@@ -42,28 +74,12 @@ news_feed (
          "title" : "USA Wins 12 Medals, Top Honors at XV Pan-American U7-U17"
       },
       {
-         "description" : "Don't miss your chance. Today, Thursday May 21, 2026, is Discount Day, and we are offering you a 25% discount on most products: software, services and video courses. The premium offer is the brand-new Fritz 21, which provides all the tools you need to improve your game. There are other very interesting new products that will improve your chess skills - not to forget the rating points they will help you earn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/only-today-it-s-25-off-4",
-         "pubDate" : "Thu, 21 May 2026 00:00:00",
-         "title" : "Only today: it's 25% off!"
-      },
-      {
          "description" : "FIDE has officially announced the star-studded team lineups for the upcoming FIDE World Rapid &#38;amp; Blitz Team Chess Championships 2026. Descending upon Hong Kong&#38;rsquo;s iconic Queen Elizabeth Stadium&#38;nbsp;June 17-21, this high-stakes festival of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-world-team-rapid-blitz-championships-announcement",
          "pubDate" : "Wed, 20 May 2026 14:34:00",
          "title" : "Carlsen Headlines Star-Studded Return Of World Team Rapid & Blitz Championships"
-      },
-      {
-         "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026.&#160;To apply for an award you must complete the official Award...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-annual-awards-scheme-2026/",
-         "pubDate" : "Wed, 20 May 2026 11:42:58",
-         "title" : "ECF Annual Awards Scheme 2026"
       },
       {
          "description" : "GM Vincent Keymer increased his lead to a full point over the Super Chess Classic Romania 2026 field after GM Alireza Firouzja&#39;s withdrawal from the event gave him a forfeit win. All the other games in round six were drawn, with GMs Wesley So (vs....",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2026-underway-in-croatia/",
          "pubDate" : "Fri, 01 May 2026 13:38:32",
          "title" : "European School Chess Championship 2026 underway in Croatia"
-      },
-      {
-         "description" : " The 31st Tepe Sigeman & Co Chess Tournament took place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. Magnus Carlsen beat Arjun Erigaisi in a tie-break blitz match in a final Armageddon game to win the event. Carlsen had earlier ground down Yagiz Kaan Erdogmus in a long endgame, Erigaisi escaped a lost position against Andy Woodward. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/31st-tepe-sigeman-co-chess-tournament-2026",
-         "pubDate" : "Fri, 1 May 2026 11:20:00",
-         "title" : "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results"
       }
    ]
 }
