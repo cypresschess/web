@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. With two rounds to go, three players are tied for first place: Fabiano Caruana, Vincent Keymer and Jorden van Foreest. In Friday's penultimate round, Caruana plays white against Keymer in a clash of co-leaders. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Fri, 22 May 2026 14:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
          "description" : "In a recent post, R. B. Ramesh shared 31 thoughtful suggestions for students and coaches during training sessions. From concentration and independent thinking to note-taking and stamina, the ideas reflect what serious learning truly looks like. Many of these habits go beyond chess and help shape better learners and individuals. Read the full article and reflect on how many of these lessons you can apply. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,22 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/abdusattorov-and-woodward-take-an-early-lead-in-the-sigeman-co-chess-tournament",
          "pubDate" : "Fri, 1 May 2026 20:56:00",
          "title" : "Abdusattorov and Woodward take an early lead in the Sigeman & Co Chess tournament - 1"
-      },
-      {
-         "description" : "Our hosting provider, which provides the server for our websites, email, rating and LMS systems, has informed us of a global security incident impacting managed cloud servers across the internet....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rating-system-incident-and-file-resubmission-required/",
-         "pubDate" : "Fri, 01 May 2026 14:24:34",
-         "title" : "Rating System Incident and File Resubmission Required"
-      },
-      {
-         "description" : "The European School Chess Championship 2026 is underway in Trogir, Croatia! Four rounds have been already played across six age categories: U7, U9, U11, U13, U15, and U17, and most of the sections got sole leaders. In the U7 age category, Albert-Tudor Jacota (ROU) and Sophia Kaliskami (GRE), tie for the top scoring 3.5/4 points each, with the only drawn game they played between each other. The co-leaders are followed by four players who score 3/4 points each: Hakon Gudbjartsson []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2026-underway-in-croatia/",
-         "pubDate" : "Fri, 01 May 2026 13:38:32",
-         "title" : "European School Chess Championship 2026 underway in Croatia"
       }
    ]
 }
