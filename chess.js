@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "None of the three winners in 3 0 Thursday tournaments on May 21 has even reached 20 years of age. The three teenagers&#38;mdash;FM Artin Ashraf, GM Denis Lazavik, and Pranesh M&#38;mdash;all scored victories ahead of their much more experienced colleagues...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ashraf-lazavik-pranesh-3-0-thursday-05-21-2026",
+         "pubDate" : "Fri, 22 May 2026 17:31:59",
+         "title" : "Teenagers Dominate 3 0 Thursday Tournaments"
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. With two rounds to go, three players are tied for first place: Fabiano Caruana, Vincent Keymer and Jorden van Foreest. In Friday's penultimate round, Caruana plays white against Keymer in a clash of co-leaders. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,12 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
-         "description" : "After a draw in their direct encounter, GMs Fabiano Caruana and Vincent Keymer lead the Super Chess Classic Romania 2026 ahead of the last round. GM Javokhir Sindarov scored his second win in a row against GM Jorden van Foreest, who started the ro...",
+         "description" : "After a draw in their direct encounter, GMs Fabiano Caruana and Vincent Keymer lead the Super Chess Classic Romania 2026 ahead of the last round. Against GM Jorden van Foreest, who started the round in shared first, GM Javokhir Sindarov scored his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-8",
-         "pubDate" : "Fri, 22 May 2026 13:35:22",
+         "pubDate" : "Fri, 22 May 2026 13:35:00",
          "title" : "Caruana, Keymer Lead Ahead Of Final Day As Van Foreest, Giri Falter"
-      },
-      {
-         "description" : "In a recent post, R. B. Ramesh shared 31 thoughtful suggestions for students and coaches during training sessions. From concentration and independent thinking to note-taking and stamina, the ideas reflect what serious learning truly looks like. Many of these habits go beyond chess and help shape better learners and individuals. Read the full article and reflect on how many of these lessons you can apply. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ramesh-suggestions-clasroom-discipline",
-         "pubDate" : "Fri, 22 May 2026 12:00:00",
-         "title" : "GM Ramesh shares 31 thoughtful suggestions regarding classroom discipline"
       },
       {
          "description" : "For GM Haik Martirosyan, last month, it was Titled Tuesday. This month, Freestyle Friday. Martirosyan won the weekly freestyle chess event on May 22, his second following a win on February 13. Martirosyan scored an incredible 10.5 back then, but t...",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/22/chess-your-chance-to-take-part-in-the-british-solving-championship",
          "pubDate" : "Fri, 22 May 2026 07:00:52",
          "title" : "Chess: your chance to take part in the British Solving Championship"
-      },
-      {
-         "description" : "Javokhir Sindarov defeated former sole leader Vincent Keymer in round seven of the Super Chess Classic Romania, allowing Fabiano Caruana and Jorden van Foreest to join Keymer in first place. Sindarov's win was his first since his Candidates Tournament triumph, while Caruana beat defending champion Praggnanandhaa Rameshbabu and Van Foreest received a forfeit win following Alireza Firouzja's withdrawal. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-7",
-         "pubDate" : "Fri, 22 May 2026 04:30:00",
-         "title" : "Super Chess Classic: Sindarov takes down Keymer, Caruana beats Pragg"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Phil Carney.<br> <br> <br> <br> On the final weekend in March, D.C.-area students gathered at the Stead Park Recreation Center for the Charles Carroll Carter Capital Chess Classic, a free-to-enter K-12 tournament run by Silver Knights Chess Academy with free lunch and a $10,000 college scholarship prize fund generously provided by Friends of Stead Park.The tournament's 81 competitors included players from each of D.C.'s eight wards, and more than 35 schools from all over the city were represented. Twenty local students of varying ages and grade levels went home with a share of the prize fun",
@@ -464,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-titled-tuesday-may-12-2026",
          "pubDate" : "Tue, 12 May 2026 12:22:00",
          "title" : "Nepomniachtchi Back In Titled Tuesday Win Column"
-      },
-      {
-         "description" : "A new book by best-selling author Ben Mezrich offers the most detailed account yet of the controversy between GMs Magnus Carlsen and Hans Niemann, revealing new details behind what became the biggest scandal in modern chess. In Checkmate: Genius...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ben-mezrich-checkmate-carlsen-niemann-controversy",
-         "pubDate" : "Mon, 11 May 2026 22:54:00",
-         "title" : "'He's A Genius' - Mezrich's Checkmate Explores Niemann, Carlsen Controversy"
       },
       {
          "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
