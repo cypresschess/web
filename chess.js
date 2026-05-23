@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer secured outright victory at the Super Chess Classic in Bucharest with a final-round win over Jorden van Foreest. Fabiano Caruana, who had started the day level with Keymer, missed a winning chance against Maxime Vachier-Lagrave and had to settle for second place. Keymer finished on 6/9, gained 7.8 rating points and called it his \"biggest classical tournament victory ever\". | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-9",
+         "pubDate" : "Sat, 23 May 2026 21:50:00",
+         "title" : "Keymer beats Van Foreest, wins Super Chess Classic Romania"
+      },
+      {
          "description" : " The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6/9 half a point clear of Fabiano Caruana on 5.5, Javokhir Sindarov and Wesley So were half a point further back on 5 points. Alireza Firouzja withdrew after five rounds after badly hurting his ankle, he had tried to carry on for a couple of rounds after round 3.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/power-cut-candlelight-giant-killing-8-year-old-tamizh-amudhan-stuns-world-no-7-vincent-keymer/articleshow/130727183.cms",
          "pubDate" : "Sun, 03 May 2026 04:10:08",
          "title" : "Power cut, candlelight, giant-killing: 8-year-old stuns World No. 7 Keymer"
-      },
-      {
-         "description" : " Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only winner when he defeated Nils Grandelius using the Modern Benoni as black. Once Carlsen assumed the initiative, he quickly overpowered his opponent. Nodirbek Abdusattorov seemed to be heading for a win against Andy Woodward first just before first time control 39.g6! would have won and 40.Nd4? was almost equal. Abdusattorov was then soon winning again but couldn't land the final blow and 60.Rxf7? was the move that ended the winning chance",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/31st-tepe-sigeman-co-chess-tournament-2026",
-         "pubDate" : "Sat, 2 May 2026 21:50:00",
-         "title" : "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2"
       }
    ]
 }
