@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-05-22","21","<a href=https://ratings.uschess.org/event/202605220223 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2026-05-22","46","<a href=https://ratings.uschess.org/event/202605220213 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-17","14","<a href=https://ratings.uschess.org/event/202605170413 target='_blank'>Bellaire Sunday Swiss 2026.05.17</a>",
 "HOUSTON","2026-05-17","6","<a href=https://ratings.uschess.org/event/202605170263 target='_blank'>2026 Houston Circuit T5 by AzChAcad</a>",
 "PASADENA","2026-05-16","20","<a href=https://ratings.uschess.org/event/202605160713 target='_blank'>Checkmates on Fairmont</a>",
@@ -75,6 +77,7 @@ jtable([
 "HOUSTON","2026-03-15","6","<a href=https://ratings.uschess.org/event/202603150563 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "HOUSTON","2026-03-15","157","<a href=https://ratings.uschess.org/event/202603150483 target='_blank'>2026 Lone Star Open</a>",
 "HOUSTON","2026-03-15","10","<a href=https://ratings.uschess.org/event/202603150303 target='_blank'>Bellaire Sunday Swiss 2026.03.15</a>",
+"HOUSTON","2026-03-15","31","<a href=https://ratings.uschess.org/event/202603150003 target='_blank'>MTS-Houston Chess Academy- Scholastic Mar 2026</a>",
 "HOUSTON","2026-03-14","12","<a href=https://ratings.uschess.org/event/202603141353 target='_blank'>Lone Star Open Blitz</a>",
 "HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
 "CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
@@ -96,7 +99,4 @@ jtable([
 "SUGAR LAND","2026-02-27","20","<a href=https://ratings.uschess.org/event/202602270363 target='_blank'>FBCC Pokémon Day Open</a>",
 "SPRING","2026-02-27","30","<a href=https://ratings.uschess.org/event/202602270253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "PASADENA","2026-02-27","14","<a href=https://ratings.uschess.org/event/202602270243 target='_blank'>Checkmates on Fairmont</a>",
-"CYPRESS","2026-02-27","42","<a href=https://ratings.uschess.org/event/202602270193 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-02-24","16","<a href=https://ratings.uschess.org/event/202602240433 target='_blank'>FEBRUARY Tuesday Night Swiss 2026</a>",
-"HOUSTON","2026-02-22","10","<a href=https://ratings.uschess.org/event/202602220393 target='_blank'>Bellaire Sunday Swiss 2026.02.22</a>",
 ]);
