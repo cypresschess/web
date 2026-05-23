@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6/9 half a point clear of Fabiano Caruana on 5.5, Javokhir Sindarov and Wesley So were half a point further back on 5 points. Alireza Firouzja withdrew after five rounds after badly hurting his ankle, he had tried to carry on for a couple of rounds after round 3.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
+         "pubDate" : "Sat, 23 May 2026 17:45:00",
+         "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
+      },
+      {
          "description" : "The 2026 European Women's Chess Championship is set to take place from 24 May 6 June in Batumi, Georgia. The event gathers 166 players coming from 32 European federations, and will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment per each move starting from move one. The field is headlined by Greek top Woman player and former World []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "Live Game Link -17th KIIT Chess Festival"
       },
       {
-         "description" : "GM Vincent Keymer has won the Super Chess Classic Romania 2026 and its $100,000 first place prize after defeating GM Jorden van Foreest in the only decisive game of the the ninth and final round, avoiding playoffs. GM Fabiano Caruana, who entered ...",
+         "description" : "GM Vincent Keymer has won the Super Chess Classic Romania 2026 and its $100,000 first place prize after defeating GM Jorden van Foreest in the only decisive game of the ninth and final round, avoiding playoffs. GM Fabiano Caruana, who entered the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/keymer-wins-gct-super-chess-classic-romania",
-         "pubDate" : "Sat, 23 May 2026 08:14:53",
-         "title" : "Keymer Wins Super Chess Classic With Final Round Victory"
+         "pubDate" : "Sat, 23 May 2026 08:14:00",
+         "title" : "Keymer Wins Super Chess Classic With Final-Round Victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131273728.cms\" />Ian Nepomniachtchi criticised reigning world champion D Gukesh for inconsistent performances, saying nearly every top GM currently has a strong chance against him. Nepomniachtchi also backed Javokhir Sindarov as favourite for their 2026 World Championship clash, citing his strong form and higher rating. Gukesh, meanwhile, has taken a break from classical chess to prepare for his title defence.",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
          "pubDate" : "Thu, 14 May 2026 06:21:05",
          "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
-      },
-      {
-         "description" : " The Grand Chess Tour Super Chess Classic Romania takes place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
-         "pubDate" : "Wed, 13 May 2026 22:47:00",
-         "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
       },
       {
          "description" : "France announced its Open and Women&#39;s teams for the 46th FIDE Chess Olympiad 2026 on Tuesday and notably addressed the absence of French number-one and world number-nine GM Alireza Firouzja. The Iranian-born grandmaster, who moved to France in 201...",
