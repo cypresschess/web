@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Women's Chess Championship is set to take place from 24 May 6 June in Batumi, Georgia. The event gathers 166 players coming from 32 European federations, and will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment per each move starting from move one. The field is headlined by Greek top Woman player and former World []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-starts-in-batumi-georgia/",
+         "pubDate" : "Sat, 23 May 2026 14:55:57",
+         "title" : "European Women's Chess Championship 2026 starts in Batumi, Georgia"
+      },
+      {
+         "description" : "A month ago I shared how my Q2 plan showed just how little time I have for the most important projects. Writing that article cracked something open. I'd been carrying an assumption for five years and never once challenged it. The Unchallenged Assumption In my 5 years as a chess coach, blogger and course creator, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/hiring-help/",
+         "pubDate" : "Sat, 23 May 2026 13:00:00",
+         "title" : "I Thought I Was A Solopreneur. I Was Wrong."
+      },
+      {
          "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer and Fabiano Caruana enter the final round tied for first place, while Javokhir Sindarov, Wesley So and Jorden van Foreest stand a half point back and still have chances of taking the title. | Follow the action live with expert commentary starting two hours earlier than usual, at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-17th-kiit-chess-festival/",
          "pubDate" : "Sat, 23 May 2026 10:13:41",
          "title" : "Live Game Link -17th KIIT Chess Festival"
+      },
+      {
+         "description" : "GM Vincent Keymer has won the Super Chess Classic Romania 2026 and its $100,000 first place prize after defeating GM Jorden van Foreest in the only decisive game of the the ninth and final round, avoiding playoffs. GM Fabiano Caruana, who entered ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-gct-super-chess-classic-romania",
+         "pubDate" : "Sat, 23 May 2026 08:14:53",
+         "title" : "Keymer Wins Super Chess Classic With Final Round Victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131273728.cms\" />Ian Nepomniachtchi criticised reigning world champion D Gukesh for inconsistent performances, saying nearly every top GM currently has a strong chance against him. Nepomniachtchi also backed Javokhir Sindarov as favourite for their 2026 World Championship clash, citing his strong form and higher rating. Gukesh, meanwhile, has taken a break from classical chess to prepare for his title defence.",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
       },
       {
-         "description" : "The $10,000 weekly prize fund isn&#39;t quite here yet in Titled Tuesday, but participation was up significantly on May 12, to 436 players after last week&#39;s 343 participants. GM Ian Nepomniachtchi won a dramatic tournament on tiebreaks ahead of GM Jef...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-titled-tuesday-may-12-2026",
-         "pubDate" : "Tue, 12 May 2026 12:22:00",
-         "title" : "Nepomniachtchi Back In Titled Tuesday Win Column"
-      },
-      {
          "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/31st-tepe-sigeman-co-chess-tournament-2026",
          "pubDate" : "Sat, 2 May 2026 21:50:00",
          "title" : "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2"
-      },
-      {
-         "description" : "You sit down at your desk. Training is planned. And then your brain starts negotiating. &#8220;I'm not really feeling it today. Maybe I should just watch an opening video instead. Or take it easy and play some blitz.&#8221; If you're anything like me, you know how this ends. You dig a little deeper and come []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/just-dont-fight/",
-         "pubDate" : "Sat, 02 May 2026 13:00:00",
-         "title" : "Just Don't Fight"
       }
    ]
 }
