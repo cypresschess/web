@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer and Fabiano Caruana enter the final round tied for first place, while Javokhir Sindarov, Wesley So and Jorden van Foreest stand a half point back and still have chances of taking the title. | Follow the action live with expert commentary starting two hours earlier than usual, at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
+         "pubDate" : "Sat, 23 May 2026 12:50:00",
+         "title" : "Super Chess Classic Romania - Live!"
+      },
+      {
+         "description" : "The 25th edition of the European Women's Chess Championship begins on 25 May in the Georgian city of Batumi. The tournament will take place at the Euphoria Convention & Casino Hotel. More than 150 players from more than 30 European federations have registered to participate. Ten players have an Elo rating above 2400. The defending champion, IM Teodora Injac of Serbia, has not entered the eleven-round Swiss-system tournament, which will be broadcast live on ChessBase. | Photos: Mark Livshitz, Jim Laga (European Chess Union) / Title image: Uwe Brodrecht, Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-preview",
+         "pubDate" : "Sat, 23 May 2026 12:00:00",
+         "title" : "European Women's Championship kicks off on Monday in Batumi"
+      },
+      {
+         "description" : "Please find the link here https://www.chess.com/events/17th-kiit-international-chess-festival-2026-cat-a/games",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-17th-kiit-chess-festival/",
+         "pubDate" : "Sat, 23 May 2026 10:13:41",
+         "title" : "Live Game Link -17th KIIT Chess Festival"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131273728.cms\" />Ian Nepomniachtchi criticised reigning world champion D Gukesh for inconsistent performances, saying nearly every top GM currently has a strong chance against him. Nepomniachtchi also backed Javokhir Sindarov as favourite for their 2026 World Championship clash, citing his strong form and higher rating. Gukesh, meanwhile, has taken a break from classical chess to prepare for his title defence.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-scrutiny-as-russian-gm-nepo-questions-world-chess-champions-form-he-just-plays-badly-at-times/articleshow/131273728.cms",
+         "pubDate" : "Sat, 23 May 2026 07:32:48",
+         "title" : "Gukesh under scrutiny as Russian GM questions world champion's form"
+      },
+      {
          "description" : "Javokhir Sindarov scored his second win in a row in the penultimate round of the Super Chess Classic Romania, defeating Jorden van Foreest with the black pieces. Meanwhile, Bogdan-Daniel Deac collected his first win of the event, as he got the better of Anish Giri. Fabiano Caruana and Vincent Keymer drew their direct clash and remain tied for first, with three players half a point behind before the final round. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
          "pubDate" : "Thu, 07 May 2026 11:50:00",
          "title" : "TePe Sigeman - Live!"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the additional players and accompanying persons are required to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/28th-asian-youth-chess-championships-2026-in-shenzhen-china-from-15th-to-25th-july-2026/",
-         "pubDate" : "Thu, 07 May 2026 07:20:46",
-         "title" : "28th Asian Youth Chess Championships - 2026 in Shenzhen, China from 15th to 25th July 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130868475.cms\" />India's chess boom is inspiring young talents, but families face huge financial and logistical struggles behind the scenes. Parents spend lakhs on foreign tournaments, visas, travel, and coaching, often without sponsorship or federation support. Many also deal with poor tournament systems in India and scams abroad. Despite rising success stories like Vaishali and Gukesh, chess parents say survival in the sport remains extremely difficult.",
