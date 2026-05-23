@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov scored his second win in a row in the penultimate round of the Super Chess Classic Romania, defeating Jorden van Foreest with the black pieces. Meanwhile, Bogdan-Daniel Deac collected his first win of the event, as he got the better of Anish Giri. Fabiano Caruana and Vincent Keymer drew their direct clash and remain tied for first, with three players half a point behind before the final round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-8",
+         "pubDate" : "Sat, 23 May 2026 07:05:00",
+         "title" : "Super Chess Classic: Sindarov and Deac score, Keymer and Caruana co-leaders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131272670.cms\" />Aravindh Chithambaram recently became the first Indian to qualify for the 2026 Esports Chess World Cup after winning at DreamHack Atlanta. Raised by his mother and grandparents after losing his father at age three, Aravindh discovered chess through his grandfather. With strong family support and guidance from coach RB Ramesh, he steadily rose through the ranks to become a national champion and elite player.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/lost-father-at-3-mothers-belief-stayed-aravindh-chithambarams-rise-to-becoming-first-indian-at-esports-chess-world-cup-2026/articleshow/131272670.cms",
+         "pubDate" : "Sat, 23 May 2026 06:15:24",
+         "title" : "Lost father at 3, mom's belief stayed: Aravindh's rise to becoming first Indian at EWC 2026"
+      },
+      {
          "description" : "None of the three winners in 3 0 Thursday tournaments on May 21 has even reached 20 years of age. The three teenagers&#38;mdash;FM Artin Ashraf, GM Denis Lazavik, and Pranesh M&#38;mdash;all scored victories ahead of their much more experienced colleagues...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ashraf-lazavik-pranesh-3-0-thursday-05-21-2026",
          "pubDate" : "Fri, 22 May 2026 17:31:59",
          "title" : "Teenagers Dominate 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. With two rounds to go, three players are tied for first place: Fabiano Caruana, Vincent Keymer and Jorden van Foreest. In Friday's penultimate round, Caruana plays white against Keymer in a clash of co-leaders. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Fri, 22 May 2026 14:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
       },
       {
          "description" : "After a draw in their direct encounter, GMs Fabiano Caruana and Vincent Keymer lead the Super Chess Classic Romania 2026 ahead of the last round. Against GM Jorden van Foreest, who started the round in shared first, GM Javokhir Sindarov scored his...",
