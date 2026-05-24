@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131290316.cms\" />Norway Chess 2026 begins on May 25 in Oslo, featuring stars like Magnus Carlsen, Gukesh Dommaraju, Praggnanandhaa and Wesley So. Indian viewers can watch the tournament live on Mirror Now, while online streaming will be available on Chess.com, the official Norway Chess website and YouTube. The tournament runs till June 5 and also features a strong women's lineup led by Ju Wenjun and Humpy Koneru.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-live-streaming-where-to-watch-magnus-carlsen-d-gukesh-and-r-praggnanandhaa-live-in-india/articleshow/131290316.cms",
+         "pubDate" : "Sun, 24 May 2026 08:45:13",
+         "title" : "Where to watch Norway Chess 2026 live in India?"
+      },
+      {
          "description" : "We've compiled some additional tips for our latest tutorial. These allow you, for example, to quickly open endgame positions from Karsten M&uuml;ller's articles in ChessBase, and compare structures you're interested in with positions from the Mega Database. Check out the example and use these practical features for your training!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
          "pubDate" : "Sun, 3 May 2026 21:31:00",
          "title" : "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3"
-      },
-      {
-         "description" : "The 2nd quarter of 2026 ECU Board meeting held via teleconference on 30 April 2026. Main information and Decision ECU Elections and General Assembly 2026 &#160; European Championships",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board/",
-         "pubDate" : "Sun, 03 May 2026 10:07:46",
-         "title" : "Communique of the ECU Board"
       }
    ]
 }
