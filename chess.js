@@ -10,6 +10,14 @@ news_feed (
          "title" : "Keymer beats Van Foreest, wins Super Chess Classic Romania"
       },
       {
+         "description" : "GM Hikaru Nakamura reached the Bullet Brawl stratosphere on Saturday after winning 56 games, drawing three, and losing only eight in the two-hour arena, which saw him register a colossal score of 200 points and take home the $400 first prize. Naka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-23-2026",
+         "pubDate" : "Sat, 23 May 2026 17:55:00",
+         "title" : "Nakamura Rockets To 1st Bullet Brawl Double Century Of 2026"
+      },
+      {
          "description" : " The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6/9 half a point clear of Fabiano Caruana on 5.5, Javokhir Sindarov and Wesley So were half a point further back on 5 points. Alireza Firouzja withdrew after five rounds after badly hurting his ankle, he had tried to carry on for a couple of rounds after round 3.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Super Chess Classic Romania - Live!"
       },
       {
-         "description" : "The 25th edition of the European Women's Chess Championship begins on 25 May in the Georgian city of Batumi. The tournament will take place at the Euphoria Convention & Casino Hotel. More than 150 players from more than 30 European federations have registered to participate. Ten players have an Elo rating above 2400. The defending champion, IM Teodora Injac of Serbia, has not entered the eleven-round Swiss-system tournament, which will be broadcast live on ChessBase. | Photos: Mark Livshitz, Jim Laga (European Chess Union) / Title image: Uwe Brodrecht, Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-preview",
-         "pubDate" : "Sat, 23 May 2026 12:00:00",
-         "title" : "European Women's Championship kicks off on Monday in Batumi"
-      },
-      {
          "description" : "Please find the link here https://www.chess.com/events/17th-kiit-international-chess-festival-2026-cat-a/games",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -72,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-scrutiny-as-russian-gm-nepo-questions-world-chess-champions-form-he-just-plays-badly-at-times/articleshow/131273728.cms",
          "pubDate" : "Sat, 23 May 2026 07:32:48",
          "title" : "Gukesh under scrutiny as Russian GM questions world champion's form"
-      },
-      {
-         "description" : "Javokhir Sindarov scored his second win in a row in the penultimate round of the Super Chess Classic Romania, defeating Jorden van Foreest with the black pieces. Meanwhile, Bogdan-Daniel Deac collected his first win of the event, as he got the better of Anish Giri. Fabiano Caruana and Vincent Keymer drew their direct clash and remain tied for first, with three players half a point behind before the final round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-8",
-         "pubDate" : "Sat, 23 May 2026 07:05:00",
-         "title" : "Super Chess Classic: Sindarov and Deac score, Keymer and Caruana co-leaders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131272670.cms\" />Aravindh Chithambaram recently became the first Indian to qualify for the 2026 Esports Chess World Cup after winning at DreamHack Atlanta. Raised by his mother and grandparents after losing his father at age three, Aravindh discovered chess through his grandfather. With strong family support and guidance from coach RB Ramesh, he steadily rose through the ranks to become a national champion and elite player.",
@@ -464,14 +456,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
          "pubDate" : "Thu, 14 May 2026 06:21:05",
          "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
-      },
-      {
-         "description" : "France announced its Open and Women&#39;s teams for the 46th FIDE Chess Olympiad 2026 on Tuesday and notably addressed the absence of French number-one and world number-nine GM Alireza Firouzja. The Iranian-born grandmaster, who moved to France in 201...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/france-olympiad-lineup-firouzja-left-out",
-         "pubDate" : "Wed, 13 May 2026 13:04:00",
-         "title" : "Firouzja Turns Down French Olympiad Spot, Federation Warns Over Future"
       },
       {
          "description" : "A FIDE Arbiter seminar was organized by All India Chess Federation and FIDE Arbiters' Commission at Vijayawada, Andhra Pradesh, INDIA from 24 to 26 April",
