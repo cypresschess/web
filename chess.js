@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We've compiled some additional tips for our latest tutorial. These allow you, for example, to quickly open endgame positions from Karsten M&uuml;ller's articles in ChessBase, and compare structures you're interested in with positions from the Mega Database. Check out the example and use these practical features for your training!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-16-setting-up-and-analysing-positions-part-2",
+         "pubDate" : "Sun, 24 May 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips Part 16: Setting up and analysing positions (Part 2)"
+      },
+      {
          "description" : "Vincent Keymer secured outright victory at the Super Chess Classic in Bucharest with a final-round win over Jorden van Foreest. Fabiano Caruana, who had started the day level with Keymer, missed a winning chance against Maxime Vachier-Lagrave and had to settle for second place. Keymer finished on 6/9, gained 7.8 rating points and called it his \"biggest classical tournament victory ever\". | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board/",
          "pubDate" : "Sun, 03 May 2026 10:07:46",
          "title" : "Communique of the ECU Board"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130727183.cms\" />Despite a power outage and darkness, eight-year-old chess prodigy Tamizh Amudhan competed in the Freestyle Friday online championship from his home in Thiruthangal. Using a candle and mobile torch, he even managed to defeat World No. 7 Vincent Keymer before his laptop battery died.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/power-cut-candlelight-giant-killing-8-year-old-tamizh-amudhan-stuns-world-no-7-vincent-keymer/articleshow/130727183.cms",
-         "pubDate" : "Sun, 03 May 2026 04:10:08",
-         "title" : "Power cut, candlelight, giant-killing: 8-year-old stuns World No. 7 Keymer"
       }
    ]
 }
