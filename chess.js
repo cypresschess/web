@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Demanding weeks for a number of elite grandmasters: Vincent Keymer, Alireza Firouzja, Wesley So and Praggnanandhaa Rameshbabu get just one day off between their appearance at the GCT event in Bucharest and the start of the super-tournament in Norway. They will once again face a lineup of world-class players, led by world number-one Magnus Carlsen and world champion Gukesh Dommaraju. In the women's tournament, world champion Ju Wenjun will be competing. The six participants in each event will play a double round-robin tournament. | Photos: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-preview",
+         "pubDate" : "Sun, 24 May 2026 21:00:00",
+         "title" : "Norway Chess 2026 with Carlsen, Gukesh and Ju Wenjun"
+      },
+      {
          "description" : "There is a famous photograph of Mikhail Tal hunched over the board during a tournament game, eyes burning into the pieces. Somewhere behind that stare, an entire mating attack is unfolding. Every chess generation, from Morphy to Magnus, has been defined by one skill: extraordinary calculation. The pieces move on the board - but the game is won and lost in what you can visualize. Let us show you how Fritz 21 trains the one skill every great chess player has lived or died by.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
