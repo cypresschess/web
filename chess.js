@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/19-year-old-pranesh-m-who-helped-vaishali-in-her-womens-candidates-win-joins-s8ul-ahead-of-esports-world-cup/articleshow/130801075.cms",
          "pubDate" : "Mon, 04 May 2026 13:17:59",
          "title" : "19-yo Pranesh, who helped Vaishali in her Candidates win, joins S8UL"
-      },
-      {
-         "description" : " The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest in a Philidor where black was a tiny bit better for a while. Nils Grandelius took the battle to Arjun Erigaisi in a Dragon Sicilian. They castled on opposite sides but then transposed into an endgame where both sides had running pawns. The endgame was very difficult but Erigaisi was always at least equal, in the end he was the one to Queen first. Zhu Jiner played a Reti against Yagiz Kaan Erdogmus and went wrong with 10.Nd4?! and 11.g4? th",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
-         "pubDate" : "Sun, 3 May 2026 21:31:00",
-         "title" : "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3"
       }
    ]
 }
