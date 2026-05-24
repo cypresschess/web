@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is a famous photograph of Mikhail Tal hunched over the board during a tournament game, eyes burning into the pieces. Somewhere behind that stare, an entire mating attack is unfolding. Every chess generation, from Morphy to Magnus, has been defined by one skill: extraordinary calculation. The pieces move on the board - but the game is won and lost in what you can visualize. Let us show you how Fritz 21 trains the one skill every great chess player has lived or died by.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-board-that-refuses-to-help-you",
+         "pubDate" : "Sun, 24 May 2026 14:00:00",
+         "title" : "The board that refuses to help you"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131290316.cms\" />Norway Chess 2026 begins on May 25 in Oslo, featuring stars like Magnus Carlsen, Gukesh Dommaraju, Praggnanandhaa and Wesley So. Indian viewers can watch the tournament live on Mirror Now, while online streaming will be available on Chess.com, the official Norway Chess website and YouTube. The tournament runs till June 5 and also features a strong women's lineup led by Ju Wenjun and Humpy Koneru.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
