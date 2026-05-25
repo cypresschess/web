@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Mon, 25 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/erdogmus-leads-the-sigeman-tournament-with-34-van-foreest-beats-carlsen",
          "pubDate" : "Mon, 4 May 2026 21:01:00",
          "title" : "Erdogmus leads the Sigeman tournament with 3/4, Van Foreest beats Carlsen - 4"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130801075.cms\" />S8UL signed 19-year-old Grandmaster Pranesh M for the Esports World Cup 2026, alongside Nihal Sarin and Aravindh Chithambaram. Pranesh recently gained attention after helping R Vaishali stay calm during her historic FIDE Women's Candidates triumph. Chess returns to EWC this August with a $1.5 million prize pool.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/19-year-old-pranesh-m-who-helped-vaishali-in-her-womens-candidates-win-joins-s8ul-ahead-of-esports-world-cup/articleshow/130801075.cms",
-         "pubDate" : "Mon, 04 May 2026 13:17:59",
-         "title" : "19-yo Pranesh, who helped Vaishali in her Candidates win, joins S8UL"
       }
    ]
 }
