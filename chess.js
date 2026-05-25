@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Women's Chess Championship officially opened today in Batumi, Georgia! The Opening ceremony of the event took place in the tournament playing hall, shortly before the start of the first round. The ceremony was attended by the President of the Georgian Chess Federation and FIDE Special Task Director Mr. Akaki Iashvili, Deputy Head of Sports Department of autonomous republic of Adjara Mr. Aslan Baladze, ECU Tournament Director Mr. Petr Pisk, Chief Arbiter of the event Mr. Geert Bailleul, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-officially-opened/",
+         "pubDate" : "Mon, 25 May 2026 18:23:03",
+         "title" : "European Women's Chess Championship 2026 officially opened"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
          "pubDate" : "Mon, 25 May 2026 16:45:00",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " The answers to today's problems. Earlier today I set these four chess puzzles. Here they are again with solutions. <strong>1. Oddities</strong> <a href=\"https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles",
+         "pubDate" : "Mon, 25 May 2026 15:42:01",
+         "title" : "Did you solve it? Are you on board with these quirky chess puzzles?"
+      },
+      {
+         "description" : " The 14th Norway Chess tournament takes place Mon 25th May to Fri 5th Jun 2026. There is the regular tournament and a women's event, this year with the same prize-money. Each event has 6 players and 10 rounds and an Armageddon game if there's a draw. Open: Magnus, Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
+         "pubDate" : "Mon, 25 May 2026 14:04:00",
+         "title" : "14th Norway Chess 2026 - Games and Results"
       },
       {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
