@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Women's Chess Championship kicked off in Batumi with 165 players from 32 federations competing for the continental title and ten places in the next FIDE Women's World Cup. The opening round saw several higher-rated players defeated, including Klaudia Kulon and Irina Bulmaga, while four games on the top ten boards were drawn after the favourites failed to convert or had to defend difficult positions. | Pictured: Oliwia Kiolbasa (Poland) | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-1",
+         "pubDate" : "Mon, 25 May 2026 23:50:00",
+         "title" : "European Women's Championship: A few upsets on opening day in Batumi"
+      },
+      {
          "description" : "The 2026 European Women's Chess Championship officially opened today in Batumi, Georgia! The Opening ceremony of the event took place in the tournament playing hall, shortly before the start of the first round. The ceremony was attended by the President of the Georgian Chess Federation and FIDE Special Task Director Mr. Akaki Iashvili, Deputy Head of Sports Department of autonomous republic of Adjara Mr. Aslan Baladze, ECU Tournament Director Mr. Petr Pisk, Chief Arbiter of the event Mr. Geert Bailleul, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
          "pubDate" : "Mon, 25 May 2026 14:04:00",
          "title" : "14th Norway Chess 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Alireza Firouzja won his first classical game against world number-one GM Magnus Carlsen as Norway Chess 2026 got off to the most dramatic of starts. World Champion GM Gukesh Dommaraju also looked set to fall after losing his way in a wild time...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-1",
+         "pubDate" : "Mon, 25 May 2026 13:57:00",
+         "title" : "Firouzja Stuns Carlsen, Gukesh Escapes As Norway Chess Begins"
       },
       {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
       },
       {
-         "description" : "All games were drawn as the Super Chess Classic Romania 2026 began in Bucharest on Thursday. It wasn&#39;t for a lack of fighting spirit, with GM Alireza Firouzja spoiling a decisive advantage against GM Praggnanandhaa Rameshbabu, while GMs Wesley So ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-1",
-         "pubDate" : "Thu, 14 May 2026 16:12:00",
-         "title" : "Pragg Escapes Vs. Firouzja As Super Chess Classic Begins In Bucharest"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084127.cms\" />Faustino Oro, a 12-year-old Argentine chess prodigy known as the \"Messi of Chess,\" has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro's talent, discipline, and love for the game helped him succeed.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-suffers-first-classical-chess-defeat-since-table-slam-outburst-against-d-gukesh/articleshow/130828074.cms",
          "pubDate" : "Tue, 05 May 2026 12:01:16",
          "title" : "Carlsen suffers first classical chess loss since table-slam outburst vs Gukesh"
-      },
-      {
-         "description" : " Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun Erigaisi but frittered the advantage away to a draw. Andy Woodward got caught out in the opening against Zhu Jiner and 10...Bxd5? and 11...Nb4? his goose was cooked and Zhu made no mistakes. Jorden van Foreest beat Magnus Carlsen in the final game of the day to finish. van Foreest had a large advantage for much of the game but after 53.Bd2 Nfxg2 it seemed Carlsen would escape but the endgame was hard to play and after many changes in evalu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/erdogmus-leads-the-sigeman-tournament-with-34-van-foreest-beats-carlsen",
-         "pubDate" : "Mon, 4 May 2026 21:01:00",
-         "title" : "Erdogmus leads the Sigeman tournament with 3/4, Van Foreest beats Carlsen - 4"
       }
    ]
 }
