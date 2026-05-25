@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-05-24","15","<a href=https://ratings.uschess.org/event/202605240173 target='_blank'>Bellaire Sunday Swiss 2026.05.24</a>",
 "SPRING","2026-05-22","21","<a href=https://ratings.uschess.org/event/202605220223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-22","46","<a href=https://ratings.uschess.org/event/202605220213 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-17","14","<a href=https://ratings.uschess.org/event/202605170413 target='_blank'>Bellaire Sunday Swiss 2026.05.17</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-02-27","40","<a href=https://ratings.uschess.org/event/202602270433 target='_blank'>South Texas FIDE 2026</a>",
 "SUGAR LAND","2026-02-27","20","<a href=https://ratings.uschess.org/event/202602270363 target='_blank'>FBCC Pokémon Day Open</a>",
 "SPRING","2026-02-27","30","<a href=https://ratings.uschess.org/event/202602270253 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"PASADENA","2026-02-27","14","<a href=https://ratings.uschess.org/event/202602270243 target='_blank'>Checkmates on Fairmont</a>",
 ]);
