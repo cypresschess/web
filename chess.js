@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Demanding weeks for a number of elite grandmasters: Vincent Keymer, Alireza Firouzja, Wesley So and Praggnanandhaa Rameshbabu get just one day off between their appearance at the GCT event in Bucharest and the start of the super-tournament in Norway. They will once again face a lineup of world-class players, led by world number-one Magnus Carlsen and world champion Gukesh Dommaraju. In the women's tournament, world champion Ju Wenjun will be competing. The six participants in each event will play a double round-robin tournament. | Photos: Norway Chess / Michal Walusza",
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-preview",
-         "pubDate" : "Sun, 24 May 2026 21:00:00",
-         "title" : "Norway Chess 2026 with Carlsen, Gukesh and Ju Wenjun"
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Mon, 25 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131305211.cms\" />D Gukesh admitted criticism over his recent poor form is fair, saying, \"They have the right to say what they feel and I have the right to do my best.\" Since winning the world title against Ding Liren in 2024, Gukesh has struggled for consistency, drawing criticism from legends like Magnus Carlsen and Anatoly Karpov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-breaks-silence-on-criticism-they-have-the-right-to-say/articleshow/131305211.cms",
+         "pubDate" : "Mon, 25 May 2026 08:31:23",
+         "title" : "Gukesh breaks silence on criticism: 'They have the right to say'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131303861.cms\" />As Norway Chess moves to Oslo for its 2026 edition, all eyes are on the Indian contingent. From World Champion D Gukesh seeking urgent form before his title defence to Koneru Humpy making a highly anticipated return to the board, we break down the biggest storylines dominating the 12-day double round-robin tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-gukeshs-test-koneru-humpys-return-why-should-you-be-excited/articleshow/131303861.cms",
+         "pubDate" : "Mon, 25 May 2026 07:34:58",
+         "title" : "Norway Chess: Gukesh's test, Humpy's return - Why should you be excited?"
       },
       {
          "description" : "There is a famous photograph of Mikhail Tal hunched over the board during a tournament game, eyes burning into the pieces. Somewhere behind that stare, an entire mating attack is unfolding. Every chess generation, from Morphy to Magnus, has been defined by one skill: extraordinary calculation. The pieces move on the board - but the game is won and lost in what you can visualize. Let us show you how Fritz 21 trains the one skill every great chess player has lived or died by.",
@@ -24,22 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-live-streaming-where-to-watch-magnus-carlsen-d-gukesh-and-r-praggnanandhaa-live-in-india/articleshow/131290316.cms",
          "pubDate" : "Sun, 24 May 2026 08:45:13",
          "title" : "Where to watch Norway Chess 2026 live in India?"
-      },
-      {
-         "description" : "We've compiled some additional tips for our latest tutorial. These allow you, for example, to quickly open endgame positions from Karsten M&uuml;ller's articles in ChessBase, and compare structures you're interested in with positions from the Mega Database. Check out the example and use these practical features for your training!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-16-setting-up-and-analysing-positions-part-2",
-         "pubDate" : "Sun, 24 May 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips Part 16: Setting up and analysing positions (Part 2)"
-      },
-      {
-         "description" : "Vincent Keymer secured outright victory at the Super Chess Classic in Bucharest with a final-round win over Jorden van Foreest. Fabiano Caruana, who had started the day level with Keymer, missed a winning chance against Maxime Vachier-Lagrave and had to settle for second place. Keymer finished on 6/9, gained 7.8 rating points and called it his \"biggest classical tournament victory ever\". | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-9",
-         "pubDate" : "Sat, 23 May 2026 21:50:00",
-         "title" : "Keymer beats Van Foreest, wins Super Chess Classic Romania"
       },
       {
          "description" : "GM Hikaru Nakamura reached the Bullet Brawl stratosphere on Saturday after winning 56 games, drawing three, and losing only eight in the two-hour arena, which saw him register a colossal score of 200 points and take home the $400 first prize. Naka...",
