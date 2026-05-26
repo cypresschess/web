@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round two, early leader Alireza Firouzja plays white against Praggnanandhaa Rameshbabu, while Magnus Carlsen will try to bounce back from his round-one loss in his encounter against VIncent Keymer. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Tue, 26 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,30 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kayal-vijay-under-9-girls-champion-european-schools/",
          "pubDate" : "Wed, 06 May 2026 09:52:13",
          "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
-      },
-      {
-         "description" : "The 2026 ECF Official Chess Yearbook is now available as a free PDF to all readers here: https://www.englishchess.org.uk/wp-content/uploads/2026/05/Yearbook-2026-compressed.pdf Weighing in at just over 300 pages, the yearbook's contents include: Home...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2026/",
-         "pubDate" : "Tue, 05 May 2026 13:32:00",
-         "title" : "ECF Yearbook 2026"
-      },
-      {
-         "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland on 27-30 July.&#160;England will be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/expression-of-interest-glorney-cup-2026/",
-         "pubDate" : "Tue, 05 May 2026 12:30:35",
-         "title" : "Expression of Interest: Glorney Cup 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130828074.cms\" />World No. 1 and five-time world Magnus Carlsen suffered his first classical chess defeat in nearly a year after losing to Jorden van Foreest at the TePe Sigeman &amp; Co Tournament 2026 in Malmo. Carlsen had remained unbeaten since his loss to D Gukesh in 2025. Arjun Erigaisi stayed unbeaten after drawing with Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-suffers-first-classical-chess-defeat-since-table-slam-outburst-against-d-gukesh/articleshow/130828074.cms",
-         "pubDate" : "Tue, 05 May 2026 12:01:16",
-         "title" : "Carlsen suffers first classical chess loss since table-slam outburst vs Gukesh"
       }
    ]
 }
