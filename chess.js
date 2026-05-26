@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja opened Norway Chess in Oslo with his first-ever classical win over Magnus Carlsen, defeating the defending champion despite playing with an injured ankle. The remaining two matches went to Armageddon after draws i the classical games, with Gukesh Dommaraju beating Vincent Keymer following a 144-move struggle, and Praggnanandhaa Rameshbabu defeating Wesley So to complete a strong first round for the players with the white pieces. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-1",
+         "pubDate" : "Tue, 26 May 2026 07:15:00",
+         "title" : "Norway Chess: Firouzja obtains first-ever classical win over Carlsen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131319845.cms\" />India enjoyed a decent opening day at Norway Chess as 20-year-old debutante Divya Deshmukh held World Champion Ju Wenjun to a classical draw before defeating her in the Armageddon tiebreak. Joining her in the winner's circle were D Gukesh and R Praggnanandhaa, who also won their respective Armageddon matches, while Magnus Carlsen suffered a shock defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
