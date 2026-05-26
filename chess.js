@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christian Gloeckler's tournament victory at the Limburg Open has taken him past the 2500 rating mark, confirming his status as one of the world's best players in his age group. At the end of the tournament, eight players were tied on points at the top. The best tiebreak score gave Gloeckler overall victory. | Photos: Frans Peeters /Limburg Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christian-gloeckler-wins-limburg-open-2026",
+         "pubDate" : "Tue, 26 May 2026 22:30:00",
+         "title" : "Christian Gloeckler wins Limburg Open, crosses 2500 rating mark"
+      },
+      {
          "description" : "The second round of the European Women's Chess Championship 2026 was played today at the Euphoria Hotel, Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch! Khinkali traditional Georgian food is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
          "pubDate" : "Tue, 26 May 2026 16:45:00",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja scored the day&#39;s only classical win, over GM Praggnanandhaa Rameshbabu, to open up a 3.5-point lead in Norway Chess 2026 with a perfect 6/6. GM Magnus Carlsen beat GM Vincent Keymer in armageddon, but that was little compensati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-2",
+         "pubDate" : "Tue, 26 May 2026 13:40:00",
+         "title" : "Firouzja Strikes Again To Reenter Top 10; Carlsen, Gukesh Miss Wins"
       },
       {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-3",
          "pubDate" : "Sat, 16 May 2026 12:11:00",
          "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
-         "pubDate" : "Fri, 15 May 2026 17:00:00",
-         "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
       },
       {
          "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
