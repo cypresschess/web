@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131319845.cms\" />India enjoyed a decent opening day at Norway Chess as 20-year-old debutante Divya Deshmukh held World Champion Ju Wenjun to a classical draw before defeating her in the Armageddon tiebreak. Joining her in the winner's circle were D Gukesh and R Praggnanandhaa, who also won their respective Armageddon matches, while Magnus Carlsen suffered a shock defeat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-stuns-world-champion-ju-wenjun-in-armageddon-magnus-carlsen-handed-shock-defeat/articleshow/131319845.cms",
+         "pubDate" : "Tue, 26 May 2026 01:30:22",
+         "title" : "Norway Chess: Divya stuns world champion; Carlsen handed shock defeat"
+      },
+      {
          "description" : "The 2026 European Women's Chess Championship kicked off in Batumi with 165 players from 32 federations competing for the continental title and ten places in the next FIDE Women's World Cup. The opening round saw several higher-rated players defeated, including Klaudia Kulon and Irina Bulmaga, while four games on the top ten boards were drawn after the favourites failed to convert or had to defend difficult positions. | Pictured: Oliwia Kiolbasa (Poland) | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Did you solve it? Are you on board with these quirky chess puzzles?"
       },
       {
-         "description" : " The 14th Norway Chess tournament takes place Mon 25th May to Fri 5th Jun 2026. There is the regular tournament and a women's event, this year with the same prize-money. Each event has 6 players and 10 rounds and an Armageddon game if there's a draw. Open: Magnus, Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. ",
+         "description" : " The 14th Norway Chess tournament takes place Mon 25th May to Fri 5th Jun 2026. There is the regular tournament and a women's event, this year with the same prize-money. Each event has 6 players and 10 rounds and an Armageddon game if there's a draw. Open: Magnus Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-1",
          "pubDate" : "Mon, 25 May 2026 13:57:00",
          "title" : "Firouzja Stuns Carlsen, Gukesh Escapes As Norway Chess Begins"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Mon, 25 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131305211.cms\" />D Gukesh admitted criticism over his recent poor form is fair, saying, \"They have the right to say what they feel and I have the right to do my best.\" Since winning the world title against Ding Liren in 2024, Gukesh has struggled for consistency, drawing criticism from legends like Magnus Carlsen and Anatoly Karpov.",
