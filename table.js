@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-05-25","193","<a href=https://ratings.uschess.org/event/202605250163 target='_blank'>81st Texas State & Amateur Championship (In Memory of Luis Salinas)</a>",
+"HOUSTON","2026-05-25","24","<a href=https://ratings.uschess.org/event/202605250073 target='_blank'>Bellaire Spring Scholastic 2026</a>",
 "HOUSTON","2026-05-24","15","<a href=https://ratings.uschess.org/event/202605240173 target='_blank'>Bellaire Sunday Swiss 2026.05.24</a>",
 "SPRING","2026-05-22","21","<a href=https://ratings.uschess.org/event/202605220223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-22","46","<a href=https://ratings.uschess.org/event/202605220213 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-02-28","7","<a href=https://ratings.uschess.org/event/202602280283 target='_blank'>chesspanda02282026saturday</a>",
 "CYPRESS","2026-02-28","92","<a href=https://ratings.uschess.org/event/202602280043 target='_blank'>CMH Scholastic Tournament</a>",
 "HOUSTON","2026-02-27","40","<a href=https://ratings.uschess.org/event/202602270433 target='_blank'>South Texas FIDE 2026</a>",
-"SUGAR LAND","2026-02-27","20","<a href=https://ratings.uschess.org/event/202602270363 target='_blank'>FBCC Pokémon Day Open</a>",
-"SPRING","2026-02-27","30","<a href=https://ratings.uschess.org/event/202602270253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
