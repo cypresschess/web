@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the European Women's Chess Championship 2026 was played today at the Euphoria Hotel, Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch! Khinkali traditional Georgian food is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-round-2-recap/",
+         "pubDate" : "Tue, 26 May 2026 18:54:11",
+         "title" : "European Women's Chess Championship 2026 - Round 2 recap"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round two, early leader Alireza Firouzja plays white against Praggnanandhaa Rameshbabu, while Magnus Carlsen will try to bounce back from his round-one loss in his encounter against VIncent Keymer. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
          "pubDate" : "Tue, 26 May 2026 13:00:00",
          "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "The organizers of the Esports Nations Cup (ENC), the Esports Foundation (EF), have revealed new details about the event&#39;s qualification and wildcard systems. The announcement includes details about how chess players can qualify for the event and h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esports-nations-cup-chess-qualifiers-wildcard-system",
+         "pubDate" : "Tue, 26 May 2026 11:14:00",
+         "title" : "Esports Nations Cup Reveals Chess Qualification Pathway, Wildcards System"
+      },
+      {
+         "description" : "GM Jose Martinez won&#38;nbsp;Titled Tuesday on May 26, starting off 9.5/10 before winning on tiebreaks over GMs Parham Maghsoodloo and Nihal Sarin. The spring split concludes with GM Sina Movahed atop the standings for a $5,000 prize. Next week, ther...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-may-26-2026",
+         "pubDate" : "Tue, 26 May 2026 11:12:57",
+         "title" : "Martinez's Fast Start Brings Tournament Victory"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-stuns-world-champion-ju-wenjun-in-armageddon-magnus-carlsen-handed-shock-defeat/articleshow/131319845.cms",
          "pubDate" : "Tue, 26 May 2026 01:30:22",
          "title" : "Norway Chess: Divya stuns world champion; Carlsen handed shock defeat"
+      },
+      {
+         "description" : "Today's puzzles begins a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-middle-school-k-8-championship-pt-1",
+         "pubDate" : "Tue, 26 May 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 1"
       },
       {
          "description" : "The 2026 European Women's Chess Championship kicked off in Batumi with 165 players from 32 federations competing for the continental title and ten places in the next FIDE Women's World Cup. The opening round saw several higher-rated players defeated, including Klaudia Kulon and Irina Bulmaga, while four games on the top ten boards were drawn after the favourites failed to convert or had to defend difficult positions. | Pictured: Oliwia Kiolbasa (Poland) | Photo: European Chess Union",
@@ -426,7 +458,7 @@ news_feed (
          "title" : "Challenge The World's 'Best Chess Soccer Player' And MLS Star Striker Dejan Jovelji&#263"
       },
       {
-         "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, FM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
+         "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, IM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/full-report-lin-hunter-win-2026-national-middle-school-k-8-championship",
@@ -450,7 +482,7 @@ news_feed (
          "title" : "European Youth Chess Championship 2026 - Official invitation"
       },
       {
-         "description" : "Almost 1,300 players from 30 states competed in Round Rock, Texas to determine the nation's top middle school chess players <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Round Rock, TX: The 501(c)3 US Chess Federation's 2026 National Middle School (K-8) Championship took place from May 15-17 at Kalahari Resorts &amp; Conventions. A total of just under 1,300 players from 30 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship until becoming the National Middle School Championship in 2022.The individual K-8 Champion is:FM Bryan Enming Lin, 8th Grade, Hunter College Elementary and High School, New York, New York (7/7)L",
+         "description" : "Almost 1,300 players from 30 states competed in Round Rock, Texas to determine the nation's top middle school chess players <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Round Rock, TX: The 501(c)3 US Chess Federation's 2026 National Middle School (K-8) Championship took place from May 15-17 at Kalahari Resorts &amp; Conventions. A total of just under 1,300 players from 30 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship until becoming the National Middle School Championship in 2022.The individual K-8 Champion is:IM Bryan Enming Lin, 8th Grade, Hunter College Elementary and High School, New York, New York (7/7)L",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/flash-report-national-middle-school-championship-results",
@@ -498,36 +530,12 @@ news_feed (
          "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
       },
       {
-         "description" : "The 2026 National Middle School (K-8) Championship kicked off yesterday at the Kalahari Resort and Convention Center in Round Rock, TX. With 1,274 players from around the country competing across six sections (including 233 in the Championship section), the competition was fierce, and we've already seen some key upsets! Here's a look back at all the action, and a look ahead to today's schedule. Blitz and BugEarly arrivals to Round Rock were able to warm up with Thursday's Blitz and Bughouse tournaments.The team of Elliott Goodrich (NY) and CM Tariq Yue (PA) dominated the Bughouse, scoring a perfect 10/10 to take home the title, while Texans Trevor Tang and Uther Rodriguez finished second wit",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/and-were-off-2026NMS",
-         "pubDate" : "Sat, 16 May 2026 00:00:00",
-         "title" : "And We're Off!"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu outcalculated GM Javokhir Sindarov in round two of the Super Chess Classic Romania 2026 to hand the world championship challenger his first classical loss since early September. There were also wins for GM Maxime Vachi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-2",
          "pubDate" : "Fri, 15 May 2026 17:00:00",
          "title" : "Pragg Ends Sindarov's 53-Game Unbeaten Streak; MVL, Keymer Also Win"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk needed only nine points to win Freestyle Friday outright on May 15, good enough for his eighth Freestyle Friday victory, which tied GM Hikaru Nakamura for the most all time. GM Frederik Svane finished in sole second place on 8...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-may-15-2026",
-         "pubDate" : "Fri, 15 May 2026 16:50:41",
-         "title" : "Bortnyk Ties Nakamura With 8th Freestyle Friday Victory"
-      },
-      {
-         "description" : "No one has ever won all three 3 0 Thursday blitz tournaments on the same day, but GM Arjun Erigaisi nearly changed that on May 14, finishing just short on tiebreaks from a perfect hat-trick of victories. Arjun dominated the first tournament, winni...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-arjun-martinez-3-0-thursday-03-14-2026",
-         "pubDate" : "Fri, 15 May 2026 13:41:23",
-         "title" : "Arjun Erigaisi Nearly Sweeps 3 0 Thursday Tournaments"
       },
       {
          "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
