@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Tue, 26 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-in-guwahati-assam-on-15-16-june-2026/",
+         "pubDate" : "Tue, 26 May 2026 10:25:49",
+         "title" : "Announcement : Medical Evaluation in Guwahati ,Assam on 15 & 16 June 2026 ."
+      },
+      {
          "description" : "Alireza Firouzja opened Norway Chess in Oslo with his first-ever classical win over Magnus Carlsen, defeating the defending champion despite playing with an injured ankle. The remaining two matches went to Armageddon after draws i the classical games, with Gukesh Dommaraju beating Vincent Keymer following a 144-move struggle, and Praggnanandhaa Rameshbabu defeating Wesley So to complete a strong first round for the players with the white pieces. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2026-officially-opened/",
          "pubDate" : "Mon, 25 May 2026 18:23:03",
          "title" : "European Women's Chess Championship 2026 officially opened"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Mon, 25 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : " The answers to today's problems. Earlier today I set these four chess puzzles. Here they are again with solutions. <strong>1. Oddities</strong> <a href=\"https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles\">Continue reading...</a>",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-wins-the-31st-sigeman-co-tournament-after-tie-break-win-over-erigaisi",
          "pubDate" : "Thu, 7 May 2026 22:32:00",
          "title" : "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7"
-      },
-      {
-         "description" : "Please find the link below to download the book. 1.Book 1 2. Book 2",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-in-schools-book/",
-         "pubDate" : "Thu, 07 May 2026 11:50:51",
-         "title" : "CHESS IN SCHOOLS BOOK"
       },
       {
          "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
