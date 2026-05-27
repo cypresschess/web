@@ -18,6 +18,14 @@ news_feed (
          "title" : "European Women's Championship - Live!"
       },
       {
+         "description" : "It took him three tries, but Patriots receiver Mack Hollins was thrilled to take his first BlitzChamps title on May 26. Hollins won every match, including a tough finals against Chargers quarterback Justin Herbert, to win the event ahead of seven ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mack-hollins-dominates-blitzchamps-v",
+         "pubDate" : "Wed, 27 May 2026 11:53:03",
+         "title" : "Mack Hollins Dominates BlitzChamps V"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131345262.cms\" />D Gukesh went viral during Norway Chess after hilariously failing to open a water bottle mid-game against Wesley So and quietly putting it back. The funny moment came during a frustrating day for Gukesh, who dominated the classical game but lost in Armageddon. Meanwhile, Alireza Firouzja continued his unbeaten run at the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-pips-india-no-1-koneru-humpy-in-armageddon-no-joy-for-gukesh-praggnanandhaa/articleshow/131339869.cms",
          "pubDate" : "Wed, 27 May 2026 01:41:48",
          "title" : "Norway Chess: Divya beats India No. 1 Humpy; no joy for Gukesh, Pragg"
+      },
+      {
+         "description" : "Today's puzzles begin a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-middle-school-k-8-championship-pt-1",
+         "pubDate" : "Wed, 27 May 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National Middle School (K-8) Championship, Pt. 1"
       },
       {
          "description" : "The second round of the European Women's Chess Championship 2026 took place today at the Euphoria Hotel, in Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch. Khinkali, a traditional Georgian dish, is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, []",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Flash Report: National Middle School Championship Results"
       },
       {
-         "description" : "Triple Round DayOnly two players survived Saturday unscathed to emerge with perfect 5/5 scores entering the final two rounds. IM Bryan Enming Lin (NY) and Srikar Kandikayala (TX) will face off this morning on the top board, with Kandikayala taking the white pieces.Lin has been taking care of business as the highest rated player in the tournament. But that isn't to say his opponents haven't been taking their best shots against him. In particular, Samant Robert Sen (NY) pushed Lin to his limits in their Round 4 battle. Commentator WGM Sabina Foisor has the goods: Kandikayala upset CM Jashith Karthi (CA) Saturday night thanks to bold play in a sharp Ragozin. Four players trail the co-leaders by",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/race-tightens-entering-final-day-2026-national-middle-school-k-8-championship",
-         "pubDate" : "Sun, 17 May 2026 00:00:00",
-         "title" : "Race Tightens Entering Final Day of 2026 National Middle School (K-8) Championship"
-      },
-      {
          "description" : "GM Hikaru Nakamura added another chapter to his storied Bullet Brawl career on Saturday, dominating a 173-player titled field to win the latest edition of Chess.com&#38;rsquo;s premier weekly bullet arena with an impressive 171-point haul. Although ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-on-25-26-may-2026-at-kiit-university-bhubaneshwar/",
          "pubDate" : "Sat, 16 May 2026 12:37:54",
          "title" : "SNA Seminar & Exam on 25 & 26 May 2026 at KIIT University ,Bhubaneshwar ."
-      },
-      {
-         "description" : "It was a dream day for the Dutch as GM Jorden van Foreest brilliantly defeated GM Bogdan-Daniel Deac, while a slip on move 68 by GM Alireza Firouzja saw GM Anish Giri join his compatriot in the lead. The five-way tie for first in the Super Chess C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-3",
-         "pubDate" : "Sat, 16 May 2026 12:11:00",
-         "title" : "Giri Strikes With Late Win Over Firouzja, Completing Dutch Double"
       },
       {
          "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
@@ -736,22 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
          "pubDate" : "Wed, 6 May 2026 23:01:00",
          "title" : "Erigaisi leads the Sigeman tournament alone with one round to go - 6"
-      },
-      {
-         "description" : " The first event in the Grand Chess Tour 2026 is the <a href=\"https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026\">Super Rapid & Blitz Poland in Warsaw</a>. This is a category 20 field. The players meet once in a rapid game and twice in the blitz. Of major interest was the first meeting of Javokhir Sindarov and World Champion Gukesh in the rapid. It turned out to be a little disappointing. In a balanced position Sindarov sacrificed a piece and there was just never enough for it. There were three games on day 2 and Sindarov lost all three. Hans Moke Niemann and Wesley So lead the rapid on 4.5/6 with the last day tomorrow followed by two days of blitz. Round 6 of 9 st",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/gukesh-beats-sindarov-in-the-gct-poland-super-rapid",
-         "pubDate" : "Wed, 6 May 2026 18:20:00",
-         "title" : "Gukesh beats Sindarov in the GCT Poland Super Rapid - 5"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130861835.cms\" />World champion D Gukesh showed rare emotion after defeating future title challenger Javokhir Sindarov at the Grand Chess Tour in Poland. Playing with the black pieces, Gukesh outplayed the Uzbek grandmaster in 52 moves and celebrated with a fist pump after the win. The victory was seen as a strong statement ahead of their World Championship clash later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-world-chess-champion-d-gukesh-celebrates-emotionally-after-beating-javokhir-sindarov-watch/articleshow/130861835.cms",
-         "pubDate" : "Wed, 06 May 2026 15:54:43",
-         "title" : "Rare! Gukesh celebrates emotionally after beating Sindarov - Watch"
       }
    ]
 }
