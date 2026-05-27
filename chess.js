@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds of play at the European Women's Chess Championship 2026 in Batumi, Georgia, seven players maintain a flawless 3/3 score, closely followed by a group of 15 players on 2.5 points. The early leaders are: IM Mai Narva (EST, 2426), IM Oliwia Kiolbasa (POL, 2397), FM Anna-Maja Kazarian (NED, 2317), WGM Elmira Mirzoeva (ENG, 2265), WFM Anastasiia Hnatyshyn (UKR, 2207), WIM Gulenay Aydin (TUR, 2204), and WFM Varvara Poliakova (FIDE, 2108). IM Mai Narva (EST, 2426) defeated WFM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/seven-players-maintain-perfect-3-3-score-at-european-womens-chess-championship-2026/",
+         "pubDate" : "Wed, 27 May 2026 20:47:50",
+         "title" : "Seven players maintain perfect 3/3 score at European Women's Chess Championship 2026"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Alireza Firouzja goes into Wednesday's third round with a 3&frac12;-point lead over Wesley So and Gukesh Dommaraju - Firouzja plays black against Gukesh. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
          "pubDate" : "Wed, 27 May 2026 16:45:00",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu moved up to second place in Norway Chess 2026 after a rollercoaster win over GM Magnus Carlsen, who had fought his way back from the dead to a winning position only to collapse in time trouble. GM Alireza Firouzja lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-3",
+         "pubDate" : "Wed, 27 May 2026 13:09:00",
+         "title" : "Praggnanandhaa Beats Carlsen In Rollercoaster Norway Chess Clash"
       },
       {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Flash Report: National Middle School Championship Results"
       },
       {
-         "description" : "GM Hikaru Nakamura added another chapter to his storied Bullet Brawl career on Saturday, dominating a 173-player titled field to win the latest edition of Chess.com&#38;rsquo;s premier weekly bullet arena with an impressive 171-point haul. Although ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-16-2026",
-         "pubDate" : "Sat, 16 May 2026 19:48:00",
-         "title" : "Nakamura Crushes Bullet Brawl Field, Claims 7th Calendar Victory"
-      },
-      {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/is-representing-india-worth-it-the-draining-family-cost-of-raising-a-chess-star/articleshow/130868475.cms",
          "pubDate" : "Thu, 07 May 2026 03:30:00",
          "title" : "Is representing India worth it? The draining family cost of raising a chess star"
-      },
-      {
-         "description" : " The final round of the Sigeman & Co Chess Tournament in Malmo promises to be very tense after an interesting round 6. Arjun Erigaisi beat Zhu Jiner in an endgame where the Chinese player had a tricky defence in a holdable position. Magnus Carlsen chose the King's Indian against Andy Woodward which led to double edged play and eventually Carlsen brought home the full point. Carlsen will have white against Yagiz Kaan Erdogmus in what will be a must win game for both of them and their first classical meeting. Jorden Van Foreest was winning against Nils Grandelius but missed his chance and had to settle for a draw. Round 6 Standings: 1st Erigaisi 4.5pts 2nd= Carlsen, Erdogmus 4pts, 4th Abdusatt",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
-         "pubDate" : "Wed, 6 May 2026 23:01:00",
-         "title" : "Erigaisi leads the Sigeman tournament alone with one round to go - 6"
       }
    ]
 }
