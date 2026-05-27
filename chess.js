@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Wed, 27 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "Bibisara Assaubayeva retained the lead at Norway Chess Women after surviving a difficult classical game and winning a chaotic Armageddon against Zhu Jiner. All three round-two matches were drawn in classical play, with Divya Deshmukh defeating Humpy Koneru in the tiebreak and Anna Muzychuk recovering from her opening loss by beating world champion Ju Wenjun. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2",
+         "pubDate" : "Wed, 27 May 2026 12:20:00",
+         "title" : "Norway Chess Women: Assaubayeva keeps lead, as all encounters go to Armageddon"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131345262.cms\" />D Gukesh went viral during Norway Chess after hilariously failing to open a water bottle mid-game against Wesley So and quietly putting it back. The funny moment came during a frustrating day for Gukesh, who dominated the classical game but lost in Armageddon. Meanwhile, Alireza Firouzja continued his unbeaten run at the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-champion-d-gukesh-fails-to-open-water-bottle-at-norway-chess-puts-it-back-after-epic-struggle/articleshow/131345262.cms",
+         "pubDate" : "Wed, 27 May 2026 09:00:19",
+         "title" : "Watch: Gukesh fails to open water bottle at Norway Chess, puts it back"
+      },
+      {
          "description" : "Alireza Firouzja made it two classical wins in as many rounds at Norway Chess, beating Praggnanandhaa Rameshbabu on Tuesday after defeating Magnus Carlsen on the opening day. Firouzja now leads with 6/6 points and is guaranteed to remain in sole first place after round three. Carlsen and Wesley So won the day's Armageddon deciders, against Vincent Keymer and Gukesh Dommaraju, respectively. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,28 +58,12 @@ news_feed (
          "title" : "European Women's Chess Championship 2026 - Round 2 recap"
       },
       {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round two, early leader Alireza Firouzja plays white against Praggnanandhaa Rameshbabu, while Magnus Carlsen will try to bounce back from his round-one loss in his encounter against VIncent Keymer. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Tue, 26 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : "GM Alireza Firouzja scored the day&#39;s only classical win, over GM Praggnanandhaa Rameshbabu, to open up a 3.5-point lead in Norway Chess 2026 with a perfect 6/6. GM Magnus Carlsen beat GM Vincent Keymer in armageddon, but that was little consolatio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-2",
          "pubDate" : "Tue, 26 May 2026 13:40:00",
          "title" : "Firouzja Strikes Again To Reenter Top 10; Carlsen, Gukesh Miss Wins"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Tue, 26 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "The organizers of the Esports Nations Cup (ENC), the Esports Foundation (EF), have revealed new details about the event&#39;s qualification and wildcard systems. The announcement includes details about how chess players can qualify for the event and h...",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
          "pubDate" : "Wed, 06 May 2026 11:36:06",
          "title" : "European School Chess Champions 2026 crowned in Croatia"
-      },
-      {
-         "description" : "We are delighted to share the news that Kayal Vijay has been crowned Under 9 Girls Champion at the European Schools Chess Championship 2026, held in Croatia from 27th April...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/kayal-vijay-under-9-girls-champion-european-schools/",
-         "pubDate" : "Wed, 06 May 2026 09:52:13",
-         "title" : "Kayal Vijay Under 9 Girls Champion - European Schools"
       }
    ]
 }
