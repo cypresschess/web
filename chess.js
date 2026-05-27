@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Alireza Firouzja goes into Wednesday's third round with a 3&frac12;-point lead over Wesley So and Gukesh Dommaraju - Firouzja plays black against Gukesh. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Wed, 27 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
          "pubDate" : "Wed, 27 May 2026 13:00:00",
          "title" : "European Women's Championship - Live!"
-      },
-      {
-         "description" : "Bibisara Assaubayeva retained the lead at Norway Chess Women after surviving a difficult classical game and winning a chaotic Armageddon against Zhu Jiner. All three round-two matches were drawn in classical play, with Divya Deshmukh defeating Humpy Koneru in the tiebreak and Anna Muzychuk recovering from her opening loss by beating world champion Ju Wenjun. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-2",
-         "pubDate" : "Wed, 27 May 2026 12:20:00",
-         "title" : "Norway Chess Women: Assaubayeva keeps lead, as all encounters go to Armageddon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131345262.cms\" />D Gukesh went viral during Norway Chess after hilariously failing to open a water bottle mid-game against Wesley So and quietly putting it back. The funny moment came during a frustrating day for Gukesh, who dominated the classical game but lost in Armageddon. Meanwhile, Alireza Firouzja continued his unbeaten run at the tournament.",
@@ -26,28 +26,12 @@ news_feed (
          "title" : "Watch: Gukesh fails to open water bottle at Norway Chess, puts it back"
       },
       {
-         "description" : "Alireza Firouzja made it two classical wins in as many rounds at Norway Chess, beating Praggnanandhaa Rameshbabu on Tuesday after defeating Magnus Carlsen on the opening day. Firouzja now leads with 6/6 points and is guaranteed to remain in sole first place after round three. Carlsen and Wesley So won the day's Armageddon deciders, against Vincent Keymer and Gukesh Dommaraju, respectively. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-2",
-         "pubDate" : "Wed, 27 May 2026 07:35:00",
-         "title" : "Norway Chess: Firouzja wins again, leads by 3&frac12; points"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131339869.cms\" />Youngster Divya Deshmukh continued her fine start at Norway Chess by defeating country No. 1 Koneru Humpy in an Armageddon tiebreak after a tactical classical draw. It was a bleak day for India in the open section, however, as R Praggnanandhaa lost in classical to Alireza Firouzja, while D Gukesh fell to Wesley So in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-pips-india-no-1-koneru-humpy-in-armageddon-no-joy-for-gukesh-praggnanandhaa/articleshow/131339869.cms",
          "pubDate" : "Wed, 27 May 2026 01:41:48",
          "title" : "Norway Chess: Divya beats India No. 1 Humpy; no joy for Gukesh, Pragg"
-      },
-      {
-         "description" : "Christian Gloeckler's tournament victory at the Limburg Open has taken him past the 2500 rating mark, confirming his status as one of the world's best players in his age group. At the end of the tournament, eight players were tied on points at the top. The best tiebreak score gave Gloeckler overall victory. | Photos: Frans Peeters /Limburg Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christian-gloeckler-wins-limburg-open-2026",
-         "pubDate" : "Tue, 26 May 2026 22:30:00",
-         "title" : "Christian Gloeckler wins Limburg Open, crosses 2500 rating mark"
       },
       {
          "description" : "The second round of the European Women's Chess Championship 2026 took place today at the Euphoria Hotel, in Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch. Khinkali, a traditional Georgian dish, is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, []",
@@ -90,14 +74,6 @@ news_feed (
          "title" : "Announcement : Medical Evaluation in Guwahati ,Assam on 15 & 16 June 2026 ."
       },
       {
-         "description" : "Alireza Firouzja opened Norway Chess in Oslo with his first-ever classical win over Magnus Carlsen, defeating the defending champion despite playing with an injured ankle. The remaining two matches went to Armageddon after draws i the classical games, with Gukesh Dommaraju beating Vincent Keymer following a 144-move struggle, and Praggnanandhaa Rameshbabu defeating Wesley So to complete a strong first round for the players with the white pieces. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-1",
-         "pubDate" : "Tue, 26 May 2026 07:15:00",
-         "title" : "Norway Chess: Firouzja obtains first-ever classical win over Carlsen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131319845.cms\" />India enjoyed a decent opening day at Norway Chess as 20-year-old debutante Divya Deshmukh held World Champion Ju Wenjun to a classical draw before defeating her in the Armageddon tiebreak. Joining her in the winner's circle were D Gukesh and R Praggnanandhaa, who also won their respective Armageddon matches, while Magnus Carlsen suffered a shock defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -112,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-middle-school-k-8-championship-pt-1",
          "pubDate" : "Tue, 26 May 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 1"
-      },
-      {
-         "description" : "The 2026 European Women's Chess Championship kicked off in Batumi with 165 players from 32 federations competing for the continental title and ten places in the next FIDE Women's World Cup. The opening round saw several higher-rated players defeated, including Klaudia Kulon and Irina Bulmaga, while four games on the top ten boards were drawn after the favourites failed to convert or had to defend difficult positions. | Pictured: Oliwia Kiolbasa (Poland) | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-1",
-         "pubDate" : "Mon, 25 May 2026 23:50:00",
-         "title" : "European Women's Championship: A few upsets on opening day in Batumi"
       },
       {
          "description" : "The 2026 European Women's Chess Championship officially opened today in Batumi, Georgia! The Opening ceremony of the event took place in the tournament playing hall, shortly before the start of the first round. The ceremony was attended by the President of the Georgian Chess Federation and FIDE Special Task Director Mr. Akaki Iashvili, Deputy Head of Sports Department of autonomous republic of Adjara Mr. Aslan Baladze, ECU Tournament Director Mr. Petr Pisk, Chief Arbiter of the event Mr. Geert Bailleul, []",
@@ -168,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-gukeshs-test-koneru-humpys-return-why-should-you-be-excited/articleshow/131303861.cms",
          "pubDate" : "Mon, 25 May 2026 07:34:58",
          "title" : "Norway Chess: Gukesh's test, Humpy's return - Why should you be excited?"
-      },
-      {
-         "description" : "There is a famous photograph of Mikhail Tal hunched over the board during a tournament game, eyes burning into the pieces. Somewhere behind that stare, an entire mating attack is unfolding. Every chess generation, from Morphy to Magnus, has been defined by one skill: extraordinary calculation. The pieces move on the board - but the game is won and lost in what you can visualize. Let us show you how Fritz 21 trains the one skill every great chess player has lived or died by.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-board-that-refuses-to-help-you",
-         "pubDate" : "Sun, 24 May 2026 14:00:00",
-         "title" : "The board that refuses to help you"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131290316.cms\" />Norway Chess 2026 begins on May 25 in Oslo, featuring stars like Magnus Carlsen, Gukesh Dommaraju, Praggnanandhaa and Wesley So. Indian viewers can watch the tournament live on Mirror Now, while online streaming will be available on Chess.com, the official Norway Chess website and YouTube. The tournament runs till June 5 and also features a strong women's lineup led by Ju Wenjun and Humpy Koneru.",
@@ -792,22 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-world-chess-champion-d-gukesh-celebrates-emotionally-after-beating-javokhir-sindarov-watch/articleshow/130861835.cms",
          "pubDate" : "Wed, 06 May 2026 15:54:43",
          "title" : "Rare! Gukesh celebrates emotionally after beating Sindarov - Watch"
-      },
-      {
-         "description" : " Arjun Erigaisi beat Jorden van Foreest in the fifth round of the 31st Sigeman & Co tournament in Malmo. van Foreest will probably be disappointed with his play and especially 25...e5 which directly led to his loss. Magnus Carlsen said that his play was shaky against Zhu Jiner and that he'd been outplayed in a key middlegame sequence. Zhu had the upper hand sometimes and Carlsen then got the advantage but let it go. The strange 33...Kf8 would have been equal and only with 36...Nxg3? was Carlsen winning. Andy Woodward was briefly winning against Yagiz Kaan Erdogmus, the game lasted 104 moves but the position remained stubbornly equal after he failed to find 37.h5! Absolutely no-one can blame ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/erigaisi-and-erdogmus-lead-the-sigeman-co-tournament-after-five-rounds",
-         "pubDate" : "Wed, 6 May 2026 14:10:00",
-         "title" : "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5"
-      },
-      {
-         "description" : "The 2026 European School Chess Championship concluded yesterday in Trogir, Croatia! Europe crowned 12 School Chess Champions for 2026, in six age categories: U7, U9, U11, U13, U15, and U17, for Open and Girls sections. In the U7 age category, Sophia Kaliskami (GRE) became an absolute European School Chess Champion with the score of 8.5 points and better tiebreaks than Albert-Tudor Jacota (ROU) who tied in the first place, and as the best ranked boy in the event, clinched title []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-champions-2026-crowned-in-croatia/",
-         "pubDate" : "Wed, 06 May 2026 11:36:06",
-         "title" : "European School Chess Champions 2026 crowned in Croatia"
       }
    ]
 }
