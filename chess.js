@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131339869.cms\" />Youngster Divya Deshmukh continued her fine start at Norway Chess by defeating country No. 1 Koneru Humpy in an Armageddon tiebreak after a tactical classical draw. It was a bleak day for India in the open section, however, as R Praggnanandhaa lost in classical to Alireza Firouzja, while D Gukesh fell to Wesley So in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-pips-india-no-1-koneru-humpy-in-armageddon-no-joy-for-gukesh-praggnanandhaa/articleshow/131339869.cms",
+         "pubDate" : "Wed, 27 May 2026 01:41:48",
+         "title" : "Norway Chess: Divya beats India No. 1 Humpy; no joy for Gukesh, Pragg"
+      },
+      {
          "description" : "Christian Gloeckler's tournament victory at the Limburg Open has taken him past the 2500 rating mark, confirming his status as one of the world's best players in his age group. At the end of the tournament, eight players were tied on points at the top. The best tiebreak score gave Gloeckler overall victory. | Photos: Frans Peeters /Limburg Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "GM Alireza Firouzja scored the day&#39;s only classical win, over GM Praggnanandhaa Rameshbabu, to open up a 3.5-point lead in Norway Chess 2026 with a perfect 6/6. GM Magnus Carlsen beat GM Vincent Keymer in armageddon, but that was little compensati...",
+         "description" : "GM Alireza Firouzja scored the day&#39;s only classical win, over GM Praggnanandhaa Rameshbabu, to open up a 3.5-point lead in Norway Chess 2026 with a perfect 6/6. GM Magnus Carlsen beat GM Vincent Keymer in armageddon, but that was little consolatio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-2",
