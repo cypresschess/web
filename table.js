@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-05-26","17","<a href=https://ratings.uschess.org/event/202605260243 target='_blank'>MAY TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-05-25","193","<a href=https://ratings.uschess.org/event/202605250163 target='_blank'>81st Texas State & Amateur Championship (In Memory of Luis Salinas)</a>",
 "HOUSTON","2026-05-25","24","<a href=https://ratings.uschess.org/event/202605250073 target='_blank'>Bellaire Spring Scholastic 2026</a>",
 "HOUSTON","2026-05-24","15","<a href=https://ratings.uschess.org/event/202605240173 target='_blank'>Bellaire Sunday Swiss 2026.05.24</a>",
@@ -28,6 +29,7 @@ jtable([
 "SUGAR LAND","2026-05-01","8","<a href=https://ratings.uschess.org/event/202605010163 target='_blank'>FBCC 2026 National Space Day Open</a>",
 "KATY","2026-04-29","7","<a href=https://ratings.uschess.org/event/202604290163 target='_blank'>Katy Kids Chess</a>",
 "HOUSTON","2026-04-28","19","<a href=https://ratings.uschess.org/event/202604280243 target='_blank'>APRIL TUE NITE SWISS 2026</a>",
+"KATY","2026-04-26","13","<a href=https://ratings.uschess.org/event/202604260953 target='_blank'>2026 Katy Kids Chess</a>",
 "HOUSTON","2026-04-26","15","<a href=https://ratings.uschess.org/event/202604260383 target='_blank'>Bellaire Sunday Swiss 2026.04.26</a>",
 "HOUSTON","2026-04-25","42","<a href=https://ratings.uschess.org/event/202604250663 target='_blank'>2026 TEXAS QUICK CHESS STATE CHAMPI</a>",
 "HOUSTON","2026-04-25","11","<a href=https://ratings.uschess.org/event/202604250383 target='_blank'>chesspanda04252026saturday</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-02-28","3","<a href=https://ratings.uschess.org/event/202602281253 target='_blank'>Spring-02-28-2026</a>",
 "HOUSTON","2026-02-28","8","<a href=https://ratings.uschess.org/event/202602281083 target='_blank'>FEB 28th- SATURDAY SWISS</a>",
 "HOUSTON","2026-02-28","7","<a href=https://ratings.uschess.org/event/202602280283 target='_blank'>chesspanda02282026saturday</a>",
-"CYPRESS","2026-02-28","92","<a href=https://ratings.uschess.org/event/202602280043 target='_blank'>CMH Scholastic Tournament</a>",
-"HOUSTON","2026-02-27","40","<a href=https://ratings.uschess.org/event/202602270433 target='_blank'>South Texas FIDE 2026</a>",
 ]);
