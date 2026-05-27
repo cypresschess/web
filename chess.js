@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja made it two classical wins in as many rounds at Norway Chess, beating Praggnanandhaa Rameshbabu on Tuesday after defeating Magnus Carlsen on the opening day. Firouzja now leads with 6/6 points and is guaranteed to remain in sole first place after round three. Carlsen and Wesley So won the day's Armageddon deciders, against Vincent Keymer and Gukesh Dommaraju, respectively. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-2",
+         "pubDate" : "Wed, 27 May 2026 07:35:00",
+         "title" : "Norway Chess: Firouzja wins again, leads by 3&frac12; points"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131339869.cms\" />Youngster Divya Deshmukh continued her fine start at Norway Chess by defeating country No. 1 Koneru Humpy in an Armageddon tiebreak after a tactical classical draw. It was a bleak day for India in the open section, however, as R Praggnanandhaa lost in classical to Alireza Firouzja, while D Gukesh fell to Wesley So in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Christian Gloeckler wins Limburg Open, crosses 2500 rating mark"
       },
       {
-         "description" : "The second round of the European Women's Chess Championship 2026 was played today at the Euphoria Hotel, Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch! Khinkali traditional Georgian food is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, and []",
+         "description" : "The second round of the European Women's Chess Championship 2026 took place today at the Euphoria Hotel, in Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch. Khinkali, a traditional Georgian dish, is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-womens-chess-championship-2026-round-2-recap/",
