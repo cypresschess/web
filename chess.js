@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Thu, 28 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu scored the only classical win of round three at Norway Chess, beating Magnus Carlsen in a rollercoaster game. Alireza Firouzja kept the sole lead by defeating Gukesh Dommaraju in Armageddon, while Wesley So beat Vincent Keymer in the other tiebreaker. Carlsen is now last after two classical losses in three rounds. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-3",
          "pubDate" : "Wed, 27 May 2026 13:09:00",
          "title" : "Praggnanandhaa Beats Carlsen In Rollercoaster Norway Chess Clash"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Wed, 27 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "It took him three tries, but Patriots receiver Mack Hollins was thrilled to take his first BlitzChamps title on May 26. Hollins won every match, including a tough finals against Chargers quarterback Justin Herbert, to win the event ahead of seven ...",
