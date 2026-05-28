@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131361310.cms\" />India's R Praggnanandhaa scripted a sensational repeat of history at the Norway Chess tournament in Oslo, stunning local hero and World No. 1 Magnus Carlsen in a 62-move classical encounter. Meanwhile, debutante Divya Deshmukh continued her dream run in the women's section, defeating tournament leader Bibisara Assaubayeva to secure her third consecutive Armageddon victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-shocks-world-no-1-magnus-carlsen-in-classical-3rd-straight-armageddon-win-for-divya-deshmukh/articleshow/131361310.cms",
+         "pubDate" : "Thu, 28 May 2026 01:27:45",
+         "title" : "Historic for India! Praggnanandhaa shocks Magnus Carlsen in Norway; 3rd win for Divya"
+      },
+      {
          "description" : "After three rounds of play at the European Women's Chess Championship 2026 in Batumi, Georgia, seven players maintain a flawless 3/3 score, closely followed by a group of 15 players on 2.5 points. The early leaders are: IM Mai Narva (EST, 2426), IM Oliwia Kiolbasa (POL, 2397), FM Anna-Maja Kazarian (NED, 2317), WGM Elmira Mirzoeva (ENG, 2265), WFM Anastasiia Hnatyshyn (UKR, 2207), WIM Gulenay Aydin (TUR, 2204), and WFM Varvara Poliakova (FIDE, 2108). IM Mai Narva (EST, 2426) defeated WFM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
          "pubDate" : "Thu, 07 May 2026 11:50:00",
          "title" : "TePe Sigeman - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130868475.cms\" />India's chess boom is inspiring young talents, but families face huge financial and logistical struggles behind the scenes. Parents spend lakhs on foreign tournaments, visas, travel, and coaching, often without sponsorship or federation support. Many also deal with poor tournament systems in India and scams abroad. Despite rising success stories like Vaishali and Gukesh, chess parents say survival in the sport remains extremely difficult.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/is-representing-india-worth-it-the-draining-family-cost-of-raising-a-chess-star/articleshow/130868475.cms",
-         "pubDate" : "Thu, 07 May 2026 03:30:00",
-         "title" : "Is representing India worth it? The draining family cost of raising a chess star"
       }
    ]
 }
