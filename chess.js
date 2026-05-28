@@ -26,6 +26,14 @@ news_feed (
          "title" : "KCF Friendship Festival 2026"
       },
       {
+         "description" : "World number-one Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
+         "pubDate" : "Thu, 28 May 2026 13:28:00",
+         "title" : "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "Full Report: Lin, Hunter Win 2026 National Middle School (K-8) Championship"
       },
       {
-         "description" : "GM Vincent Keymer&#39;s gamble of choosing to allow GM Maxime Vachier-Lagrave to be the first player ever to play the Najdorf against him paid off as he took the sole lead after four rounds of the Super Chess Classic Romania 2026. The biggest news o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-4",
-         "pubDate" : "Sun, 17 May 2026 12:10:00",
-         "title" : "Keymer Grabs Sole Lead As Firouzja Misses Game Due To 'Medical Issue'"
-      },
-      {
          "description" : "The 2026 European Youth Chess Championship will take place from 2-13 November, 2026 in Hersonissos, Creta, Greece. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The Championships will be played at ****Royal &#38; Imperial Belvedere Resort in Hersonissos, Crete, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -736,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/malmo-chess-magnus-carlsen-lords-over-yagiz-kaan-arjun-erigaisi-for-another-elite-title/articleshow/130948057.cms",
          "pubDate" : "Fri, 08 May 2026 04:26:20",
          "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
-      },
-      {
-         "description" : " The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h pawns with no development. Erigaisi was losing but somehow managed to escape with a draw. In the meantime Magnus Carlsen was meeting 14-year-old Yagiz Kaan Erdogmus for the first time. Carlsen played it relatively safe and went into a technical endgame that Erdogmus reacted sharply and well, but still Carlsen could continue to press and eventually created problems that Erdogmus couldn't solve in time trouble. Meanwhile Abdusattorov-Van F",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-wins-the-31st-sigeman-co-tournament-after-tie-break-win-over-erigaisi",
-         "pubDate" : "Thu, 7 May 2026 22:32:00",
-         "title" : "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7"
       }
    ]
 }
