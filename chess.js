@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, leaving only two players with a perfect score of 4/4 points! WGM Elmira Mirzoeva (ENG, 2265), the 53rd seed, and 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207), the 76th seed, emerged as the tournament's surprising co-leaders. WFM Anastasiia Hnatyshyn (UKR, 2207) today played on the top board against IM Mai Narva (EST, 2426). Having the White pieces, Hnatyshyn built an opening advantage and kept improving []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/wgm-elmira-mirzoeva-and-wfm-anastasiia-hnatyshyn-co-lead-ewcc2026-after-round-4/",
+         "pubDate" : "Thu, 28 May 2026 18:14:44",
+         "title" : "WGM Elmira Mirzoeva and WFM Anastasiia Hnatyshyn co-lead EWCC2026 after Round 4"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round four, the much-anticipated encounter between Gukesh Dommaraju and Magnus Carlsen takes place, while leader Alireza Firouzja faces Wesley So. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-poland-2026-live",
          "pubDate" : "Sat, 09 May 2026 11:50:00",
          "title" : "Super Rapid & Blitz Poland - Live!"
-      },
-      {
-         "description" : "Following the ECU Board meeting on 30 April, the ECU Board met via teleconference on 8 May 2026. Main information and decisions: The ECU Board approved the verification report of the ECU Legal adviser Mr. Marco Biagioli confirming the validity of all candidacies for ECU elections received by 17th of April and published on 20th of April 2026. https://www.europechess.org/ecu-elections-2026/ Regarding letters and requests received by the ECU, the ECU Board notes the decisions already announced. Communique of the ECU Board []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-2/",
-         "pubDate" : "Sat, 09 May 2026 10:11:11",
-         "title" : "Communique of the ECU Board"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130974067.cms\" />Abhijeet Gupta has alleged that his Rs 5.5 lakh winner's prize from the Odisha GM Open, held in January 2026 with a Rs 45 lakh prize pool, remains unpaid. The Arjuna Awardee criticised organisers and the All India Chess Federation for a lack of accountability, saying repeated emails went unanswered. Gupta urged authorities to protect the \"dignity and trust\" of Indian chess players.",
