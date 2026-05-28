@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round four, the much-anticipated encounter between Gukesh Dommaraju and Magnus Carlsen takes place, while leader Alireza Firouzja faces Wesley So. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Thu, 28 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "The KCF Friendship Festival 2026 is already attracting worldwide attention, with players from more than 30 countries having registered a month before the first move is played. Organized by the Kasparov Chess Foundation and its partners, the festival will take place from June 25 to July 5, 2026, in the beautiful spa town of Radenci, Slovenia.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026",
+         "pubDate" : "Thu, 28 May 2026 15:21:00",
+         "title" : "KCF Friendship Festival 2026"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/seven-players-maintain-perfect-3-3-score-at-european-womens-chess-championship-2026/",
          "pubDate" : "Wed, 27 May 2026 20:47:50",
          "title" : "Seven players maintain perfect 3/3 score at European Women's Chess Championship 2026"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Alireza Firouzja goes into Wednesday's third round with a 3&frac12;-point lead over Wesley So and Gukesh Dommaraju - Firouzja plays black against Gukesh. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Wed, 27 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu moved up to second place in Norway Chess 2026 after a rollercoaster win over GM Magnus Carlsen, who had fought his way back from the dead to a winning position only to collapse in time trouble. GM Alireza Firouzja lead...",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/magnus-carlsen-wins-the-31st-sigeman-co-tournament-after-tie-break-win-over-erigaisi",
          "pubDate" : "Thu, 7 May 2026 22:32:00",
          "title" : "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7"
-      },
-      {
-         "description" : "The TePe Sigeman Chess Tournament is taking place on 1-7 May in Malm&ouml;, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Yagiz Kaan Erdogmus, who recently became the youngest player to ever cross the 2700 rating mark. The event is an eight-player single round-robin. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Peter Doggers / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-         "pubDate" : "Thu, 07 May 2026 11:50:00",
-         "title" : "TePe Sigeman - Live!"
       }
    ]
 }
