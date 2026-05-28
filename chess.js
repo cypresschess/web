@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu scored the only classical win of round three at Norway Chess, beating Magnus Carlsen in a rollercoaster game. Alireza Firouzja kept the sole lead by defeating Gukesh Dommaraju in Armageddon, while Wesley So beat Vincent Keymer in the other tiebreaker. Carlsen is now last after two classical losses in three rounds. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-3",
+         "pubDate" : "Thu, 28 May 2026 07:10:00",
+         "title" : "Norway Chess: Pragg beats Carlsen in wild encounter"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131361310.cms\" />India's R Praggnanandhaa scripted a sensational repeat of history at the Norway Chess tournament in Oslo, stunning local hero and World No. 1 Magnus Carlsen in a 62-move classical encounter. Meanwhile, debutante Divya Deshmukh continued her dream run in the women's section, defeating tournament leader Bibisara Assaubayeva to secure her third consecutive Armageddon victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
