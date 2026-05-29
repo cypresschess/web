@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131380144.cms\" />World Champion D Gukesh suffered a 42-move classical defeat against World No. 1 Magnus Carlsen on the eve of his 20th birthday in Round 4 of Norway Chess 2026. Meanwhile, Divya Deshmukh's brilliant unbeaten streak came to an end after losing her Armageddon tiebreak to Ukraine's Anna Muzychuk. R Praggnanandhaa won his game, while Koneru Humpy's tough run continues.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-loses-his-last-game-as-teenager-to-magnus-carlsen-divya-deshmukhs-unbeaten-streak-ends/articleshow/131380144.cms",
+         "pubDate" : "Fri, 29 May 2026 02:13:58",
+         "title" : "Norway Chess: Gukesh loses his last game to Carlsen; Divya's unbeaten streak ends"
+      },
+      {
          "description" : "The fourth round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, leaving only two players with a perfect score of 4/4 points! WGM Elmira Mirzoeva (ENG, 2265), the 53rd seed, and 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207), the 76th seed, emerged as the tournament's surprising co-leaders. WFM Anastasiia Hnatyshyn (UKR, 2207) today played on the top board against IM Mai Narva (EST, 2426). Having the White pieces, Hnatyshyn built an opening advantage and kept improving []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "KCF Friendship Festival 2026"
       },
       {
-         "description" : "World number-one Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead th...",
+         "description" : "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
