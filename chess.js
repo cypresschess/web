@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Frenchman scored at Norway Chess despite his heavily protected sprained ankle, and defeated Carlsen for the first time in a classical game Magnus Carlsen, the 35-year-old world No 1, has won the annual Norway Chess elite tournament, for six of the past seven years. However, he was shocked in Monday's opening round by Alireza Firouzja, who had finished last at Bucharest the previous week in the Grand Chess Tour event won by Germany's Vincent Keymer. The Frenchman, 22, defeated Carlsen for the first time in classical chess despite playing with a sprained ankle, caused by falling off a stage at Bucharest. It was the most high-profile success by a physically injured grandmaster since Tilburg 19",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/may/29/injured-alireza-firouzja-shock-magnus-carlsen-norway-chess",
+         "pubDate" : "Fri, 29 May 2026 07:00:44",
+         "title" : "Injured Alireza Firouzja plays through pain to shock world No 1 Magnus Carlsen in Oslo"
+      },
+      {
+         "description" : "Magnus Carlsen scored his first classical win of this year's Norway Chess in round four, beating world champion Gukesh Dommaraju with the black pieces. The remaining two games were decided in Armageddon, with Wesley So defeating tournament leader Alireza Firouzja and Praggnanandhaa Rameshbabu beating Vincent Keymer. Firouzja still leads by 2&frac12; points going into the first rest day. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-4",
+         "pubDate" : "Fri, 29 May 2026 06:30:00",
+         "title" : "Norway Chess: Carlsen beats Gukesh, So stops Firouzja"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131380144.cms\" />World Champion D Gukesh suffered a 42-move classical defeat against World No. 1 Magnus Carlsen on the eve of his 20th birthday in Round 4 of Norway Chess 2026. Meanwhile, Divya Deshmukh's brilliant unbeaten streak came to an end after losing her Armageddon tiebreak to Ukraine's Anna Muzychuk. R Praggnanandhaa won his game, while Koneru Humpy's tough run continues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/wgm-elmira-mirzoeva-and-wfm-anastasiia-hnatyshyn-co-lead-ewcc2026-after-round-4/",
          "pubDate" : "Thu, 28 May 2026 18:14:44",
          "title" : "WGM Elmira Mirzoeva and WFM Anastasiia Hnatyshyn co-lead EWCC2026 after Round 4"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round four, the much-anticipated encounter between Gukesh Dommaraju and Magnus Carlsen takes place, while leader Alireza Firouzja faces Wesley So. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Thu, 28 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "The KCF Friendship Festival 2026 is already attracting worldwide attention, with players from more than 30 countries having registered a month before the first move is played. Organized by the Kasparov Chess Foundation and its partners, the festival will take place from June 25 to July 5, 2026, in the beautiful spa town of Radenci, Slovenia.",
@@ -728,22 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/after-d-gukeshs-viral-first-pump-celebration-javokhir-sindarov-gets-his-revenge-watch/articleshow/130969427.cms",
          "pubDate" : "Sat, 09 May 2026 02:18:33",
          "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
-      },
-      {
-         "description" : " The world No 1 lost to Jorden van Foreest, but squeezed into a tie for first and won the blitz playoff The world No 1, Magnus Carlsen, made a rare return to classical chess this week at the annual TePe Sigeman tournament in Malm&ouml;, Sweden, squeezing through to a blitz playoff in Thursday's final round after Turkey's 14-year-old talent Yagiz Kaan Erdogmus blundered fatally in the late stages after reaching a drawn position. Carlsen tied on 5/7 with India's Arjun Erigaisi and won the blitz playoff 2-1. This was the <a href=\"https://lichess.org/broadcast/tepe-sigeman--co-chess-tournament-2026/tiebreaks/o7KV2kHF/KHF51Zdu\">final sudden death game</a>. <a href=\"https://www.theguardian.com/spo",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/may/08/chess-magnus-carlsen-enjoys-narrow-win-in-malmo-during-rare-classical-outing",
-         "pubDate" : "Fri, 08 May 2026 07:00:39",
-         "title" : "Chess: Magnus Carlsen enjoys narrow win in Malm&ouml; during rare classical outing"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130948057.cms\" />Magnus Carlsen clinched the TePe Sigeman &amp; Co. chess title in Malmo after a dramatic classical win against Yagiz Kaan and two decisive blitz victories over Arjun Erigaisi. Carlsen's resilience in the classical phase, forcing complex endgames, proved pivotal. Erigaisi fought valiantly, securing a draw in the classical finale and winning one blitz tiebreak before Carlsen ultimately triumphed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/malmo-chess-magnus-carlsen-lords-over-yagiz-kaan-arjun-erigaisi-for-another-elite-title/articleshow/130948057.cms",
-         "pubDate" : "Fri, 08 May 2026 04:26:20",
-         "title" : "Malmo Chess: Magnus Carlsen lords over Yagiz Kaan, Arjun Erigaisi for another elite title"
       }
    ]
 }
