@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Frenchman scored at Norway Chess despite his heavily protected sprained ankle, and defeated Carlsen for the first time in a classical game Magnus Carlsen, the 35-year-old world No 1, has won the annual Norway Chess elite tournament, for six of the past seven years. However, he was shocked in Monday's opening round by Alireza Firouzja, who had finished last at Bucharest the previous week in the Grand Chess Tour event won by Germany's Vincent Keymer. The Frenchman, 22, defeated Carlsen for the first time in classical chess despite playing with a sprained ankle, caused by falling off a stage at Bucharest. It was the most high-profile success by a physically injured grandmaster since Tilburg 19",
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Dinara Wagner | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Fri, 29 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "Elmira Mirzoeva (pictured left) of England tops the standings after four rounds of the 2026 European Women's Championship in Batumi. She shares first place with 15-year-old Ukrainian Anastasia Hnatyshyn. Seeded 53rd and 76th respectively, the two surprise leaders are half a point ahead of the next four players. Another half point behind them is a large chasing group of 29 players. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/batumi-mirzoeva-and-hnatyshyn-lead",
+         "pubDate" : "Fri, 29 May 2026 11:54:59",
+         "title" : "Batumi: Mirzoeva and Hnatyshyn lead"
+      },
+      {
+         "description" : "The New Arbiter Appointments Policy The new policy for appointments was published last summer: https://www.englishchess.org.uk/wp-content/uploads/2025/09/Arbiter-Appointments-Policy.pdf This was the first time the ECF had a published policy for its own events,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-appointments-in-2025-26/",
+         "pubDate" : "Fri, 29 May 2026 10:29:48",
+         "title" : "ECF Arbiter Appointments in 2025/26"
+      },
+      {
+         "description" : " Frenchman scored at Norway Chess despite his heavily protected sprained ankle, and defeated Carlsen for the first time in a classical game Magnus Carlsen has won the annual Norway Chess elite tournament for six of the past seven years. However, the 35-year-old world No 1 was shocked in Monday's opening round by Alireza Firouzja, who had finished last at Bucharest the previous week in the Grand Chess Tour event won by Germany's Vincent Keymer. The Frenchman, 22, defeated Carlsen for the first time in classical chess despite playing with a sprained ankle, caused by falling off a stage at Bucharest. It was the most high-profile success by a physically injured grandmaster since Tilburg 1985, wh",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/29/injured-alireza-firouzja-shock-magnus-carlsen-norway-chess",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
          "pubDate" : "Thu, 28 May 2026 13:28:00",
          "title" : "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Thu, 28 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu scored the only classical win of round three at Norway Chess, beating Magnus Carlsen in a rollercoaster game. Alireza Firouzja kept the sole lead by defeating Gukesh Dommaraju in Armageddon, while Wesley So beat Vincent Keymer in the other tiebreaker. Carlsen is now last after two classical losses in three rounds. | Photo: Norway Chess / Michal Walusza",
