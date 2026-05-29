@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131390515.cms\" />D Gukesh enjoyed a funny birthday moment during Norway Chess 2026 celebrations as players sang for his 20th birthday before a sailing event in Oslo. Laughter erupted after Wesley So jokingly asked Javokhir Sindarov, Gukesh's future World Championship challenger, to sing a song. Earlier, Magnus Carlsen defeated Gukesh in Round 4, while Bibisara Assaubayeva continued leading the women's standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-in-splits-after-javokhir-sindarov-asked-to-sing-on-his-birthday/articleshow/131390515.cms",
+         "pubDate" : "Fri, 29 May 2026 14:02:18",
+         "title" : "Watch: Gukesh in splits after Javokhir Sindarov asked to sing on his B-day"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Dinara Wagner | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
          "pubDate" : "Fri, 29 May 2026 13:00:00",
          "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131389734.cms\" />Magnus Carlsen's birthday message to D Gukesh went viral during Norway Chess 2026. \"You're not a teenager anymore, time to grow up,\" Carlsen joked as Gukesh turned 20. Several chess stars, including Ju Wenjun and Koneru Humpy, also wished him. Later, Carlsen defeated Gukesh in a closely fought classical game, improving his position in the tournament standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/youre-not-a-teenager-anymore-magnus-carlsens-birthday-wish-for-world-chess-champion-d-gukesh-goes-viral-watch/articleshow/131389734.cms",
+         "pubDate" : "Fri, 29 May 2026 12:03:36",
+         "title" : "'You're not a teenager anymore': Carlsen's B-day wish for Gukesh goes viral - Watch"
       },
       {
          "description" : "Elmira Mirzoeva (pictured left) of England tops the standings after four rounds of the 2026 European Women's Championship in Batumi. She shares first place with 15-year-old Ukrainian Anastasia Hnatyshyn. Seeded 53rd and 76th respectively, the two surprise leaders are half a point ahead of the next four players. Another half point behind them is a large chasing group of 29 players. | Photo: European Chess Union",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-loses-his-last-game-as-teenager-to-magnus-carlsen-divya-deshmukhs-unbeaten-streak-ends/articleshow/131380144.cms",
          "pubDate" : "Fri, 29 May 2026 02:13:58",
-         "title" : "Norway Chess: Gukesh loses his last game to Carlsen; Divya's unbeaten streak ends"
+         "title" : "Norway Chess: Gukesh loses to Magnus Carlsen; Divya's unbeaten streak ends"
       },
       {
          "description" : "The fourth round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, leaving only two players with a perfect score of 4/4 points! WGM Elmira Mirzoeva (ENG, 2265), the 53rd seed, and 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207), the 76th seed, emerged as the tournament's surprising co-leaders. WFM Anastasiia Hnatyshyn (UKR, 2207) today played on the top board against IM Mai Narva (EST, 2426). Having the White pieces, Hnatyshyn built an opening advantage and kept improving []",
