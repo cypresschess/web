@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anastasiia Hnatyshyn took the sole lead at the European Women's Championship in Batumi after defeating Elmira Mirzoeva to reach 5/5. The 15-year-old Ukrainian WFM, seeded 76th in the 165-player field, has now scored four consecutive upset wins. Oliwia Kiolbasa from Poland and Gulenay Aydin from T&uuml;rkiye stand half a point behind, while an 11-player group on 4/5 includes Ulviyya Fataliyeva, Anna Ushenina and Meri Arabidze. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-5",
+         "pubDate" : "Sat, 30 May 2026 00:40:00",
+         "title" : "Batumi: 15-year-old WFM Anastasiia Hnatyshyn leads with perfect 5/5"
+      },
+      {
          "description" : "15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) emerged as the sole leader of the European Women's Chess Championship 2026 after five played rounds! Anastasiia Hnatyshyn today defeated WGM Elmira Mirzoeva (ENG, 2265) to remain the only player in the event with a perfect score of 5/5 points. Hnatyshyn was playing with the Black pieces and seemed to be surprised by Mirzoeva's opening preparation and aggressive 8.h4 approach. The young Ukrainian didn't play accurately early on, allowing Elmira Mirzoeva to earn an []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,28 +34,12 @@ news_feed (
          "title" : "Watch: Gukesh in splits after Javokhir Sindarov asked to sing on his B-day"
       },
       {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Dinara Wagner | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Fri, 29 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131389734.cms\" />Magnus Carlsen's birthday message to D Gukesh went viral during Norway Chess 2026. \"You're not a teenager anymore, time to grow up,\" Carlsen joked as Gukesh turned 20. Several chess stars, including Ju Wenjun and Koneru Humpy, also wished him. Later, Carlsen defeated Gukesh in a closely fought classical game, improving his position in the tournament standings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/youre-not-a-teenager-anymore-magnus-carlsens-birthday-wish-for-world-chess-champion-d-gukesh-goes-viral-watch/articleshow/131389734.cms",
          "pubDate" : "Fri, 29 May 2026 12:03:36",
          "title" : "'You're not a teenager anymore': Carlsen's B-day wish for Gukesh goes viral - Watch"
-      },
-      {
-         "description" : "Elmira Mirzoeva (pictured left) of England tops the standings after four rounds of the 2026 European Women's Championship in Batumi. She shares first place with 15-year-old Ukrainian Anastasia Hnatyshyn. Seeded 53rd and 76th respectively, the two surprise leaders are half a point ahead of the next four players. Another half point behind them is a large chasing group of 29 players. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/batumi-mirzoeva-and-hnatyshyn-lead",
-         "pubDate" : "Fri, 29 May 2026 11:54:59",
-         "title" : "Batumi: Mirzoeva and Hnatyshyn lead"
       },
       {
          "description" : "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz...",
@@ -74,14 +66,6 @@ news_feed (
          "title" : "Injured Alireza Firouzja plays through pain to shock world No 1 Magnus Carlsen in Oslo"
       },
       {
-         "description" : "Magnus Carlsen scored his first classical win of this year's Norway Chess in round four, beating world champion Gukesh Dommaraju with the black pieces. The remaining two games were decided in Armageddon, with Wesley So defeating tournament leader Alireza Firouzja and Praggnanandhaa Rameshbabu beating Vincent Keymer. Firouzja still leads by 2&frac12; points going into the first rest day. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-4",
-         "pubDate" : "Fri, 29 May 2026 06:30:00",
-         "title" : "Norway Chess: Carlsen beats Gukesh, So stops Firouzja"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131380144.cms\" />World Champion D Gukesh suffered a 42-move classical defeat against World No. 1 Magnus Carlsen on the eve of his 20th birthday in Round 4 of Norway Chess 2026. Meanwhile, Divya Deshmukh's brilliant unbeaten streak came to an end after losing her Armageddon tiebreak to Ukraine's Anna Muzychuk. R Praggnanandhaa won his game, while Koneru Humpy's tough run continues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -106,28 +90,12 @@ news_feed (
          "title" : "WGM Elmira Mirzoeva and WFM Anastasiia Hnatyshyn co-lead EWCC2026 after Round 4"
       },
       {
-         "description" : "The KCF Friendship Festival 2026 is already attracting worldwide attention, with players from more than 30 countries having registered a month before the first move is played. Organized by the Kasparov Chess Foundation and its partners, the festival will take place from June 25 to July 5, 2026, in the beautiful spa town of Radenci, Slovenia.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026",
-         "pubDate" : "Thu, 28 May 2026 15:21:00",
-         "title" : "KCF Friendship Festival 2026"
-      },
-      {
          "description" : "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
          "pubDate" : "Thu, 28 May 2026 13:28:00",
          "title" : "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu scored the only classical win of round three at Norway Chess, beating Magnus Carlsen in a rollercoaster game. Alireza Firouzja kept the sole lead by defeating Gukesh Dommaraju in Armageddon, while Wesley So beat Vincent Keymer in the other tiebreaker. Carlsen is now last after two classical losses in three rounds. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-3",
-         "pubDate" : "Thu, 28 May 2026 07:10:00",
-         "title" : "Norway Chess: Pragg beats Carlsen in wild encounter"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131361310.cms\" />India's R Praggnanandhaa scripted a sensational repeat of history at the Norway Chess tournament in Oslo, stunning local hero and World No. 1 Magnus Carlsen in a 62-move classical encounter. Meanwhile, debutante Divya Deshmukh continued her dream run in the women's section, defeating tournament leader Bibisara Assaubayeva to secure her third consecutive Armageddon victory.",
