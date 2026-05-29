@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) emerged as the sole leader of the European Women's Chess Championship 2026 after five played rounds! Anastasiia Hnatyshyn today defeated WGM Elmira Mirzoeva (ENG, 2265) to remain the only player in the event with a perfect score of 5/5 points. Hnatyshyn was playing with the Black pieces and seemed to be surprised by Mirzoeva's opening preparation and aggressive 8.h4 approach. The young Ukrainian didn't play accurately early on, allowing Elmira Mirzoeva to earn an []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-grabs-the-sole-lead-in-european-womens-chess-championship-2026/",
+         "pubDate" : "Fri, 29 May 2026 20:03:54",
+         "title" : "15-year-old Anastasiia Hnatyshyn grabs the sole lead in European Women's Chess Championship 2026"
+      },
+      {
+         "description" : "Eight teams have qualified online for the final stage of the 2026 FIDE World University Team Championship, which will be held in Almaty from 4 to 9 August. They will be joined by eight wildcard entries in a 16-team over-the-board final. The event will feature a group stage followed by knockouts, with the winners earning the FIDE World University Team Champion title and a €25,000 first prize.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-university-team-championship-2026-second-stage",
+         "pubDate" : "Fri, 29 May 2026 19:50:00",
+         "title" : "FIDE World University Team Chess Championship 2026: Eight teams reach over-the-board final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131390515.cms\" />D Gukesh enjoyed a funny birthday moment during Norway Chess 2026 celebrations as players sang for his 20th birthday before a sailing event in Oslo. Laughter erupted after Wesley So jokingly asked Javokhir Sindarov, Gukesh's future World Championship challenger, to sing a song. Earlier, Magnus Carlsen defeated Gukesh in Round 4, while Bibisara Assaubayeva continued leading the women's standings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Batumi: Mirzoeva and Hnatyshyn lead"
       },
       {
+         "description" : "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-duda-terry-3-0-thursday-05-28-2026",
+         "pubDate" : "Fri, 29 May 2026 11:34:38",
+         "title" : "3 0 Thursday Stars Martinez, Duda, Terry All Claim Victories"
+      },
+      {
          "description" : "The New Arbiter Appointments Policy The new policy for appointments was published last summer: https://www.englishchess.org.uk/wp-content/uploads/2025/09/Arbiter-Appointments-Policy.pdf This was the first time the ECF had a published policy for its own events,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-loses-his-last-game-as-teenager-to-magnus-carlsen-divya-deshmukhs-unbeaten-streak-ends/articleshow/131380144.cms",
          "pubDate" : "Fri, 29 May 2026 02:13:58",
          "title" : "Norway Chess: Gukesh loses to Magnus Carlsen; Divya's unbeaten streak ends"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or wrap-ups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-memorial-day-weekend-wrap",
+         "pubDate" : "Fri, 29 May 2026 00:00:00",
+         "title" : "2026 Memorial Day Weekend Wrap-Up"
       },
       {
          "description" : "The fourth round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, leaving only two players with a perfect score of 4/4 points! WGM Elmira Mirzoeva (ENG, 2265), the 53rd seed, and 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207), the 76th seed, emerged as the tournament's surprising co-leaders. WFM Anastasiia Hnatyshyn (UKR, 2207) today played on the top board against IM Mai Narva (EST, 2426). Having the White pieces, Hnatyshyn built an opening advantage and kept improving []",
@@ -570,14 +602,6 @@ news_feed (
          "title" : "Firouzja Pulls Off Great Escape From Bed"
       },
       {
-         "description" : "As we enter the last week of Major League Soccer (MLS) All-Star voting, you can now play chess against MLS star Dejan Jovelji&#263! A dangerous player on the field, Joveljić also knows how to score over the chessboard. With a jaw-dropping 2217 rating,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-dejan-joveljic-bot",
-         "pubDate" : "Mon, 18 May 2026 08:00:00",
-         "title" : "Challenge The World's 'Best Chess Soccer Player' And MLS Star Striker Dejan Jovelji&#263"
-      },
-      {
          "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, IM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -592,14 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
          "pubDate" : "Sun, 17 May 2026 09:13:29",
          "title" : "European Youth Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Almost 1,300 players from 30 states competed in Round Rock, Texas to determine the nation's top middle school chess players <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Round Rock, TX: The 501(c)3 US Chess Federation's 2026 National Middle School (K-8) Championship took place from May 15-17 at Kalahari Resorts &amp; Conventions. A total of just under 1,300 players from 30 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship until becoming the National Middle School Championship in 2022.The individual K-8 Champion is:IM Bryan Enming Lin, 8th Grade, Hunter College Elementary and High School, New York, New York (7/7)L",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-national-middle-school-championship-results",
-         "pubDate" : "Sun, 17 May 2026 00:00:00",
-         "title" : "Flash Report: National Middle School Championship Results"
       },
       {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
          "pubDate" : "Mon, 11 May 2026 09:10:00",
          "title" : "Sardinia World Chess Festival 2026 - "
-      },
-      {
-         "description" : "The 7th European Small Nations Individual Chess Championship and the 3rd European Small Nations Individual Women's Chess Championship will take place from Saturday, 21st of November (arrival day) to Sunday, 29th of November (departure day) in Monte-Carlo, Monaco. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment from move 1. The following []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2026-invitation/",
-         "pubDate" : "Sat, 09 May 2026 17:18:13",
-         "title" : "European Small Nations Individual Chess Championship 2026 - Invitation"
       },
       {
          "description" : " The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. Hans Moke Niemann held off a fabulous Caruana challenge on the final day to win by half a point. Wesley So was a point further back. World Championship rivals Gukesh and Sindarov met and Gukesh won the rapid game and Sindarov both blitz. The rapid games scored double the blitz game in the combined standing.",
