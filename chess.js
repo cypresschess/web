@@ -10,14 +10,6 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "In this episode of The Underdog, Robert presents a game from the 25th European Women's Chess Championship 2026 in Batumi, Georgia. As he has done in several previous episodes, the featured game is not from the opening round but from round four. The talented Armenian player Polina Kobak faced IM Stavroula Tsolakidou of Greece, one of the tournament favourites, and met the King's Indian Defence with impressive play. Interestingly, both players had opportunities to force a draw, but neither was willing to settle for half a point.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/1900-beats-im-with-2400-the-underdog",
-         "pubDate" : "Sat, 30 May 2026 13:35:03",
-         "title" : "1900 beats IM with 2400 - The Underdog"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131409788.cms\" />While Nihal and his S8UL teammate Aravindh Chithambaram have both successfully qualified for the upcoming Esports World Cup (EWC) 2026 Chess main event, Nihal stands alone as India's premier direct invitee for the country-based ENC tournament, where he will represent Team India Esports.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
          "pubDate" : "Mon, 11 May 2026 09:10:00",
          "title" : "Sardinia World Chess Festival 2026 - "
-      },
-      {
-         "description" : " The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabiano Caruana, Javokhir Sindarov and Jan Krzysztof Duda. Hans Moke Niemann held off a fabulous Caruana challenge on the final day to win by half a point. Wesley So was a point further back. World Championship rivals Gukesh and Sindarov met and Gukesh won the rapid game and Sindarov both blitz. The rapid games scored double the blitz game in the combined standing.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
-         "pubDate" : "Sat, 9 May 2026 16:46:00",
-         "title" : "GCT Super Rapid & Blitz Poland 2026 - Games and Results"
       }
    ]
 }
