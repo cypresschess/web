@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-05-29","20","<a href=https://ratings.uschess.org/event/202605290293 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2026-05-29","42","<a href=https://ratings.uschess.org/event/202605290183 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-26","17","<a href=https://ratings.uschess.org/event/202605260243 target='_blank'>MAY TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-05-25","193","<a href=https://ratings.uschess.org/event/202605250163 target='_blank'>81st Texas State & Amateur Championship (In Memory of Luis Salinas)</a>",
 "HOUSTON","2026-05-25","24","<a href=https://ratings.uschess.org/event/202605250073 target='_blank'>Bellaire Spring Scholastic 2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-03-06","16","<a href=https://ratings.uschess.org/event/202603060213 target='_blank'>FBCC 2026 National Dress in Blue Op</a>",
 "HOUSTON","2026-03-06","17","<a href=https://ratings.uschess.org/event/202603060163 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-03-01","10","<a href=https://ratings.uschess.org/event/202603010363 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
-"SUGAR LAND","2026-02-28","3","<a href=https://ratings.uschess.org/event/202602281253 target='_blank'>Spring-02-28-2026</a>",
-"HOUSTON","2026-02-28","8","<a href=https://ratings.uschess.org/event/202602281083 target='_blank'>FEB 28th- SATURDAY SWISS</a>",
 ]);
