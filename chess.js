@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round five, leader Alireza Firouzja plays white against Vincent Keymer, while perennial favourite Magnus Carlsen faces Wesley So, also with white. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Sat, 30 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "In this episode of The Underdog, Robert presents a game from the 25th European Women's Chess Championship 2026 in Batumi, Georgia. As he has done in several previous episodes, the featured game is not from the opening round but from round four. The talented Armenian player Polina Kobak faced IM Stavroula Tsolakidou of Greece, one of the tournament favourites, and met the King's Indian Defence with impressive play. Interestingly, both players had opportunities to force a draw, but neither was willing to settle for half a point.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/1900-beats-im-with-2400-the-underdog",
+         "pubDate" : "Sat, 30 May 2026 13:35:03",
+         "title" : "1900 beats IM with 2400 - The Underdog"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131409788.cms\" />While Nihal and his S8UL teammate Aravindh Chithambaram have both successfully qualified for the upcoming Esports World Cup (EWC) 2026 Chess main event, Nihal stands alone as India's premier direct invitee for the country-based ENC tournament, where he will represent Team India Esports.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-nihal-sarin-became-first-indian-chess-player-to-get-esports-nations-cup-invite-will-he-be-the-only-one/articleshow/131409788.cms",
+         "pubDate" : "Sat, 30 May 2026 13:03:39",
+         "title" : "Explained: How Nihal Sarin secured India's first-ever Esports Nations Cup chess invite"
+      },
+      {
+         "description" : "We live in an ever faster moving world. With AI, seemingly everything is possible, nearly instantly. You can build apps, learn quicker, have a pocket therapist (highly recommend a real one instead). You name it. But there is one thing you can't outsource to AI: your chess improvement. Skill Is All You Just as you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
+         "pubDate" : "Sat, 30 May 2026 13:00:00",
+         "title" : "You Can't Outsorce Chess Improvement"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Sabrina Vega | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -736,22 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
          "pubDate" : "Sat, 9 May 2026 16:46:00",
          "title" : "GCT Super Rapid & Blitz Poland 2026 - Games and Results"
-      },
-      {
-         "description" : "Six months ago, I wrote about my challenge to stick to my plan without interpreting results along the way. The main idea was to focus on execution of what I believe to be the right work, without getting discouraged by a lack of short-term results. Here is how this period went. How It Felt The []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/trust-the-process-results/",
-         "pubDate" : "Sat, 09 May 2026 13:00:00",
-         "title" : "I Stopped Checking My Numbers For 6 Months"
-      },
-      {
-         "description" : "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Ahead of the final day of action, Hans Niemann is the sole leader, with Wesley So standing close behind, at a mere half-point distance. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-poland-2026-live",
-         "pubDate" : "Sat, 09 May 2026 11:50:00",
-         "title" : "Super Rapid & Blitz Poland - Live!"
       }
    ]
 }
