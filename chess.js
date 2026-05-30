@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Sabrina Vega | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Sat, 30 May 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "The 2026 European Senior Chess Championship is set to commence this Monday, 1 June, in Acqui Terme, Italy. The event will take place from 1 to 11 June at the Acqui Terme Conference Centre. The event is played in two age categories: 50+ and 65+, Open and Women's sections separately. The tournament gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. The top seeds of the Open 50+ competition are: GM Jean-Marc []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-starts-in-italy/",
+         "pubDate" : "Sat, 30 May 2026 09:35:18",
+         "title" : "European Senior Chess Championship 2026 starts in Italy"
+      },
+      {
          "description" : "What do a teenage endgame played almost blindfolded (in every sense) in 1977 and a 239-move grandmaster game from the Czech Extraliga in 2016 have in common? In Part 6 of this series, Valery Golubenko combines personal memory, endgame tablebases, and hard logic to show how easily won positions can turn into marathon absurdities - and why some \"record\" games may owe their length not to difficulty, but to something far more human.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-6",
          "pubDate" : "Sat, 30 May 2026 09:00:00",
          "title" : "A Game That Outlasted the Day (6)"
+      },
+      {
+         "description" : "No. Candidate Name 1 Debojyoti Bose 2 Dhananjaya Sabat 3 Anubhav Bal 4 Akhil Bvs 5 Bhaskar Sri Viswaroopanand 6 Tintumon Prakashan 7 Baivab Mishra",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-in-bhubaneshwar-on-17-18-january-2026/",
+         "pubDate" : "Sat, 30 May 2026 07:54:29",
+         "title" : "Certificate of SNA Seminar & Exam in Bhubaneshwar on 17 & 18 January 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131404330.cms\" />Magnus Carlsen's father, Henrik, expressed concern over the immense pressure faced by young chess prodigies like D Gukesh after winning world titles. He highlighted the unique challenges of handling global expectations at such an early age, contrasting Gukesh's Indian background with Magnus's Norwegian upbringing. Henrik also reflected on his own journey as a parent of a chess icon.",
@@ -690,28 +714,12 @@ news_feed (
          "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
       },
       {
-         "description" : "The 2026 Mitropa Chess Cup concluded yesterday in Sankt Veit an der Glan, Austria! Taking place from 1-10 May, the event was played in two sections: Open and Women, and marked half a century since the competition was established. The competition was dedicated to the memory of Professor Kurt Jungwirth, the tournament's founder, who passed away in May 2025 at the age of 95. Italy emerged as a convincing winner of the Open tournament, scoring 16 match points, with eight []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/italy-and-ukraine-win-mitropa-chess-cup-2026/",
-         "pubDate" : "Mon, 11 May 2026 10:39:38",
-         "title" : "Italy and Ukraine win Mitropa Chess Cup 2026"
-      },
-      {
          "description" : " Argentinian chess player Faustino Oro finally has become a Grandmaster after a six points from nine games performance at the Sardinia World Chess Festival. Oro had previous norms at the Legends and Prodigies tournament in September 2025 and the Magistral Szmetan-Giardelli in December 2025. Oro had been chasing the third and final mark since then but couldn't break Abhimanyu Mishra's record of 12 years, 4 months, 25 days. Oro finally got his title at age of 12 years, 6 months, 26 days, the second youngest in history beating third place Sergey Karjakin by a few days. Oro earned the title after a win over Bartlomiej Niedbala in round 8 but his tournament ended on a bit of a whimper with a loss",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/faustino-oro-earns-his-final-gm-norm-in-sardinia",
          "pubDate" : "Mon, 11 May 2026 09:51:00",
          "title" : "Faustino Oro earns his final GM norm in Sardinia - 9"
-      },
-      {
-         "description" : "Rank Name Rank Name 1 NANDISH V S 1 PRATITEE BORDOLOI 2 ETHAN VAZ 2 SARANYA DEVI NARAHARI 3 MADHVENDRA SHARMA 3 ANUSHKA BAPU KUTWAL",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-under-17-chess-championship-in-gujarat-from-30-march-to-07-april-2026/",
-         "pubDate" : "Mon, 11 May 2026 09:24:18",
-         "title" : "Certificate :National Under 17 Chess Championship in Gujarat from 30 March to 07 April 2026"
       },
       {
          "description" : " The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on 6/9 was Faustino Oro who in spite of a loss to Nepomniachtchi in the final round earned his final GM norm at 12 years, 6 months, 26 days, the second youngest in history, a couple of months behind Abhimanyu Mishra.",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/super-poland-2026-live",
          "pubDate" : "Sat, 09 May 2026 11:50:00",
          "title" : "Super Rapid & Blitz Poland - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130974067.cms\" />Abhijeet Gupta has alleged that his Rs 5.5 lakh winner's prize from the Odisha GM Open, held in January 2026 with a Rs 45 lakh prize pool, remains unpaid. The Arjuna Awardee criticised organisers and the All India Chess Federation for a lack of accountability, saying repeated emails went unanswered. Gupta urged authorities to protect the \"dignity and trust\" of Indian chess players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/shocking-arjuna-awardee-gm-abhijeet-gupta-slams-chess-federation-over-unpaid-rs-5-5-lakh-prize-money/articleshow/130974067.cms",
-         "pubDate" : "Sat, 09 May 2026 09:14:25",
-         "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
       }
    ]
 }
