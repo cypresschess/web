@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What do a teenage endgame played almost blindfolded (in every sense) in 1977 and a 239-move grandmaster game from the Czech Extraliga in 2016 have in common? In Part 6 of this series, Valery Golubenko combines personal memory, endgame tablebases, and hard logic to show how easily won positions can turn into marathon absurdities - and why some \"record\" games may owe their length not to difficulty, but to something far more human.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-6",
+         "pubDate" : "Sat, 30 May 2026 09:00:00",
+         "title" : "A Game That Outlasted the Day (6)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131404330.cms\" />Magnus Carlsen's father, Henrik, expressed concern over the immense pressure faced by young chess prodigies like D Gukesh after winning world titles. He highlighted the unique challenges of handling global expectations at such an early age, contrasting Gukesh's Indian background with Magnus's Norwegian upbringing. Henrik also reflected on his own journey as a parent of a chess icon.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/reaching-the-top-at-18-must-be-challenging-magnus-carlsens-father-on-gukeshs-rise/articleshow/131404330.cms",
+         "pubDate" : "Sat, 30 May 2026 05:21:28",
+         "title" : "'Reaching the top at 18 must be challenging': Magnus Carlsen's father on Gukesh's rise"
+      },
+      {
          "description" : "Anastasiia Hnatyshyn took the sole lead at the European Women's Championship in Batumi after defeating Elmira Mirzoeva to reach 5/5. The 15-year-old Ukrainian WFM, seeded 76th in the 165-player field, has now scored four consecutive upset wins. Oliwia Kiolbasa from Poland and Gulenay Aydin from T&uuml;rkiye stand half a point behind, while an 11-player group on 4/5 includes Ulviyya Fataliyeva, Anna Ushenina and Meri Arabidze. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
