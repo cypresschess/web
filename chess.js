@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-5",
+         "pubDate" : "Sat, 30 May 2026 13:17:00",
+         "title" : "Wesley So Beats Carlsen, Gukesh Scores 1st Classical Win, Divya Overtakes Assaubayeva"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131409788.cms\" />While Nihal and his S8UL teammate Aravindh Chithambaram have both successfully qualified for the upcoming Esports World Cup (EWC) 2026 Chess main event, Nihal stands alone as India's premier direct invitee for the country-based ENC tournament, where he will represent Team India Esports.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-at-visakhapatnam-02-03-may-2026/",
          "pubDate" : "Tue, 19 May 2026 09:12:43",
          "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
-      },
-      {
-         "description" : "We&#39;re excited to announce that you can now keep up with every FIDE rating change and ranking movement live on Chess.com! Keep an eye on your favorite players, learn about their latest results, and even see if they&#39;re playing a rated event right no...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-live-ratings",
-         "pubDate" : "Tue, 19 May 2026 07:18:00",
-         "title" : "Live Chess Ratings And Rankings Now Available On Chess.com"
       },
       {
          "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
