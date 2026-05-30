@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE World University Team Chess Championship 2026: Eight teams reach over-the-board final"
       },
       {
+         "description" : "GM Volodar Murzin won Freestyle Friday on May 29 with a wire-to-wire win in which he lost no games, taking the tournament outright on a 10/11 score for his first victory ever in the event. All of the top four spots were won without tiebreaks, in f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/murzin-wins-freestyle-friday-may-29-2026",
+         "pubDate" : "Fri, 29 May 2026 18:24:41",
+         "title" : "Murzin Dominates For 1st Freestyle Friday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131390515.cms\" />D Gukesh enjoyed a funny birthday moment during Norway Chess 2026 celebrations as players sang for his 20th birthday before a sailing event in Oslo. Laughter erupted after Wesley So jokingly asked Javokhir Sindarov, Gukesh's future World Championship challenger, to sing a song. Earlier, Magnus Carlsen defeated Gukesh in Round 4, while Bibisara Assaubayeva continued leading the women's standings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -562,14 +570,6 @@ news_feed (
          "title" : "Chithambaram becomes first Indian to qualify for Esports World Cup 2026"
       },
       {
-         "description" : "GM Alireza Firouzja followed in the footsteps (not literally) of GM Tony Miles as an ankle injury forced him to play round five of the&#38;nbsp;Super Chess Classic Romania 2026 from a hotel bed. GM Javokhir Sindarov almost won that clash, but it was a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-5",
-         "pubDate" : "Mon, 18 May 2026 11:49:00",
-         "title" : "Firouzja Pulls Off Great Escape From Bed"
-      },
-      {
          "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, IM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/shocking-arjuna-awardee-gm-abhijeet-gupta-slams-chess-federation-over-unpaid-rs-5-5-lakh-prize-money/articleshow/130974067.cms",
          "pubDate" : "Sat, 09 May 2026 09:14:25",
          "title" : "Rs 5.5 lakh! Arjuna Awardee slams chess federation over unpaid prize money"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130969427.cms\" />Javokhir Sindarov defeated D Gukesh in their first-ever blitz clash at the Grand Chess Tour in Warsaw, avenging his earlier rapid loss to the World Champion. Gukesh's rare fist-pump celebration after that previous win had gone viral. With one win each, their growing rivalry now heads into a decisive final reverse-blitz showdown before this year's World Championship clash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-d-gukeshs-viral-first-pump-celebration-javokhir-sindarov-gets-his-revenge-watch/articleshow/130969427.cms",
-         "pubDate" : "Sat, 09 May 2026 02:18:33",
-         "title" : "After Gukesh's viral 'first pump' celebration, Sindarov gets revenge - Watch"
       }
    ]
 }
