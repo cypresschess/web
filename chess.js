@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417893.cms\" />At Norway Chess Round 5, D Gukesh bounced back from his loss to Magnus Carlsen by defeating R Praggnanandhaa in a tense classical game, climbing to third place. In the women's event, Divya Deshmukh scored her first classical win, beating Zhu Jiner to become sole leader. Meanwhile, Carlsen suffered a third classical defeat, losing to Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-outfoxes-r-praggnanandhaa-magnus-carlsen-loses-again-divya-deshmukh-now-sole-leader/articleshow/131417893.cms",
+         "pubDate" : "Sun, 31 May 2026 02:28:38",
+         "title" : "Norway Chess: Gukesh outfoxes Praggnanandhaa; Carlsen loses again"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk claimed his 17th career Bullet Brawl title on Saturday, outlasting a 171-player titled field to win the latest edition with a score of 154 points. The Ukrainian speed-chess specialist finished nine points clear of IM Renato Te...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-30-2026",
+         "pubDate" : "Sat, 30 May 2026 19:59:31",
+         "title" : "Bortnyk Outlasts Fierce Competition, Claims 17th Bullet Brawl Title"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round five, leader Alireza Firouzja plays white against Vincent Keymer, while perennial favourite Magnus Carlsen faces Wesley So, also with white. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won...",
+         "description" : "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two Black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-5",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-3",
          "pubDate" : "Wed, 20 May 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 3"
-      },
-      {
-         "description" : "GM Alexey Sarana was your winner in Titled Tuesday on May 19, scoring 9.5 points and coming out ahead of GM Christopher Yoo in tiebreaks. GM Hikaru Nakamura finished third for a second straight week, while GM Arjun Erigaisi took fourth place, havi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-may-19-2026",
-         "pubDate" : "Tue, 19 May 2026 11:28:58",
-         "title" : "Nakamura Sets Record, But Sarana Wins Titled Tuesday"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
