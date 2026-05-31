@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In Sunday's sixth round, defending champion Magnus Carlsen plays white against tournament leader Alireza Firouzja. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Sun, 31 May 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Divya Deshmukh scored a win with black in her classical game against Zhu Jiner in round five of the Norway Chess Women tournament. Deshmukh overtook former sole leader Bibisara Assaubayeva in the standings. Assaubayeva herself drew against Anna Muzychuk and lost in Armageddon. Deshmukh leads the field with 8&frac12; points, followed by Assaubayeva on 8 points. In the duel between Ju Wenjun and Humpy Koneru, the Indian GM won the Armageddon game. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-5",
+         "pubDate" : "Sun, 31 May 2026 15:30:00",
+         "title" : "Norway Chess Women: Deshmukh takes the lead"
+      },
+      {
          "description" : "15-year-old Ukrainian WFM Anastasiia Hnatyshyn continues to shine at the European Women's Chess Championship 2026! By scoring her sixth consecutive upset of the tournament, Hnatyshyn maintained her sole lead and perfect run with a flawless 6/6 points just ahead of today's rest day. Anastasiia Hnatyshyn (UKR, 2207) was White against Polish representative IM Oliwia Kiolbasa (POL, 2397) yesterday. While it initially seemed Black would have no trouble equalizing in the opening, Kiolbasa played inaccurate 12&hellip;a4?, instantly handing White the upper []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-30-2026",
          "pubDate" : "Sat, 30 May 2026 19:59:31",
          "title" : "Bortnyk Outlasts Fierce Competition, Claims 17th Bullet Brawl Title"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In round five, leader Alireza Firouzja plays white against Vincent Keymer, while perennial favourite Magnus Carlsen faces Wesley So, also with white. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Sat, 30 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two Black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won...",
