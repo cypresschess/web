@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old Ukrainian WFM Anastasiia Hnatyshyn continues to shine at the European Women's Chess Championship 2026! By scoring her sixth consecutive upset of the tournament, Hnatyshyn maintained her sole lead and perfect run with a flawless 6/6 points just ahead of today's rest day. Anastasiia Hnatyshyn (UKR, 2207) was White against Polish representative IM Oliwia Kiolbasa (POL, 2397) yesterday. While it initially seemed Black would have no trouble equalizing in the opening, Kiolbasa played inaccurate 12&hellip;a4?, instantly handing White the upper []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-maintains-perfect-run-at-ewcc2026/",
+         "pubDate" : "Sun, 31 May 2026 11:20:47",
+         "title" : "15-year-old Anastasiia Hnatyshyn maintains perfect run at EWCC2026"
+      },
+      {
          "description" : "Wesley So and Gukesh Dommaraju won their classical games with the black pieces in round five of Norway Chess, beating Magnus Carlsen and Praggnanandhaa Rameshbabu respectively. Alireza Firouzja kept the sole lead after drawing his classical game against Vincent Keymer and then winning the Armageddon decider. So is now his closest pursuer, while Gukesh moved up to third place. | Photo: Norway Chess / Tor Nilssen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://aicf.in/asian-rapid-blitz-chess-championship-2026-scheduled-to-be-held-from-27th-to-31st-july-2026-at-hong-kong/",
          "pubDate" : "Wed, 13 May 2026 07:25:49",
          "title" : "Asian Rapid & Blitz Chess Championship 2026, scheduled to be held from 27th to 31st July 2026 at Hong Kong."
-      },
-      {
-         "description" : "We are proud to spotlight a landmark moment for the chess community: the C.E.S.S. Project &#8220;Competences and Higher Education through Chess&#8221; a groundbreaking EU-funded initiative awarded to the Romanian Chess Federation under the Smart Growth, Digitalization and Financial Instruments Programme 2021-2027 (PoCIDIF). With a total investment of 4,5 million euros, this is one of the most significant European funding achievements in the history of chess a powerful testament to the sport's growing recognition as a tool for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/introducing-c-e-s-s-a-historic-milestone-for-chess-in-europe/",
-         "pubDate" : "Wed, 13 May 2026 07:11:35",
-         "title" : "Introducing C.E.S.S. - A Historic Milestone for Chess in Europe"
       },
       {
          "description" : "46th Chess Olympiad is scheduled to held in Samarkand, Uzbekistan, from September 15-27, 2026,As per the selection regulations of AICF, the final team will be selected",
