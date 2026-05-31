@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So and Gukesh Dommaraju won their classical games with the black pieces in round five of Norway Chess, beating Magnus Carlsen and Praggnanandhaa Rameshbabu respectively. Alireza Firouzja kept the sole lead after drawing his classical game against Vincent Keymer and then winning the Armageddon decider. So is now his closest pursuer, while Gukesh moved up to third place. | Photo: Norway Chess / Tor Nilssen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-5",
+         "pubDate" : "Sun, 31 May 2026 06:25:00",
+         "title" : "Norway Chess: So takes down Carlsen, Gukesh grabs first classical win"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417893.cms\" />At Norway Chess Round 5, D Gukesh bounced back from his loss to Magnus Carlsen by defeating R Praggnanandhaa in a tense classical game, climbing to third place. In the women's event, Divya Deshmukh scored her first classical win, beating Zhu Jiner to become sole leader. Meanwhile, Carlsen suffered a third classical defeat, losing to Wesley So.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2026 starts in Italy"
       },
       {
-         "description" : "What do a teenage endgame played almost blindfolded (in every sense) in 1977 and a 239-move grandmaster game from the Czech Extraliga in 2016 have in common? In Part 6 of this series, Valery Golubenko combines personal memory, endgame tablebases, and hard logic to show how easily won positions can turn into marathon absurdities - and why some \"record\" games may owe their length not to difficulty, but to something far more human.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-6",
-         "pubDate" : "Sat, 30 May 2026 09:00:00",
-         "title" : "A Game That Outlasted the Day (6)"
-      },
-      {
          "description" : "No. Candidate Name 1 Debojyoti Bose 2 Dhananjaya Sabat 3 Anubhav Bal 4 Akhil Bvs 5 Bhaskar Sri Viswaroopanand 6 Tintumon Prakashan 7 Baivab Mishra",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -90,28 +90,12 @@ news_feed (
          "title" : "'Reaching the top at 18 must be challenging': Magnus Carlsen's father on Gukesh's rise"
       },
       {
-         "description" : "Anastasiia Hnatyshyn took the sole lead at the European Women's Championship in Batumi after defeating Elmira Mirzoeva to reach 5/5. The 15-year-old Ukrainian WFM, seeded 76th in the 165-player field, has now scored four consecutive upset wins. Oliwia Kiolbasa from Poland and Gulenay Aydin from T&uuml;rkiye stand half a point behind, while an 11-player group on 4/5 includes Ulviyya Fataliyeva, Anna Ushenina and Meri Arabidze. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-5",
-         "pubDate" : "Sat, 30 May 2026 00:40:00",
-         "title" : "Batumi: 15-year-old WFM Anastasiia Hnatyshyn leads with perfect 5/5"
-      },
-      {
          "description" : "15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) emerged as the sole leader of the European Women's Chess Championship 2026 after five played rounds! Anastasiia Hnatyshyn today defeated WGM Elmira Mirzoeva (ENG, 2265) to remain the only player in the event with a perfect score of 5/5 points. Hnatyshyn was playing with the Black pieces and seemed to be surprised by Mirzoeva's opening preparation and aggressive 8.h4 approach. The young Ukrainian didn't play accurately early on, allowing Elmira Mirzoeva to earn an []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-grabs-the-sole-lead-in-european-womens-chess-championship-2026/",
          "pubDate" : "Fri, 29 May 2026 20:03:54",
          "title" : "15-year-old Anastasiia Hnatyshyn grabs the sole lead in European Women's Chess Championship 2026"
-      },
-      {
-         "description" : "Eight teams have qualified online for the final stage of the 2026 FIDE World University Team Championship, which will be held in Almaty from 4 to 9 August. They will be joined by eight wildcard entries in a 16-team over-the-board final. The event will feature a group stage followed by knockouts, with the winners earning the FIDE World University Team Champion title and a €25,000 first prize.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-university-team-championship-2026-second-stage",
-         "pubDate" : "Fri, 29 May 2026 19:50:00",
-         "title" : "FIDE World University Team Chess Championship 2026: Eight teams reach over-the-board final"
       },
       {
          "description" : "GM Volodar Murzin won Freestyle Friday on May 29 with a wire-to-wire win in which he lost no games, taking the tournament outright on a 10/11 score for his first victory ever in the event. All of the top four spots were won without tiebreaks, in f...",
