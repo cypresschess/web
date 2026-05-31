@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess can be read alongside Egyptian ideas of order, judgement and self-discipline. Beginning with senet and its symbolic links to the afterlife, the text follows the later arrival of shatranj in Islamic Egypt and considers how the chessboard became a useful metaphor for ethics, strategy and human limits. These connections are treated cautiously, avoiding claims of direct continuity where evidence is uncertain. | Image: Painting in tomb of Egyptian queen Nefertari (1295-1255 BCE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-senet-egyptian-order",
+         "pubDate" : "Sun, 31 May 2026 21:40:00",
+         "title" : "Chess, senet and the Egyptian idea of order"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In Sunday's sixth round, defending champion Magnus Carlsen plays white against tournament leader Alireza Firouzja. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
          "pubDate" : "Sun, 31 May 2026 16:45:00",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge against GM Alirez...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-6",
+         "pubDate" : "Sun, 31 May 2026 13:15:00",
+         "title" : "Wesley So Wrests Lead From Firouzja, Assaubayeva Regains Women's Lead"
       },
       {
          "description" : "15-year-old Ukrainian WFM Anastasiia Hnatyshyn continues to shine at the European Women's Chess Championship 2026! By scoring her sixth consecutive upset of the tournament, Hnatyshyn maintained her sole lead and perfect run with a flawless 6/6 points just ahead of today's rest day. Anastasiia Hnatyshyn (UKR, 2207) was White against Polish representative IM Oliwia Kiolbasa (POL, 2397) yesterday. While it initially seemed Black would have no trouble equalizing in the opening, Kiolbasa played inaccurate 12&hellip;a4?, instantly handing White the upper []",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2026-2027/",
          "pubDate" : "Wed, 20 May 2026 07:00:16",
          "title" : "Winton British Chess Solving Championship 2026-2027"
-      },
-      {
-         "description" : "GM Alireza Firouzja has withdrawn from the Super Chess Classic Romania 2026 following an ankle injury sustained during the event, the Grand Chess Tour announced on Wednesday. Despite the withdrawal, the 22-year-old is expected to travel to Oslo th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-withdraws-from-gct-romania",
-         "pubDate" : "Wed, 20 May 2026 06:29:00",
-         "title" : "Firouzja Withdraws From GCT Romania After Ankle Injury"
       },
       {
          "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Middle School (K-8) Championship. These photos are categorized and tagged to the best of our ability. All coverage from this event can be found here.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.All photos are by Javier Carrera unless labeled otherwise. Side Events:K-8 Blitz ChampionshipFirst place: Ethan Guo (CA) Not Pictured Second place (co-champion): Jashith Karthi (CA)<br> <br> <br> <br> Image<br> <br> <br> <b",
