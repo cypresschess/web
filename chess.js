@@ -10,28 +10,12 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "Divya Deshmukh scored a win with black in her classical game against Zhu Jiner in round five of the Norway Chess Women tournament. Deshmukh overtook former sole leader Bibisara Assaubayeva in the standings. Assaubayeva herself drew against Anna Muzychuk and lost in Armageddon. Deshmukh leads the field with 8&frac12; points, followed by Assaubayeva on 8 points. In the duel between Ju Wenjun and Humpy Koneru, the Indian GM won the Armageddon game. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-women-5",
-         "pubDate" : "Sun, 31 May 2026 15:30:00",
-         "title" : "Norway Chess Women: Deshmukh takes the lead"
-      },
-      {
          "description" : "15-year-old Ukrainian WFM Anastasiia Hnatyshyn continues to shine at the European Women's Chess Championship 2026! By scoring her sixth consecutive upset of the tournament, Hnatyshyn maintained her sole lead and perfect run with a flawless 6/6 points just ahead of today's rest day. Anastasiia Hnatyshyn (UKR, 2207) was White against Polish representative IM Oliwia Kiolbasa (POL, 2397) yesterday. While it initially seemed Black would have no trouble equalizing in the opening, Kiolbasa played inaccurate 12&hellip;a4?, instantly handing White the upper []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-maintains-perfect-run-at-ewcc2026/",
          "pubDate" : "Sun, 31 May 2026 11:20:47",
          "title" : "15-year-old Anastasiia Hnatyshyn maintains perfect run at EWCC2026"
-      },
-      {
-         "description" : "Wesley So and Gukesh Dommaraju won their classical games with the black pieces in round five of Norway Chess, beating Magnus Carlsen and Praggnanandhaa Rameshbabu respectively. Alireza Firouzja kept the sole lead after drawing his classical game against Vincent Keymer and then winning the Armageddon decider. So is now his closest pursuer, while Gukesh moved up to third place. | Photo: Norway Chess / Tor Nilssen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-5",
-         "pubDate" : "Sun, 31 May 2026 06:25:00",
-         "title" : "Norway Chess: So takes down Carlsen, Gukesh grabs first classical win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417893.cms\" />At Norway Chess Round 5, D Gukesh bounced back from his loss to Magnus Carlsen by defeating R Praggnanandhaa in a tense classical game, climbing to third place. In the women's event, Divya Deshmukh scored her first classical win, beating Zhu Jiner to become sole leader. Meanwhile, Carlsen suffered a third classical defeat, losing to Wesley So.",
@@ -72,14 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
          "pubDate" : "Sat, 30 May 2026 13:00:00",
          "title" : "You Can't Outsorce Chess Improvement"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Sabrina Vega | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Sat, 30 May 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "The 2026 European Senior Chess Championship is set to commence this Monday, 1 June, in Acqui Terme, Italy. The event will take place from 1 to 11 June at the Acqui Terme Conference Centre. The event is played in two age categories: 50+ and 65+, Open and Women's sections separately. The tournament gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. The top seeds of the Open 50+ competition are: GM Jean-Marc []",
