@@ -26,6 +26,22 @@ news_feed (
          "title" : "GM Bassem Amin vs. Swindler (The Fox, Level = GM)"
       },
       {
+         "description" : "GM Arjun Erigaisi lost a tight tiebreak match to GM Magnus Carlsen in the TePe Sigeman Chess Tournament in May. While he couldn&#39;t quite take first place, Arjun&#39;s strong 5/8 performance earned him 10 rating points, raising his rating to 2761. That ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-returns-to-top-10-in-june-rating-list",
+         "pubDate" : "Mon, 01 Jun 2026 14:52:50",
+         "title" : "Arjun Returns To Top 10 In June Rating List"
+      },
+      {
+         "description" : "GM Wesley So leads Norway Chess 2026 after round seven, with GM Alireza Firouzja 2.5 points behind. World Champion Gukesh Dommaraju achieved a winning position against So but couldn&#39;t see it through in the classical game; despite winning the armag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-7",
+         "pubDate" : "Mon, 01 Jun 2026 13:27:00",
+         "title" : "Wesley So Survives Against Gukesh In Classical, Assaubayeva Extends Lead"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +58,12 @@ news_feed (
          "title" : "Live games link for 4th Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) & (Category B)"
       },
       {
-         "description" : "Wesley So took the lead at Norway Chess after beating Praggnanandhaa Rameshbabu in round six, while Alireza Firouzja lost his long-held first place following a defeat against Magnus Carlsen. Vincent Keymer scored his first win of the event by defeating world champion Gukesh Dommaraju. All three classical games were won by the player with the white pieces in battles involving technical precision more than brilliant tactical shots. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-6",
-         "pubDate" : "Mon, 01 Jun 2026 07:40:00",
-         "title" : "Norway Chess: Carlsen beats Firouzja, So grabs the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131432528.cms\" />Round 6 of Norway Chess brought a dramatic reversal for India as D Gukesh, R Praggnanandhaa, and Divya Deshmukh all suffered costly classical defeats in the reverse fixtures. Vincent Keymer outplayed Gukesh, Wesley So overcame Praggnanandhaa in a superior endgame, and Women's World Champion Ju Wenjun defeated Divya. Magnus Carlsen returned to winning ways against Alireza Firouzja, while Koneru Humpy lost her Armageddon tie-break, capping a difficult day for India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-gukesh-praggnanandhaa-divya-deshmukh-all-suffer-classical-defeats-magnus-carlsen-smiles-again/articleshow/131432528.cms",
          "pubDate" : "Mon, 01 Jun 2026 02:39:46",
          "title" : "Norway Chess: Gukesh, Pragg, Divya all suffer classical defeats"
-      },
-      {
-         "description" : "Chess can be read alongside Egyptian ideas of order, judgement and self-discipline. Beginning with senet and its symbolic links to the afterlife, the text follows the later arrival of shatranj in Islamic Egypt and considers how the chessboard became a useful metaphor for ethics, strategy and human limits. These connections are treated cautiously, avoiding claims of direct continuity where evidence is uncertain. | Image: Painting in tomb of Egyptian queen Nefertari (1295-1255 BCE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-senet-egyptian-order",
-         "pubDate" : "Sun, 31 May 2026 21:40:00",
-         "title" : "Chess, senet and the Egyptian idea of order"
       },
       {
          "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir...",
@@ -578,14 +578,6 @@ news_feed (
          "title" : "Carlsen Headlines Star-Studded Return Of World Team Rapid & Blitz Championships"
       },
       {
-         "description" : "GM Vincent Keymer increased his lead to a full point over the Super Chess Classic Romania 2026 field after GM Alireza Firouzja&#39;s withdrawal from the event gave him a forfeit win. All the other games in round six were drawn, with GMs Wesley So (vs....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-6",
-         "pubDate" : "Wed, 20 May 2026 11:14:00",
-         "title" : "Keymer Extends Lead Without Playing After Firouzja Drops Out"
-      },
-      {
          "description" : "Please find below IA FA SNA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -600,14 +592,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-mohali-on-31-jan-01-feb-2026/",
          "pubDate" : "Wed, 20 May 2026 08:22:55",
          "title" : "Certificate of SNA Seminar & Exam held in Mohali on 31 Jan & 01 Feb 2026"
-      },
-      {
-         "description" : "GMs Aravindh Chithambaram, Andrey Esipenko, Liem Le, and Alexey Sarana were the four players to qualify, through DreamHack Atlanta 2026, for the 2026 Esports World Cup Play-in. There, they will face the four other players who finish at the top of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-dreamhack-atlanta-aravindh-esipenko-liem-le-sarana",
-         "pubDate" : "Wed, 20 May 2026 08:09:00",
-         "title" : "Aravindh, Esipenko, Liem Le, Sarana Qualify For Esports World Cup Play-in"
       },
       {
          "description" : "Organised by the British Chess Problem Society!&#160; Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play and...",
