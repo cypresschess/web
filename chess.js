@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Leader Wesley So plays black against Gukesh Dommaraju in round seven, while defending champion Magnus Carlsen faces Vincent Keymer, also with black. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Mon, 01 Jun 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Grandmaster Amin Bassem takes on the Swindler on GM level and quickly guides the game into a strategically rich King's Indian structure. Throughout the game, Amin demonstrates deep positional understanding, carefully evaluating dynamic imbalances and resisting tempting material gains when they would strengthen Fritz's active pieces. After a tense middlegame battle full of subtle decisions, both sides agree to a draw, and the post game analysis reveals just how finely balanced the struggle had been.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-bassem-amin-vs-swindler-the-fox-level-gm",
+         "pubDate" : "Mon, 01 Jun 2026 15:19:25",
+         "title" : "GM Bassem Amin vs. Swindler (The Fox, Level = GM)"
+      },
+      {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Mon, 01 Jun 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "Kindly find attached live games link for the&#160;4th&#160;Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) &#38; (Category B) Below 2000 ongoing at Ahmedabad, Gujarat from&#160;1st&#160;to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-4th-gujarat-international-open-grandmasters-chess-tournament-2026-category-a-category-b/",
+         "pubDate" : "Mon, 01 Jun 2026 09:56:15",
+         "title" : "Live games link for 4th Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) & (Category B)"
+      },
+      {
+         "description" : "Wesley So took the lead at Norway Chess after beating Praggnanandhaa Rameshbabu in round six, while Alireza Firouzja lost his long-held first place following a defeat against Magnus Carlsen. Vincent Keymer scored his first win of the event by defeating world champion Gukesh Dommaraju. All three classical games were won by the player with the white pieces in battles involving technical precision more than brilliant tactical shots. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-6",
+         "pubDate" : "Mon, 01 Jun 2026 07:40:00",
+         "title" : "Norway Chess: Carlsen beats Firouzja, So grabs the lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131432528.cms\" />Round 6 of Norway Chess brought a dramatic reversal for India as D Gukesh, R Praggnanandhaa, and Divya Deshmukh all suffered costly classical defeats in the reverse fixtures. Vincent Keymer outplayed Gukesh, Wesley So overcame Praggnanandhaa in a superior endgame, and Women's World Champion Ju Wenjun defeated Divya. Magnus Carlsen returned to winning ways against Alireza Firouzja, while Koneru Humpy lost her Armageddon tie-break, capping a difficult day for India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-senet-egyptian-order",
          "pubDate" : "Sun, 31 May 2026 21:40:00",
          "title" : "Chess, senet and the Egyptian idea of order"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In Sunday's sixth round, defending champion Magnus Carlsen plays white against tournament leader Alireza Firouzja. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Sun, 31 May 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir...",
@@ -714,36 +746,12 @@ news_feed (
          "title" : "Asian Rapid & Blitz Chess Championship 2026, scheduled to be held from 27th to 31st July 2026 at Hong Kong."
       },
       {
-         "description" : "46th Chess Olympiad is scheduled to held in Samarkand, Uzbekistan, from September 15-27, 2026,As per the selection regulations of AICF, the final team will be selected",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/qualification-criteria-for-the-46th-chess-olympiad-2026/",
-         "pubDate" : "Wed, 13 May 2026 06:32:10",
-         "title" : "Qualification criteria for the 46th Chess Olympiad 2026"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131054548.cms\" />Koneru Humpy said only China's Zhu Jiner currently has the potential to break the 2600 Elo barrier and enter the Open world top-100 among women players. Humpy stressed that women need regular participation in Open tournaments to improve significantly. She also defended withdrawing from the Candidates event over safety concerns and called India's chess rise a \"Tamil Nadu boom\".",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/judit-polgar-and-hou-yifan-were-exceptions-koneru-humpy-urges-women-chess-players-to-play-more-open-tournaments/articleshow/131054548.cms",
          "pubDate" : "Wed, 13 May 2026 04:20:58",
          "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
-      },
-      {
-         "description" : " Argentinian chess player Faustino Oro finally has become a Grandmaster after a six points from nine games performance at the Sardinia World Chess Festival. Oro had previous norms at the Legends and Prodigies tournament in September 2025 and the Magistral Szmetan-Giardelli in December 2025. Oro had been chasing the third and final mark since then but couldn't break Abhimanyu Mishra's record of 12 years, 4 months, 25 days. Oro finally got his title at age of 12 years, 6 months, 26 days, the second youngest in history beating third place Sergey Karjakin by a few days. Oro earned the title after a win over Bartlomiej Niedbala in round 8 but his tournament ended on a bit of a whimper with a loss",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/faustino-oro-earns-his-final-gm-norm-in-sardinia",
-         "pubDate" : "Mon, 11 May 2026 09:51:00",
-         "title" : "Faustino Oro earns his final GM norm in Sardinia - 9"
-      },
-      {
-         "description" : " The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on 6/9 was Faustino Oro who in spite of a loss to Nepomniachtchi in the final round earned his final GM norm at 12 years, 6 months, 26 days, the second youngest in history, a couple of months behind Abhimanyu Mishra.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
-         "pubDate" : "Mon, 11 May 2026 09:10:00",
-         "title" : "Sardinia World Chess Festival 2026 - "
       }
    ]
 }
