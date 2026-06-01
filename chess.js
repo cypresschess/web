@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, and only four rounds left to be played before the announcement of the new European Champion. Playing on the top board, the 2023 European Women's Champion IM Meri Arabidze (GEO, 2409) defeated 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) to stop the Ukrainian rising star's perfect run, catching her at the top with a score of 6/7 points. In the meantime, IM Sabrina Vega Gutierrez []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/meri-arabidze-ends-anastasiia-hnatyshyns-perfect-run-in-ewcc2026/",
+         "pubDate" : "Mon, 01 Jun 2026 18:26:13",
+         "title" : "Meri Arabidze ends Anastasiia Hnatyshyn's perfect run in EWCC2026"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Leader Wesley So plays black against Gukesh Dommaraju in round seven, while defending champion Magnus Carlsen faces Vincent Keymer, also with black. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/full-report-lin-hunter-win-2026-national-middle-school-k-8-championship",
          "pubDate" : "Mon, 18 May 2026 00:00:00",
          "title" : "Full Report: Lin, Hunter Win 2026 National Middle School (K-8) Championship"
-      },
-      {
-         "description" : "The 2026 European Youth Chess Championship will take place from 2-13 November, 2026 in Hersonissos, Creta, Greece. The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The Championships will be played at ****Royal &#38; Imperial Belvedere Resort in Hersonissos, Crete, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
-         "pubDate" : "Sun, 17 May 2026 09:13:29",
-         "title" : "European Youth Chess Championship 2026 - Official invitation"
       },
       {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
