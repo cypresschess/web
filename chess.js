@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131432528.cms\" />Round 6 of Norway Chess brought a dramatic reversal for India as D Gukesh, R Praggnanandhaa, and Divya Deshmukh all suffered costly classical defeats in the reverse fixtures. Vincent Keymer outplayed Gukesh, Wesley So overcame Praggnanandhaa in a superior endgame, and Women's World Champion Ju Wenjun defeated Divya. Magnus Carlsen returned to winning ways against Alireza Firouzja, while Koneru Humpy lost her Armageddon tie-break, capping a difficult day for India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-gukesh-praggnanandhaa-divya-deshmukh-all-suffer-classical-defeats-magnus-carlsen-smiles-again/articleshow/131432528.cms",
+         "pubDate" : "Mon, 01 Jun 2026 02:39:46",
+         "title" : "Norway Chess: Gukesh, Pragg, Divya all suffer classical defeats"
+      },
+      {
          "description" : "Chess can be read alongside Egyptian ideas of order, judgement and self-discipline. Beginning with senet and its symbolic links to the afterlife, the text follows the later arrival of shatranj in Islamic Egypt and considers how the chessboard became a useful metaphor for ethics, strategy and human limits. These connections are treated cautiously, avoiding claims of direct continuity where evidence is uncertain. | Image: Painting in tomb of Egyptian queen Nefertari (1295-1255 BCE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge against GM Alirez...",
+         "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-6",
