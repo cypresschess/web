@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Wesley So enters the eighth round with a 2&frac12;-point lead over Alireza Firouzja. So faces Vinceny Keymer with black on Tuesday. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Tue, 02 Jun 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
          "pubDate" : "Tue, 02 Jun 2026 13:00:00",
          "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "Please find the results published on fide site https://arbiters.fide.com/news/11020",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fa-seminar-siliguri-from-22-24-may-2026/",
+         "pubDate" : "Tue, 02 Jun 2026 12:39:08",
+         "title" : "FA Seminar, Siliguri from 22-24 May 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131462907.cms\" />Indian Grandmaster Arjun Erigaisi has returned to the world's top 10, climbing to No. 8 in the June 2026 FIDE ratings after gaining 10 points. He is the only Indian in the top 10. Strong performances, including at the TePe Sigeman tournament in Malm&ouml;, boosted his ranking. Although he lost a playoff to Magnus Carlsen, Erigaisi's overall results secured his comeback among chess's elite.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-becomes-only-indian-chess-player-in-fide-top-10-after-latest-rankings-update/articleshow/131462907.cms",
+         "pubDate" : "Tue, 02 Jun 2026 12:03:31",
+         "title" : "Erigaisi becomes only Indian in FIDE top 10 after latest rankings update"
       },
       {
          "description" : "On the top board in round seven of the 2026 European Women's Championship in Batumi, 2023 European Champion Meri Arabidze (pictured left) defeated 15-year-old Anastasiia Hnatyshyn, bringing the Ukrainian youngster's winning streak to an end. With the victory, Arabidze caught up with Hnatyshyn in the standings. The third co-leader is Sabrina Vega Gutierrez, who defeated Ulviyya Fataliyeva. | Photos: European Chess Union",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-june-2026",
          "pubDate" : "Tue, 02 Jun 2026 10:00:00",
          "title" : "FIDE ratings - June 2026"
+      },
+      {
+         "description" : "Calling all speed addicts! The world&#39;s fastest players will meet again to battle in the next edition of the Bullet Chess Championship starting June 22. With a $50,000 prize fund and the most dangerous bullet players in the world, drama is all but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2026",
+         "pubDate" : "Tue, 02 Jun 2026 08:00:40",
+         "title" : "Bullet Chess Championship Returns June 22, Firouzja Leads Field To Defend His Crown"
       },
       {
          "description" : "Montenegro Chess Federation (MCF) and the European Chess Union (ECU) have the honor to invite all the National Federations members of the European Chess Union to participate in the European Junior U20 Chess Championship 2026 which will be held at Hotel Grand, Cetinje, Montenegro, from 5th August to 16th August 2026. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the []",
@@ -56,6 +88,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-divya-deshmukh-back-to-winning-ways-gukesh-magnus-carlsen-share-bottom-spots-despite-wins/articleshow/131453695.cms",
          "pubDate" : "Tue, 02 Jun 2026 03:14:49",
          "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
+      },
+      {
+         "description" : "Announcement: The next issue (July 2026) will be my last as editor of Check is in The Mail. As I transition into a lighter workload and embrace retirement, it feels like the right moment to step back from some of my editorial responsibilities. Thanks to Mike and JJ for allowing me to serve this community for as long as I have. It has been an honor to fill the editor post.In this issue I cover some of the games played by winners in two sections of the 2025 Victor Palciauskas Round Robin tournament. These sections were announced in the last issue's Front Office section. I provide equal coverage for two of the sections, and I have included two games and one puzzle from each winner of those sect",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-june-2026-equal-coverage",
+         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
+         "title" : "Check is in the Mail, June 2026: Equal Coverage!"
+      },
+      {
+         "description" : "1. DGT and ScoresheetsYou and your opponent are essaying a game 60 with a five-second delay (G60/5) on a DGT board in a US Chess rated contest. In those last few hurried minutes, you make a claim correctly. To no one's surprise, your opposition disagrees with your words. Of course, you stopped notating while your time was just about to run out; however, since it is a DGT board, the game data is being recorded by the board. What will the TD rule? A. The TD upholds your claim.B. Your opponent's score is incomplete so it can't be used.C. You forfeit for making a false claim.D. Your claim is denied. You need your accurate scoresheet to make a claim. 2. Observable Illegal MoveIt's the last five m",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-quizamania-runnin-wild",
+         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
+         "title" : "Just the Rules: Quizamania Is Runnin' Wild"
       },
       {
          "description" : "The seventh round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, and only four rounds left to be played before the announcement of the new European Champion. Playing on the top board, the 2023 European Women's Champion IM Meri Arabidze (GEO, 2409) defeated 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) to stop the Ukrainian rising star's perfect run, catching her at the top with a score of 6/7 points. In the meantime, IM Sabrina Vega Gutierrez []",
@@ -602,14 +650,6 @@ news_feed (
          "title" : "USA Wins 12 Medals, Top Honors at XV Pan-American U7-U17"
       },
       {
-         "description" : "FIDE has officially announced the star-studded team lineups for the upcoming FIDE World Rapid &#38;amp; Blitz Team Chess Championships 2026. Descending upon Hong Kong&#38;rsquo;s iconic Queen Elizabeth Stadium&#38;nbsp;June 17-21, this high-stakes festival of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-team-rapid-blitz-championships-announcement",
-         "pubDate" : "Wed, 20 May 2026 14:34:00",
-         "title" : "Carlsen Headlines Star-Studded Return Of World Team Rapid & Blitz Championships"
-      },
-      {
          "description" : "Please find below IA FA SNA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -666,36 +706,12 @@ news_feed (
          "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
       },
       {
-         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-elementary-school-championships-pt-3",
-         "pubDate" : "Tue, 19 May 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National Elementary School Championships, Pt. 3"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131183159.cms\" />Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-d-gukeshs-world-cship-challenger-sindarov-plays-classical-chess-against-bedridden-alireza-firouzja-watch/articleshow/131183159.cms",
          "pubDate" : "Mon, 18 May 2026 18:02:27",
          "title" : "Rare! Gukesh's challenger Sindarov plays against bedridden Firouzja - Watch"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131177362.cms\" />Indian Grandmaster Aravindh Chithambaram became the first Indian to qualify for the Chess event at Esports World Cup 2026 after winning the Road to EWC qualifier at DreamHack Atlanta. The 26-year-old defeated Alexey Sarana in a dramatic Armageddon decider to secure qualification, USD 15,000 prize money, and a place in the main event scheduled from August 11-15.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-aravindh-chithambaram-becomes-first-indian-chess-player-to-qualify-for-esports-world-cup-2026/articleshow/131177362.cms",
-         "pubDate" : "Mon, 18 May 2026 13:11:16",
-         "title" : "Chithambaram becomes first Indian to qualify for Esports World Cup 2026"
-      },
-      {
-         "description" : "When two members of the same team are playing against each other on Board 1 in the final round of a tournament, that's a pretty good indicator that that team is having a good event! But with so much talent spread throughout the country, it's a pretty rare sight in a national event.But on Sunday in Round Rock, Texas, IM Bryan Enming Lin was playing against his Hunter College Elementary and High School (Hunter) teammate CM Arabella Fang for the title at the 2026 National Middle School (K-8) Championship.Lin entered the round as the only player with a 6/6 score, and Fang was the only player with 5&frac12;/6 (after holding one of the tournament's highest-rated players, FM Megan Paragua, to a dra",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/full-report-lin-hunter-win-2026-national-middle-school-k-8-championship",
-         "pubDate" : "Mon, 18 May 2026 00:00:00",
-         "title" : "Full Report: Lin, Hunter Win 2026 National Middle School (K-8) Championship"
       },
       {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/password-expiration-phishing-emails/",
          "pubDate" : "Wed, 13 May 2026 07:47:48",
          "title" : "Password expiration phishing emails"
-      },
-      {
-         "description" : "The Asian Rapid &#38; Blitz Chess Championship will be held at Hong Kong, China from 27th to 31st July 2026. The detailed regulations you can",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-rapid-blitz-chess-championship-2026-scheduled-to-be-held-from-27th-to-31st-july-2026-at-hong-kong/",
-         "pubDate" : "Wed, 13 May 2026 07:25:49",
-         "title" : "Asian Rapid & Blitz Chess Championship 2026, scheduled to be held from 27th to 31st July 2026 at Hong Kong."
       }
    ]
 }
