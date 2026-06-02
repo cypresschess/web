@@ -34,6 +34,14 @@ news_feed (
          "title" : "Erigaisi becomes only Indian in FIDE top 10 after latest rankings update"
       },
       {
+         "description" : "The qualitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jane-street-wins-north-american-corporate-chess-league-season-13",
+         "pubDate" : "Tue, 02 Jun 2026 11:40:30",
+         "title" : "Jane Street Wins North American Corporate Chess League Season 13"
+      },
+      {
          "description" : "On the top board in round seven of the 2026 European Women's Championship in Batumi, 2023 European Champion Meri Arabidze (pictured left) defeated 15-year-old Anastasiia Hnatyshyn, bringing the Ukrainian youngster's winning streak to an end. With the victory, Arabidze caught up with Hnatyshyn in the standings. The third co-leader is Sabrina Vega Gutierrez, who defeated Ulviyya Fataliyeva. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-divya-deshmukh-back-to-winning-ways-gukesh-magnus-carlsen-share-bottom-spots-despite-wins/articleshow/131453695.cms",
          "pubDate" : "Tue, 02 Jun 2026 03:14:49",
          "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
+      },
+      {
+         "description" : "Today's puzzles continue our series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-middle-school-k-8-championship-pt-2",
+         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 2"
       },
       {
          "description" : "Announcement: The next issue (July 2026) will be my last as editor of Check is in The Mail. As I transition into a lighter workload and embrace retirement, it feels like the right moment to step back from some of my editorial responsibilities. Thanks to Mike and JJ for allowing me to serve this community for as long as I have. It has been an honor to fill the editor post.In this issue I cover some of the games played by winners in two sections of the 2025 Victor Palciauskas Round Robin tournament. These sections were announced in the last issue's Front Office section. I provide equal coverage for two of the sections, and I have included two games and one puzzle from each winner of those sect",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "Dejan Jovelji&#263 Faces GothamChess, Shows Why He May Be The Strongest Chess-Playing Athlete"
       },
       {
-         "description" : "GMs Fabiano Caruana and Yagiz Kaan Erdogmus have added their names to the $50,000 Naroditsky Memorial Rapid &#38;amp; Blitz this July, joining an already spectacular lineup that includes GMs Hikaru Nakamura, Wesley So, Javokhir Sindarov, Hans Niemann,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-erdogmus-join-spectacular-naroditsky-memorial-lineup",
-         "pubDate" : "Thu, 21 May 2026 03:38:00",
-         "title" : "Caruana, Erdogmus Join Spectacular Naroditsky Memorial Lineup"
-      },
-      {
          "description" : "Editor's note: If any photo is missing or misidentified, please email Click here to show email address for corrections or additions.You could fill up a whole chess board with the 64 USA players who took the trip to Playa Salinitas, Sonsonate, El Salvador for the XV Pan-American U7-U17 Chess Championship.There's power in numbers, as USA won five gold medals across the 12 sections. Overall, USA finished with 12 medals and finished with the most podium points out of the 25 federations in attendance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Mohit Manchanda<br> <br> <br> <br> As a continental event, medalists are eligible for direct ti",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-25",
          "pubDate" : "Wed, 20 May 2026 00:00:00",
          "title" : "US Chess Offices Closed Monday, May 25"
-      },
-      {
-         "description" : "Today's puzzles continue a series on the just-concluded National Elementary School Championships, held May 1-3 in Baltimore, MD. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-elementary-school-championships-pt-3",
-         "pubDate" : "Wed, 20 May 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National Elementary School Championships, Pt. 3"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
