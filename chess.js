@@ -18,6 +18,14 @@ news_feed (
          "title" : "European Women's Championship - Live!"
       },
       {
+         "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only draw against GM Vincent Keymer and then winning in armageddon, but we saw world number-one GM&#38;nb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-8",
+         "pubDate" : "Tue, 02 Jun 2026 12:54:00",
+         "title" : "Carlsen, Gukesh Lose To Praggnanandhaa, Firouzja; Assaubayeva Close To Clinching"
+      },
+      {
          "description" : "Please find the results published on fide site https://arbiters.fide.com/news/11020",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-divya-deshmukh-back-to-winning-ways-gukesh-magnus-carlsen-share-bottom-spots-despite-wins/articleshow/131453695.cms",
          "pubDate" : "Tue, 02 Jun 2026 03:14:49",
          "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
+      },
+      {
+         "description" : "US Chess Soliciting Applicants for Trainer Positions for the 2026 Olympiad TeamsUS Chess is soliciting applicants for two Captain positions at the 46th FIDE World Chess Olympiad, one for the 2026 USA Olympiad Team and one for the 2026 USA Olympiad Women's Team. The Olympiad will take place September 15th - September 27th, 2026 in Samarkand, Uzbekistan. Applicants may be from any federation, but should be a certified FIDE trainer at any level. Applicants must have a Social Security Number (SSN) that is needed for payment. The lists of eligible applicants will be provided to the U.S. Olympiad players. Each team will select its own Captain.Each successful applicant must complete US Chess SafeSp",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-soliciting-applicants-captain-and-trainer-positions-2026-olympiad",
+         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
+         "title" : "US Chess Soliciting Applicants for Captain and Trainer Positions for 2026 Olympiad"
       },
       {
          "description" : "Today's puzzles continue our series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-nms-photo-report-assorted-medalists",
          "pubDate" : "Wed, 20 May 2026 00:00:00",
          "title" : "2026 NMS Photo Report: Assorted Medalists"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 25 in observance of Memorial Day, and will reopen for normal business operations on Tuesday, May 26. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-25",
-         "pubDate" : "Wed, 20 May 2026 00:00:00",
-         "title" : "US Chess Offices Closed Monday, May 25"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
