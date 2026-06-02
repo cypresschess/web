@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-divya-deshmukh-back-to-winning-ways-gukesh-magnus-carlsen-share-bottom-spots-despite-wins/articleshow/131453695.cms",
+         "pubDate" : "Tue, 02 Jun 2026 03:14:49",
+         "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
+      },
+      {
          "description" : "The seventh round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, and only four rounds left to be played before the announcement of the new European Champion. Playing on the top board, the 2023 European Women's Champion IM Meri Arabidze (GEO, 2409) defeated 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) to stop the Ukrainian rising star's perfect run, catching her at the top with a score of 6/7 points. In the meantime, IM Sabrina Vega Gutierrez []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/asian-rapid-blitz-chess-championship-2026-scheduled-to-be-held-from-27th-to-31st-july-2026-at-hong-kong/",
          "pubDate" : "Wed, 13 May 2026 07:25:49",
          "title" : "Asian Rapid & Blitz Chess Championship 2026, scheduled to be held from 27th to 31st July 2026 at Hong Kong."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131054548.cms\" />Koneru Humpy said only China's Zhu Jiner currently has the potential to break the 2600 Elo barrier and enter the Open world top-100 among women players. Humpy stressed that women need regular participation in Open tournaments to improve significantly. She also defended withdrawing from the Candidates event over safety concerns and called India's chess rise a \"Tamil Nadu boom\".",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/judit-polgar-and-hou-yifan-were-exceptions-koneru-humpy-urges-women-chess-players-to-play-more-open-tournaments/articleshow/131054548.cms",
-         "pubDate" : "Wed, 13 May 2026 04:20:58",
-         "title" : "'Judit, Yifan were exceptions': Humpy urges women to play more 'open' tournaments"
       }
    ]
 }
