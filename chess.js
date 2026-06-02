@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Tue, 02 Jun 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "On the top board in round seven of the 2026 European Women's Championship in Batumi, 2023 European Champion Meri Arabidze (pictured left) defeated 15-year-old Anastasiia Hnatyshyn, bringing the Ukrainian youngster's winning streak to an end. With the victory, Arabidze caught up with Hnatyshyn in the standings. The third co-leader is Sabrina Vega Gutierrez, who defeated Ulviyya Fataliyeva. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-s-championship-winning-streak-snapped-as-hnatyshyn-loses-to-arabidze",
+         "pubDate" : "Tue, 02 Jun 2026 11:30:00",
+         "title" : "European Women's Championship: Winning streak snapped as Hnatyshyn loses to Arabidze"
+      },
+      {
+         "description" : "There has been some movement at the top of the world rankings. Hikaru Nakamura and Fabiano Caruana both lost rating points at the Candidates Tournament. As Nakamura's losses were more significant, both players dropped below the 2800 mark. In May, however, Caruana gained four rating points and caught up with Nakamura. As a result, Caruana is now listed in second place, with Nakamura in third. Magnus Carlsen, meanwhile, is currently competing in Norway, where one of his goals is to avoid losing rating points. He remains the clear world number one. Players ranked fourth through seventh are Javokhir Sindarov, Nodirbek Abdusattorov, Vincent Keymer and Anish Giri. Hou Yifan remains the world's top",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-june-2026",
+         "pubDate" : "Tue, 02 Jun 2026 10:00:00",
+         "title" : "FIDE ratings - June 2026"
+      },
+      {
+         "description" : "Montenegro Chess Federation (MCF) and the European Chess Union (ECU) have the honor to invite all the National Federations members of the European Chess Union to participate in the European Junior U20 Chess Championship 2026 which will be held at Hotel Grand, Cetinje, Montenegro, from 5th August to 16th August 2026. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
+         "pubDate" : "Tue, 02 Jun 2026 07:42:30",
+         "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
+      },
+      {
          "description" : "Wesley So is still the sole leader at Norway Chess, despite losing the Armageddon decider to Gukesh Dommaraju after saving a draw in the classical game. He now leads by 2&frac12; points, as Alireza Firouzja, his closest pursuer, suffered a second consecutive classical loss, this time against Praggnanandhaa Rameshbabu. Magnus Carlsen, meanwhile, gained ground by drawing with Vincent Keymer in classical play and holding the Armageddon game with the black pieces. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2026-7",
          "pubDate" : "Tue, 02 Jun 2026 06:35:00",
          "title" : "Norway Chess: So extends lead, as Pragg scores classical win over Firouzja"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131454727.cms\" />Chess prodigy Wesley So prioritizes the Olympiad over the Global Chess League, citing a desire to dedicate himself fully to team events. Having represented both the Philippines and the USA, So's decision reflects his commitment to the sport's traditional team format. He expressed hope that fellow American Hikaru Nakamura would also participate in the Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wesley-so-chooses-olympiad-over-global-chess-league/articleshow/131454727.cms",
+         "pubDate" : "Tue, 02 Jun 2026 04:50:01",
+         "title" : "American GM Wesley So chooses Olympiad over GCL in India"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
@@ -38,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-returns-to-top-10-in-june-rating-list",
-         "pubDate" : "Mon, 01 Jun 2026 14:52:50",
+         "pubDate" : "Mon, 01 Jun 2026 14:52:00",
          "title" : "Arjun Returns To Top 10 In June Rating List"
       },
       {
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-7",
          "pubDate" : "Mon, 01 Jun 2026 13:27:00",
          "title" : "Wesley So Survives Against Gukesh In Classical, Assaubayeva Extends Lead"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Mon, 01 Jun 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "Kindly find attached live games link for the&#160;4th&#160;Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) &#38; (Category B) Below 2000 ongoing at Ahmedabad, Gujarat from&#160;1st&#160;to",
@@ -522,14 +554,6 @@ news_feed (
          "title" : "BlitzChamps V Returns With Star NFL Players On May 26"
       },
       {
-         "description" : "The ECU E-Magazine March &#38; April 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU Magazine can be read online together with interactive links through the following link, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-march-april-2026/",
-         "pubDate" : "Fri, 22 May 2026 08:07:20",
-         "title" : "ECU E-Magazine March & April 2026"
-      },
-      {
          "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often medal contenders This week's puzzle is a chance to enter an annual national competition in which Guardian readers ­traditionally perform well and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by the investment ­managers ­Winton. This competition is only open to ­British ­residents and entry is free. To take part, simply send White's first move ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
          "pubDate" : "Fri, 15 May 2026 07:00:31",
          "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084127.cms\" />Faustino Oro, a 12-year-old Argentine chess prodigy known as the \"Messi of Chess,\" has become the second-youngest Grandmaster in history. TimesofIndia.com follows his journey from learning chess during the COVID lockdown in Buenos Aires to moving to Barcelona and competing globally. Despite tougher FIDE rules, Oro's talent, discipline, and love for the game helped him succeed.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/history-maker-at-12-how-argentine-faustino-oro-became-messi-of-chess/articleshow/131084127.cms",
-         "pubDate" : "Thu, 14 May 2026 06:21:05",
-         "title" : "History-maker at 12, how Faustino Oro became 'Messi of Chess'"
       },
       {
          "description" : "A FIDE Arbiter seminar was organized by All India Chess Federation and FIDE Arbiters' Commission at Vijayawada, Andhra Pradesh, INDIA from 24 to 26 April",
