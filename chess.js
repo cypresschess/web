@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So is still the sole leader at Norway Chess, despite losing the Armageddon decider to Gukesh Dommaraju after saving a draw in the classical game. He now leads by 2&frac12; points, as Alireza Firouzja, his closest pursuer, suffered a second consecutive classical loss, this time against Praggnanandhaa Rameshbabu. Magnus Carlsen, meanwhile, gained ground by drawing with Vincent Keymer in classical play and holding the Armageddon game with the black pieces. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-7",
+         "pubDate" : "Tue, 02 Jun 2026 06:35:00",
+         "title" : "Norway Chess: So extends lead, as Pragg scores classical win over Firouzja"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.europechess.org/meri-arabidze-ends-anastasiia-hnatyshyns-perfect-run-in-ewcc2026/",
          "pubDate" : "Mon, 01 Jun 2026 18:26:13",
          "title" : "Meri Arabidze ends Anastasiia Hnatyshyn's perfect run in EWCC2026"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Leader Wesley So plays black against Gukesh Dommaraju in round seven, while defending champion Magnus Carlsen faces Vincent Keymer, also with black. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Mon, 01 Jun 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "Grandmaster Amin Bassem takes on the Swindler on GM level and quickly guides the game into a strategically rich King's Indian structure. Throughout the game, Amin demonstrates deep positional understanding, carefully evaluating dynamic imbalances and resisting tempting material gains when they would strengthen Fritz's active pieces. After a tense middlegame battle full of subtle decisions, both sides agree to a draw, and the post game analysis reveals just how finely balanced the struggle had been.",
