@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2026-05-31","23","<a href=https://ratings.uschess.org/event/202605310373 target='_blank'>Bellaire Sunday Swiss 2026.05.31</a>",
 "HOUSTON","2026-05-30","6","<a href=https://ratings.uschess.org/event/202605300373 target='_blank'>chesspanda05302026saturday</a>",
+"SUGAR LAND","2026-05-29","32","<a href=https://ratings.uschess.org/event/202605290453 target='_blank'>Gukesh Birthday Open</a>",
 "SPRING","2026-05-29","20","<a href=https://ratings.uschess.org/event/202605290293 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-29","42","<a href=https://ratings.uschess.org/event/202605290183 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-26","17","<a href=https://ratings.uschess.org/event/202605260243 target='_blank'>MAY TUE NITE SWISS 2026</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-03-08","21","<a href=https://ratings.uschess.org/event/202603080003 target='_blank'>$2,500 MARCH CHAMPIONSHIP</a>",
 "HOUSTON","2026-03-07","10","<a href=https://ratings.uschess.org/event/202603070283 target='_blank'>chesspanda03072026saturday</a>",
 "CYPRESS","2026-03-06","33","<a href=https://ratings.uschess.org/event/202603060223 target='_blank'>Knights of Cypress</a>",
-"SUGAR LAND","2026-03-06","16","<a href=https://ratings.uschess.org/event/202603060213 target='_blank'>FBCC 2026 National Dress in Blue Op</a>",
 ]);
