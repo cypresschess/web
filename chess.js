@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
+         "description" : "Sabrina Vega (pictured) and Anastasiia Hnatyshyn share the lead on 7&frac12;/9 with two rounds remaining at the European Women's Chess Championship in Batumi. Vega drew with Black against Eline Roebers in round nine, while Hnatyshyn defeated Ulviyya Fataliyeva to rejoin her in first place. Five players stand half a point behind, with key pairings scheduled for Thursday's penultimate round. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Wed, 03 Jun 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-9",
+         "pubDate" : "Wed, 03 Jun 2026 22:45:00",
+         "title" : "Batumi: Vega and Hnatyshyn share the lead with two rounds to go"
+      },
+      {
+         "description" : " WASHINGTON, June 3, 2026 - Today, U.S. Sen. Eric Schmitt (R-MO) and U.S. Rep. Wesley Bell (D-MO) hosted a special bipartisan Congressional Chess Tournament in partnership with the Saint Louis Chess Club, where members of Congress faced off against chess students and internationally recognized chess players during an event designed to showcase the importance of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/u-s-sen-eric-schmitt-r-mo-u-s-rep-wesley-bell-d-mo-and-saint-louis-chess-club-hosts-bipartisan-congressional-chess-tournament-with-leading-chess-figures-and-saint-louis-students-in-the-nation/\">U.S. Sen. Eric Schmitt (R-MO), U.S. Rep. Wesley Bell (D-MO) and Saint",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/u-s-sen-eric-schmitt-r-mo-u-s-rep-wesley-bell-d-mo-and-saint-louis-chess-club-hosts-bipartisan-congressional-chess-tournament-with-leading-chess-figures-and-saint-louis-students-in-the-nation/",
+         "pubDate" : "Wed, 03 Jun 2026 21:23:47",
+         "title" : "U.S. Sen. Eric Schmitt (R-MO), U.S. Rep. Wesley Bell (D-MO) and Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures and Saint Louis Students in the Nation's Capital"
       },
       {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we will bring you regular overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
