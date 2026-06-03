@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Wed, 03 Jun 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we will bring you regular overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-2",
+         "pubDate" : "Wed, 03 Jun 2026 10:50:53",
+         "title" : "Upcoming tournaments and events"
+      },
+      {
+         "description" : "Eight rounds have been played at the European Women's Chess Championship 2026, and IM Sabrina Vega Gutierrez (ESP, 2375) has emerged as the sole leader of the event with a score of 7/8 points! In a direct eighth-round clash between the tournament leaders, IM Sabrina Vega Gutierrez (ESP, 2375) defeated IM Meri Arabidze (GEO, 2409) with the White pieces. Vega Gutierrez opted for an aggressive and rare line in the Sicilian Defense, but Arabidze found the best continuation for Black []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/sabrina-vega-gutierrez-takes-sole-lead-at-ewcc2026/",
+         "pubDate" : "Wed, 03 Jun 2026 07:46:45",
+         "title" : "Sabrina Vega Gutierrez takes sole lead at European Women's Championship"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu and Alireza Firouzja narrowed the gap to Wesley So with classical wins in round eight of Norway Chess. Pragg defeated Magnus Carlsen for a second time in the event, while Firouzja beat world champion Gukesh Dommaraju to move within 1 point of the leader. So stayed in first place by drawing Vincent Keymer in classical play and winning the Armageddon decider. | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-nepomniachtchi-match-belgrade-2026",
          "pubDate" : "Tue, 02 Jun 2026 19:00:00",
          "title" : "Belgrade match: Niemann and Nepomniachtchi draw 4-4"
-      },
-      {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Tue, 02 Jun 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
       },
       {
          "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only classical draw against GM Vincent Keymer and then winning in armageddon, but we saw world number...",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
       },
       {
-         "description" : "The 2026 European Women's Chess Championship is set to take place from 24 May 6 June in Batumi, Georgia. The event gathers 166 players coming from 32 European federations, and will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment per each move starting from move one. The field is headlined by Greek top Woman player and former World []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-starts-in-batumi-georgia/",
-         "pubDate" : "Sat, 23 May 2026 14:55:57",
-         "title" : "European Women's Chess Championship 2026 starts in Batumi, Georgia"
-      },
-      {
          "description" : "A month ago I shared how my Q2 plan showed just how little time I have for the most important projects. Writing that article cracked something open. I'd been carrying an assumption for five years and never once challenged it. The Unchallenged Assumption In my 5 years as a chess coach, blogger and course creator, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-vijayawada-india-from-24-26-april-2026/",
          "pubDate" : "Wed, 13 May 2026 12:21:14",
          "title" : "FIDE ARBITER SEMINAR, Vijayawada (INDIA) from 24-26 April 2026"
-      },
-      {
-         "description" : "Please ignore any emails that are not from a named person in the ECF Office asking you to &#8216;Update Password' or similar, and claiming your email account passord is set...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/password-expiration-phishing-emails/",
-         "pubDate" : "Wed, 13 May 2026 07:47:48",
-         "title" : "Password expiration phishing emails"
       }
    ]
 }
