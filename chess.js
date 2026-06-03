@@ -34,12 +34,28 @@ news_feed (
          "title" : "Norway Chess: Pragg and Firouzja grab classical wins, over Carlsen and Gukesh"
       },
       {
+         "description" : "The Esports World Cup qualifiers may have already been decided, but there was still much to play for in Titled Tuesday on June 2, with a new prize fund of $10,000. The new prizes attracted a field of more than 500 players for the first time since ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-june-2-2026",
+         "pubDate" : "Wed, 03 Jun 2026 06:20:39",
+         "title" : "Lazavik Ushers In New Titled Tuesday Prizes With Dominant Win"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131473706.cms\" />At Norway Chess Round 8, R Praggnanandhaa defeated Magnus Carlsen for the second time in two weeks, outplaying the World No. 1 in a sharp French Defence to stay in title contention. Meanwhile, Gukesh suffered another classical setback against Alireza Firouzja after a preparation mix-up in the Ragozin Defence. In the women's event, Divya Deshmukh lost to women's leader Bibisara Assaubayeva.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-humbles-magnus-carlsen-once-again-gukesh-divya-deshmukh-suffer-classical-losses/articleshow/131473706.cms",
          "pubDate" : "Wed, 03 Jun 2026 00:55:12",
          "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
+      },
+      {
+         "description" : "Today's puzzles continue a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-middle-school-k-8-championship-pt-2",
+         "pubDate" : "Wed, 03 Jun 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 National Middle School (K-8) Championship, Pt. 2"
       },
       {
          "description" : "A match between Hans Niemann and Ian Nepomniachtchi was held in Belgrade from 29 May to 1 June. The confrontation ended in a 4-4 draw. The Russian GM took the lead in the first encounter, and after six drawn games, Niemann levelled the score in the final contest. | Photo: Ljubomir Ljubojevic playing the honorary first move / Endgame AI on X",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Sindarov's 1st Win Since Candidates Sees Caruana, Van Foreest Catch Keymer"
       },
       {
-         "description" : "Plenty of footballers enjoy chess. But few, if any, can match the level of Major League Soccer star Dejan Jovelji&#263. Recently, the Serbian forward showed off his skills in a match against IM Levy Rozman, better known as GothamChess. Mohamed Salah...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dejan-joveljic-faces-gothamchess-strongest-chess-playing-athlete",
-         "pubDate" : "Thu, 21 May 2026 07:34:31",
-         "title" : "Dejan Jovelji&#263 Faces GothamChess, Shows Why He May Be The Strongest Chess-Playing Athlete"
-      },
-      {
          "description" : "Editor's note: If any photo is missing or misidentified, please email Click here to show email address for corrections or additions.You could fill up a whole chess board with the 64 USA players who took the trip to Playa Salinitas, Sonsonate, El Salvador for the XV Pan-American U7-U17 Chess Championship.There's power in numbers, as USA won five gold medals across the 12 sections. Overall, USA finished with 12 medals and finished with the most podium points out of the 25 federations in attendance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Mohit Manchanda<br> <br> <br> <br> As a continental event, medalists are eligible for direct ti",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2026-2027/",
          "pubDate" : "Wed, 20 May 2026 07:00:16",
          "title" : "Winton British Chess Solving Championship 2026-2027"
-      },
-      {
-         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at the 2026 National Middle School (K-8) Championship. These photos are categorized and tagged to the best of our ability. All coverage from this event can be found here.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.All photos are by Javier Carrera unless labeled otherwise. Side Events:K-8 Blitz ChampionshipFirst place: Ethan Guo (CA) Not Pictured Second place (co-champion): Jashith Karthi (CA)<br> <br> <br> <br> Image<br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-nms-photo-report-assorted-medalists",
-         "pubDate" : "Wed, 20 May 2026 00:00:00",
-         "title" : "2026 NMS Photo Report: Assorted Medalists"
       },
       {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
@@ -736,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
          "pubDate" : "Fri, 15 May 2026 07:00:31",
          "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
-      },
-      {
-         "description" : "A FIDE Arbiter seminar was organized by All India Chess Federation and FIDE Arbiters' Commission at Vijayawada, Andhra Pradesh, INDIA from 24 to 26 April",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-vijayawada-india-from-24-26-april-2026/",
-         "pubDate" : "Wed, 13 May 2026 12:21:14",
-         "title" : "FIDE ARBITER SEMINAR, Vijayawada (INDIA) from 24-26 April 2026"
       }
    ]
 }
