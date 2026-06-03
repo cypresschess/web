@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131473706.cms\" />At Norway Chess Round 8, R Praggnanandhaa defeated Magnus Carlsen for the second time in two weeks, outplaying the World No. 1 in a sharp French Defence to stay in title contention. Meanwhile, Gukesh suffered another classical setback against Alireza Firouzja after a preparation mix-up in the Ragozin Defence. In the women's event, Divya Deshmukh lost to women's leader Bibisara Assaubayeva.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-humbles-magnus-carlsen-once-again-gukesh-divya-deshmukh-suffer-classical-losses/articleshow/131473706.cms",
+         "pubDate" : "Wed, 03 Jun 2026 00:55:12",
+         "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
+      },
+      {
+         "description" : "A match between Hans Niemann and Ian Nepomniachtchi was held in Belgrade from 29 May to 1 June. The confrontation ended in a 4-4 draw. The Russian GM took the lead in the first encounter, and after six drawn games, Niemann levelled the score in the final contest. | Photo: Ljubomir Ljubojevic playing the honorary first move / Endgame AI on X",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-nepomniachtchi-match-belgrade-2026",
+         "pubDate" : "Tue, 02 Jun 2026 19:00:00",
+         "title" : "Belgrade match: Niemann and Nepomniachtchi draw 4-4"
+      },
+      {
          "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Wesley So enters the eighth round with a 2&frac12;-point lead over Alireza Firouzja. So faces Vinceny Keymer with black on Tuesday. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "European Women's Championship - Live!"
       },
       {
-         "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only draw against GM Vincent Keymer and then winning in armageddon, but we saw world number-one GM&#38;nb...",
+         "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only classical draw against GM Vincent Keymer and then winning in armageddon, but we saw world number...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-8",
@@ -42,11 +58,11 @@ news_feed (
          "title" : "Erigaisi becomes only Indian in FIDE top 10 after latest rankings update"
       },
       {
-         "description" : "The qualitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess c...",
+         "description" : "The quantitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jane-street-wins-north-american-corporate-chess-league-season-13",
-         "pubDate" : "Tue, 02 Jun 2026 11:40:30",
+         "pubDate" : "Tue, 02 Jun 2026 11:40:00",
          "title" : "Jane Street Wins North American Corporate Chess League Season 13"
       },
       {
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-at-visakhapatnam-02-03-may-2026/",
          "pubDate" : "Tue, 19 May 2026 09:12:43",
          "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131183159.cms\" />Alireza Firouzja stunned the chess world by playing his Round 5 classical game against Javokhir Sindarov from a hotel room bed at the Superbet Chess Classic Romania 2026 after suffering an ankle injury. The extraordinary setup quickly went viral. Earlier, R Praggnanandhaa defeated Sindarov in a significant round-two encounter in Bucharest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rare-d-gukeshs-world-cship-challenger-sindarov-plays-classical-chess-against-bedridden-alireza-firouzja-watch/articleshow/131183159.cms",
-         "pubDate" : "Mon, 18 May 2026 18:02:27",
-         "title" : "Rare! Gukesh's challenger Sindarov plays against bedridden Firouzja - Watch"
       },
       {
          "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
