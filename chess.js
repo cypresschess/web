@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu and Alireza Firouzja narrowed the gap to Wesley So with classical wins in round eight of Norway Chess. Pragg defeated Magnus Carlsen for a second time in the event, while Firouzja beat world champion Gukesh Dommaraju to move within 1 point of the leader. So stayed in first place by drawing Vincent Keymer in classical play and winning the Armageddon decider. | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-8",
+         "pubDate" : "Wed, 03 Jun 2026 07:35:00",
+         "title" : "Norway Chess: Pragg and Firouzja grab classical wins, over Carlsen and Gukesh"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131473706.cms\" />At Norway Chess Round 8, R Praggnanandhaa defeated Magnus Carlsen for the second time in two weeks, outplaying the World No. 1 in a sharp French Defence to stay in title contention. Meanwhile, Gukesh suffered another classical setback against Alireza Firouzja after a preparation mix-up in the Ragozin Defence. In the women's event, Divya Deshmukh lost to women's leader Bibisara Assaubayeva.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-nepomniachtchi-match-belgrade-2026",
          "pubDate" : "Tue, 02 Jun 2026 19:00:00",
          "title" : "Belgrade match: Niemann and Nepomniachtchi draw 4-4"
-      },
-      {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Wesley So enters the eighth round with a 2&frac12;-point lead over Alireza Firouzja. So faces Vinceny Keymer with black on Tuesday. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Tue, 02 Jun 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: European Chess Union",
@@ -66,22 +66,6 @@ news_feed (
          "title" : "Jane Street Wins North American Corporate Chess League Season 13"
       },
       {
-         "description" : "On the top board in round seven of the 2026 European Women's Championship in Batumi, 2023 European Champion Meri Arabidze (pictured left) defeated 15-year-old Anastasiia Hnatyshyn, bringing the Ukrainian youngster's winning streak to an end. With the victory, Arabidze caught up with Hnatyshyn in the standings. The third co-leader is Sabrina Vega Gutierrez, who defeated Ulviyya Fataliyeva. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-s-championship-winning-streak-snapped-as-hnatyshyn-loses-to-arabidze",
-         "pubDate" : "Tue, 02 Jun 2026 11:30:00",
-         "title" : "European Women's Championship: Winning streak snapped as Hnatyshyn loses to Arabidze"
-      },
-      {
-         "description" : "There has been some movement at the top of the world rankings. Hikaru Nakamura and Fabiano Caruana both lost rating points at the Candidates Tournament. As Nakamura's losses were more significant, both players dropped below the 2800 mark. In May, however, Caruana gained four rating points and caught up with Nakamura. As a result, Caruana is now listed in second place, with Nakamura in third. Magnus Carlsen, meanwhile, is currently competing in Norway, where one of his goals is to avoid losing rating points. He remains the clear world number one. Players ranked fourth through seventh are Javokhir Sindarov, Nodirbek Abdusattorov, Vincent Keymer and Anish Giri. Hou Yifan remains the world's top",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-june-2026",
-         "pubDate" : "Tue, 02 Jun 2026 10:00:00",
-         "title" : "FIDE ratings - June 2026"
-      },
-      {
          "description" : "Calling all speed addicts! The world&#39;s fastest players will meet again to battle in the next edition of the Bullet Chess Championship starting June 22. With a $50,000 prize fund and the most dangerous bullet players in the world, drama is all but ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
          "pubDate" : "Tue, 02 Jun 2026 07:42:30",
          "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "Wesley So is still the sole leader at Norway Chess, despite losing the Armageddon decider to Gukesh Dommaraju after saving a draw in the classical game. He now leads by 2&frac12; points, as Alireza Firouzja, his closest pursuer, suffered a second consecutive classical loss, this time against Praggnanandhaa Rameshbabu. Magnus Carlsen, meanwhile, gained ground by drawing with Vincent Keymer in classical play and holding the Armageddon game with the black pieces. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-7",
-         "pubDate" : "Tue, 02 Jun 2026 06:35:00",
-         "title" : "Norway Chess: So extends lead, as Pragg scores classical win over Firouzja"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131454727.cms\" />Chess prodigy Wesley So prioritizes the Olympiad over the Global Chess League, citing a desire to dedicate himself fully to team events. Having represented both the Philippines and the USA, So's decision reflects his commitment to the sport's traditional team format. He expressed hope that fellow American Hikaru Nakamura would also participate in the Olympiad.",
@@ -160,14 +136,6 @@ news_feed (
          "link" : "https://www.europechess.org/meri-arabidze-ends-anastasiia-hnatyshyns-perfect-run-in-ewcc2026/",
          "pubDate" : "Mon, 01 Jun 2026 18:26:13",
          "title" : "Meri Arabidze ends Anastasiia Hnatyshyn's perfect run in EWCC2026"
-      },
-      {
-         "description" : "Grandmaster Amin Bassem takes on the Swindler on GM level and quickly guides the game into a strategically rich King's Indian structure. Throughout the game, Amin demonstrates deep positional understanding, carefully evaluating dynamic imbalances and resisting tempting material gains when they would strengthen Fritz's active pieces. After a tense middlegame battle full of subtle decisions, both sides agree to a draw, and the post game analysis reveals just how finely balanced the struggle had been.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-bassem-amin-vs-swindler-the-fox-level-gm",
-         "pubDate" : "Mon, 01 Jun 2026 15:19:25",
-         "title" : "GM Bassem Amin vs. Swindler (The Fox, Level = GM)"
       },
       {
          "description" : "GM Arjun Erigaisi lost a tight tiebreak match to GM Magnus Carlsen in the TePe Sigeman Chess Tournament in May. While he couldn&#39;t quite take first place, Arjun&#39;s strong 5/8 performance earned him 10 rating points, raising his rating to 2761. That ...",
