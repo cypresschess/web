@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nine rounds have been played at the European Women's Chess Championship 2026 in Batumi, Georgia, and only two rounds remain before the new champion is crowned. Scoring 7.5/9 points each, 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) and IM Sabrina Vega Gutierrez (ESP, 2375) are tied for first place, entering the penultimate round as tournament co-leaders. Ukraine's 15-year-old teenage sensation, Anastasiia Hnatyshyn, yesterday defeated the reigning Azerbaijani Women's Chess Champion and 2024 European Champion, IM Ulviyya Fataliyeva (AZE, 2450). Hnatyshyn had []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anastasiia-hnatyshyn-joins-sabrina-vega-on-the-top-with-two-rounds-to-go-at-ewcc2026/",
+         "pubDate" : "Thu, 04 Jun 2026 07:24:44",
+         "title" : "Anastasiia Hnatyshyn joins Sabrina Vega on the top with two rounds to go at EWCC2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131496446.cms\" />Javokhir Sindarov, the 20-year-old challenger for the World Championship, recently unveiled his competitive itinerary, featuring his debut at the US World Cup and participation in an upcoming event in Hong Kong. With an admirable sense of humility, he praised his compatriot Nodirbek Abdusattorov, candidly admitting he might not even be the best in Uzbekistan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-not-even-the-best-player-in-uzbekistan-javokhir-sindarov/articleshow/131496446.cms",
+         "pubDate" : "Thu, 04 Jun 2026 04:37:14",
+         "title" : "Sindarov calls Abdusattorov best Uzbek player; hardly uses engines"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131495791.cms\" />Indian chess prodigy R Praggnanandhaa stunned World No. 1 Magnus Carlsen for the second time at the Norway Chess tournament. Carlsen, admitting to uncharacteristic errors under time pressure, finds himself in a rare slump. Despite this, Praggnanandhaa believes Carlsen's prowess remains high, attributing the losses to off days for the reigning champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-round-8-pragg-beats-carlsen-again-wesley-so-leads-on-the-top-with-14-points/articleshow/131495791.cms",
+         "pubDate" : "Thu, 04 Jun 2026 03:43:03",
+         "title" : "Praggnanandhaa Downs Carlsen Again: Indian scores second classical win"
+      },
+      {
          "description" : "Sabrina Vega (pictured) and Anastasiia Hnatyshyn share the lead on 7&frac12;/9 with two rounds remaining at the European Women's Chess Championship in Batumi. Vega drew with Black against Eline Roebers in round nine, while Hnatyshyn defeated Ulviyya Fataliyeva to rejoin her in first place. Five players stand half a point behind, with key pairings scheduled for Thursday's penultimate round. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 1"
       },
       {
-         "description" : "The 2026 European Women's Chess Championship officially opened today in Batumi, Georgia! The Opening ceremony of the event took place in the tournament playing hall, shortly before the start of the first round. The ceremony was attended by the President of the Georgian Chess Federation and FIDE Special Task Director Mr. Akaki Iashvili, Deputy Head of Sports Department of autonomous republic of Adjara Mr. Aslan Baladze, ECU Tournament Director Mr. Petr Pisk, Chief Arbiter of the event Mr. Geert Bailleul, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-officially-opened/",
-         "pubDate" : "Mon, 25 May 2026 18:23:03",
-         "title" : "European Women's Chess Championship 2026 officially opened"
-      },
-      {
          "description" : " The answers to today's problems. Earlier today I set these four chess puzzles. Here they are again with solutions. <strong>1. Oddities</strong> <a href=\"https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-gukeshs-test-koneru-humpys-return-why-should-you-be-excited/articleshow/131303861.cms",
          "pubDate" : "Mon, 25 May 2026 07:34:58",
          "title" : "Norway Chess: Gukesh's test, Humpy's return - Why should you be excited?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131290316.cms\" />Norway Chess 2026 begins on May 25 in Oslo, featuring stars like Magnus Carlsen, Gukesh Dommaraju, Praggnanandhaa and Wesley So. Indian viewers can watch the tournament live on Mirror Now, while online streaming will be available on Chess.com, the official Norway Chess website and YouTube. The tournament runs till June 5 and also features a strong women's lineup led by Ju Wenjun and Humpy Koneru.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-live-streaming-where-to-watch-magnus-carlsen-d-gukesh-and-r-praggnanandhaa-live-in-india/articleshow/131290316.cms",
-         "pubDate" : "Sun, 24 May 2026 08:45:13",
-         "title" : "Where to watch Norway Chess 2026 live in India?"
       },
       {
          "description" : "GM Hikaru Nakamura reached the Bullet Brawl stratosphere on Saturday after winning 56 games, drawing three, and losing only eight in the two-hour arena, which saw him register a colossal score of 200 points and take home the $400 first prize. Naka...",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/keymer-wins-gct-super-chess-classic-romania",
          "pubDate" : "Sat, 23 May 2026 08:14:00",
          "title" : "Keymer Wins Super Chess Classic With Final-Round Victory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131273728.cms\" />Ian Nepomniachtchi criticised reigning world champion D Gukesh for inconsistent performances, saying nearly every top GM currently has a strong chance against him. Nepomniachtchi also backed Javokhir Sindarov as favourite for their 2026 World Championship clash, citing his strong form and higher rating. Gukesh, meanwhile, has taken a break from classical chess to prepare for his title defence.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-under-scrutiny-as-russian-gm-nepo-questions-world-chess-champions-form-he-just-plays-badly-at-times/articleshow/131273728.cms",
-         "pubDate" : "Sat, 23 May 2026 07:32:48",
-         "title" : "Gukesh under scrutiny as Russian GM questions world champion's form"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131272670.cms\" />Aravindh Chithambaram recently became the first Indian to qualify for the 2026 Esports Chess World Cup after winning at DreamHack Atlanta. Raised by his mother and grandparents after losing his father at age three, Aravindh discovered chess through his grandfather. With strong family support and guidance from coach RB Ramesh, he steadily rose through the ranks to become a national champion and elite player.",
