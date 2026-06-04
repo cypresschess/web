@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In Thursday's penultimate round, leader Wesley So plays white against an out-of-form Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
+         "pubDate" : "Thu, 04 Jun 2026 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Beloslava Krasteva | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -150,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2026",
-         "pubDate" : "Tue, 02 Jun 2026 08:00:40",
+         "pubDate" : "Tue, 02 Jun 2026 08:00:00",
          "title" : "Bullet Chess Championship Returns June 22, Firouzja Leads Field To Defend His Crown"
       },
       {
