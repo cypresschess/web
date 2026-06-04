@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Beloslava Krasteva | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
+         "pubDate" : "Thu, 04 Jun 2026 13:00:00",
+         "title" : "European Women's Championship - Live!"
+      },
+      {
+         "description" : "At the Stepan Avagyan Memorial in Jermuk, Nihal Sarin, Ray Robson and Vladislav Artemiev share the lead on 3&frac12; points after six rounds. Nihal and Artemiev are still unbeaten, while Robson has reached the same score with two wins and one loss. Four players, including defending champion Aravindh Chithambaram and 2023 winner Sam Sevian, are half a point behind with three rounds remaining. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2026-r6",
+         "pubDate" : "Thu, 04 Jun 2026 09:50:00",
+         "title" : "Stepan Avagyan Memorial: Nihal, Robson and Artemiev co-leaders"
+      },
+      {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2026 in Batumi, Georgia, and only two rounds remain before the new champion is crowned. Scoring 7.5/9 points each, 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) and IM Sabrina Vega Gutierrez (ESP, 2375) are tied for first place, entering the penultimate round as tournament co-leaders. Ukraine's 15-year-old teenage sensation, Anastasiia Hnatyshyn, yesterday defeated the reigning Azerbaijani Women's Chess Champion and 2024 European Champion, IM Ulviyya Fataliyeva (AZE, 2450). Hnatyshyn had []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
