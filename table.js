@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
+"SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-06-05","14","<a href=https://ratings.uschess.org/event/202606050163 target='_blank'>FBCC 2026 National Donut Day Open</a>",
 "HOUSTON","2026-05-31","23","<a href=https://ratings.uschess.org/event/202605310373 target='_blank'>Bellaire Sunday Swiss 2026.05.31</a>",
 "HOUSTON","2026-05-30","6","<a href=https://ratings.uschess.org/event/202605300373 target='_blank'>chesspanda05302026saturday</a>",
 "SUGAR LAND","2026-05-29","32","<a href=https://ratings.uschess.org/event/202605290453 target='_blank'>Gukesh Birthday Open</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130003 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-03-08","6","<a href=https://ratings.uschess.org/event/202603080523 target='_blank'>Spring-03-08-2026</a>",
 "HOUSTON","2026-03-08","10","<a href=https://ratings.uschess.org/event/202603080333 target='_blank'>Bellaire Sunday Swiss 2026.03.08</a>",
-"HOUSTON","2026-03-08","21","<a href=https://ratings.uschess.org/event/202603080003 target='_blank'>$2,500 MARCH CHAMPIONSHIP</a>",
-"HOUSTON","2026-03-07","10","<a href=https://ratings.uschess.org/event/202603070283 target='_blank'>chesspanda03072026saturday</a>",
-"CYPRESS","2026-03-06","33","<a href=https://ratings.uschess.org/event/202603060223 target='_blank'>Knights of Cypress</a>",
 ]);
