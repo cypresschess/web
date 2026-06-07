@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-06-06","6","<a href=https://ratings.uschess.org/event/202606060203 target='_blank'>chesspanda06062026saturday</a>",
 "CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-06-05","14","<a href=https://ratings.uschess.org/event/202606050163 target='_blank'>FBCC 2026 National Donut Day Open</a>",
@@ -98,5 +99,4 @@ jtable([
 "SUGAR LAND","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130193 target='_blank'>FBCC 2026 Thailand Elephant Day Open</a>",
 "SPRING","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130003 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-03-08","6","<a href=https://ratings.uschess.org/event/202603080523 target='_blank'>Spring-03-08-2026</a>",
-"HOUSTON","2026-03-08","10","<a href=https://ratings.uschess.org/event/202603080333 target='_blank'>Bellaire Sunday Swiss 2026.03.08</a>",
 ]);
