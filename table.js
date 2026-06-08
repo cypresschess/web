@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
+"HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
 "HOUSTON","2026-06-06","6","<a href=https://ratings.uschess.org/event/202606060203 target='_blank'>chesspanda06062026saturday</a>",
 "CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
 "CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
 "SUGAR LAND","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130193 target='_blank'>FBCC 2026 Thailand Elephant Day Open</a>",
-"SPRING","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130003 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-03-08","6","<a href=https://ratings.uschess.org/event/202603080523 target='_blank'>Spring-03-08-2026</a>",
 ]);
