@@ -5,6 +5,7 @@ jtable([
 "CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-06-05","14","<a href=https://ratings.uschess.org/event/202606050163 target='_blank'>FBCC 2026 National Donut Day Open</a>",
+"KATY","2026-05-31","48","<a href=https://ratings.uschess.org/event/202605311003 target='_blank'>Katy Kids Chess Monthly Rated</a>",
 "HOUSTON","2026-05-31","23","<a href=https://ratings.uschess.org/event/202605310373 target='_blank'>Bellaire Sunday Swiss 2026.05.31</a>",
 "HOUSTON","2026-05-30","6","<a href=https://ratings.uschess.org/event/202605300373 target='_blank'>chesspanda05302026saturday</a>",
 "SUGAR LAND","2026-05-29","32","<a href=https://ratings.uschess.org/event/202605290453 target='_blank'>Gukesh Birthday Open</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-03-14","12","<a href=https://ratings.uschess.org/event/202603141353 target='_blank'>Lone Star Open Blitz</a>",
 "HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
 "CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>KNIGHTS OF CYPRESS (TX)</a>",
-"SUGAR LAND","2026-03-13","16","<a href=https://ratings.uschess.org/event/202603130193 target='_blank'>FBCC 2026 Thailand Elephant Day Open</a>",
 ]);
