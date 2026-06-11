@@ -2,28 +2,444 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 14th edition of the Norway Chess super-tournament is taking place from 25 May to 5 June at Deichman Bjorvika in Oslo. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. In Thursday's penultimate round, leader Wesley So plays white against an out-of-form Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST) | Photo: Norway Chess / Michal Walusza",
+         "description" : "Jon Speelman returns to the importance of seeing the whole board when calculating, using a series of positions in which small changes far from the main action transform the evaluation. Examples include back-rank motifs, a double bishop sacrifice inspired by Emanuel Lasker v. Johann Bauer and an adjourned game involving Alexander Kotov and Glenn Lambert. The focus is on tactical awareness, pawn moves, quiet resources and the need to continue variations until the position becomes stable.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-live",
-         "pubDate" : "Thu, 04 Jun 2026 16:45:00",
-         "title" : "Norway Chess - Live!"
+         "link" : "https://en.chessbase.com/post/speelman-agony-240",
+         "pubDate" : "Thu, 11 Jun 2026 19:05:00",
+         "title" : "Jon Speelman: Seeing the whole board"
       },
       {
-         "description" : "The 25th edition of the European Women's Chess Championship is taking place from 25 May to 5 June in the Georgian city of Batumi. The tournament is played over 11 rounds using the Swiss system. More than 150 players from 32 European federations have registered to participate. Ten players have an Elo rating above 2400. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST) | Pictured: Beloslava Krasteva | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-live",
-         "pubDate" : "Thu, 04 Jun 2026 13:00:00",
-         "title" : "European Women's Championship - Live!"
+         "description" : "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
+         "pubDate" : "Thu, 11 Jun 2026 14:44:11",
+         "title" : "Vokhidov Takes Sole Lead With 3-Win Streak"
       },
       {
-         "description" : "At the Stepan Avagyan Memorial in Jermuk, Nihal Sarin, Ray Robson and Vladislav Artemiev share the lead on 3&frac12; points after six rounds. Nihal and Artemiev are still unbeaten, while Robson has reached the same score with two wins and one loss. Four players, including defending champion Aravindh Chithambaram and 2023 winner Sam Sevian, are half a point behind with three rounds remaining. | Photos: Official website",
+         "description" : "Problem 1 Black's Turn to promote white to play and mate in two moves",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/todays-chess-problem-corner-11-june-2026/",
+         "pubDate" : "Thu, 11 Jun 2026 12:30:23",
+         "title" : "Today's Chess Problem corner 11 June 2026"
+      },
+      {
+         "description" : "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov share the lead on 2&frac12; points after four rounds. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2026-r6",
-         "pubDate" : "Thu, 04 Jun 2026 09:50:00",
-         "title" : "Stepan Avagyan Memorial: Nihal, Robson and Artemiev co-leaders"
+         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-live",
+         "pubDate" : "Thu, 11 Jun 2026 12:00:00",
+         "title" : "UzChess Cup - Live!"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2026 concluded yesterday in Acqui Terme, Italy! The event was played in two age categories: 50+ and 65+, open and women's sections separately, gathering nearly 250 players coming from 34 European federations. After nine played rounds, GM Jean-Marc Degraeve (FRA, 2494) emerged as the sole winner of the 50+ Open competition, scoring 7/9 points. As many as five players tied for silver with the score of 6.5/9 points (each): GM Daniel Gormally (ENG, 2391), GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-champions-2026-crowned-in-italy/",
+         "pubDate" : "Thu, 11 Jun 2026 11:05:17",
+         "title" : "European Senior Chess Champions 2026 crowned in Italy"
+      },
+      {
+         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess.Today, enjoy an article by Assistant Editor Rick Massimo on the dangers of staking your identity as a chessplayer on your rating. Check out the first two installments here and here. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Plus: Download a high-quality pdf of the three-part feature here, no membership required.How easy it is to be a slave to your rating, and how to",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-what-really-counts",
+         "pubDate" : "Thu, 11 Jun 2026 00:00:00",
+         "title" : "Inside Story: What Really Counts"
+      },
+      {
+         "description" : "In the comments on Part 5 of the series, readers pointed out that this was not a \"master game\" (as stated on the Guinness page), since Arsovi&#263 had an initial rating of 2200 (which by today's standards may correspond to a rating of 1400), while NikoliÄ‡'s rating was only 15 points higher. Now in Part 7 the author examines the remaining \"competitors\" to the Gorkov-Golubenko game for the title of the longest game by number of moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
+         "pubDate" : "Wed, 10 Jun 2026 17:00:00",
+         "title" : "A Game That Outlasted the Day (7)"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association with associate Directorate of Youth Services and Sports J&#38;K is organizing Senior",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-on-17-18-july-2026-in-jammu/",
+         "pubDate" : "Wed, 10 Jun 2026 11:50:31",
+         "title" : "SNA Seminar & Exam on 17 & 18 July 2026 in Jammu ."
+      },
+      {
+         "description" : "The 24th edition of the European Union Youth Chess Championship U8-U14 will take place from 17-26 August in RoÅ¾nov pod RadhoÅ¡tÄ›m, Czech Republic.&#160;The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The event will be played in four categories: U8, U10, U12, and U14, with separate prizes for the best ranked girls in the tournaments. The events will be played in 9 rounds, swiss system, with the time control of 90 min []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2026/",
+         "pubDate" : "Wed, 10 Jun 2026 09:57:34",
+         "title" : "European Union Youth U8-U14 Chess Championship 2026"
+      },
+      {
+         "description" : "Regarding the expiration of the deadline for the Russian Chess Federation to comply with the Court of Arbitration for Sport (CAS) decision and its current position, I would like to state the following: From today 10th of June 2026, the FIDE has no alternative but to implement the CAS ruling and proceed with the suspension of the Russian Chess Federation, in accordance with FIDE Ethics Commission decisions and the FIDE Charter. I trust that all individuals in responsible management positions []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/statement-by-the-ecu-president/",
+         "pubDate" : "Wed, 10 Jun 2026 07:51:07",
+         "title" : "Statement by the ECU President"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131627199.cms\" />Shubhi Gupta's rise to World No. 4 in girls' chess is a story of many things. After overcoming setbacks, including a vision problem that ruined her first independent foreign tournament and later competitive disappointments, she won national and world titles, excelled academically, and achieved major international norms. Now India's top-ranked girl player, she is pursuing the most difficult titles.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/battling-medical-stores-eye-drop-blunder-depression-how-ups-chess-whizz-shubhi-gupta-became-india-girls-no-1/articleshow/131627199.cms",
+         "pubDate" : "Wed, 10 Jun 2026 06:54:26",
+         "title" : "Battling medical store's eye-drop blunder, depression: How Shubhi became India Girls' No. 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131625798.cms\" />Indian chess prodigy Pranesh Munirethinam faces uncertainty over his participation in the FIDE World Team Rapid and Blitz Championships in Hong Kong due to a pending visa. Coach RB Ramesh has sought urgent help to expedite the process. Pranesh is part of the ChessGurukul team led by R Praggnanandhaa and Vaishali Rameshbabu.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
+         "pubDate" : "Wed, 10 Jun 2026 05:21:28",
+         "title" : "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! Also be sure to check out yesterday's Tactics Tuesday for more accessible puzzles from this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-35th-chicago-open-pt-1",
+         "pubDate" : "Wed, 10 Jun 2026 00:00:00",
+         "title" : "Wednesday Workout: 35th Chicago Open, Pt. 1"
+      },
+      {
+         "description" : "Chess stepped further into the mainstream spotlight on Saturday as Grandmasters, the new docuseries featuring GMs Magnus Carlsen, Wesley So, Hans Niemann, and other leading figures of the game, premiered at the Tribeca Film Festival in New York. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
+         "pubDate" : "Tue, 09 Jun 2026 13:14:00",
+         "title" : "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca"
+      },
+      {
+         "description" : "Asian Individual Chess Championship was held in Ulaanbaatar, Mongolia, from May 29 to June 6,2026.&#160; Players from 28 Federations took part making it a well",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-asian-individual-chess-championships-2026-held-at-ulaanbaatar-mongolia-29-may-6-june-2026/",
+         "pubDate" : "Tue, 09 Jun 2026 11:41:15",
+         "title" : "Final Report :Asian Individual Chess Championships 2026 held at Ulaanbaatar, Mongolia | 29 May - 6 June 2026"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda impressively won&#38;nbsp;Titled Tuesday on June 9 with a score of 10/11. He becomes the second player to win the new first-place prize of $2,500, and also the second player, after GM Javokhir Sindarov, to win three Titled Tuesda...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-june-9-2026",
+         "pubDate" : "Tue, 09 Jun 2026 11:10:00",
+         "title" : "Duda Domination Defeats Titled Tuesday Field"
+      },
+      {
+         "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland (near Shannon Airport) on 27-30...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-expressions-of-interest-reopened/",
+         "pubDate" : "Tue, 09 Jun 2026 10:35:02",
+         "title" : "Glorney Cup: Expressions of Interest Reopened"
+      },
+      {
+         "description" : "Get ready for blazing tactics and electrifying swindles! The next installment of the Chess.com Community Championships is coming with the speediest of variants. The Chess.com Hyperbullet Championship takes place from June 18 to 19 and features a $...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-hyperbullet-chess-championship-2026",
+         "pubDate" : "Tue, 09 Jun 2026 08:00:00",
+         "title" : "Hyperbullet Is The Next Edition Of Chess.com Community Championships Starting June 18"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131603205.cms\" />Viswanathan Anand praised R Praggnanandhaa's Norway Chess triumph, calling his comeback and fighting style impressive. He urged world champion D Gukesh, who struggled in the event, to take inspiration from Praggnanandhaa's persistence and hard work. Anand also highlighted the healthy rivalry among India's top young stars and said India is now firmly among the world's leading chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-can-take-inspiration-from-praggnanandhaa-viswanathan-anand-advises-world-chess-champion/articleshow/131603205.cms",
+         "pubDate" : "Tue, 09 Jun 2026 06:23:22",
+         "title" : "'Gukesh can take inspiration from Pragg': Anand advises world champion"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-35th-annual-chicago-open-pt-1",
+         "pubDate" : "Tue, 09 Jun 2026 00:00:00",
+         "title" : "Tactics Tuesday: 35th Annual Chicago Open, Pt. 1"
+      },
+      {
+         "description" : "On behalf of ECU President Zurab Azmaiparashvili, we hereby invite all ECU member federations toattend the Annual ECU General Assembly 2026, to be held at the headquarters of the RomanianOlympic Committee, Bucharest, Romania, on Saturday, 18 July 2026. All the information about the ECU General Assembly 2026:",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-agenda-2/",
+         "pubDate" : "Mon, 08 Jun 2026 13:20:08",
+         "title" : "ECU General Assembly Agenda"
+      },
+      {
+         "description" : "GMs Praggnanandhaa Rameshbabu and Bibisara Assaubayeva are the 2026 Norway Chess and Norway Chess Women champions. Assaubayeva ran away with it, while Praggnanandhaa came clutch in a comeback that shocked the other players and even himself. Let&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-9-conclusions",
+         "pubDate" : "Mon, 08 Jun 2026 11:46:00",
+         "title" : "Norway Chess 2026 - 9 Conclusions"
+      },
+      {
+         "description" : "Ukrainian WFM Anastasiia Hnatyshyn produced one of the most remarkable upsets of European championship history, winning the European Women&#39;s Championship outright in Batumi, Georgia. The 15-year-old entered the tournament as the 76th seed in a fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hnatyshyn-wins-2026-european-womens-chess-championship",
+         "pubDate" : "Mon, 08 Jun 2026 09:28:00",
+         "title" : "15-Year-Old Ukrainian Wins European Women's Championship As 76th Seed"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131581690.cms\" />Tamil Nadu Chief Minister C. Joseph Vijay honoured chess prodigy R. Praggnanandhaa with Rs 50 lakh and a memento after his historic Norway Chess triumph. The 20-year-old became the first Indian to win the title, defeating Magnus Carlsen twice and D. Gukesh. After starting poorly, he staged a remarkable comeback, winning four straight games to secure the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-rs-50-lakh-reward-tamil-nadu-cm-vijay-plays-chess-with-norway-chess-champion-r-praggnanandhaa/articleshow/131581690.cms",
+         "pubDate" : "Mon, 08 Jun 2026 07:52:12",
+         "title" : "Watch: Rs 50 lakh reward! CM Vijay plays chess with Praggnanandhaa"
+      },
+      {
+         "description" : "It isn't easy to weave Sotheby's, Queen Isabella of Spain, Fischer-Spassky 1972, Michael Caine and a vigilante killer into the same article. But that is exactly what John Henderson does, in this piece that appears in the June issue of CHESS magazine. He tells us how the vast collection of chess memorabilia of GM Lothar Schmid, considered to be the largest and most important of its kind in private hands, went under the hammer recently at Sotheby's in London. You will not believe the prices they received.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/under-the-hammer",
+         "pubDate" : "Mon, 08 Jun 2026 07:32:34",
+         "title" : "Under the Hammer"
+      },
+      {
+         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
+         "pubDate" : "Mon, 08 Jun 2026 07:25:55",
+         "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131576902.cms\" />D Gukesh's coach, Grzegorz Gajewski, acknowledges the young champion's aggressive style, stating it's integral to his identity and led to his world title. Despite recent criticisms, Gajewski believes Gukesh can return to the top, emphasizing that his current weaknesses were present even during his championship win, fueled by immense confidence.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-risks-part-of-gukeshs-identity-coach-gajewski-defends-world-chess-champions-aggressive-style/articleshow/131576902.cms",
+         "pubDate" : "Mon, 08 Jun 2026 02:55:09",
+         "title" : "'Taking risks part of Gukesh's identity': Coach Gajewski"
+      },
+      {
+         "description" : "There's no tournament chess without tournament directors (TDs). Fortunately, it's easy to apply to become a Club TD and begin running tournaments. However, there are limitations on the size and scope of tournaments that Club TDs can run, as detailed in the TD Certification Rules. For larger events, TDs must work their way up the ladder by accumulating experience and passing exams. A lot of this work is invisible to most chessplayers. But if you've ever played in a national event, a tournament awarding US Chess Grand Prix points, or a tournament with more than 60 players, that event only existed because at least one TD put in the hours to upgrade their TD certification. This year, we have bee",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/introducing-td-upgrades-chart",
+         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
+         "title" : "Introducing TD Upgrades Chart"
+      },
+      {
+         "description" : "\"It is my wish and desire that the United States Chess Federation use this gift to establish a fund in my name and that the income generated therefrom be used for the furtherance of the chess capabilities of chess players from 18 through 21 years of age.\" - Dr. Herbert B. JacklynAPPLY NOWUS Chess is opening the application process for the 2026-2027 Herbert B. Jacklyn Program. The program is funded by a generous bequest to US Chess from the late Dr. Herbert B. Jacklyn. It was the wish of Dr. Jacklyn that income derived from investing his gift be used to improve the chess of players 18 to 21 years of age. The deadline for submitting is August 1, 2026.US Chess aims to provide opportunities for ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/herbert-b-jacklyn-program-open-2026-27-submissions",
+         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
+         "title" : "The Herbert B. Jacklyn Program is Open For 2026-27 Submissions"
+      },
+      {
+         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess.Today, enjoy an article by Assistant Editor Rick Massimo and Editor John Hartmann on Nate Shuman's Mindmates program. Come back Thursday for the final instalment, and check out the first instalment here.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Passing It OnA former youth champion is teaching young players what he learned about staying in love with the game.Nate Shu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-passing-it",
+         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
+         "title" : "Inside Story: Passing It On"
+      },
+      {
+         "description" : "IM Roman Shogdzhiev has become the youngest player in chess history to score a grandmaster norm, breaking a record that had stood since 2008. The 11-year-old Russian remained undefeated against the six grandmasters he faced and scored an impressi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/11-year-old-roman-shogdzhiev-becomes-youngest-ever-to-score-gm-norm",
+         "pubDate" : "Sun, 07 Jun 2026 15:44:00",
+         "title" : "Roman Shogdzhiev Breaks 18-Year Record As Youngest Ever To Score GM Norm"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2026 commenced last week in Acqui Terme, Italy, and takes place at the Acqui Terme conference center from 1-11 June, 2026. Five rounds were already played at the Championship which is played in two age categories: 50+ and 65+, open and women's sections separately, and gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. After five played rounds, three players tie for the top in the Open []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-underway-in-italy/",
+         "pubDate" : "Sun, 07 Jun 2026 10:51:57",
+         "title" : "European Senior Chess Championship 2026 underway in Italy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131562029.cms\" />Indian Grandmaster R Praggnanandhaa achieved a historic victory at Norway Chess 2026, becoming the first Indian to win the prestigious title. He secured the championship with a stunning comeback in the final round, defeating Vincent Keymer and benefiting from a draw between his rivals. World No. 1 Magnus Carlsen lauded Praggnanandhaa's \"clutch\" performance under pressure.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-left-in-awe-of-praggnanandhaas-norway-chess-heroics-thats-pretty-insane/articleshow/131562029.cms",
+         "pubDate" : "Sun, 07 Jun 2026 04:54:52",
+         "title" : "Magnus Carlsen left in awe of Praggnanandhaa's Norway Chess heroics: 'That's pretty insane'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131561311.cms\" />R Praggnanandhaa has achieved a historic victory at Norway Chess, a feat even Vishy Anand couldn't accomplish. The young Indian Grandmaster secured the title by defeating Vincent Keymer in the final round, overcoming fatigue from prior tournaments. His remarkable comeback, including four consecutive classical wins, has placed him among chess elite, proving his exceptional talent.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viking-of-norway-r-praggnanandhaa-wins-norway-chess-crown-that-eluded-even-vishwanathan-anand/articleshow/131561311.cms",
+         "pubDate" : "Sun, 07 Jun 2026 02:54:42",
+         "title" : "Praggnanandhaa Claims Norway Chess: Four classical wins seal title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131556251.cms\" />The 20-year-old from Chennai began the second half of the event from the bottom of the open-category standings, only to produce a remarkable comeback that included two classical victories over Carlsen, a win over the reigning world champion Dommaraju Gukesh and a final-round classical win over Germany No. 1 Vincent Keymer.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-exclusive-interview-winning-ahead-of-magnus-carlsen-is-something-ive-always-wanted/articleshow/131556251.cms",
+         "pubDate" : "Sun, 07 Jun 2026 01:00:00",
+         "title" : "R Praggnanandhaa Exclusive Interview: 'Winning ahead of Magnus Carlsen is something I've always wanted'"
+      },
+      {
+         "description" : "GM Hikaru Nakamura continued his 2026 Bullet Brawl victory streak with a barnstorming performance in Saturday&#39;s event, racing to a 201-point victory with no rivals in sight. The American superstar finished a commanding 58 points ahead of Ukrainian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-6-2026",
+         "pubDate" : "Sat, 06 Jun 2026 18:14:00",
+         "title" : "Nakamura Breaks 200 Again, Wins Bullet Brawl By 58-Point Margin"
+      },
+      {
+         "description" : "Recently I had a lesson with a student where we discussed opposite side castling. The main takeaway was this: As soon as there are opposite side castled kings, a flip needs to switch and it is all about attacking. The same day, he played a game and got in this position: After 9&hellip;0-0-0 he could []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/delayed-rating-jump/",
+         "pubDate" : "Sat, 06 Jun 2026 13:00:00",
+         "title" : "Why Your Last Rating Jump Wasn't What You Think"
+      },
+      {
+         "description" : "Please find certificates below No. Candidate Name 1 Sachin Anand 2 Sambarta Banerjee 3 Shashank Pandey 4 Satish Kumar 5 Abhishek Das 6 Sunil Kumar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-sna-seminar-exam-held-in-ranchi-on-21-22-feb-2026/",
+         "pubDate" : "Sat, 06 Jun 2026 07:26:48",
+         "title" : "Certificate :SNA Seminar & Exam held in Ranchi on 21 & 22 Feb 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131544352.cms\" />R Praggnanandhaa has made history, becoming the first Indian to clinch the prestigious Norway Chess title. He secured the championship with a stunning final-round victory over Vincent Keymer, overcoming a deficit to claim the crown. This remarkable win earns him 700,000 Norwegian Kroner, approximately Rs 70.5 lakh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-prize-money-did-r-praggnanandhaa-win-after-historic-norway-chess-triumph/articleshow/131544352.cms",
+         "pubDate" : "Sat, 06 Jun 2026 04:25:18",
+         "title" : "How much prize money did R Praggnanandhaa win after historic Norway Chess triumph?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543562.cms\" />R Praggnanandhaa made history, becoming the first Indian to clinch the prestigious Norway Chess title. His mother's timely encouragement proved prophetic as he secured a remarkable comeback victory. A change in his playing strategy, focusing on faster, controlled moves, was key to his triumph.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mom-knows-something-praggnanandhaa-reveals-mothers-prophetic-advice-after-norway-chess-triumph/articleshow/131543562.cms",
+         "pubDate" : "Sat, 06 Jun 2026 03:07:09",
+         "title" : "'Mom knows something': Praggnanandhaa reveals mother's prophetic advice after Norway Chess triumph"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543593.cms\" />Kazakh Grandmaster Bibisara Assaubayeva secured the women's title at Norway Chess on her debut, needing only a draw in her final classical game. Despite early nerves, the 22-year-old dethroned Ukraine's Anna Muzychuk. Indian debutant Divya Deshmukh also contended for the top prize, but time management proved crucial in her decisive clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-nightmare-avoided-as-bibisara-assaubayeva-clinches-title-on-debut/articleshow/131543593.cms",
+         "pubDate" : "Sat, 06 Jun 2026 03:01:59",
+         "title" : "Norway Chess: 'Nightmare' avoided as Bibisara Assaubayeva clinches title on debut"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131542938.cms\" />Rameshbabu Praggnanandhaa has achieved a historic victory at Norway Chess, becoming the first Indian to win the prestigious tournament. He secured the title by defeating Vincent Keymer in a classical game, with a draw between Wesley So and Alireza Firouzja sealing his win. This triumph marks a significant moment for Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-becomes-first-indian-to-raid-magnus-carlsens-backyard-win-historic-title/articleshow/131542938.cms",
+         "pubDate" : "Sat, 06 Jun 2026 01:01:54",
+         "title" : "Norway Chess: Praggnanandhaa becomes first Indian to raid Carlsen's backyard, win historic title"
+      },
+      {
+         "description" : " The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/26th-european-womens-championship-2026",
+         "pubDate" : "Fri, 5 Jun 2026 20:17:00",
+         "title" : "26th European Women's Championship 2026 - Games and Results"
+      },
+      {
+         "description" : "15-year-old Ukrainian rising star Anastasiia Hnatyshyn emerged as the sole winner of the European Women's Chess Championship 2026 in Batumi, Georgia! Anastasiia Hnatyshyn (UKR, 2207) entered the final round as the sole leader of the event, playing with the Black pieces against Polish representative IM Klaudia Kulon (POL, 2377). Kulon was well-prepared for the game and earned an early edge out of the opening, but Hnatyshyn fought precisely and held the game to a draw, which was enough to clinch []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-clinches-european-womens-chess-championship-2026/",
+         "pubDate" : "Fri, 05 Jun 2026 18:20:22",
+         "title" : "15-year-old Anastasiia Hnatyshyn clinches European Women's Chess Championship 2026"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu is the Norway Chess 2026 champion after beating GM Vincent Keymer to complete an amazing run of four classical wins to end the tournament. GM Wesley So finished second after beating GM Alireza Firouzja in armageddon, a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
+         "pubDate" : "Fri, 05 Jun 2026 18:15:00",
+         "title" : "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak"
+      },
+      {
+         "description" : "On June 5, GM Oleksandr Bortnyk became the first player to win nine Freestyle Fridays and to win three in the 2026 Freestyle Friday Championship. A fast 9/9 start was enough to hang on to outright victory through an 0.5/2 finish as Bortnyk returns...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-june-5-2026",
+         "pubDate" : "Fri, 05 Jun 2026 17:34:15",
+         "title" : "Bortnyk Bolts To 9/9 Start For 9th Freestyle Friday"
+      },
+      {
+         "description" : "GM Denis Lazavik, who won Titled Tuesday this week with a dominant 10/11 score, repeated the performance in the first 3 0 Thursday tournament on June 4, scoring another 10 points to take clear first place. The second and third tournaments of the d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-yoo-terry-3-0-thursday-06-04-2026",
+         "pubDate" : "Fri, 05 Jun 2026 11:29:57",
+         "title" : "Lazavik Completes Dominant Week With 3 0 Thursday Victory"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131528437.cms\" />Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-how-r-praggnanandhaa-can-win-2026-title-in-a-three-way-battle-all-scenarios-explained/articleshow/131528437.cms",
+         "pubDate" : "Fri, 05 Jun 2026 10:43:12",
+         "title" : "Explained: How Praggnanandhaa can win Norway Chess in a three-way battle "
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131527989.cms\" />World Champion D Gukesh faces a crucial final-round clash against Magnus Carlsen at Norway Chess 2026. Currently last with eight points, Gukesh must defeat Carlsen in their classical game to move ahead of the Norwegian and avoid finishing at the bottom. Meanwhile, Wesley So, Praggnanandhaa, and Alireza Firouzja remain locked in a thrilling three-way battle for the tournament title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
+         "pubDate" : "Fri, 05 Jun 2026 09:53:13",
+         "title" : "What must Gukesh do to avoid finishing last at Norway Chess 2026?"
+      },
+      {
+         "description" : " The Russian world title challenger and the controversial American have personal issues but similar ratings, and drew 4-4 with a win apiece and six draws Ian Nepomniachtchi, who won two Candidates tournaments but then lost world title matches to Magnus Carlsen and Ding Liren, and Hans Niemann, whose controversial 2022 game with Carlsen is the subject of the Netflix documentary Untold: Chess Mates, tied an eight-game series in Belgrade this week with a win apiece and six draws. Nepo won the first game and Niemann the eighth, after the Russian missed an easy opportunity to win game seven. They played two games a day at a brisk time control of one hour per player plus a 30 seconds per move incr",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jun/05/chess-ian-nepomniachtchi-and-hans-niemann-tie-grudge-match-in-belgrade",
+         "pubDate" : "Fri, 05 Jun 2026 06:30:27",
+         "title" : "Chess: Ian Nepomniachtchi and Hans Niemann tie grudge match in Belgrade"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519958.cms\" />Even with his incredible chess talent and global wins, R Praggnanandhaa confesses he misses out on a regular social life and a broader education. He's felt the strain of his intense schedule, highlighting how crucial downtime and personal interests are for staying sharp and actually enjoying the high-pressure world of professional chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-i-feel-i-focus-too-much-on-chess-r-praggnanandhaa/articleshow/131519958.cms",
+         "pubDate" : "Fri, 05 Jun 2026 02:53:23",
+         "title" : "Praggnanandhaa On Chess Burnout: 'I focus too much on chess'; plans fewer events"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519197.cms\" />R Praggnanandhaa boosted his Norway Chess title hopes with a third straight classical victory, defeating world champion D Gukesh in their Round 9 rematch. After weathering Gukesh's early aggression in the Nimzo-Indian S&auml;misch, Pragg defended accurately. The win avenged his earlier loss to Gukesh and moved him within half a point of leader Wesley So heading into the final round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-takes-revenge-on-world-champion-d-gukesh-title-race-goes-to-final-day/articleshow/131519197.cms",
+         "pubDate" : "Fri, 05 Jun 2026 01:21:37",
+         "title" : "Norway Chess: Praggnanandhaa takes revenge on Gukesh; title race goes to final day"
+      },
+      {
+         "description" : "Editor's Note: Earlier this spring, we reported on the XVII Campeonato Continental Femenino de Ajedrez de Las Am&eacute;ricas, where then-WIM Iris Mou earned the WGM title with her first-place finish.Eight American women made the trip to compete in Peru, including two regular chess-travelers, who have agreed to share their experiences and highlights with Chess Life Online.Lauren Goodkind is a chess coach and chess book author based out of Northern California. Megan Chen is the first woman to play rated chess in all 50 states.We hope this article encourages readers to, in Lauren's words, \"take the leap\" when opportunities for international competition arise. From Lima to Cusco: Growth, Landma",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/take-leap-international-competition-and-travel-xvii-womens-continental-championship-americas",
+         "pubDate" : "Fri, 05 Jun 2026 00:00:00",
+         "title" : "Take The Leap: International Competition and Travel at XVII Women's Continental Championship of the Americas"
+      },
+      {
+         "description" : "The 15-year-old sensation from Ukraine, WFM Anastasiia Hnatyshyn, emerged as the sole leader of the European Women's Chess Championship 2026 after ten rounds of play in Batumi, Georgia! Anastasiia Hnatyshyn (UKR, 2207) defeated IM Eline Roebers (NED, 2389) today with the White pieces to enter the final round of the tournament with a half-point edge over the runners-up. It was a brilliant game for the Ukrainian teenager, who got a clear edge out of the opening and started pressing for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anastasiia-hnatyshyn-heads-into-the-final-round-of-ewcc2026-as-the-sole-leader/",
+         "pubDate" : "Thu, 04 Jun 2026 18:29:36",
+         "title" : "Anastasiia Hnatyshyn heads into the final round of EWCC2026 as the sole leader"
+      },
+      {
+         "description" : "GM Wesley So continues to lead Norway Chess 2026 after round nine, but that lead has thinned to a half-point over GM Praggnanandhaa Rameshbabu. So drew GM Magnus Carlsen and then won the critical extra half-point in armageddon, while Praggnanandha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-9",
+         "pubDate" : "Thu, 04 Jun 2026 13:24:00",
+         "title" : "Assaubayeva Clinches With Round To Spare; Praggnanandhaa Scores Hat Trick Vs. Gukesh"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2026 in Batumi, Georgia, and only two rounds remain before the new champion is crowned. Scoring 7.5/9 points each, 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) and IM Sabrina Vega Gutierrez (ESP, 2375) are tied for first place, entering the penultimate round as tournament co-leaders. Ukraine's 15-year-old teenage sensation, Anastasiia Hnatyshyn, yesterday defeated the reigning Azerbaijani Women's Chess Champion and 2024 European Champion, IM Ulviyya Fataliyeva (AZE, 2450). Hnatyshyn had []",
@@ -50,12 +466,12 @@ news_feed (
          "title" : "Praggnanandhaa Downs Carlsen Again: Indian scores second classical win"
       },
       {
-         "description" : "Sabrina Vega (pictured) and Anastasiia Hnatyshyn share the lead on 7&frac12;/9 with two rounds remaining at the European Women's Chess Championship in Batumi. Vega drew with Black against Eline Roebers in round nine, while Hnatyshyn defeated Ulviyya Fataliyeva to rejoin her in first place. Five players stand half a point behind, with key pairings scheduled for Thursday's penultimate round. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2026-9",
-         "pubDate" : "Wed, 03 Jun 2026 22:45:00",
-         "title" : "Batumi: Vega and Hnatyshyn share the lead with two rounds to go"
+         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess. Today, enjoy an introduction by Assistant Editor Rick Massimo and an essay by GM Paul Van Der Sterren. Next week, keep an eye out for the two other pieces from this series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Capti",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-benefits-empty-mind",
+         "pubDate" : "Thu, 04 Jun 2026 00:00:00",
+         "title" : "Inside Story: The Benefits of An Empty Mind"
       },
       {
          "description" : " WASHINGTON, June 3, 2026 - Today, U.S. Sen. Eric Schmitt (R-MO) and U.S. Rep. Wesley Bell (D-MO) hosted a special bipartisan Congressional Chess Tournament in partnership with the Saint Louis Chess Club, where members of Congress faced off against chess students and internationally recognized chess players during an event designed to showcase the importance of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/u-s-sen-eric-schmitt-r-mo-u-s-rep-wesley-bell-d-mo-and-saint-louis-chess-club-hosts-bipartisan-congressional-chess-tournament-with-leading-chess-figures-and-saint-louis-students-in-the-nation/\">U.S. Sen. Eric Schmitt (R-MO), U.S. Rep. Wesley Bell (D-MO) and Saint",
@@ -82,14 +498,6 @@ news_feed (
          "title" : "Sabrina Vega Gutierrez takes sole lead at European Women's Championship"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu and Alireza Firouzja narrowed the gap to Wesley So with classical wins in round eight of Norway Chess. Pragg defeated Magnus Carlsen for a second time in the event, while Firouzja beat world champion Gukesh Dommaraju to move within 1 point of the leader. So stayed in first place by drawing Vincent Keymer in classical play and winning the Armageddon decider. | Photo: Norway Chess / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2026-8",
-         "pubDate" : "Wed, 03 Jun 2026 07:35:00",
-         "title" : "Norway Chess: Pragg and Firouzja grab classical wins, over Carlsen and Gukesh"
-      },
-      {
          "description" : "The Esports World Cup qualifiers may have already been decided, but there was still much to play for in Titled Tuesday on June 2, with a new prize fund of $10,000. The new prizes attracted a field of more than 500 players for the first time since ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,14 +522,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 National Middle School (K-8) Championship, Pt. 2"
       },
       {
-         "description" : "A match between Hans Niemann and Ian Nepomniachtchi was held in Belgrade from 29 May to 1 June. The confrontation ended in a 4-4 draw. The Russian GM took the lead in the first encounter, and after six drawn games, Niemann levelled the score in the final contest. | Photo: Ljubomir Ljubojevic playing the honorary first move / Endgame AI on X",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-nepomniachtchi-match-belgrade-2026",
-         "pubDate" : "Tue, 02 Jun 2026 19:00:00",
-         "title" : "Belgrade match: Niemann and Nepomniachtchi draw 4-4"
-      },
-      {
          "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only classical draw against GM Vincent Keymer and then winning in armageddon, but we saw world number...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +536,6 @@ news_feed (
          "link" : "https://aicf.in/fa-seminar-siliguri-from-22-24-may-2026/",
          "pubDate" : "Tue, 02 Jun 2026 12:39:08",
          "title" : "FA Seminar, Siliguri from 22-24 May 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131462907.cms\" />Indian Grandmaster Arjun Erigaisi has returned to the world's top 10, climbing to No. 8 in the June 2026 FIDE ratings after gaining 10 points. He is the only Indian in the top 10. Strong performances, including at the TePe Sigeman tournament in Malm&ouml;, boosted his ranking. Although he lost a playoff to Magnus Carlsen, Erigaisi's overall results secured his comeback among chess's elite.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-becomes-only-indian-chess-player-in-fide-top-10-after-latest-rankings-update/articleshow/131462907.cms",
-         "pubDate" : "Tue, 02 Jun 2026 12:03:31",
-         "title" : "Erigaisi becomes only Indian in FIDE top 10 after latest rankings update"
       },
       {
          "description" : "The quantitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess ...",
@@ -162,22 +554,6 @@ news_feed (
          "title" : "Bullet Chess Championship Returns June 22, Firouzja Leads Field To Defend His Crown"
       },
       {
-         "description" : "Montenegro Chess Federation (MCF) and the European Chess Union (ECU) have the honor to invite all the National Federations members of the European Chess Union to participate in the European Junior U20 Chess Championship 2026 which will be held at Hotel Grand, Cetinje, Montenegro, from 5th August to 16th August 2026. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-official-invitation/",
-         "pubDate" : "Tue, 02 Jun 2026 07:42:30",
-         "title" : "European Junior U20 Chess Championship 2026 - Official invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131454727.cms\" />Chess prodigy Wesley So prioritizes the Olympiad over the Global Chess League, citing a desire to dedicate himself fully to team events. Having represented both the Philippines and the USA, So's decision reflects his commitment to the sport's traditional team format. He expressed hope that fellow American Hikaru Nakamura would also participate in the Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/wesley-so-chooses-olympiad-over-global-chess-league/articleshow/131454727.cms",
-         "pubDate" : "Tue, 02 Jun 2026 04:50:01",
-         "title" : "American GM Wesley So chooses Olympiad over GCL in India"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -192,38 +568,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-soliciting-applicants-captain-and-trainer-positions-2026-olympiad",
          "pubDate" : "Tue, 02 Jun 2026 00:00:00",
          "title" : "US Chess Soliciting Applicants for Captain and Trainer Positions for 2026 Olympiad"
-      },
-      {
-         "description" : "Today's puzzles continue our series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-middle-school-k-8-championship-pt-2",
-         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 2"
-      },
-      {
-         "description" : "Announcement: The next issue (July 2026) will be my last as editor of Check is in The Mail. As I transition into a lighter workload and embrace retirement, it feels like the right moment to step back from some of my editorial responsibilities. Thanks to Mike and JJ for allowing me to serve this community for as long as I have. It has been an honor to fill the editor post.In this issue I cover some of the games played by winners in two sections of the 2025 Victor Palciauskas Round Robin tournament. These sections were announced in the last issue's Front Office section. I provide equal coverage for two of the sections, and I have included two games and one puzzle from each winner of those sect",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-june-2026-equal-coverage",
-         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
-         "title" : "Check is in the Mail, June 2026: Equal Coverage!"
-      },
-      {
-         "description" : "1. DGT and ScoresheetsYou and your opponent are essaying a game 60 with a five-second delay (G60/5) on a DGT board in a US Chess rated contest. In those last few hurried minutes, you make a claim correctly. To no one's surprise, your opposition disagrees with your words. Of course, you stopped notating while your time was just about to run out; however, since it is a DGT board, the game data is being recorded by the board. What will the TD rule? A. The TD upholds your claim.B. Your opponent's score is incomplete so it can't be used.C. You forfeit for making a false claim.D. Your claim is denied. You need your accurate scoresheet to make a claim. 2. Observable Illegal MoveIt's the last five m",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-quizamania-runnin-wild",
-         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
-         "title" : "Just the Rules: Quizamania Is Runnin' Wild"
-      },
-      {
-         "description" : "The seventh round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, and only four rounds left to be played before the announcement of the new European Champion. Playing on the top board, the 2023 European Women's Champion IM Meri Arabidze (GEO, 2409) defeated 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) to stop the Ukrainian rising star's perfect run, catching her at the top with a score of 6/7 points. In the meantime, IM Sabrina Vega Gutierrez []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/meri-arabidze-ends-anastasiia-hnatyshyns-perfect-run-in-ewcc2026/",
-         "pubDate" : "Mon, 01 Jun 2026 18:26:13",
-         "title" : "Meri Arabidze ends Anastasiia Hnatyshyn's perfect run in EWCC2026"
       },
       {
          "description" : "GM Arjun Erigaisi lost a tight tiebreak match to GM Magnus Carlsen in the TePe Sigeman Chess Tournament in May. While he couldn&#39;t quite take first place, Arjun&#39;s strong 5/8 performance earned him 10 rating points, raising his rating to 2761. That ...",
@@ -250,36 +594,12 @@ news_feed (
          "title" : "Live games link for 4th Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) & (Category B)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131432528.cms\" />Round 6 of Norway Chess brought a dramatic reversal for India as D Gukesh, R Praggnanandhaa, and Divya Deshmukh all suffered costly classical defeats in the reverse fixtures. Vincent Keymer outplayed Gukesh, Wesley So overcame Praggnanandhaa in a superior endgame, and Women's World Champion Ju Wenjun defeated Divya. Magnus Carlsen returned to winning ways against Alireza Firouzja, while Koneru Humpy lost her Armageddon tie-break, capping a difficult day for India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-gukesh-praggnanandhaa-divya-deshmukh-all-suffer-classical-defeats-magnus-carlsen-smiles-again/articleshow/131432528.cms",
-         "pubDate" : "Mon, 01 Jun 2026 02:39:46",
-         "title" : "Norway Chess: Gukesh, Pragg, Divya all suffer classical defeats"
-      },
-      {
          "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-6",
          "pubDate" : "Sun, 31 May 2026 13:15:00",
          "title" : "Wesley So Wrests Lead From Firouzja, Assaubayeva Regains Women's Lead"
-      },
-      {
-         "description" : "15-year-old Ukrainian WFM Anastasiia Hnatyshyn continues to shine at the European Women's Chess Championship 2026! By scoring her sixth consecutive upset of the tournament, Hnatyshyn maintained her sole lead and perfect run with a flawless 6/6 points just ahead of today's rest day. Anastasiia Hnatyshyn (UKR, 2207) was White against Polish representative IM Oliwia Kiolbasa (POL, 2397) yesterday. While it initially seemed Black would have no trouble equalizing in the opening, Kiolbasa played inaccurate 12&hellip;a4?, instantly handing White the upper []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-maintains-perfect-run-at-ewcc2026/",
-         "pubDate" : "Sun, 31 May 2026 11:20:47",
-         "title" : "15-year-old Anastasiia Hnatyshyn maintains perfect run at EWCC2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417893.cms\" />At Norway Chess Round 5, D Gukesh bounced back from his loss to Magnus Carlsen by defeating R Praggnanandhaa in a tense classical game, climbing to third place. In the women's event, Divya Deshmukh scored her first classical win, beating Zhu Jiner to become sole leader. Meanwhile, Carlsen suffered a third classical defeat, losing to Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-outfoxes-r-praggnanandhaa-magnus-carlsen-loses-again-divya-deshmukh-now-sole-leader/articleshow/131417893.cms",
-         "pubDate" : "Sun, 31 May 2026 02:28:38",
-         "title" : "Norway Chess: Gukesh outfoxes Praggnanandhaa; Carlsen loses again"
       },
       {
          "description" : "GM Oleksandr Bortnyk claimed his 17th career Bullet Brawl title on Saturday, outlasting a 171-player titled field to win the latest edition with a score of 154 points. The Ukrainian speed-chess specialist finished nine points clear of IM Renato Te...",
@@ -298,28 +618,12 @@ news_feed (
          "title" : "Wesley So Beats Carlsen, Gukesh Scores 1st Classical Win, Divya Overtakes Assaubayeva"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131409788.cms\" />While Nihal and his S8UL teammate Aravindh Chithambaram have both successfully qualified for the upcoming Esports World Cup (EWC) 2026 Chess main event, Nihal stands alone as India's premier direct invitee for the country-based ENC tournament, where he will represent Team India Esports.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-nihal-sarin-became-first-indian-chess-player-to-get-esports-nations-cup-invite-will-he-be-the-only-one/articleshow/131409788.cms",
-         "pubDate" : "Sat, 30 May 2026 13:03:39",
-         "title" : "Explained: How Nihal Sarin secured India's first-ever Esports Nations Cup chess invite"
-      },
-      {
          "description" : "We live in an ever faster moving world. With AI, seemingly everything is possible, nearly instantly. You can build apps, learn quicker, have a pocket therapist (highly recommend a real one instead). You name it. But there is one thing you can't outsource to AI: your chess improvement. Skill Is All You Just as you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
          "pubDate" : "Sat, 30 May 2026 13:00:00",
          "title" : "You Can't Outsorce Chess Improvement"
-      },
-      {
-         "description" : "The 2026 European Senior Chess Championship is set to commence this Monday, 1 June, in Acqui Terme, Italy. The event will take place from 1 to 11 June at the Acqui Terme Conference Centre. The event is played in two age categories: 50+ and 65+, Open and Women's sections separately. The tournament gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. The top seeds of the Open 50+ competition are: GM Jean-Marc []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-starts-in-italy/",
-         "pubDate" : "Sat, 30 May 2026 09:35:18",
-         "title" : "European Senior Chess Championship 2026 starts in Italy"
       },
       {
          "description" : "No. Candidate Name 1 Debojyoti Bose 2 Dhananjaya Sabat 3 Anubhav Bal 4 Akhil Bvs 5 Bhaskar Sri Viswaroopanand 6 Tintumon Prakashan 7 Baivab Mishra",
@@ -330,44 +634,12 @@ news_feed (
          "title" : "Certificate of SNA Seminar & Exam in Bhubaneshwar on 17 & 18 January 2026"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131404330.cms\" />Magnus Carlsen's father, Henrik, expressed concern over the immense pressure faced by young chess prodigies like D Gukesh after winning world titles. He highlighted the unique challenges of handling global expectations at such an early age, contrasting Gukesh's Indian background with Magnus's Norwegian upbringing. Henrik also reflected on his own journey as a parent of a chess icon.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/reaching-the-top-at-18-must-be-challenging-magnus-carlsens-father-on-gukeshs-rise/articleshow/131404330.cms",
-         "pubDate" : "Sat, 30 May 2026 05:21:28",
-         "title" : "'Reaching the top at 18 must be challenging': Magnus Carlsen's father on Gukesh's rise"
-      },
-      {
-         "description" : "15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) emerged as the sole leader of the European Women's Chess Championship 2026 after five played rounds! Anastasiia Hnatyshyn today defeated WGM Elmira Mirzoeva (ENG, 2265) to remain the only player in the event with a perfect score of 5/5 points. Hnatyshyn was playing with the Black pieces and seemed to be surprised by Mirzoeva's opening preparation and aggressive 8.h4 approach. The young Ukrainian didn't play accurately early on, allowing Elmira Mirzoeva to earn an []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-grabs-the-sole-lead-in-european-womens-chess-championship-2026/",
-         "pubDate" : "Fri, 29 May 2026 20:03:54",
-         "title" : "15-year-old Anastasiia Hnatyshyn grabs the sole lead in European Women's Chess Championship 2026"
-      },
-      {
          "description" : "GM Volodar Murzin won Freestyle Friday on May 29 with a wire-to-wire win in which he lost no games, taking the tournament outright on a 10/11 score for his first victory ever in the event. All of the top four spots were won without tiebreaks, in f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/murzin-wins-freestyle-friday-may-29-2026",
          "pubDate" : "Fri, 29 May 2026 18:24:41",
          "title" : "Murzin Dominates For 1st Freestyle Friday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131390515.cms\" />D Gukesh enjoyed a funny birthday moment during Norway Chess 2026 celebrations as players sang for his 20th birthday before a sailing event in Oslo. Laughter erupted after Wesley So jokingly asked Javokhir Sindarov, Gukesh's future World Championship challenger, to sing a song. Earlier, Magnus Carlsen defeated Gukesh in Round 4, while Bibisara Assaubayeva continued leading the women's standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-in-splits-after-javokhir-sindarov-asked-to-sing-on-his-birthday/articleshow/131390515.cms",
-         "pubDate" : "Fri, 29 May 2026 14:02:18",
-         "title" : "Watch: Gukesh in splits after Javokhir Sindarov asked to sing on his B-day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131389734.cms\" />Magnus Carlsen's birthday message to D Gukesh went viral during Norway Chess 2026. \"You're not a teenager anymore, time to grow up,\" Carlsen joked as Gukesh turned 20. Several chess stars, including Ju Wenjun and Koneru Humpy, also wished him. Later, Carlsen defeated Gukesh in a closely fought classical game, improving his position in the tournament standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/youre-not-a-teenager-anymore-magnus-carlsens-birthday-wish-for-world-chess-champion-d-gukesh-goes-viral-watch/articleshow/131389734.cms",
-         "pubDate" : "Fri, 29 May 2026 12:03:36",
-         "title" : "'You're not a teenager anymore': Carlsen's B-day wish for Gukesh goes viral - Watch"
       },
       {
          "description" : "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz...",
@@ -394,52 +666,12 @@ news_feed (
          "title" : "Injured Alireza Firouzja plays through pain to shock world No 1 Magnus Carlsen in Oslo"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131380144.cms\" />World Champion D Gukesh suffered a 42-move classical defeat against World No. 1 Magnus Carlsen on the eve of his 20th birthday in Round 4 of Norway Chess 2026. Meanwhile, Divya Deshmukh's brilliant unbeaten streak came to an end after losing her Armageddon tiebreak to Ukraine's Anna Muzychuk. R Praggnanandhaa won his game, while Koneru Humpy's tough run continues.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-d-gukesh-loses-his-last-game-as-teenager-to-magnus-carlsen-divya-deshmukhs-unbeaten-streak-ends/articleshow/131380144.cms",
-         "pubDate" : "Fri, 29 May 2026 02:13:58",
-         "title" : "Norway Chess: Gukesh loses to Magnus Carlsen; Divya's unbeaten streak ends"
-      },
-      {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or wrap-ups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-memorial-day-weekend-wrap",
-         "pubDate" : "Fri, 29 May 2026 00:00:00",
-         "title" : "2026 Memorial Day Weekend Wrap-Up"
-      },
-      {
-         "description" : "The fourth round of the European Women's Chess Championship 2026 was played today in Batumi, Georgia, leaving only two players with a perfect score of 4/4 points! WGM Elmira Mirzoeva (ENG, 2265), the 53rd seed, and 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207), the 76th seed, emerged as the tournament's surprising co-leaders. WFM Anastasiia Hnatyshyn (UKR, 2207) today played on the top board against IM Mai Narva (EST, 2426). Having the White pieces, Hnatyshyn built an opening advantage and kept improving []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/wgm-elmira-mirzoeva-and-wfm-anastasiia-hnatyshyn-co-lead-ewcc2026-after-round-4/",
-         "pubDate" : "Thu, 28 May 2026 18:14:44",
-         "title" : "WGM Elmira Mirzoeva and WFM Anastasiia Hnatyshyn co-lead EWCC2026 after Round 4"
-      },
-      {
          "description" : "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
          "pubDate" : "Thu, 28 May 2026 13:28:00",
          "title" : "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131361310.cms\" />India's R Praggnanandhaa scripted a sensational repeat of history at the Norway Chess tournament in Oslo, stunning local hero and World No. 1 Magnus Carlsen in a 62-move classical encounter. Meanwhile, debutante Divya Deshmukh continued her dream run in the women's section, defeating tournament leader Bibisara Assaubayeva to secure her third consecutive Armageddon victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-shocks-world-no-1-magnus-carlsen-in-classical-3rd-straight-armageddon-win-for-divya-deshmukh/articleshow/131361310.cms",
-         "pubDate" : "Thu, 28 May 2026 01:27:45",
-         "title" : "Historic for India! Praggnanandhaa shocks Magnus Carlsen in Norway; 3rd win for Divya"
-      },
-      {
-         "description" : "After three rounds of play at the European Women's Chess Championship 2026 in Batumi, Georgia, seven players maintain a flawless 3/3 score, closely followed by a group of 15 players on 2.5 points. The early leaders are: IM Mai Narva (EST, 2426), IM Oliwia Kiolbasa (POL, 2397), FM Anna-Maja Kazarian (NED, 2317), WGM Elmira Mirzoeva (ENG, 2265), WFM Anastasiia Hnatyshyn (UKR, 2207), WIM Gulenay Aydin (TUR, 2204), and WFM Varvara Poliakova (FIDE, 2108). IM Mai Narva (EST, 2426) defeated WFM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/seven-players-maintain-perfect-3-3-score-at-european-womens-chess-championship-2026/",
-         "pubDate" : "Wed, 27 May 2026 20:47:50",
-         "title" : "Seven players maintain perfect 3/3 score at European Women's Chess Championship 2026"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu moved up to second place in Norway Chess 2026 after a rollercoaster win over GM Magnus Carlsen, who had fought his way back from the dead to a winning position only to collapse in time trouble. GM Alireza Firouzja lead...",
@@ -450,70 +682,6 @@ news_feed (
          "title" : "Praggnanandhaa Beats Carlsen In Rollercoaster Norway Chess Clash"
       },
       {
-         "description" : "It took him three tries, but Patriots receiver Mack Hollins was thrilled to take his first BlitzChamps title on May 26. Hollins won every match, including a tough finals against Chargers quarterback Justin Herbert, to win the event ahead of seven ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mack-hollins-dominates-blitzchamps-v",
-         "pubDate" : "Wed, 27 May 2026 11:53:03",
-         "title" : "Mack Hollins Dominates BlitzChamps V"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131345262.cms\" />D Gukesh went viral during Norway Chess after hilariously failing to open a water bottle mid-game against Wesley So and quietly putting it back. The funny moment came during a frustrating day for Gukesh, who dominated the classical game but lost in Armageddon. Meanwhile, Alireza Firouzja continued his unbeaten run at the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-champion-d-gukesh-fails-to-open-water-bottle-at-norway-chess-puts-it-back-after-epic-struggle/articleshow/131345262.cms",
-         "pubDate" : "Wed, 27 May 2026 09:00:19",
-         "title" : "Watch: Gukesh fails to open water bottle at Norway Chess, puts it back"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131339869.cms\" />Youngster Divya Deshmukh continued her fine start at Norway Chess by defeating country No. 1 Koneru Humpy in an Armageddon tiebreak after a tactical classical draw. It was a bleak day for India in the open section, however, as R Praggnanandhaa lost in classical to Alireza Firouzja, while D Gukesh fell to Wesley So in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-pips-india-no-1-koneru-humpy-in-armageddon-no-joy-for-gukesh-praggnanandhaa/articleshow/131339869.cms",
-         "pubDate" : "Wed, 27 May 2026 01:41:48",
-         "title" : "Norway Chess: Divya beats India No. 1 Humpy; no joy for Gukesh, Pragg"
-      },
-      {
-         "description" : "Today's puzzles begin a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-middle-school-k-8-championship-pt-1",
-         "pubDate" : "Wed, 27 May 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National Middle School (K-8) Championship, Pt. 1"
-      },
-      {
-         "description" : "The second round of the European Women's Chess Championship 2026 took place today at the Euphoria Hotel, in Batumi, Georgia. Ahead of today's Round 2 battles at the European Women's Chess Championship 2026, the players enjoyed a delicious Khinkali Party for lunch. Khinkali, a traditional Georgian dish, is a legendary staple of Georgian hospitality. It was the perfect way for the players to experience the rich culinary culture of the host nation, share a few smiles outside the playing hall, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2026-round-2-recap/",
-         "pubDate" : "Tue, 26 May 2026 18:54:11",
-         "title" : "European Women's Chess Championship 2026 - Round 2 recap"
-      },
-      {
-         "description" : "GM Alireza Firouzja scored the day&#39;s only classical win, over GM Praggnanandhaa Rameshbabu, to open up a 3.5-point lead in Norway Chess 2026 with a perfect 6/6. GM Magnus Carlsen beat GM Vincent Keymer in armageddon, but that was little consolatio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-2",
-         "pubDate" : "Tue, 26 May 2026 13:40:00",
-         "title" : "Firouzja Strikes Again To Reenter Top 10; Carlsen, Gukesh Miss Wins"
-      },
-      {
-         "description" : "The organizers of the Esports Nations Cup (ENC), the Esports Foundation (EF), have revealed new details about the event&#39;s qualification and wildcard systems. The announcement includes details about how chess players can qualify for the event and h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esports-nations-cup-chess-qualifiers-wildcard-system",
-         "pubDate" : "Tue, 26 May 2026 11:14:00",
-         "title" : "Esports Nations Cup Reveals Chess Qualification Pathway, Wildcards System"
-      },
-      {
-         "description" : "GM Jose Martinez won&#38;nbsp;Titled Tuesday on May 26, starting off 9.5/10 before winning on tiebreaks over GMs Parham Maghsoodloo and Nihal Sarin. The spring split concludes with GM Sina Movahed atop the standings for a $5,000 prize. Next week, ther...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-may-26-2026",
-         "pubDate" : "Tue, 26 May 2026 11:12:57",
-         "title" : "Martinez's Fast Start Brings Tournament Victory"
-      },
-      {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -522,20 +690,12 @@ news_feed (
          "title" : "Announcement : Medical Evaluation in Guwahati ,Assam on 15 & 16 June 2026 ."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131319845.cms\" />India enjoyed a decent opening day at Norway Chess as 20-year-old debutante Divya Deshmukh held World Champion Ju Wenjun to a classical draw before defeating her in the Armageddon tiebreak. Joining her in the winner's circle were D Gukesh and R Praggnanandhaa, who also won their respective Armageddon matches, while Magnus Carlsen suffered a shock defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-divya-deshmukh-stuns-world-champion-ju-wenjun-in-armageddon-magnus-carlsen-handed-shock-defeat/articleshow/131319845.cms",
-         "pubDate" : "Tue, 26 May 2026 01:30:22",
-         "title" : "Norway Chess: Divya stuns world champion; Carlsen handed shock defeat"
-      },
-      {
-         "description" : "Today's puzzles begins a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-national-middle-school-k-8-championship-pt-1",
-         "pubDate" : "Tue, 26 May 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 National Middle School (K-8) Championship, Pt. 1"
+         "description" : " The 14th Norway Chess tournament took place Mon 25th May to Fri 5th Jun 2026. There was the regular tournament and a women's event, this year with the same prize-money. Each event had 6 players and 10 rounds and there was an Armageddon game if there's a draw. Open: Magnus Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. Praggnanandhaa won the event just pipping Wesley So by a point, Praggnanandhaa won his last four games. Magnus Carlsen had his poorest result in my memory, he won three and lost four. Bibisara Assaubayeva had led for much of the women's event",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
+         "pubDate" : "Mon, 25 May 2026 21:14:00",
+         "title" : "14th Norway Chess 2026 - Games and Results"
       },
       {
          "description" : " The answers to today's problems. Earlier today I set these four chess puzzles. Here they are again with solutions. <strong>1. Oddities</strong> <a href=\"https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles\">Continue reading...</a>",
@@ -544,46 +704,6 @@ news_feed (
          "link" : "https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles",
          "pubDate" : "Mon, 25 May 2026 15:42:01",
          "title" : "Did you solve it? Are you on board with these quirky chess puzzles?"
-      },
-      {
-         "description" : " The 14th Norway Chess tournament takes place Mon 25th May to Fri 5th Jun 2026. There is the regular tournament and a women's event, this year with the same prize-money. Each event has 6 players and 10 rounds and an Armageddon game if there's a draw. Open: Magnus Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
-         "pubDate" : "Mon, 25 May 2026 14:04:00",
-         "title" : "14th Norway Chess 2026 - Games and Results"
-      },
-      {
-         "description" : "GM Alireza Firouzja won his first classical game against world number-one GM Magnus Carlsen as Norway Chess 2026 got off to the most dramatic of starts. World Champion GM Gukesh Dommaraju also looked set to fall after losing his way in a wild time...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-1",
-         "pubDate" : "Mon, 25 May 2026 13:57:00",
-         "title" : "Firouzja Stuns Carlsen, Gukesh Escapes As Norway Chess Begins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131305211.cms\" />D Gukesh admitted criticism over his recent poor form is fair, saying, \"They have the right to say what they feel and I have the right to do my best.\" Since winning the world title against Ding Liren in 2024, Gukesh has struggled for consistency, drawing criticism from legends like Magnus Carlsen and Anatoly Karpov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-breaks-silence-on-criticism-they-have-the-right-to-say/articleshow/131305211.cms",
-         "pubDate" : "Mon, 25 May 2026 08:31:23",
-         "title" : "Gukesh breaks silence on criticism: 'They have the right to say'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131303861.cms\" />As Norway Chess moves to Oslo for its 2026 edition, all eyes are on the Indian contingent. From World Champion D Gukesh seeking urgent form before his title defence to Koneru Humpy making a highly anticipated return to the board, we break down the biggest storylines dominating the 12-day double round-robin tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-gukeshs-test-koneru-humpys-return-why-should-you-be-excited/articleshow/131303861.cms",
-         "pubDate" : "Mon, 25 May 2026 07:34:58",
-         "title" : "Norway Chess: Gukesh's test, Humpy's return - Why should you be excited?"
-      },
-      {
-         "description" : "GM Hikaru Nakamura reached the Bullet Brawl stratosphere on Saturday after winning 56 games, drawing three, and losing only eight in the two-hour arena, which saw him register a colossal score of 200 points and take home the $400 first prize. Naka...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-23-2026",
-         "pubDate" : "Sat, 23 May 2026 17:55:00",
-         "title" : "Nakamura Rockets To 1st Bullet Brawl Double Century Of 2026"
       },
       {
          "description" : " The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6/9 half a point clear of Fabiano Caruana on 5.5, Javokhir Sindarov and Wesley So were half a point further back on 5 points. Alireza Firouzja withdrew after five rounds after badly hurting his ankle, he had tried to carry on for a couple of rounds after round 3.",
@@ -618,46 +738,6 @@ news_feed (
          "title" : "Live Game Link -17th KIIT Chess Festival"
       },
       {
-         "description" : "GM Vincent Keymer has won the Super Chess Classic Romania 2026 and its $100,000 first place prize after defeating GM Jorden van Foreest in the only decisive game of the ninth and final round, avoiding playoffs. GM Fabiano Caruana, who entered the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-gct-super-chess-classic-romania",
-         "pubDate" : "Sat, 23 May 2026 08:14:00",
-         "title" : "Keymer Wins Super Chess Classic With Final-Round Victory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131272670.cms\" />Aravindh Chithambaram recently became the first Indian to qualify for the 2026 Esports Chess World Cup after winning at DreamHack Atlanta. Raised by his mother and grandparents after losing his father at age three, Aravindh discovered chess through his grandfather. With strong family support and guidance from coach RB Ramesh, he steadily rose through the ranks to become a national champion and elite player.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/lost-father-at-3-mothers-belief-stayed-aravindh-chithambarams-rise-to-becoming-first-indian-at-esports-chess-world-cup-2026/articleshow/131272670.cms",
-         "pubDate" : "Sat, 23 May 2026 06:15:24",
-         "title" : "Lost father at 3, mom's belief stayed: Aravindh's rise to becoming first Indian at EWC 2026"
-      },
-      {
-         "description" : "None of the three winners in 3 0 Thursday tournaments on May 21 has even reached 20 years of age. The three teenagers&#38;mdash;FM Artin Ashraf, GM Denis Lazavik, and Pranesh M&#38;mdash;all scored victories ahead of their much more experienced colleagues...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ashraf-lazavik-pranesh-3-0-thursday-05-21-2026",
-         "pubDate" : "Fri, 22 May 2026 17:31:59",
-         "title" : "Teenagers Dominate 3 0 Thursday Tournaments"
-      },
-      {
-         "description" : "After a draw in their direct encounter, GMs Fabiano Caruana and Vincent Keymer lead the Super Chess Classic Romania 2026 ahead of the last round. Against GM Jorden van Foreest, who started the round in shared first, GM Javokhir Sindarov scored his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-8",
-         "pubDate" : "Fri, 22 May 2026 13:35:00",
-         "title" : "Caruana, Keymer Lead Ahead Of Final Day As Van Foreest, Giri Falter"
-      },
-      {
-         "description" : "For GM Haik Martirosyan, last month, it was Titled Tuesday. This month, Freestyle Friday. Martirosyan won the weekly freestyle chess event on May 22, his second following a win on February 13. Martirosyan scored an incredible 10.5 back then, but t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martirosyan-wins-freestyle-friday-may-22-2026",
-         "pubDate" : "Fri, 22 May 2026 11:38:02",
-         "title" : "Martirosyan Wins Another Tournament"
-      },
-      {
          "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026. To apply for an award you must complete the official...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -666,108 +746,12 @@ news_feed (
          "title" : "2026 ECF Awards"
       },
       {
-         "description" : "Huddle up, chess fans: BlitzChamps V is back. Eight NFL stars are trading the field for the board on May 26 at 5:30 p.m. ET / 23:30 CEST, and the clock will be just as dangerous as any pass rush. With bragging rights and a $100,000 prize fund goin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-v",
-         "pubDate" : "Fri, 22 May 2026 10:00:00",
-         "title" : "BlitzChamps V Returns With Star NFL Players On May 26"
-      },
-      {
          "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often medal contenders This week's puzzle is a chance to enter an annual national competition in which Guardian readers ­traditionally perform well and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by the investment ­managers ­Winton. This competition is only open to ­British ­residents and entry is free. To take part, simply send White's first move ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/may/22/chess-your-chance-to-take-part-in-the-british-solving-championship",
          "pubDate" : "Fri, 22 May 2026 07:00:52",
          "title" : "Chess: your chance to take part in the British Solving Championship"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Phil Carney.<br> <br> <br> <br> On the final weekend in March, D.C.-area students gathered at the Stead Park Recreation Center for the Charles Carroll Carter Capital Chess Classic, a free-to-enter K-12 tournament run by Silver Knights Chess Academy with free lunch and a $10,000 college scholarship prize fund generously provided by Friends of Stead Park.The tournament's 81 competitors included players from each of D.C.'s eight wards, and more than 35 schools from all over the city were represented. Twenty local students of varying ages and grade levels went home with a share of the prize fun",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/checkmates-and-checks-how-dc-tournament-helped-local-students-land-college-scholarships",
-         "pubDate" : "Fri, 22 May 2026 00:00:00",
-         "title" : "Checkmates and Checks: How a D.C. Tournament Helped Local Students Land College Scholarships"
-      },
-      {
-         "description" : "GM Javokhir Sindarov pounced on a mistake by leader GM Vincent Keymer to grab his first classical win since the FIDE Candidates and transform the Super Chess Classic Romania 2026 standings with two rounds to go. Keymer was caught by GM Fabiano Car...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-gct-super-chess-classic-romania-round-7",
-         "pubDate" : "Thu, 21 May 2026 11:10:00",
-         "title" : "Sindarov's 1st Win Since Candidates Sees Caruana, Van Foreest Catch Keymer"
-      },
-      {
-         "description" : "Editor's note: If any photo is missing or misidentified, please email Click here to show email address for corrections or additions.You could fill up a whole chess board with the 64 USA players who took the trip to Playa Salinitas, Sonsonate, El Salvador for the XV Pan-American U7-U17 Chess Championship.There's power in numbers, as USA won five gold medals across the 12 sections. Overall, USA finished with 12 medals and finished with the most podium points out of the 25 federations in attendance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Mohit Manchanda<br> <br> <br> <br> As a continental event, medalists are eligible for direct ti",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/usa-wins-12-medals-top-honors-xv-pan-american-u7-u17",
-         "pubDate" : "Thu, 21 May 2026 00:00:00",
-         "title" : "USA Wins 12 Medals, Top Honors at XV Pan-American U7-U17"
-      },
-      {
-         "description" : "Please find below IA FA SNA",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-list-of-successful-arbiters-aicf-arbiters-refresher-course-2026-27/",
-         "pubDate" : "Wed, 20 May 2026 08:33:13",
-         "title" : "Final list of Successful Arbiters - AICF Arbiters Refresher Course 2026-27."
-      },
-      {
-         "description" : "No Name 1 Simranjot, Kaur 2 Kuldeep, Sahajlan 3 Keshav, Kumar 4 Arul, Tripathi 5 Shweta 6 Ashu, Tosh Kaushal 7 Bansal, Arun 8 Lakshita,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-held-in-mohali-on-31-jan-01-feb-2026/",
-         "pubDate" : "Wed, 20 May 2026 08:22:55",
-         "title" : "Certificate of SNA Seminar & Exam held in Mohali on 31 Jan & 01 Feb 2026"
-      },
-      {
-         "description" : "Organised by the British Chess Problem Society!&#160; Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2026-2027/",
-         "pubDate" : "Wed, 20 May 2026 07:00:16",
-         "title" : "Winton British Chess Solving Championship 2026-2027"
-      },
-      {
-         "description" : "A Senior National Arbiter Seminar &#38; Examination was organized by Andhra Pradesh Chess Association on behalf of All India Chess Federation at the Waltair Club",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-at-visakhapatnam-02-03-may-2026/",
-         "pubDate" : "Tue, 19 May 2026 09:12:43",
-         "title" : "Final Report: Senior National Arbiter Seminar & Examination at Visakhapatnam - 02 & 03 May 2026"
-      },
-      {
-         "description" : "Looking back over the past 5 years in chess education, I have repeatedly gotten one piece of advice that never sat right with me: &#8220;Don't tell people it is hard. You need to make it fun, otherwise they'll never buy anything from you.&#8221; The people who told me this were well meaning. They thought I'd []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/worst-advice-truth-about-success/",
-         "pubDate" : "Sat, 16 May 2026 13:00:00",
-         "title" : "The Worst Advice I ever Got"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation ,&#160;AOCA &#160;is organizing Senior National Arbiter Seminar &#38; exam&#160;on 25 &#38; 26 May 2026&#160;at KIIT University ,Bhubaneshwar .",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-on-25-26-may-2026-at-kiit-university-bhubaneshwar/",
-         "pubDate" : "Sat, 16 May 2026 12:37:54",
-         "title" : "SNA Seminar & Exam on 25 & 26 May 2026 at KIIT University ,Bhubaneshwar ."
-      },
-      {
-         "description" : "England's most prestigious team chess competition for schools has found a new homegrown sponsor in&#160;educational books specialist CGP.&#160;The Cumbria-based publisher has stepped forward to support the&#160;2026 English Schools Chess Championships,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uks-favourite-educational-book-seller-supports-english-schools-chess-championships/",
-         "pubDate" : "Fri, 15 May 2026 08:53:05",
-         "title" : "UK's favourite educational book seller supports English Schools Chess Championships"
-      },
-      {
-         "description" : " US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10 Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen at the 2022 Sinquefield Cup led to cheating allegations, a $100m lawsuit, an out-of-court settlement, the Netflix documentary Untold: Chess Mates, and a forthcoming book, scored the most important success of his career last weekend. Niemann, competing as a wildcard, won the $50,000 (&pound;37,400) first prize at the Warsaw Rapid and Blitz in Poland, ahead of the US champion and world No 3, Fabiano Caruana, India's reigning world champion, Gukesh Dommaraju, and the Candidates winner, Javokhir S",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
-         "pubDate" : "Fri, 15 May 2026 07:00:31",
-         "title" : "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw"
       }
    ]
 }
