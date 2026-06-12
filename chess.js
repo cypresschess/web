@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son, and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Continue reading...",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik",
+         "pubDate" : "Fri, 12 Jun 2026 07:00:38",
+         "title" : "Chess: Carlsen heads for Hong Kong while Russia unveils the next Botvinnik"
+      },
+      {
+         "description" : "Shamsiddin Vokhidov took the sole lead at the UzChess Cup after scoring his third consecutive win in Tashkent, defeating Ian Nepomniachtchi with the white pieces. The 24-year-old Uzbek grandmaster now stands on 3&frac12;/5, half a point ahead of Nodirbek Abdusattorov, Arjun Erigaisi and Mukhiddin Madaminov. Madaminov also won in round five, beating Shakhriyar Mamedyarov with the black pieces. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-5",
+         "pubDate" : "Fri, 12 Jun 2026 02:50:00",
+         "title" : "UzChess Cup: Vokhidov upsets Nepomniachtchi, grabs the sole lead"
+      },
+      {
          "description" : "Jon Speelman returns to the importance of seeing the whole board when calculating, using a series of positions in which small changes far from the main action transform the evaluation. Examples include back-rank motifs, a double bishop sacrifice inspired by Emanuel Lasker v. Johann Bauer and an adjourned game involving Alexander Kotov and Glenn Lambert. The focus is on tactical awareness, pawn moves, quiet resources and the need to continue variations until the position becomes stable.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
-         "pubDate" : "Thu, 11 Jun 2026 14:44:11",
+         "pubDate" : "Thu, 11 Jun 2026 14:44:00",
          "title" : "Vokhidov Takes Sole Lead With 3-Win Streak"
       },
       {
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://aicf.in/todays-chess-problem-corner-11-june-2026/",
          "pubDate" : "Thu, 11 Jun 2026 12:30:23",
          "title" : "Today's Chess Problem corner 11 June 2026"
-      },
-      {
-         "description" : "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov share the lead on 2&frac12; points after four rounds. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-         "pubDate" : "Thu, 11 Jun 2026 12:00:00",
-         "title" : "UzChess Cup - Live!"
       },
       {
          "description" : "The European Senior Chess Championship 2026 concluded yesterday in Acqui Terme, Italy! The event was played in two age categories: 50+ and 65+, open and women's sections separately, gathering nearly 250 players coming from 34 European federations. After nine played rounds, GM Jean-Marc Degraeve (FRA, 2494) emerged as the sole winner of the 50+ Open competition, scoring 7/9 points. As many as five players tied for silver with the score of 6.5/9 points (each): GM Daniel Gormally (ENG, 2391), GM []",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-ecf-awards/",
          "pubDate" : "Fri, 22 May 2026 10:00:58",
          "title" : "2026 ECF Awards"
-      },
-      {
-         "description" : " The winner will qualify for the GB team for the 2027 World Solving Championship, an event where they are often medal contenders This week's puzzle is a chance to enter an annual national competition in which Guardian readers ­traditionally perform well and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society and sponsored by the investment ­managers ­Winton. This competition is only open to ­British ­residents and entry is free. To take part, simply send White's first move ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/may/22/chess-your-chance-to-take-part-in-the-british-solving-championship",
-         "pubDate" : "Fri, 22 May 2026 07:00:52",
-         "title" : "Chess: your chance to take part in the British Solving Championship"
       }
    ]
 }
