@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son, and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Continue reading...",
+         "description" : "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov share the lead on 2&frac12; points after four rounds. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-live",
+         "pubDate" : "Fri, 12 Jun 2026 12:00:00",
+         "title" : "UzChess Cup - Live!"
+      },
+      {
+         "description" : "This event takes place from Friday 12 to Sunday 14 June 2026. Coming to Lyon - and in particular to the Lyon Olympique Échecs club - are a World Vice-Champion and European Champion, one French champion and one World Chess Champion! The hosts are delighted to announce the visit of Anna Ushenina, 2012 Women's World Chess Champion, for the event!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cassa-trophy-final-in-lyon",
+         "pubDate" : "Fri, 12 Jun 2026 10:00:00",
+         "title" : "Caïssa Trophy Final in Lyon"
+      },
+      {
+         "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 (&pound;133,000) Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Con",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Vokhidov Takes Sole Lead With 3-Win Streak"
       },
       {
-         "description" : "Problem 1 Black's Turn to promote white to play and mate in two moves",
+         "description" : "Problem 1 Black's Turn to promote white to play and mate in two moves {[#]} 1. Qe8 Kd1 (1 Kf1 2. Qb5#) (1 d1=Q 2.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/todays-chess-problem-corner-11-june-2026/",
@@ -382,7 +398,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lazavik-yoo-terry-3-0-thursday-06-04-2026",
-         "pubDate" : "Fri, 05 Jun 2026 11:29:57",
+         "pubDate" : "Fri, 05 Jun 2026 11:29:00",
          "title" : "Lazavik Completes Dominant Week With 3 0 Thursday Victory"
       },
       {
@@ -654,7 +670,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-duda-terry-3-0-thursday-05-28-2026",
-         "pubDate" : "Fri, 29 May 2026 11:34:38",
+         "pubDate" : "Fri, 29 May 2026 11:34:00",
          "title" : "3 0 Thursday Stars Martinez, Duda, Terry All Claim Victories"
       },
       {
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-17th-kiit-chess-festival/",
          "pubDate" : "Sat, 23 May 2026 10:13:41",
          "title" : "Live Game Link -17th KIIT Chess Festival"
-      },
-      {
-         "description" : "Nominations are now invited for this year's ECF awards, covering the period from 1st June 2025 to 31st May 2026. To apply for an award you must complete the official...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-ecf-awards/",
-         "pubDate" : "Fri, 22 May 2026 10:00:58",
-         "title" : "2026 ECF Awards"
       }
    ]
 }
