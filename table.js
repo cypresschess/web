@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
 "HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
+"HOUSTON","2026-06-06","38","<a href=https://ratings.uschess.org/event/202606061253 target='_blank'>TEXAS STATE CHESS TRIATHLON 2026</a>",
 "HOUSTON","2026-06-06","6","<a href=https://ratings.uschess.org/event/202606060203 target='_blank'>chesspanda06062026saturday</a>",
 "CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-03-15","31","<a href=https://ratings.uschess.org/event/202603150003 target='_blank'>MTS-Houston Chess Academy- Scholastic Mar 2026</a>",
 "HOUSTON","2026-03-14","12","<a href=https://ratings.uschess.org/event/202603141353 target='_blank'>Lone Star Open Blitz</a>",
 "HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
-"CYPRESS","2026-03-13","31","<a href=https://ratings.uschess.org/event/202603130203 target='_blank'>Knights of Cypress</a>",
 ]);
