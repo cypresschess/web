@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2026-06-12","20","<a href=https://ratings.uschess.org/event/202606120193 target='_blank'>FBCC 2026 National Superman Day Ope</a>",
+"SPRING","2026-06-12","36","<a href=https://ratings.uschess.org/event/202606120083 target='_blank'>2026 Kings & Queens Chess Camp</a>",
 "HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
 "HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
 "HOUSTON","2026-06-06","38","<a href=https://ratings.uschess.org/event/202606061253 target='_blank'>TEXAS STATE CHESS TRIATHLON 2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-03-15","157","<a href=https://ratings.uschess.org/event/202603150483 target='_blank'>2026 Lone Star Open</a>",
 "HOUSTON","2026-03-15","10","<a href=https://ratings.uschess.org/event/202603150303 target='_blank'>Bellaire Sunday Swiss 2026.03.15</a>",
 "HOUSTON","2026-03-15","31","<a href=https://ratings.uschess.org/event/202603150003 target='_blank'>MTS-Houston Chess Academy- Scholastic Mar 2026</a>",
-"HOUSTON","2026-03-14","12","<a href=https://ratings.uschess.org/event/202603141353 target='_blank'>Lone Star Open Blitz</a>",
-"HOUSTON","2026-03-14","41","<a href=https://ratings.uschess.org/event/202603141343 target='_blank'>2026 Lone Star Scholastic</a>",
 ]);
