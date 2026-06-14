@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2026-06-13","15","<a href=https://ratings.uschess.org/event/202606130543 target='_blank'>Poison Pawns June 2026 Grinder</a>",
+"HOUSTON","2026-06-13","3","<a href=https://ratings.uschess.org/event/202606130373 target='_blank'>chesspanda06132026saturday</a>",
+"CYPRESS","2026-06-12","43","<a href=https://ratings.uschess.org/event/202606120293 target='_blank'>Knights of Cypress</a>",
+"SPRING","2026-06-12","22","<a href=https://ratings.uschess.org/event/202606120253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-06-12","20","<a href=https://ratings.uschess.org/event/202606120193 target='_blank'>FBCC 2026 National Superman Day Ope</a>",
 "SPRING","2026-06-12","36","<a href=https://ratings.uschess.org/event/202606120083 target='_blank'>2026 Kings & Queens Chess Camp</a>",
 "HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
@@ -95,8 +99,4 @@ jtable([
 "SPRING","2026-03-20","22","<a href=https://ratings.uschess.org/event/202603200433 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-03-20","12","<a href=https://ratings.uschess.org/event/202603200323 target='_blank'>FBCC 2026 World Storytelling Day Open</a>",
 "CYPRESS","2026-03-20","45","<a href=https://ratings.uschess.org/event/202603200313 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-03-15","6","<a href=https://ratings.uschess.org/event/202603150563 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
-"HOUSTON","2026-03-15","157","<a href=https://ratings.uschess.org/event/202603150483 target='_blank'>2026 Lone Star Open</a>",
-"HOUSTON","2026-03-15","10","<a href=https://ratings.uschess.org/event/202603150303 target='_blank'>Bellaire Sunday Swiss 2026.03.15</a>",
-"HOUSTON","2026-03-15","31","<a href=https://ratings.uschess.org/event/202603150003 target='_blank'>MTS-Houston Chess Academy- Scholastic Mar 2026</a>",
 ]);
