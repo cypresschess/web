@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-06-15","15","<a href=https://ratings.uschess.org/event/202606150083 target='_blank'>shadowcreek06152026mondayafternoon</a>",
+"HOUSTON","2026-06-15","12","<a href=https://ratings.uschess.org/event/202606150073 target='_blank'>shadowcreek06152026mondaymorning</a>",
 "HOUSTON","2026-06-14","42","<a href=https://ratings.uschess.org/event/202606140463 target='_blank'>Summer FIDE 2026</a>",
 "HOUSTON","2026-06-13","15","<a href=https://ratings.uschess.org/event/202606130543 target='_blank'>Poison Pawns June 2026 Grinder</a>",
 "HOUSTON","2026-06-13","3","<a href=https://ratings.uschess.org/event/202606130373 target='_blank'>chesspanda06132026saturday</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-03-21","203","<a href=https://ratings.uschess.org/event/202603211123 target='_blank'>Strake Jesuit High School</a>",
 "SUGAR LAND","2026-03-21","5","<a href=https://ratings.uschess.org/event/202603210803 target='_blank'>spring-03-21-2026</a>",
 "HOUSTON","2026-03-21","9","<a href=https://ratings.uschess.org/event/202603210363 target='_blank'>chesspanda03212026saturday</a>",
-"SPRING","2026-03-20","22","<a href=https://ratings.uschess.org/event/202603200433 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-03-20","12","<a href=https://ratings.uschess.org/event/202603200323 target='_blank'>FBCC 2026 World Storytelling Day Open</a>",
 ]);
