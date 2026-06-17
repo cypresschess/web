@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-06-16","18","<a href=https://ratings.uschess.org/event/202606160013 target='_blank'>shadowcreek06162026tuesdaymorning</a>",
 "HOUSTON","2026-06-15","15","<a href=https://ratings.uschess.org/event/202606150083 target='_blank'>shadowcreek06152026mondayafternoon</a>",
 "HOUSTON","2026-06-15","12","<a href=https://ratings.uschess.org/event/202606150073 target='_blank'>shadowcreek06152026mondaymorning</a>",
 "HOUSTON","2026-06-14","42","<a href=https://ratings.uschess.org/event/202606140463 target='_blank'>Summer FIDE 2026</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-03-21","19","<a href=https://ratings.uschess.org/event/202603211503 target='_blank'>HCA-CK open- Mar2026</a>",
 "HOUSTON","2026-03-21","203","<a href=https://ratings.uschess.org/event/202603211123 target='_blank'>Strake Jesuit High School</a>",
 "SUGAR LAND","2026-03-21","5","<a href=https://ratings.uschess.org/event/202603210803 target='_blank'>spring-03-21-2026</a>",
-"HOUSTON","2026-03-21","9","<a href=https://ratings.uschess.org/event/202603210363 target='_blank'>chesspanda03212026saturday</a>",
 ]);
