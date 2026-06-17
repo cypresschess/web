@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-junior-chess-championships-2026/#new_tab",
+         "pubDate" : "Wed, 17 Jun 2026 10:12:14",
+         "title" : "World Junior Chess Championships"
+      },
+      {
          "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
