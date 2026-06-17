@@ -2,20 +2,172 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov share the lead on 2&frac12; points after four rounds. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "description" : "Chess and brain-computer interface research came together at a clinical symposium held at the Chinese University of Hong Kong, Shenzhen, with FIDE Treasurer Zhu Chen among the invited guests. The event followed recent demonstrations of BCI technology through online chess, including Neuralink patient Noland Arbaugh's game against Anna Cramling. Researchers discussed medical applications for neurological conditions, while chess was presented as a useful tool for exploring cognition, digital interaction and future clinical testing. | Photo: Liang Ziming",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-         "pubDate" : "Fri, 12 Jun 2026 12:00:00",
-         "title" : "UzChess Cup - Live!"
+         "link" : "https://en.chessbase.com/post/chess-innovation-brain-computer-interface",
+         "pubDate" : "Wed, 17 Jun 2026 02:00:00",
+         "title" : "Chess emerging as tool for innovation on brain-computer interface systems"
       },
       {
-         "description" : "This event takes place from Friday 12 to Sunday 14 June 2026. Coming to Lyon - and in particular to the Lyon Olympique Échecs club - are a World Vice-Champion and European Champion, one French champion and one World Chess Champion! The hosts are delighted to announce the visit of Anna Ushenina, 2012 Women's World Chess Champion, for the event!",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131768335.cms\" />India's 72nd Grandmaster Mitrabha Guha, who once appeared on Kaun Banega Crorepati and won Rs 4.8 lakh has secured India's final spot for the Esports Nations Cup 2026. The Kolkata player overcame years of financial struggles and family sacrifices to reach the top. Now pursuing an MBA, the Commonwealth classical chess champion is set to compete alongside stars like Magnus Carlsen and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-rs-4-8-lakh-at-kbc-to-commonwealth-gold-and-now-carrying-indias-hope-at-enc-mitrabha-guha-stays-on-the-hot-seat/articleshow/131768335.cms",
+         "pubDate" : "Tue, 16 Jun 2026 23:30:00",
+         "title" : "From Rs 4.8L at KBC to Commonwealth Gold and carrying India's hope at ENC: Guha on hot seat"
+      },
+      {
+         "description" : "The opening press conference for the FIDE World Team Rapid and Blitz Championships 2026 took place on June 16 at The Pavilion, The Fullerton Ocean Park Hotel Hong Kong, marking the official start of one of FIDE's most dynamic and spectator-friendly competitions. The event brings together more than 40 teams and over 300 players from around the world, featuring elite grandmasters, top women players, rising stars and amateur participants competing side by side in a unique team format.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cassa-trophy-final-in-lyon",
-         "pubDate" : "Fri, 12 Jun 2026 10:00:00",
-         "title" : "Caïssa Trophy Final in Lyon"
+         "link" : "https://en.chessbase.com/post/fide-world-team-rapid-and-blitz",
+         "pubDate" : "Tue, 16 Jun 2026 21:00:00",
+         "title" : "FIDE World Team Rapid and Blitz"
+      },
+      {
+         "description" : " <a href=\"https://en.wikipedia.org/wiki/Mukhiddin_Madaminov\">Mukhiddin Madaminov</a> won the <a href=\"https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026\">3rd Uzchess Cup in Tashkent</a>, a real surprise as he was the bottom seed and there as a replacement for Javokhir Sindarov. Madaminov won a final blitz tie-break 2-0 against fellow Uzbekistani <a href=\"https://en.wikipedia.org/wiki/Shamsiddin_Vokhidov\">Shamsiddin Vokhidov</a> who also wasn't one of the favourites. Madaminov's victory came after a long game against Hans Moke Niemann where he was pressing for a win but was also in danger of losing at one stage. He didn't have more than a few minutes to prepare for the tie-break",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
+         "pubDate" : "Tue, 16 Jun 2026 15:17:00",
+         "title" : "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9"
+      },
+      {
+         "description" : "Magnus Carlsen makes his Hong Kong debut, alongside American star Fabiano Caruana and other chess super-stars, as the city takes centre stage of the chess world. Carlsen today made his first official appearance in the city, taking part in a press conference for the FIDE World Team Rapid & Blitz Chess Championships 2026. That begins tomorrow and runs from 17-21 June. The prize fund: €500,000 - and the title of the strongest team on the planet across the sport's two most thrilling formats.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hong-kong-takes-centre-stage",
+         "pubDate" : "Tue, 16 Jun 2026 14:37:40",
+         "title" : "Hong Kong takes centre stage"
+      },
+      {
+         "description" : "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn&#39;t ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-june-16-2026",
+         "pubDate" : "Tue, 16 Jun 2026 11:34:39",
+         "title" : "Nearly Perfect Sarana Tops Returning Carlsen"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the inaugural 2026 ASEAN E-Sports Chess Cup on June 13 and the $8,500 first prize. After finishing at the top of Group A, he went on to defeat GM Andrey Esipenko 2-1 in the Championship Final. The event took place at the Fou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2026-asean-e-sports-chess-cup",
+         "pubDate" : "Tue, 16 Jun 2026 10:00:00",
+         "title" : "Carlsen Wins 2026 ASEAN E-Sports Chess Cup"
+      },
+      {
+         "description" : "The inaugural Esports Nations Cup will take place in Riyadh, Saudi Arabia, from November 2 to 29. Unlike the Esports World Cup, which focuses on esports teams, the ENC will feature players representing their countries and territories across 16 esp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
+         "pubDate" : "Tue, 16 Jun 2026 06:55:00",
+         "title" : "Vachier-Lagrave, Le, Bluebaum Among Stars To Play In Esports Nations Cup Finals"
+      },
+      {
+         "description" : "Rating Fee Increase Effective July 1US Chess will increase the per-game rating fee from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game rating fee has not budged for more than twenty ye",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rating-fee-increase-effective-july-1",
+         "pubDate" : "Tue, 16 Jun 2026 00:00:00",
+         "title" : "Rating Fee Increase Effective July 1"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-35th-annual-chicago-open-pt-2",
+         "pubDate" : "Tue, 16 Jun 2026 00:00:00",
+         "title" : "Tactics Tuesday: 35th Annual Chicago Open, Pt. 2"
+      },
+      {
+         "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
+         "pubDate" : "Mon, 15 Jun 2026 21:52:00",
+         "title" : "3rd UzChess Cup 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Mukhiddin Madaminov&#38;nbsp;won the 2026 UzChess Cup Masters and $20,000 on June 15 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
+         "pubDate" : "Mon, 15 Jun 2026 13:12:02",
+         "title" : "Madaminov Takes UzChess Cup In Tiebreaks"
+      },
+      {
+         "description" : "In 2024, CM Odin Blikra Vea and Askild Bryn played 383 five-minute blitz games over more than 61 hours to set a new Guinness World Record for the longest chess marathon. In a new Chess.com documentary, the Norwegian duo revisits the highs, halluci...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/guinness-world-record-marathon-documentary-released",
+         "pubDate" : "Mon, 15 Jun 2026 08:27:00",
+         "title" : "Chess.com Documentary Revisits Guinness World Record Chess Marathon"
+      },
+      {
+         "description" : "You&#39;re smarter than you think, and we can prove it. You&#39;ve probably played more brilliant moves than you remember&#38;mdash;and you can now review them all with our new advanced stats feature! Diamond members can now relive their greatest moments and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-advanced-stats",
+         "pubDate" : "Mon, 15 Jun 2026 08:00:00",
+         "title" : "Relive All Your Brilliant Moves With Our New Advanced Stats Feature"
+      },
+      {
+         "description" : "The Frank P. Samford, Jr. Chess Fellowship, marking its 40th annual award, has selected Grandmasters Andy Woodward of McKinney, Texas; Abhimanyu Mishra of Englishtown, New Jersey; Andrew Hong of Saratoga, California; Brewington Hardaway of New York City; Kirk Ghazarian of Trabuco Canyon, California; International Masters Carissa Yip of St. Louis; Alice Lee of North Oaks, Minnesota; Rose Atwell of Valencia, California; Woman Grandmaster Zoey Tang of Portland, Oregon; and FIDE Master Megan Paragua of New York City as its 2026 Fellows. The Samford is the most important chess fellowship in the United States, having awarded three million dollars over four decades.Since its 1987 inception, the Fel",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-samford-fellowship-winners-announced",
+         "pubDate" : "Mon, 15 Jun 2026 00:00:00",
+         "title" : "2026 Samford Fellowship Winners Announced"
+      },
+      {
+         "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/blohberger-beats-navara-3.5-2.5-in-a-match",
+         "pubDate" : "Sun, 14 Jun 2026 14:13:00",
+         "title" : "Blohberger beats Navara 3.5-2.5 in a match - 3-4"
+      },
+      {
+         "description" : " David Navara played Felix Blohberger in a six game match in Vienna Mon 8th Jun - Sat 13th Jun 2026. Blohberger won game three and the remaining games were drawn.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026",
+         "pubDate" : "Sun, 14 Jun 2026 12:20:00",
+         "title" : "Navara vs Blohberger Match 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Hikaru Nakamura, the undisputed king of Bullet Brawl, pulled off another comprehensive victory on Saturday, gaining his 10th title in as many appearances in 2026. Nakamura finished with 182 points, 42 points clear of GM Oleksandr Bortnyk, and a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-13-2026",
+         "pubDate" : "Sat, 13 Jun 2026 18:38:00",
+         "title" : "Nakamura Wins 10th Bullet Brawl Of 2026, Maintains Perfect Record"
+      },
+      {
+         "description" : "Do you know that feeling lying in your bed, really satisfied with yourself because you've done some hard things today? For me, it is one of the best feelings. And a great indicator of how good my day has been. That applied to chess, and now also elsewhere in life. Not During, but After Most []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/feeling-after-training/",
+         "pubDate" : "Sat, 13 Jun 2026 13:00:00",
+         "title" : "The Feeling After Training"
+      },
+      {
+         "description" : "GMs&#38;nbsp;Hikaru Nakamura, Dmitry Andreikin, and Aravindh Chithambaram emerged with the best tiebreaks to win the 3 0 Thursday tournaments on June 11. It was a day of tiebreakers, as both the first and third events finished with five-way ties atop ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-andreikin-aravindh-3-0-thursday-06-11-2026",
+         "pubDate" : "Fri, 12 Jun 2026 14:18:27",
+         "title" : "Nakamura, Andreikin, Aravindh Top 3 0 Thursdays On Tiebreaks"
+      },
+      {
+         "description" : "GM Pranav Venkatesh overcame losses in the second and fourth rounds in Freestyle Friday on June 12 to win all his other games, take first place outright, and pass&#38;nbsp;GM Oleksandr Bortnyk in the 2026 Freestyle Friday Championship (FFC) standings....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-june-12-2026",
+         "pubDate" : "Fri, 12 Jun 2026 11:50:30",
+         "title" : "Pranav Comeback Retakes Freestyle Friday Championship Lead"
       },
       {
          "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 (&pound;133,000) Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Con",
@@ -26,20 +178,12 @@ news_feed (
          "title" : "Chess: Carlsen heads for Hong Kong while Russia unveils the next Botvinnik"
       },
       {
-         "description" : "Shamsiddin Vokhidov took the sole lead at the UzChess Cup after scoring his third consecutive win in Tashkent, defeating Ian Nepomniachtchi with the white pieces. The 24-year-old Uzbek grandmaster now stands on 3&frac12;/5, half a point ahead of Nodirbek Abdusattorov, Arjun Erigaisi and Mukhiddin Madaminov. Madaminov also won in round five, beating Shakhriyar Mamedyarov with the black pieces. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uz-chess-cup-2026-5",
-         "pubDate" : "Fri, 12 Jun 2026 02:50:00",
-         "title" : "UzChess Cup: Vokhidov upsets Nepomniachtchi, grabs the sole lead"
-      },
-      {
-         "description" : "Jon Speelman returns to the importance of seeing the whole board when calculating, using a series of positions in which small changes far from the main action transform the evaluation. Examples include back-rank motifs, a double bishop sacrifice inspired by Emanuel Lasker v. Johann Bauer and an adjourned game involving Alexander Kotov and Glenn Lambert. The focus is on tactical awareness, pawn moves, quiet resources and the need to continue variations until the position becomes stable.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-240",
-         "pubDate" : "Thu, 11 Jun 2026 19:05:00",
-         "title" : "Jon Speelman: Seeing the whole board"
+         "description" : "The Chess Federation of Russia (CFR) has been suspended from the International Chess Federation (FIDE) after failing to comply with a Court of Arbitration for Sport (CAS) ruling that required the CFR to cease organizing chess activities in Russian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russia-chess-federation-suspended-occupied-ukraine",
+         "pubDate" : "Fri, 12 Jun 2026 06:55:00",
+         "title" : "Russia's Chess Federation Suspended After Refusing To Halt Events In Occupied Ukraine"
       },
       {
          "description" : "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M...",
@@ -48,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
          "pubDate" : "Thu, 11 Jun 2026 14:44:00",
          "title" : "Vokhidov Takes Sole Lead With 3-Win Streak"
-      },
-      {
-         "description" : "Problem 1 Black's Turn to promote white to play and mate in two moves {[#]} 1. Qe8 Kd1 (1 Kf1 2. Qb5#) (1 d1=Q 2.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/todays-chess-problem-corner-11-june-2026/",
-         "pubDate" : "Thu, 11 Jun 2026 12:30:23",
-         "title" : "Today's Chess Problem corner 11 June 2026"
       },
       {
          "description" : "The European Senior Chess Championship 2026 concluded yesterday in Acqui Terme, Italy! The event was played in two age categories: 50+ and 65+, open and women's sections separately, gathering nearly 250 players coming from 34 European federations. After nine played rounds, GM Jean-Marc Degraeve (FRA, 2494) emerged as the sole winner of the 50+ Open competition, scoring 7/9 points. As many as five players tied for silver with the score of 6.5/9 points (each): GM Daniel Gormally (ENG, 2391), GM []",
@@ -80,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
          "pubDate" : "Wed, 10 Jun 2026 17:00:00",
          "title" : "A Game That Outlasted the Day (7)"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation , All J &#38; K Chess Association with associate Directorate of Youth Services and Sports J&#38;K is organizing Senior",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-on-17-18-july-2026-in-jammu/",
-         "pubDate" : "Wed, 10 Jun 2026 11:50:31",
-         "title" : "SNA Seminar & Exam on 17 & 18 July 2026 in Jammu ."
       },
       {
          "description" : "The 24th edition of the European Union Youth Chess Championship U8-U14 will take place from 17-26 August in Rožnov pod Radhoštěm, Czech Republic.&#160;The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The event will be played in four categories: U8, U10, U12, and U14, with separate prizes for the best ranked girls in the tournaments. The events will be played in 9 rounds, swiss system, with the time control of 90 min []",
@@ -136,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
          "pubDate" : "Tue, 09 Jun 2026 13:14:00",
          "title" : "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca"
-      },
-      {
-         "description" : "Asian Individual Chess Championship was held in Ulaanbaatar, Mongolia, from May 29 to June 6,2026.&#160; Players from 28 Federations took part making it a well",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-asian-individual-chess-championships-2026-held-at-ulaanbaatar-mongolia-29-may-6-june-2026/",
-         "pubDate" : "Tue, 09 Jun 2026 11:41:15",
-         "title" : "Final Report :Asian Individual Chess Championships 2026 held at Ulaanbaatar, Mongolia | 29 May - 6 June 2026"
       },
       {
          "description" : "GM Jan-Krzysztof Duda impressively won&#38;nbsp;Titled Tuesday on June 9 with a score of 10/11. He becomes the second player to win the new first-place prize of $2,500, and also the second player, after GM Javokhir Sindarov, to win three Titled Tuesda...",
@@ -322,14 +442,6 @@ news_feed (
          "title" : "Why Your Last Rating Jump Wasn't What You Think"
       },
       {
-         "description" : "Please find certificates below No. Candidate Name 1 Sachin Anand 2 Sambarta Banerjee 3 Shashank Pandey 4 Satish Kumar 5 Abhishek Das 6 Sunil Kumar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-sna-seminar-exam-held-in-ranchi-on-21-22-feb-2026/",
-         "pubDate" : "Sat, 06 Jun 2026 07:26:48",
-         "title" : "Certificate :SNA Seminar & Exam held in Ranchi on 21 & 22 Feb 2026"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131544352.cms\" />R Praggnanandhaa has made history, becoming the first Indian to clinch the prestigious Norway Chess title. He secured the championship with a stunning final-round victory over Vincent Keymer, overcoming a deficit to claim the crown. This remarkable win earns him 700,000 Norwegian Kroner, approximately Rs 70.5 lakh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -482,30 +594,6 @@ news_feed (
          "title" : "Sindarov calls Abdusattorov best Uzbek player; hardly uses engines"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131495791.cms\" />Indian chess prodigy R Praggnanandhaa stunned World No. 1 Magnus Carlsen for the second time at the Norway Chess tournament. Carlsen, admitting to uncharacteristic errors under time pressure, finds himself in a rare slump. Despite this, Praggnanandhaa believes Carlsen's prowess remains high, attributing the losses to off days for the reigning champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-round-8-pragg-beats-carlsen-again-wesley-so-leads-on-the-top-with-14-points/articleshow/131495791.cms",
-         "pubDate" : "Thu, 04 Jun 2026 03:43:03",
-         "title" : "Praggnanandhaa Downs Carlsen Again: Indian scores second classical win"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess. Today, enjoy an introduction by Assistant Editor Rick Massimo and an essay by GM Paul Van Der Sterren. Next week, keep an eye out for the two other pieces from this series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Capti",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-benefits-empty-mind",
-         "pubDate" : "Thu, 04 Jun 2026 00:00:00",
-         "title" : "Inside Story: The Benefits of An Empty Mind"
-      },
-      {
-         "description" : " WASHINGTON, June 3, 2026 - Today, U.S. Sen. Eric Schmitt (R-MO) and U.S. Rep. Wesley Bell (D-MO) hosted a special bipartisan Congressional Chess Tournament in partnership with the Saint Louis Chess Club, where members of Congress faced off against chess students and internationally recognized chess players during an event designed to showcase the importance of [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/u-s-sen-eric-schmitt-r-mo-u-s-rep-wesley-bell-d-mo-and-saint-louis-chess-club-hosts-bipartisan-congressional-chess-tournament-with-leading-chess-figures-and-saint-louis-students-in-the-nation/\">U.S. Sen. Eric Schmitt (R-MO), U.S. Rep. Wesley Bell (D-MO) and Saint",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/u-s-sen-eric-schmitt-r-mo-u-s-rep-wesley-bell-d-mo-and-saint-louis-chess-club-hosts-bipartisan-congressional-chess-tournament-with-leading-chess-figures-and-saint-louis-students-in-the-nation/",
-         "pubDate" : "Wed, 03 Jun 2026 21:23:47",
-         "title" : "U.S. Sen. Eric Schmitt (R-MO), U.S. Rep. Wesley Bell (D-MO) and Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures and Saint Louis Students in the Nation's Capital"
-      },
-      {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we will bring you regular overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -538,28 +626,12 @@ news_feed (
          "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
       },
       {
-         "description" : "Today's puzzles continue a series on the just-concluded National Middle School (K-8) Championship, held May 15-17 in Round Rock, TX. Read our full report from the weekend here, and enjoy a curation of puzzles by commentator WGM Sabina Foisor, who streamed live coverage of all seven rounds of the tournament. Plus, even more puzzles (for more beginner-level players) are available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-national-middle-school-k-8-championship-pt-2",
-         "pubDate" : "Wed, 03 Jun 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 National Middle School (K-8) Championship, Pt. 2"
-      },
-      {
          "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only classical draw against GM Vincent Keymer and then winning in armageddon, but we saw world number...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-8",
          "pubDate" : "Tue, 02 Jun 2026 12:54:00",
          "title" : "Carlsen, Gukesh Lose To Praggnanandhaa, Firouzja; Assaubayeva Close To Clinching"
-      },
-      {
-         "description" : "Please find the results published on fide site https://arbiters.fide.com/news/11020",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fa-seminar-siliguri-from-22-24-may-2026/",
-         "pubDate" : "Tue, 02 Jun 2026 12:39:08",
-         "title" : "FA Seminar, Siliguri from 22-24 May 2026"
       },
       {
          "description" : "The quantitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess ...",
@@ -570,14 +642,6 @@ news_feed (
          "title" : "Jane Street Wins North American Corporate Chess League Season 13"
       },
       {
-         "description" : "Calling all speed addicts! The world&#39;s fastest players will meet again to battle in the next edition of the Bullet Chess Championship starting June 22. With a $50,000 prize fund and the most dangerous bullet players in the world, drama is all but ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2026",
-         "pubDate" : "Tue, 02 Jun 2026 08:00:00",
-         "title" : "Bullet Chess Championship Returns June 22, Firouzja Leads Field To Defend His Crown"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -586,92 +650,12 @@ news_feed (
          "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
       },
       {
-         "description" : "US Chess Soliciting Applicants for Trainer Positions for the 2026 Olympiad TeamsUS Chess is soliciting applicants for two Captain positions at the 46th FIDE World Chess Olympiad, one for the 2026 USA Olympiad Team and one for the 2026 USA Olympiad Women's Team. The Olympiad will take place September 15th - September 27th, 2026 in Samarkand, Uzbekistan. Applicants may be from any federation, but should be a certified FIDE trainer at any level. Applicants must have a Social Security Number (SSN) that is needed for payment. The lists of eligible applicants will be provided to the U.S. Olympiad players. Each team will select its own Captain.Each successful applicant must complete US Chess SafeSp",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-soliciting-applicants-captain-and-trainer-positions-2026-olympiad",
-         "pubDate" : "Tue, 02 Jun 2026 00:00:00",
-         "title" : "US Chess Soliciting Applicants for Captain and Trainer Positions for 2026 Olympiad"
-      },
-      {
-         "description" : "GM Arjun Erigaisi lost a tight tiebreak match to GM Magnus Carlsen in the TePe Sigeman Chess Tournament in May. While he couldn&#39;t quite take first place, Arjun&#39;s strong 5/8 performance earned him 10 rating points, raising his rating to 2761. That ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-returns-to-top-10-in-june-rating-list",
-         "pubDate" : "Mon, 01 Jun 2026 14:52:00",
-         "title" : "Arjun Returns To Top 10 In June Rating List"
-      },
-      {
-         "description" : "GM Wesley So leads Norway Chess 2026 after round seven, with GM Alireza Firouzja 2.5 points behind. World Champion Gukesh Dommaraju achieved a winning position against So but couldn&#39;t see it through in the classical game; despite winning the armag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-7",
-         "pubDate" : "Mon, 01 Jun 2026 13:27:00",
-         "title" : "Wesley So Survives Against Gukesh In Classical, Assaubayeva Extends Lead"
-      },
-      {
-         "description" : "Kindly find attached live games link for the&#160;4th&#160;Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) &#38; (Category B) Below 2000 ongoing at Ahmedabad, Gujarat from&#160;1st&#160;to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-4th-gujarat-international-open-grandmasters-chess-tournament-2026-category-a-category-b/",
-         "pubDate" : "Mon, 01 Jun 2026 09:56:15",
-         "title" : "Live games link for 4th Gujarat International Open Grandmasters Chess Tournament-2026 (Category A) & (Category B)"
-      },
-      {
-         "description" : "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-6",
-         "pubDate" : "Sun, 31 May 2026 13:15:00",
-         "title" : "Wesley So Wrests Lead From Firouzja, Assaubayeva Regains Women's Lead"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk claimed his 17th career Bullet Brawl title on Saturday, outlasting a 171-player titled field to win the latest edition with a score of 154 points. The Ukrainian speed-chess specialist finished nine points clear of IM Renato Te...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-30-2026",
-         "pubDate" : "Sat, 30 May 2026 19:59:31",
-         "title" : "Bortnyk Outlasts Fierce Competition, Claims 17th Bullet Brawl Title"
-      },
-      {
-         "description" : "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two Black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-5",
-         "pubDate" : "Sat, 30 May 2026 13:17:00",
-         "title" : "Wesley So Beats Carlsen, Gukesh Scores 1st Classical Win, Divya Overtakes Assaubayeva"
-      },
-      {
          "description" : "We live in an ever faster moving world. With AI, seemingly everything is possible, nearly instantly. You can build apps, learn quicker, have a pocket therapist (highly recommend a real one instead). You name it. But there is one thing you can't outsource to AI: your chess improvement. Skill Is All You Just as you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
          "pubDate" : "Sat, 30 May 2026 13:00:00",
          "title" : "You Can't Outsorce Chess Improvement"
-      },
-      {
-         "description" : "No. Candidate Name 1 Debojyoti Bose 2 Dhananjaya Sabat 3 Anubhav Bal 4 Akhil Bvs 5 Bhaskar Sri Viswaroopanand 6 Tintumon Prakashan 7 Baivab Mishra",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-exam-in-bhubaneshwar-on-17-18-january-2026/",
-         "pubDate" : "Sat, 30 May 2026 07:54:29",
-         "title" : "Certificate of SNA Seminar & Exam in Bhubaneshwar on 17 & 18 January 2026"
-      },
-      {
-         "description" : "GM Volodar Murzin won Freestyle Friday on May 29 with a wire-to-wire win in which he lost no games, taking the tournament outright on a 10/11 score for his first victory ever in the event. All of the top four spots were won without tiebreaks, in f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/murzin-wins-freestyle-friday-may-29-2026",
-         "pubDate" : "Fri, 29 May 2026 18:24:41",
-         "title" : "Murzin Dominates For 1st Freestyle Friday"
-      },
-      {
-         "description" : "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-duda-terry-3-0-thursday-05-28-2026",
-         "pubDate" : "Fri, 29 May 2026 11:34:00",
-         "title" : "3 0 Thursday Stars Martinez, Duda, Terry All Claim Victories"
       },
       {
          "description" : "The New Arbiter Appointments Policy The new policy for appointments was published last summer: https://www.englishchess.org.uk/wp-content/uploads/2025/09/Arbiter-Appointments-Policy.pdf This was the first time the ECF had a published policy for its own events,...",
@@ -688,78 +672,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/may/29/injured-alireza-firouzja-shock-magnus-carlsen-norway-chess",
          "pubDate" : "Fri, 29 May 2026 07:00:44",
          "title" : "Injured Alireza Firouzja plays through pain to shock world No 1 Magnus Carlsen in Oslo"
-      },
-      {
-         "description" : "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-4",
-         "pubDate" : "Thu, 28 May 2026 13:28:00",
-         "title" : "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu moved up to second place in Norway Chess 2026 after a rollercoaster win over GM Magnus Carlsen, who had fought his way back from the dead to a winning position only to collapse in time trouble. GM Alireza Firouzja lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-3",
-         "pubDate" : "Wed, 27 May 2026 13:09:00",
-         "title" : "Praggnanandhaa Beats Carlsen In Rollercoaster Norway Chess Clash"
-      },
-      {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-in-guwahati-assam-on-15-16-june-2026/",
-         "pubDate" : "Tue, 26 May 2026 10:25:49",
-         "title" : "Announcement : Medical Evaluation in Guwahati ,Assam on 15 & 16 June 2026 ."
-      },
-      {
-         "description" : " The 14th Norway Chess tournament took place Mon 25th May to Fri 5th Jun 2026. There was the regular tournament and a women's event, this year with the same prize-money. Each event had 6 players and 10 rounds and there was an Armageddon game if there's a draw. Open: Magnus Carlsen, Vincent Keymer, Alireza Firouzja, Wesley So, R Praggnanandhaa and D Gukesh. Women: Ju Wenjun, Zhu Jiner, Humpy Koneru, Bibisara Assaubayeva, Anna Muzychuk and Deshmukh Divya. Praggnanandhaa won the event just pipping Wesley So by a point, Praggnanandhaa won his last four games. Magnus Carlsen had his poorest result in my memory, he won three and lost four. Bibisara Assaubayeva had led for much of the women's event",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
-         "pubDate" : "Mon, 25 May 2026 21:14:00",
-         "title" : "14th Norway Chess 2026 - Games and Results"
-      },
-      {
-         "description" : " The answers to today's problems. Earlier today I set these four chess puzzles. Here they are again with solutions. <strong>1. Oddities</strong> <a href=\"https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/science/2026/may/25/did-you-solve-it-are-you-on-board-with-these-quirky-chess-puzzles",
-         "pubDate" : "Mon, 25 May 2026 15:42:01",
-         "title" : "Did you solve it? Are you on board with these quirky chess puzzles?"
-      },
-      {
-         "description" : " The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6/9 half a point clear of Fabiano Caruana on 5.5, Javokhir Sindarov and Wesley So were half a point further back on 5 points. Alireza Firouzja withdrew after five rounds after badly hurting his ankle, he had tried to carry on for a couple of rounds after round 3.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
-         "pubDate" : "Sat, 23 May 2026 17:45:00",
-         "title" : "GCT Super Chess Classic Romania 2026 - Games and Results"
-      },
-      {
-         "description" : "A month ago I shared how my Q2 plan showed just how little time I have for the most important projects. Writing that article cracked something open. I'd been carrying an assumption for five years and never once challenged it. The Unchallenged Assumption In my 5 years as a chess coach, blogger and course creator, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/hiring-help/",
-         "pubDate" : "Sat, 23 May 2026 13:00:00",
-         "title" : "I Thought I Was A Solopreneur. I Was Wrong."
-      },
-      {
-         "description" : "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer and Fabiano Caruana enter the final round tied for first place, while Javokhir Sindarov, Wesley So and Jorden van Foreest stand a half point back and still have chances of taking the title. | Follow the action live with expert commentary starting two hours earlier than usual, at 13.00 CEST (7.00 ET, 16.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-classic-romania-2026-live",
-         "pubDate" : "Sat, 23 May 2026 12:50:00",
-         "title" : "Super Chess Classic Romania - Live!"
-      },
-      {
-         "description" : "Please find the link here https://www.chess.com/events/17th-kiit-international-chess-festival-2026-cat-a/games",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-17th-kiit-chess-festival/",
-         "pubDate" : "Sat, 23 May 2026 10:13:41",
-         "title" : "Live Game Link -17th KIIT Chess Festival"
       }
    ]
 }
