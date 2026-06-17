@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
+         "pubDate" : "Wed, 24 Jun 2026 14:52:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
+      },
+      {
+         "description" : "Andrew Hong won the Masters section of the Aktobe Open 2026 - Vladimir Dvorkovich Memorial after scoring 7/9 and finishing half a point clear of the field. The FIDE Circuit event in Kazakhstan brought together 210 players from 21 countries. Daniyal Sapenov took second place on tiebreaks, ahead of Daniil Dubov, while Polina Shuvalova was the top-scoring female player. | Photo: KazChess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aktobe-open-2026-final-report",
+         "pubDate" : "Wed, 17 Jun 2026 14:00:00",
+         "title" : "Andrew Hong outright winner at Aktobe Masters in Kazakhstan"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
