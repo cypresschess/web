@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Following a complaint by the Ukrainian Chess Federation, the Court of Arbitration for Sport (CAS) has ordered FIDE to suspend the Chess Federation of Russia over the staging of tournaments in occupied territories. The FIDE Council complied with the ruling - but only in part. Several federations have already protested.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-federation-of-russia-partial-suspension",
+         "pubDate" : "Wed, 17 Jun 2026 21:45:00",
+         "title" : "Chess Federation of Russia suspended after CAS ruling - partially"
+      },
+      {
          "description" : "Andrew Hong won the Masters section of the Aktobe Open 2026 - Vladimir Dvorkovich Memorial after scoring 7/9 and finishing half a point clear of the field. The FIDE Circuit event in Kazakhstan brought together 210 players from 21 countries. Daniyal Sapenov took second place on tiebreaks, ahead of Daniil Dubov, while Polina Shuvalova was the top-scoring female player. | Photo: KazChess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-innovation-brain-computer-interface",
          "pubDate" : "Wed, 17 Jun 2026 02:00:00",
          "title" : "Chess emerging as tool for innovation on brain-computer interface systems"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! Also be sure to check out yesterday's Tactics Tuesday for more accessible puzzles from this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-35th-chicago-open-pt-2",
+         "pubDate" : "Wed, 17 Jun 2026 00:00:00",
+         "title" : "Wednesday Workout: 35th Chicago Open, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131768335.cms\" />India's 72nd Grandmaster Mitrabha Guha, who once appeared on Kaun Banega Crorepati and won Rs 4.8 lakh has secured India's final spot for the Esports Nations Cup 2026. The Kolkata player overcame years of financial struggles and family sacrifices to reach the top. Now pursuing an MBA, the Commonwealth classical chess champion is set to compete alongside stars like Magnus Carlsen and Hikaru Nakamura.",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-takes-revenge-on-world-champion-d-gukesh-title-race-goes-to-final-day/articleshow/131519197.cms",
          "pubDate" : "Fri, 05 Jun 2026 01:21:37",
          "title" : "Norway Chess: Praggnanandhaa takes revenge on Gukesh; title race goes to final day"
-      },
-      {
-         "description" : "Editor's Note: Earlier this spring, we reported on the XVII Campeonato Continental Femenino de Ajedrez de Las Am&eacute;ricas, where then-WIM Iris Mou earned the WGM title with her first-place finish.Eight American women made the trip to compete in Peru, including two regular chess-travelers, who have agreed to share their experiences and highlights with Chess Life Online.Lauren Goodkind is a chess coach and chess book author based out of Northern California. Megan Chen is the first woman to play rated chess in all 50 states.We hope this article encourages readers to, in Lauren's words, \"take the leap\" when opportunities for international competition arise. From Lima to Cusco: Growth, Landma",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/take-leap-international-competition-and-travel-xvii-womens-continental-championship-americas",
-         "pubDate" : "Fri, 05 Jun 2026 00:00:00",
-         "title" : "Take The Leap: International Competition and Travel at XVII Women's Continental Championship of the Americas"
       },
       {
          "description" : "The 15-year-old sensation from Ukraine, WFM Anastasiia Hnatyshyn, emerged as the sole leader of the European Women's Chess Championship 2026 after ten rounds of play in Batumi, Georgia! Anastasiia Hnatyshyn (UKR, 2207) defeated IM Eline Roebers (NED, 2389) today with the White pieces to enter the final round of the tournament with a half-point edge over the runners-up. It was a brilliant game for the Ukrainian teenager, who got a clear edge out of the opening and started pressing for []",
