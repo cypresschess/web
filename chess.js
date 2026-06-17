@@ -18,6 +18,14 @@ news_feed (
          "title" : "Andrew Hong outright winner at Aktobe Masters in Kazakhstan"
       },
       {
+         "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-1",
+         "pubDate" : "Wed, 17 Jun 2026 10:33:00",
+         "title" : "Ding, Rapport's Teams Lead As World Rapid Championship Starts In Hong Kong"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-norway-chess-round-8",
          "pubDate" : "Tue, 02 Jun 2026 12:54:00",
          "title" : "Carlsen, Gukesh Lose To Praggnanandhaa, Firouzja; Assaubayeva Close To Clinching"
-      },
-      {
-         "description" : "The quantitative trading firm Jane Street won the North American Corporate Chess League&#39;s 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jane-street-wins-north-american-corporate-chess-league-season-13",
-         "pubDate" : "Tue, 02 Jun 2026 11:40:00",
-         "title" : "Jane Street Wins North American Corporate Chess League Season 13"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
