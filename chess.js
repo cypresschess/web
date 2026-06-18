@@ -10,28 +10,12 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
-         "description" : "Kazchess, led by Richard Rapport and Shakhriyar Mamedyarov (pictured), and Dragon Chilling, with Ding Liren and Ju Wenjun in the lineup, were the only teams to finish the opening day of the World Rapid Team Championship on a perfect score, collecting four wins from four matches in Hong Kong. Several of the leading contenders dropped points early, with Magnus Carlsen's WR Chess losing in round two and Alireza Firouzja's Hexamind suffering two defeats. Mr Birdie and Friends, led by Vladislav Artemiev and Sam Sevian, ended the day in third place. | Photo: FIDE / Michal Walusza",
+         "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-1",
-         "pubDate" : "Wed, 17 Jun 2026 23:50:00",
-         "title" : "Hong Kong: Kazchess and Dragon Chilling lead with perfect 8/8 scores"
-      },
-      {
-         "description" : "Following a complaint by the Ukrainian Chess Federation, the Court of Arbitration for Sport (CAS) has ordered FIDE to suspend the Chess Federation of Russia over the staging of tournaments in occupied territories. The FIDE Council complied with the ruling - but only in part. Several federations have already protested.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-federation-of-russia-partial-suspension",
-         "pubDate" : "Wed, 17 Jun 2026 21:45:00",
-         "title" : "Chess Federation of Russia suspended after CAS ruling - partially"
-      },
-      {
-         "description" : "Andrew Hong won the Masters section of the Aktobe Open 2026 - Vladimir Dvorkovich Memorial after scoring 7/9 and finishing half a point clear of the field. The FIDE Circuit event in Kazakhstan brought together 210 players from 21 countries. Daniyal Sapenov took second place on tiebreaks, ahead of Daniil Dubov, while Polina Shuvalova was the top-scoring female player. | Photo: KazChess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aktobe-open-2026-final-report",
-         "pubDate" : "Wed, 17 Jun 2026 14:00:00",
-         "title" : "Andrew Hong outright winner at Aktobe Masters in Kazakhstan"
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
+         "pubDate" : "Thu, 18 Jun 2026 08:00:00",
+         "title" : "World Team Rapid Championship - Live!"
       },
       {
          "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
@@ -50,14 +34,6 @@ news_feed (
          "title" : "World Junior Chess Championships"
       },
       {
-         "description" : "Chess and brain-computer interface research came together at a clinical symposium held at the Chinese University of Hong Kong, Shenzhen, with FIDE Treasurer Zhu Chen among the invited guests. The event followed recent demonstrations of BCI technology through online chess, including Neuralink patient Noland Arbaugh's game against Anna Cramling. Researchers discussed medical applications for neurological conditions, while chess was presented as a useful tool for exploring cognition, digital interaction and future clinical testing. | Photo: Liang Ziming",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-innovation-brain-computer-interface",
-         "pubDate" : "Wed, 17 Jun 2026 02:00:00",
-         "title" : "Chess emerging as tool for innovation on brain-computer interface systems"
-      },
-      {
          "description" : "This week's puzzles continue a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! Also be sure to check out yesterday's Tactics Tuesday for more accessible puzzles from this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -74,28 +50,12 @@ news_feed (
          "title" : "From Rs 4.8L at KBC to Commonwealth Gold and carrying India's hope at ENC: Guha on hot seat"
       },
       {
-         "description" : "The opening press conference for the FIDE World Team Rapid and Blitz Championships 2026 took place on June 16 at The Pavilion, The Fullerton Ocean Park Hotel Hong Kong, marking the official start of one of FIDE's most dynamic and spectator-friendly competitions. The event brings together more than 40 teams and over 300 players from around the world, featuring elite grandmasters, top women players, rising stars and amateur participants competing side by side in a unique team format.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-team-rapid-and-blitz",
-         "pubDate" : "Tue, 16 Jun 2026 21:00:00",
-         "title" : "FIDE World Team Rapid and Blitz"
-      },
-      {
          "description" : " <a href=\"https://en.wikipedia.org/wiki/Mukhiddin_Madaminov\">Mukhiddin Madaminov</a> won the <a href=\"https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026\">3rd Uzchess Cup in Tashkent</a>, a real surprise as he was the bottom seed and there as a replacement for Javokhir Sindarov. Madaminov won a final blitz tie-break 2-0 against fellow Uzbekistani <a href=\"https://en.wikipedia.org/wiki/Shamsiddin_Vokhidov\">Shamsiddin Vokhidov</a> who also wasn't one of the favourites. Madaminov's victory came after a long game against Hans Moke Niemann where he was pressing for a win but was also in danger of losing at one stage. He didn't have more than a few minutes to prepare for the tie-break",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
          "pubDate" : "Tue, 16 Jun 2026 15:17:00",
          "title" : "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9"
-      },
-      {
-         "description" : "Magnus Carlsen makes his Hong Kong debut, alongside American star Fabiano Caruana and other chess super-stars, as the city takes centre stage of the chess world. Carlsen today made his first official appearance in the city, taking part in a press conference for the FIDE World Team Rapid & Blitz Chess Championships 2026. That begins tomorrow and runs from 17-21 June. The prize fund: €500,000 - and the title of the strongest team on the planet across the sport's two most thrilling formats.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hong-kong-takes-centre-stage",
-         "pubDate" : "Tue, 16 Jun 2026 14:37:40",
-         "title" : "Hong Kong takes centre stage"
       },
       {
          "description" : "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn&#39;t ...",
