@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Dragon Chilling emerged as the sole leaders after day two of the World Team Rapid Championship in Hong Kong, reaching 14/16 match points after eight rounds. The all-Chinese team remain unbeaten, while Team MGD1 climbed to second place with a strong run that included a win over WR Chess. Barys also deafened WR Chess and moved into contention, as they stand in sole third place a point behind Team MGD1. WR Chess' Magnus Carlsen suffered two defeats on Thursday. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-2",
+         "pubDate" : "Thu, 18 Jun 2026 21:45:00",
+         "title" : "Hong Kong: Dragon Chilling lead, Team MGD1 and Barys in the hunt"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-cadets-cup-2026-reports-by-tim-wall/#new_tab",
          "pubDate" : "Thu, 18 Jun 2026 08:44:37",
          "title" : "World Cadets Cup 2026"
-      },
-      {
-         "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-         "pubDate" : "Thu, 18 Jun 2026 08:00:00",
-         "title" : "World Team Rapid Championship - Live!"
       },
       {
          "description" : "GM Ding Liren lost to GM Richard Rapport in 177 moves, but Dragon Chilling won the match, took the sole lead, and didn&#39;t relinquish it as the team remained unbeaten on day two of the 2026 World Rapid &#38;amp; Blitz Team Championships. Team MGD1 moved...",
