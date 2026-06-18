@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-cadets-cup-2026-reports-by-tim-wall/#new_tab",
+         "pubDate" : "Thu, 18 Jun 2026 08:44:37",
+         "title" : "World Cadets Cup 2026"
+      },
+      {
          "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,12 +82,12 @@ news_feed (
          "title" : "Carlsen Wins 2026 ASEAN E-Sports Chess Cup"
       },
       {
-         "description" : "The inaugural Esports Nations Cup will take place in Riyadh, Saudi Arabia, from November 2 to 29. Unlike the Esports World Cup, which focuses on esports teams, the ENC will feature players representing their countries and territories across 16 esp...",
+         "description" : "GMs Maxime Vachier-Lagrave, Le Quang Liem, Matthias Bluebaum, Volodar Murzin and Christopher Yoo are among the players who secured their spots in the inaugural Esports Nations Cup Finals, with at least 82 countries and territories set to be repres...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
          "pubDate" : "Tue, 16 Jun 2026 06:55:00",
-         "title" : "Vachier-Lagrave, Le, Bluebaum Among Stars To Play In Esports Nations Cup Finals"
+         "title" : "Vachier-Lagrave, Le, Bluebaum, Yoo Among Stars To Play In Esports Nations Cup Finals"
       },
       {
          "description" : "Rating Fee Increase Effective July 1US Chess will increase the per-game rating fee from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game rating fee has not budged for more than twenty ye",
