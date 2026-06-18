@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Kazchess, led by Richard Rapport and Shakhriyar Mamedyarov (pictured), and Dragon Chilling, with Ding Liren and Ju Wenjun in the lineup, were the only teams to finish the opening day of the World Rapid Team Championship on a perfect score, collecting four wins from four matches in Hong Kong. Several of the leading contenders dropped points early, with Magnus Carlsen's WR Chess losing in round two and Alireza Firouzja's Hexamind suffering two defeats. Mr Birdie and Friends, led by Vladislav Artemiev and Sam Sevian, ended the day in third place. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-1",
+         "pubDate" : "Wed, 17 Jun 2026 23:50:00",
+         "title" : "Hong Kong: Kazchess and Dragon Chilling lead with perfect 8/8 scores"
+      },
+      {
          "description" : "Following a complaint by the Ukrainian Chess Federation, the Court of Arbitration for Sport (CAS) has ordered FIDE to suspend the Chess Federation of Russia over the staging of tournaments in occupied territories. The FIDE Council complied with the ruling - but only in part. Several federations have already protested.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-junior-chess-championships-2026/#new_tab",
          "pubDate" : "Wed, 17 Jun 2026 10:12:14",
          "title" : "World Junior Chess Championships"
-      },
-      {
-         "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-         "pubDate" : "Wed, 17 Jun 2026 08:00:00",
-         "title" : "World Team Rapid Championship - Live!"
       },
       {
          "description" : "Chess and brain-computer interface research came together at a clinical symposium held at the Chinese University of Hong Kong, Shenzhen, with FIDE Treasurer Zhu Chen among the invited guests. The event followed recent demonstrations of BCI technology through online chess, including Neuralink patient Noland Arbaugh's game against Anna Cramling. Researchers discussed medical applications for neurological conditions, while chess was presented as a useful tool for exploring cognition, digital interaction and future clinical testing. | Photo: Liang Ziming",
