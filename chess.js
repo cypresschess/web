@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-suffers-another-indian-setback-as-arjun-erigaisi-stuns-world-no-1/articleshow/131834771.cms",
+         "pubDate" : "Thu, 18 Jun 2026 15:16:18",
+         "title" : "Magnus Carlsen suffers another Indian setback as Arjun Erigaisi stuns world No. 1"
+      },
+      {
+         "description" : "Imagine a passion that stays with you through every chapter of life. A passion that is there when you are a child discovering the world, when you are searching for direction, when life suddenly becomes uncertain and when you are trying to find your way back again. For Bhavesh Vyas, that passion is chess. It became a source of comfort, connection and hope through some of the most challenging moments of his life, including a battle with cancer at the age of 22. Read on to discover how chess helped Bhavesh navigate life's toughest challenges and find joy again.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-to-cancer-bhavesh-vyas",
+         "pubDate" : "Thu, 18 Jun 2026 14:00:00",
+         "title" : "Checkmate to cancer: A journey of resilience, hope and new beginnings through chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
          "pubDate" : "Thu, 18 Jun 2026 08:00:00",
          "title" : "World Team Rapid Championship - Live!"
+      },
+      {
+         "description" : "GM Ding Liren lost to GM Richard Rapport in 177 moves, but Dragon Chilling won the match, took the sole lead, and didn&#39;t relinquish it as the team remained unbeaten on day two of the 2026 World Rapid &#38;amp; Blitz Team Championships. Team MGD1 moved...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-2",
+         "pubDate" : "Thu, 18 Jun 2026 06:23:40",
+         "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
       },
       {
          "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
@@ -640,22 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-humbles-magnus-carlsen-once-again-gukesh-divya-deshmukh-suffer-classical-losses/articleshow/131473706.cms",
          "pubDate" : "Wed, 03 Jun 2026 00:55:12",
          "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
-      },
-      {
-         "description" : "Round eight of Norway Chess 2026 will go down as one of the most shocking, with two decisive classical games. GM Wesley So leads after making the only classical draw against GM Vincent Keymer and then winning in armageddon, but we saw world number...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-8",
-         "pubDate" : "Tue, 02 Jun 2026 12:54:00",
-         "title" : "Carlsen, Gukesh Lose To Praggnanandhaa, Firouzja; Assaubayeva Close To Clinching"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131453695.cms\" />Round 7 of Norway Chess saw Indian stars bounce back after a difficult previous round. R Praggnanandhaa defeated Alireza Firouzja in a commanding classical game, while Divya Deshmukh beat Koneru Humpy in an Armageddon tie-break to remain second in the women's standings. Meanwhile, Magnus Carlsen and D Gukesh won their Armageddon games but remained at the bottom of the open-section leaderboard.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-divya-deshmukh-back-to-winning-ways-gukesh-magnus-carlsen-share-bottom-spots-despite-wins/articleshow/131453695.cms",
-         "pubDate" : "Tue, 02 Jun 2026 03:14:49",
-         "title" : "Norway Chess: Praggnanandhaa, Divya back to winning ways"
       },
       {
          "description" : "We live in an ever faster moving world. With AI, seemingly everything is possible, nearly instantly. You can build apps, learn quicker, have a pocket therapist (highly recommend a real one instead). You name it. But there is one thing you can't outsource to AI: your chess improvement. Skill Is All You Just as you []",
