@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-2",
-         "pubDate" : "Thu, 18 Jun 2026 06:23:40",
+         "pubDate" : "Thu, 18 Jun 2026 06:23:00",
          "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
       },
       {
