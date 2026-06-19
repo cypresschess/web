@@ -18,6 +18,14 @@ news_feed (
          "title" : "Gukesh reflects on pressure and ambition in Hindustan Times interview"
       },
       {
+         "description" : "GM Ian Nepomniachtchi is your Freestyle Friday winner for June 19, winning six games in a row at one point to claim the tournament outright on nine points, his second of the year and third overall. Tiebreaks separated second-place IM Reza Mahdavi ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-june-19-2026",
+         "pubDate" : "Fri, 19 Jun 2026 13:56:45",
+         "title" : "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win"
+      },
+      {
          "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
       },
       {
-         "description" : "GM Ding Liren won in the final round as Dragon Chilling clinched the 2026 World Rapid Team Championship on tiebreaks ahead of silver medalists Team MGD1 (led by GM Arjun Erigaisi), and bronze medalists Hexamind Chess Team (GM Alireza Firouzja). Wh...",
+         "description" : "GM Ding Liren won in the final round as Dragon Chilling clinched the 2026 World Rapid Team Championship on tiebreaks ahead of silver medalists Team MGD1 (led by GM Arjun Erigaisi) and bronze medalists Hexamind Chess Team (GM Alireza Firouzja). Whe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alster-river-school-match-2026",
          "pubDate" : "Fri, 19 Jun 2026 05:00:00",
          "title" : "By the Alster: Nearly 4,000 pupils gather for the world's largest school chess competition"
+      },
+      {
+         "description" : "OAXTEPEC, MEXICO - After several years of prime travel locations (Dominican Republic, Medell&iacute;n, Colombia, and Iguazu Falls, Brazil), FIDE Americas chose a smaller, relatively unknown locale for the 2026 edition of the American Continental Championship. Indeed, despite competing for 10 days in Oaxtepec, I'm still not sure how to pronounce the town's name.The main attraction was the Six Flags Hurricane Harbor amusement park conveniently situated across from the hotel - the Dorados Conventions &amp; Resort - and the town's small bus terminal. To compensate, the Dorados Resort offered six outdoor pools, a fading tennis court, and an underutilized track. Nevertheless, few chess players too",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/sam-shankland-repeats-2026-american-continental-champion",
+         "pubDate" : "Fri, 19 Jun 2026 00:00:00",
+         "title" : "Sam Shankland Repeats as 2026 American Continental Champion"
       },
       {
          "description" : "In Las Vegas, everything is a capital-E Event. So, it's fitting that, every June, the National Open isn't just a tournament, but instead, just one part of the all-encompassing Las Vegas International Chess Festival. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This year, the self-described \"chess vacation of the year,\" took place from June 10 through 14 at the Westgate Las Vegas Resort. For these five days, chessplayers could feast on a buffet of rapid and blitz side events, the prestigious Walter Browne Memorial Blitz Tournament, game analysis from GM Kayden Troff, and a simultaneous exhibition from GM Ben Finegold. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
@@ -410,14 +426,6 @@ news_feed (
          "title" : "'Gukesh can take inspiration from Pragg': Anand advises world champion"
       },
       {
-         "description" : "This week's puzzles begin a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-35th-annual-chicago-open-pt-1",
-         "pubDate" : "Tue, 09 Jun 2026 00:00:00",
-         "title" : "Tactics Tuesday: 35th Annual Chicago Open, Pt. 1"
-      },
-      {
          "description" : "On behalf of ECU President Zurab Azmaiparashvili, we hereby invite all ECU member federations toattend the Annual ECU General Assembly 2026, to be held at the headquarters of the RomanianOlympic Committee, Bucharest, Romania, on Saturday, 18 July 2026. All the information about the ECU General Assembly 2026:",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/anastasiia-hnatyshyn-heads-into-the-final-round-of-ewcc2026-as-the-sole-leader/",
          "pubDate" : "Thu, 04 Jun 2026 18:29:36",
          "title" : "Anastasiia Hnatyshyn heads into the final round of EWCC2026 as the sole leader"
-      },
-      {
-         "description" : "GM Wesley So continues to lead Norway Chess 2026 after round nine, but that lead has thinned to a half-point over GM Praggnanandhaa Rameshbabu. So drew GM Magnus Carlsen and then won the critical extra half-point in armageddon, while Praggnanandha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-round-9",
-         "pubDate" : "Thu, 04 Jun 2026 13:24:00",
-         "title" : "Assaubayeva Clinches With Round To Spare; Praggnanandhaa Scores Hat Trick Vs. Gukesh"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2026 in Batumi, Georgia, and only two rounds remain before the new champion is crowned. Scoring 7.5/9 points each, 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) and IM Sabrina Vega Gutierrez (ESP, 2375) are tied for first place, entering the penultimate round as tournament co-leaders. Ukraine's 15-year-old teenage sensation, Anastasiia Hnatyshyn, yesterday defeated the reigning Azerbaijani Women's Chess Champion and 2024 European Champion, IM Ulviyya Fataliyeva (AZE, 2450). Hnatyshyn had []",
