@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
-         "pubDate" : "Fri, 19 Jun 2026 05:55:54",
+         "pubDate" : "Fri, 19 Jun 2026 05:55:00",
          "title" : "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row"
       },
       {
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alster-river-school-match-2026",
          "pubDate" : "Fri, 19 Jun 2026 05:00:00",
          "title" : "By the Alster: Nearly 4,000 pupils gather for the world's largest school chess competition"
+      },
+      {
+         "description" : "In Las Vegas, everything is a capital-E Event. So, it's fitting that, every June, the National Open isn't just a tournament, but instead, just one part of the all-encompassing Las Vegas International Chess Festival. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This year, the self-described \"chess vacation of the year,\" took place from June 10 through 14 at the Westgate Las Vegas Resort. For these five days, chessplayers could feast on a buffet of rapid and blitz side events, the prestigious Walter Browne Memorial Blitz Tournament, game analysis from GM Kayden Troff, and a simultaneous exhibition from GM Ben Finegold. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/las-vegas-chess-festival-three-tie-first-national-open-putnam-wins-edmondson-cup",
+         "pubDate" : "Fri, 19 Jun 2026 00:00:00",
+         "title" : "Las Vegas Chess Festival: Three Tie for First at National Open, Putnam Wins Edmondson Cup"
       },
       {
          "description" : "Dragon Chilling emerged as the sole leaders after day two of the World Team Rapid Championship in Hong Kong, reaching 14/16 match points after eight rounds. The all-Chinese team remain unbeaten, while Team MGD1 climbed to second place with a strong run that included a win over WR Chess. Barys also deafened WR Chess and moved into contention, as they stand in sole third place a point behind Team MGD1. WR Chess' Magnus Carlsen suffered two defeats on Thursday. | Photo: FIDE",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-risks-part-of-gukeshs-identity-coach-gajewski-defends-world-chess-champions-aggressive-style/articleshow/131576902.cms",
          "pubDate" : "Mon, 08 Jun 2026 02:55:09",
          "title" : "'Taking risks part of Gukesh's identity': Coach Gajewski"
-      },
-      {
-         "description" : "There's no tournament chess without tournament directors (TDs). Fortunately, it's easy to apply to become a Club TD and begin running tournaments. However, there are limitations on the size and scope of tournaments that Club TDs can run, as detailed in the TD Certification Rules. For larger events, TDs must work their way up the ladder by accumulating experience and passing exams. A lot of this work is invisible to most chessplayers. But if you've ever played in a national event, a tournament awarding US Chess Grand Prix points, or a tournament with more than 60 players, that event only existed because at least one TD put in the hours to upgrade their TD certification. This year, we have bee",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/introducing-td-upgrades-chart",
-         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
-         "title" : "Introducing TD Upgrades Chart"
       },
       {
          "description" : "IM Roman Shogdzhiev has become the youngest player in chess history to score a grandmaster norm, breaking a record that had stood since 2008. The 11-year-old Russian remained undefeated against the six grandmasters he faced and scored an impressi...",
