@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-06-18","16","<a href=https://ratings.uschess.org/event/202606180003 target='_blank'>shadowcreek06182026thursdaymorning</a>",
+"HOUSTON","2026-06-17","17","<a href=https://ratings.uschess.org/event/202606170263 target='_blank'>shadowcreek06172026wednesdaynoon</a>",
 "HOUSTON","2026-06-17","17","<a href=https://ratings.uschess.org/event/202606170043 target='_blank'>shadowcreek06172026wednesdaymorning</a>",
 "HOUSTON","2026-06-16","18","<a href=https://ratings.uschess.org/event/202606160213 target='_blank'>shadowcreek06162026tuesdayafternoon</a>",
 "HOUSTON","2026-06-16","18","<a href=https://ratings.uschess.org/event/202606160013 target='_blank'>shadowcreek06162026tuesdaymorning</a>",
@@ -97,6 +99,4 @@ jtable([
 "CYPRESS","2026-03-27","45","<a href=https://ratings.uschess.org/event/202603270193 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-03-22","4","<a href=https://ratings.uschess.org/event/202603220953 target='_blank'>spring 03-22-2026</a>",
 "HOUSTON","2026-03-22","10","<a href=https://ratings.uschess.org/event/202603220573 target='_blank'>Bellaire Sunday Swisss 2026.03.22</a>",
-"HOUSTON","2026-03-22","23","<a href=https://ratings.uschess.org/event/202603220263 target='_blank'>2026 TEXAS SENIOR CHESS CHAMPIONSHI</a>",
-"HOUSTON","2026-03-21","19","<a href=https://ratings.uschess.org/event/202603211503 target='_blank'>HCA-CK open- Mar2026</a>",
 ]);
