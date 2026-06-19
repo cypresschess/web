@@ -696,14 +696,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
          "pubDate" : "Sat, 30 May 2026 13:00:00",
          "title" : "You Can't Outsorce Chess Improvement"
-      },
-      {
-         "description" : "The New Arbiter Appointments Policy The new policy for appointments was published last summer: https://www.englishchess.org.uk/wp-content/uploads/2025/09/Arbiter-Appointments-Policy.pdf This was the first time the ECF had a published policy for its own events,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-appointments-in-2025-26/",
-         "pubDate" : "Fri, 29 May 2026 10:29:48",
-         "title" : "ECF Arbiter Appointments in 2025/26"
       }
    ]
 }
