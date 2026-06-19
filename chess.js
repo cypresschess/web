@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
+         "pubDate" : "Fri, 19 Jun 2026 08:00:00",
+         "title" : "World Team Rapid Championship - Live!"
+      },
+      {
+         "description" : " The €500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling is an unfamiliar chess name, but the squad from China led the field of 48 after the first day's play at the World Rapid and Blitz in Hong Kong. Teams of six include a woman, a junior and an amateur who has never achieved a 2000 rating. The strong performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while f",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jun/19/world-rapid-and-blitz-championships-in-hong-kong-highlights-chess-boom-in-asia",
+         "pubDate" : "Fri, 19 Jun 2026 07:00:25",
+         "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
+      },
+      {
          "description" : "A true Hamburg tradition: since 1958, Hamburg's Right Alster Bank has played against the Left Alster Bank! Yesterday, 3,744 pupils gathered on Hamburg's Rathausmarkt to take part in the world's largest school chess competition. This year, the opening move was made by Schools Senator Ksenija Bekeris together with Francesca, 10, and Thore, 10, from the Windm&uuml;hlenweg Primary School. In the end, the Left Alster Bank won for the fourth time in a row, albeit by a relatively narrow margin, with 951&frac12; points to 920&frac12;. That takes the overall score across all years to 40-22 in favour of the Left Alster Bank. This year, the team from Wielandstraße School took home the large challenge ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-appointments-in-2025-26/",
          "pubDate" : "Fri, 29 May 2026 10:29:48",
          "title" : "ECF Arbiter Appointments in 2025/26"
-      },
-      {
-         "description" : " Frenchman scored at Norway Chess despite his heavily protected sprained ankle, and defeated Carlsen for the first time in a classical game Magnus Carlsen has won the annual Norway Chess elite tournament for six of the past seven years. However, the 35-year-old world No 1 was shocked in Monday's opening round by Alireza Firouzja, who had finished last at Bucharest the previous week in the Grand Chess Tour event won by Germany's Vincent Keymer. The Frenchman, 22, defeated Carlsen for the first time in classical chess despite playing with a sprained ankle, caused by falling off a stage at Bucharest. It was the most high-profile success by a physically injured grandmaster since Tilburg 1985, wh",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/may/29/injured-alireza-firouzja-shock-magnus-carlsen-norway-chess",
-         "pubDate" : "Fri, 29 May 2026 07:00:44",
-         "title" : "Injured Alireza Firouzja plays through pain to shock world No 1 Magnus Carlsen in Oslo"
       }
    ]
 }
