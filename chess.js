@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Gukesh Dommaraju's recent results have brought a different kind of scrutiny to his reign as world champion. After a difficult Norway Chess campaign, the Indian grandmaster spoke candidly to Hindustan Times about expectations, ambition and the challenge of enjoying chess under pressure. His reflections offer a measured look at the psychological demands facing a young champion preparing for his first title defence. | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-interview-hindustan-times-2026",
+         "pubDate" : "Fri, 19 Jun 2026 15:00:00",
+         "title" : "Gukesh reflects on pressure and ambition in Hindustan Times interview"
+      },
+      {
          "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,20 @@ news_feed (
          "title" : "World Team Rapid Championship - Live!"
       },
       {
-         "description" : " The ‚Ç¨500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling is an unfamiliar chess name, but the squad from China led the field of 48 after the first day's play at the World Rapid and Blitz in Hong Kong. Teams of six include a woman, a junior and an amateur who has never achieved a 2000 rating. The strong performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while f",
+         "description" : " The ‚Ç¨500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling may be an ≠unfamiliar chess name, but the squad from China won the gold medals at the World Teams Rapid in Hong Kong. Teams of six include a woman, a ≠junior and an amateur who has never achieved a 2000 ≠rating. The strong <sup> ≠</sup>performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world ≠champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while for blitz i",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jun/19/world-rapid-and-blitz-championships-in-hong-kong-highlights-chess-boom-in-asia",
          "pubDate" : "Fri, 19 Jun 2026 07:00:25",
          "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
+      },
+      {
+         "description" : "GM Ding Liren won in the final round as Dragon Chilling clinched the 2026 World Rapid Team Championship on tiebreaks ahead of silver medalists Team MGD1 (led by GM Arjun Erigaisi), and bronze medalists Hexamind Chess Team (GM Alireza Firouzja). Wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
+         "pubDate" : "Fri, 19 Jun 2026 05:55:54",
+         "title" : "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row"
       },
       {
          "description" : "A true Hamburg tradition: since 1958, Hamburg's Right Alster Bank has played against the Left Alster Bank! Yesterday, 3,744 pupils gathered on Hamburg's Rathausmarkt to take part in the world's largest school chess competition. This year, the opening move was made by Schools Senator Ksenija Bekeris together with Francesca, 10, and Thore, 10, from the Windm&uuml;hlenweg Primary School. In the end, the Left Alster Bank won for the fourth time in a row, albeit by a relatively narrow margin, with 951&frac12; points to 920&frac12;. That takes the overall score across all years to 40-22 in favour of the Left Alster Bank. This year, the team from Wielandstra√üe School took home the large challenge ",
@@ -72,6 +88,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-2",
          "pubDate" : "Thu, 18 Jun 2026 06:23:00",
          "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
+      },
+      {
+         "description" : "Registration is now open for the 2026 North American Youth Chess Championship, which will be held November 10-17 2026 at the Av. Marina Nacional 399, Veronica Anzures, Miguel Hidalgo, 11300 Mexico City, Mexico.The age categories for the 2026 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2026. This event is open to players from Canada, Mexico, and the United States.Each section is a nine-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on November 11. There will also be a Rapid tou",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-north-american-youth-championship-announced",
+         "pubDate" : "Thu, 18 Jun 2026 00:00:00",
+         "title" : "2026 North American Youth Championship Announced"
+      },
+      {
+         "description" : "The 2026 North American Junior Chess Championships, Open Under 20 and Girls Under 20, will be held December 18-23, 2026 at the Hilton Charlotte University Place, 8629 JM Keynes Drive, Charlotte, NC 28262, USA. The event is open to players aged under 20 as of January 1, 2026, (must be born in 2006 or after) representing Canada, Mexico, or the United States.This is a nine-round event with the first round on Friday, December 18. Medals as well as direct FIDE titles and norms are awarded to the top three players in each section. Gold medalists receive the (W)IM title and a (W)GM norm and the complete list of titles and norms to be awarded can be found in the section \"Prizes\" of the event regulat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-north-american-junior-championships-announced",
+         "pubDate" : "Thu, 18 Jun 2026 00:00:00",
+         "title" : "2026 North American Junior Championships Announced"
       },
       {
          "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
@@ -442,22 +474,6 @@ news_feed (
          "title" : "Introducing TD Upgrades Chart"
       },
       {
-         "description" : "\"It is my wish and desire that the United States Chess Federation use this gift to establish a fund in my name and that the income generated therefrom be used for the furtherance of the chess capabilities of chess players from 18 through 21 years of age.\" - Dr. Herbert B. JacklynAPPLY NOWUS Chess is opening the application process for the 2026-2027 Herbert B. Jacklyn Program. The program is funded by a generous bequest to US Chess from the late Dr. Herbert B. Jacklyn. It was the wish of Dr. Jacklyn that income derived from investing his gift be used to improve the chess of players 18 to 21 years of age. The deadline for submitting is August 1, 2026.US Chess aims to provide opportunities for ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/herbert-b-jacklyn-program-open-2026-27-submissions",
-         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
-         "title" : "The Herbert B. Jacklyn Program is Open For 2026-27 Submissions"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess.Today, enjoy an article by Assistant Editor Rick Massimo and Editor John Hartmann on Nate Shuman's Mindmates program. Come back Thursday for the final instalment, and check out the first instalment here.Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Passing It OnA former youth champion is teaching young players what he learned about staying in love with the game.Nate Shu",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-passing-it",
-         "pubDate" : "Mon, 08 Jun 2026 00:00:00",
-         "title" : "Inside Story: Passing It On"
-      },
-      {
          "description" : "IM Roman Shogdzhiev has become the youngest player in chess history to score a grandmaster norm, breaking a record that had stood since 2008. The 11-year-old Russian remained undefeated against the six grandmasters he faced and scored an impressi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/sabrina-vega-gutierrez-takes-sole-lead-at-ewcc2026/",
          "pubDate" : "Wed, 03 Jun 2026 07:46:45",
          "title" : "Sabrina Vega Gutierrez takes sole lead at European Women's Championship"
-      },
-      {
-         "description" : "The Esports World Cup qualifiers may have already been decided, but there was still much to play for in Titled Tuesday on June 2, with a new prize fund of $10,000. The new prizes attracted a field of more than 500 players for the first time since ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-wins-titled-tuesday-june-2-2026",
-         "pubDate" : "Wed, 03 Jun 2026 06:20:39",
-         "title" : "Lazavik Ushers In New Titled Tuesday Prizes With Dominant Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131473706.cms\" />At Norway Chess Round 8, R Praggnanandhaa defeated Magnus Carlsen for the second time in two weeks, outplaying the World No. 1 in a sharp French Defence to stay in title contention. Meanwhile, Gukesh suffered another classical setback against Alireza Firouzja after a preparation mix-up in the Ragozin Defence. In the women's event, Divya Deshmukh lost to women's leader Bibisara Assaubayeva.",
