@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "A true Hamburg tradition: since 1958, Hamburg's Right Alster Bank has played against the Left Alster Bank! Yesterday, 3,744 pupils gathered on Hamburg's Rathausmarkt to take part in the world's largest school chess competition. This year, the opening move was made by Schools Senator Ksenija Bekeris together with Francesca, 10, and Thore, 10, from the Windm&uuml;hlenweg Primary School. In the end, the Left Alster Bank won for the fourth time in a row, albeit by a relatively narrow margin, with 951&frac12; points to 920&frac12;. That takes the overall score across all years to 40-22 in favour of the Left Alster Bank. This year, the team from Wielandstraße School took home the large challenge ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alster-river-school-match-2026",
+         "pubDate" : "Fri, 19 Jun 2026 05:00:00",
+         "title" : "By the Alster: Nearly 4,000 pupils gather for the world's largest school chess competition"
+      },
+      {
          "description" : "Dragon Chilling emerged as the sole leaders after day two of the World Team Rapid Championship in Hong Kong, reaching 14/16 match points after eight rounds. The all-Chinese team remain unbeaten, while Team MGD1 climbed to second place with a strong run that included a win over WR Chess. Barys also deafened WR Chess and moved into contention, as they stand in sole third place a point behind Team MGD1. WR Chess' Magnus Carlsen suffered two defeats on Thursday. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
