@@ -1,4 +1,9 @@
 jtable([
+"PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
+"SPRING","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190363 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190113 target='_blank'>shadowcreek06192026fridaynoon</a>",
+"HOUSTON","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190043 target='_blank'>shadowcreek06192026fridaymorning</a>",
+"HOUSTON","2026-06-18","16","<a href=https://ratings.uschess.org/event/202606180263 target='_blank'>shadowcreek06182026thursdaynoon</a>",
 "HOUSTON","2026-06-18","16","<a href=https://ratings.uschess.org/event/202606180003 target='_blank'>shadowcreek06182026thursdaymorning</a>",
 "HOUSTON","2026-06-17","17","<a href=https://ratings.uschess.org/event/202606170263 target='_blank'>shadowcreek06172026wednesdaynoon</a>",
 "HOUSTON","2026-06-17","17","<a href=https://ratings.uschess.org/event/202606170043 target='_blank'>shadowcreek06172026wednesdaymorning</a>",
@@ -94,9 +99,4 @@ jtable([
 "HOUSTON","2026-03-28","8","<a href=https://ratings.uschess.org/event/202603280573 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
 "HOUSTON","2026-03-28","10","<a href=https://ratings.uschess.org/event/202603280233 target='_blank'>chesspanda03282026saturday</a>",
 "PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
-"HOUSTON","2026-03-27","20","<a href=https://ratings.uschess.org/event/202603270283 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-03-27","12","<a href=https://ratings.uschess.org/event/202603270243 target='_blank'>FBCC Wear a Hat Day Open</a>",
-"CYPRESS","2026-03-27","45","<a href=https://ratings.uschess.org/event/202603270193 target='_blank'>Knights of Cypress</a>",
-"SUGAR LAND","2026-03-22","4","<a href=https://ratings.uschess.org/event/202603220953 target='_blank'>spring 03-22-2026</a>",
-"HOUSTON","2026-03-22","10","<a href=https://ratings.uschess.org/event/202603220573 target='_blank'>Bellaire Sunday Swisss 2026.03.22</a>",
 ]);
