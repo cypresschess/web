@@ -18,6 +18,14 @@ news_feed (
          "title" : "Soenke Maus and his contribution to opening theory"
       },
       {
+         "description" : "GM Magnus Carlsen bounced back from four losses in a row to win his first eight blitz games and wasn&#39;t even the highest scorer as WR Chess cruised to victory in Pool A and then eased through to the Quarterfinals of the FIDE World Blitz Team Champi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-4",
+         "pubDate" : "Sat, 20 Jun 2026 13:28:00",
+         "title" : "Carlsen, WR Chess Back In Business As World Team Blitz Championship Begins"
+      },
+      {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
          "pubDate" : "Fri, 05 Jun 2026 18:15:00",
          "title" : "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak"
-      },
-      {
-         "description" : "On June 5, GM Oleksandr Bortnyk became the first player to win nine Freestyle Fridays and to win three in the 2026 Freestyle Friday Championship. A fast 9/9 start was enough to hang on to outright victory through an 0.5/2 finish as Bortnyk returns...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-june-5-2026",
-         "pubDate" : "Fri, 05 Jun 2026 17:34:15",
-         "title" : "Bortnyk Bolts To 9/9 Start For 9th Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131528437.cms\" />Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
