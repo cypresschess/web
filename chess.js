@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "At the end of the 1980s, Soenke Maus, who was born on 11 June 1967 in Bad Schwartau and celebrated his 59th birthday last week, was regarded as one of Germany's greatest talents. But in 1995 he ended his chess career and became a successful marine researcher in Norway. Maus played his most famous game in 1989 at an open tournament in Lugano: he won in just 19 moves, in a theoretically important variation, against Dr Robert H&uuml;bner. | Pictured: Soenke Maus, 1994 | Photo: Torsten Szobries",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/soenke-maus-writes-opening-theory",
+         "pubDate" : "Sat, 20 Jun 2026 15:00:00",
+         "title" : "Soenke Maus and his contribution to opening theory"
+      },
+      {
+         "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/perfect-illusion/",
+         "pubDate" : "Sat, 20 Jun 2026 13:00:00",
+         "title" : "The Most Exciting Way to Quit"
+      },
+      {
          "description" : "The World Team Blitz Chess Championship is taking place on 20-21 June in Hong Kong. The tournament consists of a pool stage, with the 48 teams divided in 4 groups of 12, followed by a knockout stage with the top 16 teams. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-humbles-magnus-carlsen-once-again-gukesh-divya-deshmukh-suffer-classical-losses/articleshow/131473706.cms",
          "pubDate" : "Wed, 03 Jun 2026 00:55:12",
          "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
-      },
-      {
-         "description" : "We live in an ever faster moving world. With AI, seemingly everything is possible, nearly instantly. You can build apps, learn quicker, have a pocket therapist (highly recommend a real one instead). You name it. But there is one thing you can't outsource to AI: your chess improvement. Skill Is All You Just as you []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/cant-outsource-chess-improvement/",
-         "pubDate" : "Sat, 30 May 2026 13:00:00",
-         "title" : "You Can't Outsorce Chess Improvement"
       }
    ]
 }
