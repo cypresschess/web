@@ -10,12 +10,20 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
-         "description" : "Gukesh Dommaraju's recent results have brought a different kind of scrutiny to his reign as world champion. After a difficult Norway Chess campaign, the Indian grandmaster spoke candidly to Hindustan Times about expectations, ambition and the challenge of enjoying chess under pressure. His reflections offer a measured look at the psychological demands facing a young champion preparing for his first title defence. | Photo: ChessBase / Nils Rohde",
+         "description" : "Dragon Chilling won the 2026 World Rapid Team Championship in Hong Kong after a tense final day, taking gold on tiebreaks ahead of Team MGD1 and Hexamind Chess Team. Ding Liren scored in the last round as the Chinese squad recovered from two consecutive match defeats. Mr Birdie and Friends narrowly missed the podium, while favourites WR Chess finished 17th after a difficult rapid event - Magnus Carlsen, suffered two losses on Friday and was not in the lineup in the final two rounds. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-interview-hindustan-times-2026",
-         "pubDate" : "Fri, 19 Jun 2026 15:00:00",
-         "title" : "Gukesh reflects on pressure and ambition in Hindustan Times interview"
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-3",
+         "pubDate" : "Sat, 20 Jun 2026 02:50:00",
+         "title" : "Dragon Chilling narrowly win World Team Rapid Championship"
+      },
+      {
+         "description" : "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/terry-bluebaum-mahdavi-3-0-thursday-06-18-2026",
+         "pubDate" : "Fri, 19 Jun 2026 18:56:00",
+         "title" : "Terry Topples Carlsen; Bluebaum, Mahdavi Capture 3 0 Thursday Titles"
       },
       {
          "description" : "GM Ian Nepomniachtchi is your Freestyle Friday winner for June 19, winning six games in a row at one point to claim the tournament outright on nine points, his second of the year and third overall. Tiebreaks separated second-place IM Reza Mahdavi ...",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-june-19-2026",
          "pubDate" : "Fri, 19 Jun 2026 13:56:45",
          "title" : "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win"
-      },
-      {
-         "description" : "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-         "pubDate" : "Fri, 19 Jun 2026 08:00:00",
-         "title" : "World Team Rapid Championship - Live!"
       },
       {
          "description" : " The ‚Ç¨500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling may be an ≠unfamiliar chess name, but the squad from China won the gold medals at the World Teams Rapid in Hong Kong. Teams of six include a woman, a ≠junior and an amateur who has never achieved a 2000 ≠rating. The strong <sup> ≠</sup>performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world ≠champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while for blitz i",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row"
       },
       {
-         "description" : "A true Hamburg tradition: since 1958, Hamburg's Right Alster Bank has played against the Left Alster Bank! Yesterday, 3,744 pupils gathered on Hamburg's Rathausmarkt to take part in the world's largest school chess competition. This year, the opening move was made by Schools Senator Ksenija Bekeris together with Francesca, 10, and Thore, 10, from the Windm&uuml;hlenweg Primary School. In the end, the Left Alster Bank won for the fourth time in a row, albeit by a relatively narrow margin, with 951&frac12; points to 920&frac12;. That takes the overall score across all years to 40-22 in favour of the Left Alster Bank. This year, the team from Wielandstra√üe School took home the large challenge ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alster-river-school-match-2026",
-         "pubDate" : "Fri, 19 Jun 2026 05:00:00",
-         "title" : "By the Alster: Nearly 4,000 pupils gather for the world's largest school chess competition"
-      },
-      {
          "description" : "OAXTEPEC, MEXICO - After several years of prime travel locations (Dominican Republic, Medell&iacute;n, Colombia, and Iguazu Falls, Brazil), FIDE Americas chose a smaller, relatively unknown locale for the 2026 edition of the American Continental Championship. Indeed, despite competing for 10 days in Oaxtepec, I'm still not sure how to pronounce the town's name.The main attraction was the Six Flags Hurricane Harbor amusement park conveniently situated across from the hotel - the Dorados Conventions &amp; Resort - and the town's small bus terminal. To compensate, the Dorados Resort offered six outdoor pools, a fading tennis court, and an underutilized track. Nevertheless, few chess players too",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -74,28 +66,12 @@ news_feed (
          "title" : "Las Vegas Chess Festival: Three Tie for First at National Open, Putnam Wins Edmondson Cup"
       },
       {
-         "description" : "Dragon Chilling emerged as the sole leaders after day two of the World Team Rapid Championship in Hong Kong, reaching 14/16 match points after eight rounds. The all-Chinese team remain unbeaten, while Team MGD1 climbed to second place with a strong run that included a win over WR Chess. Barys also deafened WR Chess and moved into contention, as they stand in sole third place a point behind Team MGD1. WR Chess' Magnus Carlsen suffered two defeats on Thursday. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-2",
-         "pubDate" : "Thu, 18 Jun 2026 21:45:00",
-         "title" : "Hong Kong: Dragon Chilling lead, Team MGD1 and Barys in the hunt"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-suffers-another-indian-setback-as-arjun-erigaisi-stuns-world-no-1/articleshow/131834771.cms",
          "pubDate" : "Thu, 18 Jun 2026 15:16:18",
          "title" : "Magnus Carlsen suffers another Indian setback as Arjun Erigaisi stuns world No. 1"
-      },
-      {
-         "description" : "Imagine a passion that stays with you through every chapter of life. A passion that is there when you are a child discovering the world, when you are searching for direction, when life suddenly becomes uncertain and when you are trying to find your way back again. For Bhavesh Vyas, that passion is chess. It became a source of comfort, connection and hope through some of the most challenging moments of his life, including a battle with cancer at the age of 22. Read on to discover how chess helped Bhavesh navigate life's toughest challenges and find joy again.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-to-cancer-bhavesh-vyas",
-         "pubDate" : "Thu, 18 Jun 2026 14:00:00",
-         "title" : "Checkmate to cancer: A journey of resilience, hope and new beginnings through chess"
       },
       {
          "description" : "",
@@ -600,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-june-5-2026",
          "pubDate" : "Fri, 05 Jun 2026 17:34:15",
          "title" : "Bortnyk Bolts To 9/9 Start For 9th Freestyle Friday"
-      },
-      {
-         "description" : "GM Denis Lazavik, who won Titled Tuesday this week with a dominant 10/11 score, repeated the performance in the first 3 0 Thursday tournament on June 4, scoring another 10 points to take clear first place. The second and third tournaments of the d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-yoo-terry-3-0-thursday-06-04-2026",
-         "pubDate" : "Fri, 05 Jun 2026 11:29:00",
-         "title" : "Lazavik Completes Dominant Week With 3 0 Thursday Victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131528437.cms\" />Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
