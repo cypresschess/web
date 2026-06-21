@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "The World Team Blitz Chess Championship is taking place on 20-21 June in Hong Kong. The tournament consists of a pool stage, with the 48 teams divided in 4 groups of 12, followed by a knockout stage with the top 16 teams. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
+         "pubDate" : "Sun, 21 Jun 2026 08:00:00",
+         "title" : "World Team Blitz Championship - Live!"
+      },
+      {
+         "description" : "Discover a powerful tool in ChessBase&acute;26: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-20-award-medals-to-your-best-games",
+         "pubDate" : "Sun, 21 Jun 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, Part 20: Award medals to your best games!"
+      },
+      {
          "description" : "The World Team Blitz Championship began in Hong Kong with 48 teams split into four pools, followed by the first knockout round on the same day. WR Chess, Endgame.AI, Hexamind and Mr Birdie and Friends both won their groups and reached the quarterfinals, while Dragon Chilling, Uzbekistan, Team MGD1 and Chessgurukul also made it to Sunday's final stages. Chessgurukul produced the main upset by eliminating Chess United, led by Viswanathan Anand. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,22 +64,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/perfect-illusion/",
          "pubDate" : "Sat, 20 Jun 2026 13:00:00",
          "title" : "The Most Exciting Way to Quit"
-      },
-      {
-         "description" : "An extraordinary fusion of chess and high culture was offered by the event \"Chess at the Opera\" at the Vienna State Opera on 12 June. Germany's superstar, GM Vincent Keymer, took on Austria's super-talents IM Lukas Dotzer, FM Peter Balint, IM Laurenz Borrmann and FM Robert Ernst in a clock simultaneous display. | Photos: Andreas Tischler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-simul-vienna-opera",
-         "pubDate" : "Sat, 20 Jun 2026 07:00:00",
-         "title" : "Vincent Keymer plays simultaneous exhibition at the magnificent Vienna State Opera"
-      },
-      {
-         "description" : "Dragon Chilling won the 2026 World Rapid Team Championship in Hong Kong after a tense final day, taking gold on tiebreaks ahead of Team MGD1 and Hexamind Chess Team. Ding Liren scored in the last round as the Chinese squad recovered from two consecutive match defeats. Mr Birdie and Friends narrowly missed the podium, while favourites WR Chess finished 17th after a difficult rapid event - Magnus Carlsen, suffered two losses on Friday and was not in the lineup in the final two rounds. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-3",
-         "pubDate" : "Sat, 20 Jun 2026 02:50:00",
-         "title" : "Dragon Chilling narrowly win World Team Rapid Championship"
       },
       {
          "description" : "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ...",
