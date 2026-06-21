@@ -10,12 +10,20 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
-         "description" : "The World Team Blitz Chess Championship is taking place on 20-21 June in Hong Kong. The tournament consists of a pool stage, with the 48 teams divided in 4 groups of 12, followed by a knockout stage with the top 16 teams. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
+         "description" : "Dragon Chilling completed a double triumph at the World Team Rapid and Blitz Championships in Hong Kong, adding the blitz title to their rapid victory. Led by Ding Liren, the Chinese squad defeated Endgame.AI in the final with two 5-1 wins, after surviving tiebreaks in the previous rounds. Uzbekistan took bronze after beating Hexamind in the consolation match, while WR Chess recovered from their quarterfinal exit to finish fifth. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-         "pubDate" : "Sun, 21 Jun 2026 08:00:00",
-         "title" : "World Team Blitz Championship - Live!"
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-5",
+         "pubDate" : "Sun, 21 Jun 2026 22:30:00",
+         "title" : "Dragon Chilling beat Endgame.AI in blitz final, grab double gold in Hong Kong"
+      },
+      {
+         "description" : "&#34;It&#39;s like a dream!&#34; said Dragon Chilling captain GM Ni Hua as the Chinese team added&#38;nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann&#39;s Endgame....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-5",
+         "pubDate" : "Sun, 21 Jun 2026 14:18:00",
+         "title" : "Ding Liren Leads Dragon Chilling To 'Dream' Double Gold"
       },
       {
          "description" : "Discover a powerful tool in ChessBase&acute;26: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-exclusive-interview-winning-ahead-of-magnus-carlsen-is-something-ive-always-wanted/articleshow/131556251.cms",
          "pubDate" : "Sun, 07 Jun 2026 01:00:00",
          "title" : "R Praggnanandhaa Exclusive Interview: 'Winning ahead of Magnus Carlsen is something I've always wanted'"
-      },
-      {
-         "description" : "GM Hikaru Nakamura continued his 2026 Bullet Brawl victory streak with a barnstorming performance in Saturday&#39;s event, racing to a 201-point victory with no rivals in sight. The American superstar finished a commanding 58 points ahead of Ukrainian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-6-2026",
-         "pubDate" : "Sat, 06 Jun 2026 18:14:00",
-         "title" : "Nakamura Breaks 200 Again, Wins Bullet Brawl By 58-Point Margin"
       },
       {
          "description" : "Recently I had a lesson with a student where we discussed opposite side castling. The main takeaway was this: As soon as there are opposite side castled kings, a flip needs to switch and it is all about attacking. The same day, he played a game and got in this position: After 9&hellip;0-0-0 he could []",
