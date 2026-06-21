@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
+"HOUSTON","2026-06-20","8","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
+"CYPRESS","2026-06-19","42","<a href=https://ratings.uschess.org/event/202606190543 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190363 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190113 target='_blank'>shadowcreek06192026fridaynoon</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
 "HOUSTON","2026-03-29","10","<a href=https://ratings.uschess.org/event/202603290293 target='_blank'>2026 Houston Circuit T3 by AzChAcad</a>",
 "KATY","2026-03-28","73","<a href=https://ratings.uschess.org/event/202603281363 target='_blank'>5th Annual Aristoi Chess Tournament</a>",
-"HOUSTON","2026-03-28","8","<a href=https://ratings.uschess.org/event/202603280573 target='_blank'>2026 TCA Regional Scholastics Tourn</a>",
-"HOUSTON","2026-03-28","10","<a href=https://ratings.uschess.org/event/202603280233 target='_blank'>chesspanda03282026saturday</a>",
-"PASADENA","2026-03-27","30","<a href=https://ratings.uschess.org/event/202603270303 target='_blank'>Checkmates On Fairmont</a>",
 ]);
