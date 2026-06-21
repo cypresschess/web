@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "The World Team Blitz Championship began in Hong Kong with 48 teams split into four pools, followed by the first knockout round on the same day. WR Chess, Endgame.AI, Hexamind and Mr Birdie and Friends both won their groups and reached the quarterfinals, while Dragon Chilling, Uzbekistan, Team MGD1 and Chessgurukul also made it to Sunday's final stages. Chessgurukul produced the main upset by eliminating Chess United, led by Viswanathan Anand. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-4",
+         "pubDate" : "Sun, 21 Jun 2026 01:45:00",
+         "title" : "Hong Kong: Rating favourites make it to quarterfinals"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#39;s perfect record in Bullet Brawl in 2026 has finally come to an end courtesy of an exceptional performance by the 17-year-old GM Ediz Gurel. Gurel recorded one of the all-time greatest starts with 17 consecutive wins and clinche...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
+         "pubDate" : "Sat, 20 Jun 2026 19:13:00",
+         "title" : "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start"
+      },
+      {
          "description" : "At the end of the 1980s, Soenke Maus, who was born on 11 June 1967 in Bad Schwartau and celebrated his 59th birthday last week, was regarded as one of Germany's greatest talents. But in 1995 he ended his chess career and became a successful marine researcher in Norway. Maus played his most famous game in 1989 at an open tournament in Lugano: he won in just 19 moves, in a theoretically important variation, against Dr Robert H&uuml;bner. | Pictured: Soenke Maus, 1994 | Photo: Torsten Szobries",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/perfect-illusion/",
          "pubDate" : "Sat, 20 Jun 2026 13:00:00",
          "title" : "The Most Exciting Way to Quit"
-      },
-      {
-         "description" : "The World Team Blitz Chess Championship is taking place on 20-21 June in Hong Kong. The tournament consists of a pool stage, with the 48 teams divided in 4 groups of 12, followed by a knockout stage with the top 16 teams. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongside female superstars Ju Wenjun, Bibisara Assaubayeva and Alexandra Kosteniuk are among the participants. | Follow the games live with expert commentary starting at 8.00 CEST (2.00 ET, 11.30 IST) | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-         "pubDate" : "Sat, 20 Jun 2026 08:00:00",
-         "title" : "World Team Blitz Championship - Live!"
       },
       {
          "description" : "An extraordinary fusion of chess and high culture was offered by the event \"Chess at the Opera\" at the Vienna State Opera on 12 June. Germany's superstar, GM Vincent Keymer, took on Austria's super-talents IM Lukas Dotzer, FM Peter Balint, IM Laurenz Borrmann and FM Robert Ernst in a clock simultaneous display. | Photos: Andreas Tischler",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-clinches-european-womens-chess-championship-2026/",
          "pubDate" : "Fri, 05 Jun 2026 18:20:22",
          "title" : "15-year-old Anastasiia Hnatyshyn clinches European Women's Chess Championship 2026"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu is the Norway Chess 2026 champion after beating GM Vincent Keymer to complete an amazing run of four classical wins to end the tournament. GM Wesley So finished second after beating GM Alireza Firouzja in armageddon, a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
-         "pubDate" : "Fri, 05 Jun 2026 18:15:00",
-         "title" : "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131528437.cms\" />Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
