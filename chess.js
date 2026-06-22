@@ -18,14 +18,6 @@ news_feed (
          "title" : "Surrealists and chess"
       },
       {
-         "description" : "Were you able to solve the problems we gave you last Sunday? Find the absurd-looking key 1.Kh3 to solve the position shown here? We brought you four tricky mating positions, with the diagrams defending - refuting any bad moves you played. Today we bring you all the solutions, with full video explanations. And a full replayer which allows you to go through all the lines. Learn and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-deliver-mate",
-         "pubDate" : "Mon, 22 Jun 2026 15:00:00",
-         "title" : "Can you deliver mate?"
-      },
-      {
          "description" : "Cape Town will host the African continental stage of the World School Team Chess Championship from 6 to 11 July 2026, marking the next step in the new FIDE and ISCF cycle. The event, part of the Chess in Education Year initiative, will bring together national school teams from across Africa, with the leading sides qualifying for the Grand Final in December. Further continental stages will follow in the Americas and Europe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +58,12 @@ news_feed (
          "title" : "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller"
       },
       {
-         "description" : "Dragon Chilling completed a double triumph at the World Team Rapid and Blitz Championships in Hong Kong, adding the blitz title to their rapid victory. Led by Ding Liren, the Chinese squad defeated Endgame.AI in the final with two 5-1 wins, after surviving tiebreaks in the previous rounds. Uzbekistan took bronze after beating Hexamind in the consolation match, while WR Chess recovered from their quarterfinal exit to finish fifth. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-5",
-         "pubDate" : "Sun, 21 Jun 2026 22:30:00",
-         "title" : "Dragon Chilling beat Endgame.AI in blitz final, grab double gold in Hong Kong"
+         "description" : "The Caveman Chess Festival featured three US Chess national championships: The U.S. Senior Open, the U.S. Junior Open, and the U.S. Blind Open Championship. The Junior and Senior tournaments are also qualifiers for the 2027 U.S. Junior and Senior Championships, respectively, with one spot in each prestigious event up for grabs. Winners and QualifiersThe winner of the U.S. Senior Open was GM Nick De Firmian, who qualified for the 2027 U.S. Senior Championship. He took clear first with a 5/6 score. The U.S. Junior Open had two players tie for first with 5/6 scores: Pennsylvania's IM Evan Park and New York's FM Aditeya Das. Park qualifies for the 2027 U.S. Junior Championship. <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/de-firmian-wins-us-senior-open-park-and-das-us-junior-open-co-champs",
+         "pubDate" : "Mon, 22 Jun 2026 00:00:00",
+         "title" : "De Firmian wins U.S. Senior Open; Park and Das U.S. Junior Open Co-Champs"
       },
       {
          "description" : "&#34;It&#39;s like a dream!&#34; said Dragon Chilling captain GM Ni Hua as the Chinese team added&#38;nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann&#39;s Endgame....",
@@ -82,36 +74,12 @@ news_feed (
          "title" : "Ding Liren Leads Dragon Chilling To 'Dream' Double Gold"
       },
       {
-         "description" : "Discover a powerful tool in ChessBase&acute;26: Medals! With just a few clicks, you can highlight tactical brilliancies, strategic masterpieces, or typical mistakes-and find them again at any time. Medals help you analyze your games more effectively, organize them, and build up valuable training material. This turns your database into a personal success coach. Learn how to make the most of this powerful feature!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-20-award-medals-to-your-best-games",
-         "pubDate" : "Sun, 21 Jun 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, Part 20: Award medals to your best games!"
-      },
-      {
-         "description" : "The World Team Blitz Championship began in Hong Kong with 48 teams split into four pools, followed by the first knockout round on the same day. WR Chess, Endgame.AI, Hexamind and Mr Birdie and Friends both won their groups and reached the quarterfinals, while Dragon Chilling, Uzbekistan, Team MGD1 and Chessgurukul also made it to Sunday's final stages. Chessgurukul produced the main upset by eliminating Chess United, led by Viswanathan Anand. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-4",
-         "pubDate" : "Sun, 21 Jun 2026 01:45:00",
-         "title" : "Hong Kong: Rating favourites make it to quarterfinals"
-      },
-      {
          "description" : "GM Hikaru Nakamura&#39;s perfect record in Bullet Brawl in 2026 has finally come to an end courtesy of an exceptional performance by the 17-year-old GM Ediz Gurel. Gurel recorded one of the all-time greatest starts with 17 consecutive wins and clinche...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
          "pubDate" : "Sat, 20 Jun 2026 19:13:00",
          "title" : "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start"
-      },
-      {
-         "description" : "At the end of the 1980s, Soenke Maus, who was born on 11 June 1967 in Bad Schwartau and celebrated his 59th birthday last week, was regarded as one of Germany's greatest talents. But in 1995 he ended his chess career and became a successful marine researcher in Norway. Maus played his most famous game in 1989 at an open tournament in Lugano: he won in just 19 moves, in a theoretically important variation, against Dr Robert H&uuml;bner. | Pictured: Soenke Maus, 1994 | Photo: Torsten Szobries",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/soenke-maus-writes-opening-theory",
-         "pubDate" : "Sat, 20 Jun 2026 15:00:00",
-         "title" : "Soenke Maus and his contribution to opening theory"
       },
       {
          "description" : "GM Magnus Carlsen bounced back from four losses in a row to win his first eight blitz games and wasn&#39;t even the highest scorer as WR Chess cruised to victory in Pool A and then eased through to the Quarterfinals of the FIDE World Blitz Team Champi...",
@@ -464,14 +432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
          "pubDate" : "Wed, 10 Jun 2026 05:21:28",
          "title" : "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships"
-      },
-      {
-         "description" : "This week's puzzles begin a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! Also be sure to check out yesterday's Tactics Tuesday for more accessible puzzles from this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-35th-chicago-open-pt-1",
-         "pubDate" : "Wed, 10 Jun 2026 00:00:00",
-         "title" : "Wednesday Workout: 35th Chicago Open, Pt. 1"
       },
       {
          "description" : "Chess stepped further into the mainstream spotlight on Saturday as Grandmasters, the new docuseries featuring GMs Magnus Carlsen, Wesley So, Hans Niemann, and other leading figures of the game, premiered at the Tribeca Film Festival in New York. ...",
