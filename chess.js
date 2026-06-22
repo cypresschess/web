@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surrealists-and-chess",
+         "pubDate" : "Mon, 22 Jun 2026 18:00:00",
+         "title" : "Surrealists and chess"
+      },
+      {
          "description" : "Were you able to solve the problems we gave you last Sunday? Find the absurd-looking key 1.Kh3 to solve the position shown here? We brought you four tricky mating positions, with the diagrams defending - refuting any bad moves you played. Today we bring you all the solutions, with full video explanations. And a full replayer which allows you to go through all the lines. Learn and enjoy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
