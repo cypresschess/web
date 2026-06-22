@@ -1,6 +1,8 @@
 jtable([
+"HOUSTON","2026-06-21","17","<a href=https://ratings.uschess.org/event/202606210213 target='_blank'>Bellaire Sunday Swiss 2026.06.21</a>",
 "HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
 "HOUSTON","2026-06-20","8","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
+"SUGAR LAND","2026-06-19","22","<a href=https://ratings.uschess.org/event/202606190563 target='_blank'>FBCC Juneteenth Open</a>",
 "CYPRESS","2026-06-19","42","<a href=https://ratings.uschess.org/event/202606190543 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190363 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -97,6 +99,4 @@ jtable([
 "SPRING","2026-04-03","26","<a href=https://ratings.uschess.org/event/202604030273 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-03-31","17","<a href=https://ratings.uschess.org/event/202603310333 target='_blank'>March Tuesday Night Swiss 2026</a>",
 "HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
-"HOUSTON","2026-03-29","10","<a href=https://ratings.uschess.org/event/202603290293 target='_blank'>2026 Houston Circuit T3 by AzChAcad</a>",
-"KATY","2026-03-28","73","<a href=https://ratings.uschess.org/event/202603281363 target='_blank'>5th Annual Aristoi Chess Tournament</a>",
 ]);
