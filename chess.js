@@ -10,6 +10,22 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Cape Town will host the African continental stage of the World School Team Chess Championship from 6 to 11 July 2026, marking the next step in the new FIDE and ISCF cycle. The event, part of the Chess in Education Year initiative, will bring together national school teams from across Africa, with the leading sides qualifying for the Grand Final in December. Further continental stages will follow in the Americas and Europe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-africa",
+         "pubDate" : "Mon, 22 Jun 2026 13:10:00",
+         "title" : "World Schools Team Chess Championship to be held in Africa for the first time"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131905404.cms\" />Ahead of his world title defence against Javokhir Sindarov, D Gukesh has been advised by Grandmaster Krishnan Sasikiran to improve his speed, technique and handling of time pressure. Sasikiran warned that Sindarov is highly prepared and fast-paced, but said Gukesh's previous world championship experience could prove crucial in what promises to be a tough contest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
+         "pubDate" : "Mon, 22 Jun 2026 09:46:26",
+         "title" : "'Speed up your calculation': Gukesh advised ahead of World C'ship match"
+      },
+      {
          "description" : "Dragon Chilling completed a double triumph at the World Team Rapid and Blitz Championships in Hong Kong, adding the blitz title to their rapid victory. Led by Ding Liren, the Chinese squad defeated Endgame.AI in the final with two 5-1 wins, after surviving tiebreaks in the previous rounds. Uzbekistan took bronze after beating Hexamind in the consolation match, while WR Chess recovered from their quarterfinal exit to finish fifth. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/sabrina-vega-gutierrez-takes-sole-lead-at-ewcc2026/",
          "pubDate" : "Wed, 03 Jun 2026 07:46:45",
          "title" : "Sabrina Vega Gutierrez takes sole lead at European Women's Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131473706.cms\" />At Norway Chess Round 8, R Praggnanandhaa defeated Magnus Carlsen for the second time in two weeks, outplaying the World No. 1 in a sharp French Defence to stay in title contention. Meanwhile, Gukesh suffered another classical setback against Alireza Firouzja after a preparation mix-up in the Ragozin Defence. In the women's event, Divya Deshmukh lost to women's leader Bibisara Assaubayeva.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-humbles-magnus-carlsen-once-again-gukesh-divya-deshmukh-suffer-classical-losses/articleshow/131473706.cms",
-         "pubDate" : "Wed, 03 Jun 2026 00:55:12",
-         "title" : "Norway Chess: Pragg humbles Carlsen once again; Gukesh, Divya suffer classical losses"
       }
    ]
 }
