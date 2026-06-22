@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Were you able to solve the problems we gave you last Sunday? Find the absurd-looking key 1.Kh3 to solve the position shown here? We brought you four tricky mating positions, with the diagrams defending - refuting any bad moves you played. Today we bring you all the solutions, with full video explanations. And a full replayer which allows you to go through all the lines. Learn and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-deliver-mate",
+         "pubDate" : "Mon, 22 Jun 2026 15:00:00",
+         "title" : "Can you deliver mate?"
+      },
+      {
          "description" : "Cape Town will host the African continental stage of the World School Team Chess Championship from 6 to 11 July 2026, marking the next step in the new FIDE and ISCF cycle. The event, part of the Chess in Education Year initiative, will bring together national school teams from across Africa, with the leading sides qualifying for the Grand Final in December. Further continental stages will follow in the Americas and Europe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,30 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
          "pubDate" : "Mon, 22 Jun 2026 09:46:26",
          "title" : "'Speed up your calculation': Gukesh advised ahead of World C'ship match"
+      },
+      {
+         "description" : "Chess will once again be a part of the world&#39;s biggest esports festival, with GM Magnus Carlsen returning to defend his title. The Esports World Cup Chess Finals will take place from August 11 to 15 with a new home in Paris, France, and feature a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-esports-world-cup-chess-finals-2026",
+         "pubDate" : "Mon, 22 Jun 2026 08:00:00",
+         "title" : "Chess Returns to Esports World Cup in Paris With $1.5M Prize Fund"
+      },
+      {
+         "description" : "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
+         "pubDate" : "Mon, 22 Jun 2026 07:55:24",
+         "title" : "Woodward Wins Revenge Grand Final"
+      },
+      {
+         "description" : "A Magnus Carlsen game from 2010 and his famous queen sacrifice from the 2016 World Championship match helped shape the central chess battle in The Nation&#39;s Gambit, a new Norwegian political thriller, in which every captured piece costs a human lif...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-games-inspired-the-nations-gambit-chess-thriller",
+         "pubDate" : "Mon, 22 Jun 2026 05:11:00",
+         "title" : "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller"
       },
       {
          "description" : "Dragon Chilling completed a double triumph at the World Team Rapid and Blitz Championships in Hong Kong, adding the blitz title to their rapid victory. Led by Ding Liren, the Chinese squad defeated Endgame.AI in the final with two 5-1 wins, after surviving tiebreaks in the previous rounds. Uzbekistan took bronze after beating Hexamind in the consolation match, while WR Chess recovered from their quarterfinal exit to finish fifth. | Photo: FIDE / Michal Walusza",
@@ -482,22 +514,6 @@ news_feed (
          "title" : "ECU General Assembly Agenda"
       },
       {
-         "description" : "GMs Praggnanandhaa Rameshbabu and Bibisara Assaubayeva are the 2026 Norway Chess and Norway Chess Women champions. Assaubayeva ran away with it, while Praggnanandhaa came clutch in a comeback that shocked the other players and even himself. Let&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-norway-chess-9-conclusions",
-         "pubDate" : "Mon, 08 Jun 2026 11:46:00",
-         "title" : "Norway Chess 2026 - 9 Conclusions"
-      },
-      {
-         "description" : "Ukrainian WFM Anastasiia Hnatyshyn produced one of the most remarkable upsets of European championship history, winning the European Women&#39;s Championship outright in Batumi, Georgia. The 15-year-old entered the tournament as the 76th seed in a fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hnatyshyn-wins-2026-european-womens-chess-championship",
-         "pubDate" : "Mon, 08 Jun 2026 09:28:00",
-         "title" : "15-Year-Old Ukrainian Wins European Women's Championship As 76th Seed"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131581690.cms\" />Tamil Nadu Chief Minister C. Joseph Vijay honoured chess prodigy R. Praggnanandhaa with Rs 50 lakh and a memento after his historic Norway Chess triumph. The 20-year-old became the first Indian to win the title, defeating Magnus Carlsen twice and D. Gukesh. After starting poorly, he staged a remarkable comeback, winning four straight games to secure the championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-risks-part-of-gukeshs-identity-coach-gajewski-defends-world-chess-champions-aggressive-style/articleshow/131576902.cms",
          "pubDate" : "Mon, 08 Jun 2026 02:55:09",
          "title" : "'Taking risks part of Gukesh's identity': Coach Gajewski"
-      },
-      {
-         "description" : "IM Roman Shogdzhiev has become the youngest player in chess history to score a grandmaster norm, breaking a record that had stood since 2008. The 11-year-old Russian remained undefeated against the six grandmasters he faced and scored an impressi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/11-year-old-roman-shogdzhiev-becomes-youngest-ever-to-score-gm-norm",
-         "pubDate" : "Sun, 07 Jun 2026 15:44:00",
-         "title" : "Roman Shogdzhiev Breaks 18-Year Record As Youngest Ever To Score GM Norm"
       },
       {
          "description" : "The European Senior Chess Championship 2026 commenced last week in Acqui Terme, Italy, and takes place at the Acqui Terme conference center from 1-11 June, 2026. Five rounds were already played at the Championship which is played in two age categories: 50+ and 65+, open and women's sections separately, and gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. After five played rounds, three players tie for the top in the Open []",
