@@ -18,12 +18,28 @@ news_feed (
          "title" : "175 years ago: Anderssen's Immortal Game is played in London"
       },
       {
+         "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/moussard-wins-titled-tuesday-june-23-2026",
+         "pubDate" : "Tue, 23 Jun 2026 14:32:54",
+         "title" : "'Mouss-See TT' Moussard Wins Titled Tuesday"
+      },
+      {
          "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on Sunday 12th July 2026, 12pm-7pm. Once again, this spectacular will take over the whole square for a day of free, family-friendly chess activities. ChessFest 2026 will also celebrate a unique piece of the London's history: the 175th anniversary of the Immortal Game, played by German chess master Adolf Anderssen, just five-minutes walk away.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-on-trafalgar-square",
          "pubDate" : "Tue, 23 Jun 2026 08:00:00",
          "title" : "Chess on Trafalgar Square"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival",
+         "pubDate" : "Tue, 23 Jun 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival"
       },
       {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
@@ -394,14 +410,6 @@ news_feed (
          "title" : "European Senior Chess Champions 2026 crowned in Italy"
       },
       {
-         "description" : "Editor's note: this story first appeared in the June 2026 issue of Chess Life magazine. This issue focuses on questions of mental health in chess.Today, enjoy an article by Assistant Editor Rick Massimo on the dangers of staking your identity as a chessplayer on your rating. Check out the first two installments here and here. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Plus: Download a high-quality pdf of the three-part feature here, no membership required.How easy it is to be a slave to your rating, and how to",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-what-really-counts",
-         "pubDate" : "Thu, 11 Jun 2026 00:00:00",
-         "title" : "Inside Story: What Really Counts"
-      },
-      {
          "description" : "In the comments on Part 5 of the series, readers pointed out that this was not a \"master game\" (as stated on the Guinness page), since Arsovi&#263 had an initial rating of 2200 (which by today's standards may correspond to a rating of 1400), while Nikolić's rating was only 15 points higher. Now in Part 7 the author examines the remaining \"competitors\" to the Gorkov-Golubenko game for the title of the longest game by number of moves.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-expressions-of-interest-reopened/",
          "pubDate" : "Tue, 09 Jun 2026 10:35:02",
          "title" : "Glorney Cup: Expressions of Interest Reopened"
-      },
-      {
-         "description" : "Get ready for blazing tactics and electrifying swindles! The next installment of the Chess.com Community Championships is coming with the speediest of variants. The Chess.com Hyperbullet Championship takes place from June 18 to 19 and features a $...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-hyperbullet-chess-championship-2026",
-         "pubDate" : "Tue, 09 Jun 2026 08:00:00",
-         "title" : "Hyperbullet Is The Next Edition Of Chess.com Community Championships Starting June 18"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131603205.cms\" />Viswanathan Anand praised R Praggnanandhaa's Norway Chess triumph, calling his comeback and fighting style impressive. He urged world champion D Gukesh, who struggled in the event, to take inspiration from Praggnanandhaa's persistence and hard work. Anand also highlighted the healthy rivalry among India's top young stars and said India is now firmly among the world's leading chess nations.",
