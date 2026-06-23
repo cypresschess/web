@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "On 21 June 1851, on the sidelines of the first major international chess tournament in London, Adolf Anderssen and Lionel Kieseritzky played what was later known as the \"Immortal Game\". Anderssen sacrificed both his rooks and delivered checkmate. The game has captivated the chess world to this day. Deutschland Radio commemorated the game with a calendar feature.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/175-years-anderssen-immortal",
+         "pubDate" : "Tue, 23 Jun 2026 17:15:00",
+         "title" : "175 years ago: Anderssen's Immortal Game is played in London"
+      },
+      {
          "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on Sunday 12th July 2026, 12pm-7pm. Once again, this spectacular will take over the whole square for a day of free, family-friendly chess activities. ChessFest 2026 will also celebrate a unique piece of the London's history: the 175th anniversary of the Immortal Game, played by German chess master Adolf Anderssen, just five-minutes walk away.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
