@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on Sunday 12th July 2026, 12pm-7pm. Once again, this spectacular will take over the whole square for a day of free, family-friendly chess activities. ChessFest 2026 will also celebrate a unique piece of the London's history: the 175th anniversary of the Immortal Game, played by German chess master Adolf Anderssen, just five-minutes walk away.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-on-trafalgar-square",
+         "pubDate" : "Tue, 23 Jun 2026 08:00:00",
+         "title" : "Chess on Trafalgar Square"
+      },
+      {
          "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
