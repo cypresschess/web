@@ -26,28 +26,12 @@ news_feed (
          "title" : "Chess on Trafalgar Square"
       },
       {
-         "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-1",
-         "pubDate" : "Tue, 23 Jun 2026 02:10:00",
-         "title" : "Can you solve these positions from the Chola Chess camp?"
-      },
-      {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/surrealists-and-chess",
          "pubDate" : "Mon, 22 Jun 2026 18:00:00",
          "title" : "Surrealists and chess"
-      },
-      {
-         "description" : "Cape Town will host the African continental stage of the World School Team Chess Championship from 6 to 11 July 2026, marking the next step in the new FIDE and ISCF cycle. The event, part of the Chess in Education Year initiative, will bring together national school teams from across Africa, with the leading sides qualifying for the Grand Final in December. Further continental stages will follow in the Americas and Europe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-africa",
-         "pubDate" : "Mon, 22 Jun 2026 13:10:00",
-         "title" : "World Schools Team Chess Championship to be held in Africa for the first time"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131905404.cms\" />Ahead of his world title defence against Javokhir Sindarov, D Gukesh has been advised by Grandmaster Krishnan Sasikiran to improve his speed, technique and handling of time pressure. Sasikiran warned that Sindarov is highly prepared and fast-paced, but said Gukesh's previous world championship experience could prove crucial in what promises to be a tough contest.",
