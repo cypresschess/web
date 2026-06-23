@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-1",
+         "pubDate" : "Tue, 23 Jun 2026 02:10:00",
+         "title" : "Can you solve these positions from the Chola Chess camp?"
+      },
+      {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
