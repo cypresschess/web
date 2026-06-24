@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wadim Rosenstein is currently organising a Chess World Tour with his company WR Chess. Following the Women's Chess Tour in Tokyo and Magnus Carlsen's appearance at the ASEAN E-Sports Chess Cup in Bangkok, the WR Chess Group is now making a stop in Lima, Peru, with the World Record Chess Marathon. Eight events will be held over four days.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-2026",
+         "pubDate" : "Wed, 24 Jun 2026 19:00:00",
+         "title" : "This week: World Record Chess Marathon in Lima"
+      },
+      {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-i-didnt-work-with-chess-that-much-interview",
          "pubDate" : "Wed, 24 Jun 2026 08:01:00",
          "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
+      },
+      {
+         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada<br> <br> Finishing in clear first place for the third consecutive year, GM Jianchao Zhou won the US Chess 2025 Grand Prix with 791.591 tournament points, beating his 2024 total by almost 100 points. North Carolina's Emmanuel Carter was second with 198.133 points, ahead of FM Danila Poliannikov in third with 139.166 points, less than one point ahead of GM Semen Khanin.Zhou earns $5,000 for his first-place finish, with Carter taking home $2,500 for second and Poliannikov $1,000 for third. The top ten finishers for the 2025 Grand Prix are detailed below: PlaceNameIDSTPointsPrize1stZHOU, JIANCHAO",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/jianchao-zhou-three-peats-2025-grand-prix-winner",
+         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
+         "title" : "Jianchao Zhou Three-peats as 2025 Grand Prix Winner"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival",
+         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival"
       },
       {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
@@ -290,14 +314,6 @@ news_feed (
          "title" : "Rating Fee Increase Effective July 1"
       },
       {
-         "description" : "This week's puzzles continue a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-35th-annual-chicago-open-pt-2",
-         "pubDate" : "Tue, 16 Jun 2026 00:00:00",
-         "title" : "Tactics Tuesday: 35th Annual Chicago Open, Pt. 2"
-      },
-      {
          "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -328,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-advanced-stats",
          "pubDate" : "Mon, 15 Jun 2026 08:00:00",
          "title" : "Relive All Your Brilliant Moves With Our New Advanced Stats Feature"
-      },
-      {
-         "description" : "The Frank P. Samford, Jr. Chess Fellowship, marking its 40th annual award, has selected Grandmasters Andy Woodward of McKinney, Texas; Abhimanyu Mishra of Englishtown, New Jersey; Andrew Hong of Saratoga, California; Brewington Hardaway of New York City; Kirk Ghazarian of Trabuco Canyon, California; International Masters Carissa Yip of St. Louis; Alice Lee of North Oaks, Minnesota; Rose Atwell of Valencia, California; Woman Grandmaster Zoey Tang of Portland, Oregon; and FIDE Master Megan Paragua of New York City as its 2026 Fellows. The Samford is the most important chess fellowship in the United States, having awarded three million dollars over four decades.Since its 1987 inception, the Fel",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-samford-fellowship-winners-announced",
-         "pubDate" : "Mon, 15 Jun 2026 00:00:00",
-         "title" : "2026 Samford Fellowship Winners Announced"
       },
       {
          "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
