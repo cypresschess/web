@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
+         "description" : "Alexander Donchenko lived up to his status as favourite at the German Rapid Chess Championship and claimed the national title. In the women's championship, Olgy Babiy prevailed over rating favourite Lara Schulze. The tournament was hosted by the Heinz Nixdorf MuseumsForum (HNF) in Paderborn. Report, standings and games. | Photo: Wolfgang Vullhorst / German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-rapid-chess-championship-2026",
+         "pubDate" : "Wed, 24 Jun 2026 03:50:00",
+         "title" : "Alexander Donchenko prevails at German Rapid Championship"
+      },
+      {
          "description" : "On 21 June 1851, on the sidelines of the first major international chess tournament in London, Adolf Anderssen and Lionel Kieseritzky played what was later known as the \"Immortal Game\". Anderssen sacrificed both his rooks and delivered checkmate. The game has captivated the chess world to this day. Deutschland Radio commemorated the game with a calendar feature.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
