@@ -10,20 +10,20 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       },
       {
-         "description" : "Alexander Donchenko lived up to his status as favourite at the German Rapid Chess Championship and claimed the national title. In the women's championship, Olgy Babiy prevailed over rating favourite Lara Schulze. The tournament was hosted by the Heinz Nixdorf MuseumsForum (HNF) in Paderborn. Report, standings and games. | Photo: Wolfgang Vullhorst / German Chess Federation",
+         "description" : "C'Chartres Échecs won the French Team Chess Championship for the third year in a row, claiming the 2026 Top 16 title on home ground in Chartres. After a demanding group stage, the defending champions were flawless in the upper pool and sealed first place with a final-round win over Aix-en-Provence. Marseille Échecs completed the podium, while four clubs were relegated to Nationale I. | Photo: French Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-rapid-chess-championship-2026",
-         "pubDate" : "Wed, 24 Jun 2026 03:50:00",
-         "title" : "Alexander Donchenko prevails at German Rapid Championship"
+         "link" : "https://en.chessbase.com/post/french-top-16-2026-report",
+         "pubDate" : "Wed, 24 Jun 2026 13:15:00",
+         "title" : "C'Chartres Échecs win French Team Championship for third year in a row"
       },
       {
-         "description" : "On 21 June 1851, on the sidelines of the first major international chess tournament in London, Adolf Anderssen and Lionel Kieseritzky played what was later known as the \"Immortal Game\". Anderssen sacrificed both his rooks and delivered checkmate. The game has captivated the chess world to this day. Deutschland Radio commemorated the game with a calendar feature.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/175-years-anderssen-immortal",
-         "pubDate" : "Tue, 23 Jun 2026 17:15:00",
-         "title" : "175 years ago: Anderssen's Immortal Game is played in London"
+         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-returns-12th-july/",
+         "pubDate" : "Wed, 24 Jun 2026 09:08:21",
+         "title" : "ChessFest returns - 12th July"
       },
       {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/moussard-wins-titled-tuesday-june-23-2026",
          "pubDate" : "Tue, 23 Jun 2026 14:32:54",
          "title" : "'Mouss-See TT' Moussard Wins Titled Tuesday"
-      },
-      {
-         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on Sunday 12th July 2026, 12pm-7pm. Once again, this spectacular will take over the whole square for a day of free, family-friendly chess activities. ChessFest 2026 will also celebrate a unique piece of the London's history: the 175th anniversary of the Immortal Game, played by German chess master Adolf Anderssen, just five-minutes walk away.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-on-trafalgar-square",
-         "pubDate" : "Tue, 23 Jun 2026 08:00:00",
-         "title" : "Chess on Trafalgar Square"
       },
       {
          "description" : "This week's puzzles begin a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -680,22 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/im-not-even-the-best-player-in-uzbekistan-javokhir-sindarov/articleshow/131496446.cms",
          "pubDate" : "Thu, 04 Jun 2026 04:37:14",
          "title" : "Sindarov calls Abdusattorov best Uzbek player; hardly uses engines"
-      },
-      {
-         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we will bring you regular overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-2",
-         "pubDate" : "Wed, 03 Jun 2026 10:50:53",
-         "title" : "Upcoming tournaments and events"
-      },
-      {
-         "description" : "Eight rounds have been played at the European Women's Chess Championship 2026, and IM Sabrina Vega Gutierrez (ESP, 2375) has emerged as the sole leader of the event with a score of 7/8 points! In a direct eighth-round clash between the tournament leaders, IM Sabrina Vega Gutierrez (ESP, 2375) defeated IM Meri Arabidze (GEO, 2409) with the White pieces. Vega Gutierrez opted for an aggressive and rare line in the Sicilian Defense, but Arabidze found the best continuation for Black []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/sabrina-vega-gutierrez-takes-sole-lead-at-ewcc2026/",
-         "pubDate" : "Wed, 03 Jun 2026 07:46:45",
-         "title" : "Sabrina Vega Gutierrez takes sole lead at European Women's Championship"
       }
    ]
 }
