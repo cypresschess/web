@@ -26,6 +26,14 @@ news_feed (
          "title" : "ChessFest returns - 12th July"
       },
       {
+         "description" : "Two months after his incredible Candidates victory, GM Javokhir Sindarov says his life has changed surprisingly little. But the 20-year-old Uzbek star revealed that his approach to chess changed dramatically over the last year. In an interview wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-i-didnt-work-with-chess-that-much-interview",
+         "pubDate" : "Wed, 24 Jun 2026 08:01:00",
+         "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
+      },
+      {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
          "pubDate" : "Tue, 09 Jun 2026 13:14:00",
          "title" : "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda impressively won&#38;nbsp;Titled Tuesday on June 9 with a score of 10/11. He becomes the second player to win the new first-place prize of $2,500, and also the second player, after GM Javokhir Sindarov, to win three Titled Tuesda...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-june-9-2026",
-         "pubDate" : "Tue, 09 Jun 2026 11:10:00",
-         "title" : "Duda Domination Defeats Titled Tuesday Field"
       },
       {
          "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland (near Shannon Airport) on 27-30...",
