@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos: J&ouml;rg Hutschenreiter",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dresden-2026-uhlmann-exhibition-ai-simulation",
+         "pubDate" : "Wed, 24 Jun 2026 22:50:00",
+         "title" : "Dresden 2026: Uhlmann exhibition with AI simulation"
+      },
+      {
          "description" : "Wadim Rosenstein is currently organising a Chess World Tour with his company WR Chess. Following the Women's Chess Tour in Tokyo and Magnus Carlsen's appearance at the ASEAN E-Sports Chess Cup in Bangkok, the WR Chess Group is now making a stop in Lima, Peru, with the World Record Chess Marathon. Eight events will be held over four days.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/french-top-16-2026-report",
          "pubDate" : "Wed, 24 Jun 2026 13:15:00",
          "title" : "C'Chartres Échecs win French Team Championship for third year in a row"
+      },
+      {
+         "description" : "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2026 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-1",
+         "pubDate" : "Wed, 24 Jun 2026 12:59:00",
+         "title" : "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals"
       },
       {
          "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
-         "pubDate" : "Mon, 22 Jun 2026 07:55:24",
+         "pubDate" : "Mon, 22 Jun 2026 07:55:00",
          "title" : "Woodward Wins Revenge Grand Final"
       },
       {
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
          "pubDate" : "Wed, 10 Jun 2026 05:21:28",
          "title" : "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships"
-      },
-      {
-         "description" : "Chess stepped further into the mainstream spotlight on Saturday as Grandmasters, the new docuseries featuring GMs Magnus Carlsen, Wesley So, Hans Niemann, and other leading figures of the game, premiered at the Tribeca Film Festival in New York. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
-         "pubDate" : "Tue, 09 Jun 2026 13:14:00",
-         "title" : "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca"
       },
       {
          "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland (near Shannon Airport) on 27-30...",
