@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments in each category. With two rounds to go at the 11-round Swiss opens taking place at the Congress Center Pala Dean Martin, we bring a collection of photos from the multitudinous event. | Pictured: Jiang Tianyu from China | Photo: ChessBase / Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
+         "pubDate" : "Thu, 25 Jun 2026 08:00:00",
+         "title" : "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano"
+      },
+      {
          "description" : "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos: J&ouml;rg Hutschenreiter",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +18,12 @@ news_feed (
          "title" : "Dresden 2026: Uhlmann exhibition with AI simulation"
       },
       {
-         "description" : "Wadim Rosenstein is currently organising a Chess World Tour with his company WR Chess. Following the Women's Chess Tour in Tokyo and Magnus Carlsen's appearance at the ASEAN E-Sports Chess Cup in Bangkok, the WR Chess Group is now making a stop in Lima, Peru, with the World Record Chess Marathon. Eight events will be held over four days.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-2026",
-         "pubDate" : "Wed, 24 Jun 2026 19:00:00",
-         "title" : "This week: World Record Chess Marathon in Lima"
-      },
-      {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
          "pubDate" : "Wed, 24 Jun 2026 14:52:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "C'Chartres Échecs won the French Team Chess Championship for the third year in a row, claiming the 2026 Top 16 title on home ground in Chartres. After a demanding group stage, the defending champions were flawless in the upper pool and sealed first place with a final-round win over Aix-en-Provence. Marseille Échecs completed the podium, while four clubs were relegated to Nationale I. | Photo: French Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-top-16-2026-report",
-         "pubDate" : "Wed, 24 Jun 2026 13:15:00",
-         "title" : "C'Chartres Échecs win French Team Championship for third year in a row"
       },
       {
          "description" : "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2026 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination...",
@@ -672,22 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/anastasiia-hnatyshyn-heads-into-the-final-round-of-ewcc2026-as-the-sole-leader/",
          "pubDate" : "Thu, 04 Jun 2026 18:29:36",
          "title" : "Anastasiia Hnatyshyn heads into the final round of EWCC2026 as the sole leader"
-      },
-      {
-         "description" : "Nine rounds have been played at the European Women's Chess Championship 2026 in Batumi, Georgia, and only two rounds remain before the new champion is crowned. Scoring 7.5/9 points each, 15-year-old WFM Anastasiia Hnatyshyn (UKR, 2207) and IM Sabrina Vega Gutierrez (ESP, 2375) are tied for first place, entering the penultimate round as tournament co-leaders. Ukraine's 15-year-old teenage sensation, Anastasiia Hnatyshyn, yesterday defeated the reigning Azerbaijani Women's Chess Champion and 2024 European Champion, IM Ulviyya Fataliyeva (AZE, 2450). Hnatyshyn had []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/anastasiia-hnatyshyn-joins-sabrina-vega-on-the-top-with-two-rounds-to-go-at-ewcc2026/",
-         "pubDate" : "Thu, 04 Jun 2026 07:24:44",
-         "title" : "Anastasiia Hnatyshyn joins Sabrina Vega on the top with two rounds to go at EWCC2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131496446.cms\" />Javokhir Sindarov, the 20-year-old challenger for the World Championship, recently unveiled his competitive itinerary, featuring his debut at the US World Cup and participation in an upcoming event in Hong Kong. With an admirable sense of humility, he praised his compatriot Nodirbek Abdusattorov, candidly admitting he might not even be the best in Uzbekistan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-not-even-the-best-player-in-uzbekistan-javokhir-sindarov/articleshow/131496446.cms",
-         "pubDate" : "Thu, 04 Jun 2026 04:37:14",
-         "title" : "Sindarov calls Abdusattorov best Uzbek player; hardly uses engines"
       }
    ]
 }
