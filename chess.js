@@ -10,12 +10,28 @@ news_feed (
          "title" : "Over 60 hours of non-stop chess: World Record Chess Marathon begins in Lima"
       },
       {
+         "description" : "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
+         "pubDate" : "Thu, 25 Jun 2026 14:15:30",
+         "title" : "Firouzja, Arjun Advance To Winners Final"
+      },
+      {
          "description" : "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature end. Memories of a wonderful player and a great person. | Photos: Private collection",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/memories-of-peter-dankert",
          "pubDate" : "Thu, 25 Jun 2026 14:00:00",
          "title" : "Memories of Peter Dankert"
+      },
+      {
+         "description" : "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cvc-capital-partners-invests-in-chess-com",
+         "pubDate" : "Thu, 25 Jun 2026 13:19:00",
+         "title" : "CVC Capital Partners Invests In Chess.com"
       },
       {
          "description" : "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King's Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black's central play, and a quieter positional approach with c4 and a double fianchetto. The lesson shows the course's main idea well: giving players a simple, practical and venomous repertoire that avoids heavy theory while still creating uncomfortable problems for Black.",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
          "pubDate" : "Thu, 25 Jun 2026 08:00:00",
          "title" : "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano"
+      },
+      {
+         "description" : "The Interest Survey is open for chessplayers interested in representing USA for the 3rd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Uzbekistan Chess Federation, will take place September 10-18, in Samarkand, Uzbekistan.US Chess will be accepting registrations of interest for eligible U.S. participants until Friday, July 3rd, at 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be a 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/interest-survey-open-3rd-fide-chess-olympiad-people-disabilities",
+         "pubDate" : "Thu, 25 Jun 2026 00:00:00",
+         "title" : "Interest Survey Open for 3rd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos: J&ouml;rg Hutschenreiter",
@@ -298,14 +322,6 @@ news_feed (
          "title" : "World Junior Chess Championships"
       },
       {
-         "description" : "This week's puzzles continue a series on the 35th Annual Chicago Open, covered as part of our 2026 Memorial Day Weekend Wrap-Up. With so many strong players competing, there's a bounty of positions for us to explore! Also be sure to check out yesterday's Tactics Tuesday for more accessible puzzles from this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-35th-chicago-open-pt-2",
-         "pubDate" : "Wed, 17 Jun 2026 00:00:00",
-         "title" : "Wednesday Workout: 35th Chicago Open, Pt. 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131768335.cms\" />India's 72nd Grandmaster Mitrabha Guha, who once appeared on Kaun Banega Crorepati and won Rs 4.8 lakh has secured India's final spot for the Esports Nations Cup 2026. The Kolkata player overcame years of financial struggles and family sacrifices to reach the top. Now pursuing an MBA, the Commonwealth classical chess champion is set to compete alongside stars like Magnus Carlsen and Hikaru Nakamura.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -432,22 +448,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik",
          "pubDate" : "Fri, 12 Jun 2026 07:00:38",
          "title" : "Chess: Carlsen heads for Hong Kong while Russia unveils the next Botvinnik"
-      },
-      {
-         "description" : "The Chess Federation of Russia (CFR) has been suspended from the International Chess Federation (FIDE) after failing to comply with a Court of Arbitration for Sport (CAS) ruling that required the CFR to cease organizing chess activities in Russian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russia-chess-federation-suspended-occupied-ukraine",
-         "pubDate" : "Fri, 12 Jun 2026 06:55:00",
-         "title" : "Russia's Chess Federation Suspended After Refusing To Halt Events In Occupied Ukraine"
-      },
-      {
-         "description" : "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
-         "pubDate" : "Thu, 11 Jun 2026 14:44:00",
-         "title" : "Vokhidov Takes Sole Lead With 3-Win Streak"
       },
       {
          "description" : "The European Senior Chess Championship 2026 concluded yesterday in Acqui Terme, Italy! The event was played in two age categories: 50+ and 65+, open and women's sections separately, gathering nearly 250 players coming from 34 European federations. After nine played rounds, GM Jean-Marc Degraeve (FRA, 2494) emerged as the sole winner of the 50+ Open competition, scoring 7/9 points. As many as five players tied for silver with the score of 6.5/9 points (each): GM Daniel Gormally (ENG, 2391), GM []",
