@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King's Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black's central play, and a quieter positional approach with c4 and a double fianchetto. The lesson shows the course's main idea well: giving players a simple, practical and venomous repertoire that avoids heavy theory while still creating uncomfortable problems for Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andy-woodward-the-bulletproof-1-b3-repertoire",
+         "pubDate" : "Thu, 25 Jun 2026 11:00:00",
+         "title" : "Andy Woodward: The Bulletproof 1.b3 Repertoire"
+      },
+      {
          "description" : "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments in each category. With two rounds to go at the 11-round Swiss opens taking place at the Congress Center Pala Dean Martin, we bring a collection of photos from the multitudinous event. | Pictured: Jiang Tianyu from China | Photo: ChessBase / Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
