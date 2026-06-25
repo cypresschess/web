@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 to 28 June 2026, the Sheraton in Lima, Peru becomes the stage for one of the most unusual chess festivals of the year. Eight tournaments, elite simultaneous exhibitions, a top showdown, US$100,000 prize fund and a clock that essentially never stops for four days and nights for chess. Here is everything you need to know about the World Record Chess Marathon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-sagar",
+         "pubDate" : "Thu, 25 Jun 2026 19:10:00",
+         "title" : "Over 60 hours of non-stop chess: World Record Chess Marathon begins in Lima"
+      },
+      {
          "description" : "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature end. Memories of a wonderful player and a great person. | Photos: Private collection",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-takes-revenge-on-world-champion-d-gukesh-title-race-goes-to-final-day/articleshow/131519197.cms",
          "pubDate" : "Fri, 05 Jun 2026 01:21:37",
          "title" : "Norway Chess: Praggnanandhaa takes revenge on Gukesh; title race goes to final day"
-      },
-      {
-         "description" : "The 15-year-old sensation from Ukraine, WFM Anastasiia Hnatyshyn, emerged as the sole leader of the European Women's Chess Championship 2026 after ten rounds of play in Batumi, Georgia! Anastasiia Hnatyshyn (UKR, 2207) defeated IM Eline Roebers (NED, 2389) today with the White pieces to enter the final round of the tournament with a half-point edge over the runners-up. It was a brilliant game for the Ukrainian teenager, who got a clear edge out of the opening and started pressing for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/anastasiia-hnatyshyn-heads-into-the-final-round-of-ewcc2026-as-the-sole-leader/",
-         "pubDate" : "Thu, 04 Jun 2026 18:29:36",
-         "title" : "Anastasiia Hnatyshyn heads into the final round of EWCC2026 as the sole leader"
       }
    ]
 }
