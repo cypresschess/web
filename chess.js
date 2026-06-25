@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature end. Memories of a wonderful player and a great person. | Photos: Private collection",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/memories-of-peter-dankert",
+         "pubDate" : "Thu, 25 Jun 2026 14:00:00",
+         "title" : "Memories of Peter Dankert"
+      },
+      {
          "description" : "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King's Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black's central play, and a quieter positional approach with c4 and a double fianchetto. The lesson shows the course's main idea well: giving players a simple, practical and venomous repertoire that avoids heavy theory while still creating uncomfortable problems for Black.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-i-didnt-work-with-chess-that-much-interview",
          "pubDate" : "Wed, 24 Jun 2026 08:01:00",
          "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
+      },
+      {
+         "description" : "2026 Olympiad Teams AnnouncedThe 46th FIDE Chess Olympiad will take place from September 15 through 27 in Samarkand, Uzbekistan. Team USA looks to improve on its silver and bronze medal finishes of the Open and Women's sections, respectively, of the 45th FIDE Chess Olympiad held in 2024 in Budapest, Hungary. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Maria Emelianova/FIDE<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Maria Emelianova/FIDE<br> <br> <br> <br> The following list is the official players, captain, and trainer for the 2026 Olympiad Team USA Open a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-olympiad-teams-announced",
+         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
+         "title" : "2026 Olympiad Teams Announced"
       },
       {
          "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada<br> <br> Finishing in clear first place for the third consecutive year, GM Jianchao Zhou won the US Chess 2025 Grand Prix with 791.591 tournament points, beating his 2024 total by almost 100 points. North Carolina's Emmanuel Carter was second with 198.133 points, ahead of FM Danila Poliannikov in third with 139.166 points, less than one point ahead of GM Semen Khanin.Zhou earns $5,000 for his first-place finish, with Carter taking home $2,500 for second and Poliannikov $1,000 for third. The top ten finishers for the 2025 Grand Prix are detailed below: PlaceNameIDSTPointsPrize1stZHOU, JIANCHAO",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
          "pubDate" : "Tue, 16 Jun 2026 06:55:00",
          "title" : "Vachier-Lagrave, Le, Bluebaum, Yoo Among Stars To Play In Esports Nations Cup Finals"
-      },
-      {
-         "description" : "Rating Fee Increase Effective July 1US Chess will increase the per-game rating fee from 30 cents to 35 cents per game on July 1. A plan for future adjustments will be discussed at the 2026 Delegates Meeting held in conjunction with the 2026 U.S. Open in Grand Rapids, MI. The Executive Board unanimously approved this change at its Dec. 9, 2025 meeting.The rating system is a core US Chess service, processing millions of games each year. Operating this system requires staff, technical resources, and ongoing investment, including continued development of the new MUIR system. Demand for timely and accurate ratings has increased, while the per-game rating fee has not budged for more than twenty ye",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rating-fee-increase-effective-july-1",
-         "pubDate" : "Tue, 16 Jun 2026 00:00:00",
-         "title" : "Rating Fee Increase Effective July 1"
       },
       {
          "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
