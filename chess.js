@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anastasia Corotcova challenged the virtual version of Mikhail Tal in Fritz 21, hoping to experience the legendary attacking style that made the former World Champion famous. After gaining a promising position, she and Arne Kaehler struggled to find a series of critical defensive moves, allowing Tal's relentless sacrificing attack to take over. The game was full of tactical fireworks and captured the feeling of facing the real \"Magician from Riga,\" making it an entertaining and memorable experience.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anastasia-corotcova-vs-mikhail-tal-level-strong-club-player",
+         "pubDate" : "Fri, 26 Jun 2026 19:00:00",
+         "title" : "Anastasia Corotcova vs. Mikhail Tal (Level = Strong Club Player)"
+      },
+      {
          "description" : "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organisation in recent years. Pein, an International Master, organiser and journalist, previously stood for FIDE Deputy President in 2018. | Photo: Freestyle Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,28 @@ news_feed (
          "title" : "Jan Henric Buettner to run for FIDE President, with Malcolm Pein on ticket"
       },
       {
-         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
-         "pubDate" : "Fri, 26 Jun 2026 11:46:32",
-         "title" : "KCF Friendship Festival opens"
+         "description" : "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/buettner-rosenstein-announce-campaigns-for-fide-presidency",
+         "pubDate" : "Fri, 26 Jun 2026 12:18:18",
+         "title" : "Buettner, Rosenstein Launch Campaigns For FIDE Presidency"
       },
       {
          "description" : "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built a profile as a sponsor, organiser and promoter of the game. | Photo: Wadim Rosenstein's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
-         "pubDate" : "Fri, 26 Jun 2026 11:30:00",
+         "pubDate" : "Fri, 26 Jun 2026 11:50:00",
          "title" : "Wadim Rosenstein to run for FIDE President"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
+         "pubDate" : "Fri, 26 Jun 2026 11:46:32",
+         "title" : "KCF Friendship Festival opens"
       },
       {
          "description" : "The United States has named its open and women's teams for the 2026 Chess Olympiad in Samarkand. Fabiano Caruana, Wesley So and Levon Aronian return in the open section, joined by debutants Hans Niemann and Awonder Liang. The women's squad includes Carissa Yip, Alice Lee and Irina Krush, alongside Rose Atwell, who will make her Olympiad debut, and Tatev Abrahamyan. | Photos: Saint Louis Chess Club / Lennart Ootes",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
          "pubDate" : "Fri, 26 Jun 2026 04:30:02",
          "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) and the International School Chess Federation (ISCF) invite all FIDE member federations belonging to the American zone according to FIDE division and eligible players to participate in the American Stage of the World Schools Team Championship 2026. The competition will be held in San Jose, Costa Rica from August 11 (arrival) to 16 (departure), 2026. The venue is the DoubleTree by Hilton Hotel Cariari San Jose, located at San Antonio de Belen Ciudad Cariari, San Jose, Costa Rica. TOURNAMENT DETAILSEach event will be eight rounds, using a time control of Game/45 minutes with a 10-second increment. The full schedule for all rounds can be viewed: https:/",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/interest-application-open-fide-world-schools-team-chess-championships-2026-continental",
+         "pubDate" : "Fri, 26 Jun 2026 00:00:00",
+         "title" : "Interest Application Open for FIDE World Schools Team Chess Championships 2026 - Continental"
       },
       {
          "description" : "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le...",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "2026 North American Youth Championship Announced"
       },
       {
-         "description" : "The 2026 North American Junior Chess Championships, Open Under 20 and Girls Under 20, will be held December 18-23, 2026 at the Hilton Charlotte University Place, 8629 JM Keynes Drive, Charlotte, NC 28262, USA. The event is open to players aged under 20 as of January 1, 2026, (must be born in 2006 or after) representing Canada, Mexico, or the United States.This is a nine-round event with the first round on Friday, December 18. Medals as well as direct FIDE titles and norms are awarded to the top three players in each section. Gold medalists receive the (W)IM title and a (W)GM norm and the complete list of titles and norms to be awarded can be found in the section \"Prizes\" of the event regulat",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-north-american-junior-championships-announced",
-         "pubDate" : "Thu, 18 Jun 2026 00:00:00",
-         "title" : "2026 North American Junior Championships Announced"
-      },
-      {
          "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-andreikin-aravindh-3-0-thursday-06-11-2026",
          "pubDate" : "Fri, 12 Jun 2026 14:18:27",
          "title" : "Nakamura, Andreikin, Aravindh Top 3 0 Thursdays On Tiebreaks"
-      },
-      {
-         "description" : "GM Pranav Venkatesh overcame losses in the second and fourth rounds in Freestyle Friday on June 12 to win all his other games, take first place outright, and pass&#38;nbsp;GM Oleksandr Bortnyk in the 2026 Freestyle Friday Championship (FFC) standings....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-wins-freestyle-friday-june-12-2026",
-         "pubDate" : "Fri, 12 Jun 2026 11:50:30",
-         "title" : "Pranav Comeback Retakes Freestyle Friday Championship Lead"
       },
       {
          "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 (&pound;133,000) Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Con",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/26th-european-womens-championship-2026",
          "pubDate" : "Fri, 5 Jun 2026 20:17:00",
          "title" : "26th European Women's Championship 2026 - Games and Results"
-      },
-      {
-         "description" : "15-year-old Ukrainian rising star Anastasiia Hnatyshyn emerged as the sole winner of the European Women's Chess Championship 2026 in Batumi, Georgia! Anastasiia Hnatyshyn (UKR, 2207) entered the final round as the sole leader of the event, playing with the Black pieces against Polish representative IM Klaudia Kulon (POL, 2377). Kulon was well-prepared for the game and earned an early edge out of the opening, but Hnatyshyn fought precisely and held the game to a draw, which was enough to clinch []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-clinches-european-womens-chess-championship-2026/",
-         "pubDate" : "Fri, 05 Jun 2026 18:20:22",
-         "title" : "15-year-old Anastasiia Hnatyshyn clinches European Women's Chess Championship 2026"
       }
    ]
 }
