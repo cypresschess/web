@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organisation in recent years. Pein, an International Master, organiser and journalist, previously stood for FIDE Deputy President in 2018. | Photo: Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-henric-buettner-to-run-for-fide-president",
+         "pubDate" : "Fri, 26 Jun 2026 12:30:00",
+         "title" : "Jan Henric Buettner to run for FIDE President, with Malcolm Pein on ticket"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
+         "pubDate" : "Fri, 26 Jun 2026 11:46:32",
+         "title" : "KCF Friendship Festival opens"
+      },
+      {
+         "description" : "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built a profile as a sponsor, organiser and promoter of the game. | Photo: Wadim Rosenstein's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
+         "pubDate" : "Fri, 26 Jun 2026 11:30:00",
+         "title" : "Wadim Rosenstein to run for FIDE President"
+      },
+      {
+         "description" : "The United States has named its open and women's teams for the 2026 Chess Olympiad in Samarkand. Fabiano Caruana, Wesley So and Levon Aronian return in the open section, joined by debutants Hans Niemann and Awonder Liang. The women's squad includes Carissa Yip, Alice Lee and Irina Krush, alongside Rose Atwell, who will make her Olympiad debut, and Tatev Abrahamyan. | Photos: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-olympiad-teams-announced",
+         "pubDate" : "Fri, 26 Jun 2026 10:30:00",
+         "title" : "US Olympiad teams: Niemann and Liang to make debuts in open squad"
+      },
+      {
          "description" : " The word No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -624,22 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/15-year-old-anastasiia-hnatyshyn-clinches-european-womens-chess-championship-2026/",
          "pubDate" : "Fri, 05 Jun 2026 18:20:22",
          "title" : "15-year-old Anastasiia Hnatyshyn clinches European Women's Chess Championship 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131528437.cms\" />Praggnanandhaa remains firmly in contention for the Norway Chess 2026 title heading into the final round. The Indian grandmaster trails leader Wesley So by just half a point, with Alireza Firouzja also in the mix. A classical victory in his final game could propel Praggnanandhaa to the top, though the outcome will also depend on results involving So and Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-how-r-praggnanandhaa-can-win-2026-title-in-a-three-way-battle-all-scenarios-explained/articleshow/131528437.cms",
-         "pubDate" : "Fri, 05 Jun 2026 10:43:12",
-         "title" : "Explained: How Praggnanandhaa can win Norway Chess in a three-way battle "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131527989.cms\" />World Champion D Gukesh faces a crucial final-round clash against Magnus Carlsen at Norway Chess 2026. Currently last with eight points, Gukesh must defeat Carlsen in their classical game to move ahead of the Norwegian and avoid finishing at the bottom. Meanwhile, Wesley So, Praggnanandhaa, and Alireza Firouzja remain locked in a thrilling three-way battle for the tournament title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
-         "pubDate" : "Fri, 05 Jun 2026 09:53:13",
-         "title" : "What must Gukesh do to avoid finishing last at Norway Chess 2026?"
       }
    ]
 }
