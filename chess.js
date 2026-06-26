@@ -2,28 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 25 to 28 June 2026, the Sheraton in Lima, Peru becomes the stage for one of the most unusual chess festivals of the year. Eight tournaments, elite simultaneous exhibitions, a top showdown, US$100,000 prize fund and a clock that essentially never stops for four days and nights for chess. Here is everything you need to know about the World Record Chess Marathon.",
+         "description" : " The word No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jun/26/chess-carlsens-four-defeats-in-a-row-just-a-blip-or-the-start-of-a-career-downturn",
+         "pubDate" : "Fri, 26 Jun 2026 07:00:14",
+         "title" : "Chess: Carlsen's four defeats in a row - just a blip or the start of a career downturn?"
+      },
+      {
+         "description" : "FIDE has opened its new Shenzhen Office in Qianhai, following an inauguration ceremony attended by FIDE President Arkady Dvorkovich and Chinese sports official He Fengxiang. The two sides discussed further cooperation in event organisation, youth training, cultural exchange and chess development, with Shenzhen set to serve as a hub linking FIDE's work with the Guangdong-Hong Kong-Macao Greater Bay Area and broader chess activity across China. | Photo: Liang Ziming",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-sagar",
-         "pubDate" : "Thu, 25 Jun 2026 19:10:00",
-         "title" : "Over 60 hours of non-stop chess: World Record Chess Marathon begins in Lima"
+         "link" : "https://en.chessbase.com/post/shenzhen-welcomes-fide-cooperation",
+         "pubDate" : "Fri, 26 Jun 2026 06:45:00",
+         "title" : "Shenzhen welcomes FIDE: Strengthening global chess cooperation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132007146.cms\" />FIDE's proposed \"First Rating Experiment\" could allow players to earn official rapid and blitz ratings through online games, bypassing traditional tournament requirements. While the initiative aims to make rated chess more accessible, it has divided India's Grandmasters. Critics fear it could undermine rating credibility and fair play, while supporters view it as a bold step toward expanding chess participation worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
+         "pubDate" : "Fri, 26 Jun 2026 04:30:02",
+         "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
       },
       {
          "description" : "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
-         "pubDate" : "Thu, 25 Jun 2026 14:15:30",
+         "pubDate" : "Thu, 25 Jun 2026 14:15:00",
          "title" : "Firouzja, Arjun Advance To Winners Final"
-      },
-      {
-         "description" : "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature end. Memories of a wonderful player and a great person. | Photos: Private collection",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/memories-of-peter-dankert",
-         "pubDate" : "Thu, 25 Jun 2026 14:00:00",
-         "title" : "Memories of Peter Dankert"
       },
       {
          "description" : "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ...",
@@ -34,36 +42,12 @@ news_feed (
          "title" : "CVC Capital Partners Invests In Chess.com"
       },
       {
-         "description" : "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King's Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black's central play, and a quieter positional approach with c4 and a double fianchetto. The lesson shows the course's main idea well: giving players a simple, practical and venomous repertoire that avoids heavy theory while still creating uncomfortable problems for Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andy-woodward-the-bulletproof-1-b3-repertoire",
-         "pubDate" : "Thu, 25 Jun 2026 11:00:00",
-         "title" : "Andy Woodward: The Bulletproof 1.b3 Repertoire"
-      },
-      {
-         "description" : "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments in each category. With two rounds to go at the 11-round Swiss opens taking place at the Congress Center Pala Dean Martin, we bring a collection of photos from the multitudinous event. | Pictured: Jiang Tianyu from China | Photo: ChessBase / Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
-         "pubDate" : "Thu, 25 Jun 2026 08:00:00",
-         "title" : "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano"
-      },
-      {
          "description" : "The Interest Survey is open for chessplayers interested in representing USA for the 3rd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Uzbekistan Chess Federation, will take place September 10-18, in Samarkand, Uzbekistan.US Chess will be accepting registrations of interest for eligible U.S. participants until Friday, July 3rd, at 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be a 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulat",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/interest-survey-open-3rd-fide-chess-olympiad-people-disabilities",
          "pubDate" : "Thu, 25 Jun 2026 00:00:00",
          "title" : "Interest Survey Open for 3rd FIDE Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos: J&ouml;rg Hutschenreiter",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dresden-2026-uhlmann-exhibition-ai-simulation",
-         "pubDate" : "Wed, 24 Jun 2026 22:50:00",
-         "title" : "Dresden 2026: Uhlmann exhibition with AI simulation"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
@@ -656,30 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/what-must-world-champion-d-gukesh-do-to-avoid-finishing-last-at-norway-chess-2026/articleshow/131527989.cms",
          "pubDate" : "Fri, 05 Jun 2026 09:53:13",
          "title" : "What must Gukesh do to avoid finishing last at Norway Chess 2026?"
-      },
-      {
-         "description" : " The Russian world title challenger and the controversial American have personal issues but similar ratings, and drew 4-4 with a win apiece and six draws Ian Nepomniachtchi, who won two Candidates tournaments but then lost world title matches to Magnus Carlsen and Ding Liren, and Hans Niemann, whose controversial 2022 game with Carlsen is the subject of the Netflix documentary Untold: Chess Mates, tied an eight-game series in Belgrade this week with a win apiece and six draws. Nepo won the first game and Niemann the eighth, after the Russian missed an easy opportunity to win game seven. They played two games a day at a brisk time control of one hour per player plus a 30 seconds per move incr",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jun/05/chess-ian-nepomniachtchi-and-hans-niemann-tie-grudge-match-in-belgrade",
-         "pubDate" : "Fri, 05 Jun 2026 06:30:27",
-         "title" : "Chess: Ian Nepomniachtchi and Hans Niemann tie grudge match in Belgrade"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519958.cms\" />Even with his incredible chess talent and global wins, R Praggnanandhaa confesses he misses out on a regular social life and a broader education. He's felt the strain of his intense schedule, highlighting how crucial downtime and personal interests are for staying sharp and actually enjoying the high-pressure world of professional chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-i-feel-i-focus-too-much-on-chess-r-praggnanandhaa/articleshow/131519958.cms",
-         "pubDate" : "Fri, 05 Jun 2026 02:53:23",
-         "title" : "Praggnanandhaa On Chess Burnout: 'I focus too much on chess'; plans fewer events"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519197.cms\" />R Praggnanandhaa boosted his Norway Chess title hopes with a third straight classical victory, defeating world champion D Gukesh in their Round 9 rematch. After weathering Gukesh's early aggression in the Nimzo-Indian S&auml;misch, Pragg defended accurately. The win avenged his earlier loss to Gukesh and moved him within half a point of leader Wesley So heading into the final round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-takes-revenge-on-world-champion-d-gukesh-title-race-goes-to-final-day/articleshow/131519197.cms",
-         "pubDate" : "Fri, 05 Jun 2026 01:21:37",
-         "title" : "Norway Chess: Praggnanandhaa takes revenge on Gukesh; title race goes to final day"
       }
    ]
 }
