@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Argentine prodigy Faustino Oro, 12, travelled to his rival Jos&eacute; Mart&iacute;nez's home city, Lima, and beat him at his own game - speed chess. Faustino and Jos&eacute; played a six-game match: two rapid encounters and four blitz game. The final score was 4-2 Oro's favour. | Photo: ChessBase India / Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-oro-martinez",
+         "pubDate" : "Fri, 26 Jun 2026 23:00:00",
+         "title" : "Lima: Faustino Oro defeats Jos&eacute; Mart&iacute;nez 4-2 in rapid and blitz match"
+      },
+      {
          "description" : "Anastasia Corotcova challenged the virtual version of Mikhail Tal in Fritz 21, hoping to experience the legendary attacking style that made the former World Champion famous. After gaining a promising position, she and Arne Kaehler struggled to find a series of critical defensive moves, allowing Tal's relentless sacrificing attack to take over. The game was full of tactical fireworks and captured the feeling of facing the real \"Magician from Riga,\" making it an entertaining and memorable experience.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/anastasia-corotcova-vs-mikhail-tal-level-strong-club-player",
          "pubDate" : "Fri, 26 Jun 2026 19:00:00",
          "title" : "Anastasia Corotcova vs. Mikhail Tal (Level = Strong Club Player)"
+      },
+      {
+         "description" : "GM Alireza Firouzja is through to the Grand Final of the&#38;nbsp; 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-3",
+         "pubDate" : "Fri, 26 Jun 2026 15:31:10",
+         "title" : "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final"
+      },
+      {
+         "description" : "Young Norwegian FM Havard Haug won his first 3 0 Thursday title June 25, scoring 9.5/11 in the second event of the day. The other winners were more experienced champions. GM Dmitry Andreikin took his second 3 0 Thursday title of the month, defeati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-haug-martinez-3-0-thursday-06-25-2026",
+         "pubDate" : "Fri, 26 Jun 2026 13:54:01",
+         "title" : "15-Year-Old Haug Takes First 3 0 Thursday"
+      },
+      {
+         "description" : "GM Pranesh M began 9/9 and finished 10.5/11 in Freestyle Friday on June 26, his first victory of the year and fourth overall, as the first half of the Freestyle Friday Championship (FFC) came to its conclusion. FFC leader GM Pranav Venkatesh finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-june-26-2026",
+         "pubDate" : "Fri, 26 Jun 2026 13:15:58",
+         "title" : "Pranesh Nearly Perfect To End 1st Half Of Freestyle Friday Championship"
       },
       {
          "description" : "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organisation in recent years. Pein, an International Master, organiser and journalist, previously stood for FIDE Deputy President in 2018. | Photo: Freestyle Chess",
@@ -22,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/buettner-rosenstein-announce-campaigns-for-fide-presidency",
-         "pubDate" : "Fri, 26 Jun 2026 12:18:18",
+         "pubDate" : "Fri, 26 Jun 2026 12:18:00",
          "title" : "Buettner, Rosenstein Launch Campaigns For FIDE Presidency"
       },
       {
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
          "pubDate" : "Fri, 26 Jun 2026 04:30:02",
          "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
+      },
+      {
+         "description" : "Editor's note: This article will be updated by Monday at the latest with photos from the awards ceremony. The tournament concluded early Friday afternoon (CDT), so I opted to publish results before the end of the American workday.FIDE is providing excellent photographic coverage for this event, which I assume will continue through the awards ceremonies. Still, accompanying persons are welcome to email me additional photos at Click here to show email address. Three Americans secured podium finishes across the six sections of the World Youth Chess Championship 2026, held through June 15 through 26 in Montesilvano, Italy. The 11-round classical tournament consisted of six sections: Open and Wom",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-americans-win-medals-2026-world-youth-chess-championship",
+         "pubDate" : "Fri, 26 Jun 2026 00:00:00",
+         "title" : "Three Americans Win Medals at 2026 World Youth Chess Championship"
       },
       {
          "description" : "The International Chess Federation (FIDE) and the International School Chess Federation (ISCF) invite all FIDE member federations belonging to the American zone according to FIDE division and eligible players to participate in the American Stage of the World Schools Team Championship 2026. The competition will be held in San Jose, Costa Rica from August 11 (arrival) to 16 (departure), 2026. The venue is the DoubleTree by Hilton Hotel Cariari San Jose, located at San Antonio de Belen Ciudad Cariari, San Jose, Costa Rica. TOURNAMENT DETAILSEach event will be eight rounds, using a time control of Game/45 minutes with a 10-second increment. The full schedule for all rounds can be viewed: https:/",
@@ -330,14 +370,6 @@ news_feed (
          "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
       },
       {
-         "description" : "Registration is now open for the 2026 North American Youth Chess Championship, which will be held November 10-17 2026 at the Av. Marina Nacional 399, Veronica Anzures, Miguel Hidalgo, 11300 Mexico City, Mexico.The age categories for the 2026 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2026. This event is open to players from Canada, Mexico, and the United States.Each section is a nine-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on November 11. There will also be a Rapid tou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-north-american-youth-championship-announced",
-         "pubDate" : "Thu, 18 Jun 2026 00:00:00",
-         "title" : "2026 North American Youth Championship Announced"
-      },
-      {
          "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Chess.com Documentary Revisits Guinness World Record Chess Marathon"
       },
       {
-         "description" : "You&#39;re smarter than you think, and we can prove it. You&#39;ve probably played more brilliant moves than you remember&#38;mdash;and you can now review them all with our new advanced stats feature! Diamond members can now relive their greatest moments and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-advanced-stats",
-         "pubDate" : "Mon, 15 Jun 2026 08:00:00",
-         "title" : "Relive All Your Brilliant Moves With Our New Advanced Stats Feature"
-      },
-      {
          "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -442,28 +466,12 @@ news_feed (
          "title" : "Navara vs Blohberger Match 2026 - Games and Results"
       },
       {
-         "description" : "GM Hikaru Nakamura, the undisputed king of Bullet Brawl, pulled off another comprehensive victory on Saturday, gaining his 10th title in as many appearances in 2026. Nakamura finished with 182 points, 42 points clear of GM Oleksandr Bortnyk, and a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-13-2026",
-         "pubDate" : "Sat, 13 Jun 2026 18:38:00",
-         "title" : "Nakamura Wins 10th Bullet Brawl Of 2026, Maintains Perfect Record"
-      },
-      {
          "description" : "Do you know that feeling lying in your bed, really satisfied with yourself because you've done some hard things today? For me, it is one of the best feelings. And a great indicator of how good my day has been. That applied to chess, and now also elsewhere in life. Not During, but After Most []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/feeling-after-training/",
          "pubDate" : "Sat, 13 Jun 2026 13:00:00",
          "title" : "The Feeling After Training"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Hikaru Nakamura, Dmitry Andreikin, and Aravindh Chithambaram emerged with the best tiebreaks to win the 3 0 Thursday tournaments on June 11. It was a day of tiebreakers, as both the first and third events finished with five-way ties atop ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-andreikin-aravindh-3-0-thursday-06-11-2026",
-         "pubDate" : "Fri, 12 Jun 2026 14:18:27",
-         "title" : "Nakamura, Andreikin, Aravindh Top 3 0 Thursdays On Tiebreaks"
       },
       {
          "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 (&pound;133,000) Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Con",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-becomes-first-indian-to-raid-magnus-carlsens-backyard-win-historic-title/articleshow/131542938.cms",
          "pubDate" : "Sat, 06 Jun 2026 01:01:54",
          "title" : "Norway Chess: Praggnanandhaa becomes first Indian to raid Carlsen's backyard, win historic title"
-      },
-      {
-         "description" : " The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/26th-european-womens-championship-2026",
-         "pubDate" : "Fri, 5 Jun 2026 20:17:00",
-         "title" : "26th European Women's Championship 2026 - Games and Results"
       }
    ]
 }
