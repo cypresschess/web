@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2026-06-26","28","<a href=https://ratings.uschess.org/event/202606260293 target='_blank'>FBCC Harry Potter and the Philosopher’s Stone Open</a>",
+"CYPRESS","2026-06-26","46","<a href=https://ratings.uschess.org/event/202606260273 target='_blank'>Knights of Cypress</a>",
+"SPRING","2026-06-26","25","<a href=https://ratings.uschess.org/event/202606260203 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-06-21","17","<a href=https://ratings.uschess.org/event/202606210213 target='_blank'>Bellaire Sunday Swiss 2026.06.21</a>",
 "HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
 "HOUSTON","2026-06-20","8","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2026-04-05","9","<a href=https://ratings.uschess.org/event/202604050133 target='_blank'>Bellaire Sunday Swiss 2026.04.05</a>",
 "HOUSTON","2026-04-04","11","<a href=https://ratings.uschess.org/event/202604040193 target='_blank'>chesspanda04042026</a>",
 "SUGAR LAND","2026-04-03","14","<a href=https://ratings.uschess.org/event/202604030303 target='_blank'>World Aquatic Animal Day Open</a>",
-"SPRING","2026-04-03","26","<a href=https://ratings.uschess.org/event/202604030273 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2026-03-31","17","<a href=https://ratings.uschess.org/event/202603310333 target='_blank'>March Tuesday Night Swiss 2026</a>",
-"HOUSTON","2026-03-29","11","<a href=https://ratings.uschess.org/event/202603290363 target='_blank'>Bellaire Sunday Swiss 2026.03.29</a>",
 ]);
