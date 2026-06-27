@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defence and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Polugaevsky and Rashid Nezhmetdinov becomes a spectacular attacking lesson, where Black keeps the white king trapped in the centre and launches a dangerous pawn and piece storm. The episode ends with a beautiful queen sacrifice, a wild king hunt, and a forced mate that makes the line both instructive and highly entertaining.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-ukrainian-variation",
+         "pubDate" : "Sat, 27 Jun 2026 12:00:00",
+         "title" : "Svitlana's Smart Moves - The Ukrainian Variation"
+      },
+      {
          "description" : "Bilel Bellahcene and Shahenda Wafa won the African Chess Championship titles in Jwaneng, Botswana, both prevailing on tiebreaks after close finishes. Bellahcene defended his open title after sharing first place with Bassem Amin on 7&frac12;/9, while Wafa claimed her fourth continental crown after tying with her sister Shrook in the women's section. Banele Mhango and Sasha Mongeli completed the podiums with bronze-medal performances. | Photos: African Chess Confederation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
