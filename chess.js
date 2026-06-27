@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bilel Bellahcene and Shahenda Wafa won the African Chess Championship titles in Jwaneng, Botswana, both prevailing on tiebreaks after close finishes. Bellahcene defended his open title after sharing first place with Bassem Amin on 7&frac12;/9, while Wafa claimed her fourth continental crown after tying with her sister Shrook in the women's section. Banele Mhango and Sasha Mongeli completed the podiums with bronze-medal performances. | Photos: African Chess Confederation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/african-championships-2026-report",
+         "pubDate" : "Sat, 27 Jun 2026 08:45:00",
+         "title" : "Bilel Bellahcene and Shahenda Wafa are the 2026 African chess champions"
+      },
+      {
          "description" : "Argentine prodigy Faustino Oro, 12, travelled to his rival Jos&eacute; Mart&iacute;nez's home city, Lima, and beat him at his own game - speed chess. Faustino and Jos&eacute; played a six-game match: two rapid encounters and four blitz game. The final score was 4-2 Oro's favour. | Photo: ChessBase India / Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/delayed-rating-jump/",
          "pubDate" : "Sat, 06 Jun 2026 13:00:00",
          "title" : "Why Your Last Rating Jump Wasn't What You Think"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131544352.cms\" />R Praggnanandhaa has made history, becoming the first Indian to clinch the prestigious Norway Chess title. He secured the championship with a stunning final-round victory over Vincent Keymer, overcoming a deficit to claim the crown. This remarkable win earns him 700,000 Norwegian Kroner, approximately Rs 70.5 lakh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-prize-money-did-r-praggnanandhaa-win-after-historic-norway-chess-triumph/articleshow/131544352.cms",
-         "pubDate" : "Sat, 06 Jun 2026 04:25:18",
-         "title" : "How much prize money did R Praggnanandhaa win after historic Norway Chess triumph?"
       }
    ]
 }
