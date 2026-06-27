@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Larry Christiansen is one of the finest players in the history of American chess. He was US Champion three times, represented the United States at nine Chess Olympiads, where he won a number of medals. In the Bundesliga, he played for SG Porz for many years and was once the league's top player with 12 points from 13 games. Today he turns 70. | Photo: Saint Louis Chess Club / Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/larry-christiansen-70th-birthday",
+         "pubDate" : "Sat, 27 Jun 2026 15:00:00",
+         "title" : "Larry Christiansen: 70 years, a lifetime in chess"
+      },
+      {
+         "description" : "Some students misunderstand what I mean by saying: \"Play with good focus.\" In their minds, this means quickly getting into a state of flow, consistently. But that's not possible. And worse, this wrong expectation is what makes good focus so much harder. Forcing Yourself To Fall Asleep I'm sure you know the feeling of lying []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/good-focus/",
+         "pubDate" : "Sat, 27 Jun 2026 13:00:00",
+         "title" : "You Can't Force Focus"
+      },
+      {
          "description" : "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defence and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Polugaevsky and Rashid Nezhmetdinov becomes a spectacular attacking lesson, where Black keeps the white king trapped in the centre and launches a dangerous pawn and piece storm. The episode ends with a beautiful queen sacrifice, a wild king hunt, and a forced mate that makes the line both instructive and highly entertaining.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-ukrainian-variation",
          "pubDate" : "Sat, 27 Jun 2026 12:00:00",
          "title" : "Svitlana's Smart Moves - The Ukrainian Variation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132033066.cms\" />The Global Chess League (GCL) Season 4 Player Draft will be held in Mumbai on June 29, with the tournament set to take place in Bengaluru from September 3-13. World No. 1 Magnus Carlsen returns after missing last season, while FIDE Women's World Cup champion Divya Deshmukh will make her debut. The player pool features 36 Grandmasters, including Viswanathan Anand and Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-season-4-draft-magnus-carlsen-returns-divya-deshmukh-set-for-debut-all-you-need-to-know/articleshow/132033066.cms",
+         "pubDate" : "Sat, 27 Jun 2026 11:10:37",
+         "title" : "GCL Season 4 Draft: Carlsen returns, Divya set for debut - all you need to know"
       },
       {
          "description" : "Bilel Bellahcene and Shahenda Wafa won the African Chess Championship titles in Jwaneng, Botswana, both prevailing on tiebreaks after close finishes. Bellahcene defended his open title after sharing first place with Bassem Amin on 7&frac12;/9, while Wafa claimed her fourth continental crown after tying with her sister Shrook in the women's section. Banele Mhango and Sasha Mongeli completed the podiums with bronze-medal performances. | Photos: African Chess Confederation",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Wadim Rosenstein to run for FIDE President"
       },
       {
-         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp.",
+         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp. Photos by Jernej Borovinšek.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-exclusive-interview-winning-ahead-of-magnus-carlsen-is-something-ive-always-wanted/articleshow/131556251.cms",
          "pubDate" : "Sun, 07 Jun 2026 01:00:00",
          "title" : "R Praggnanandhaa Exclusive Interview: 'Winning ahead of Magnus Carlsen is something I've always wanted'"
-      },
-      {
-         "description" : "Recently I had a lesson with a student where we discussed opposite side castling. The main takeaway was this: As soon as there are opposite side castled kings, a flip needs to switch and it is all about attacking. The same day, he played a game and got in this position: After 9&hellip;0-0-0 he could []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/delayed-rating-jump/",
-         "pubDate" : "Sat, 06 Jun 2026 13:00:00",
-         "title" : "Why Your Last Rating Jump Wasn't What You Think"
       }
    ]
 }
