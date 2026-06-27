@@ -10,6 +10,14 @@ news_feed (
          "title" : "Larry Christiansen: 70 years, a lifetime in chess"
       },
       {
+         "description" : "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-wins-2026-bullet-chess-championship",
+         "pubDate" : "Sat, 27 Jun 2026 14:11:00",
+         "title" : "Nihal Dethrones Firouzja With 15-Game Winning Streak"
+      },
+      {
          "description" : "Some students misunderstand what I mean by saying: \"Play with good focus.\" In their minds, this means quickly getting into a state of flow, consistently. But that's not possible. And worse, this wrong expectation is what makes good focus so much harder. Forcing Yourself To Fall Asleep I'm sure you know the feeling of lying []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
          "pubDate" : "Mon, 15 Jun 2026 13:12:02",
          "title" : "Madaminov Takes UzChess Cup In Tiebreaks"
-      },
-      {
-         "description" : "In 2024, CM Odin Blikra Vea and Askild Bryn played 383 five-minute blitz games over more than 61 hours to set a new Guinness World Record for the longest chess marathon. In a new Chess.com documentary, the Norwegian duo revisits the highs, halluci...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/guinness-world-record-marathon-documentary-released",
-         "pubDate" : "Mon, 15 Jun 2026 08:27:00",
-         "title" : "Chess.com Documentary Revisits Guinness World Record Chess Marathon"
       },
       {
          "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
