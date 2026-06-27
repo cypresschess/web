@@ -18,11 +18,11 @@ news_feed (
          "title" : "Anastasia Corotcova vs. Mikhail Tal (Level = Strong Club Player)"
       },
       {
-         "description" : "GM Alireza Firouzja is through to the Grand Final of the&#38;nbsp; 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remai...",
+         "description" : "GM Alireza Firouzja is through to the Grand Final of the 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remain. GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-3",
-         "pubDate" : "Fri, 26 Jun 2026 15:31:10",
+         "pubDate" : "Fri, 26 Jun 2026 15:31:00",
          "title" : "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final"
       },
       {
@@ -632,30 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-prize-money-did-r-praggnanandhaa-win-after-historic-norway-chess-triumph/articleshow/131544352.cms",
          "pubDate" : "Sat, 06 Jun 2026 04:25:18",
          "title" : "How much prize money did R Praggnanandhaa win after historic Norway Chess triumph?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543562.cms\" />R Praggnanandhaa made history, becoming the first Indian to clinch the prestigious Norway Chess title. His mother's timely encouragement proved prophetic as he secured a remarkable comeback victory. A change in his playing strategy, focusing on faster, controlled moves, was key to his triumph.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mom-knows-something-praggnanandhaa-reveals-mothers-prophetic-advice-after-norway-chess-triumph/articleshow/131543562.cms",
-         "pubDate" : "Sat, 06 Jun 2026 03:07:09",
-         "title" : "'Mom knows something': Praggnanandhaa reveals mother's prophetic advice after Norway Chess triumph"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543593.cms\" />Kazakh Grandmaster Bibisara Assaubayeva secured the women's title at Norway Chess on her debut, needing only a draw in her final classical game. Despite early nerves, the 22-year-old dethroned Ukraine's Anna Muzychuk. Indian debutant Divya Deshmukh also contended for the top prize, but time management proved crucial in her decisive clash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-nightmare-avoided-as-bibisara-assaubayeva-clinches-title-on-debut/articleshow/131543593.cms",
-         "pubDate" : "Sat, 06 Jun 2026 03:01:59",
-         "title" : "Norway Chess: 'Nightmare' avoided as Bibisara Assaubayeva clinches title on debut"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131542938.cms\" />Rameshbabu Praggnanandhaa has achieved a historic victory at Norway Chess, becoming the first Indian to win the prestigious tournament. He secured the title by defeating Vincent Keymer in a classical game, with a draw between Wesley So and Alireza Firouzja sealing his win. This triumph marks a significant moment for Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-r-praggnanandhaa-becomes-first-indian-to-raid-magnus-carlsens-backyard-win-historic-title/articleshow/131542938.cms",
-         "pubDate" : "Sat, 06 Jun 2026 01:01:54",
-         "title" : "Norway Chess: Praggnanandhaa becomes first Indian to raid Carlsen's backyard, win historic title"
       }
    ]
 }
