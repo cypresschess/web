@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Youth Chess Championships 2026 concluded in Montesilvano, Italy, with six new champions crowned across the under-14, under-16 and under-18 categories. The event brought together 758 players from 84 countries and produced several close finishes, including titles decided on tiebreaks and by final-round results. Azerbaijan, whose players won two individual gold medals, received the Best Federation Trophy ahead of Canada and Poland. | Photos: Mark Livshitz and Niklesh Jain",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-youth-chess-championship-2026-r11",
+         "pubDate" : "Sun, 28 Jun 2026 09:00:00",
+         "title" : "World Youth Chess Championships conclude in grand style"
+      },
+      {
+         "description" : "Do you know the powerful training tool in ChessBase&acute;26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
+         "pubDate" : "Sun, 28 Jun 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132044384.cms\" />Born months after the Fukushima nuclear disaster forced his parents to leave Japan, Ethan Vaz's journey to becoming India's 96th Grandmaster at just 14 has been defined by sacrifice and remarkable family support. From replacing cartoons with chess to navigating financial uncertainty, Ethan's rise mirrors both extraordinary talent and a family's all-in pursuit of a dream.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/good-focus/",
          "pubDate" : "Sat, 27 Jun 2026 13:00:00",
          "title" : "You Can't Force Focus"
-      },
-      {
-         "description" : "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defence and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Polugaevsky and Rashid Nezhmetdinov becomes a spectacular attacking lesson, where Black keeps the white king trapped in the centre and launches a dangerous pawn and piece storm. The episode ends with a beautiful queen sacrifice, a wild king hunt, and a forced mate that makes the line both instructive and highly entertaining.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-ukrainian-variation",
-         "pubDate" : "Sat, 27 Jun 2026 12:00:00",
-         "title" : "Svitlana's Smart Moves - The Ukrainian Variation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132033066.cms\" />The Global Chess League (GCL) Season 4 Player Draft will be held in Mumbai on June 29, with the tournament set to take place in Bengaluru from September 3-13. World No. 1 Magnus Carlsen returns after missing last season, while FIDE Women's World Cup champion Divya Deshmukh will make her debut. The player pool features 36 Grandmasters, including Viswanathan Anand and Ian Nepomniachtchi.",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "Pranesh Nearly Perfect To End 1st Half Of Freestyle Friday Championship"
       },
       {
-         "description" : "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organisation in recent years. Pein, an International Master, organiser and journalist, previously stood for FIDE Deputy President in 2018. | Photo: Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-henric-buettner-to-run-for-fide-president",
-         "pubDate" : "Fri, 26 Jun 2026 12:30:00",
-         "title" : "Jan Henric Buettner to run for FIDE President, with Malcolm Pein on ticket"
-      },
-      {
          "description" : "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -122,44 +122,12 @@ news_feed (
          "title" : "Buettner, Rosenstein Launch Campaigns For FIDE Presidency"
       },
       {
-         "description" : "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built a profile as a sponsor, organiser and promoter of the game. | Photo: Wadim Rosenstein's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
-         "pubDate" : "Fri, 26 Jun 2026 11:50:00",
-         "title" : "Wadim Rosenstein to run for FIDE President"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country. The tournament combines top-level competition with educational activities, featuring the Open Tournament, Kasparov Day, the International Trainers Conference and the KCF Chess Camp. Photos by Jernej Borovinšek.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
-         "pubDate" : "Fri, 26 Jun 2026 11:46:32",
-         "title" : "KCF Friendship Festival opens"
-      },
-      {
-         "description" : "The United States has named its open and women's teams for the 2026 Chess Olympiad in Samarkand. Fabiano Caruana, Wesley So and Levon Aronian return in the open section, joined by debutants Hans Niemann and Awonder Liang. The women's squad includes Carissa Yip, Alice Lee and Irina Krush, alongside Rose Atwell, who will make her Olympiad debut, and Tatev Abrahamyan. | Photos: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-olympiad-teams-announced",
-         "pubDate" : "Fri, 26 Jun 2026 10:30:00",
-         "title" : "US Olympiad teams: Niemann and Liang to make debuts in open squad"
-      },
-      {
          "description" : " The world No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jun/26/chess-carlsens-four-defeats-in-a-row-just-a-blip-or-the-start-of-a-career-downturn",
          "pubDate" : "Fri, 26 Jun 2026 07:00:14",
          "title" : "Chess: Carlsen's four defeats in a row - just a blip or the start of a career downturn?"
-      },
-      {
-         "description" : "FIDE has opened its new Shenzhen Office in Qianhai, following an inauguration ceremony attended by FIDE President Arkady Dvorkovich and Chinese sports official He Fengxiang. The two sides discussed further cooperation in event organisation, youth training, cultural exchange and chess development, with Shenzhen set to serve as a hub linking FIDE's work with the Guangdong-Hong Kong-Macao Greater Bay Area and broader chess activity across China. | Photo: Liang Ziming",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shenzhen-welcomes-fide-cooperation",
-         "pubDate" : "Fri, 26 Jun 2026 06:45:00",
-         "title" : "Shenzhen welcomes FIDE: Strengthening global chess cooperation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132007146.cms\" />FIDE's proposed \"First Rating Experiment\" could allow players to earn official rapid and blitz ratings through online games, bypassing traditional tournament requirements. While the initiative aims to make rated chess more accessible, it has divided India's Grandmasters. Critics fear it could undermine rating credibility and fair play, while supporters view it as a bold step toward expanding chess participation worldwide.",
@@ -640,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2026-underway-in-italy/",
          "pubDate" : "Sun, 07 Jun 2026 10:51:57",
          "title" : "European Senior Chess Championship 2026 underway in Italy"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131562029.cms\" />Indian Grandmaster R Praggnanandhaa achieved a historic victory at Norway Chess 2026, becoming the first Indian to win the prestigious title. He secured the championship with a stunning comeback in the final round, defeating Vincent Keymer and benefiting from a draw between his rivals. World No. 1 Magnus Carlsen lauded Praggnanandhaa's \"clutch\" performance under pressure.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-left-in-awe-of-praggnanandhaas-norway-chess-heroics-thats-pretty-insane/articleshow/131562029.cms",
-         "pubDate" : "Sun, 07 Jun 2026 04:54:52",
-         "title" : "Magnus Carlsen left in awe of Praggnanandhaa's Norway Chess heroics: 'That's pretty insane'"
       }
    ]
 }
