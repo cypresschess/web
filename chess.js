@@ -600,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-risks-part-of-gukeshs-identity-coach-gajewski-defends-world-chess-champions-aggressive-style/articleshow/131576902.cms",
          "pubDate" : "Mon, 08 Jun 2026 02:55:09",
          "title" : "'Taking risks part of Gukesh's identity': Coach Gajewski"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2026 commenced last week in Acqui Terme, Italy, and takes place at the Acqui Terme conference center from 1-11 June, 2026. Five rounds were already played at the Championship which is played in two age categories: 50+ and 65+, open and women's sections separately, and gathers nearly 250 players coming from 34 European federations, including some of the sport's most legendary names. After five played rounds, three players tie for the top in the Open []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2026-underway-in-italy/",
-         "pubDate" : "Sun, 07 Jun 2026 10:51:57",
-         "title" : "European Senior Chess Championship 2026 underway in Italy"
       }
    ]
 }
