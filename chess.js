@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132044384.cms\" />Born months after the Fukushima nuclear disaster forced his parents to leave Japan, Ethan Vaz's journey to becoming India's 96th Grandmaster at just 14 has been defined by sacrifice and remarkable family support. From replacing cartoons with chess to navigating financial uncertainty, Ethan's rise mirrors both extraordinary talent and a family's all-in pursuit of a dream.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
+         "pubDate" : "Sun, 28 Jun 2026 01:16:45",
+         "title" : "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story"
+      },
+      {
+         "description" : "GM Hikaru Nakamura bounced back from last week&#39;s rare defeat in emphatic fashion on Saturday, storming to victory in the latest edition of Bullet Brawl with 178 points. Nakamura finished 15 points clear of GM Oleksandr Bortnyk and with this win ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-27-2026",
+         "pubDate" : "Sat, 27 Jun 2026 17:11:00",
+         "title" : "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory"
+      },
+      {
          "description" : "Larry Christiansen is one of the finest players in the history of American chess. He was US Champion three times, represented the United States at nine Chess Olympiads, where he won a number of medals. In the Bundesliga, he played for SG Porz for many years and was once the league's top player with 12 points from 13 games. Today he turns 70. | Photo: Saint Louis Chess Club / Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "3rd UzChess Cup 2026 - Games and Results"
       },
       {
-         "description" : "GM Mukhiddin Madaminov&#38;nbsp;won the 2026 UzChess Cup Masters and $20,000 on June 15 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
-         "pubDate" : "Mon, 15 Jun 2026 13:12:02",
-         "title" : "Madaminov Takes UzChess Cup In Tiebreaks"
-      },
-      {
          "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -640,22 +648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-left-in-awe-of-praggnanandhaas-norway-chess-heroics-thats-pretty-insane/articleshow/131562029.cms",
          "pubDate" : "Sun, 07 Jun 2026 04:54:52",
          "title" : "Magnus Carlsen left in awe of Praggnanandhaa's Norway Chess heroics: 'That's pretty insane'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131561311.cms\" />R Praggnanandhaa has achieved a historic victory at Norway Chess, a feat even Vishy Anand couldn't accomplish. The young Indian Grandmaster secured the title by defeating Vincent Keymer in the final round, overcoming fatigue from prior tournaments. His remarkable comeback, including four consecutive classical wins, has placed him among chess elite, proving his exceptional talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viking-of-norway-r-praggnanandhaa-wins-norway-chess-crown-that-eluded-even-vishwanathan-anand/articleshow/131561311.cms",
-         "pubDate" : "Sun, 07 Jun 2026 02:54:42",
-         "title" : "Praggnanandhaa Claims Norway Chess: Four classical wins seal title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131556251.cms\" />The 20-year-old from Chennai began the second half of the event from the bottom of the open-category standings, only to produce a remarkable comeback that included two classical victories over Carlsen, a win over the reigning world champion Dommaraju Gukesh and a final-round classical win over Germany No. 1 Vincent Keymer.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-exclusive-interview-winning-ahead-of-magnus-carlsen-is-something-ive-always-wanted/articleshow/131556251.cms",
-         "pubDate" : "Sun, 07 Jun 2026 01:00:00",
-         "title" : "R Praggnanandhaa Exclusive Interview: 'Winning ahead of Magnus Carlsen is something I've always wanted'"
       }
    ]
 }
