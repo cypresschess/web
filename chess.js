@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz will be held in Charlotte, North Carolina, from 3 to 5 July 2026, combining open tournaments with elite showcase events across a three-day festival. Featuring a guaranteed $50,000 prize fund and offering FIDE Circuit and US Chess Grand Prix points, the competition is open to players of all ratings, with participation limited to 300 entrants. Fabiano Caruana, Hikaru Nakamura and Javokhir Sindarov headline a programme that also includes a Creator Invitational and blitz finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-preview",
+         "pubDate" : "Sun, 28 Jun 2026 15:00:00",
+         "title" : "Naroditsky Memorial starts Friday, with Caruana, Nakamura and Sindarov leading the field"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132049956.cms\" />Kolkata's Sarbartho Mani produced a strong comeback to win silver in the Under-10 Open category at the FIDE World Cadet Cup in Georgia. The 10-year-old finished with 8.5 points, just half a point behind champion Rizat Ulan of Kazakhstan. After slipping to eighth place following his only defeat, Mani won his final two games to secure a podium finish and qualify for the World Cadet Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-sarbartho-mani-fights-back-to-win-silver-at-fide-world-cadet-cup-qualifies-for-world-cship/articleshow/132049956.cms",
+         "pubDate" : "Sun, 28 Jun 2026 11:19:02",
+         "title" : "Mani wins silver at FIDE World Cadet Cup, qualifies for World C'ship"
+      },
+      {
          "description" : "The FIDE World Youth Chess Championships 2026 concluded in Montesilvano, Italy, with six new champions crowned across the under-14, under-16 and under-18 categories. The event brought together 758 players from 84 countries and produced several close finishes, including titles decided on tiebreaks and by final-round results. Azerbaijan, whose players won two individual gold medals, received the Best Federation Trophy ahead of Canada and Poland. | Photos: Mark Livshitz and Niklesh Jain",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
