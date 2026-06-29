@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was undoubtedly one of the highlights of the Kasparov Chess Foundation Friendship Festival in Radenci. Combining world-class chess education with exciting competition, the day featured the 2nd European KCF Trainers Conference, the 2nd Albin Planinc Memorial Blitz Tournament, and the Children's U10 Tournament, all attended by the 13th World Chess Champion. Photos by Jernej Borovinšek",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-day-in-radenci",
+         "pubDate" : "Mon, 29 Jun 2026 17:04:35",
+         "title" : "Kasparov Day in Radenci"
+      },
+      {
          "description" : "The President of the Kazakhstan Chess Federation and the founder and the majority shareholder of Freedom Holding Corp., Timur Turlov, has nominated himself for the post of the Deputy President of the International Chess Federation (FIDE). The next elections to the FIDE leadership team will be held on September 26-27, 2026, in Samarkand (Uzbekistan), as part of the General Assembly of the International Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-can-take-inspiration-from-praggnanandhaa-viswanathan-anand-advises-world-chess-champion/articleshow/131603205.cms",
          "pubDate" : "Tue, 09 Jun 2026 06:23:22",
          "title" : "'Gukesh can take inspiration from Pragg': Anand advises world champion"
-      },
-      {
-         "description" : "On behalf of ECU President Zurab Azmaiparashvili, we hereby invite all ECU member federations toattend the Annual ECU General Assembly 2026, to be held at the headquarters of the RomanianOlympic Committee, Bucharest, Romania, on Saturday, 18 July 2026. All the information about the ECU General Assembly 2026:",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-agenda-2/",
-         "pubDate" : "Mon, 08 Jun 2026 13:20:08",
-         "title" : "ECU General Assembly Agenda"
       }
    ]
 }
