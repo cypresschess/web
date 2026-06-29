@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The President of the Kazakhstan Chess Federation and the founder and the majority shareholder of Freedom Holding Corp., Timur Turlov, has nominated himself for the post of the Deputy President of the International Chess Federation (FIDE). The next elections to the FIDE leadership team will be held on September 26-27, 2026, in Samarkand (Uzbekistan), as part of the General Assembly of the International Chess Federation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/founder-freedom-holding-corp-timur-turlov-has-announced-his-candidacy-for-the-post-of-the-fide-vice-president",
+         "pubDate" : "Mon, 29 Jun 2026 12:38:57",
+         "title" : "Founder Freedom Holding Corp. Timur Turlov, has Announced his Candidacy for the Post of the FIDE Vice-President"
+      },
+      {
+         "description" : "The ECF Selection Committee has completed the selection of the England teams that will contest the Chess Olympiad to be staged in Samarkand, Uzbekistan, this September. Open: Nikita Vitiugov, Michael...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-team-selection-olympiad/",
+         "pubDate" : "Mon, 29 Jun 2026 07:43:09",
+         "title" : "England Team Selection - Olympiad"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132062344.cms\" />Harshavardhan GB became India's 97th Grandmaster, ending a six-year wait since earning his IM title in 2020. Nicknamed \"legend\" by his chess peers for his creative brilliance, the 22-year-old overcame repeated near-misses, financial struggles and travel hardships. Backed by his family and coaches, Harshavardhan's emotional breakthrough has now set him on the path towards becoming a super Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,22 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-agenda-2/",
          "pubDate" : "Mon, 08 Jun 2026 13:20:08",
          "title" : "ECU General Assembly Agenda"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131581690.cms\" />Tamil Nadu Chief Minister C. Joseph Vijay honoured chess prodigy R. Praggnanandhaa with Rs 50 lakh and a memento after his historic Norway Chess triumph. The 20-year-old became the first Indian to win the title, defeating Magnus Carlsen twice and D. Gukesh. After starting poorly, he staged a remarkable comeback, winning four straight games to secure the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-rs-50-lakh-reward-tamil-nadu-cm-vijay-plays-chess-with-norway-chess-champion-r-praggnanandhaa/articleshow/131581690.cms",
-         "pubDate" : "Mon, 08 Jun 2026 07:52:12",
-         "title" : "Watch: Rs 50 lakh reward! CM Vijay plays chess with Praggnanandhaa"
-      },
-      {
-         "description" : "It isn't easy to weave Sotheby's, Queen Isabella of Spain, Fischer-Spassky 1972, Michael Caine and a vigilante killer into the same article. But that is exactly what John Henderson does, in this piece that appears in the June issue of CHESS magazine. He tells us how the vast collection of chess memorabilia of GM Lothar Schmid, considered to be the largest and most important of its kind in private hands, went under the hammer recently at Sotheby's in London. You will not believe the prices they received.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/under-the-hammer",
-         "pubDate" : "Mon, 08 Jun 2026 07:32:34",
-         "title" : "Under the Hammer"
       }
    ]
 }
