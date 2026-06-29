@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second volume of the FritzTrainer Master Class series revisits the games and career of Mikhail Tal (pictured in 1959), the eighth world chess champion, combining biographical context with training material. The FritzTrainer examines Tal's openings, strategy, endgame play and tactical imagination through video lessons by Dorian Rogozenco, Mihail Marin, Oliver Reeh and Karsten M&uuml;ller. Two examples, against Antonio Medina and Boris Spassky, show how Tal's calculation and attacking instinct shaped his best-known games. | Photo: Anefo / Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mikhail-tal-master-class-2026",
+         "pubDate" : "Mon, 29 Jun 2026 02:30:00",
+         "title" : "Tal in the Master Class series: a magician's depth and imagination"
+      },
+      {
          "description" : "The inaugural Naroditsky Memorial Rapid & Blitz will be held in Charlotte, North Carolina, from 3 to 5 July 2026, combining open tournaments with elite showcase events across a three-day festival. Featuring a guaranteed $50,000 prize fund and offering FIDE Circuit and US Chess Grand Prix points, the competition is open to players of all ratings, with participation limited to 300 entrants. Fabiano Caruana, Hikaru Nakamura and Javokhir Sindarov headline a programme that also includes a Creator Invitational and blitz finals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
          "pubDate" : "Mon, 08 Jun 2026 07:25:55",
          "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131576902.cms\" />D Gukesh's coach, Grzegorz Gajewski, acknowledges the young champion's aggressive style, stating it's integral to his identity and led to his world title. Despite recent criticisms, Gajewski believes Gukesh can return to the top, emphasizing that his current weaknesses were present even during his championship win, fueled by immense confidence.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-risks-part-of-gukeshs-identity-coach-gajewski-defends-world-chess-champions-aggressive-style/articleshow/131576902.cms",
-         "pubDate" : "Mon, 08 Jun 2026 02:55:09",
-         "title" : "'Taking risks part of Gukesh's identity': Coach Gajewski"
       }
    ]
 }
