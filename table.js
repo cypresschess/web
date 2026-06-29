@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-06-28","19","<a href=https://ratings.uschess.org/event/202606280283 target='_blank'>Bellaire Sunday Swiss 2026.06.28</a>",
+"HOUSTON","2026-06-28","6","<a href=https://ratings.uschess.org/event/202606280163 target='_blank'>June 28TH- SUNDAY SWISS for Beginne</a>",
 "HOUSTON","2026-06-27","2","<a href=https://ratings.uschess.org/event/202606270233 target='_blank'>chesspanda06272026saturdayMATCH</a>",
 "SUGAR LAND","2026-06-26","28","<a href=https://ratings.uschess.org/event/202606260293 target='_blank'>FBCC Harry Potter and the Philosopher’s Stone Open</a>",
 "CYPRESS","2026-06-26","46","<a href=https://ratings.uschess.org/event/202606260273 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-04-10","2","<a href=https://ratings.uschess.org/event/202604100243 target='_blank'>FBCC Farm Animals Day Open Extra Game</a>",
 "SUGAR LAND","2026-04-10","12","<a href=https://ratings.uschess.org/event/202604100223 target='_blank'>FBCC Farm Animals Day Open</a>",
 "HOUSTON","2026-04-05","33","<a href=https://ratings.uschess.org/event/202604050193 target='_blank'>$2,500 APRIL CHAMPIONSHIP</a>",
-"HOUSTON","2026-04-05","9","<a href=https://ratings.uschess.org/event/202604050133 target='_blank'>Bellaire Sunday Swiss 2026.04.05</a>",
-"HOUSTON","2026-04-04","11","<a href=https://ratings.uschess.org/event/202604040193 target='_blank'>chesspanda04042026</a>",
 ]);
