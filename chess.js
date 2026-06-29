@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup Under 8-12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India added two silvers and one bronze. The closing ceremony brought together players, coaches, parents and guests, and included a performance by Junior Eurovision 2024 winner Andria Putkaradze. | All photos: Mindia Malakhmadze",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cadets-cup-2026-results",
+         "pubDate" : "Mon, 29 Jun 2026 23:30:00",
+         "title" : "Winners crowned at FIDE World Cup Under 8-12"
+      },
+      {
          "description" : "In his new ChessBase course, IM Kostya Kavutskiy focuses on one of the most important and challenging skills in chess: calculation. Drawing on more than 15 years of coaching experience and his work with ChessDojo, he presents key concepts, patterns and practical techniques to help players calculate more clearly and objectively. The course also includes challenging assessments with instructive puzzles, encouraging students to test their skills, avoid tempting but flawed solutions and continue improving even after completing the video lessons.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
