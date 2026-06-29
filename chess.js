@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132062344.cms\" />Harshavardhan GB became India's 97th Grandmaster, ending a six-year wait since earning his IM title in 2020. Nicknamed \"legend\" by his chess peers for his creative brilliance, the 22-year-old overcame repeated near-misses, financial struggles and travel hardships. Backed by his family and coaches, Harshavardhan's emotional breakthrough has now set him on the path towards becoming a super Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-97th-chess-grandmaster-harshavardhan-gb-a-legend-among-friends-now-his-parents-pride/articleshow/132062344.cms",
+         "pubDate" : "Mon, 29 Jun 2026 03:51:46",
+         "title" : "The making of India's 97th Chess Grandmaster Harshavardhan GB: A 'legend' among friends, now his parents' pride"
+      },
+      {
          "description" : "The second volume of the FritzTrainer Master Class series revisits the games and career of Mikhail Tal (pictured in 1959), the eighth world chess champion, combining biographical context with training material. The FritzTrainer examines Tal's openings, strategy, endgame play and tactical imagination through video lessons by Dorian Rogozenco, Mihail Marin, Oliver Reeh and Karsten M&uuml;ller. Two examples, against Antonio Medina and Boris Spassky, show how Tal's calculation and attacking instinct shaped his best-known games. | Photo: Anefo / Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/under-the-hammer",
          "pubDate" : "Mon, 08 Jun 2026 07:32:34",
          "title" : "Under the Hammer"
-      },
-      {
-         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2026 under 8, 10, 12, 14, 16 and 18 years, organised from 6 July (arrivals) to 10 July (departures) at the Podpromie Playing Hall in Rzeszow, Poland. European Youth Rapid and Blitz Chess Championship 2026 features two championships: European Youth Rapid Chess Championship 2026 European Youth Blitz Chess Championship 2026 The European Youth Rapid and Blitz Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2026-invitation/",
-         "pubDate" : "Mon, 08 Jun 2026 07:25:55",
-         "title" : "European Youth Rapid and Blitz Chess Championship 2026 - Invitation"
       }
    ]
 }
