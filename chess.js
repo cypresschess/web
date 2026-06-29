@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new ChessBase course, IM Kostya Kavutskiy focuses on one of the most important and challenging skills in chess: calculation. Drawing on more than 15 years of coaching experience and his work with ChessDojo, he presents key concepts, patterns and practical techniques to help players calculate more clearly and objectively. The course also includes challenging assessments with instructive puzzles, encouraging students to test their skills, avoid tempting but flawed solutions and continue improving even after completing the video lessons.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kostya-kavutskiy-mastering-calculation-think-clearly-calculate-precisely-improve-consistently",
+         "pubDate" : "Mon, 29 Jun 2026 20:00:00",
+         "title" : "Kostya Kavutskiy: Mastering Calculation - Think Clearly, Calculate Precisely, Improve Consistently"
+      },
+      {
          "description" : "It was undoubtedly one of the highlights of the Kasparov Chess Foundation Friendship Festival in Radenci. Combining world-class chess education with exciting competition, the day featured the 2nd European KCF Trainers Conference, the 2nd Albin Planinc Memorial Blitz Tournament, and the Children's U10 Tournament, all attended by the 13th World Chess Champion. Photos by Jernej Borovinšek",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Kasparov Day in Radenci"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2026-player-draft-magnus-carlsen-anish-giri-divya-deshmukh-koneru-humpy-to-play-in-same-team-full-squads-here/articleshow/132073909.cms",
+         "pubDate" : "Mon, 29 Jun 2026 15:13:48",
+         "title" : "GCL 2026: Carlsen, Giri, Divya , Humpy to play in same team - full squads here"
+      },
+      {
          "description" : "The President of the Kazakhstan Chess Federation and the founder and the majority shareholder of Freedom Holding Corp., Timur Turlov, has nominated himself for the post of the Deputy President of the International Chess Federation (FIDE). The next elections to the FIDE leadership team will be held on September 26-27, 2026, in Samarkand (Uzbekistan), as part of the General Assembly of the International Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/founder-freedom-holding-corp-timur-turlov-has-announced-his-candidacy-for-the-post-of-the-fide-vice-president",
          "pubDate" : "Mon, 29 Jun 2026 12:38:57",
-         "title" : "Founder Freedom Holding Corp. Timur Turlov, has Announced his Candidacy for the Post of the FIDE Vice-President"
+         "title" : "Founder Freedom Holding Corp's Timur Turlov has announced his candidacy for the post of FIDE Vice-President"
       },
       {
          "description" : "The ECF Selection Committee has completed the selection of the England teams that will contest the Chess Olympiad to be staged in Samarkand, Uzbekistan, this September. Open: Nikita Vitiugov, Michael...",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "The making of India's 97th Chess Grandmaster Harshavardhan GB: A 'legend' among friends, now his parents' pride"
       },
       {
-         "description" : "The second volume of the FritzTrainer Master Class series revisits the games and career of Mikhail Tal (pictured in 1959), the eighth world chess champion, combining biographical context with training material. The FritzTrainer examines Tal's openings, strategy, endgame play and tactical imagination through video lessons by Dorian Rogozenco, Mihail Marin, Oliver Reeh and Karsten M&uuml;ller. Two examples, against Antonio Medina and Boris Spassky, show how Tal's calculation and attacking instinct shaped his best-known games. | Photo: Anefo / Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mikhail-tal-master-class-2026",
-         "pubDate" : "Mon, 29 Jun 2026 02:30:00",
-         "title" : "Tal in the Master Class series: a magician's depth and imagination"
+         "description" : "The 2026 FIDE World Cadet Cup was held June 15 through 28 in Batumi, Georgia. 662 players competed across the six sections (Under-12, Under-10, and Under-8 Open and Girls).The USA delegation consisted of 23 chessplayers and was led by Head of Delegation IM Armen Ambartsoumian. Eight of these 23 players finished in the top 10 of their respective section. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Tianyu Li<br> <br> <br> <br> While no Americans medaled, Kai Zhou Lan (Under-10 Open) tied for second, finishing fifth on tiebreaks, while Varun Karthik Turaga (Under-8 Open) tied for third, finishing fourth on tiebreaks. Under-12 OpenIn the",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/8-americans-boast-top-ten-finishes-2026-fide-world-cadet-cup",
+         "pubDate" : "Mon, 29 Jun 2026 00:00:00",
+         "title" : "8 Americans Boast Top Ten Finishes in 2026 FIDE World Cadet Cup"
       },
       {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz will be held in Charlotte, North Carolina, from 3 to 5 July 2026, combining open tournaments with elite showcase events across a three-day festival. Featuring a guaranteed $50,000 prize fund and offering FIDE Circuit and US Chess Grand Prix points, the competition is open to players of all ratings, with participation limited to 300 entrants. Fabiano Caruana, Hikaru Nakamura and Javokhir Sindarov headline a programme that also includes a Creator Invitational and blitz finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-preview",
-         "pubDate" : "Sun, 28 Jun 2026 15:00:00",
-         "title" : "Naroditsky Memorial starts Friday, with Caruana, Nakamura and Sindarov leading the field"
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Friday, July 3 in celebration of Independence Day, and will reopen for normal business operations on Monday, July 6.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Thursday, July 2, to ensure they will be approved before the office closure. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-friday-july-3",
+         "pubDate" : "Mon, 29 Jun 2026 00:00:00",
+         "title" : "US Chess Offices Closed Friday, July 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132049956.cms\" />Kolkata's Sarbartho Mani produced a strong comeback to win silver in the Under-10 Open category at the FIDE World Cadet Cup in Georgia. The 10-year-old finished with 8.5 points, just half a point behind champion Rizat Ulan of Kazakhstan. After slipping to eighth place following his only defeat, Mani won his final two games to secure a podium finish and qualify for the World Cadet Championship.",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-sarbartho-mani-fights-back-to-win-silver-at-fide-world-cadet-cup-qualifies-for-world-cship/articleshow/132049956.cms",
          "pubDate" : "Sun, 28 Jun 2026 11:19:02",
          "title" : "Mani wins silver at FIDE World Cadet Cup, qualifies for World C'ship"
-      },
-      {
-         "description" : "The FIDE World Youth Chess Championships 2026 concluded in Montesilvano, Italy, with six new champions crowned across the under-14, under-16 and under-18 categories. The event brought together 758 players from 84 countries and produced several close finishes, including titles decided on tiebreaks and by final-round results. Azerbaijan, whose players won two individual gold medals, received the Best Federation Trophy ahead of Canada and Poland. | Photos: Mark Livshitz and Niklesh Jain",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-youth-chess-championship-2026-r11",
-         "pubDate" : "Sun, 28 Jun 2026 09:00:00",
-         "title" : "World Youth Chess Championships conclude in grand style"
       },
       {
          "description" : "Do you know the powerful training tool in ChessBase&acute;26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory"
       },
       {
-         "description" : "Larry Christiansen is one of the finest players in the history of American chess. He was US Champion three times, represented the United States at nine Chess Olympiads, where he won a number of medals. In the Bundesliga, he played for SG Porz for many years and was once the league's top player with 12 points from 13 games. Today he turns 70. | Photo: Saint Louis Chess Club / Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/larry-christiansen-70th-birthday",
-         "pubDate" : "Sat, 27 Jun 2026 15:00:00",
-         "title" : "Larry Christiansen: 70 years, a lifetime in chess"
-      },
-      {
          "description" : "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -120,30 +120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-season-4-draft-magnus-carlsen-returns-divya-deshmukh-set-for-debut-all-you-need-to-know/articleshow/132033066.cms",
          "pubDate" : "Sat, 27 Jun 2026 11:10:37",
          "title" : "GCL Season 4 Draft: Carlsen returns, Divya set for debut - all you need to know"
-      },
-      {
-         "description" : "Bilel Bellahcene and Shahenda Wafa won the African Chess Championship titles in Jwaneng, Botswana, both prevailing on tiebreaks after close finishes. Bellahcene defended his open title after sharing first place with Bassem Amin on 7&frac12;/9, while Wafa claimed her fourth continental crown after tying with her sister Shrook in the women's section. Banele Mhango and Sasha Mongeli completed the podiums with bronze-medal performances. | Photos: African Chess Confederation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/african-championships-2026-report",
-         "pubDate" : "Sat, 27 Jun 2026 08:45:00",
-         "title" : "Bilel Bellahcene and Shahenda Wafa are the 2026 African chess champions"
-      },
-      {
-         "description" : "Argentine prodigy Faustino Oro, 12, travelled to his rival Jos&eacute; Mart&iacute;nez's home city, Lima, and beat him at his own game - speed chess. Faustino and Jos&eacute; played a six-game match: two rapid encounters and four blitz game. The final score was 4-2 Oro's favour. | Photo: ChessBase India / Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-oro-martinez",
-         "pubDate" : "Fri, 26 Jun 2026 23:00:00",
-         "title" : "Lima: Faustino Oro defeats Jos&eacute; Mart&iacute;nez 4-2 in rapid and blitz match"
-      },
-      {
-         "description" : "Anastasia Corotcova challenged the virtual version of Mikhail Tal in Fritz 21, hoping to experience the legendary attacking style that made the former World Champion famous. After gaining a promising position, she and Arne Kaehler struggled to find a series of critical defensive moves, allowing Tal's relentless sacrificing attack to take over. The game was full of tactical fireworks and captured the feeling of facing the real \"Magician from Riga,\" making it an entertaining and memorable experience.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anastasia-corotcova-vs-mikhail-tal-level-strong-club-player",
-         "pubDate" : "Fri, 26 Jun 2026 19:00:00",
-         "title" : "Anastasia Corotcova vs. Mikhail Tal (Level = Strong Club Player)"
       },
       {
          "description" : "GM Alireza Firouzja is through to the Grand Final of the 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remain. GM ...",
@@ -194,7 +170,7 @@ news_feed (
          "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
       },
       {
-         "description" : "Editor's note: This article will be updated by Monday at the latest with photos from the awards ceremony. The tournament concluded early Friday afternoon (CDT), so I opted to publish results before the end of the American workday.FIDE is providing excellent photographic coverage for this event, which I assume will continue through the awards ceremonies. Still, accompanying persons are welcome to email me additional photos at Click here to show email address. Three Americans secured podium finishes across the six sections of the World Youth Chess Championship 2026, held through June 15 through 26 in Montesilvano, Italy. The 11-round classical tournament consisted of six sections: Open and Wom",
+         "description" : "Editor's note: This article was updated on June 29 with photos from the awards ceremony, more photos from WGM Katerina Nemcova, and information about Beautiful Game prize winners. FIDE provided excellent photographic coverage for this event. Still, accompanying persons are welcome to email me additional photos at Click here to show email address. Three Americans secured podium finishes across the six sections of the World Youth Chess Championship 2026, held through June 15 through 26 in Montesilvano, Italy. The 11-round classical tournament consisted of six sections: Open and Women's section for each age group of Under-14, Under-16, and Under-18. <br> <br> <br> <br> <br> Image<br> <br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/three-americans-win-medals-2026-world-youth-chess-championship",
@@ -416,22 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
          "pubDate" : "Fri, 19 Jun 2026 05:55:00",
          "title" : "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row"
-      },
-      {
-         "description" : "OAXTEPEC, MEXICO - After several years of prime travel locations (Dominican Republic, Medell&iacute;n, Colombia, and Iguazu Falls, Brazil), FIDE Americas chose a smaller, relatively unknown locale for the 2026 edition of the American Continental Championship. Indeed, despite competing for 10 days in Oaxtepec, I'm still not sure how to pronounce the town's name.The main attraction was the Six Flags Hurricane Harbor amusement park conveniently situated across from the hotel - the Dorados Conventions &amp; Resort - and the town's small bus terminal. To compensate, the Dorados Resort offered six outdoor pools, a fading tennis court, and an underutilized track. Nevertheless, few chess players too",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/sam-shankland-repeats-2026-american-continental-champion",
-         "pubDate" : "Fri, 19 Jun 2026 00:00:00",
-         "title" : "Sam Shankland Repeats as 2026 American Continental Champion"
-      },
-      {
-         "description" : "In Las Vegas, everything is a capital-E Event. So, it's fitting that, every June, the National Open isn't just a tournament, but instead, just one part of the all-encompassing Las Vegas International Chess Festival. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> This year, the self-described \"chess vacation of the year,\" took place from June 10 through 14 at the Westgate Las Vegas Resort. For these five days, chessplayers could feast on a buffet of rapid and blitz side events, the prestigious Walter Browne Memorial Blitz Tournament, game analysis from GM Kayden Troff, and a simultaneous exhibition from GM Ben Finegold. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/las-vegas-chess-festival-three-tie-first-national-open-putnam-wins-edmondson-cup",
-         "pubDate" : "Fri, 19 Jun 2026 00:00:00",
-         "title" : "Las Vegas Chess Festival: Three Tie for First at National Open, Putnam Wins Edmondson Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
