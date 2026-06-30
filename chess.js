@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty has begun in Kazakhstan's largest city, with five established international grandmasters facing five rising local players in a ten-player single round-robin. The opening round produced two decisive results, as Igor Kovalenko defeated Alexander Donchenko with a strong attacking display, while Sam Shankland converted an endgame against Aldiyar Ansat. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r1",
+         "pubDate" : "Wed, 01 Jul 2026 01:00:00",
+         "title" : "KazChess Masters in Almaty: Shankland, Kovalenko start with wins"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia, the third leg of the Grand Chess Tour, will take place in Zagreb from 1 to 5 July. The 10-player field includes six members of the world top 20, among them Gukesh Dommaraju, Vincent Keymer, Alireza Firouzja, Anish Giri (pictured) and Nodirbek Abdusattorov. After events in Warsaw and Bucharest, the tournament will offer another chance to gain ground in the overall standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/super-croatia-2026-preview",
          "pubDate" : "Tue, 30 Jun 2026 20:00:00",
-         "title" : "Elite feld gathers in Zagreb for Super Rapid & Blitz Croatia"
+         "title" : "Elite field gathers in Zagreb for Super Rapid & Blitz Croatia"
       },
       {
          "description" : "Chris Ward looks at a sharp Dragon main line from the French League, featuring GM Surya Ganguly with Black. The focus is on the fashionable Bishop c4 system and Black's fresh-looking plan with ...a5, which helps activate the queenside pieces and create pressure before White can build a dangerous kingside attack. The game becomes a model Dragon victory, with Black taking over the b-file, pushing ...d4 at the right moment, and finishing with a powerful interference tactic that forces resignation. | Photo: John Upham",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arkady-dvorkovich-to-seek-third-term-as-fide-president",
          "pubDate" : "Tue, 30 Jun 2026 13:00:00",
          "title" : "Arkady Dvorkovich to seek third term as FIDE President"
+      },
+      {
+         "description" : "GM Jose Martinez won Titled Tuesday on June 30 without much trouble, going undefeated and scoring 10/11 for his second victory in the last six weeks. No one came within even half a point, but five players scored nine points, with GM Fabiano Caruan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-june-30-2026",
+         "pubDate" : "Tue, 30 Jun 2026 12:36:13",
+         "title" : "Martinez Magic Makes For Another Titled Tuesday Victory"
       },
       {
          "description" : "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ...",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-2",
          "pubDate" : "Thu, 18 Jun 2026 06:23:00",
          "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
-      },
-      {
-         "description" : "GM Richard Rapport&#39;s Kazchess and GM Ding Liren&#39;s Dragon Chilling are the only teams on a perfect 8/8 after day one of the&#38;nbsp;2026 World Rapid &#38;amp; Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-1",
-         "pubDate" : "Wed, 17 Jun 2026 10:33:00",
-         "title" : "Ding, Rapport's Teams Lead As World Rapid Championship Starts In Hong Kong"
       },
       {
          "description" : "",
