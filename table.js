@@ -1,4 +1,5 @@
 jtable([
+"KATY","2026-06-28","28","<a href=https://ratings.uschess.org/event/202606280873 target='_blank'>Katy Kids Chess</a>",
 "HOUSTON","2026-06-28","19","<a href=https://ratings.uschess.org/event/202606280283 target='_blank'>Bellaire Sunday Swiss 2026.06.28</a>",
 "HOUSTON","2026-06-28","6","<a href=https://ratings.uschess.org/event/202606280163 target='_blank'>June 28TH- SUNDAY SWISS for Beginne</a>",
 "HOUSTON","2026-06-27","2","<a href=https://ratings.uschess.org/event/202606270233 target='_blank'>chesspanda06272026saturdayMATCH</a>",
@@ -98,5 +99,4 @@ jtable([
 "SPRING","2026-04-10","13","<a href=https://ratings.uschess.org/event/202604100273 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-04-10","2","<a href=https://ratings.uschess.org/event/202604100243 target='_blank'>FBCC Farm Animals Day Open Extra Game</a>",
 "SUGAR LAND","2026-04-10","12","<a href=https://ratings.uschess.org/event/202604100223 target='_blank'>FBCC Farm Animals Day Open</a>",
-"HOUSTON","2026-04-05","33","<a href=https://ratings.uschess.org/event/202604050193 target='_blank'>$2,500 APRIL CHAMPIONSHIP</a>",
 ]);
