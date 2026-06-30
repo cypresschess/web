@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Super Rapid & Blitz Croatia, the third leg of the Grand Chess Tour, will take place in Zagreb from 1 to 5 July. The 10-player field includes six members of the world top 20, among them Gukesh Dommaraju, Vincent Keymer, Alireza Firouzja, Anish Giri (pictured) and Nodirbek Abdusattorov. After events in Warsaw and Bucharest, the tournament will offer another chance to gain ground in the overall standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-preview",
+         "pubDate" : "Tue, 30 Jun 2026 20:00:00",
+         "title" : "Elite feld gathers in Zagreb for Super Rapid & Blitz Croatia"
+      },
+      {
+         "description" : "Chris Ward looks at a sharp Dragon main line from the French League, featuring GM Surya Ganguly with Black. The focus is on the fashionable Bishop c4 system and Black's fresh-looking plan with ...a5, which helps activate the queenside pieces and create pressure before White can build a dangerous kingside attack. The game becomes a model Dragon victory, with Black taking over the b-file, pushing ...d4 at the right moment, and finishing with a powerful interference tactic that forces resignation. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ganguly-s-stunning-a5-attack-the-monthly-dragon",
+         "pubDate" : "Tue, 30 Jun 2026 18:00:00",
+         "title" : "Ganguly's stunning a5 Attack - The Monthly Dragon"
+      },
+      {
          "description" : "Georgia honoured Nona Gaprindashvili at a ceremony in Tbilisi marking her 85th birthday, with Prime Minister Irakli Kobakhidze, government officials and FIDE President Arkady Dvorkovich among the guests. Held at the Rustaveli National Theatre, the event combined tributes to Gaprindashvili's chess career with Georgian cultural elements. The former women's world champion also received Georgia's highest award for sporting achievement during the ceremony. | Photos: gov.ge",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
          "pubDate" : "Tue, 30 Jun 2026 03:31:00",
          "title" : "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival-pt-2",
+         "pubDate" : "Tue, 30 Jun 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival, pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-games-inspired-the-nations-gambit-chess-thriller",
          "pubDate" : "Mon, 22 Jun 2026 05:11:00",
          "title" : "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller"
-      },
-      {
-         "description" : "The Caveman Chess Festival featured three US Chess national championships: The U.S. Senior Open, the U.S. Junior Open, and the U.S. Blind Open Championship. The Junior and Senior tournaments are also qualifiers for the 2027 U.S. Junior and Senior Championships, respectively, with one spot in each prestigious event up for grabs. Winners and QualifiersThe winner of the U.S. Senior Open was GM Nick De Firmian, who qualified for the 2027 U.S. Senior Championship. He took clear first with a 5/6 score. The U.S. Junior Open had two players tie for first with 5/6 scores: Pennsylvania's IM Evan Park and New York's FM Aditeya Das. Park qualifies for the 2027 U.S. Junior Championship. <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/de-firmian-wins-us-senior-open-park-and-das-us-junior-open-co-champs",
-         "pubDate" : "Mon, 22 Jun 2026 00:00:00",
-         "title" : "De Firmian wins U.S. Senior Open; Park and Das U.S. Junior Open Co-Champs"
       },
       {
          "description" : "&#34;It&#39;s like a dream!&#34; said Dragon Chilling captain GM Ni Hua as the Chinese team added&#38;nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann&#39;s Endgame....",
