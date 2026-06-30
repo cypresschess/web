@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "First held in 1904, the British Chess Championships are among the world's longest-running and most prestigious national chess events. Each year they bring together leading players, rising talents and chess enthusiasts from across the United Kingdom and beyond. The English Chess Federation (ECF) welcomes the support of two Coventry businesses as the Championships return to the city this summer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/historic-british-chess-championships",
+         "pubDate" : "Tue, 30 Jun 2026 09:14:26",
+         "title" : "Historic British Chess Championships"
+      },
+      {
          "description" : "The FIDE World Cup Under 8-12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India added two silvers and one bronze. The closing ceremony brought together players, coaches, parents and guests, and included a performance by Junior Eurovision 2024 winner Andria Putkaradze. | All photos: Mindia Malakhmadze",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-expressions-of-interest-reopened/",
          "pubDate" : "Tue, 09 Jun 2026 10:35:02",
          "title" : "Glorney Cup: Expressions of Interest Reopened"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131603205.cms\" />Viswanathan Anand praised R Praggnanandhaa's Norway Chess triumph, calling his comeback and fighting style impressive. He urged world champion D Gukesh, who struggled in the event, to take inspiration from Praggnanandhaa's persistence and hard work. Anand also highlighted the healthy rivalry among India's top young stars and said India is now firmly among the world's leading chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-can-take-inspiration-from-praggnanandhaa-viswanathan-anand-advises-world-chess-champion/articleshow/131603205.cms",
-         "pubDate" : "Tue, 09 Jun 2026 06:23:22",
-         "title" : "'Gukesh can take inspiration from Pragg': Anand advises world champion"
       }
    ]
 }
