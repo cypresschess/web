@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Incumbent FIDE President Arkady Dvorkovich has announced he will seek a third term as President of the International Chess Federation (FIDE). Dvorkovich has said he will focus on providing more practical support for national federations, digital modernisation, youth development, stronger commercial partnerships and bringing FIDE closer to those it serves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arkady-dvorkovich-to-seek-third-term-as-fide-president",
+         "pubDate" : "Tue, 30 Jun 2026 13:00:00",
+         "title" : "Arkady Dvorkovich to seek third term as FIDE President"
+      },
+      {
          "description" : "First held in 1904, the British Chess Championships are among the world's longest-running and most prestigious national chess events. Each year they bring together leading players, rising talents and chess enthusiasts from across the United Kingdom and beyond. The English Chess Federation (ECF) welcomes the support of two Coventry businesses as the Championships return to the city this summer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/historic-british-chess-championships",
          "pubDate" : "Tue, 30 Jun 2026 09:14:26",
          "title" : "Historic British Chess Championships"
+      },
+      {
+         "description" : "As Erling Braut Haaland leads Norway&#39;s quest for World Cup glory, it&#39;s easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland&#39;s investment in Norway Chess sent shockwaves through ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
+         "pubDate" : "Tue, 30 Jun 2026 03:31:00",
+         "title" : "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess"
       },
       {
          "description" : "The FIDE World Cup Under 8-12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India added two silvers and one bronze. The closing ceremony brought together players, coaches, parents and guests, and included a performance by Junior Eurovision 2024 winner Andria Putkaradze. | All photos: Mindia Malakhmadze",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "Carlsen Wins 2026 ASEAN E-Sports Chess Cup"
       },
       {
-         "description" : "GMs Maxime Vachier-Lagrave, Le Quang Liem, Matthias Bluebaum, Volodar Murzin and Christopher Yoo are among the players who secured their spots in the inaugural Esports Nations Cup Finals, with at least 82 countries and territories set to be repres...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
-         "pubDate" : "Tue, 16 Jun 2026 06:55:00",
-         "title" : "Vachier-Lagrave, Le, Bluebaum, Yoo Among Stars To Play In Esports Nations Cup Finals"
-      },
-      {
          "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
          "pubDate" : "Wed, 10 Jun 2026 05:21:28",
          "title" : "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships"
-      },
-      {
-         "description" : "The 2026 Glorney Cup, involving junior teams from six nations including England, Scotland, Ireland and Wales, is being held at the University of Limerick, Ireland (near Shannon Airport) on 27-30...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-expressions-of-interest-reopened/",
-         "pubDate" : "Tue, 09 Jun 2026 10:35:02",
-         "title" : "Glorney Cup: Expressions of Interest Reopened"
       }
    ]
 }
