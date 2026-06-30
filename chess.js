@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Georgia honoured Nona Gaprindashvili at a ceremony in Tbilisi marking her 85th birthday, with Prime Minister Irakli Kobakhidze, government officials and FIDE President Arkady Dvorkovich among the guests. Held at the Rustaveli National Theatre, the event combined tributes to Gaprindashvili's chess career with Georgian cultural elements. The former women's world champion also received Georgia's highest award for sporting achievement during the ceremony. | Photos: gov.ge",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nona-graprindashvili-national-sports-award-georgia",
+         "pubDate" : "Tue, 30 Jun 2026 15:30:41",
+         "title" : "Georgia honours Nona Gaprindashvili with highest national sports award"
+      },
+      {
          "description" : "Incumbent FIDE President Arkady Dvorkovich has announced he will seek a third term as President of the International Chess Federation (FIDE). Dvorkovich has said he will focus on providing more practical support for national federations, digital modernisation, youth development, stronger commercial partnerships and bringing FIDE closer to those it serves.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Arkady Dvorkovich to seek third term as FIDE President"
       },
       {
-         "description" : "First held in 1904, the British Chess Championships are among the world's longest-running and most prestigious national chess events. Each year they bring together leading players, rising talents and chess enthusiasts from across the United Kingdom and beyond. The English Chess Federation (ECF) welcomes the support of two Coventry businesses as the Championships return to the city this summer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/historic-british-chess-championships",
-         "pubDate" : "Tue, 30 Jun 2026 09:14:26",
-         "title" : "Historic British Chess Championships"
+         "description" : "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship-2026",
+         "pubDate" : "Tue, 30 Jun 2026 08:00:00",
+         "title" : "Magic Meets Mayhem In The Chess.com Spell Chess Championship, Starting July 15"
+      },
+      {
+         "description" : "GM Magnus Carlsen has now been the world chess number-one on every FIDE rating list for the past 15 years, since July 2011. Although Carlsen has suffered scares&#38;mdash;for instance, any loss to GM Fabiano Caruana in the 2018 World Championship matc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
+         "pubDate" : "Tue, 30 Jun 2026 06:13:26",
+         "title" : "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1"
       },
       {
          "description" : "As Erling Braut Haaland leads Norway&#39;s quest for World Cup glory, it&#39;s easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland&#39;s investment in Norway Chess sent shockwaves through ...",
@@ -26,44 +42,12 @@ news_feed (
          "title" : "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess"
       },
       {
-         "description" : "The FIDE World Cup Under 8-12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India added two silvers and one bronze. The closing ceremony brought together players, coaches, parents and guests, and included a performance by Junior Eurovision 2024 winner Andria Putkaradze. | All photos: Mindia Malakhmadze",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cadets-cup-2026-results",
-         "pubDate" : "Mon, 29 Jun 2026 23:30:00",
-         "title" : "Winners crowned at FIDE World Cup Under 8-12"
-      },
-      {
-         "description" : "In his new ChessBase course, IM Kostya Kavutskiy focuses on one of the most important and challenging skills in chess: calculation. Drawing on more than 15 years of coaching experience and his work with ChessDojo, he presents key concepts, patterns and practical techniques to help players calculate more clearly and objectively. The course also includes challenging assessments with instructive puzzles, encouraging students to test their skills, avoid tempting but flawed solutions and continue improving even after completing the video lessons.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kostya-kavutskiy-mastering-calculation-think-clearly-calculate-precisely-improve-consistently",
-         "pubDate" : "Mon, 29 Jun 2026 20:00:00",
-         "title" : "Kostya Kavutskiy: Mastering Calculation - Think Clearly, Calculate Precisely, Improve Consistently"
-      },
-      {
-         "description" : "It was undoubtedly one of the highlights of the Kasparov Chess Foundation Friendship Festival in Radenci. Combining world-class chess education with exciting competition, the day featured the 2nd European KCF Trainers Conference, the 2nd Albin Planinc Memorial Blitz Tournament, and the Children's U10 Tournament, all attended by the 13th World Chess Champion. Photos by Jernej Borovinšek",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-day-in-radenci",
-         "pubDate" : "Mon, 29 Jun 2026 17:04:35",
-         "title" : "Kasparov Day in Radenci"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2026-player-draft-magnus-carlsen-anish-giri-divya-deshmukh-koneru-humpy-to-play-in-same-team-full-squads-here/articleshow/132073909.cms",
          "pubDate" : "Mon, 29 Jun 2026 15:13:48",
          "title" : "GCL 2026: Carlsen, Giri, Divya , Humpy to play in same team - full squads here"
-      },
-      {
-         "description" : "The President of the Kazakhstan Chess Federation and the founder and the majority shareholder of Freedom Holding Corp., Timur Turlov, has nominated himself for the post of the Deputy President of the International Chess Federation (FIDE). The next elections to the FIDE leadership team will be held on September 26-27, 2026, in Samarkand (Uzbekistan), as part of the General Assembly of the International Chess Federation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/founder-freedom-holding-corp-timur-turlov-has-announced-his-candidacy-for-the-post-of-the-fide-vice-president",
-         "pubDate" : "Mon, 29 Jun 2026 12:38:57",
-         "title" : "Founder Freedom Holding Corp's Timur Turlov has announced his candidacy for the post of FIDE Vice-President"
       },
       {
          "description" : "The ECF Selection Committee has completed the selection of the England teams that will contest the Chess Olympiad to be staged in Samarkand, Uzbekistan, this September. Open: Nikita Vitiugov, Michael...",
@@ -480,22 +464,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
          "pubDate" : "Tue, 16 Jun 2026 15:17:00",
          "title" : "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9"
-      },
-      {
-         "description" : "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn&#39;t ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-wins-titled-tuesday-june-16-2026",
-         "pubDate" : "Tue, 16 Jun 2026 11:34:39",
-         "title" : "Nearly Perfect Sarana Tops Returning Carlsen"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the inaugural 2026 ASEAN E-Sports Chess Cup on June 13 and the $8,500 first prize. After finishing at the top of Group A, he went on to defeat GM Andrey Esipenko 2-1 in the Championship Final. The event took place at the Fou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2026-asean-e-sports-chess-cup",
-         "pubDate" : "Tue, 16 Jun 2026 10:00:00",
-         "title" : "Carlsen Wins 2026 ASEAN E-Sports Chess Cup"
       },
       {
          "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
