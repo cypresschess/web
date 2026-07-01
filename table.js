@@ -9,6 +9,7 @@ jtable([
 "HOUSTON","2026-06-21","17","<a href=https://ratings.uschess.org/event/202606210213 target='_blank'>Bellaire Sunday Swiss 2026.06.21</a>",
 "HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
 "HOUSTON","2026-06-20","8","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
+"HOUSTON","2026-06-19","10","<a href=https://ratings.uschess.org/event/202606190663 target='_blank'>Chess Kids Rocks- June 26</a>",
 "SUGAR LAND","2026-06-19","22","<a href=https://ratings.uschess.org/event/202606190563 target='_blank'>FBCC Juneteenth Open</a>",
 "CYPRESS","2026-06-19","42","<a href=https://ratings.uschess.org/event/202606190543 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
@@ -98,5 +99,4 @@ jtable([
 "PASADENA","2026-04-10","16","<a href=https://ratings.uschess.org/event/202604100363 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-04-10","13","<a href=https://ratings.uschess.org/event/202604100273 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-04-10","2","<a href=https://ratings.uschess.org/event/202604100243 target='_blank'>FBCC Farm Animals Day Open Extra Game</a>",
-"SUGAR LAND","2026-04-10","12","<a href=https://ratings.uschess.org/event/202604100223 target='_blank'>FBCC Farm Animals Day Open</a>",
 ]);
