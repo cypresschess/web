@@ -18,6 +18,22 @@ news_feed (
          "title" : "KazChess Masters in Almaty: Shankland, Kovalenko start with wins"
       },
       {
+         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival-pt-2",
+         "pubDate" : "Wed, 01 Jul 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival, Pt. 2"
+      },
+      {
+         "description" : "Our rulebook is a huge document filled with a ton of rules that the typical wood-pusher rarely has contact with. Some of those regulations simply act as aspirin for the inevitable procedural headache. When aspirin offers no relief, it is time to kick it up a notch. It is time to contact US Chess. Rule 21L1 (the procedure for appealing to US Chess) is the relief you are looking for. 21L1 has been around in some form since Tim Redman's 1987 third edition of the rulebook.What kind of appeals get zipped on over to our mother organization? Typically, alleged rules misapplications plus possible ethical miscues. Most appeals involve perceived unfair treatment. The appeal generally gets routed to th",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-rule-21l1s-journey-not-over",
+         "pubDate" : "Wed, 01 Jul 2026 00:00:00",
+         "title" : "Just the Rules: Rule 21L1's Journey Is Not Over"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia, the third leg of the Grand Chess Tour, will take place in Zagreb from 1 to 5 July. The 10-player field includes six members of the world top 20, among them Gukesh Dommaraju, Vincent Keymer, Alireza Firouzja, Anish Giri (pictured) and Nodirbek Abdusattorov. After events in Warsaw and Bucharest, the tournament will offer another chance to gain ground in the overall standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
-         "pubDate" : "Tue, 30 Jun 2026 06:13:26",
+         "pubDate" : "Tue, 30 Jun 2026 06:13:00",
          "title" : "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1"
       },
       {
@@ -322,28 +338,12 @@ news_feed (
          "title" : "Jianchao Zhou Three-peats as 2025 Grand Prix Winner"
       },
       {
-         "description" : "This week's puzzles begin a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival",
-         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival"
-      },
-      {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/moussard-wins-titled-tuesday-june-23-2026",
          "pubDate" : "Tue, 23 Jun 2026 14:32:54",
          "title" : "'Mouss-See TT' Moussard Wins Titled Tuesday"
-      },
-      {
-         "description" : "This week's puzzles begin a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival",
-         "pubDate" : "Tue, 23 Jun 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival"
       },
       {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
@@ -552,22 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
          "pubDate" : "Wed, 10 Jun 2026 17:00:00",
          "title" : "A Game That Outlasted the Day (7)"
-      },
-      {
-         "description" : "The 24th edition of the European Union Youth Chess Championship U8-U14 will take place from 17-26 August in Rožnov pod Radhoštěm, Czech Republic.&#160;The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The event will be played in four categories: U8, U10, U12, and U14, with separate prizes for the best ranked girls in the tournaments. The events will be played in 9 rounds, swiss system, with the time control of 90 min []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2026/",
-         "pubDate" : "Wed, 10 Jun 2026 09:57:34",
-         "title" : "European Union Youth U8-U14 Chess Championship 2026"
-      },
-      {
-         "description" : "Regarding the expiration of the deadline for the Russian Chess Federation to comply with the Court of Arbitration for Sport (CAS) decision and its current position, I would like to state the following: From today 10th of June 2026, the FIDE has no alternative but to implement the CAS ruling and proceed with the suspension of the Russian Chess Federation, in accordance with FIDE Ethics Commission decisions and the FIDE Charter. I trust that all individuals in responsible management positions []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/statement-by-the-ecu-president/",
-         "pubDate" : "Wed, 10 Jun 2026 07:51:07",
-         "title" : "Statement by the ECU President"
       }
    ]
 }
