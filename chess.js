@@ -10,6 +10,14 @@ news_feed (
          "title" : "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)"
       },
       {
+         "description" : "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid &#38;amp; Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
+         "pubDate" : "Wed, 01 Jul 2026 15:39:34",
+         "title" : "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-july-2026",
          "pubDate" : "Wed, 01 Jul 2026 14:36:36",
          "title" : "FIDE ratings - July 2026"
+      },
+      {
+         "description" : "Norway Chess 2026 and the UzChess Cup 2026 were two tournaments that shifted classical ratings for many of the world&#39;s top-15 on the July list. The most notable change was, unusually so, an 18-point drop in GM Magnus Carlsen&#39;s rating, just as he c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/july-2026-fide-ratings",
+         "pubDate" : "Wed, 01 Jul 2026 12:43:27",
+         "title" : "Carlsen Drops 18 Points, Remains Only 2800+ Player In World"
       },
       {
          "description" : "The 39th edition of the \"Ciudad de Le&oacute;n\" Masters will take place from 3 to 5 July, with Le Quang Liem, Kirill Alekseenko, Faustino Oro and Jaime Santos in the four-player knockout. Le returns as defending champion, while Oro arrives with grandmaster-elect status and Santos once again represents the host city. The XI Open Internacional \"Magistral de Le&oacute;n\" will be played alongside the main event. | Image: Official website",
@@ -354,7 +370,7 @@ news_feed (
          "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
       },
       {
-         "description" : "2026 Olympiad Teams AnnouncedThe 46th FIDE Chess Olympiad will take place from September 15 through 27 in Samarkand, Uzbekistan. Team USA looks to improve on its silver and bronze medal finishes of the Open and Women's sections, respectively, of the 45th FIDE Chess Olympiad held in 2024 in Budapest, Hungary. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Maria Emelianova/FIDE<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Maria Emelianova/FIDE<br> <br> <br> <br> The following list is the official players, captain, and trainer for the 2026 Olympiad Team USA Open a",
+         "description" : "Like many U.S. teams competing internationally we are not supported by our government but through private donations, fundraising, and sponsorships, and we need your help to get these players to Samarkand. Every dollar raised helps pay for airfare, hotels, coaching, and meals, and in the 250th anniversary year of our nation sends a signal about the importance of chess in the U.S.. We also want to show our love of the game and our team during this seminal 250th birthday of our nation. Be part of Olympiad history and donate here. 2026 Olympiad Teams AnnouncedThe 46th FIDE Chess Olympiad will take place from September 15 through 27 in Samarkand, Uzbekistan. Team USA looks to improve on its silve",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-olympiad-teams-announced",
@@ -458,28 +474,12 @@ news_feed (
          "title" : "Terry Topples Carlsen; Bluebaum, Mahdavi Capture 3 0 Thursday Titles"
       },
       {
-         "description" : "GM Ian Nepomniachtchi is your Freestyle Friday winner for June 19, winning six games in a row at one point to claim the tournament outright on nine points, his second of the year and third overall. Tiebreaks separated second-place IM Reza Mahdavi ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-june-19-2026",
-         "pubDate" : "Fri, 19 Jun 2026 13:56:45",
-         "title" : "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win"
-      },
-      {
          "description" : " The â‚¬500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling may be an ­unfamiliar chess name, but the squad from China won the gold medals at the World Teams Rapid in Hong Kong. Teams of six include a woman, a ­junior and an amateur who has never achieved a 2000 ­rating. The strong <sup> ­</sup>performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world ­champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while for blitz i",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jun/19/world-rapid-and-blitz-championships-in-hong-kong-highlights-chess-boom-in-asia",
          "pubDate" : "Fri, 19 Jun 2026 07:00:25",
          "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
-      },
-      {
-         "description" : "GM Ding Liren won in the final round as Dragon Chilling clinched the 2026 World Rapid Team Championship on tiebreaks ahead of silver medalists Team MGD1 (led by GM Arjun Erigaisi) and bronze medalists Hexamind Chess Team (GM Alireza Firouzja). Whe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
-         "pubDate" : "Fri, 19 Jun 2026 05:55:00",
-         "title" : "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
