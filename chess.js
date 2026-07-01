@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
+         "pubDate" : "Wed, 01 Jul 2026 14:45:00",
+         "title" : "Super Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen may have lost a significant number of rating points at Norway Chess, but he remains the undisputed world number one. World Champion Gukesh continues to lead the junior rankings, though only by a narrow margin. In the girls' rankings, Anastasiia Hnatyshyn is the new number one.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-july-2026",
+         "pubDate" : "Wed, 01 Jul 2026 14:36:36",
+         "title" : "FIDE ratings - July 2026"
+      },
+      {
          "description" : "The 39th edition of the \"Ciudad de Le&oacute;n\" Masters will take place from 3 to 5 July, with Le Quang Liem, Kirill Alekseenko, Faustino Oro and Jaime Santos in the four-player knockout. Le returns as defending champion, while Oro arrives with grandmaster-elect status and Santos once again represents the host city. The XI Open Internacional \"Magistral de Le&oacute;n\" will be played alongside the main event. | Image: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magistral-leon-2026-preview",
          "pubDate" : "Wed, 01 Jul 2026 09:00:00",
          "title" : "Le&oacute;n Masters: Le, Oro, Santos and Alekseenko face off in rapid knockout"
+      },
+      {
+         "description" : "Arkady Dvorkovich has confirmed he will seek a third term as President of the International Chess Federation (FIDE), eight years after first campaigning on a promise that FIDE presidents should be limited to two terms. The incumbent announced his...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-confirms-bid-for-third-term-as-fide-president-adds-turlov-to-ticket",
+         "pubDate" : "Wed, 01 Jul 2026 07:57:35",
+         "title" : "Dvorkovich Confirms 3rd-Term Bid For FIDE President, Adds Turlov To Ticket"
       },
       {
          "description" : "The KazChess Masters Almaty has begun in Kazakhstan's largest city, with five established international grandmasters facing five rising local players in a ten-player single round-robin. The opening round produced two decisive results, as Igor Kovalenko defeated Alexander Donchenko with a strong attacking display, while Sam Shankland converted an endgame against Aldiyar Ansat. | Photo: Official website",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-cadets-cup-2026-reports-by-tim-wall/#new_tab",
          "pubDate" : "Thu, 18 Jun 2026 08:44:37",
          "title" : "World Cadets Cup 2026"
-      },
-      {
-         "description" : "GM Ding Liren lost to GM Richard Rapport in 177 moves, but Dragon Chilling won the match, took the sole lead, and didn&#39;t relinquish it as the team remained unbeaten on day two of the 2026 World Rapid &#38;amp; Blitz Team Championships. Team MGD1 moved...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-2",
-         "pubDate" : "Thu, 18 Jun 2026 06:23:00",
-         "title" : "Dragon Still Chilling As Carlsen, WR Chess Beaten Twice"
       },
       {
          "description" : "",
