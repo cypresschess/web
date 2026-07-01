@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 39th edition of the \"Ciudad de Le&oacute;n\" Masters will take place from 3 to 5 July, with Le Quang Liem, Kirill Alekseenko, Faustino Oro and Jaime Santos in the four-player knockout. Le returns as defending champion, while Oro arrives with grandmaster-elect status and Santos once again represents the host city. The XI Open Internacional \"Magistral de Le&oacute;n\" will be played alongside the main event. | Image: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-leon-2026-preview",
+         "pubDate" : "Wed, 01 Jul 2026 09:00:00",
+         "title" : "Le&oacute;n Masters: Le, Oro, Santos and Alekseenko face off in rapid knockout"
+      },
+      {
          "description" : "The KazChess Masters Almaty has begun in Kazakhstan's largest city, with five established international grandmasters facing five rising local players in a ten-player single round-robin. The opening round produced two decisive results, as Igor Kovalenko defeated Alexander Donchenko with a strong attacking display, while Sam Shankland converted an endgame against Aldiyar Ansat. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,22 +568,6 @@ news_feed (
          "link" : "https://www.europechess.org/statement-by-the-ecu-president/",
          "pubDate" : "Wed, 10 Jun 2026 07:51:07",
          "title" : "Statement by the ECU President"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131627199.cms\" />Shubhi Gupta's rise to World No. 4 in girls' chess is a story of many things. After overcoming setbacks, including a vision problem that ruined her first independent foreign tournament and later competitive disappointments, she won national and world titles, excelled academically, and achieved major international norms. Now India's top-ranked girl player, she is pursuing the most difficult titles.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/battling-medical-stores-eye-drop-blunder-depression-how-ups-chess-whizz-shubhi-gupta-became-india-girls-no-1/articleshow/131627199.cms",
-         "pubDate" : "Wed, 10 Jun 2026 06:54:26",
-         "title" : "Battling medical store's eye-drop blunder, depression: How Shubhi became India Girls' No. 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131625798.cms\" />Indian chess prodigy Pranesh Munirethinam faces uncertainty over his participation in the FIDE World Team Rapid and Blitz Championships in Hong Kong due to a pending visa. Coach RB Ramesh has sought urgent help to expedite the process. Pranesh is part of the ChessGurukul team led by R Praggnanandhaa and Vaishali Rameshbabu.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/need-urgent-help-r-praggnanandhaas-teammate-pranesh-hit-by-visa-issue-ahead-of-world-team-rapid-and-blitz-chess-championships/articleshow/131625798.cms",
-         "pubDate" : "Wed, 10 Jun 2026 05:21:28",
-         "title" : "'Need urgent help': Praggnanandhaa's teammate hit by visa issue ahead of World C'ships"
       }
    ]
 }
