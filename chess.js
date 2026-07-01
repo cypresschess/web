@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bodhana Sivanandan took on the virtual version of Jos&eacute; Ra&uacute;l Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she consistently found strong plans, converted her advantage into a favourable endgame, and secured a convincing victory. The post-game analysis highlighted her excellent endgame understanding and tactical awareness, showing why she is regarded as one of the brightest young talents in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-vs-jose-capablanca-level-master-candidate",
+         "pubDate" : "Wed, 01 Jul 2026 20:00:00",
+         "title" : "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-champions-2026-crowned-in-italy/",
          "pubDate" : "Thu, 11 Jun 2026 11:05:17",
          "title" : "European Senior Chess Champions 2026 crowned in Italy"
-      },
-      {
-         "description" : "In the comments on Part 5 of the series, readers pointed out that this was not a \"master game\" (as stated on the Guinness page), since Arsovi&#263 had an initial rating of 2200 (which by today's standards may correspond to a rating of 1400), while Nikolić's rating was only 15 points higher. Now in Part 7 the author examines the remaining \"competitors\" to the Gorkov-Golubenko game for the title of the longest game by number of moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
-         "pubDate" : "Wed, 10 Jun 2026 17:00:00",
-         "title" : "A Game That Outlasted the Day (7)"
       }
    ]
 }
