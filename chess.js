@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After nine hard-fought rounds, the Kasparov Chess Foundation Friendship Festival 2026 Open came to a thrilling conclusion. Chinese grandmaster Xu Xiangyu captured the title with an outstanding performance, prevailing in one of the strongest international open tournaments ever organized on Slovenian soil. Final report, with photos provided by Jernej Borovinšek.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-concludes",
+         "pubDate" : "Thu, 02 Jul 2026 19:26:45",
+         "title" : "KCF Friendship Festival Concludes"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
