@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja increased his lead at the Super Rapid & Blitz Croatia in Zagreb after scoring two wins and a draw for the second day in a row. He now has 10/12 points, 3 more than Vincent Keymer, Maxime Vachier-Lagrave, Gukesh Dommaraju and Bogdan-Daniel Deac. Firouzja won both his games with black on Thursday, while Gukesh and Deac both scored 4/6 to move into shared second place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-2",
+         "pubDate" : "Fri, 03 Jul 2026 00:40:00",
+         "title" : "Zagreb: In-form Firouzja now three points clear of the field"
+      },
+      {
          "description" : "After nine hard-fought rounds, the Kasparov Chess Foundation Friendship Festival 2026 Open came to a thrilling conclusion. Chinese grandmaster Xu Xiangyu captured the title with an outstanding performance, prevailing in one of the strongest international open tournaments ever organized on Slovenian soil. Final report, with photos provided by Jernej Borovinšek.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "KCF Friendship Festival Concludes"
       },
       {
-         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
-         "pubDate" : "Thu, 02 Jul 2026 14:45:00",
-         "title" : "Super Rapid & Blitz Croatia - Live!"
+         "description" : "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid &#38;amp; Blitz Croatia. GM Bogdan-Daniel Deac began in style with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
+         "pubDate" : "Thu, 02 Jul 2026 14:11:26",
+         "title" : "Firouzja Extends Lead As Gukesh Hits Back"
       },
       {
          "description" : "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th...",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
          "pubDate" : "Sat, 20 Jun 2026 19:13:00",
          "title" : "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start"
-      },
-      {
-         "description" : "GM Magnus Carlsen bounced back from four losses in a row to win his first eight blitz games and wasn&#39;t even the highest scorer as WR Chess cruised to victory in Pool A and then eased through to the Quarterfinals of the FIDE World Blitz Team Champi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-4",
-         "pubDate" : "Sat, 20 Jun 2026 13:28:00",
-         "title" : "Carlsen, WR Chess Back In Business As World Team Blitz Championship Begins"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
