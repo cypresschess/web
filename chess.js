@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja took the sole lead after the first day of the Super Rapid & Blitz Croatia in Zagreb, scoring two wins and a draw in the opening three rapid rounds. His victories over Ivan Saric and Bogdan-Daniel Deac were not straightforward, while a third-round draw against Anish Giri left him on 5/6. Four players are one point behind: Giri, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-1",
+         "pubDate" : "Thu, 02 Jul 2026 07:30:00",
+         "title" : "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader"
+      },
+      {
          "description" : "Bodhana Sivanandan took on the virtual version of Jos&eacute; Ra&uacute;l Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she consistently found strong plans, converted her advantage into a favourable endgame, and secured a convincing victory. The post-game analysis highlighted her excellent endgame understanding and tactical awareness, showing why she is regarded as one of the brightest young talents in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
          "pubDate" : "Wed, 01 Jul 2026 15:39:34",
          "title" : "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins"
-      },
-      {
-         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
-         "pubDate" : "Wed, 01 Jul 2026 14:45:00",
-         "title" : "Super Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "Magnus Carlsen may have lost a significant number of rating points at Norway Chess, but he remains the undisputed world number one. World Champion Gukesh continues to lead the junior rankings, though only by a narrow margin. In the girls' rankings, Anastasiia Hnatyshyn is the new number one.",
@@ -80,38 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-rule-21l1s-journey-not-over",
          "pubDate" : "Wed, 01 Jul 2026 00:00:00",
          "title" : "Just the Rules: Rule 21L1's Journey Is Not Over"
-      },
-      {
-         "description" : "The Super Rapid & Blitz Croatia, the third leg of the Grand Chess Tour, will take place in Zagreb from 1 to 5 July. The 10-player field includes six members of the world top 20, among them Gukesh Dommaraju, Vincent Keymer, Alireza Firouzja, Anish Giri (pictured) and Nodirbek Abdusattorov. After events in Warsaw and Bucharest, the tournament will offer another chance to gain ground in the overall standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-preview",
-         "pubDate" : "Tue, 30 Jun 2026 20:00:00",
-         "title" : "Elite field gathers in Zagreb for Super Rapid & Blitz Croatia"
-      },
-      {
-         "description" : "Chris Ward looks at a sharp Dragon main line from the French League, featuring GM Surya Ganguly with Black. The focus is on the fashionable Bishop c4 system and Black's fresh-looking plan with ...a5, which helps activate the queenside pieces and create pressure before White can build a dangerous kingside attack. The game becomes a model Dragon victory, with Black taking over the b-file, pushing ...d4 at the right moment, and finishing with a powerful interference tactic that forces resignation. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ganguly-s-stunning-a5-attack-the-monthly-dragon",
-         "pubDate" : "Tue, 30 Jun 2026 18:00:00",
-         "title" : "Ganguly's stunning a5 Attack - The Monthly Dragon"
-      },
-      {
-         "description" : "Georgia honoured Nona Gaprindashvili at a ceremony in Tbilisi marking her 85th birthday, with Prime Minister Irakli Kobakhidze, government officials and FIDE President Arkady Dvorkovich among the guests. Held at the Rustaveli National Theatre, the event combined tributes to Gaprindashvili's chess career with Georgian cultural elements. The former women's world champion also received Georgia's highest award for sporting achievement during the ceremony. | Photos: gov.ge",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nona-graprindashvili-national-sports-award-georgia",
-         "pubDate" : "Tue, 30 Jun 2026 15:30:41",
-         "title" : "Georgia honours Nona Gaprindashvili with highest national sports award"
-      },
-      {
-         "description" : "Incumbent FIDE President Arkady Dvorkovich has announced he will seek a third term as President of the International Chess Federation (FIDE). Dvorkovich has said he will focus on providing more practical support for national federations, digital modernisation, youth development, stronger commercial partnerships and bringing FIDE closer to those it serves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arkady-dvorkovich-to-seek-third-term-as-fide-president",
-         "pubDate" : "Tue, 30 Jun 2026 13:00:00",
-         "title" : "Arkady Dvorkovich to seek third term as FIDE President"
       },
       {
          "description" : "GM Jose Martinez won Titled Tuesday on June 30 without much trouble, going undefeated and scoring 10/11 for his second victory in the last six weeks. No one came within even half a point, but five players scored nine points, with GM Fabiano Caruan...",
