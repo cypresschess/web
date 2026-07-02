@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
+         "pubDate" : "Thu, 02 Jul 2026 14:45:00",
+         "title" : "Super Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
+         "pubDate" : "Thu, 02 Jul 2026 08:00:00",
+         "title" : "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges"
+      },
+      {
          "description" : "Alireza Firouzja took the sole lead after the first day of the Super Rapid & Blitz Croatia in Zagreb, scoring two wins and a draw in the opening three rapid rounds. His victories over Ivan Saric and Bogdan-Daniel Deac were not straightforward, while a third-round draw against Anish Giri left him on 5/6. Four players are one point behind: Giri, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,20 @@ news_feed (
          "title" : "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Since 1924, countries from all over the world have competed in the Chess Olympiad. The U.S. dominated in the 1930's, but fell behind the Soviet Union during their long period of dominance from the '50's to the '90s's, during which the Soviets won almost every tournament. The U.S. hasn't won an Olympiad since 2016. This year, we are sending a powerhouse group of players to Uzbekistan to compete in the 46th Olympiad and regain our title as the best team in the world.Our Open team includes GMs Fabiano Caruana and Wesley So from that 2016 team; the Women's squad finished on the podium at the last Olympiad for the first time in",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/help-team-usa-regain-title-best-team-world",
+         "pubDate" : "Thu, 02 Jul 2026 00:00:00",
+         "title" : "Help Team USA Regain Title as Best Team in the World"
+      },
+      {
          "description" : "A note from Michael D. Buss, US Chess Correspondence Coordinator: With this issue, we extend our sincere thanks and appreciation to Jeff French for his outstanding work as Games Editor over the past year and a half. With Jeff already retired and his wife's retirement approaching, they look forward to enjoying retirement together while exploring the highways and byways. Jeff will continue serving as the President of the Correspondence Chess League of America.Thanks Mike! It has been my pleasure ... and on to the issue ...Over the past year I have collected games that were provide by you, the readers of Check is in the Mail. I ended up with nearly thirty games ready for consideration in this i",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/check-mail-july-2026-readers-games",
          "pubDate" : "Thu, 02 Jul 2026 00:00:00",
          "title" : "Check is in the Mail, July 2026: Readers' Games!"
-      },
-      {
-         "description" : "Bodhana Sivanandan took on the virtual version of Jos&eacute; Ra&uacute;l Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she consistently found strong plans, converted her advantage into a favourable endgame, and secured a convincing victory. The post-game analysis highlighted her excellent endgame understanding and tactical awareness, showing why she is regarded as one of the brightest young talents in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-vs-jose-capablanca-level-master-candidate",
-         "pubDate" : "Wed, 01 Jul 2026 20:00:00",
-         "title" : "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)"
       },
       {
          "description" : "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid &#38;amp; Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn...",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "Carlsen Drops 18 Points, Remains Only 2800+ Player In World"
       },
       {
-         "description" : "The 39th edition of the \"Ciudad de Le&oacute;n\" Masters will take place from 3 to 5 July, with Le Quang Liem, Kirill Alekseenko, Faustino Oro and Jaime Santos in the four-player knockout. Le returns as defending champion, while Oro arrives with grandmaster-elect status and Santos once again represents the host city. The XI Open Internacional \"Magistral de Le&oacute;n\" will be played alongside the main event. | Image: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-leon-2026-preview",
-         "pubDate" : "Wed, 01 Jul 2026 09:00:00",
-         "title" : "Le&oacute;n Masters: Le, Oro, Santos and Alekseenko face off in rapid knockout"
-      },
-      {
          "description" : "Arkady Dvorkovich has confirmed he will seek a third term as President of the International Chess Federation (FIDE), eight years after first campaigning on a promise that FIDE presidents should be limited to two terms. The incumbent announced his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-confirms-bid-for-third-term-as-fide-president-adds-turlov-to-ticket",
          "pubDate" : "Wed, 01 Jul 2026 07:57:35",
          "title" : "Dvorkovich Confirms 3rd-Term Bid For FIDE President, Adds Turlov To Ticket"
-      },
-      {
-         "description" : "The KazChess Masters Almaty has begun in Kazakhstan's largest city, with five established international grandmasters facing five rising local players in a ten-player single round-robin. The opening round produced two decisive results, as Igor Kovalenko defeated Alexander Donchenko with a strong attacking display, while Sam Shankland converted an endgame against Aldiyar Ansat. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r1",
-         "pubDate" : "Wed, 01 Jul 2026 01:00:00",
-         "title" : "KazChess Masters in Almaty: Shankland, Kovalenko start with wins"
       },
       {
          "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -346,14 +346,6 @@ news_feed (
          "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
       },
       {
-         "description" : "Like many U.S. teams competing internationally we are not supported by our government but through private donations, fundraising, and sponsorships, and we need your help to get these players to Samarkand. Every dollar raised helps pay for airfare, hotels, coaching, and meals, and in the 250th anniversary year of our nation sends a signal about the importance of chess in the U.S.. We also want to show our love of the game and our team during this seminal 250th birthday of our nation. Be part of Olympiad history and donate here. 2026 Olympiad Teams AnnouncedThe 46th FIDE Chess Olympiad will take place from September 15 through 27 in Samarkand, Uzbekistan. Team USA looks to improve on its silve",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-olympiad-teams-announced",
-         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
-         "title" : "2026 Olympiad Teams Announced"
-      },
-      {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +424,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/perfect-illusion/",
          "pubDate" : "Sat, 20 Jun 2026 13:00:00",
          "title" : "The Most Exciting Way to Quit"
-      },
-      {
-         "description" : "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/terry-bluebaum-mahdavi-3-0-thursday-06-18-2026",
-         "pubDate" : "Fri, 19 Jun 2026 18:56:00",
-         "title" : "Terry Topples Carlsen; Bluebaum, Mahdavi Capture 3 0 Thursday Titles"
       },
       {
          "description" : " The â‚¬500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling may be an ­unfamiliar chess name, but the squad from China won the gold medals at the World Teams Rapid in Hong Kong. Teams of six include a woman, a ­junior and an amateur who has never achieved a 2000 ­rating. The strong <sup> ­</sup>performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world ­champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while for blitz i",
