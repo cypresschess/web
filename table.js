@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-06-30","18","<a href=https://ratings.uschess.org/event/202606300393 target='_blank'>JUNE TUE NITE SWISS 2026</a>",
 "KATY","2026-06-28","28","<a href=https://ratings.uschess.org/event/202606280873 target='_blank'>Katy Kids Chess</a>",
 "HOUSTON","2026-06-28","19","<a href=https://ratings.uschess.org/event/202606280283 target='_blank'>Bellaire Sunday Swiss 2026.06.28</a>",
 "HOUSTON","2026-06-28","6","<a href=https://ratings.uschess.org/event/202606280163 target='_blank'>June 28TH- SUNDAY SWISS for Beginne</a>",
@@ -98,5 +99,4 @@ jtable([
 "CYPRESS","2026-04-10","52","<a href=https://ratings.uschess.org/event/202604100383 target='_blank'>Knights of Cypress</a>",
 "PASADENA","2026-04-10","16","<a href=https://ratings.uschess.org/event/202604100363 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-04-10","13","<a href=https://ratings.uschess.org/event/202604100273 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-04-10","2","<a href=https://ratings.uschess.org/event/202604100243 target='_blank'>FBCC Farm Animals Day Open Extra Game</a>",
 ]);
