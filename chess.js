@@ -10,6 +10,14 @@ news_feed (
          "title" : "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader"
       },
       {
+         "description" : "A note from Michael D. Buss, US Chess Correspondence Coordinator: With this issue, we extend our sincere thanks and appreciation to Jeff French for his outstanding work as Games Editor over the past year and a half. With Jeff already retired and his wife's retirement approaching, they look forward to enjoying retirement together while exploring the highways and byways. Jeff will continue serving as the President of the Correspondence Chess League of America.Thanks Mike! It has been my pleasure ... and on to the issue ...Over the past year I have collected games that were provide by you, the readers of Check is in the Mail. I ended up with nearly thirty games ready for consideration in this i",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-july-2026-readers-games",
+         "pubDate" : "Thu, 02 Jul 2026 00:00:00",
+         "title" : "Check is in the Mail, July 2026: Readers' Games!"
+      },
+      {
          "description" : "Bodhana Sivanandan took on the virtual version of Jos&eacute; Ra&uacute;l Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she consistently found strong plans, converted her advantage into a favourable endgame, and secured a convincing victory. The post-game analysis highlighted her excellent endgame understanding and tactical awareness, showing why she is regarded as one of the brightest young talents in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -346,14 +354,6 @@ news_feed (
          "title" : "2026 Olympiad Teams Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada<br> <br> Finishing in clear first place for the third consecutive year, GM Jianchao Zhou won the US Chess 2025 Grand Prix with 791.591 tournament points, beating his 2024 total by almost 100 points. North Carolina's Emmanuel Carter was second with 198.133 points, ahead of FM Danila Poliannikov in third with 139.166 points, less than one point ahead of GM Semen Khanin.Zhou earns $5,000 for his first-place finish, with Carter taking home $2,500 for second and Poliannikov $1,000 for third. The top ten finishers for the 2025 Grand Prix are detailed below: PlaceNameIDSTPointsPrize1stZHOU, JIANCHAO",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/jianchao-zhou-three-peats-2025-grand-prix-winner",
-         "pubDate" : "Wed, 24 Jun 2026 00:00:00",
-         "title" : "Jianchao Zhou Three-peats as 2025 Grand Prix Winner"
-      },
-      {
          "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -528,14 +528,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik",
          "pubDate" : "Fri, 12 Jun 2026 07:00:38",
          "title" : "Chess: Carlsen heads for Hong Kong while Russia unveils the next Botvinnik"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2026 concluded yesterday in Acqui Terme, Italy! The event was played in two age categories: 50+ and 65+, open and women's sections separately, gathering nearly 250 players coming from 34 European federations. After nine played rounds, GM Jean-Marc Degraeve (FRA, 2494) emerged as the sole winner of the 50+ Open competition, scoring 7/9 points. As many as five players tied for silver with the score of 6.5/9 points (each): GM Daniel Gormally (ENG, 2391), GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-champions-2026-crowned-in-italy/",
-         "pubDate" : "Thu, 11 Jun 2026 11:05:17",
-         "title" : "European Senior Chess Champions 2026 crowned in Italy"
       }
    ]
 }
