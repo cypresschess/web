@@ -10,6 +10,14 @@ news_feed (
          "title" : "Zagreb: In-form Firouzja now three points clear of the field"
       },
       {
+         "description" : "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women&#39;s Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
+         "pubDate" : "Thu, 02 Jul 2026 19:40:09",
+         "title" : "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final"
+      },
+      {
          "description" : "After nine hard-fought rounds, the Kasparov Chess Foundation Friendship Festival 2026 Open came to a thrilling conclusion. Chinese grandmaster Xu Xiangyu captured the title with an outstanding performance, prevailing in one of the strongest international open tournaments ever organized on Slovenian soil. Final report, with photos provided by Jernej Borovinšek.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-5",
          "pubDate" : "Sun, 21 Jun 2026 14:18:00",
          "title" : "Ding Liren Leads Dragon Chilling To 'Dream' Double Gold"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s perfect record in Bullet Brawl in 2026 has finally come to an end courtesy of an exceptional performance by the 17-year-old GM Ediz Gurel. Gurel recorded one of the all-time greatest starts with 17 consecutive wins and clinche...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
-         "pubDate" : "Sat, 20 Jun 2026 19:13:00",
-         "title" : "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
