@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and Challengers sections, with a time control of 10+5. Fabiano Caruana, Hikaru Nakamura and Javokhir Sindarov are the top seeds in the Masters. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
+         "pubDate" : "Fri, 03 Jul 2026 16:50:00",
+         "title" : "Naroditsky Memorial - Live!"
+      },
+      {
+         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
+         "pubDate" : "Fri, 03 Jul 2026 14:45:00",
+         "title" : "Super Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "At the end of last year, the famous chess caf&eacute; Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McShane gave a blindfold chess exhibition - the first at Simpson's for 100 years.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-105th-counties-championship-finals/",
          "pubDate" : "Fri, 03 Jul 2026 09:43:26",
          "title" : "The 105th Counties Championship Finals"
+      },
+      {
+         "description" : "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-murzin-taher-3-0-thursday-07-03-2026",
+         "pubDate" : "Fri, 03 Jul 2026 07:06:31",
+         "title" : "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments"
       },
       {
          "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
-         "pubDate" : "Thu, 02 Jul 2026 14:11:26",
+         "pubDate" : "Thu, 02 Jul 2026 14:11:00",
          "title" : "Firouzja Extends Lead As Gukesh Hits Back"
       },
       {
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-games-inspired-the-nations-gambit-chess-thriller",
          "pubDate" : "Mon, 22 Jun 2026 05:11:00",
          "title" : "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller"
-      },
-      {
-         "description" : "&#34;It&#39;s like a dream!&#34; said Dragon Chilling captain GM Ni Hua as the Chinese team added&#38;nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann&#39;s Endgame....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-5",
-         "pubDate" : "Sun, 21 Jun 2026 14:18:00",
-         "title" : "Ding Liren Leads Dragon Chilling To 'Dream' Double Gold"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
