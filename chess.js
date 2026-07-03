@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and Challengers sections, with a time control of 10+5. Fabiano Caruana, Hikaru Nakamura and Javokhir Sindarov are the top seeds in the Masters. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and Challengers sections, with a time control of 10+5. Fabiano Caruana, Javokhir Sindarov and Wesley So are the top seeds in the Masters. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
          "pubDate" : "Fri, 03 Jul 2026 16:50:00",
          "title" : "Naroditsky Memorial - Live!"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid &#38;amp; Blitz Croatia as co-leader after winning all three games on day three&#38;mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&#38;mdash;to catch GM Alireza...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
+         "pubDate" : "Fri, 03 Jul 2026 14:54:52",
+         "title" : "Perfect Praggnanandhaa Catches Firouzja"
       },
       {
          "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
@@ -66,28 +74,12 @@ news_feed (
          "title" : "Born 50 yrs after Kasparov! How 13-yo Pratitee became India's lone medallist at World Youth Chess"
       },
       {
-         "description" : "Alireza Firouzja increased his lead at the Super Rapid & Blitz Croatia in Zagreb after scoring two wins and a draw for the second day in a row. He now has 10/12 points, 3 more than Vincent Keymer, Maxime Vachier-Lagrave, Gukesh Dommaraju and Bogdan-Daniel Deac. Firouzja won both his games with black on Thursday, while Gukesh and Deac both scored 4/6 to move into shared second place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-2",
-         "pubDate" : "Fri, 03 Jul 2026 00:40:00",
-         "title" : "Zagreb: In-form Firouzja now three points clear of the field"
-      },
-      {
          "description" : "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women&#39;s Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
          "pubDate" : "Thu, 02 Jul 2026 19:40:00",
          "title" : "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final"
-      },
-      {
-         "description" : "After nine hard-fought rounds, the Kasparov Chess Foundation Friendship Festival 2026 Open came to a thrilling conclusion. Chinese grandmaster Xu Xiangyu captured the title with an outstanding performance, prevailing in one of the strongest international open tournaments ever organized on Slovenian soil. Final report, with photos provided by Jernej Borovinšek.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-friendship-festival-concludes",
-         "pubDate" : "Thu, 02 Jul 2026 19:26:45",
-         "title" : "KCF Friendship Festival Concludes"
       },
       {
          "description" : "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid &#38;amp; Blitz Croatia. GM Bogdan-Daniel Deac began in style with ...",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
          "pubDate" : "Thu, 02 Jul 2026 08:00:00",
          "title" : "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges"
-      },
-      {
-         "description" : "Alireza Firouzja took the sole lead after the first day of the Super Rapid & Blitz Croatia in Zagreb, scoring two wins and a draw in the opening three rapid rounds. His victories over Ivan Saric and Bogdan-Daniel Deac were not straightforward, while a third-round draw against Anish Giri left him on 5/6. Four players are one point behind: Giri, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-1",
-         "pubDate" : "Thu, 02 Jul 2026 07:30:00",
-         "title" : "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Since 1924, countries from all over the world have competed in the Chess Olympiad. The U.S. dominated in the 1930's, but fell behind the Soviet Union during their long period of dominance from the '50's to the '90s's, during which the Soviets won almost every tournament. The U.S. hasn't won an Olympiad since 2016. This year, we are sending a powerhouse group of players to Uzbekistan to compete in the 46th Olympiad and regain our title as the best team in the world.Our Open team includes GMs Fabiano Caruana and Wesley So from that 2016 team; the Women's squad finished on the podium at the last Olympiad for the first time in",
@@ -136,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
          "pubDate" : "Wed, 01 Jul 2026 15:39:34",
          "title" : "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins"
-      },
-      {
-         "description" : "Magnus Carlsen may have lost a significant number of rating points at Norway Chess, but he remains the undisputed world number one. World Champion Gukesh continues to lead the junior rankings, though only by a narrow margin. In the girls' rankings, Anastasiia Hnatyshyn is the new number one.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-july-2026",
-         "pubDate" : "Wed, 01 Jul 2026 14:36:36",
-         "title" : "FIDE ratings - July 2026"
       },
       {
          "description" : "Norway Chess 2026 and the UzChess Cup 2026 were two tournaments that shifted classical ratings for many of the world&#39;s top-15 on the July list. The most notable change was, unusually so, an 18-point drop in GM Magnus Carlsen&#39;s rating, just as he c...",
@@ -464,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-esports-world-cup-chess-finals-2026",
          "pubDate" : "Mon, 22 Jun 2026 08:00:00",
          "title" : "Chess Returns to Esports World Cup in Paris With $1.5M Prize Fund"
-      },
-      {
-         "description" : "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
-         "pubDate" : "Mon, 22 Jun 2026 07:55:00",
-         "title" : "Woodward Wins Revenge Grand Final"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
