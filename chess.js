@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of last year, the famous chess caf&eacute; Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McShane gave a blindfold chess exhibition - the first at Simpson's for 100 years.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/simpon-s-in-the-strand-the-home-of-chess",
+         "pubDate" : "Fri, 03 Jul 2026 13:15:00",
+         "title" : "Simpson's in the Strand: The home of chess"
+      },
+      {
+         "description" : "&#160; The 105th Counties Championship Finals take place on Saturday 4 July, 1:30pm &#160; Live streaming of the Open Final with commentary from FM Jonathan Blackburn on the ECF YouTube...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-105th-counties-championship-finals/",
+         "pubDate" : "Fri, 03 Jul 2026 09:43:26",
+         "title" : "The 105th Counties Championship Finals"
+      },
+      {
          "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
-         "pubDate" : "Thu, 02 Jul 2026 19:40:09",
+         "pubDate" : "Thu, 02 Jul 2026 19:40:00",
          "title" : "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final"
       },
       {
