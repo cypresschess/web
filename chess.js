@@ -26,6 +26,14 @@ news_feed (
          "title" : "Simpson's in the Strand: The home of chess"
       },
       {
+         "description" : "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
+         "pubDate" : "Fri, 03 Jul 2026 12:06:07",
+         "title" : "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo"
+      },
+      {
          "description" : "&#160; The 105th Counties Championship Finals take place on Saturday 4 July, 1:30pm &#160; Live streaming of the Open Final with commentary from FM Jonathan Blackburn on the ECF YouTube...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
          "pubDate" : "Mon, 22 Jun 2026 07:55:00",
          "title" : "Woodward Wins Revenge Grand Final"
-      },
-      {
-         "description" : "A Magnus Carlsen game from 2010 and his famous queen sacrifice from the 2016 World Championship match helped shape the central chess battle in The Nation&#39;s Gambit, a new Norwegian political thriller, in which every captured piece costs a human lif...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-games-inspired-the-nations-gambit-chess-thriller",
-         "pubDate" : "Mon, 22 Jun 2026 05:11:00",
-         "title" : "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
