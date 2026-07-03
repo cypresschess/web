@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/03/chessfest-back-in-london-as-public-get-chance-to-take-on-grandmasters",
+         "pubDate" : "Fri, 03 Jul 2026 07:00:22",
+         "title" : "ChessFest back in London as public get chance to take on grandmasters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132151234.cms\" /> Born exactly 50 years after Garry Kasparov, 13-year-old chess prodigy and maths Olympiad star Pratitee Bordoloi scripted history by winning India's only medal at the 2026 FIDE World Youth Chess Championship. The story explores her extraordinary rise, analytical brilliance, disciplined upbringing, and the unique blend of academic excellence, humility, and competitive ambition shaping her journey.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/born-exactly-50-years-after-garry-kasparov-how-13-year-old-maths-olympiad-genius-pratitee-bordoloi-became-indias-lone-medallist-at-world-youth-chess/articleshow/132151234.cms",
+         "pubDate" : "Fri, 03 Jul 2026 03:20:38",
+         "title" : "Born 50 yrs after Kasparov! How 13-yo Pratitee became India's lone medallist at World Youth Chess"
+      },
+      {
          "description" : "Alireza Firouzja increased his lead at the Super Rapid & Blitz Croatia in Zagreb after scoring two wins and a draw for the second day in a row. He now has 10/12 points, 3 more than Vincent Keymer, Maxime Vachier-Lagrave, Gukesh Dommaraju and Bogdan-Daniel Deac. Firouzja won both his games with black on Thursday, while Gukesh and Deac both scored 4/6 to move into shared second place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/feeling-after-training/",
          "pubDate" : "Sat, 13 Jun 2026 13:00:00",
          "title" : "The Feeling After Training"
-      },
-      {
-         "description" : " The world No 1's setback in Oslo and reduced participation coincides with the emergence of a new star Magnus Carlsen, the world No 1, had his worst tournament result since 2015 last week when the 35-year-old ended up fourth of six in the $178,000 (&pound;133,000) Norway Chess event at Oslo, losing four games out of 10. There were reasons for his disappointing showing. Previous editions of the event were in distant Stavanger, far from the hometown pressures of Oslo, while Carlsen is the father of a baby son and he arrived at several games seemingly unprepared. <a href=\"https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik\">Con",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jun/12/chess-carlsen-heads-for-hong-kong-while-russia-unveils-the-next-botvinnik",
-         "pubDate" : "Fri, 12 Jun 2026 07:00:38",
-         "title" : "Chess: Carlsen heads for Hong Kong while Russia unveils the next Botvinnik"
       }
    ]
 }
