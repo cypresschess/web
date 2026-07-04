@@ -10,6 +10,14 @@ news_feed (
          "title" : "Naroditsky Memorial - Live!"
       },
       {
+         "description" : "French GM Alireza Firouzja heads into the final day of the 2026 Super Rapid &#38;amp; Blitz Croatia with a three-point lead over GMs Nodirbek Abdusattorov and Maxime Vachier-Lagrave after scoring a stunning 8/9 on the first day of blitz. GM Praggnanan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
+         "pubDate" : "Sat, 04 Jul 2026 15:40:12",
+         "title" : "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia"
+      },
+      {
          "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
          "pubDate" : "Sat, 4 Jul 2026 14:32:00",
          "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-bans-kramnik-for-two-years",
+         "pubDate" : "Sat, 04 Jul 2026 13:50:00",
+         "title" : "FIDE Bans Former World Champion Vladimir Kramnik For 2 Years"
       },
       {
          "description" : "Calculation is hard. But many of my students make it harder than it has to be. The truth is: you'll never see everything. It also isn't necessary. You just need to see what is crucial to make a good decision. Here is how. When It Is Enough I recently had this position in a 1:1 []",
@@ -466,14 +482,6 @@ news_feed (
          "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
       },
       {
-         "description" : "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/moussard-wins-titled-tuesday-june-23-2026",
-         "pubDate" : "Tue, 23 Jun 2026 14:32:54",
-         "title" : "'Mouss-See TT' Moussard Wins Titled Tuesday"
-      },
-      {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
          "pubDate" : "Mon, 22 Jun 2026 09:46:26",
          "title" : "'Speed up your calculation': Gukesh advised ahead of World C'ship match"
-      },
-      {
-         "description" : "Chess will once again be a part of the world&#39;s biggest esports festival, with GM Magnus Carlsen returning to defend his title. The Esports World Cup Chess Finals will take place from August 11 to 15 with a new home in Paris, France, and feature a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-esports-world-cup-chess-finals-2026",
-         "pubDate" : "Mon, 22 Jun 2026 08:00:00",
-         "title" : "Chess Returns to Esports World Cup in Paris With $1.5M Prize Fund"
       },
       {
          "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
