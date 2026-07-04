@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the third day of the rapid chess section at the Super Rapid & Blitz in Zagreb, Praggnanandhaa Rameshbabu managed to draw level with Alireza Firouzja. Pragg won all three of his games on Friday, defeating Ivan Saric, Bogdan-Daniel Deac and Anish Giri. Firouzja and Pragg thus go into the blitz section sharing the lead with 12 points each, while Maxime Vachier-Lagrave and Nodirbek Abdusattorov stand one point back. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-3",
+         "pubDate" : "Sat, 04 Jul 2026 07:10:00",
+         "title" : "Zagreb: Pragg wins three games in a row, catches Firouzja"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132174198.cms\" />Former world champion Vladimir Kramnik has been banned by FIDE for two years, with the second year suspended, over unethical conduct linked to public cheating allegations against players including David Navara and Daniel Naroditsky. FIDE cited bullying, unjustified accusations and procedural violations. Kramnik has vowed to appeal the ruling.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-is-next-for-vladimir-kramnik-after-chess-legend-handed-two-year-ban-by-fide/articleshow/132174198.cms",
+         "pubDate" : "Sat, 04 Jul 2026 04:20:01",
+         "title" : "What is next for Kramnik after chess legend handed two-year ban by FIDE?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173556.cms\" />Ahead of the India Rising: Road to EWC Chess LAN Finals in Mumbai on Saturday, Grandmaster Vidit Gujrathi spoke to TimesofIndia.com about his journey through the qualifiers, India's growing stature in world chess, and the evolving relationship between chess and esports. Reflecting on a near-elimination scare, Vidit backed India's dedicated EWC pathway and expressed his determination to secure a place at the Esports World Cup 2026 in Paris.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-exclusive-india-is-a-chess-powerhouse-but-still-far-from-becoming-esports-hub/articleshow/132173556.cms",
-         "pubDate" : "Sat, 04 Jul 2026 03:00:09",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-exclusive-india-is-chess-powerhouse-but-still-far-from-becoming-esports-hub/articleshow/132173556.cms",
+         "pubDate" : "Sat, 04 Jul 2026 03:53:47",
          "title" : "Vidit Gujrathi Exclusive: 'India is a chess powerhouse but still far from becoming esports hub'"
       },
       {
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
          "pubDate" : "Fri, 03 Jul 2026 14:54:00",
          "title" : "Perfect Praggnanandhaa Catches Firouzja"
-      },
-      {
-         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
-         "pubDate" : "Fri, 03 Jul 2026 14:45:00",
-         "title" : "Super Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "At the end of last year, the famous chess caf&eacute; Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McShane gave a blindfold chess exhibition - the first at Simpson's for 100 years.",
