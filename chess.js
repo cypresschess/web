@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. On Saturday, participants contest an 11-round blitz event, with the top ten in the final standings advancing to Sunday's finals. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
+         "pubDate" : "Sat, 04 Jul 2026 16:50:00",
+         "title" : "Naroditsky Memorial - Live!"
+      },
+      {
+         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
+         "pubDate" : "Sat, 04 Jul 2026 14:45:00",
+         "title" : "Super Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : " The GCT Super Rapid & Blitz Croatia takes place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
+         "pubDate" : "Sat, 4 Jul 2026 14:32:00",
+         "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
+      },
+      {
+         "description" : "Calculation is hard. But many of my students make it harder than it has to be. The truth is: you'll never see everything. It also isn't necessary. You just need to see what is crucial to make a good decision. Here is how. When It Is Enough I recently had this position in a 1:1 []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/do-not-need-to-calculate-everything/",
+         "pubDate" : "Sat, 04 Jul 2026 13:00:00",
+         "title" : "You Don't Need To Calculate Everything"
+      },
+      {
          "description" : "The FIDE Ethics & Disciplinary Commission has issued its decision in proceedings involving former world champion Vladimir Kramnik, finding him responsible for multiple violations linked to public statements about David Navara, the late Daniel Naroditsky and other players. The EDC imposed a two-year worldwide ban, with the final year suspended for a three-year probationary period, as well as 12 months of unpaid service for the chess community. The decision may be appealed. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-indias-moment-why-the-nation-of-1-4-billion-now-has-a-dedicated-pathway-to-esports-world-cup/articleshow/132173577.cms",
          "pubDate" : "Sat, 04 Jul 2026 02:53:25",
          "title" : "'This is India's moment': Why the nation of 1.4 billion now has a dedicated pathway to Esports World Cup"
-      },
-      {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and Challengers sections, with a time control of 10+5. Fabiano Caruana, Javokhir Sindarov and Wesley So are the top seeds in the Masters. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
-         "pubDate" : "Fri, 03 Jul 2026 16:50:00",
-         "title" : "Naroditsky Memorial - Live!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid &#38;amp; Blitz Croatia as co-leader after winning all three games on day three&#38;mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&#38;mdash;to catch GM Alireza...",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026",
          "pubDate" : "Sun, 14 Jun 2026 12:20:00",
          "title" : "Navara vs Blohberger Match 2026 - Games and Results"
-      },
-      {
-         "description" : "Do you know that feeling lying in your bed, really satisfied with yourself because you've done some hard things today? For me, it is one of the best feelings. And a great indicator of how good my day has been. That applied to chess, and now also elsewhere in life. Not During, but After Most []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/feeling-after-training/",
-         "pubDate" : "Sat, 13 Jun 2026 13:00:00",
-         "title" : "The Feeling After Training"
       }
    ]
 }
