@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173556.cms\" />Ahead of the India Rising: Road to EWC Chess LAN Finals in Mumbai on Saturday, Grandmaster Vidit Gujrathi spoke to TimesofIndia.com about his journey through the qualifiers, India's growing stature in world chess, and the evolving relationship between chess and esports. Reflecting on a near-elimination scare, Vidit backed India's dedicated EWC pathway and expressed his determination to secure a place at the Esports World Cup 2026 in Paris.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-exclusive-india-is-a-chess-powerhouse-but-still-far-from-becoming-esports-hub/articleshow/132173556.cms",
+         "pubDate" : "Sat, 04 Jul 2026 03:00:09",
+         "title" : "Vidit Gujrathi Exclusive: 'India is a chess powerhouse but still far from becoming esports hub'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173577.cms\" />India has secured a permanent qualification pathway to the Esports World Cup through the India Rising initiative, a collaboration between JioBLAST, Chess.com and the EWC Foundation. Leveraging the country's chess dominance and massive gaming market, the initiative aims to create a long-term pipeline for Indian talent. On Saturday, using this pathway, Grandmaster Vidit Gujrathi could become the fourth Indian to qualify for the EWC main event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-indias-moment-why-the-nation-of-1-4-billion-now-has-a-dedicated-pathway-to-esports-world-cup/articleshow/132173577.cms",
+         "pubDate" : "Sat, 04 Jul 2026 02:53:25",
+         "title" : "'This is India's moment': Why the nation of 1.4 billion now has a dedicated pathway to Esports World Cup"
+      },
+      {
          "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and Challengers sections, with a time control of 10+5. Fabiano Caruana, Javokhir Sindarov and Wesley So are the top seeds in the Masters. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
-         "pubDate" : "Fri, 03 Jul 2026 14:54:52",
+         "pubDate" : "Fri, 03 Jul 2026 14:54:00",
          "title" : "Perfect Praggnanandhaa Catches Firouzja"
       },
       {
