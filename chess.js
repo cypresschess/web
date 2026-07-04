@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Ethics & Disciplinary Commission has issued its decision in proceedings involving former world champion Vladimir Kramnik, finding him responsible for multiple violations linked to public statements about David Navara, the late Daniel Naroditsky and other players. The EDC imposed a two-year worldwide ban, with the final year suspended for a three-year probationary period, as well as 12 months of unpaid service for the chess community. The decision may be appealed. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/decision-case-inolving-kramnik-july-2026",
+         "pubDate" : "Sat, 04 Jul 2026 11:00:00",
+         "title" : "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik"
+      },
+      {
          "description" : "On the third day of the rapid chess section at the Super Rapid & Blitz in Zagreb, Praggnanandhaa Rameshbabu managed to draw level with Alireza Firouzja. Pragg won all three of his games on Friday, defeating Ivan Saric, Bogdan-Daniel Deac and Anish Giri. Firouzja and Pragg thus go into the blitz section sharing the lead with 12 points each, while Maxime Vachier-Lagrave and Nodirbek Abdusattorov stand one point back. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
