@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the penultimate weekend in June, the \"De Sprenger Echternach\" chess club hosted the traditional Echternach Open. Nearly 350 chess enthusiasts gathered in the historic Abbey of Echternach to compete for tournament victory, special prizes and strong placings. In the end, second seed Loek van Wely came out on top.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/loek-van-wely-wins-echternach-open-2026",
+         "pubDate" : "Sat, 04 Jul 2026 23:50:00",
+         "title" : "Loek Van Wely prevails in Echternach"
+      },
+      {
+         "description" : "GM Arjun Erigaisi was crowned the winner of Saturday&#39;s Bullet Brawl&#38;nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-july-4-2026",
+         "pubDate" : "Sat, 04 Jul 2026 19:32:00",
+         "title" : "Arjun Hawks Down Martinez In Late Surge"
+      },
+      {
          "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. On Saturday, participants contest an 11-round blitz event, with the top ten in the final standings advancing to Sunday's finals. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
-         "pubDate" : "Sat, 04 Jul 2026 15:40:12",
+         "pubDate" : "Sat, 04 Jul 2026 15:40:00",
          "title" : "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia"
       },
       {
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
          "pubDate" : "Fri, 03 Jul 2026 14:54:00",
          "title" : "Perfect Praggnanandhaa Catches Firouzja"
-      },
-      {
-         "description" : "At the end of last year, the famous chess caf&eacute; Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McShane gave a blindfold chess exhibition - the first at Simpson's for 100 years.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/simpon-s-in-the-strand-the-home-of-chess",
-         "pubDate" : "Fri, 03 Jul 2026 13:15:00",
-         "title" : "Simpson's in the Strand: The home of chess"
       },
       {
          "description" : "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia...",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-returns-12th-july/",
          "pubDate" : "Wed, 24 Jun 2026 09:08:21",
          "title" : "ChessFest returns - 12th July"
-      },
-      {
-         "description" : "Two months after his incredible Candidates victory, GM Javokhir Sindarov says his life has changed surprisingly little. But the 20-year-old Uzbek star revealed that his approach to chess changed dramatically over the last year. In an interview wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-i-didnt-work-with-chess-that-much-interview",
-         "pubDate" : "Wed, 24 Jun 2026 08:01:00",
-         "title" : "Sindarov: \"I Didn't Work With Chess That Much\""
       },
       {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
