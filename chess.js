@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju. Alrizeza Firouzja won an Armageddon Tie-break against Nodirbek Abdusattorov after they tied the combined standings and a two game rapid tie-break match.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
+         "pubDate" : "Sun, 5 Jul 2026 22:55:00",
+         "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
+      },
+      {
          "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Sunday's schedule includes a Creator Invitational featuring prominent online personalities, followed by the Blitz Finals, in which the top ten finishers from the Masters blitz section will compete for overall honours. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
-         "pubDate" : "Sun, 05 Jul 2026 11:55:24",
+         "pubDate" : "Sun, 05 Jul 2026 11:55:00",
          "title" : "Firouzja Survives 'Worst Blitz Day Of Life' To Win Croatia Title In Armageddon"
       },
       {
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
          "pubDate" : "Sat, 04 Jul 2026 15:40:00",
          "title" : "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia"
-      },
-      {
-         "description" : " The GCT Super Rapid & Blitz Croatia takes place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
-         "pubDate" : "Sat, 4 Jul 2026 14:32:00",
-         "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
       },
       {
          "description" : "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal...",
