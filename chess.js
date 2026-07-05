@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Youth Rapid &#38; Blitz Chess Championship starts this Monday in Rzeszow, Poland! The event will take place from July 6 July 10 at the Podpromie Playing Hall and will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The event gathers nearly 950 children coming from 33 European federations! The Championship will crown 24 European Champions, for different age sections and for Rapid and Blitz competitions. List []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2026-starts/",
+         "pubDate" : "Sun, 05 Jul 2026 10:24:18",
+         "title" : "European Youth Rapid & Blitz Chess Championship 2026 starts"
+      },
+      {
          "description" : "On the penultimate weekend in June, the \"De Sprenger Echternach\" chess club hosted the traditional Echternach Open. Nearly 350 chess enthusiasts gathered in the historic Abbey of Echternach to compete for tournament victory, special prizes and strong placings. In the end, second seed Loek van Wely came out on top.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
