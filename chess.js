@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Sunday's schedule includes a Creator Invitational featuring prominent online personalities, followed by the Blitz Finals, in which the top ten finishers from the Masters blitz section will compete for overall honours. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
+         "pubDate" : "Sun, 05 Jul 2026 16:50:00",
+         "title" : "Naroditsky Memorial - Live!"
+      },
+      {
+         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
+         "pubDate" : "Sun, 05 Jul 2026 13:45:00",
+         "title" : "Super Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "Alireza Firouzja is once again the sole leader thanks to an 8/9 performance on the first day of blitz. Praggnanandhaa Rameshbabu, who entered the fourth day of action in shared first place, suffered four losses in a row at some point and only scored 3&frac12;/9. Firouzja's closest chasers are now Maxime Vachier-Lagrave and Nodirbek Abdusattorov, who scored 6 points on the first day of the blitz section and, with 17 points, are 3 points behind Firouzja in the overall standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-croatia-2026-4",
+         "pubDate" : "Sun, 05 Jul 2026 13:40:00",
+         "title" : "Zagreb: Firouzja regains three-point lead after 8/9 blitz performance"
+      },
+      {
          "description" : "The 2026 European Youth Rapid &#38; Blitz Chess Championship starts this Monday in Rzeszow, Poland! The event will take place from July 6 July 10 at the Podpromie Playing Hall and will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The event gathers nearly 950 children coming from 33 European federations! The Championship will crown 24 European Champions, for different age sections and for Rapid and Blitz competitions. List []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,28 +50,12 @@ news_feed (
          "title" : "Arjun Hawks Down Martinez In Late Surge"
       },
       {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. On Saturday, participants contest an 11-round blitz event, with the top ten in the final standings advancing to Sunday's finals. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
-         "pubDate" : "Sat, 04 Jul 2026 16:50:00",
-         "title" : "Naroditsky Memorial - Live!"
-      },
-      {
          "description" : "French GM Alireza Firouzja heads into the final day of the 2026 Super Rapid &#38;amp; Blitz Croatia with a three-point lead over GMs Nodirbek Abdusattorov and Maxime Vachier-Lagrave after scoring a stunning 8/9 on the first day of blitz. GM Praggnanan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
          "pubDate" : "Sat, 04 Jul 2026 15:40:00",
          "title" : "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia"
-      },
-      {
-         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
-         "pubDate" : "Sat, 04 Jul 2026 14:45:00",
-         "title" : "Super Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : " The GCT Super Rapid & Blitz Croatia takes place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju.",
@@ -568,22 +576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
          "pubDate" : "Mon, 15 Jun 2026 21:52:00",
          "title" : "3rd UzChess Cup 2026 - Games and Results"
-      },
-      {
-         "description" : " <a href= \"https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026\">Felix Blohberger defeated David Navara</a> in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a <a href=\"https://www.youtube.com/@febloh\">YouTube Channel</a> where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of the Austrian Chess Federation, they also provided the arbiter. Every round was commentated live. It was an interesting match, Navara was better in game one, game two was balanced, game three was the decisive one for the match, Navara was a pawn down in a Bishop vs Knight endgame, he probably should have ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/blohberger-beats-navara-3.5-2.5-in-a-match",
-         "pubDate" : "Sun, 14 Jun 2026 14:13:00",
-         "title" : "Blohberger beats Navara 3.5-2.5 in a match - 3-4"
-      },
-      {
-         "description" : " David Navara played Felix Blohberger in a six game match in Vienna Mon 8th Jun - Sat 13th Jun 2026. Blohberger won game three and the remaining games were drawn.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026",
-         "pubDate" : "Sun, 14 Jun 2026 12:20:00",
-         "title" : "Navara vs Blohberger Match 2026 - Games and Results"
       }
    ]
 }
