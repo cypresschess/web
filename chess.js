@@ -26,6 +26,14 @@ news_feed (
          "title" : "Zagreb: Firouzja regains three-point lead after 8/9 blitz performance"
       },
       {
+         "description" : "GM Alireza Firouzja has won the 2026 Super Rapid &#38;amp; Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead, but after scoring...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
+         "pubDate" : "Sun, 05 Jul 2026 11:55:24",
+         "title" : "Firouzja Survives 'Worst Blitz Day Of Life' To Win Croatia Title In Armageddon"
+      },
+      {
          "description" : "The 2026 European Youth Rapid &#38; Blitz Chess Championship starts this Monday in Rzeszow, Poland! The event will take place from July 6 July 10 at the Podpromie Playing Hall and will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The event gathers nearly 950 children coming from 33 European federations! The Championship will crown 24 European Champions, for different age sections and for Rapid and Blitz competitions. List []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
          "pubDate" : "Wed, 24 Jun 2026 14:52:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2026 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-1",
-         "pubDate" : "Wed, 24 Jun 2026 12:59:00",
-         "title" : "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals"
       },
       {
          "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
