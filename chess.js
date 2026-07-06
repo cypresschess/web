@@ -10,6 +10,22 @@ news_feed (
          "title" : "ChessBase Summer Special!"
       },
       {
+         "description" : "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-2026-naroditsky-memorial-rapid-blitz",
+         "pubDate" : "Mon, 06 Jul 2026 15:08:57",
+         "title" : "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky"
+      },
+      {
+         "description" : "Women&#39;s World Champion Ju Wenjun and two-time Women&#39;s Blitz World Champion Anna Muzychuk advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship on Monday. Ju handily defeated IM Le Thao Nguyen Pham 9.5-4.5, while Muzychuk went ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-ju-le-vaishali-muzychuk",
+         "pubDate" : "Mon, 06 Jul 2026 12:55:00",
+         "title" : "Ju Wenjun, Anna Muzychuk Advance To Quarterfinals"
+      },
+      {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -450,22 +466,6 @@ news_feed (
          "title" : "Interest Application Open for FIDE World Schools Team Chess Championships 2026 - Continental"
       },
       {
-         "description" : "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
-         "pubDate" : "Thu, 25 Jun 2026 14:15:00",
-         "title" : "Firouzja, Arjun Advance To Winners Final"
-      },
-      {
-         "description" : "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cvc-capital-partners-invests-in-chess-com",
-         "pubDate" : "Thu, 25 Jun 2026 13:19:00",
-         "title" : "CVC Capital Partners Invests In Chess.com"
-      },
-      {
          "description" : "The Interest Survey is open for chessplayers interested in representing USA for the 3rd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Uzbekistan Chess Federation, will take place September 10-18, in Samarkand, Uzbekistan.US Chess will be accepting registrations of interest for eligible U.S. participants until Friday, July 3rd, at 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be a 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulat",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -560,14 +560,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
          "pubDate" : "Tue, 16 Jun 2026 15:17:00",
          "title" : "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9"
-      },
-      {
-         "description" : " The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, Nikolas Theodorou and Mukhiddin Madaminov. The lowest rated player, 19 year-old Mukhiddin Madaminov won after winning a tie-break blitz match against 8th seed Shamsiddin Vokhidov. They had both scored 5.5/9 half a point clear of Ian Nepomniachtchi, Shakhriyar Mamedyarov and Arjun Erigaisi. Mahammad Muradli won the Challengers with a dominant 7.5/9 two points clear of second placed Mittal Aditya. The Futures tournament was won by IM Khumoyu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
-         "pubDate" : "Mon, 15 Jun 2026 21:52:00",
-         "title" : "3rd UzChess Cup 2026 - Games and Results"
       }
    ]
 }
