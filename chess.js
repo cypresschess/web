@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/mike-truran-steps-down-after-over-a-decade-of-ecf-board-service/",
+         "pubDate" : "Mon, 06 Jul 2026 10:51:14",
+         "title" : "Mike Truran Steps Down from ECF Board"
+      },
+      {
          "description" : "Alireza Firouzja won the Super Rapid & Blitz Croatia after a playoff against Nodirbek Abdusattorov in Zagreb. The French grandmaster began the final day with a three-point lead, lost it for a while during the second half of the blitz section, but then recovered to finish tied for first on 23&frac12; points. After two drawn tiebreak games, Firouzja held the Armageddon game with black to secure the title. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
