@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jaime Santos won the 39th edition of the Le&oacute;n Masters after obtaining a convincing 3&frac12;-&frac12; victory over defending champion Le Quang Liem in the final match. The 30-year-old GM from Le&oacute;n, who had already won the event in 2023, reached the title match by beating Faustino Oro, while Le needed tiebreaks to overcome Kirill Alekseenko. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-leon-2026-final-report",
+         "pubDate" : "Sun, 05 Jul 2026 23:55:00",
+         "title" : "Jaime Santos beats Le Quang Liem to claim second Le&oacute;n Masters title"
+      },
+      {
          "description" : " The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju. Alrizeza Firouzja won an Armageddon Tie-break against Nodirbek Abdusattorov after they tied the combined standings and a two game rapid tie-break match.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,31 +18,7 @@ news_feed (
          "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
       },
       {
-         "description" : "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Sunday's schedule includes a Creator Invitational featuring prominent online personalities, followed by the Blitz Finals, in which the top ten finishers from the Masters blitz section will compete for overall honours. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
-         "pubDate" : "Sun, 05 Jul 2026 16:50:00",
-         "title" : "Naroditsky Memorial - Live!"
-      },
-      {
-         "description" : "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among others, world champion Gukesh Dommaraju, Vincent Keymer and Nodirbek Abdusattorov. Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-live",
-         "pubDate" : "Sun, 05 Jul 2026 13:45:00",
-         "title" : "Super Rapid & Blitz Croatia - Live!"
-      },
-      {
-         "description" : "Alireza Firouzja is once again the sole leader thanks to an 8/9 performance on the first day of blitz. Praggnanandhaa Rameshbabu, who entered the fourth day of action in shared first place, suffered four losses in a row at some point and only scored 3&frac12;/9. Firouzja's closest chasers are now Maxime Vachier-Lagrave and Nodirbek Abdusattorov, who scored 6 points on the first day of the blitz section and, with 17 points, are 3 points behind Firouzja in the overall standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-4",
-         "pubDate" : "Sun, 05 Jul 2026 13:40:00",
-         "title" : "Zagreb: Firouzja regains three-point lead after 8/9 blitz performance"
-      },
-      {
-         "description" : "GM Alireza Firouzja has won the 2026 Super Rapid &#38;amp; Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead, but after scoring...",
+         "description" : "GM Alireza Firouzja has won the 2026 Super Rapid &#38;amp; Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead after scoring 8/9 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
@@ -48,14 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2026-starts/",
          "pubDate" : "Sun, 05 Jul 2026 10:24:18",
          "title" : "European Youth Rapid & Blitz Chess Championship 2026 starts"
-      },
-      {
-         "description" : "On the penultimate weekend in June, the \"De Sprenger Echternach\" chess club hosted the traditional Echternach Open. Nearly 350 chess enthusiasts gathered in the historic Abbey of Echternach to compete for tournament victory, special prizes and strong placings. In the end, second seed Loek van Wely came out on top.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/loek-van-wely-wins-echternach-open-2026",
-         "pubDate" : "Sat, 04 Jul 2026 23:50:00",
-         "title" : "Loek Van Wely prevails in Echternach"
       },
       {
          "description" : "GM Arjun Erigaisi was crowned the winner of Saturday&#39;s Bullet Brawl&#38;nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ...",
@@ -88,22 +64,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/do-not-need-to-calculate-everything/",
          "pubDate" : "Sat, 04 Jul 2026 13:00:00",
          "title" : "You Don't Need To Calculate Everything"
-      },
-      {
-         "description" : "The FIDE Ethics & Disciplinary Commission has issued its decision in proceedings involving former world champion Vladimir Kramnik, finding him responsible for multiple violations linked to public statements about David Navara, the late Daniel Naroditsky and other players. The EDC imposed a two-year worldwide ban, with the final year suspended for a three-year probationary period, as well as 12 months of unpaid service for the chess community. The decision may be appealed. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/decision-case-inolving-kramnik-july-2026",
-         "pubDate" : "Sat, 04 Jul 2026 11:00:00",
-         "title" : "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik"
-      },
-      {
-         "description" : "On the third day of the rapid chess section at the Super Rapid & Blitz in Zagreb, Praggnanandhaa Rameshbabu managed to draw level with Alireza Firouzja. Pragg won all three of his games on Friday, defeating Ivan Saric, Bogdan-Daniel Deac and Anish Giri. Firouzja and Pragg thus go into the blitz section sharing the lead with 12 points each, while Maxime Vachier-Lagrave and Nodirbek Abdusattorov stand one point back. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-3",
-         "pubDate" : "Sat, 04 Jul 2026 07:10:00",
-         "title" : "Zagreb: Pragg wins three games in a row, catches Firouzja"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132174198.cms\" />Former world champion Vladimir Kramnik has been banned by FIDE for two years, with the second year suspended, over unethical conduct linked to public cheating allegations against players including David Navara and Daniel Naroditsky. FIDE cited bullying, unjustified accusations and procedural violations. Kramnik has vowed to appeal the ruling.",
