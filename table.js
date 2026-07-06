@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-07-05","33","<a href=https://ratings.uschess.org/event/202607050183 target='_blank'>Poison Pawns July 2026</a>",
+"HOUSTON","2026-07-05","6","<a href=https://ratings.uschess.org/event/202607050153 target='_blank'>Bellaire Sunday Swiss 2026.07.05</a>",
 "SPRING","2026-07-03","19","<a href=https://ratings.uschess.org/event/202607030233 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-07-03","16","<a href=https://ratings.uschess.org/event/202607030223 target='_blank'>FBCC 2026 Independence Open</a>",
 "CYPRESS","2026-07-03","31","<a href=https://ratings.uschess.org/event/202607030143 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-04-12","12","<a href=https://ratings.uschess.org/event/202604120303 target='_blank'>2026 Houston Circuit T4 by AzChAcad</a>",
 "HOUSTON","2026-04-12","16","<a href=https://ratings.uschess.org/event/202604120263 target='_blank'>Bellaire Sunday Swiss 2026.04.12</a>",
 "HOUSTON","2026-04-12","26","<a href=https://ratings.uschess.org/event/202604120193 target='_blank'>SRI MEENAKSHI TEMPLE 04-12-2026</a>",
-"HOUSTON","2026-04-11","226","<a href=https://ratings.uschess.org/event/202604111083 target='_blank'>Impact Academy Chess Tournament</a>",
-"HOUSTON","2026-04-11","11","<a href=https://ratings.uschess.org/event/202604110283 target='_blank'>chesspanda04112026saturday</a>",
 ]);
