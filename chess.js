@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends, from July 6-12 , you can get the entire Master Class Series for just €224.90 in our ChessBase Summer Special. Don't miss this opportunity to own all 20 volumes at an exceptional price. Already own part of the series? No problem! Missing one or more volumes? During this week only, you can also purchase individual Master Class titles with discounts of up to 33%.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special",
+         "pubDate" : "Mon, 06 Jul 2026 17:00:00",
+         "title" : "ChessBase Summer Special!"
+      },
+      {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
