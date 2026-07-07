@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/heartbreak-for-indian-chess-fans-as-vidit-gujrathi-falls-in-mumbai-benjamin-bok-seals-esports-world-cup-2026-berth/articleshow/132241620.cms",
+         "pubDate" : "Tue, 07 Jul 2026 14:47:28",
+         "title" : "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth"
+      },
+      {
+         "description" : "Indian Grandmaster Leon Luke Mendonca has never been shy about letting people into his world. Long a familiar face at the ChessBase studio, the 20-year-old from Goa has spent recent years building a genuine chess r&eacute;sum&eacute;, headlined by his surprise victory in the 2024 Tata Steel Challengers. Now the man who became India's 67th grandmaster back in January 2021 is channelling that same openness into his own YouTube channel, where he shares tournament battles, game analysis and glimpses of life on the professional circuit. His tagline says it all - \"Just here to play chess and have fun\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-on-youtube",
+         "pubDate" : "Tue, 07 Jul 2026 12:15:16",
+         "title" : "Leon Mendonca on YouTube"
+      },
+      {
+         "description" : " My friend Jimmy Adams, who has died aged 79, was a writer on chess known for his witty personality and encyclopedic knowledge. Editor of Chess magazine from 1991 to 2010, in which role he brought every game and player to life with his enthusiastic, almost tabloid-like style, he was also a Fide master, the third highest ranking behind international master and grandmaster, a title he was awarded at the age of 67. Jimmy was born in Islington, north London, to James, a delivery driver, and Ivy (nee Soule), a shopkeeper, and attended Highbury county grammar school for boys. As a youngster he discovered the children's novel John and the Chess Men in his local library, and quickly graduated to bor",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/07/jimmy-adams-obituary",
+         "pubDate" : "Tue, 07 Jul 2026 12:06:40",
+         "title" : "Jimmy Adams obituary"
+      },
+      {
          "description" : "The Naroditsky Memorial featured rapid and blitz tournaments in tribute to Daniel Naroditsky, whose association with fast chess made the format a fitting choice. Javokhir Sindarov won the rapid after a playoff against Aravindh Chithambaram, then took first place outright in the Blitz Final. The event also raised funds for the Daniel Naroditsky Memorial Fund and the Naroditsky Fellowship for young players. | Pictured: Javokhir Sindarov and Daniel Naroditsky's mother Lena Schuman | Photo: Charlotte Chess Center",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/from-rs-4-8-lakh-at-kbc-to-commonwealth-gold-and-now-carrying-indias-hope-at-enc-mitrabha-guha-stays-on-the-hot-seat/articleshow/131768335.cms",
          "pubDate" : "Tue, 16 Jun 2026 23:30:00",
          "title" : "From Rs 4.8L at KBC to Commonwealth Gold and carrying India's hope at ENC: Guha on hot seat"
-      },
-      {
-         "description" : " <a href=\"https://en.wikipedia.org/wiki/Mukhiddin_Madaminov\">Mukhiddin Madaminov</a> won the <a href=\"https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026\">3rd Uzchess Cup in Tashkent</a>, a real surprise as he was the bottom seed and there as a replacement for Javokhir Sindarov. Madaminov won a final blitz tie-break 2-0 against fellow Uzbekistani <a href=\"https://en.wikipedia.org/wiki/Shamsiddin_Vokhidov\">Shamsiddin Vokhidov</a> who also wasn't one of the favourites. Madaminov's victory came after a long game against Hans Moke Niemann where he was pressing for a win but was also in danger of losing at one stage. He didn't have more than a few minutes to prepare for the tie-break",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
-         "pubDate" : "Tue, 16 Jun 2026 15:17:00",
-         "title" : "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9"
       }
    ]
 }
