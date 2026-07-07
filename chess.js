@@ -18,6 +18,14 @@ news_feed (
          "title" : "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth"
       },
       {
+         "description" : "Local hero GM Jaime Santos has won the&#38;nbsp;2026 Leon Masters after celebrating his 30th birthday by beating 12-year-old Argentinian GM-elect Faustino Oro 3-1 in the Semifinals, before overcoming Vietnamese defending champion GM Liem Le 3.5-0.5 in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
+         "pubDate" : "Tue, 07 Jul 2026 13:50:49",
+         "title" : "Santos Beats Oro, Le To Win 2nd Leon Masters"
+      },
+      {
          "description" : " My friend Jimmy Adams, who has died aged 79, was a writer on chess known for his witty personality and encyclopedic knowledge. Editor of Chess magazine from 1991 to 2010, in which role he brought every game and player to life with his enthusiastic, almost tabloid-like style, he was also a Fide master, the third highest ranking behind international master and grandmaster, a title he was awarded at the age of 67. Jimmy was born in Islington, north London, to James, a delivery driver, and Ivy (nee Soule), a shopkeeper, and attended Highbury county grammar school for boys. As a youngster he discovered the children's novel John and the Chess Men in his local library, and quickly graduated to bor",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bok-wins-2026-india-rising-final",
          "pubDate" : "Tue, 07 Jul 2026 11:31:56",
          "title" : "Bok Beats Vidit In Armageddon To Clinch EWC Spot"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival-pt-3",
+         "pubDate" : "Tue, 07 Jul 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival, pt. 3"
       },
       {
          "description" : "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou...",
@@ -426,14 +442,6 @@ news_feed (
          "title" : "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final"
       },
       {
-         "description" : "Young Norwegian FM Havard Haug won his first 3 0 Thursday title June 25, scoring 9.5/11 in the second event of the day. The other winners were more experienced champions. GM Dmitry Andreikin took his second 3 0 Thursday title of the month, defeati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-haug-martinez-3-0-thursday-06-25-2026",
-         "pubDate" : "Fri, 26 Jun 2026 13:54:01",
-         "title" : "15-Year-Old Haug Takes First 3 0 Thursday"
-      },
-      {
          "description" : " The world No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/three-americans-win-medals-2026-world-youth-chess-championship",
          "pubDate" : "Fri, 26 Jun 2026 00:00:00",
          "title" : "Three Americans Win Medals at 2026 World Youth Chess Championship"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) and the International School Chess Federation (ISCF) invite all FIDE member federations belonging to the American zone according to FIDE division and eligible players to participate in the American Stage of the World Schools Team Championship 2026. The competition will be held in San Jose, Costa Rica from August 11 (arrival) to 16 (departure), 2026. The venue is the DoubleTree by Hilton Hotel Cariari San Jose, located at San Antonio de Belen Ciudad Cariari, San Jose, Costa Rica. TOURNAMENT DETAILSEach event will be eight rounds, using a time control of Game/45 minutes with a 10-second increment. The full schedule for all rounds can be viewed: https:/",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/interest-application-open-fide-world-schools-team-chess-championships-2026-continental",
-         "pubDate" : "Fri, 26 Jun 2026 00:00:00",
-         "title" : "Interest Application Open for FIDE World Schools Team Chess Championships 2026 - Continental"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
@@ -536,14 +536,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-junior-chess-championships-2026/#new_tab",
          "pubDate" : "Wed, 17 Jun 2026 10:12:14",
          "title" : "World Junior Chess Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131768335.cms\" />India's 72nd Grandmaster Mitrabha Guha, who once appeared on Kaun Banega Crorepati and won Rs 4.8 lakh has secured India's final spot for the Esports Nations Cup 2026. The Kolkata player overcame years of financial struggles and family sacrifices to reach the top. Now pursuing an MBA, the Commonwealth classical chess champion is set to compete alongside stars like Magnus Carlsen and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-rs-4-8-lakh-at-kbc-to-commonwealth-gold-and-now-carrying-indias-hope-at-enc-mitrabha-guha-stays-on-the-hot-seat/articleshow/131768335.cms",
-         "pubDate" : "Tue, 16 Jun 2026 23:30:00",
-         "title" : "From Rs 4.8L at KBC to Commonwealth Gold and carrying India's hope at ENC: Guha on hot seat"
       }
    ]
 }
