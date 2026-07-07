@@ -50,14 +50,6 @@ news_feed (
          "title" : "Alireza Firouzja beats Nodirbek Abdusattorov in Armageddon to win Super Rapid & Blitz Croatia"
       },
       {
-         "description" : "Svitlana shows her final-round game from the Canadian Women's Championship, which she describes as one of the best games of her life. Facing WIM Yunan Li in a sharp Sicilian Taimanov, Svitlana surprises her opponent with the rare and aggressive 7.g4, launches a powerful kingside attack, and keeps finding precise tactical resources. The game reaches a spectacular climax with a rook sacrifice, a queen sacrifice and a clean attacking finish, helping Svitlana secure third place and likely qualification for the Canadian Olympiad team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-canadian-championship-2026",
-         "pubDate" : "Mon, 06 Jul 2026 07:57:43",
-         "title" : "Svitlana's Smart Moves - Canadian Championship 2026"
-      },
-      {
          "description" : "Jaime Santos won the 39th edition of the Le&oacute;n Masters after obtaining a convincing 3&frac12;-&frac12; victory over defending champion Le Quang Liem in the final match. The 30-year-old GM from Le&oacute;n, who had already won the event in 2023, reached the title match by beating Faustino Oro, while Le needed tiebreaks to overcome Kirill Alekseenko. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
