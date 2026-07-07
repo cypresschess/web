@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three full days! What if, out of those 72 hours, you play chess for 67 hours? Would you be able to survive? This was the question posed to all the players as the WR Chess World Record Marathon kicked off in Lima, Peru at the Sheraton Hotel. Some of the best grandmasters from South America participated in this amazing chess celebration that had US$100,000 at stake! We bring you the entire report from Lima.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-final-report",
+         "pubDate" : "Tue, 07 Jul 2026 20:00:00",
+         "title" : "Jorge Cori and Faustino Oro shine at 67-hour chess marathon in Peru"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/heartbreak-for-indian-chess-fans-as-vidit-gujrathi-falls-in-mumbai-benjamin-bok-seals-esports-world-cup-2026-berth/articleshow/132241620.cms",
          "pubDate" : "Tue, 07 Jul 2026 14:47:28",
          "title" : "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth"
-      },
-      {
-         "description" : "Indian Grandmaster Leon Luke Mendonca has never been shy about letting people into his world. Long a familiar face at the ChessBase studio, the 20-year-old from Goa has spent recent years building a genuine chess r&eacute;sum&eacute;, headlined by his surprise victory in the 2024 Tata Steel Challengers. Now the man who became India's 67th grandmaster back in January 2021 is channelling that same openness into his own YouTube channel, where he shares tournament battles, game analysis and glimpses of life on the professional circuit. His tagline says it all - \"Just here to play chess and have fun\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-on-youtube",
-         "pubDate" : "Tue, 07 Jul 2026 12:15:16",
-         "title" : "Leon Mendonca on YouTube"
       },
       {
          "description" : " My friend Jimmy Adams, who has died aged 79, was a writer on chess known for his witty personality and encyclopedic knowledge. Editor of Chess magazine from 1991 to 2010, in which role he brought every game and player to life with his enthusiastic, almost tabloid-like style, he was also a Fide master, the third highest ranking behind international master and grandmaster, a title he was awarded at the age of 67. Jimmy was born in Islington, north London, to James, a delivery driver, and Ivy (nee Soule), a shopkeeper, and attended Highbury county grammar school for boys. As a youngster he discovered the children's novel John and the Chess Men in his local library, and quickly graduated to bor",
@@ -26,20 +26,20 @@ news_feed (
          "title" : "Jimmy Adams obituary"
       },
       {
-         "description" : "The Naroditsky Memorial featured rapid and blitz tournaments in tribute to Daniel Naroditsky, whose association with fast chess made the format a fitting choice. Javokhir Sindarov won the rapid after a playoff against Aravindh Chithambaram, then took first place outright in the Blitz Final. The event also raised funds for the Daniel Naroditsky Memorial Fund and the Naroditsky Fellowship for young players. | Pictured: Javokhir Sindarov and Daniel Naroditsky's mother Lena Schuman | Photo: Charlotte Chess Center",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-final-report",
-         "pubDate" : "Tue, 07 Jul 2026 01:50:00",
-         "title" : "Naroditsky Memorial: Javokhir Sindarov wins it all in Charlotte"
+         "description" : "By taking the July 7 tournament outright on 9.5/11, GM Arjun Erigaisi has broken into the Titled Tuesday winners column in 2026, ahead of seven players who tied on nine points. GM Hikaru Nakamura took second place among that group just ahead of GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-wins-titled-tuesday-july-7-2026",
+         "pubDate" : "Tue, 07 Jul 2026 11:39:05",
+         "title" : "Arjun \"Arjuly\" Erigaisi Is Month's First Titled Tuesday Victor"
       },
       {
-         "description" : "Dear chess friends, from July 6-12 , you can get the entire Master Class Series for just €224.90 in our ChessBase Summer Special. Don't miss this opportunity to own all 20 volumes at an exceptional price. Already own part of the series? No problem! Missing one or more volumes? During this week only, you can also purchase individual Master Class titles with discounts of up to 33%.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special",
-         "pubDate" : "Mon, 06 Jul 2026 17:00:00",
-         "title" : "ChessBase Summer Special!"
+         "description" : "GM Benjamin Bok has qualified for the 2026 Esports World Cup&#38;nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bok-wins-2026-india-rising-final",
+         "pubDate" : "Tue, 07 Jul 2026 11:31:56",
+         "title" : "Bok Beats Vidit In Armageddon To Clinch EWC Spot"
       },
       {
          "description" : "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou...",
@@ -66,20 +66,12 @@ news_feed (
          "title" : "Mike Truran Steps Down from ECF Board"
       },
       {
-         "description" : "Alireza Firouzja won the Super Rapid & Blitz Croatia after a playoff against Nodirbek Abdusattorov in Zagreb. The French grandmaster began the final day with a three-point lead, lost it for a while during the second half of the blitz section, but then recovered to finish tied for first on 23&frac12; points. After two drawn tiebreak games, Firouzja held the Armageddon game with black to secure the title. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-croatia-2026-5",
-         "pubDate" : "Mon, 06 Jul 2026 08:30:00",
-         "title" : "Alireza Firouzja beats Nodirbek Abdusattorov in Armageddon to win Super Rapid & Blitz Croatia"
-      },
-      {
-         "description" : "Jaime Santos won the 39th edition of the Le&oacute;n Masters after obtaining a convincing 3&frac12;-&frac12; victory over defending champion Le Quang Liem in the final match. The 30-year-old GM from Le&oacute;n, who had already won the event in 2023, reached the title match by beating Faustino Oro, while Le needed tiebreaks to overcome Kirill Alekseenko. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-leon-2026-final-report",
-         "pubDate" : "Sun, 05 Jul 2026 23:55:00",
-         "title" : "Jaime Santos beats Le Quang Liem to claim second Le&oacute;n Masters title"
+         "description" : "2026-2027 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Projects must be organized by educational non-profits (501c3), public schools, and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2026 through July 31, 2027. The deadline to be considered for the first round of applications is 5 p.m. CDT on August 15, 2026. US Chess reserves ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-2027-women-and-girls-programming-grant-cycle-officially-open",
+         "pubDate" : "Mon, 06 Jul 2026 00:00:00",
+         "title" : "2026-2027 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : " The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju. Alrizeza Firouzja won an Armageddon Tie-break against Nodirbek Abdusattorov after they tied the combined standings and a two game rapid tie-break match.",
@@ -442,22 +434,6 @@ news_feed (
          "title" : "15-Year-Old Haug Takes First 3 0 Thursday"
       },
       {
-         "description" : "GM Pranesh M began 9/9 and finished 10.5/11 in Freestyle Friday on June 26, his first victory of the year and fourth overall, as the first half of the Freestyle Friday Championship (FFC) came to its conclusion. FFC leader GM Pranav Venkatesh finis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-wins-freestyle-friday-june-26-2026",
-         "pubDate" : "Fri, 26 Jun 2026 13:15:58",
-         "title" : "Pranesh Nearly Perfect To End 1st Half Of Freestyle Friday Championship"
-      },
-      {
-         "description" : "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/buettner-rosenstein-announce-campaigns-for-fide-presidency",
-         "pubDate" : "Fri, 26 Jun 2026 12:18:00",
-         "title" : "Buettner, Rosenstein Launch Campaigns For FIDE Presidency"
-      },
-      {
          "description" : " The world No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -488,14 +464,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/interest-application-open-fide-world-schools-team-chess-championships-2026-continental",
          "pubDate" : "Fri, 26 Jun 2026 00:00:00",
          "title" : "Interest Application Open for FIDE World Schools Team Chess Championships 2026 - Continental"
-      },
-      {
-         "description" : "The Interest Survey is open for chessplayers interested in representing USA for the 3rd FIDE Chess Olympiad for People with Disabilities. The international event, organized by FIDE, and hosted by the Uzbekistan Chess Federation, will take place September 10-18, in Samarkand, Uzbekistan.US Chess will be accepting registrations of interest for eligible U.S. participants until Friday, July 3rd, at 5 p.m. CDT.TOURNAMENT DETAILS AND ELIGIBILITYEach event will be a 6-round Swiss system tournament, using a time control of 90 minutes for the first 40 moves plus 30 minutes, plus an addition of 30 seconds per move starting from move one.The full schedule for all rounds can be viewed within the regulat",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/interest-survey-open-3rd-fide-chess-olympiad-people-disabilities",
-         "pubDate" : "Thu, 25 Jun 2026 00:00:00",
-         "title" : "Interest Survey Open for 3rd FIDE Chess Olympiad for People with Disabilities"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
