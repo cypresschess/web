@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Naroditsky Memorial featured rapid and blitz tournaments in tribute to Daniel Naroditsky, whose association with fast chess made the format a fitting choice. Javokhir Sindarov won the rapid after a playoff against Aravindh Chithambaram, then took first place outright in the Blitz Final. The event also raised funds for the Daniel Naroditsky Memorial Fund and the Naroditsky Fellowship for young players. | Pictured: Javokhir Sindarov and Daniel Naroditsky's mother Lena Schuman | Photo: Charlotte Chess Center",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-memorial-2026-final-report",
+         "pubDate" : "Tue, 07 Jul 2026 01:50:00",
+         "title" : "Naroditsky Memorial: Javokhir Sindarov wins it all in Charlotte"
+      },
+      {
          "description" : "Dear chess friends, from July 6-12 , you can get the entire Master Class Series for just €224.90 in our ChessBase Summer Special. Don't miss this opportunity to own all 20 volumes at an exceptional price. Already own part of the series? No problem! Missing one or more volumes? During this week only, you can also purchase individual Master Class titles with discounts of up to 33%.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
