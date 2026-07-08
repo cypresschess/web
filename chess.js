@@ -18,6 +18,14 @@ news_feed (
          "title" : "The football-chess connection in Norway"
       },
       {
+         "description" : "GM Kateryna Lagno and IM Alice Lee advance to the Quarterfinals of the&#38;nbsp;2026 Women&#39;s Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno&#39;s victory was never in doubt as she scored 10.5-3.5 on the way to elimina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-lagno-ambartsumova-kosteniuk-lee",
+         "pubDate" : "Wed, 08 Jul 2026 15:31:49",
+         "title" : "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132263956.cms\" />The Chennai Grand Masters 2026 will be held from July 16-22 in Chennai, featuring World Champion Gukesh Dommaraju, Arjun Erigaisi, Hans Niemann and other top grandmasters. The eight-player single round-robin tournament offers a Rs 75 lakh prize pool and crucial FIDE Circuit points. Organisers have confirmed there will be no Challengers section this year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-counties-champions/",
          "pubDate" : "Wed, 08 Jul 2026 08:57:11",
          "title" : "2026 Counties Champions"
+      },
+      {
+         "description" : "My Journey to ItalyI spent years dreaming about having the opportunity to play chess on a global stage. I imagined what it would feel like to see the American flag next to my board as I played against world-class chess players, gaining so much knowledge about chess. I pictured hearing dozens of languages being spoken in a single room as I traded contact information with players from countries I had only heard of from playing Sporcle's Countries of the World Quiz.This June, that dream became a reality when I represented the United States at my first ever World Youth Chess Championship (WYCC) in Italy. I've seen just how far chess can take you: looking across the board becomes looking across t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/what-i-learned-world-youth-chess-championship",
+         "pubDate" : "Wed, 08 Jul 2026 00:00:00",
+         "title" : "What I Learned At The World Youth Chess Championship"
       },
       {
          "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -394,14 +410,6 @@ news_feed (
          "title" : "8 Americans Boast Top Ten Finishes in 2026 FIDE World Cadet Cup"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Friday, July 3 in celebration of Independence Day, and will reopen for normal business operations on Monday, July 6.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Thursday, July 2, to ensure they will be approved before the office closure. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-friday-july-3",
-         "pubDate" : "Mon, 29 Jun 2026 00:00:00",
-         "title" : "US Chess Offices Closed Friday, July 3"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132049956.cms\" />Kolkata's Sarbartho Mani produced a strong comeback to win silver in the Under-10 Open category at the FIDE World Cadet Cup in Georgia. The 10-year-old finished with 8.5 points, just half a point behind champion Rizat Ulan of Kazakhstan. After slipping to eighth place following his only defeat, Mani won his final two games to secure a podium finish and qualify for the World Cadet Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-season-4-draft-magnus-carlsen-returns-divya-deshmukh-set-for-debut-all-you-need-to-know/articleshow/132033066.cms",
          "pubDate" : "Sat, 27 Jun 2026 11:10:37",
          "title" : "GCL Season 4 Draft: Carlsen returns, Divya set for debut - all you need to know"
-      },
-      {
-         "description" : "GM Alireza Firouzja is through to the Grand Final of the 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remain. GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-bullet-chess-championship-day-3",
-         "pubDate" : "Fri, 26 Jun 2026 15:31:00",
-         "title" : "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final"
       },
       {
          "description" : " The world No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two",
