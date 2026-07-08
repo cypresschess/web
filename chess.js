@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 105th Counties Championship Finals took place on Saturday 4 July, with live streaming of the Open Final by Luc Zimmer with commentary from FM Jonathan Blackburn on the ECF...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-counties-champions/",
+         "pubDate" : "Wed, 08 Jul 2026 08:57:11",
+         "title" : "2026 Counties Champions"
+      },
+      {
          "description" : "FIDE has decided that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to friends and fans as Danya, who passed away in October 2025 - a loss still felt deeply across the chess community. FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
          "pubDate" : "Fri, 03 Jul 2026 12:06:07",
          "title" : "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo"
-      },
-      {
-         "description" : "&#160; The 105th Counties Championship Finals take place on Saturday 4 July, 1:30pm Live streaming of the Open Final with commentary from FM Jonathan Blackburn on the ECF YouTube Channel....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-105th-counties-championship-finals/",
-         "pubDate" : "Fri, 03 Jul 2026 09:43:26",
-         "title" : "The 105th Counties Championship Finals"
       },
       {
          "description" : "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr...",
@@ -536,14 +536,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-cadets-cup-2026-reports-by-tim-wall/#new_tab",
          "pubDate" : "Thu, 18 Jun 2026 08:44:37",
          "title" : "World Cadets Cup 2026"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-junior-chess-championships-2026/#new_tab",
-         "pubDate" : "Wed, 17 Jun 2026 10:12:14",
-         "title" : "World Junior Chess Championships"
       }
    ]
 }
