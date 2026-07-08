@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
+         "pubDate" : "Wed, 8 Jul 2026 19:38:00",
+         "title" : "KazChess Masters 2026 - Games and Results"
+      },
+      {
+         "description" : "Norwegian football is currently enjoying something of a high. Last Sunday, the Norwegian team knocked Brazil out of the World Cup, and they did it in style. In Norway, football and chess go well together - and not only because of Magnus Carlsen. Edith and Monika Machlik are also among the country's dual-sport stars! | Photos: tromsosjakk.no / Lars Elevold and Anniken Vestby",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-football-chess",
+         "pubDate" : "Wed, 08 Jul 2026 18:45:00",
+         "title" : "The football-chess connection in Norway"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132263956.cms\" />The Chennai Grand Masters 2026 will be held from July 16-22 in Chennai, featuring World Champion Gukesh Dommaraju, Arjun Erigaisi, Hans Niemann and other top grandmasters. The eight-player single round-robin tournament offers a Rs 75 lakh prize pool and crucial FIDE Circuit points. Organisers have confirmed there will be no Challengers section this year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2026-full-player-list-from-d-gukesh-to-hans-niemann-format-prize-money-and-key-details/articleshow/132263956.cms",
          "pubDate" : "Wed, 08 Jul 2026 14:28:02",
          "title" : "Chennai GM Open: Full player list from Gukesh to Niemann, format, prize money, and key details"
-      },
-      {
-         "description" : "The African Continental Stage of the FIDE ISCF World Schools Team Championship began in Stellenbosch, South Africa, with 26 school teams from 22 countries competing for places in the Grand Final. The opening day featured two rounds, an unconventional ceremony centred on messages from young players and outreach activities at Paul Roos Gymnasium. The event, held during the Year of Chess in Education, continues until 10 July. | Photo: ISCF",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-start",
-         "pubDate" : "Wed, 08 Jul 2026 13:30:00",
-         "title" : "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins"
       },
       {
          "description" : "The 105th Counties Championship Finals took place on Saturday 4 July, with live streaming of the Open Final by Luc Zimmer with commentary from FM Jonathan Blackburn on the ECF...",
@@ -26,20 +34,12 @@ news_feed (
          "title" : "2026 Counties Champions"
       },
       {
-         "description" : "FIDE has decided that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to friends and fans as Danya, who passed away in October 2025 - a loss still felt deeply across the chess community. FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/naroditsky-best-creator-award",
-         "pubDate" : "Wed, 08 Jul 2026 07:30:00",
-         "title" : "Naroditsky Best Creator Award"
-      },
-      {
-         "description" : "Three full days! What if, out of those 72 hours, you play chess for 67 hours? Would you be able to survive? This was the question posed to all the players as the WR Chess World Record Marathon kicked off in Lima, Peru at the Sheraton Hotel. Some of the best grandmasters from South America participated in this amazing chess celebration that had US$100,000 at stake! We bring you the entire report from Lima.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-record-chess-marathon-lima-final-report",
-         "pubDate" : "Tue, 07 Jul 2026 20:00:00",
-         "title" : "Jorge Cori and Faustino Oro shine at 67-hour chess marathon in Peru"
+         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival-pt-3",
+         "pubDate" : "Wed, 08 Jul 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival, Pt. 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
@@ -480,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
          "pubDate" : "Fri, 26 Jun 2026 04:30:02",
          "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
-      },
-      {
-         "description" : "Editor's note: This article was updated on June 29 with photos from the awards ceremony, more photos from WGM Katerina Nemcova, and information about Beautiful Game prize winners. FIDE provided excellent photographic coverage for this event. Still, accompanying persons are welcome to email me additional photos at Click here to show email address. Three Americans secured podium finishes across the six sections of the World Youth Chess Championship 2026, held through June 15 through 26 in Montesilvano, Italy. The 11-round classical tournament consisted of six sections: Open and Women's section for each age group of Under-14, Under-16, and Under-18. <br> <br> <br> <br> <br> Image<br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-americans-win-medals-2026-world-youth-chess-championship",
-         "pubDate" : "Fri, 26 Jun 2026 00:00:00",
-         "title" : "Three Americans Win Medals at 2026 World Youth Chess Championship"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
