@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has decided that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to friends and fans as Danya, who passed away in October 2025 - a loss still felt deeply across the chess community. FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/naroditsky-best-creator-award",
+         "pubDate" : "Wed, 08 Jul 2026 07:30:00",
+         "title" : "Naroditsky Best Creator Award"
+      },
+      {
          "description" : "Three full days! What if, out of those 72 hours, you play chess for 67 hours? Would you be able to survive? This was the question posed to all the players as the WR Chess World Record Marathon kicked off in Lima, Peru at the Sheraton Hotel. Some of the best grandmasters from South America participated in this amazing chess celebration that had US$100,000 at stake! We bring you the entire report from Lima.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,7 +194,7 @@ news_feed (
          "title" : "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo"
       },
       {
-         "description" : "&#160; The 105th Counties Championship Finals take place on Saturday 4 July, 1:30pm &#160; Live streaming of the Open Final with commentary from FM Jonathan Blackburn on the ECF YouTube...",
+         "description" : "&#160; The 105th Counties Championship Finals take place on Saturday 4 July, 1:30pm Live streaming of the Open Final with commentary from FM Jonathan Blackburn on the ECF YouTube Channel....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-105th-counties-championship-finals/",
