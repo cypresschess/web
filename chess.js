@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132263956.cms\" />The Chennai Grand Masters 2026 will be held from July 16-22 in Chennai, featuring World Champion Gukesh Dommaraju, Arjun Erigaisi, Hans Niemann and other top grandmasters. The eight-player single round-robin tournament offers a Rs 75 lakh prize pool and crucial FIDE Circuit points. Organisers have confirmed there will be no Challengers section this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2026-full-player-list-from-d-gukesh-to-hans-niemann-format-prize-money-and-key-details/articleshow/132263956.cms",
+         "pubDate" : "Wed, 08 Jul 2026 14:28:02",
+         "title" : "Chennai GM Open: Full player list from Gukesh to Niemann, format, prize money, and key details"
+      },
+      {
+         "description" : "The African Continental Stage of the FIDE ISCF World Schools Team Championship began in Stellenbosch, South Africa, with 26 school teams from 22 countries competing for places in the Grand Final. The opening day featured two rounds, an unconventional ceremony centred on messages from young players and outreach activities at Paul Roos Gymnasium. The event, held during the Year of Chess in Education, continues until 10 July. | Photo: ISCF",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-start",
+         "pubDate" : "Wed, 08 Jul 2026 13:30:00",
+         "title" : "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins"
+      },
+      {
          "description" : "The 105th Counties Championship Finals took place on Saturday 4 July, with live streaming of the Open Final by Luc Zimmer with commentary from FM Jonathan Blackburn on the ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
