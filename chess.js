@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jonathan Levitt is an English chess grandmaster, author, teacher, and composer of endgame studies. As a player, he competed successfully in tournaments, but health challenges led him to retire from regular over-the-board play in his forties. In recent years, he has pursued creative endeavors, including songwriting with chess themes dedicated to figures like Bobby Fischer and Garry Kasparov. Jon sent us the following thoughtful article on music and AI, with examples of his own endeavors.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-music-and-ai",
+         "pubDate" : "Thu, 09 Jul 2026 10:00:00",
+         "title" : "Chess, Music and AI"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132277625.cms\" />India's 98th Grandmaster, Aswath S, achieved the coveted title after securing his final GM norm at the Pune International GM Round Robin 2026. The Tamil Nadu teenager overcame a four-month break for his Class 10 board exams, drawing inspiration from his family of chess coaches and mentors, and now has his sights set on breaking into the world's elite.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
          "pubDate" : "Thu, 09 Jul 2026 05:04:10",
-         "title" : "India gets its 98th GM! Parents chess coaches, 10th board exam forced a break: The making of Aswath S"
+         "title" : "Exclusive: India gets its 98th GM! The making of teenage chess sensation Aswath S"
       },
       {
          "description" : "The 59th edition of the Biel International Chess Festival begins on the weekend of 11 July. Participating are chess greats such as Levon Aronian, Yagiz Kaan Erdogmus and Matthias Bluebaum in the Masters Triathlon, as well as Vaishali Rameshbabu and Alexandra Kosteniuk in the Generations Challenger. In both invitational events, games will be played in a triathlon system featuring blitz, rapid and classical games. | Photo: Nils Rohde / ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-suffers-another-indian-setback-as-arjun-erigaisi-stuns-world-no-1/articleshow/131834771.cms",
          "pubDate" : "Thu, 18 Jun 2026 15:16:18",
          "title" : "Magnus Carlsen suffers another Indian setback as Arjun Erigaisi stuns world No. 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-cadets-cup-2026-reports-by-tim-wall/#new_tab",
-         "pubDate" : "Thu, 18 Jun 2026 08:44:37",
-         "title" : "World Cadets Cup 2026"
       }
    ]
 }
