@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jon Speelman examines how computer-assisted analysis can sharpen the study of complex positions, using examples from Svidler-Lobron at the 1996 Yerevan Olympiad and recent Grand Chess Tour games in Zagreb. The article explores hidden defensive resources, zugzwang motifs and tablebase findings, while also posing several calculation challenges for readers. | Image: Centaur mosaic found in the 18th century on the site of the luxurious villa complex near Tivoli that once belonged to the Roman emperor Hadrian",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-241",
+         "pubDate" : "Thu, 09 Jul 2026 18:15:00",
+         "title" : "Jon Speelman: Two legs good, four legs better!"
+      },
+      {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
