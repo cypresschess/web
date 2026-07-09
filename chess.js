@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2026-uk-open-blitz/",
+         "pubDate" : "Thu, 09 Jul 2026 14:45:00",
+         "title" : "2026 UK Open Blitz"
+      },
+      {
          "description" : "Jonathan Levitt is an English chess grandmaster, author, teacher, and composer of endgame studies. As a player, he competed successfully in tournaments, but health challenges led him to retire from regular over-the-board play in his forties. In recent years, he has pursued creative endeavors, including songwriting with chess themes dedicated to figures like Bobby Fischer and Garry Kasparov. Jon sent us the following thoughtful article on music and AI, with examples of his own endeavors.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-preview",
          "pubDate" : "Thu, 09 Jul 2026 02:35:00",
          "title" : "Biel Chess Festival: Aronian, Erdogmus and Bluebaum among Masters Triathlon stars"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> 99 years ago, 16 nations sent their top players to London to determine the best chess country in the world, and the Chess Olympiad was born. The U.S. dominated the early competitions, winning the gold medals in gold in four separate Olympiads in the 1930s thanks to the likes of future GMs Isaac Kashdan, Frank Marshall, Reuben Fine, and, eventually, a young Samuel Reshevsky. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The 1937 U.S. team in Stockholm. From left: Samuel Reshevsky, Al Horowitz, Fritz Brieger (Sponsor), Frank Marshall, Reuben Fine, and Isaac Kashdan. (Photographer unk",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/evolution-olympiad",
+         "pubDate" : "Thu, 09 Jul 2026 00:00:00",
+         "title" : "Evolution of the Olympiad"
       },
       {
          "description" : " The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind. ",
@@ -426,14 +442,6 @@ news_feed (
          "title" : "The making of India's 97th Chess Grandmaster Harshavardhan GB: A 'legend' among friends, now his parents' pride"
       },
       {
-         "description" : "The 2026 FIDE World Cadet Cup was held June 15 through 28 in Batumi, Georgia. 662 players competed across the six sections (Under-12, Under-10, and Under-8 Open and Girls).The USA delegation consisted of 23 chessplayers and was led by Head of Delegation IM Armen Ambartsoumian. Eight of these 23 players finished in the top 10 of their respective section. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Tianyu Li<br> <br> <br> <br> While no Americans medaled, Kai Zhou Lan (Under-10 Open) tied for second, finishing fifth on tiebreaks, while Varun Karthik Turaga (Under-8 Open) tied for third, finishing fourth on tiebreaks. Under-12 OpenIn the",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/8-americans-boast-top-ten-finishes-2026-fide-world-cadet-cup",
-         "pubDate" : "Mon, 29 Jun 2026 00:00:00",
-         "title" : "8 Americans Boast Top Ten Finishes in 2026 FIDE World Cadet Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132049956.cms\" />Kolkata's Sarbartho Mani produced a strong comeback to win silver in the Under-10 Open category at the FIDE World Cadet Cup in Georgia. The 10-year-old finished with 8.5 points, just half a point behind champion Rizat Ulan of Kazakhstan. After slipping to eighth place following his only defeat, Mani won his final two games to secure a podium finish and qualify for the World Cadet Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jun/19/world-rapid-and-blitz-championships-in-hong-kong-highlights-chess-boom-in-asia",
          "pubDate" : "Fri, 19 Jun 2026 07:00:25",
          "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131834771.cms\" />Indian Grandmaster Arjun Erigaisi stunned World Champion Magnus Carlsen at the FIDE World Rapid and Blitz Team Championships. Erigaisi capitalized on a late blunder by Carlsen to secure a crucial victory for Team MGD1. This win highlights the rising prowess of India's young chess talents, with Arjun joining the ranks of players challenging the world's best.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-suffers-another-indian-setback-as-arjun-erigaisi-stuns-world-no-1/articleshow/131834771.cms",
-         "pubDate" : "Thu, 18 Jun 2026 15:16:18",
-         "title" : "Magnus Carlsen suffers another Indian setback as Arjun Erigaisi stuns world No. 1"
       }
    ]
 }
