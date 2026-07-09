@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132277625.cms\" />India's 98th Grandmaster, Aswath S, achieved the coveted title after securing his final GM norm at the Pune International GM Round Robin 2026. The Tamil Nadu teenager overcame a four-month break for his Class 10 board exams, drawing inspiration from his family of chess coaches and mentors, and now has his sights set on breaking into the world's elite.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
+         "pubDate" : "Thu, 09 Jul 2026 05:04:10",
+         "title" : "India gets its 98th GM! Parents chess coaches, 10th board exam forced a break: The making of Aswath S"
+      },
+      {
          "description" : "The 59th edition of the Biel International Chess Festival begins on the weekend of 11 July. Participating are chess greats such as Levon Aronian, Yagiz Kaan Erdogmus and Matthias Bluebaum in the Masters Triathlon, as well as Vaishali Rameshbabu and Alexandra Kosteniuk in the Generations Challenger. In both invitational events, games will be played in a triathlon system featuring blitz, rapid and classical games. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
