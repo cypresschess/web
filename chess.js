@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 59th edition of the Biel International Chess Festival begins on the weekend of 11 July. Participating are chess greats such as Levon Aronian, Yagiz Kaan Erdogmus and Matthias Bluebaum in the Masters Triathlon, as well as Vaishali Rameshbabu and Alexandra Kosteniuk in the Generations Challenger. In both invitational events, games will be played in a triathlon system featuring blitz, rapid and classical games. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-preview",
+         "pubDate" : "Thu, 09 Jul 2026 02:35:00",
+         "title" : "Biel Chess Festival: Aronian, Erdogmus and Bluebaum among Masters Triathlon stars"
+      },
+      {
          "description" : " The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
