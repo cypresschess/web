@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2026-crowned/",
+         "pubDate" : "Fri, 10 Jul 2026 10:45:21",
+         "title" : "European Youth Rapid and Blitz Chess Champions 2026 crowned"
+      },
+      {
+         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-returns-12th-july/",
+         "pubDate" : "Fri, 10 Jul 2026 08:00:21",
+         "title" : "ChessFest 2026 in Trafalgar Square - this weekend!"
+      },
+      {
          "description" : "Alexey Sarana won the KazChess Masters in Almaty after finishing level with Alexander Donchenko on 6/9 points and taking first place on tiebreaks. The ten-player round-robin, held from 30 June to 8 July, paired five established international grandmasters with five rising Kazakhstani players. Igor Kovalenko finished third on 5&frac12;/9, while Denis Makhnev achieved the best score among the local representatives with 5/9. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
          "pubDate" : "Wed, 24 Jun 2026 14:52:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-returns-12th-july/",
-         "pubDate" : "Wed, 24 Jun 2026 09:08:21",
-         "title" : "ChessFest returns - 12th July"
       },
       {
          "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
