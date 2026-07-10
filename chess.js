@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds at the African Continental Stage of the FIDE ISCF World Schools Team Championship in Stellenbosch, Uganda's Sr. Miriam Duggan Primary School and Kenya's Moi Nyeri Complex Primary School share the lead on 10 match points. Five teams remain two points behind before the final day. The third day also featured spotlights on Uganda's Ronald Wabwire and Zimbabwe's all-girls team, alongside educational workshops and activity sessions. | Photo: ISCF",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-r3",
+         "pubDate" : "Fri, 10 Jul 2026 02:00:00",
+         "title" : "Stellenbosch: Race tightens as day three tests leaders"
+      },
+      {
          "description" : "Jon Speelman examines how computer-assisted analysis can sharpen the study of complex positions, using examples from Svidler-Lobron at the 1996 Yerevan Olympiad and recent Grand Chess Tour games in Zagreb. The article explores hidden defensive resources, zugzwang motifs and tablebase findings, while also posing several calculation challenges for readers. | Image: Centaur mosaic found in the 18th century on the site of the luxurious villa complex near Tivoli that once belonged to the Roman emperor Hadrian",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
