@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexey Sarana won the KazChess Masters in Almaty after finishing level with Alexander Donchenko on 6/9 points and taking first place on tiebreaks. The ten-player round-robin, held from 30 June to 8 July, paired five established international grandmasters with five rising Kazakhstani players. Igor Kovalenko finished third on 5&frac12;/9, while Denis Makhnev achieved the best score among the local representatives with 5/9. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9",
+         "pubDate" : "Fri, 10 Jul 2026 08:00:00",
+         "title" : "Sarana wins KazChess Masters in Almaty, Donchenko and Kovalenko complete podium"
+      },
+      {
+         "description" : " The Frenchman is ranked world No 12, but that is a disappointment after he became the youngest ever 2800-rated player at 18 years and five months Alireza Firouzja is shaping up to be one of the nearly men of grandmaster chess. The Iran-born Frenchman, 23, has just won the St Louis-organised Croatia Super Rapid and Blitz in Zagreb. He was far ahead at the start of the last day, but had a poor run of 2/7 during the final rounds before a successful Armageddon tie-break. Firouzja's career has been limited by his below-par performances in the Candidates. In 2022, he spoiled his chances by playing blitz into the small hours; in 2024, he did worse still, finishing seventh out of eight. He made a m",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
+         "pubDate" : "Fri, 10 Jul 2026 07:00:13",
+         "title" : "Chess: Firouzja wins in Zagreb as Carlsen passes 15-year milestone at the top"
+      },
+      {
          "description" : "After six rounds at the African Continental Stage of the FIDE ISCF World Schools Team Championship in Stellenbosch, Uganda's Sr. Miriam Duggan Primary School and Kenya's Moi Nyeri Complex Primary School share the lead on 10 match points. Five teams remain two points behind before the final day. The third day also featured spotlights on Uganda's Ronald Wabwire and Zimbabwe's all-girls team, alongside educational workshops and activity sessions. | Photo: ISCF",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-r3",
          "pubDate" : "Fri, 10 Jul 2026 02:00:00",
          "title" : "Stellenbosch: Race tightens as day three tests leaders"
-      },
-      {
-         "description" : "Jon Speelman examines how computer-assisted analysis can sharpen the study of complex positions, using examples from Svidler-Lobron at the 1996 Yerevan Olympiad and recent Grand Chess Tour games in Zagreb. The article explores hidden defensive resources, zugzwang motifs and tablebase findings, while also posing several calculation challenges for readers. | Image: Centaur mosaic found in the 18th century on the site of the luxurious villa complex near Tivoli that once belonged to the Roman emperor Hadrian",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-241",
-         "pubDate" : "Thu, 09 Jul 2026 18:15:00",
-         "title" : "Jon Speelman: Two legs good, four legs better!"
       },
       {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
@@ -26,28 +34,12 @@ news_feed (
          "title" : "2026 UK Open Blitz"
       },
       {
-         "description" : "Jonathan Levitt is an English chess grandmaster, author, teacher, and composer of endgame studies. As a player, he competed successfully in tournaments, but health challenges led him to retire from regular over-the-board play in his forties. In recent years, he has pursued creative endeavors, including songwriting with chess themes dedicated to figures like Bobby Fischer and Garry Kasparov. Jon sent us the following thoughtful article on music and AI, with examples of his own endeavors.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-music-and-ai",
-         "pubDate" : "Thu, 09 Jul 2026 10:00:00",
-         "title" : "Chess, Music and AI"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132277625.cms\" />India's 98th Grandmaster, Aswath S, achieved the coveted title after securing his final GM norm at the Pune International GM Round Robin 2026. The Tamil Nadu teenager overcame a four-month break for his Class 10 board exams, drawing inspiration from his family of chess coaches and mentors, and now has his sights set on breaking into the world's elite.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
          "pubDate" : "Thu, 09 Jul 2026 05:04:10",
          "title" : "Exclusive: India gets its 98th GM! The making of teenage chess sensation Aswath S"
-      },
-      {
-         "description" : "The 59th edition of the Biel International Chess Festival begins on the weekend of 11 July. Participating are chess greats such as Levon Aronian, Yagiz Kaan Erdogmus and Matthias Bluebaum in the Masters Triathlon, as well as Vaishali Rameshbabu and Alexandra Kosteniuk in the Generations Challenger. In both invitational events, games will be played in a triathlon system featuring blitz, rapid and classical games. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-preview",
-         "pubDate" : "Thu, 09 Jul 2026 02:35:00",
-         "title" : "Biel Chess Festival: Aronian, Erdogmus and Bluebaum among Masters Triathlon stars"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> 99 years ago, 16 nations sent their top players to London to determine the best chess country in the world, and the Chess Olympiad was born. The U.S. dominated the early competitions, winning the gold medals in gold in four separate Olympiads in the 1930s thanks to the likes of future GMs Isaac Kashdan, Frank Marshall, Reuben Fine, and, eventually, a young Samuel Reshevsky. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The 1937 U.S. team in Stockholm. From left: Samuel Reshevsky, Al Horowitz, Fritz Brieger (Sponsor), Frank Marshall, Reuben Fine, and Isaac Kashdan. (Photographer unk",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
          "pubDate" : "Wed, 8 Jul 2026 19:38:00",
          "title" : "KazChess Masters 2026 - Games and Results"
-      },
-      {
-         "description" : "Norwegian football is currently enjoying something of a high. Last Sunday, the Norwegian team knocked Brazil out of the World Cup, and they did it in style. In Norway, football and chess go well together - and not only because of Magnus Carlsen. Edith and Monika Machlik are also among the country's dual-sport stars! | Photos: tromsosjakk.no / Lars Elevold and Anniken Vestby",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-football-chess",
-         "pubDate" : "Wed, 08 Jul 2026 18:45:00",
-         "title" : "The football-chess connection in Norway"
       },
       {
          "description" : "GM Kateryna Lagno and IM Alice Lee advance to the Quarterfinals of the&#38;nbsp;2026 Women&#39;s Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno&#39;s victory was never in doubt as she scored 10.5-3.5 on the way to elimina...",
@@ -568,14 +552,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/perfect-illusion/",
          "pubDate" : "Sat, 20 Jun 2026 13:00:00",
          "title" : "The Most Exciting Way to Quit"
-      },
-      {
-         "description" : " The â‚¬500,000 tournament has attracted several strong national teams, plus the favourites, WR Chess, led by the world No 1, Magnus Carlsen Dragon Chilling may be an ­unfamiliar chess name, but the squad from China won the gold medals at the World Teams Rapid in Hong Kong. Teams of six include a woman, a ­junior and an amateur who has never achieved a 2000 ­rating. The strong <sup> ­</sup>performance by Asian teams at the start highlights a boom in chess, with enthusiasm sparked by successive world ­champions from China (Ding Liren) and India (Gukesh Dommaraju). The time control for rapid is 15 minutes for the whole game, plus a 10 seconds per move increment from move one; while for blitz i",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jun/19/world-rapid-and-blitz-championships-in-hong-kong-highlights-chess-boom-in-asia",
-         "pubDate" : "Fri, 19 Jun 2026 07:00:25",
-         "title" : "World rapid and blitz championships in Hong Kong highlights chess boom in Asia"
       }
    ]
 }
