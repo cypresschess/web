@@ -18,6 +18,22 @@ news_feed (
          "title" : "CBM 231: Sindarov and Vaishali steal the show"
       },
       {
+         "description" : "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-ohanyan-murzin-3-0-thursday-07-10-2026",
+         "pubDate" : "Fri, 10 Jul 2026 13:45:45",
+         "title" : "Arjun Completes Big Week With 3 0 Thursday Victory"
+      },
+      {
+         "description" : "The favorites, GMs Divya Deshmukh and Bibisara Assaubayeva, advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship on Friday. Between the two of them, the winners lost only a single game. Divya defeated IM Rose Atwell with an u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-divya-atwell-assaubayeva-khamdamova",
+         "pubDate" : "Fri, 10 Jul 2026 13:31:01",
+         "title" : "Divya Wins 14-1 Vs. Atwell, Assaubayeva 10.5-3.5 Vs. Khamdamova"
+      },
+      {
          "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "KazChess Masters 2026 - Games and Results"
       },
       {
-         "description" : "GM Kateryna Lagno and IM Alice Lee advance to the Quarterfinals of the&#38;nbsp;2026 Women&#39;s Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno&#39;s victory was never in doubt as she scored 10.5-3.5 on the way to elimina...",
+         "description" : "GM Kateryna Lagno and IM Alice Lee advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno&#39;s victory was never in doubt as she scored 10.5-3.5 on the way to eliminating...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-wscc-ro16-lagno-ambartsumova-kosteniuk-lee",
@@ -496,22 +512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
          "pubDate" : "Sun, 28 Jun 2026 01:16:45",
          "title" : "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story"
-      },
-      {
-         "description" : "GM Hikaru Nakamura bounced back from last week&#39;s rare defeat in emphatic fashion on Saturday, storming to victory in the latest edition of Bullet Brawl with 178 points. Nakamura finished 15 points clear of GM Oleksandr Bortnyk and with this win ca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-27-2026",
-         "pubDate" : "Sat, 27 Jun 2026 17:11:00",
-         "title" : "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory"
-      },
-      {
-         "description" : "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-wins-2026-bullet-chess-championship",
-         "pubDate" : "Sat, 27 Jun 2026 14:11:00",
-         "title" : "Nihal Dethrones Firouzja With 15-Game Winning Streak"
       },
       {
          "description" : "Some students misunderstand what I mean by saying: \"Play with good focus.\" In their minds, this means quickly getting into a state of flow, consistently. But that's not possible. And worse, this wrong expectation is what makes good focus so much harder. Forcing Yourself To Fall Asleep I'm sure you know the feeling of lying []",
