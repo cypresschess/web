@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 231. 2836 games, mainly from the Candidates Tournament and European Individual Championship. 27 annotated, 11 opening surveys, 3 opening videos, demo. lectures and several exercises for training. Annotators include Anish Giri, Wei Yi, Wesley So, Karsten Mueller and Vaishali Rameshbabu (pictured) among others. The icing on the cake is the Special feature on Magnus Carlsen offering 20 annotated games. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-231-review-nagesh-havanur",
+         "pubDate" : "Fri, 10 Jul 2026 14:00:00",
+         "title" : "CBM 231: Sindarov and Vaishali steal the show"
+      },
+      {
          "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
