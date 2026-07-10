@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In July 1976, Viktor Korchnoi, then the second-best player in the world, used his participation in the IBM tournament in Amsterdam to defect from the USSR. A cat-and-mouse game worthy of a spy thriller began. The Soviet authorities responded with offensive statements and an almost total boycott - almost. | Photo: Viktor Korchnoi in 1976 / Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/korchnoi-defection-fifty-years",
+         "pubDate" : "Fri, 10 Jul 2026 19:00:00",
+         "title" : "Fifty years ago: Korchnoi's defection to the west"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 231. 2836 games, mainly from the Candidates Tournament and European Individual Championship. 27 annotated, 11 opening surveys, 3 opening videos, demo. lectures and several exercises for training. Annotators include Anish Giri, Wei Yi, Wesley So, Karsten Mueller and Vaishali Rameshbabu (pictured) among others. The icing on the cake is the Special feature on Magnus Carlsen offering 20 annotated games. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-r3",
          "pubDate" : "Fri, 10 Jul 2026 02:00:00",
          "title" : "Stellenbosch: Race tightens as day three tests leaders"
+      },
+      {
+         "description" : "Facing off with masters and GMs at the U.S. OpenThe U.S. Open is my favorite tournament of the year, and I've played in seven of them, even managing to win a class prize in 2019. There's a lot about it I enjoy: the languid pace of the traditional schedule, seeing old friends, making new ones. As a former delegate, I could even endure the governance meetings!But what I really love about the U.S. Open is the chance to play masters and even FIDE-titled players.It's rare that someone like me gets to play a GM, but if you're a club player you have a decent shot at facing off with one at the U.S. Open. Because everyone plays in one section, the first rounds of each schedule usually feature games b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/not-throwing-away-my-shot",
+         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
+         "title" : "Not Throwing Away My Shot"
+      },
+      {
+         "description" : "The U.S. Center for SafeSport (\"SafeSport\") has created a custom training module for US Chess that incorporates the negotiated discounts for SafeSport Trained (core), Refresher 1, and Refresher 3 courses (Refresher 2 remains free). This means members will no longer need to input discount codes to access the courses.Going forward, if you have already linked your SafeSport profile to US Chess, you should automatically have the option to select the courses as shown below: <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Be sure to select the titles that contain \"-US Chess Federation.\" If the options with the \"-NGB\" remain on your menu, you can still sign up for the course b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-safesport-enrollment",
+         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
+         "title" : "Update on SafeSport Enrollment"
+      },
+      {
+         "description" : "For the Semiquincentennial - the 250th anniversary of the United States Declaration of Independence - the nation's capital welcomed visitors from all over, hosted dazzling displays of fireworks, and celebrated many reunions of friends and families alike.And that was just at the 54th Annual World Open, held July 1 through 5 at the Omni Shoreham Hotel in Washington, D.C. The tournament returns to Philadelphia next year, but this year's edition gave almost 1,200 players an excuse to be part of a historic anniversary.Tourists decked out in red, white, and blue, looked at the playing halls with a mix of curiosity and confusion, wondering why so many would elect to spend a holiday weekend inside. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fireworks-dc-world-open",
+         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
+         "title" : "Fireworks in D.C. for World Open"
       },
       {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
@@ -386,22 +418,6 @@ news_feed (
          "title" : "Dvorkovich Confirms 3rd-Term Bid For FIDE President, Adds Turlov To Ticket"
       },
       {
-         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival-pt-2",
-         "pubDate" : "Wed, 01 Jul 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival, Pt. 2"
-      },
-      {
-         "description" : "Our rulebook is a huge document filled with a ton of rules that the typical wood-pusher rarely has contact with. Some of those regulations simply act as aspirin for the inevitable procedural headache. When aspirin offers no relief, it is time to kick it up a notch. It is time to contact US Chess. Rule 21L1 (the procedure for appealing to US Chess) is the relief you are looking for. 21L1 has been around in some form since Tim Redman's 1987 third edition of the rulebook.What kind of appeals get zipped on over to our mother organization? Typically, alleged rules misapplications plus possible ethical miscues. Most appeals involve perceived unfair treatment. The appeal generally gets routed to th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-rule-21l1s-journey-not-over",
-         "pubDate" : "Wed, 01 Jul 2026 00:00:00",
-         "title" : "Just the Rules: Rule 21L1's Journey Is Not Over"
-      },
-      {
          "description" : "GM Jose Martinez won Titled Tuesday on June 30 without much trouble, going undefeated and scoring 10/11 for his second victory in the last six weeks. No one came within even half a point, but five players scored nine points, with GM Fabiano Caruan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
          "pubDate" : "Tue, 30 Jun 2026 03:31:00",
          "title" : "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival-pt-2",
-         "pubDate" : "Tue, 30 Jun 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival, pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
