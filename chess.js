@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Sahel Chess Festival will take place in Monastir, Tunisia, from 24 October to 1 November 2026. After attracting more than 300 players in its inaugural year, the festival will again feature several classical tournaments divided by rating category, including a section for players aged fifty and above. The organisers also aim to draw more titled players, while highlighting Monastir's appeal as a Mediterranean chess destination. | Photos: Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2026-preview",
+         "pubDate" : "Sat, 11 Jul 2026 09:00:00",
+         "title" : "Sahel Chess Festival prepares for its second edition"
+      },
+      {
+         "description" : "Does this sound familiar? You often reach good positions from the opening, only to fail to convert your advantage because you do not understand the resulting positions well enough. Jochen Schwarz, a club player from Bremen, wants to improve in this area and has enlisted Ivan Sokolov as his 'coach' through the video series \"Understanding Middlegame Strategies\". In the second part of his series, the reviewer presents three courses dealing with opening-specific positions arising from the Sicilian, French and King's Indian. He has installed the Apple Mac OS X versions and describes how they differ from the Windows versions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-my-sokolov-strategy-part-2",
+         "pubDate" : "Sat, 11 Jul 2026 07:00:00",
+         "title" : "Review: My Sokolov-Strategy, Part 2"
+      },
+      {
          "description" : "In July 1976, Viktor Korchnoi, then the second-best player in the world, used his participation in the IBM tournament in Amsterdam to defect from the USSR. A cat-and-mouse game worthy of a spy thriller began. The Soviet authorities responded with offensive statements and an almost total boycott - almost. | Photo: Viktor Korchnoi in 1976 / Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
