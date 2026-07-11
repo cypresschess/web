@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival begins on Saturday with the ACCENTUS Chess960 rapid tournaments. The results of these tournaments will be used as a tie-break in the chess triathlons in the Masters Tournament and in the Generations Challenge, which features players including Vaishali Rameshbabu. The triathlon-format games will then begin on Sunday. | Photo: Biel Chess Festival archive | Live with commentary from 2 pm",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Sat, 11 Jul 2026 14:00:00",
+         "title" : "Biel Festival: Chess960 - Live!"
+      },
+      {
+         "description" : "I see it daily with students. They want to play so well that they end up in time trouble, spend time on fancy ideas and miss the simple things. I was the same as a Grandmaster. I wanted to play perfectly on every move. Often, I did manage to outplay my opponents. But at a []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/good-enough-moves/",
+         "pubDate" : "Sat, 11 Jul 2026 13:00:00",
+         "title" : "Trying harder makes you play worse moves"
+      },
+      {
          "description" : "The second edition of the Sahel Chess Festival will take place in Monastir, Tunisia, from 24 October to 1 November 2026. After attracting more than 300 players in its inaugural year, the festival will again feature several classical tournaments divided by rating category, including a section for players aged fifty and above. The organisers also aim to draw more titled players, while highlighting Monastir's appeal as a Mediterranean chess destination. | Photos: Diana Mihajlova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
          "pubDate" : "Mon, 22 Jun 2026 09:46:26",
          "title" : "'Speed up your calculation': Gukesh advised ahead of World C'ship match"
-      },
-      {
-         "description" : "In my professional career I fell for the same tempting psychological pitfall many times: Dreaming about a perfect future tournament, instead of improving the current one. Here is how it happened, and what you can learn from it. The Trigger Bad tournaments happen to everyone. What we do while we are there, playing below our []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/perfect-illusion/",
-         "pubDate" : "Sat, 20 Jun 2026 13:00:00",
-         "title" : "The Most Exciting Way to Quit"
       }
    ]
 }
