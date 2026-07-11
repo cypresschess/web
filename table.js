@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2026-07-10","15","<a href=https://ratings.uschess.org/event/202607100233 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-07-05","33","<a href=https://ratings.uschess.org/event/202607050183 target='_blank'>Poison Pawns July 2026</a>",
 "HOUSTON","2026-07-05","6","<a href=https://ratings.uschess.org/event/202607050153 target='_blank'>Bellaire Sunday Swiss 2026.07.05</a>",
 "SPRING","2026-07-03","19","<a href=https://ratings.uschess.org/event/202607030233 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -98,5 +99,4 @@ jtable([
 "SUGAR LAND","2026-04-17","12","<a href=https://ratings.uschess.org/event/202604170683 target='_blank'>FBCC 2026 National High 5 Day Open</a>",
 "HOUSTON","2026-04-12","12","<a href=https://ratings.uschess.org/event/202604120303 target='_blank'>2026 Houston Circuit T4 by AzChAcad</a>",
 "HOUSTON","2026-04-12","16","<a href=https://ratings.uschess.org/event/202604120263 target='_blank'>Bellaire Sunday Swiss 2026.04.12</a>",
-"HOUSTON","2026-04-12","26","<a href=https://ratings.uschess.org/event/202604120193 target='_blank'>SRI MEENAKSHI TEMPLE 04-12-2026</a>",
 ]);
