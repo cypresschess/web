@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the world's strongest women's super-tournaments returns to Saint Louis this summer as the 2026 Cairns Cup welcomes ten of the world's top women chess players to compete for a $250,000 prize fund - one of the largest in women's chess. The tournament will take place 8-21 August at the recently expanded Saint Louis Chess Club (STLCC), where it will run alongside the prestigious Sinquefield Cup, creating one of the world's premier showcases of elite chess. Press release. | Photo: Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-s-top-women-s-championship",
+         "pubDate" : "Sat, 11 Jul 2026 22:00:00",
+         "title" : "World's top women's championship: The Cairns Cup returns in August"
+      },
+      {
          "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
