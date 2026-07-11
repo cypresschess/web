@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/sergei-tiviakov-wins-his-fourth-netherlands-chess-championship",
+         "pubDate" : "Sat, 11 Jul 2026 19:01:00",
+         "title" : "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final"
+      },
+      {
+         "description" : "Sr. Miriam Duggan Primary School of Uganda were crowned African continental champions after completing the tournament without losing a match. Kenya's Moi Nyeri Complex Primary School took silver, while the host nation also had reason to celebrate as Welgemoed Primary School secured bronze. All three teams qualified for the Grand Final in December.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-schools-team-championship",
+         "pubDate" : "Sat, 11 Jul 2026 18:30:00",
+         "title" : "Ugandan school takes gold at African stage of World Schools Team Championship 2026"
+      },
+      {
+         "description" : " The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat Anna-Maja Kazarian 2-0 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/netherland-championships-2026",
+         "pubDate" : "Sat, 11 Jul 2026 17:59:00",
+         "title" : "Netherland Championships 2026 - Games and Results"
+      },
+      {
          "description" : "The Biel International Chess Festival begins on Saturday with the ACCENTUS Chess960 rapid tournaments. The results of these tournaments will be used as a tie-break in the chess triathlons in the Masters Tournament and in the Generations Challenge, which features players including Vaishali Rameshbabu. The triathlon-format games will then begin on Sunday. | Photo: Biel Chess Festival archive | Live with commentary from 2 pm",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +130,7 @@ news_feed (
          "title" : "Stellenbosch: Race tightens as day three tests leaders"
       },
       {
-         "description" : "Facing off with masters and GMs at the U.S. OpenThe U.S. Open is my favorite tournament of the year, and I've played in seven of them, even managing to win a class prize in 2019. There's a lot about it I enjoy: the languid pace of the traditional schedule, seeing old friends, making new ones. As a former delegate, I could even endure the governance meetings!But what I really love about the U.S. Open is the chance to play masters and even FIDE-titled players.It's rare that someone like me gets to play a GM, but if you're a club player you have a decent shot at facing off with one at the U.S. Open. Because everyone plays in one section, the first rounds of each schedule usually feature games b",
+         "description" : "The U.S. Open is my favorite tournament of the year, and I've played in seven of them, even managing to win a class prize in 2019. There's a lot about it I enjoy: the languid pace of the traditional schedule, seeing old friends, making new ones. As a former delegate, I could even endure the governance meetings!But what I really love about the U.S. Open is the chance to play masters and even FIDE-titled players.It's rare that someone like me gets to play a GM, but if you're a club player you have a decent shot at facing off with one at the U.S. Open. Because everyone plays in one section, the first rounds of each schedule usually feature games between chess mortals and America's elite, and ev",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/not-throwing-away-my-shot",
