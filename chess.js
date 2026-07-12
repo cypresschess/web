@@ -2,35 +2,19 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Five rounds against the other players in the Masters, followed by two rounds against players from the Generations Challenge - that was the format of the ACCENTUS Chess960 Masters tournament. After seven rounds, Matthias Bluebaum and Aydin Suleymanli finished tied for first place on 4&frac12; points. However, Bluebaum had the edge thanks to his superior tiebreak score. Third place went to Jose Martinez. The standings were extremely close: just half a point separated Yagiz Kaan Erdogmus in fifth from the top scorers. The results of this tournament serve as the tiebreak for the Masters Triathlon. | Photo: Biel Chess Festival",
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rapid section on Sunday. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-chess960",
-         "pubDate" : "Sun, 12 Jul 2026 08:30:00",
-         "title" : "Biel Masters: Bluebaum wins Chess960 section"
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Sun, 12 Jul 2026 13:50:00",
+         "title" : "Biel Festival: Rapid - Live!"
       },
       {
-         "description" : "Let's continue with ChessBase&acute;26's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably improve your playing strength in a fun way. Let's continue ...!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
-         "pubDate" : "Sun, 12 Jul 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Beginner's Tips Part 22: Maximum training effect with the 'Replay Training' power tool (Part 2)"
-      },
-      {
-         "description" : "One of the world's strongest women's super-tournaments returns to Saint Louis this summer as the 2026 Cairns Cup welcomes ten of the world's top women chess players to compete for a $250,000 prize fund - one of the largest in women's chess. The tournament will take place 8-21 August at the recently expanded Saint Louis Chess Club (STLCC), where it will run alongside the prestigious Sinquefield Cup, creating one of the world's premier showcases of elite chess. Press release. | Photo: Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-s-top-women-s-championship",
-         "pubDate" : "Sat, 11 Jul 2026 22:00:00",
-         "title" : "World's top women's championship: The Cairns Cup returns in August"
-      },
-      {
-         "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second placed GM Arjun Erigaisi, 30 ...",
+         "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
-         "pubDate" : "Sat, 11 Jul 2026 21:12:31",
+         "pubDate" : "Sat, 11 Jul 2026 21:12:00",
          "title" : "Nakamura Wins 50 Games En Route To 12th Title In 2026"
       },
       {
@@ -42,14 +26,6 @@ news_feed (
          "title" : "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final"
       },
       {
-         "description" : "Sr. Miriam Duggan Primary School of Uganda were crowned African continental champions after completing the tournament without losing a match. Kenya's Moi Nyeri Complex Primary School took silver, while the host nation also had reason to celebrate as Welgemoed Primary School secured bronze. All three teams qualified for the Grand Final in December.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-schools-team-championship",
-         "pubDate" : "Sat, 11 Jul 2026 18:30:00",
-         "title" : "Ugandan school takes gold at African stage of World Schools Team Championship 2026"
-      },
-      {
          "description" : " The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat Anna-Maja Kazarian 2-0 in the final.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -58,52 +34,12 @@ news_feed (
          "title" : "Netherland Championships 2026 - Games and Results"
       },
       {
-         "description" : "The Biel International Chess Festival begins on Saturday with the ACCENTUS Chess960 rapid tournaments. The results of these tournaments will be used as a tie-break in the chess triathlons in the Masters Tournament and in the Generations Challenge, which features players including Vaishali Rameshbabu. The triathlon-format games will then begin on Sunday. | Photo: Biel Chess Festival archive | Live with commentary from 2 pm",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Sat, 11 Jul 2026 14:00:00",
-         "title" : "Biel Festival: Chess960 - Live!"
-      },
-      {
          "description" : "I see it daily with students. They want to play so well that they end up in time trouble, spend time on fancy ideas and miss the simple things. I was the same as a Grandmaster. I wanted to play perfectly on every move. Often, I did manage to outplay my opponents. But at a []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/good-enough-moves/",
          "pubDate" : "Sat, 11 Jul 2026 13:00:00",
          "title" : "Trying harder makes you play worse moves"
-      },
-      {
-         "description" : "The second edition of the Sahel Chess Festival will take place in Monastir, Tunisia, from 24 October to 1 November 2026. After attracting more than 300 players in its inaugural year, the festival will again feature several classical tournaments divided by rating category, including a section for players aged fifty and above. The organisers also aim to draw more titled players, while highlighting Monastir's appeal as a Mediterranean chess destination. | Photos: Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2026-preview",
-         "pubDate" : "Sat, 11 Jul 2026 09:00:00",
-         "title" : "Sahel Chess Festival prepares for its second edition"
-      },
-      {
-         "description" : "Does this sound familiar? You often reach good positions from the opening, only to fail to convert your advantage because you do not understand the resulting positions well enough. Jochen Schwarz, a club player from Bremen, wants to improve in this area and has enlisted Ivan Sokolov as his 'coach' through the video series \"Understanding Middlegame Strategies\". In the second part of his series, the reviewer presents three courses dealing with opening-specific positions arising from the Sicilian, French and King's Indian. He has installed the Apple Mac OS X versions and describes how they differ from the Windows versions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-my-sokolov-strategy-part-2",
-         "pubDate" : "Sat, 11 Jul 2026 07:00:00",
-         "title" : "Review: My Sokolov-Strategy, Part 2"
-      },
-      {
-         "description" : "In July 1976, Viktor Korchnoi, then the second-best player in the world, used his participation in the IBM tournament in Amsterdam to defect from the USSR. A cat-and-mouse game worthy of a spy thriller began. The Soviet authorities responded with offensive statements and an almost total boycott - almost. | Photo: Viktor Korchnoi in 1976 / Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/korchnoi-defection-fifty-years",
-         "pubDate" : "Fri, 10 Jul 2026 19:00:00",
-         "title" : "Fifty years ago: Korchnoi's defection to the west"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 231. 2836 games, mainly from the Candidates Tournament and European Individual Championship. 27 annotated, 11 opening surveys, 3 opening videos, demo. lectures and several exercises for training. Annotators include Anish Giri, Wei Yi, Wesley So, Karsten Mueller and Vaishali Rameshbabu (pictured) among others. The icing on the cake is the Special feature on Magnus Carlsen offering 20 annotated games. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-231-review-nagesh-havanur",
-         "pubDate" : "Fri, 10 Jul 2026 14:00:00",
-         "title" : "CBM 231: Sindarov and Vaishali steal the show"
       },
       {
          "description" : "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ...",
@@ -138,28 +74,12 @@ news_feed (
          "title" : "ChessFest 2026 in Trafalgar Square - this weekend!"
       },
       {
-         "description" : "Alexey Sarana won the KazChess Masters in Almaty after finishing level with Alexander Donchenko on 6/9 points and taking first place on tiebreaks. The ten-player round-robin, held from 30 June to 8 July, paired five established international grandmasters with five rising Kazakhstani players. Igor Kovalenko finished third on 5&frac12;/9, while Denis Makhnev achieved the best score among the local representatives with 5/9. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9",
-         "pubDate" : "Fri, 10 Jul 2026 08:00:00",
-         "title" : "Sarana wins KazChess Masters in Almaty, Donchenko and Kovalenko complete podium"
-      },
-      {
          "description" : " The Frenchman is ranked world No 12, but that is a disappointment after he became the youngest ever 2800-rated player at 18 years and five months Alireza Firouzja is shaping up to be one of the nearly men of grandmaster chess. The Iran-born Frenchman, 23, has just won the St Louis-organised Croatia Super Rapid and Blitz in Zagreb. He was far ahead at the start of the last day, but had a poor run of 2/7 during the final rounds before a successful Armageddon tie-break. Firouzja's career has been limited by his below-par performances in the Candidates. In 2022, he spoiled his chances by playing blitz into the small hours; in 2024, he did worse still, finishing seventh out of eight. He made a m",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
          "pubDate" : "Fri, 10 Jul 2026 07:00:13",
          "title" : "Chess: Firouzja wins in Zagreb as Carlsen passes 15-year milestone at the top"
-      },
-      {
-         "description" : "After six rounds at the African Continental Stage of the FIDE ISCF World Schools Team Championship in Stellenbosch, Uganda's Sr. Miriam Duggan Primary School and Kenya's Moi Nyeri Complex Primary School share the lead on 10 match points. Five teams remain two points behind before the final day. The third day also featured spotlights on Uganda's Ronald Wabwire and Zimbabwe's all-girls team, alongside educational workshops and activity sessions. | Photo: ISCF",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-school-chess-championship-2026-r3",
-         "pubDate" : "Fri, 10 Jul 2026 02:00:00",
-         "title" : "Stellenbosch: Race tightens as day three tests leaders"
       },
       {
          "description" : "The U.S. Open is my favorite tournament of the year, and I've played in seven of them, even managing to win a class prize in 2019. There's a lot about it I enjoy: the languid pace of the traditional schedule, seeing old friends, making new ones. As a former delegate, I could even endure the governance meetings!But what I really love about the U.S. Open is the chance to play masters and even FIDE-titled players.It's rare that someone like me gets to play a GM, but if you're a club player you have a decent shot at facing off with one at the U.S. Open. Because everyone plays in one section, the first rounds of each schedule usually feature games between chess mortals and America's elite, and ev",
