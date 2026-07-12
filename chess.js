@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five rounds against the other players in the Masters, followed by two rounds against players from the Generations Challenge - that was the format of the ACCENTUS Chess960 Masters tournament. After seven rounds, Matthias Bluebaum and Aydin Suleymanli finished tied for first place on 4&frac12; points. However, Bluebaum had the edge thanks to his superior tiebreak score. Third place went to Jose Martinez. The standings were extremely close: just half a point separated Yagiz Kaan Erdogmus in fifth from the top scorers. The results of this tournament serve as the tiebreak for the Masters Triathlon. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-chess960",
+         "pubDate" : "Sun, 12 Jul 2026 08:30:00",
+         "title" : "Biel Masters: Bluebaum wins Chess960 section"
+      },
+      {
+         "description" : "Let's continue with ChessBase&acute;26's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably improve your playing strength in a fun way. Let's continue ...!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
+         "pubDate" : "Sun, 12 Jul 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Beginner's Tips Part 22: Maximum training effect with the 'Replay Training' power tool (Part 2)"
+      },
+      {
          "description" : "One of the world's strongest women's super-tournaments returns to Saint Louis this summer as the 2026 Cairns Cup welcomes ten of the world's top women chess players to compete for a $250,000 prize fund - one of the largest in women's chess. The tournament will take place 8-21 August at the recently expanded Saint Louis Chess Club (STLCC), where it will run alongside the prestigious Sinquefield Cup, creating one of the world's premier showcases of elite chess. Press release. | Photo: Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-s-top-women-s-championship",
          "pubDate" : "Sat, 11 Jul 2026 22:00:00",
          "title" : "World's top women's championship: The Cairns Cup returns in August"
+      },
+      {
+         "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second placed GM Arjun Erigaisi, 30 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
+         "pubDate" : "Sat, 11 Jul 2026 21:12:31",
+         "title" : "Nakamura Wins 50 Games En Route To 12th Title In 2026"
       },
       {
          "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
          "pubDate" : "Tue, 30 Jun 2026 06:13:00",
          "title" : "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1"
-      },
-      {
-         "description" : "As Erling Braut Haaland leads Norway&#39;s quest for World Cup glory, it&#39;s easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland&#39;s investment in Norway Chess sent shockwaves through ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
-         "pubDate" : "Tue, 30 Jun 2026 03:31:00",
-         "title" : "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
