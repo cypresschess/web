@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends, from July 13-19, you can get the Champion's Bundle: ChessBase'26 & FRITZ 21 - Summer Special: Instead of €269.80, get both for just €209.90! This is our summer special, and it runs for seven days. Two flagships, one price, built to work together.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-2",
+         "pubDate" : "Mon, 13 Jul 2026 17:00:00",
+         "title" : "ChessBase Summer-Special!"
+      },
+      {
+         "description" : "Mick Riding, Grassroots Initiative Chairman, will celebrate his 70th birthday on Saturday 18 July by taking part in the Northumberland leg of an Alzheimer's Society nationwide fundraising initiative. &#160; Mick...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/mick-ridings-fundraiser-for-alzheimers-society/",
+         "pubDate" : "Mon, 13 Jul 2026 13:12:39",
+         "title" : "Mick Riding's Fundraiser for Alzheimer's Society"
+      },
+      {
          "description" : "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments, create training questions and even provide an overall game summary. This is a useful tool for studying classic games, analyzing your own tournament games and finding the hidden lessons in every position.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
