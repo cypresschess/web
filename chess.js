@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
+         "pubDate" : "Mon, 13 Jul 2026 18:00:00",
+         "title" : "The 1858-Rated Kid Who Beat a Super-GM - The Underdog"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132372833.cms\" />FIDE has approved a new format for the 2027 World Cup and Women's World Cup, reducing the events from 27 to 19 days by introducing a Swiss qualification stage before the knockout rounds. Both tournaments will feature more players, expanded qualification pathways and a combined prize fund of USD 3.3 million, making the competitions more inclusive and rewarding.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/big-changes-in-chess-world-cup-fide-approves-new-format-for-open-and-womens-events-from-2027/articleshow/132372833.cms",
+         "pubDate" : "Mon, 13 Jul 2026 17:42:51",
+         "title" : "Big changes in Chess World Cup! FIDE approves new format for 2027"
+      },
+      {
          "description" : "Dear chess friends, from July 13-19, you can get the Champion's Bundle: ChessBase'26 & FRITZ 21 - Summer Special: Instead of €269.80, get both for just €209.90! This is our summer special, and it runs for seven days. Two flagships, one price, built to work together.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ashwin-s-checkmate-chronicles",
          "pubDate" : "Mon, 13 Jul 2026 09:58:39",
          "title" : "Ashwin's Checkmate Chronicles"
+      },
+      {
+         "description" : "In a typical summer, I would play in the National Open, in Las Vegas, the World Open, in Philadelphia, and other annual tournaments. This year I'm focusing less on chess, but I still wanted to play in the inaugural Naroditsky Memorial Rapid and Blitz, held July 3-5 at the Charlotte Chess Center, where Danya was a GM-in-residence during the last years of his life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Charlotte Chess Center/Kelly Centrelli.<br> <br> I went to the Naroditsky memorial, though, primarily as a way to honor Danya, against",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/naroditsky-memorial-honors-danyas-legacy-sindarov-sweeps",
+         "pubDate" : "Mon, 13 Jul 2026 00:00:00",
+         "title" : "Naroditsky Memorial Honors Danya's Legacy as Sindarov Sweeps"
       },
       {
          "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
@@ -450,14 +474,6 @@ news_feed (
          "title" : "Help Team USA Regain Title as Best Team in the World"
       },
       {
-         "description" : "A note from Michael D. Buss, US Chess Correspondence Coordinator: With this issue, we extend our sincere thanks and appreciation to Jeff French for his outstanding work as Games Editor over the past year and a half. With Jeff already retired and his wife's retirement approaching, they look forward to enjoying retirement together while exploring the highways and byways. Jeff will continue serving as the President of the Correspondence Chess League of America.Thanks Mike! It has been my pleasure ... and on to the issue ...Over the past year I have collected games that were provide by you, the readers of Check is in the Mail. I ended up with nearly thirty games ready for consideration in this i",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-july-2026-readers-games",
-         "pubDate" : "Thu, 02 Jul 2026 00:00:00",
-         "title" : "Check is in the Mail, July 2026: Readers' Games!"
-      },
-      {
          "description" : "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid &#38;amp; Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
          "pubDate" : "Wed, 24 Jun 2026 14:52:00",
          "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess - for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been set up, which comprises writers, poets, painters, photographers, gallery owners, doctors, politicians, lawyers, bankers and more. Now it's time for the chess community to join.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surrealists-and-chess",
-         "pubDate" : "Mon, 22 Jun 2026 18:00:00",
-         "title" : "Surrealists and chess"
       }
    ]
 }
