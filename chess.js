@@ -34,6 +34,22 @@ news_feed (
          "title" : "Mick Riding's Fundraiser for Alzheimer's Society"
       },
       {
+         "description" : "Women&#39;s world number-one GM Hou Yifan and WGM Anastasia Avramidou advance to the 2026 Women&#39;s Speed Chess Championship Quarterfinals after winning the last Round of 16 matches on Monday. Hou defeated IM Dinara Wagner in a one-sided match, 13.5-2.5...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
+         "pubDate" : "Mon, 13 Jul 2026 13:10:00",
+         "title" : "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova"
+      },
+      {
+         "description" : "The International Chess Federation has announced a big shake-up in the format for the 2027 FIDE World Cup and Women&#39;s World Cup. Instead of huge 206 and 107-player knockouts, the last stage will now involve only the final 16 players in each event,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-new-format",
+         "pubDate" : "Mon, 13 Jul 2026 12:37:00",
+         "title" : "FIDE Transforms 2027 World Cup Format"
+      },
+      {
          "description" : "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments, create training questions and even provide an overall game summary. This is a useful tool for studying classic games, analyzing your own tournament games and finding the hidden lessons in every position.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Ashwin's Checkmate Chronicles"
       },
       {
-         "description" : "In a typical summer, I would play in the National Open, in Las Vegas, the World Open, in Philadelphia, and other annual tournaments. This year I'm focusing less on chess, but I still wanted to play in the inaugural Naroditsky Memorial Rapid and Blitz, held July 3-5 at the Charlotte Chess Center, where Danya was a GM-in-residence during the last years of his life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Charlotte Chess Center/Kelly Centrelli.<br> <br> I went to the Naroditsky memorial, though, primarily as a way to honor Danya, against",
+         "description" : "In a typical summer, I would play in the National Open, in Las Vegas, the World Open, in Philadelphia, and other annual tournaments. This year I'm focusing less on chess, but I still wanted to play in the inaugural Naroditsky Memorial Rapid and Blitz, organized July 3-5 by the Charlotte Chess Center, where Danya was a GM-in-residence during the last years of his life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Charlotte Chess Center/Kelly Centrelli.<br> <br> I went to the Naroditsky memorial, though, primarily as a way to honor Danya, ag",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/naroditsky-memorial-honors-danyas-legacy-sindarov-sweeps",
@@ -504,22 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-june-30-2026",
          "pubDate" : "Tue, 30 Jun 2026 12:36:13",
          "title" : "Martinez Magic Makes For Another Titled Tuesday Victory"
-      },
-      {
-         "description" : "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship-2026",
-         "pubDate" : "Tue, 30 Jun 2026 08:00:00",
-         "title" : "Magic Meets Mayhem In The Chess.com Spell Chess Championship, Starting July 15"
-      },
-      {
-         "description" : "GM Magnus Carlsen has now been the world chess number-one on every FIDE rating list for the past 15 years, since July 2011. Although Carlsen has suffered scares&#38;mdash;for instance, any loss to GM Fabiano Caruana in the 2018 World Championship matc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
-         "pubDate" : "Tue, 30 Jun 2026 06:13:00",
-         "title" : "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
