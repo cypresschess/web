@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments, create training questions and even provide an overall game summary. This is a useful tool for studying classic games, analyzing your own tournament games and finding the hidden lessons in every position.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-tactical-analysis-9",
+         "pubDate" : "Mon, 13 Jul 2026 12:00:00",
+         "title" : "ChessBase tips for beginners - Tactical Analysis (9)"
+      },
+      {
+         "description" : "Did you attend the Checkmate: USA v. India exhibition match in the Esports Stadium in Arlington, Texas? No? Was it too far away? Well, you can visit the event virtually, get a feel for the atmosphere and the mood of the players, in this gigantic photo report sent to us by Ashwin Subramanian, senior leader at Intel in India, who was equipped with an advanced digital camera. Take a deep breath and plunge into the collection of pictorial impressions he provides.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ashwin-s-checkmate-chronicles",
+         "pubDate" : "Mon, 13 Jul 2026 09:58:39",
+         "title" : "Ashwin's Checkmate Chronicles"
+      },
+      {
          "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -198,7 +214,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
-         "pubDate" : "Tue, 07 Jul 2026 13:50:49",
+         "pubDate" : "Tue, 07 Jul 2026 13:50:00",
          "title" : "Santos Beats Oro, Le To Win 2nd Leon Masters"
       },
       {
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/surrealists-and-chess",
          "pubDate" : "Mon, 22 Jun 2026 18:00:00",
          "title" : "Surrealists and chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131905404.cms\" />Ahead of his world title defence against Javokhir Sindarov, D Gukesh has been advised by Grandmaster Krishnan Sasikiran to improve his speed, technique and handling of time pressure. Sasikiran warned that Sindarov is highly prepared and fast-paced, but said Gukesh's previous world championship experience could prove crucial in what promises to be a tough contest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/speed-up-your-calculation-d-gukesh-advised-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/131905404.cms",
-         "pubDate" : "Mon, 22 Jun 2026 09:46:26",
-         "title" : "'Speed up your calculation': Gukesh advised ahead of World C'ship match"
       }
    ]
 }
