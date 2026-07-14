@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Council has approved a series of significant changes to the format of the 2027 FIDE World Cup and the 2027 FIDE Women's World Cup, following recommendations from the Global Strategy Commission. They aim to make the competitions more inclusive, improve the experience for players, reduce the overall duration of the events, and ensure the World Cups remain one of the flagship competitions in the World Championship cycle. Details in the FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-format-for-fide-world-cup",
+         "pubDate" : "Tue, 14 Jul 2026 12:32:00",
+         "title" : "New format for FIDE World Cup"
+      },
+      {
+         "description" : "\"Enjoy the best game. Ever.\" This bold slogan is the motto of New in Chess Magazine, and in its six annual issues, it does much to justify that claim. The second issue of 2026 offers an appealing mix of tournament reports, training articles and insights into the world of chess. At its heart, however, are moving tributes to the Dutch grandmaster and author Jan Timman, who passed away on 18 February 2026. | Photo: Jan Timman 2019 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-jan-timman-new-in-chess-magazine-2026-2",
+         "pubDate" : "Tue, 14 Jul 2026 10:45:39",
+         "title" : "Remembering Jan Timman: New in Chess Magazine - 2026#2"
+      },
+      {
+         "description" : "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defense and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Polugaevsky and Rashid Nezhmetdinov becomes a spectacular attacking lesson, where Black keeps the white king trapped in the center and launches a dangerous pawn and piece storm. The episode ends with a beautiful queen sacrifice, a wild king hunt, and a forced mate that makes the line both instructive and highly entertaining.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-art-of-exchanges",
+         "pubDate" : "Tue, 14 Jul 2026 10:05:00",
+         "title" : "Svitlana's Smart Moves - The art of exchanges"
+      },
+      {
          "description" : "Levon Aronian and Vaclav Finek took the early lead in the two triathlon events at the Biel Chess Festival by winning their respective rapid sections. Aronian scored 9/10 in the Masters, finishing 3 points clear of Aydin Suleymanli, while Finek topped the Generations Challenge with 8/10, 1 point ahead of Xiao Tong and Marco Materia. The classical sections of both competitions begin on Tuesday. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
