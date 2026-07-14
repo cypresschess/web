@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Twenty years ago, on 14 July 2006, Aleksander Wojtkiewicz passed away. Born in Soviet Latvia in 1963, he was one of the country's greatest chess talents and trained under Mikhail Tal. He later went into hiding to avoid military service, became involved in gambling and pimping, served a prison sentence, and after his release became a chess nomad. His early death in Baltimore was tragic.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aleksander-wojtkiewicz-15-january-1963-14-july-2006-a-chess-vagabond-remembered",
+         "pubDate" : "Tue, 14 Jul 2026 20:00:00",
+         "title" : "Aleksander Wojtkiewicz (15 January 1963 - 14 July 2006): A Chess Vagabond Remembered"
+      },
+      {
+         "description" : "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women's Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportunities while maintaining a balanced pathway through FIDE's premier competitions. Full information in this FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qualification-paths-for-2028-candidates",
+         "pubDate" : "Tue, 14 Jul 2026 19:30:00",
+         "title" : "Qualification paths for 2028 Candidates: No more rating spot, two places for Total Chess top scorers"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
          "pubDate" : "Tue, 14 Jul 2026 13:50:00",
          "title" : "Biel Festival - Live!"
-      },
-      {
-         "description" : "The FIDE Council has approved a series of significant changes to the format of the 2027 FIDE World Cup and the 2027 FIDE Women's World Cup, following recommendations from the Global Strategy Commission. They aim to make the competitions more inclusive, improve the experience for players, reduce the overall duration of the events, and ensure the World Cups remain one of the flagship competitions in the World Championship cycle. Details in the FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-format-for-fide-world-cup",
-         "pubDate" : "Tue, 14 Jul 2026 12:32:00",
-         "title" : "New format for FIDE World Cup"
       },
       {
          "description" : "\"Enjoy the best game. Ever.\" This bold slogan is the motto of New in Chess Magazine, and in its six annual issues, it does much to justify that claim. The second issue of 2026 offers an appealing mix of tournament reports, training articles and insights into the world of chess. At its heart, however, are moving tributes to the Dutch grandmaster and author Jan Timman, who passed away on 18 February 2026. | Photo: Jan Timman 2019 | Photo: Lennart Ootes",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-rapid",
          "pubDate" : "Tue, 14 Jul 2026 03:20:00",
          "title" : "Biel: Aronian and Finek outright winners in rapid segment"
+      },
+      {
+         "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, beginning tomorrow, in our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-naroditsky-memorial-pt-1",
+         "pubDate" : "Tue, 14 Jul 2026 00:00:00",
+         "title" : "Tactics Tuesday: Naroditsky Memorial, Pt. 1"
       },
       {
          "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
@@ -450,6 +466,14 @@ news_feed (
          "title" : "'This is India's moment': Why the nation of 1.4 billion now has a dedicated pathway to Esports World Cup"
       },
       {
+         "description" : " On behalf of the Chess Federation of Canada, it is my great pleasure to announce an exciting new national initiative that we believe will help grow chess in communities across Canada. The Chess Federation of Canada has entered into a new partnership with LEAP Company, a respected Chinese manufacturer of chess equipment and digital chess clocks. Through this partnership, the CFC will be able to provide high-quality chess sets and clocks at significantly reduced costs, creating new opportunities for chess development from coast to coast. ",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2026/07/04/2026-07-04.national-initiative-with-leap/",
+         "pubDate" : "Sat, 04 Jul 2026 00:00:00",
+         "title" : "National Initiative with LEAP Company"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid &#38;amp; Blitz Croatia as co-leader after winning all three games on day three&#38;mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&#38;mdash;to catch GM Alireza...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
          "pubDate" : "Thu, 02 Jul 2026 08:00:00",
          "title" : "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Since 1924, countries from all over the world have competed in the Chess Olympiad. The U.S. dominated in the 1930's, but fell behind the Soviet Union during their long period of dominance from the '50's to the '90s's, during which the Soviets won almost every tournament. The U.S. hasn't won an Olympiad since 2016. This year, we are sending a powerhouse group of players to Uzbekistan to compete in the 46th Olympiad and regain our title as the best team in the world.Our Open team includes GMs Fabiano Caruana and Wesley So from that 2016 team; the Women's squad finished on the podium at the last Olympiad for the first time in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/help-team-usa-regain-title-best-team-world",
-         "pubDate" : "Thu, 02 Jul 2026 00:00:00",
-         "title" : "Help Team USA Regain Title as Best Team in the World"
       },
       {
          "description" : "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid &#38;amp; Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn...",
