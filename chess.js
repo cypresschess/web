@@ -26,6 +26,22 @@ news_feed (
          "title" : "Biel Festival - Live!"
       },
       {
+         "description" : "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women&#39;s Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-candidates-qualification-2028-rating-spot-removed",
+         "pubDate" : "Tue, 14 Jul 2026 12:55:21",
+         "title" : "FIDE Removes Rating Spot For 2028 Candidates Qualification"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo, who won Titled Tuesday five times in 2025, got his first win of 2026 on July 14. His 10/11 score won outright over GM Praggnanandhaa Rameshbabu&#39;s 9.5/11, itself good enough for sole second. GM Hikaru Nakamura took third plac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-july-14-2026",
+         "pubDate" : "Tue, 14 Jul 2026 12:35:37",
+         "title" : "Maghsoodloo Wins Titled Tuesday With Ease"
+      },
+      {
          "description" : "\"Enjoy the best game. Ever.\" This bold slogan is the motto of New in Chess Magazine, and in its six annual issues, it does much to justify that claim. The second issue of 2026 offers an appealing mix of tournament reports, training articles and insights into the world of chess. At its heart, however, are moving tributes to the Dutch grandmaster and author Jan Timman, who passed away on 18 February 2026. | Photo: Jan Timman 2019 | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,22 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/july-2026-fide-ratings",
          "pubDate" : "Wed, 01 Jul 2026 12:43:27",
          "title" : "Carlsen Drops 18 Points, Remains Only 2800+ Player In World"
-      },
-      {
-         "description" : "Arkady Dvorkovich has confirmed he will seek a third term as President of the International Chess Federation (FIDE), eight years after first campaigning on a promise that FIDE presidents should be limited to two terms. The incumbent announced his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-confirms-bid-for-third-term-as-fide-president-adds-turlov-to-ticket",
-         "pubDate" : "Wed, 01 Jul 2026 07:57:35",
-         "title" : "Dvorkovich Confirms 3rd-Term Bid For FIDE President, Adds Turlov To Ticket"
-      },
-      {
-         "description" : "GM Jose Martinez won Titled Tuesday on June 30 without much trouble, going undefeated and scoring 10/11 for his second victory in the last six weeks. No one came within even half a point, but five players scored nine points, with GM Fabiano Caruan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-june-30-2026",
-         "pubDate" : "Tue, 30 Jun 2026 12:36:13",
-         "title" : "Martinez Magic Makes For Another Titled Tuesday Victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
