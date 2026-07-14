@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Vaclav Finek took the early lead in the two triathlon events at the Biel Chess Festival by winning their respective rapid sections. Aronian scored 9/10 in the Masters, finishing 3 points clear of Aydin Suleymanli, while Finek topped the Generations Challenge with 8/10, 1 point ahead of Xiao Tong and Marco Materia. The classical sections of both competitions begin on Tuesday. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-rapid",
+         "pubDate" : "Tue, 14 Jul 2026 03:20:00",
+         "title" : "Biel: Aronian and Finek outright winners in rapid segment"
+      },
+      {
          "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
