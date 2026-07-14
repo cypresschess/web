@@ -1,6 +1,10 @@
 jtable([
+"HOUSTON","2026-07-12","183","<a href=https://ratings.uschess.org/event/202607120763 target='_blank'>2026 Houston Chess Festival</a>",
+"HOUSTON","2026-07-11","25","<a href=https://ratings.uschess.org/event/202607111053 target='_blank'>2026 Houston Chess Festival Blitz</a>",
+"HOUSTON","2026-07-11","43","<a href=https://ratings.uschess.org/event/202607111033 target='_blank'>2026 Houston Chess Festival Scholastic</a>",
 "HOUSTON","2026-07-11","17","<a href=https://ratings.uschess.org/event/202607110533 target='_blank'>Houston Summer Open</a>",
 "HOUSTON","2026-07-11","4","<a href=https://ratings.uschess.org/event/202607110323 target='_blank'>chesspanda07112026saturday</a>",
+"SUGAR LAND","2026-07-11","20","<a href=https://ratings.uschess.org/event/202607110013 target='_blank'>FBCC 2025 National Kitten Day Open</a>",
 "CYPRESS","2026-07-10","47","<a href=https://ratings.uschess.org/event/202607100373 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-07-10","15","<a href=https://ratings.uschess.org/event/202607100233 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-07-05","33","<a href=https://ratings.uschess.org/event/202607050183 target='_blank'>Poison Pawns July 2026</a>",
@@ -95,8 +99,4 @@ jtable([
 "HOUSTON","2026-04-19","15","<a href=https://ratings.uschess.org/event/202604190543 target='_blank'>Bellaire Sunday Swiss 2026.04.19</a>",
 "HOUSTON","2026-04-19","2","<a href=https://ratings.uschess.org/event/202604190393 target='_blank'>Match Play</a>",
 "SUGAR LAND","2026-04-19","11","<a href=https://ratings.uschess.org/event/202604190173 target='_blank'>Sunbridge Learning Chess Tournament</a>",
-"HOUSTON","2026-04-18","504","<a href=https://ratings.uschess.org/event/202604181353 target='_blank'>T H Rogers Tournament</a>",
-"HOUSTON","2026-04-18","8","<a href=https://ratings.uschess.org/event/202604180563 target='_blank'>chesspanda04182026</a>",
-"SPRING","2026-04-17","26","<a href=https://ratings.uschess.org/event/202604170773 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2026-04-17","40","<a href=https://ratings.uschess.org/event/202604170693 target='_blank'>Knights of Cypress</a>",
 ]);
