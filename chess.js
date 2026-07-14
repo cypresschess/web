@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Tue, 14 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
          "description" : "The FIDE Council has approved a series of significant changes to the format of the 2027 FIDE World Cup and the 2027 FIDE Women's World Cup, following recommendations from the Global Strategy Commission. They aim to make the competitions more inclusive, improve the experience for players, reduce the overall duration of the events, and ensure the World Cups remain one of the flagship competitions in the World Championship cycle. Details in the FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-2",
          "pubDate" : "Sun, 12 Jul 2026 19:00:00",
          "title" : "Can you solve these positions from the Chola Chess camp? - Second edition"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rapid section on Sunday. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Sun, 12 Jul 2026 13:50:00",
-         "title" : "Biel Festival: Rapid - Live!"
       },
       {
          "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ...",
