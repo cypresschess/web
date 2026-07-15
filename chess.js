@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417912.cms\" />FIDE has approved a revamped qualification system for the 2028 Open and Women's Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
+         "pubDate" : "Wed, 15 Jul 2026 14:29:20",
+         "title" : "No rating-based spots! FIDE launches new qualification system for 2028 Candidates"
+      },
+      {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Wed, 15 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
          "description" : "The first round of classical chess in the Masters and the Generations Challenge Triathlons at the Biel International Chess Festival was played on Tuesday. Each event produced two draws and one winner. Matthias Bluebaum (pictured) drew his game against Yagiz Kaan Erdogmus, while Le Quang Liem defeated Jose Martinez. In the Generations Challenge, Alexandra Kosteniuk beat Carissa Yip. In the Masters Open, Christian Gloeckler surprisingly dropped half a point as early as round two. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-memoriam-oleg-skvortsov-1969-2026",
          "pubDate" : "Wed, 15 Jul 2026 09:04:01",
          "title" : "In Memoriam: Oleg Skvortsov (1969-2026)"
+      },
+      {
+         "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Wednesday Workouts and in our more accessible Tactics Tuesday series (beginning here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-naroditsky-memorial-pt-1",
+         "pubDate" : "Wed, 15 Jul 2026 00:00:00",
+         "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 1"
       },
       {
          "description" : "Twenty years ago, on 14 July 2006, Aleksander Wojtkiewicz passed away. Born in Soviet Latvia in 1963, he was one of the country's greatest chess talents and trained under Mikhail Tal. He later went into hiding to avoid military service, became involved in gambling and pimping, served a prison sentence, and after his release became a chess nomad. His early death in Baltimore was tragic.",
@@ -418,14 +442,6 @@ news_feed (
          "title" : "Mike Truran Steps Down from ECF Board"
       },
       {
-         "description" : "2026-2027 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Projects must be organized by educational non-profits (501c3), public schools, and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2026 through July 31, 2027. The deadline to be considered for the first round of applications is 5 p.m. CDT on August 15, 2026. US Chess reserves ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-2027-women-and-girls-programming-grant-cycle-officially-open",
-         "pubDate" : "Mon, 06 Jul 2026 00:00:00",
-         "title" : "2026-2027 Women and Girls Programming Grant Cycle Officially Open!"
-      },
-      {
          "description" : " The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju. Alrizeza Firouzja won an Armageddon Tie-break against Nodirbek Abdusattorov after they tied the combined standings and a two game rapid tie-break match.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
          "pubDate" : "Fri, 26 Jun 2026 04:30:02",
          "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
-      },
-      {
-         "description" : " The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Levon Aronian, Viswanathan Anand, Wei Yi, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Javokhir Sindarov, Ding Liren, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Leinier Dominguez Perez, Anish Giri, Nihal Sarin, Dmitry, Andreikin, Jan Krzysztof Duda, Alexander Grischuk etc ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
-         "pubDate" : "Wed, 24 Jun 2026 14:52:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results"
       }
    ]
 }
