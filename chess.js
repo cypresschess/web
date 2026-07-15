@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of classical chess in the Masters and the Generations Challenge Triathlons at the Biel International Chess Festival was played on Tuesday. Each event produced two draws and one winner. Matthias Bluebaum (pictured) drew his game against Yagiz Kaan Erdogmus, while Le Quang Liem defeated Jose Martinez. In the Generations Challenge, Alexandra Kosteniuk beat Carissa Yip. In the Masters Open, Christian Gloeckler surprisingly dropped half a point as early as round two. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-classical-1",
+         "pubDate" : "Wed, 15 Jul 2026 11:35:00",
+         "title" : "Biel: Classical chess sections kicks off with one decisive result per section"
+      },
+      {
+         "description" : "The ECU E-Magazine May &#38; June 2026 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine can be read online with interactive links through the following link, or it can be downloaded below in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-june-2026/",
+         "pubDate" : "Wed, 15 Jul 2026 10:22:16",
+         "title" : "ECU E-Magazine May & June 2026"
+      },
+      {
+         "description" : "\"Even stronger. Even more beautiful. Even more direct.\" That is the slogan ChessBase uses to promote the latest edition of its well-known Fritz series. But what does the new version actually offer? Who is Fritz 21 designed for? Lukas K&ouml;pl took a close look at the latest release to find out what really lies behind the promises of being stronger, better looking and more direct.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-fritz-21",
+         "pubDate" : "Wed, 15 Jul 2026 10:00:00",
+         "title" : "Review: Fritz 21"
+      },
+      {
          "description" : "Oleg Skvortsov, one of chess's leading patrons, has passed away. Between 2012 and 2017, he organized a series of world-class chess events, matches, and tournaments in Zurich, while also supporting the game through a number of other projects. | Photo: Wladimir Barsky",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qualification-paths-for-2028-candidates",
          "pubDate" : "Tue, 14 Jul 2026 19:30:00",
          "title" : "Qualification paths for 2028 Candidates: No more rating spot, two places for Total Chess top scorers"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Tue, 14 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       },
       {
          "description" : "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women&#39;s Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20...",
