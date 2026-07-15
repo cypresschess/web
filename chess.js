@@ -50,6 +50,14 @@ news_feed (
          "title" : "In Memoriam: Oleg Skvortsov (1969-2026)"
       },
       {
+         "description" : "Junior and Senior Championships Underway in St. LouisCan we squeeze a few more boards in? The 2026 U.S. Junior and Senior Chess Championships began Tuesday, July 14, in St. Louis with its largest - and most inclusive - field yet. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> (Grand)Master of Ceremonies Yasser Seirawan presiding over the drawing of lots in St. Louis. (Photo courtesy SLCC/Crystal Fuller)<br> <br> The freshly renovated Saint Louis Chess Club (SLCC) has long hosted the U.S. Junior, Girls' Junior, Girls' Junior, and Senior tournaments. But, since its inception in 2023, the U.S. Senior Women's Championship had taken place separately from the three",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/room-one-more-junior-and-senior-championships-underway-st-louis",
+         "pubDate" : "Wed, 15 Jul 2026 00:00:00",
+         "title" : "Room for One More? Junior and Senior Championships Underway in St. Louis"
+      },
+      {
          "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Wednesday Workouts and in our more accessible Tactics Tuesday series (beginning here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bok-wins-2026-india-rising-final",
          "pubDate" : "Tue, 07 Jul 2026 11:31:56",
          "title" : "Bok Beats Vidit In Armageddon To Clinch EWC Spot"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-las-vegas-chess-festival-pt-3",
-         "pubDate" : "Tue, 07 Jul 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 Las Vegas Chess Festival, pt. 3"
       },
       {
          "description" : "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou...",
