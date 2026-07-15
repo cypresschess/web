@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Oleg Skvortsov, one of chess's leading patrons, has passed away. Between 2012 and 2017, he organized a series of world-class chess events, matches, and tournaments in Zurich, while also supporting the game through a number of other projects. | Photo: Wladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memoriam-oleg-skvortsov-1969-2026",
+         "pubDate" : "Wed, 15 Jul 2026 09:04:01",
+         "title" : "In Memoriam: Oleg Skvortsov (1969-2026)"
+      },
+      {
          "description" : "Twenty years ago, on 14 July 2006, Aleksander Wojtkiewicz passed away. Born in Soviet Latvia in 1963, he was one of the country's greatest chess talents and trained under Mikhail Tal. He later went into hiding to avoid military service, became involved in gambling and pimping, served a prison sentence, and after his release became a chess nomad. His early death in Baltimore was tragic.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
