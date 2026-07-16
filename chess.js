@@ -34,6 +34,14 @@ news_feed (
          "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
       },
       {
+         "description" : "Races Remain Tight After Tense Second RoundWe are only two rounds into the four 2026 U.S. Junior and Senior Championship tournaments, and yet only three perfect 2/2 scores (out of 39 players - more on that later) remain at the Saint Louis Chess Club (SLCC).Play calmed down slightly after a vicious Round 1 that saw a 70% rate of decisive games, but Wednesday still generated 11 decisive results.We started with the two senior events yesterday, so today we'll start with the youngsters. But, just like yesterday, we still have commentary from 2017 U.S. Women's Champion WGM Sabina Foisor's to enjoy! Junior Championship: Pobody's NerfectLooking at this section yesterday, I wrote, \"It's early, but th",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/junior-and-senior-championships-heat-round-2",
+         "pubDate" : "Thu, 16 Jul 2026 00:00:00",
+         "title" : "Junior and Senior Championships Heat Up in Round 2"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417912.cms\" />FIDE has approved a revamped qualification system for the 2028 Open and Women's Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/what-i-learned-world-youth-chess-championship",
          "pubDate" : "Wed, 08 Jul 2026 00:00:00",
          "title" : "What I Learned At The World Youth Chess Championship"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2026 Las Vegas Chess Festival. For our full report on the tournament, click here, and for more puzzles from the Tactics Tuesday series, click here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-las-vegas-chess-festival-pt-3",
-         "pubDate" : "Wed, 08 Jul 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 Las Vegas Chess Festival, Pt. 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
