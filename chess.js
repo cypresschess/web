@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Thu, 16 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin, Dmitry Andreikin and Pranesh M. Played from 16 to 22 July, the tournament features seven players rated above 2700. | Photo: Tushar Damor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2026-preview",
          "pubDate" : "Thu, 16 Jul 2026 07:35:00",
-         "title" : "Quantbox Chennai Grand Prix: Gukesh, Firouzja and Abdusattorov head eight-player field"
+         "title" : "Quantbox Chennai Grand Masters: Gukesh, Firouzja and Abdusattorov head eight-player field"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420109.cms\" />At 16, Indian chess prodigy Md Imran was stranded in Slovakia after a bus carrying his passport, visas and belongings left without him. Despite the ordeal, financial struggles and lack of institutional support, he played on to earn two Grandmaster norms. Now on the verge of becoming India's newest GM, Imran urgently awaits reissuance of his US visa to join his scholarship at UTRGV before August 23.",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
          "pubDate" : "Wed, 15 Jul 2026 14:29:20",
          "title" : "No rating-based spots! FIDE launches new qualification system for 2028 Candidates"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Wed, 15 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       },
       {
          "description" : "The first round of classical chess in the Masters and the Generations Challenge Triathlons at the Biel International Chess Festival was played on Tuesday. Each event produced two draws and one winner. Matthias Bluebaum (pictured) drew his game against Yagiz Kaan Erdogmus, while Le Quang Liem defeated Jose Martinez. In the Generations Challenge, Alexandra Kosteniuk beat Carissa Yip. In the Masters Open, Christian Gloeckler surprisingly dropped half a point as early as round two. | Photo: Biel Chess Festival",
