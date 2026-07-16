@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin, Dmitry Andreikin and Pranesh M. Played from 16 to 22 July, the tournament features seven players rated above 2700. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-preview",
+         "pubDate" : "Thu, 16 Jul 2026 07:35:00",
+         "title" : "Quantbox Chennai Grand Prix: Gukesh, Firouzja and Abdusattorov head eight-player field"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420109.cms\" />At 16, Indian chess prodigy Md Imran was stranded in Slovakia after a bus carrying his passport, visas and belongings left without him. Despite the ordeal, financial struggles and lack of institutional support, he played on to earn two Grandmaster norms. Now on the verge of becoming India's newest GM, Imran urgently awaits reissuance of his US visa to join his scholarship at UTRGV before August 23.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/passport-visa-rs-67-lakh-worth-of-gear-lost-stranded-alone-in-europe-survival-of-16-year-old-md-imran-indias-upcoming-grandmaster/articleshow/132420109.cms",
+         "pubDate" : "Thu, 16 Jul 2026 03:30:00",
+         "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417912.cms\" />FIDE has approved a revamped qualification system for the 2028 Open and Women's Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
