@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja was the only winner in the opening round of the Quantbox Chennai Grand Masters, defeating Pranesh M with black to move into the top ten in the live ratings list. The remaining three games were drawn after hard-fought battles, with Nodirbek Abdusattorov, Gukesh Dommaraju and Dmitry Andreikin all having to defend accurately against Hans Niemann, Nihal Sarin and Arjun Erigaisi respectively. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-1",
+         "pubDate" : "Thu, 16 Jul 2026 23:20:00",
+         "title" : "Chennai GMs: Firouzja outplays Pranesh in fighting first round"
+      },
+      {
+         "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2026-2/",
+         "pubDate" : "Thu, 16 Jul 2026 21:25:20",
+         "title" : "ECU GENERAL ASSEMBLY 2026"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Biel Festival - Live!"
       },
       {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Thu, 16 Jul 2026 11:30:00",
-         "title" : "Chennai Grand Masters - Live!"
+         "description" : "GM Alireza Firouzja reentered the top 10 after a win against GM Pranesh M saw him grab the sole lead after round one of the&#38;nbsp;2026 Quantbox Chennai Grand Masters. All the other games featured near misses: GM Gukesh Dommaraju got into trouble ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-1",
+         "pubDate" : "Thu, 16 Jul 2026 13:16:32",
+         "title" : "Firouzja Back In Top 10 After Grabbing Early Lead In Chennai"
       },
       {
          "description" : "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin, Dmitry Andreikin and Pranesh M. Played from 16 to 22 July, the tournament features seven players rated above 2700. | Photo: Tushar Damor",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/big-changes-in-chess-world-cup-fide-approves-new-format-for-open-and-womens-events-from-2027/articleshow/132372833.cms",
          "pubDate" : "Mon, 13 Jul 2026 17:42:51",
          "title" : "Big changes in Chess World Cup! FIDE approves new format for 2027"
-      },
-      {
-         "description" : "Dear chess friends, from July 13-19, you can get the Champion's Bundle: ChessBase'26 & FRITZ 21 - Summer Special: Instead of €269.80, get both for just €209.90! This is our summer special, and it runs for seven days. Two flagships, one price, built to work together.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-2",
-         "pubDate" : "Mon, 13 Jul 2026 17:00:00",
-         "title" : "ChessBase Summer-Special!"
       },
       {
          "description" : "Mick Riding, Grassroots Initiative Chairman, will celebrate his 70th birthday on Saturday 18 July by taking part in the Northumberland leg of an Alzheimer's Society nationwide fundraising initiative. &#160; Mick...",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
          "pubDate" : "Wed, 01 Jul 2026 15:39:34",
          "title" : "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins"
-      },
-      {
-         "description" : "Norway Chess 2026 and the UzChess Cup 2026 were two tournaments that shifted classical ratings for many of the world&#39;s top-15 on the July list. The most notable change was, unusually so, an 18-point drop in GM Magnus Carlsen&#39;s rating, just as he c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/july-2026-fide-ratings",
-         "pubDate" : "Wed, 01 Jul 2026 12:43:27",
-         "title" : "Carlsen Drops 18 Points, Remains Only 2800+ Player In World"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
