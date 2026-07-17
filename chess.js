@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July USA and Uzbekistan, along with India and China, possess the world's current four best chess teams, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan between 15-27 September. Full details of the forthcoming match are <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">here</a>. The two teams in Miami will both be at virtually full strength. USA will field the world Nos 2 and 3, Fabia",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
+         "pubDate" : "Fri, 17 Jul 2026 07:00:01",
+         "title" : "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize"
+      },
+      {
          "description" : "Alireza Firouzja was the only winner in the opening round of the Quantbox Chennai Grand Masters, defeating Pranesh M with black to move into the top ten in the live ratings list. The remaining three games were drawn after hard-fought battles, with Nodirbek Abdusattorov, Gukesh Dommaraju and Dmitry Andreikin all having to defend accurately against Hans Niemann, Nihal Sarin and Arjun Erigaisi respectively. | Photo: Tushar Damor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,22 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-season-4-draft-magnus-carlsen-returns-divya-deshmukh-set-for-debut-all-you-need-to-know/articleshow/132033066.cms",
          "pubDate" : "Sat, 27 Jun 2026 11:10:37",
          "title" : "GCL Season 4 Draft: Carlsen returns, Divya set for debut - all you need to know"
-      },
-      {
-         "description" : " The world No 1 has had difficult periods previously, but at 35 and a wealthy family man, could he now be tempted towards a more relaxed lifestyle? Magnus Carlsen's four defeats in a row during the World Team Rapid in Hong Kong last week, coupled with his disappointing fourth place among six grandmasters in Oslo last month, have sparked discussion about whether the Norwegian, now a wealthy 35-year-old with a baby son, might be tempted towards a further reduction in his chess activities and a more relaxed lifestyle. Carlsen had not previously lost four games in succession since Gausdal 2002, when he was 11 years old. The four defeats came after Carlsen had begun well, with a draw and then two",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jun/26/chess-carlsens-four-defeats-in-a-row-just-a-blip-or-the-start-of-a-career-downturn",
-         "pubDate" : "Fri, 26 Jun 2026 07:00:14",
-         "title" : "Chess: Carlsen's four defeats in a row - just a blip or the start of a career downturn?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132007146.cms\" />FIDE's proposed \"First Rating Experiment\" could allow players to earn official rapid and blitz ratings through online games, bypassing traditional tournament requirements. While the initiative aims to make rated chess more accessible, it has divided India's Grandmasters. Critics fear it could undermine rating credibility and fair play, while supporters view it as a bold step toward expanding chess participation worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unnecessary-move-or-good-initiative-what-indian-chess-gms-are-saying-on-fides-latest-experiment/articleshow/132007146.cms",
-         "pubDate" : "Fri, 26 Jun 2026 04:30:02",
-         "title" : "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'"
       }
    ]
 }
