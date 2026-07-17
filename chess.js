@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Fri, 17 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-excellence-awards-shortlist-gukesh-praggnanandhaa-and-divya-deshmukh-lead-indias-strong-showing/articleshow/132461181.cms",
+         "pubDate" : "Fri, 17 Jul 2026 13:02:06",
+         "title" : "FIDE Excellence Awards shortlists: Gukesh, Praggnanandhaa and Divya Deshmukh lead India's strong showing"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
          "pubDate" : "Fri, 17 Jul 2026 11:30:00",
          "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "Gold members of the ECF are entitled to elect four ECF members to represent their interests on the ECF Council. This year there are seven candidates for those positions, so...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gold-members-representatives-2026-election/",
+         "pubDate" : "Fri, 17 Jul 2026 09:52:28",
+         "title" : "Gold Members Representatives 2026 - election"
+      },
+      {
+         "description" : "International Chess Day is July 20, and this year, you can turn it into a fresh start. We invite you to celebrate this special occasion with us&#38;mdash;while also restarting your longest streak and even winning a permanent and exclusive flair! Rest...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/international-chess-day-2026-rewards",
+         "pubDate" : "Fri, 17 Jul 2026 08:00:00",
+         "title" : "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair"
+      },
+      {
+         "description" : "GM Alireza Firouzja marched on with a nail-biting win over World Champion Gukesh Dommaraju to move to 2/2 and take a one-point lead at the top of the 2026 Quantbox Chennai Grand Masters standings. Only GM Dmitry Andreikin vs. GM Pranesh M was a qu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-2-1",
+         "pubDate" : "Fri, 17 Jul 2026 07:48:34",
+         "title" : "Firouzja Beats Gukesh To Take Full-Point Lead"
       },
       {
          "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
@@ -26,14 +66,6 @@ news_feed (
          "title" : "Assaubayeva, Avramidou Reach Semifinals Through Bullet Skills"
       },
       {
-         "description" : "Alireza Firouzja was the only winner in the opening round of the Quantbox Chennai Grand Masters, defeating Pranesh M with black to move into the top ten in the live ratings list. The remaining three games were drawn after hard-fought battles, with Nodirbek Abdusattorov, Gukesh Dommaraju and Dmitry Andreikin all having to defend accurately against Hans Niemann, Nihal Sarin and Arjun Erigaisi respectively. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-1",
-         "pubDate" : "Thu, 16 Jul 2026 23:20:00",
-         "title" : "Chennai GMs: Firouzja outplays Pranesh in fighting first round"
-      },
-      {
          "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -42,28 +74,12 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2026"
       },
       {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Thu, 16 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
-      },
-      {
          "description" : "GM Alireza Firouzja reentered the top 10 after a win against GM Pranesh M saw him grab the sole lead after round one of the&#38;nbsp;2026 Quantbox Chennai Grand Masters. All the other games featured near misses: GM Gukesh Dommaraju got into trouble ag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-1",
          "pubDate" : "Thu, 16 Jul 2026 13:16:32",
          "title" : "Firouzja Back In Top 10 After Grabbing Early Lead In Chennai"
-      },
-      {
-         "description" : "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin, Dmitry Andreikin and Pranesh M. Played from 16 to 22 July, the tournament features seven players rated above 2700. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-preview",
-         "pubDate" : "Thu, 16 Jul 2026 07:35:00",
-         "title" : "Quantbox Chennai Grand Masters: Gukesh, Firouzja and Abdusattorov head eight-player field"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420109.cms\" />At 16, Indian chess prodigy Md Imran was stranded in Slovakia after a bus carrying his passport, visas and belongings left without him. Despite the ordeal, financial struggles and lack of institutional support, he played on to earn two Grandmaster norms. Now on the verge of becoming India's newest GM, Imran urgently awaits reissuance of his US visa to join his scholarship at UTRGV before August 23.",
@@ -90,36 +106,12 @@ news_feed (
          "title" : "No rating-based spots! FIDE launches new qualification system for 2028 Candidates"
       },
       {
-         "description" : "The first round of classical chess in the Masters and the Generations Challenge Triathlons at the Biel International Chess Festival was played on Tuesday. Each event produced two draws and one winner. Matthias Bluebaum (pictured) drew his game against Yagiz Kaan Erdogmus, while Le Quang Liem defeated Jose Martinez. In the Generations Challenge, Alexandra Kosteniuk beat Carissa Yip. In the Masters Open, Christian Gloeckler surprisingly dropped half a point as early as round two. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-classical-1",
-         "pubDate" : "Wed, 15 Jul 2026 11:35:00",
-         "title" : "Biel: Classical chess sections kicks off with one decisive result per section"
-      },
-      {
          "description" : "The ECU E-Magazine May &#38; June 2026 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine can be read online with interactive links through the following link, or it can be downloaded below in PDF format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-may-june-2026/",
          "pubDate" : "Wed, 15 Jul 2026 10:22:16",
          "title" : "ECU E-Magazine May & June 2026"
-      },
-      {
-         "description" : "\"Even stronger. Even more beautiful. Even more direct.\" That is the slogan ChessBase uses to promote the latest edition of its well-known Fritz series. But what does the new version actually offer? Who is Fritz 21 designed for? Lukas K&ouml;pl took a close look at the latest release to find out what really lies behind the promises of being stronger, better looking and more direct.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-fritz-21",
-         "pubDate" : "Wed, 15 Jul 2026 10:00:00",
-         "title" : "Review: Fritz 21"
-      },
-      {
-         "description" : "Oleg Skvortsov, one of chess's leading patrons, has passed away. Between 2012 and 2017, he organized a series of world-class chess events, matches, and tournaments in Zurich, while also supporting the game through a number of other projects. | Photo: Wladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memoriam-oleg-skvortsov-1969-2026",
-         "pubDate" : "Wed, 15 Jul 2026 09:04:01",
-         "title" : "In Memoriam: Oleg Skvortsov (1969-2026)"
       },
       {
          "description" : "Junior and Senior Championships Underway in St. LouisCan we squeeze a few more boards in? The 2026 U.S. Junior and Senior Chess Championships began Tuesday, July 14, in St. Louis with its largest - and most inclusive - field yet. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> (Grand)Master of Ceremonies Yasser Seirawan presiding over the drawing of lots in St. Louis. (Photo courtesy SLCC/Crystal Fuller)<br> <br> The freshly renovated Saint Louis Chess Club (SLCC) has long hosted the U.S. Junior, Girls' Junior, Girls' Junior, and Senior tournaments. But, since its inception in 2023, the U.S. Senior Women's Championship had taken place separately from the three",
@@ -138,22 +130,6 @@ news_feed (
          "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 1"
       },
       {
-         "description" : "Twenty years ago, on 14 July 2006, Aleksander Wojtkiewicz passed away. Born in Soviet Latvia in 1963, he was one of the country's greatest chess talents and trained under Mikhail Tal. He later went into hiding to avoid military service, became involved in gambling and pimping, served a prison sentence, and after his release became a chess nomad. His early death in Baltimore was tragic.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aleksander-wojtkiewicz-15-january-1963-14-july-2006-a-chess-vagabond-remembered",
-         "pubDate" : "Tue, 14 Jul 2026 20:00:00",
-         "title" : "Aleksander Wojtkiewicz (15 January 1963 - 14 July 2006): A Chess Vagabond Remembered"
-      },
-      {
-         "description" : "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women's Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportunities while maintaining a balanced pathway through FIDE's premier competitions. Full information in this FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qualification-paths-for-2028-candidates",
-         "pubDate" : "Tue, 14 Jul 2026 19:30:00",
-         "title" : "Qualification paths for 2028 Candidates: No more rating spot, two places for Total Chess top scorers"
-      },
-      {
          "description" : "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women&#39;s Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,30 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-july-14-2026",
          "pubDate" : "Tue, 14 Jul 2026 12:35:37",
          "title" : "Maghsoodloo Wins Titled Tuesday With Ease"
-      },
-      {
-         "description" : "\"Enjoy the best game. Ever.\" This bold slogan is the motto of New in Chess Magazine, and in its six annual issues, it does much to justify that claim. The second issue of 2026 offers an appealing mix of tournament reports, training articles and insights into the world of chess. At its heart, however, are moving tributes to the Dutch grandmaster and author Jan Timman, who passed away on 18 February 2026. | Photo: Jan Timman 2019 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-jan-timman-new-in-chess-magazine-2026-2",
-         "pubDate" : "Tue, 14 Jul 2026 10:45:39",
-         "title" : "Remembering Jan Timman: New in Chess Magazine - 2026#2"
-      },
-      {
-         "description" : "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defense and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Polugaevsky and Rashid Nezhmetdinov becomes a spectacular attacking lesson, where Black keeps the white king trapped in the center and launches a dangerous pawn and piece storm. The episode ends with a beautiful queen sacrifice, a wild king hunt, and a forced mate that makes the line both instructive and highly entertaining.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-art-of-exchanges",
-         "pubDate" : "Tue, 14 Jul 2026 10:05:00",
-         "title" : "Svitlana's Smart Moves - The art of exchanges"
-      },
-      {
-         "description" : "Levon Aronian and Vaclav Finek took the early lead in the two triathlon events at the Biel Chess Festival by winning their respective rapid sections. Aronian scored 9/10 in the Masters, finishing 3 points clear of Aydin Suleymanli, while Finek topped the Generations Challenge with 8/10, 1 point ahead of Xiao Tong and Marco Materia. The classical sections of both competitions begin on Tuesday. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-rapid",
-         "pubDate" : "Tue, 14 Jul 2026 03:20:00",
-         "title" : "Biel: Aronian and Finek outright winners in rapid segment"
       },
       {
          "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, beginning tomorrow, in our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -242,36 +194,12 @@ news_feed (
          "title" : "FIDE Transforms 2027 World Cup Format"
       },
       {
-         "description" : "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments, create training questions and even provide an overall game summary. This is a useful tool for studying classic games, analyzing your own tournament games and finding the hidden lessons in every position.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-tactical-analysis-9",
-         "pubDate" : "Mon, 13 Jul 2026 12:00:00",
-         "title" : "ChessBase tips for beginners - Tactical Analysis (9)"
-      },
-      {
-         "description" : "Did you attend the Checkmate: USA v. India exhibition match in the Esports Stadium in Arlington, Texas? No? Was it too far away? Well, you can visit the event virtually, get a feel for the atmosphere and the mood of the players, in this gigantic photo report sent to us by Ashwin Subramanian, senior leader at Intel in India, who was equipped with an advanced digital camera. Take a deep breath and plunge into the collection of pictorial impressions he provides.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ashwin-s-checkmate-chronicles",
-         "pubDate" : "Mon, 13 Jul 2026 09:58:39",
-         "title" : "Ashwin's Checkmate Chronicles"
-      },
-      {
          "description" : "In a typical summer, I would play in the National Open, in Las Vegas, the World Open, in Philadelphia, and other annual tournaments. This year I'm focusing less on chess, but I still wanted to play in the inaugural Naroditsky Memorial Rapid and Blitz, organized July 3-5 by the Charlotte Chess Center, where Danya was a GM-in-residence during the last years of his life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Charlotte Chess Center/Kelly Centrelli.<br> <br> I went to the Naroditsky memorial, though, primarily as a way to honor Danya, ag",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/naroditsky-memorial-honors-danyas-legacy-sindarov-sweeps",
          "pubDate" : "Mon, 13 Jul 2026 00:00:00",
          "title" : "Naroditsky Memorial Honors Danya's Legacy as Sindarov Sweeps"
-      },
-      {
-         "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-2",
-         "pubDate" : "Sun, 12 Jul 2026 19:00:00",
-         "title" : "Can you solve these positions from the Chola Chess camp? - Second edition"
       },
       {
          "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ...",
@@ -624,22 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
          "pubDate" : "Thu, 02 Jul 2026 19:40:00",
          "title" : "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final"
-      },
-      {
-         "description" : "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid &#38;amp; Blitz Croatia. GM Bogdan-Daniel Deac began in style with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
-         "pubDate" : "Thu, 02 Jul 2026 14:11:00",
-         "title" : "Firouzja Extends Lead As Gukesh Hits Back"
-      },
-      {
-         "description" : "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
-         "pubDate" : "Thu, 02 Jul 2026 08:00:00",
-         "title" : "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
