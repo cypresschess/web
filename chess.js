@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In September, Samarkand will host the 46th Chess Olympiad. After FIDE was founded in 1924, the first international team tournament was held in Budapest in the summer of 1926, albeit with only a small number of teams. From these modest beginnings, the tradition of the Chess Olympiad developed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-congress-budapest-1926",
+         "pubDate" : "Fri, 17 Jul 2026 18:00:00",
+         "title" : "The 1926 FIDE Congress in Budapest"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-2-1",
-         "pubDate" : "Fri, 17 Jul 2026 07:48:34",
+         "pubDate" : "Fri, 17 Jul 2026 07:48:00",
          "title" : "Firouzja Beats Gukesh To Take Full-Point Lead"
       },
       {
@@ -64,6 +72,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-wscc-qf-divya-assaubayeva-lagno-avramidou",
          "pubDate" : "Fri, 17 Jul 2026 04:00:49",
          "title" : "Assaubayeva, Avramidou Reach Semifinals Through Bullet Skills"
+      },
+      {
+         "description" : "Hitting the road with GM Jianchao ZhouEditor's note: this story first appeared in the July 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Jianchao Zhou at the 2023 U.S. Masters. (Photo courtesy David Llada)<br> <br> <br> <br> Want to win the Grand Prix? It takes more than you might think.GM Jianchao Zhou has won it three years in a row, and he's got a sizable lead in this year's standings.And",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-traveling-man",
+         "pubDate" : "Fri, 17 Jul 2026 00:00:00",
+         "title" : "Inside Story: Traveling Man"
+      },
+      {
+         "description" : "Clear Leaders Emerge After Round 3Just three days into the 2026 Junior and Senior Championships, we have a clear leader in all four sections. There's still two more rounds before the rest day, so players are getting creative: <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Brewington Hardaway (L) and Alexander Shabalov take rest where they can get it! (Photos courtesy SLCC/Lennart Ootes)<br> <br> WIM Rachael Li and GM Vladimir Akopian - in the Girls' Junior and Senior, respectively - are the lone players with 3/3 scores. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/standings-take-shape-junior-and-senior-championships-round-3",
+         "pubDate" : "Fri, 17 Jul 2026 00:00:00",
+         "title" : "Standings Take Shape in Junior and Senior Championships Round 3"
       },
       {
          "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
@@ -306,14 +330,6 @@ news_feed (
          "title" : "Exclusive: India gets its 98th GM! The making of teenage chess sensation Aswath S"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> 99 years ago, 16 nations sent their top players to London to determine the best chess country in the world, and the Chess Olympiad was born. The U.S. dominated the early competitions, winning the gold medals in gold in four separate Olympiads in the 1930s thanks to the likes of future GMs Isaac Kashdan, Frank Marshall, Reuben Fine, and, eventually, a young Samuel Reshevsky. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The 1937 U.S. team in Stockholm. From left: Samuel Reshevsky, Al Horowitz, Fritz Brieger (Sponsor), Frank Marshall, Reuben Fine, and Isaac Kashdan. (Photographer unk",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/evolution-olympiad",
-         "pubDate" : "Thu, 09 Jul 2026 00:00:00",
-         "title" : "Evolution of the Olympiad"
-      },
-      {
          "description" : " The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-counties-champions/",
          "pubDate" : "Wed, 08 Jul 2026 08:57:11",
          "title" : "2026 Counties Champions"
-      },
-      {
-         "description" : "My Journey to ItalyI spent years dreaming about having the opportunity to play chess on a global stage. I imagined what it would feel like to see the American flag next to my board as I played against world-class chess players, gaining so much knowledge about chess. I pictured hearing dozens of languages being spoken in a single room as I traded contact information with players from countries I had only heard of from playing Sporcle's Countries of the World Quiz.This June, that dream became a reality when I represented the United States at my first ever World Youth Chess Championship (WYCC) in Italy. I've seen just how far chess can take you: looking across the board becomes looking across t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/what-i-learned-world-youth-chess-championship",
-         "pubDate" : "Wed, 08 Jul 2026 00:00:00",
-         "title" : "What I Learned At The World Youth Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
