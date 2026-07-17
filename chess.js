@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE Excellence Awards shortlists: Gukesh, Praggnanandhaa and Divya Deshmukh lead India's strong showing"
       },
       {
+         "description" : "GM Hikaru Nakamura streamed his way to victory in the first 3 0 Thursday on July 16. On stream, he described the time control as clearly his strongest, explaining that it&#39;s faster than the five-minute time control used in Titled Tuesdays and that ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-drygalov-terry-3-0-thursday-07-16-2026",
+         "pubDate" : "Fri, 17 Jul 2026 12:35:00",
+         "title" : "Nakamura Tops 3 0 Thursday In His \"Best Time Control\""
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/born-exactly-50-years-after-garry-kasparov-how-13-year-old-maths-olympiad-genius-pratitee-bordoloi-became-indias-lone-medallist-at-world-youth-chess/articleshow/132151234.cms",
          "pubDate" : "Fri, 03 Jul 2026 03:20:38",
          "title" : "Born 50 yrs after Kasparov! How 13-yo Pratitee became India's lone medallist at World Youth Chess"
-      },
-      {
-         "description" : "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women&#39;s Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
-         "pubDate" : "Thu, 02 Jul 2026 19:40:00",
-         "title" : "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
