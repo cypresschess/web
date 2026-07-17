@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July USA and Uzbekistan, along with India and China, possess the world's current four best chess teams, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan between 15-27 September. Full details of the forthcoming match are <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">here</a>. The two teams in Miami will both be at virtually full strength. USA will field the world Nos 2 and 3, Fabia",
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Fri, 17 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
          "pubDate" : "Fri, 17 Jul 2026 07:00:01",
          "title" : "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize"
+      },
+      {
+         "description" : "GM Bibisara Assaubayeva and WGM Anastasia Avramidou progressed to the Semifinals of the 2026 Women&#39;s Speed Chess Championship with contrasting victories over GMs Divya Deshmukh and Kateryna Lagno&#38;nbsp;respectively, in the first set of quarterfinal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-qf-divya-assaubayeva-lagno-avramidou",
+         "pubDate" : "Fri, 17 Jul 2026 04:00:49",
+         "title" : "Assaubayeva, Avramidou Reach Semifinals Through Bullet Skills"
       },
       {
          "description" : "Alireza Firouzja was the only winner in the opening round of the Quantbox Chennai Grand Masters, defeating Pranesh M with black to move into the top ten in the live ratings list. The remaining three games were drawn after hard-fought battles, with Nodirbek Abdusattorov, Gukesh Dommaraju and Dmitry Andreikin all having to defend accurately against Hans Niemann, Nihal Sarin and Arjun Erigaisi respectively. | Photo: Tushar Damor",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2026-crowned/",
          "pubDate" : "Fri, 10 Jul 2026 10:45:21",
          "title" : "European Youth Rapid and Blitz Chess Champions 2026 crowned"
-      },
-      {
-         "description" : "There are now just three weeks to go before ChessFest returns to Trafalgar Square on&#160;Sunday 12th July 2026, 12pm-7pm.&#160;Once again, we'll be&#160;taking over the whole square for a day of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-returns-12th-july/",
-         "pubDate" : "Fri, 10 Jul 2026 08:00:21",
-         "title" : "ChessFest 2026 in Trafalgar Square - this weekend!"
       },
       {
          "description" : " The Frenchman is ranked world No 12, but that is a disappointment after he became the youngest ever 2800-rated player at 18 years and five months Alireza Firouzja is shaping up to be one of the nearly men of grandmaster chess. The Iran-born Frenchman, 23, has just won the St Louis-organised Croatia Super Rapid and Blitz in Zagreb. He was far ahead at the start of the last day, but had a poor run of 2/7 during the final rounds before a successful Armageddon tie-break. Firouzja's career has been limited by his below-par performances in the Candidates. In 2022, he spoiled his chances by playing blitz into the small hours; in 2024, he did worse still, finishing seventh out of eight. He made a m",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
          "pubDate" : "Thu, 02 Jul 2026 08:00:00",
          "title" : "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges"
-      },
-      {
-         "description" : "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid &#38;amp; Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
-         "pubDate" : "Wed, 01 Jul 2026 15:39:34",
-         "title" : "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
