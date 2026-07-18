@@ -18,6 +18,14 @@ news_feed (
          "title" : "Real Growth Happens Through Discomfort"
       },
       {
+         "description" : "GM Arjun Erigaisi became the first player other than GM Alireza Firouzja to win a game in the 2026 Quantbox Chennai Grand Masters after carefully defusing an inventive queen sacrifice by GM Hans Niemann. Firouzja leads by half a point after making...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
+         "pubDate" : "Sat, 18 Jul 2026 11:37:38",
+         "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
          "pubDate" : "Fri, 03 Jul 2026 12:06:07",
          "title" : "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo"
-      },
-      {
-         "description" : "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-murzin-taher-3-0-thursday-07-03-2026",
-         "pubDate" : "Fri, 03 Jul 2026 07:06:31",
-         "title" : "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments"
       },
       {
          "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
