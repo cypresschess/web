@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Whether your focus is strategy, technique or opening theory, ChessBase's June releases have something for everyone. Renowned authors such as Adrian Mikhalchishin and Andrew Martin share a wealth of practical advice, while ChessBase newcomers Kostya Kavutskiy and Andy Woodward make an impressive debut with their first courses. The month also brings new Powerbase and Powerbook titles on the Slav and the Semi-Slav. Take a look at all the new releases from June!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june-2",
+         "pubDate" : "Sat, 18 Jul 2026 07:00:00",
+         "title" : "Review: All new releases in June!"
+      },
+      {
          "description" : "In September, Samarkand will host the 46th Chess Olympiad. After FIDE was founded in 1924, the first international team tournament was held in Budapest in the summer of 1926, albeit with only a small number of teams. From these modest beginnings, the tradition of the Chess Olympiad developed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
