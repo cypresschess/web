@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2026-07-17","21","<a href=https://ratings.uschess.org/event/202607170283 target='_blank'>FBCC 2026 National Peach Ice Cream</a>",
+"SPRING","2026-07-17","25","<a href=https://ratings.uschess.org/event/202607170273 target='_blank'>The Friday Knights</a>",
+"HOUSTON","2026-07-17","13","<a href=https://ratings.uschess.org/event/202607170133 target='_blank'>JULY 17  CHESSMASTERS DAYLIGHT OPEN</a>",
 "HOUSTON","2026-07-12","183","<a href=https://ratings.uschess.org/event/202607120763 target='_blank'>2026 Houston Chess Festival</a>",
 "HOUSTON","2026-07-11","25","<a href=https://ratings.uschess.org/event/202607111053 target='_blank'>2026 Houston Chess Festival Blitz</a>",
 "HOUSTON","2026-07-11","43","<a href=https://ratings.uschess.org/event/202607111033 target='_blank'>2026 Houston Chess Festival Scholastic</a>",
@@ -96,7 +99,4 @@ jtable([
 "CYPRESS","2026-04-24","45","<a href=https://ratings.uschess.org/event/202604240183 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-04-24","11","<a href=https://ratings.uschess.org/event/202604240173 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-04-24","8","<a href=https://ratings.uschess.org/event/202604240113 target='_blank'>FBCC 2026 Rainy Days Open</a>",
-"HOUSTON","2026-04-19","15","<a href=https://ratings.uschess.org/event/202604190543 target='_blank'>Bellaire Sunday Swiss 2026.04.19</a>",
-"HOUSTON","2026-04-19","2","<a href=https://ratings.uschess.org/event/202604190393 target='_blank'>Match Play</a>",
-"SUGAR LAND","2026-04-19","11","<a href=https://ratings.uschess.org/event/202604190173 target='_blank'>Sunbridge Learning Chess Tournament</a>",
 ]);
