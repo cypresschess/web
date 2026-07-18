@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Sat, 18 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "Whether your focus is strategy, technique or opening theory, ChessBase's June releases have something for everyone. Renowned authors such as Adrian Mikhalchishin and Andrew Martin share a wealth of practical advice, while ChessBase newcomers Kostya Kavutskiy and Andy Woodward make an impressive debut with their first courses. The month also brings new Powerbase and Powerbook titles on the Slav and the Semi-Slav. Take a look at all the new releases from June!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-drygalov-terry-3-0-thursday-07-16-2026",
          "pubDate" : "Fri, 17 Jul 2026 12:35:00",
          "title" : "Nakamura Tops 3 0 Thursday In His \"Best Time Control\""
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Fri, 17 Jul 2026 11:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "Gold members of the ECF are entitled to elect four ECF members to represent their interests on the ECF Council. This year there are seven candidates for those positions, so...",
@@ -624,14 +624,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/good-focus/",
          "pubDate" : "Sat, 27 Jun 2026 13:00:00",
          "title" : "You Can't Force Focus"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132033066.cms\" />The Global Chess League (GCL) Season 4 Player Draft will be held in Mumbai on June 29, with the tournament set to take place in Bengaluru from September 3-13. World No. 1 Magnus Carlsen returns after missing last season, while FIDE Women's World Cup champion Divya Deshmukh will make her debut. The player pool features 36 Grandmasters, including Viswanathan Anand and Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-season-4-draft-magnus-carlsen-returns-divya-deshmukh-set-for-debut-all-you-need-to-know/articleshow/132033066.cms",
-         "pubDate" : "Sat, 27 Jun 2026 11:10:37",
-         "title" : "GCL Season 4 Draft: Carlsen returns, Divya set for debut - all you need to know"
       }
    ]
 }
