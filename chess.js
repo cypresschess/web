@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
-         "pubDate" : "Sat, 18 Jul 2026 11:37:38",
+         "pubDate" : "Sat, 18 Jul 2026 11:37:00",
          "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
       },
       {
