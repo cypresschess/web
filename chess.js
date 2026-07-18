@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Sat, 18 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
+         "description" : "I keep getting the same question from Real Chess Training students: &#8220;The 6 positions in 45 minutes really push me. Can I adjust it a little bit to make it easier?&#8221; My answer is, and always will be: no. The difficulty is the whole point. A World of Comfort We've confused comfort with success. And []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/real-growth-happens-through-discomfort/",
+         "pubDate" : "Sat, 18 Jul 2026 13:00:00",
+         "title" : "Real Growth Happens Through Discomfort"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "Review: All new releases in June!"
       },
       {
+         "description" : "Rachael Li Improves to 4/4, All Sections Remain TightOnly two players are better than 3/4 in the 2026 U.S. Junior and Senior Championships. And they're in the same section!WIM Rachael Li improved to 4/4 in the Girls' Junior Championship thanks to an 11th hour victory in a rook-and-pawn endgame, but WGM Zoey Tang kept pace, reeling off a third consecutive victory of her own.In the other three sections, the pre-round leader either drew or (in both Senior events) lost, tightening the races.Annotations are from your Digital Editor today and tomorrow. But there's going to be some bonus color commentary tomorrow, as well. If you look at who has the bye in today's Senior Women Championship, you sho",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-4-rachael-li-does-it-again",
+         "pubDate" : "Sat, 18 Jul 2026 00:00:00",
+         "title" : "Junior and Senior Championships Round 4: Rachael Li Does It Again"
+      },
+      {
          "description" : "In September, Samarkand will host the 46th Chess Olympiad. After FIDE was founded in 1924, the first international team tournament was held in Budapest in the summer of 1926, albeit with only a small number of teams. From these modest beginnings, the tradition of the Chess Olympiad developed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-congress-budapest-1926",
          "pubDate" : "Fri, 17 Jul 2026 18:00:00",
          "title" : "The 1926 FIDE Congress in Budapest"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Fri, 17 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
       },
       {
-         "description" : "Races Remain Tight After Tense Second RoundWe are only two rounds into the four 2026 U.S. Junior and Senior Championship tournaments, and yet only three perfect 2/2 scores (out of 39 players - more on that later) remain at the Saint Louis Chess Club (SLCC).Play calmed down slightly after a vicious Round 1 that saw a 70% rate of decisive games, but Wednesday still generated 11 decisive results.We started with the two senior events yesterday, so today we'll start with the youngsters. But, just like yesterday, we still have commentary from 2017 U.S. Women's Champion WGM Sabina Foisor's to enjoy! Junior Championship: Pobody's NerfectLooking at this section yesterday, I wrote, \"It's early, but th",
+         "description" : "Races Remain Tight After Tense Second RoundWe are only two rounds into the four 2026 U.S. Junior and Senior Championship tournaments, and yet only three perfect 2/2 scores (out of 39 players - more on that later) remain at the Saint Louis Chess Club (SLCC).Play calmed down slightly after a vicious Round 1 that saw a 70% rate of decisive games, but Wednesday still generated 11 decisive results.We started with the two senior events yesterday, so today we'll start with the youngsters. But, just like yesterday, we still have commentary from 2017 U.S. Women's Champion WGM Sabina Foisor to enjoy! Junior Championship: Pobody's NerfectLooking at this section yesterday, I wrote, \"It's early, but this",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/junior-and-senior-championships-heat-round-2",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/update-safesport-enrollment",
          "pubDate" : "Fri, 10 Jul 2026 00:00:00",
          "title" : "Update on SafeSport Enrollment"
-      },
-      {
-         "description" : "For the Semiquincentennial - the 250th anniversary of the United States Declaration of Independence - the nation's capital welcomed visitors from all over, hosted dazzling displays of fireworks, and celebrated many reunions of friends and families alike.And that was just at the 54th Annual World Open, held July 1 through 5 at the Omni Shoreham Hotel in Washington, D.C. The tournament returns to Philadelphia next year, but this year's edition gave almost 1,200 players an excuse to be part of a historic anniversary.Tourists decked out in red, white, and blue, looked at the playing halls with a mix of curiosity and confusion, wondering why so many would elect to spend a holiday weekend inside. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fireworks-dc-world-open",
-         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
-         "title" : "Fireworks in D.C. for World Open"
       },
       {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
          "pubDate" : "Sun, 28 Jun 2026 01:16:45",
          "title" : "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story"
-      },
-      {
-         "description" : "Some students misunderstand what I mean by saying: \"Play with good focus.\" In their minds, this means quickly getting into a state of flow, consistently. But that's not possible. And worse, this wrong expectation is what makes good focus so much harder. Forcing Yourself To Fall Asleep I'm sure you know the feeling of lying []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/good-focus/",
-         "pubDate" : "Sat, 27 Jun 2026 13:00:00",
-         "title" : "You Can't Force Focus"
       }
    ]
 }
