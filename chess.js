@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, Dr Dieter Keller of Zurich celebrates his 90th birthday. Heartfelt congratulations to the International Master, who defeated several of the leading players of his time, most notably Bobby Fischer, Efim Geller, Bent Larsen and Oscar Panno. Eduard Frey presents highlights from a remarkable life. | Photo: Dieter Keller at the Zurich International Tournament 1959 | Source: Tournament book, via Europe Échecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-swiss-amateur-who-beat-bobby-fischer-turns-90-happy-birthday-dieter-keller",
+         "pubDate" : "Sun, 19 Jul 2026 16:00:00",
+         "title" : "The Swiss amateur who beat Bobby Fischer turns 90: Happy birthday, Dieter Keller!"
+      },
+      {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Sun, 19 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-18-2026",
-         "pubDate" : "Sat, 18 Jul 2026 21:10:58",
+         "pubDate" : "Sat, 18 Jul 2026 21:10:00",
          "title" : "Nakamura Wins Back-To-Back Bullet Brawl Following Late Surge"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Sat, 18 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       },
       {
          "description" : "I keep getting the same question from Real Chess Training students: &#8220;The 6 positions in 45 minutes really push me. Can I adjust it a little bit to make it easier?&#8221; My answer is, and always will be: no. The difficulty is the whole point. A World of Comfort We've confused comfort with success. And []",
