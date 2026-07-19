@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Sun, 19 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "Working with ChessBase&acute;26 is so enjoyable because it builds on the experience of the developers from 18 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
          "pubDate" : "Sat, 18 Jul 2026 11:37:00",
          "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Sat, 18 Jul 2026 11:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "Whether your focus is strategy, technique or opening theory, ChessBase's June releases have something for everyone. Renowned authors such as Adrian Mikhalchishin and Andrew Martin share a wealth of practical advice, while ChessBase newcomers Kostya Kavutskiy and Andy Woodward make an impressive debut with their first courses. The month also brings new Powerbase and Powerbook titles on the Slav and the Semi-Slav. Take a look at all the new releases from June!",
@@ -616,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-97th-chess-grandmaster-harshavardhan-gb-a-legend-among-friends-now-his-parents-pride/articleshow/132062344.cms",
          "pubDate" : "Mon, 29 Jun 2026 03:51:46",
          "title" : "The making of India's 97th Chess Grandmaster Harshavardhan GB: A 'legend' among friends, now his parents' pride"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132049956.cms\" />Kolkata's Sarbartho Mani produced a strong comeback to win silver in the Under-10 Open category at the FIDE World Cadet Cup in Georgia. The 10-year-old finished with 8.5 points, just half a point behind champion Rizat Ulan of Kazakhstan. After slipping to eighth place following his only defeat, Mani won his final two games to secure a podium finish and qualify for the World Cadet Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-sarbartho-mani-fights-back-to-win-silver-at-fide-world-cadet-cup-qualifies-for-world-cship/articleshow/132049956.cms",
-         "pubDate" : "Sun, 28 Jun 2026 11:19:02",
-         "title" : "Mani wins silver at FIDE World Cadet Cup, qualifies for World C'ship"
       }
    ]
 }
