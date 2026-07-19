@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-07-18","5","<a href=https://ratings.uschess.org/event/202607180133 target='_blank'>chesspanda07182026saturday</a>",
 "SUGAR LAND","2026-07-17","21","<a href=https://ratings.uschess.org/event/202607170283 target='_blank'>FBCC 2026 National Peach Ice Cream</a>",
 "SPRING","2026-07-17","25","<a href=https://ratings.uschess.org/event/202607170273 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-07-17","13","<a href=https://ratings.uschess.org/event/202607170133 target='_blank'>JULY 17  CHESSMASTERS DAYLIGHT OPEN</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-04-25","11","<a href=https://ratings.uschess.org/event/202604250383 target='_blank'>chesspanda04252026saturday</a>",
 "CYPRESS","2026-04-24","45","<a href=https://ratings.uschess.org/event/202604240183 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-04-24","11","<a href=https://ratings.uschess.org/event/202604240173 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-04-24","8","<a href=https://ratings.uschess.org/event/202604240113 target='_blank'>FBCC 2026 Rainy Days Open</a>",
 ]);
