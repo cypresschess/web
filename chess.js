@@ -616,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
          "pubDate" : "Sun, 28 Jun 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132044384.cms\" />Born months after the Fukushima nuclear disaster forced his parents to leave Japan, Ethan Vaz's journey to becoming India's 96th Grandmaster at just 14 has been defined by sacrifice and remarkable family support. From replacing cartoons with chess to navigating financial uncertainty, Ethan's rise mirrors both extraordinary talent and a family's all-in pursuit of a dream.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-96th-chess-grandmaster-from-2011-fukushima-nuclear-disaster-in-japan-to-gm-at-14-the-ethan-vaz-story/articleshow/132044384.cms",
-         "pubDate" : "Sun, 28 Jun 2026 01:16:45",
-         "title" : "From 2011 Fukushima nuclear disaster in Japan to GM at 14: The Ethan Vaz story"
       }
    ]
 }
