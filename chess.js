@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Working with ChessBase&acute;26 is so enjoyable because it builds on the experience of the developers from 18 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
+         "pubDate" : "Sun, 19 Jul 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 23: Stay up to date with program updates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132490725.cms\" />After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
+         "pubDate" : "Sun, 19 Jul 2026 06:32:37",
+         "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
+      },
+      {
+         "description" : "Less than 48 hours after claiming that 3+0 is his &#34;best time control,&#34; GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-18-2026",
+         "pubDate" : "Sat, 18 Jul 2026 21:10:58",
+         "title" : "Nakamura Wins Back-To-Back Bullet Brawl Following Late Surge"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "Perfect Praggnanandhaa Catches Firouzja"
       },
       {
-         "description" : "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
-         "pubDate" : "Fri, 03 Jul 2026 12:06:07",
-         "title" : "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo"
-      },
-      {
          "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-sarbartho-mani-fights-back-to-win-silver-at-fide-world-cadet-cup-qualifies-for-world-cship/articleshow/132049956.cms",
          "pubDate" : "Sun, 28 Jun 2026 11:19:02",
          "title" : "Mani wins silver at FIDE World Cadet Cup, qualifies for World C'ship"
-      },
-      {
-         "description" : "Do you know the powerful training tool in ChessBase&acute;26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move-sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or not, the choice is yours. Train in a realistic setting, get instant feedback, and systematically improve your play-whether you're a beginner or an ambitious tournament player. In this tutorial, we'll guide you step by step through how Replay Training works. Let's get started!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
-         "pubDate" : "Sun, 28 Jun 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)"
       }
    ]
 }
