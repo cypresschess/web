@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
+         "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-4",
+         "pubDate" : "Sun, 19 Jul 2026 10:32:00",
+         "title" : "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw"
+      },
+      {
          "description" : "Working with ChessBase&acute;26 is so enjoyable because it builds on the experience of the developers from 18 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
          "pubDate" : "Sun, 19 Jul 2026 06:32:37",
          "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
+      },
+      {
+         "description" : "Seize the Day: Senior Women at the Saint Louis Chess ClubEditor's note: As I teased in yesterday's report, we're taking a break from the usual coverage today to do something different. WIM Alexey Root had the day off during Saturday's fifth round, so we asked her to share her experiences so far during the U.S. Senior Women's Championship's first year at the Saint Louis Chess Club (SLCC).At the bottom, I'll include a brief recap of Round 5 and key games. Today is the tournament's rest day, and the tournament resumes Monday, July 20 with Round 6.The 2026 U.S. Senior Women's Championship is at the Saint Louis Chess Club. And its participants are making the most of their time in the chess capita",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/seize-day-senior-women-saint-louis-chess-club",
+         "pubDate" : "Sun, 19 Jul 2026 00:00:00",
+         "title" : "Seize the Day: Senior Women at the Saint Louis Chess Club"
       },
       {
          "description" : "Less than 48 hours after claiming that 3+0 is his &#34;best time control,&#34; GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi...",
@@ -370,14 +386,6 @@ news_feed (
          "title" : "Not Throwing Away My Shot"
       },
       {
-         "description" : "The U.S. Center for SafeSport (\"SafeSport\") has created a custom training module for US Chess that incorporates the negotiated discounts for SafeSport Trained (core), Refresher 1, and Refresher 3 courses (Refresher 2 remains free). This means members will no longer need to input discount codes to access the courses.Going forward, if you have already linked your SafeSport profile to US Chess, you should automatically have the option to select the courses as shown below: <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Be sure to select the titles that contain \"-US Chess Federation.\" If the options with the \"-NGB\" remain on your menu, you can still sign up for the course b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-safesport-enrollment",
-         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
-         "title" : "Update on SafeSport Enrollment"
-      },
-      {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2026/07/04/2026-07-04.national-initiative-with-leap/",
          "pubDate" : "Sat, 04 Jul 2026 00:00:00",
          "title" : "National Initiative with LEAP Company"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid &#38;amp; Blitz Croatia as co-leader after winning all three games on day three&#38;mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&#38;mdash;to catch GM Alireza...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
-         "pubDate" : "Fri, 03 Jul 2026 14:54:00",
-         "title" : "Perfect Praggnanandhaa Catches Firouzja"
       },
       {
          "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
