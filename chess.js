@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you know that today is the International Chess Day, which commemorates the founding of FIDE in 1924. Every year on July 20, the global chess community comes together to celebrate International Chess Day, by staging a game in the most unusual, meaningful or symbolic places - whether on a mountaintop, beside a famous landmark, underwater or anywhere else that captures the imagination. Here are some inspiring examples provided by FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-chess-day-2026",
+         "pubDate" : "Mon, 20 Jul 2026 22:45:00",
+         "title" : "International Chess Day 2026"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,19 +26,11 @@ news_feed (
          "title" : "Chess Joins Junior Olympics As AAU Adds Chess Program"
       },
       {
-         "description" : "Arjun Erigaisi moved into sole second place at the Quantbox Chennai Grand Masters after scoring the only win across rounds three and four. His victory over Hans Niemann left him half a point behind leader Alireza Firouzja (pictured), who has 3/4. All four games in Sunday's fourth round were drawn. The seven-round tournament runs until Wednesday. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-4",
-         "pubDate" : "Mon, 20 Jul 2026 09:45:00",
-         "title" : "Chennai GMs: Firouzja leads, Erigaisi in sole second place"
-      },
-      {
          "description" : "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
-         "pubDate" : "Mon, 20 Jul 2026 08:29:52",
+         "pubDate" : "Mon, 20 Jul 2026 08:29:00",
          "title" : "Arjun Stuns Gukesh As Abdusattorov Also Joins Fight For 1st"
       },
       {
@@ -42,12 +42,12 @@ news_feed (
          "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
       },
       {
-         "description" : "Today, Dr Dieter Keller of Zurich celebrates his 90th birthday. Heartfelt congratulations to the International Master, who defeated several of the leading players of his time, most notably Bobby Fischer, Efim Geller, Bent Larsen and Oscar Panno. Eduard Frey presents highlights from a remarkable life. | Photo: Dieter Keller at the Zurich International Tournament 1959 | Source: Tournament book, via Europe Échecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-swiss-amateur-who-beat-bobby-fischer-turns-90-happy-birthday-dieter-keller",
-         "pubDate" : "Sun, 19 Jul 2026 16:00:00",
-         "title" : "The Swiss amateur who beat Bobby Fischer turns 90: Happy birthday, Dieter Keller!"
+         "description" : "Editor's note: This report by WIM Iris Mou, Lisa Sun, and WIM Kelsey Liu details how a group of dedicated high school chess players were able to plan, coordinate, and organize a free chess festival for 60 girls in New York City.WIM Iris Mou is a rising senior at the Dalton School, and she is currently competing in the U.S. Girls' Junior Championship. Together with Lisa Sun, she serves as a co-president of Rooks and Roots, handling communications, marketing, outreach, event planning, curriculum design, teaching, and more. Lisa Sun is a rising junior at Hunter College High School and has been playing chess tournaments for over ten years. Beyond the playing hall, her most memorable experiences ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/free-inaugural-girls-chess-festival-brings-young-players-together",
+         "pubDate" : "Mon, 20 Jul 2026 00:00:00",
+         "title" : "Free Inaugural Girls Chess Festival Brings Young Players Together"
       },
       {
          "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-4",
          "pubDate" : "Sun, 19 Jul 2026 10:32:00",
          "title" : "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw"
-      },
-      {
-         "description" : "Working with ChessBase&acute;26 is so enjoyable because it builds on the experience of the developers from 18 previous versions. But you don't have to wait for the next release - you'll receive ongoing improvements directly to your computer through the free update service. And don't worry: staying up to date with the latest updates takes just a few clicks. In this tutorial, we'll show you how.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
-         "pubDate" : "Sun, 19 Jul 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 23: Stay up to date with program updates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132490725.cms\" />After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
@@ -106,28 +98,12 @@ news_feed (
          "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
       },
       {
-         "description" : "Whether your focus is strategy, technique or opening theory, ChessBase's June releases have something for everyone. Renowned authors such as Adrian Mikhalchishin and Andrew Martin share a wealth of practical advice, while ChessBase newcomers Kostya Kavutskiy and Andy Woodward make an impressive debut with their first courses. The month also brings new Powerbase and Powerbook titles on the Slav and the Semi-Slav. Take a look at all the new releases from June!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-june-2",
-         "pubDate" : "Sat, 18 Jul 2026 07:00:00",
-         "title" : "Review: All new releases in June!"
-      },
-      {
          "description" : "Rachael Li Improves to 4/4, All Sections Remain TightOnly two players are better than 3/4 in the 2026 U.S. Junior and Senior Championships. And they're in the same section!WIM Rachael Li improved to 4/4 in the Girls' Junior Championship thanks to an 11th hour victory in a rook-and-pawn endgame, but WGM Zoey Tang kept pace, reeling off a third consecutive victory of her own.In the other three sections, the pre-round leader either drew or (in both Senior events) lost, tightening the races.Annotations are from your Digital Editor today and tomorrow. But there's going to be some bonus color commentary tomorrow, as well. If you look at who has the bye in today's Senior Women Championship, you sho",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-4-rachael-li-does-it-again",
          "pubDate" : "Sat, 18 Jul 2026 00:00:00",
          "title" : "Junior and Senior Championships Round 4: Rachael Li Does It Again"
-      },
-      {
-         "description" : "In September, Samarkand will host the 46th Chess Olympiad. After FIDE was founded in 1924, the first international team tournament was held in Budapest in the summer of 1926, albeit with only a small number of teams. From these modest beginnings, the tradition of the Chess Olympiad developed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-congress-budapest-1926",
-         "pubDate" : "Fri, 17 Jul 2026 18:00:00",
-         "title" : "The 1926 FIDE Congress in Budapest"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
@@ -400,14 +376,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
          "pubDate" : "Fri, 10 Jul 2026 07:00:13",
          "title" : "Chess: Firouzja wins in Zagreb as Carlsen passes 15-year milestone at the top"
-      },
-      {
-         "description" : "The U.S. Open is my favorite tournament of the year, and I've played in seven of them, even managing to win a class prize in 2019. There's a lot about it I enjoy: the languid pace of the traditional schedule, seeing old friends, making new ones. As a former delegate, I could even endure the governance meetings!But what I really love about the U.S. Open is the chance to play masters and even FIDE-titled players.It's rare that someone like me gets to play a GM, but if you're a club player you have a decent shot at facing off with one at the U.S. Open. Because everyone plays in one section, the first rounds of each schedule usually feature games between chess mortals and America's elite, and ev",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/not-throwing-away-my-shot",
-         "pubDate" : "Fri, 10 Jul 2026 00:00:00",
-         "title" : "Not Throwing Away My Shot"
       },
       {
          "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
