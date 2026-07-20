@@ -10,12 +10,28 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
+         "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
+         "pubDate" : "Mon, 20 Jul 2026 10:32:31",
+         "title" : "Chess Joins Junior Olympics As AAU Adds Chess Program"
+      },
+      {
          "description" : "Arjun Erigaisi moved into sole second place at the Quantbox Chennai Grand Masters after scoring the only win across rounds three and four. His victory over Hans Niemann left him half a point behind leader Alireza Firouzja (pictured), who has 3/4. All four games in Sunday's fourth round were drawn. The seven-round tournament runs until Wednesday. | Photo: Tushar Damor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2026-4",
          "pubDate" : "Mon, 20 Jul 2026 09:45:00",
          "title" : "Chennai GMs: Firouzja leads, Erigaisi in sole second place"
+      },
+      {
+         "description" : "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
+         "pubDate" : "Mon, 20 Jul 2026 08:29:52",
+         "title" : "Arjun Stuns Gukesh As Abdusattorov Also Joins Fight For 1st"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-swiss-amateur-who-beat-bobby-fischer-turns-90-happy-birthday-dieter-keller",
          "pubDate" : "Sun, 19 Jul 2026 16:00:00",
          "title" : "The Swiss amateur who beat Bobby Fischer turns 90: Happy birthday, Dieter Keller!"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the classical section on 14-18 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Sun, 19 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       },
       {
          "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
@@ -536,30 +544,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2026-starts/",
          "pubDate" : "Sun, 05 Jul 2026 10:24:18",
          "title" : "European Youth Rapid & Blitz Chess Championship 2026 starts"
-      },
-      {
-         "description" : "GM Arjun Erigaisi was crowned the winner of Saturday&#39;s Bullet Brawl&#38;nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-july-4-2026",
-         "pubDate" : "Sat, 04 Jul 2026 19:32:00",
-         "title" : "Arjun Hawks Down Martinez In Late Surge"
-      },
-      {
-         "description" : "French GM Alireza Firouzja heads into the final day of the 2026 Super Rapid &#38;amp; Blitz Croatia with a three-point lead over GMs Nodirbek Abdusattorov and Maxime Vachier-Lagrave after scoring a stunning 8/9 on the first day of blitz. GM Praggnanan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
-         "pubDate" : "Sat, 04 Jul 2026 15:40:00",
-         "title" : "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia"
-      },
-      {
-         "description" : "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-bans-kramnik-for-two-years",
-         "pubDate" : "Sat, 04 Jul 2026 13:50:00",
-         "title" : "FIDE Bans Former World Champion Vladimir Kramnik For 2 Years"
       },
       {
          "description" : "Calculation is hard. But many of my students make it harder than it has to be. The truth is: you'll never see everything. It also isn't necessary. You just need to see what is crucial to make a good decision. Here is how. When It Is Enough I recently had this position in a 1:1 []",
