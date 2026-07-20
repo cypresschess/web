@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Mon, 20 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "Arjun Erigaisi moved into sole second place at the Quantbox Chennai Grand Masters after scoring the only win across rounds three and four. His victory over Hans Niemann left him half a point behind leader Alireza Firouzja (pictured), who has 3/4. All four games in Sunday's fourth round were drawn. The seven-round tournament runs until Wednesday. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-4",
+         "pubDate" : "Mon, 20 Jul 2026 09:45:00",
+         "title" : "Chennai GMs: Firouzja leads, Erigaisi in sole second place"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
          "pubDate" : "Sun, 19 Jul 2026 13:50:00",
          "title" : "Biel Festival - Live!"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Sun, 19 Jul 2026 11:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2026-player-draft-magnus-carlsen-anish-giri-divya-deshmukh-koneru-humpy-to-play-in-same-team-full-squads-here/articleshow/132073909.cms",
          "pubDate" : "Mon, 29 Jun 2026 15:13:48",
          "title" : "GCL 2026: Carlsen, Giri, Divya , Humpy to play in same team - full squads here"
-      },
-      {
-         "description" : "The ECF Selection Committee has completed the selection of the England teams that will contest the Chess Olympiad to be staged in Samarkand, Uzbekistan, this September. Open: Nikita Vitiugov, Michael...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-team-selection-olympiad/",
-         "pubDate" : "Mon, 29 Jun 2026 07:43:09",
-         "title" : "England Team Selection - Olympiad"
       }
    ]
 }
