@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-shrugs-off-players-exploiting-loophole-to-get-grand-masters-title/articleshow/132506491.cms",
+         "pubDate" : "Mon, 20 Jul 2026 05:07:52",
+         "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
+      },
+      {
          "description" : "Today, Dr Dieter Keller of Zurich celebrates his 90th birthday. Heartfelt congratulations to the International Master, who defeated several of the leading players of his time, most notably Bobby Fischer, Efim Geller, Bent Larsen and Oscar Panno. Eduard Frey presents highlights from a remarkable life. | Photo: Dieter Keller at the Zurich International Tournament 1959 | Source: Tournament book, via Europe Échecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-team-selection-olympiad/",
          "pubDate" : "Mon, 29 Jun 2026 07:43:09",
          "title" : "England Team Selection - Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132062344.cms\" />Harshavardhan GB became India's 97th Grandmaster, ending a six-year wait since earning his IM title in 2020. Nicknamed \"legend\" by his chess peers for his creative brilliance, the 22-year-old overcame repeated near-misses, financial struggles and travel hardships. Backed by his family and coaches, Harshavardhan's emotional breakthrough has now set him on the path towards becoming a super Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-making-of-indias-97th-chess-grandmaster-harshavardhan-gb-a-legend-among-friends-now-his-parents-pride/articleshow/132062344.cms",
-         "pubDate" : "Mon, 29 Jun 2026 03:51:46",
-         "title" : "The making of India's 97th Chess Grandmaster Harshavardhan GB: A 'legend' among friends, now his parents' pride"
       }
    ]
 }
