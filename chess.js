@@ -616,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/born-exactly-50-years-after-garry-kasparov-how-13-year-old-maths-olympiad-genius-pratitee-bordoloi-became-indias-lone-medallist-at-world-youth-chess/articleshow/132151234.cms",
          "pubDate" : "Fri, 03 Jul 2026 03:20:38",
          "title" : "Born 50 yrs after Kasparov! How 13-yo Pratitee became India's lone medallist at World Youth Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132073909.cms\" />Indian Grandmaster Nihal Sarin emerged as one of the biggest attractions in the Global Chess League Season 4 player draft, joining American Gambits after a bidding battle. The Bengaluru-based tournament, scheduled from September 3-13, will feature top stars including Magnus Carlsen and Viswanathan Anand, who switched teams to join PBG Alaskan Knights, as all six franchises finalised their squads.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-2026-player-draft-magnus-carlsen-anish-giri-divya-deshmukh-koneru-humpy-to-play-in-same-team-full-squads-here/articleshow/132073909.cms",
-         "pubDate" : "Mon, 29 Jun 2026 15:13:48",
-         "title" : "GCL 2026: Carlsen, Giri, Divya , Humpy to play in same team - full squads here"
       }
    ]
 }
