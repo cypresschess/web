@@ -34,6 +34,14 @@ news_feed (
          "title" : "Biel Festival - Live!"
       },
       {
+         "description" : "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
+         "pubDate" : "Tue, 21 Jul 2026 13:00:00",
+         "title" : "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten"
+      },
+      {
          "description" : "GM Maxime Vachier-Lagrave is your winner for Titled Tuesday on July 21, scoring 9.5/11 points and a big win over GM Fabiano Caruana in the seventh round that proved to be the difference between first and second place&#38;mdash;Caruana also scored 9.5 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,7 +106,7 @@ news_feed (
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
       },
       {
-         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, tomorrow, check out our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or check back soon for an interactive study (technical difficulties allowing) ",
+         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, tomorrow, check out our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or check back soon for an interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-naroditsky-memorial-pt-2",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-wins-2026-naroditsky-memorial-rapid-blitz",
          "pubDate" : "Mon, 06 Jul 2026 15:08:57",
          "title" : "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun and two-time Women&#39;s Blitz World Champion Anna Muzychuk advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship on Monday. Ju handily defeated IM Le Thao Nguyen Pham 9.5-4.5, while Muzychuk went ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-ju-le-vaishali-muzychuk",
-         "pubDate" : "Mon, 06 Jul 2026 12:55:00",
-         "title" : "Ju Wenjun, Anna Muzychuk Advance To Quarterfinals"
       },
       {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
