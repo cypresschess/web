@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Tue, 21 Jul 2026 11:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, active counterplay and precise prophylactic ideas. The lesson highlights how much can still be learned from classical games, especially when it comes to initiative, defensive resourcefulness and the idea that prophylaxis can be aggressive rather than passive.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
+         "pubDate" : "Tue, 21 Jul 2026 10:05:00",
+         "title" : "Svitlana's Smart Moves - Most underrated World Champion"
+      },
+      {
+         "description" : "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save your own setups, and restore the default view whenever needed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
+         "pubDate" : "Tue, 21 Jul 2026 10:00:00",
+         "title" : "ChessBase tips for beginners - Standard Layout or Custom Layout (10)"
+      },
+      {
          "description" : "Arjun Erigaisi defeated world champion Gukesh Dommaraju with black to join Alireza Firouzja in the lead with two rounds remaining at the Quantbox Chennai Grand Masters. Nodirbek Abdusattorov also won with the black pieces, beating Nihal Sarin to move within half a point of first place. Firouzja drew Dmitry Andreikin, while Pranesh M held Hans Niemann after a 104-move struggle. | Photo: Tushar Damor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
