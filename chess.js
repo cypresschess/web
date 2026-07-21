@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi defeated world champion Gukesh Dommaraju with black to join Alireza Firouzja in the lead with two rounds remaining at the Quantbox Chennai Grand Masters. Nodirbek Abdusattorov also won with the black pieces, beating Nihal Sarin to move within half a point of first place. Firouzja drew Dmitry Andreikin, while Pranesh M held Hans Niemann after a 104-move struggle. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-5",
+         "pubDate" : "Tue, 21 Jul 2026 08:00:00",
+         "title" : "Chennai GMs: Erigaisi takes down Gukesh, joins Firouzja in the lead"
+      },
+      {
+         "description" : "The ECU General Assembly and Elections 2026 took place on Saturday, 18th of July, at the premises of the Romanian Olympic Committee in Bucharest, Romania. The guests of honour at the opening ceremony were Mr Mihai Claudiu, President of the Romanian Olympic Committee and an Olympic fencing champion, and Mrs Nadia Elena Comaneci, a five-time Olympic gymnastics champion and one of the greatest athletes in history. In her opening speech, Comaneci delivered a powerful message expressing her wish for chess []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2026-3/",
+         "pubDate" : "Tue, 21 Jul 2026 07:14:39",
+         "title" : "ECU General Assembly 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132528111.cms\" />Indian Grandmaster Rohith Krishna won the Menuires International Chess Championship in France after defeating compatriot Raja Rithvik on the tie-break. Both finished unbeaten with seven points from nine rounds, but Rohith's superior tie-break secured gold. Rithvik claimed silver after an impressive campaign, highlighted by a final-round victory over higher-rated French Grandmaster Maxime Lagarde.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-rohith-krishna-wins-gold-raja-rithvik-takes-silver-at-menuires-international-chess-championship-in-france/articleshow/132528111.cms",
+         "pubDate" : "Tue, 21 Jul 2026 04:54:47",
+         "title" : "Indian GM Rohith Krishna wins gold, Raja Rithvik takes silver in France"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132527672.cms\" />The All India Chess Federation has awarded quarterly stipends worth Rs 42.3 lakh to 42 top junior players across the Under-7 to Under-19 categories. Selected based on their 2024 National Championship performances, each receives Rs 60,000-Rs 1.5 lakh to support coaching and travel. AICF says the historic initiative aims to remove financial barriers and strengthen India's grassroots chess ecosystem.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-42-3-lakh-boost-indian-chess-federation-announces-massive-financial-push-for-prodigies/articleshow/132527672.cms",
+         "pubDate" : "Tue, 21 Jul 2026 04:32:56",
+         "title" : "Rs 42.3 lakh boost! Indian chess body announces massive push for prodigies"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132527673.cms\" />Arjun Erigaisi secured a significant classical victory against world champion D Gukesh. The topsy-turvy game saw Gukesh falter in the endgame after missing opportunities. This dramatic result propelled Arjun Erigaisi into a tie for the lead. He now shares the top spot with Alireza Firouzja on 3.5 points. Two rounds remain in the competitive eight-player chess event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
+         "pubDate" : "Tue, 21 Jul 2026 04:15:24",
+         "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
+      },
+      {
          "description" : "Did you know that today is the International Chess Day, which commemorates the founding of FIDE in 1924. Every year on July 20, the global chess community comes together to celebrate International Chess Day, by staging a game in the most unusual, meaningful or symbolic places - whether on a mountaintop, beside a famous landmark, underwater or anywhere else that captures the imagination. Here are some inspiring examples provided by FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/international-chess-day-2026",
          "pubDate" : "Mon, 20 Jul 2026 22:45:00",
          "title" : "International Chess Day 2026"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Mon, 20 Jul 2026 11:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
