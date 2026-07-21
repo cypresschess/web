@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-3",
+         "pubDate" : "Tue, 21 Jul 2026 19:00:00",
+         "title" : "ChessBase Summer-Special! - Part 3"
+      },
+      {
+         "description" : "WR Chess will stage a USA v. Uzbekistan team event at Faena Miami Beach on 27-28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. Hikaru Nakamura, Fabiano Caruana, Wesley So and Levon Aronian will represent Team USA, while Uzbekistan's line-up includes World Championship challenger Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev and Shamsiddin Vokhidov. The event marks WR Chess' US debut. | Image: WR Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-preview",
+         "pubDate" : "Tue, 21 Jul 2026 18:00:00",
+         "title" : "Next week: USA v. Uzbekistan rapid and blitz match in Miami Beach"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132540907.cms\" />GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranesh-stuns-gukesh-again-nihal-downs-erigaisi-at-chennai-grand-masters/articleshow/132540907.cms",
+         "pubDate" : "Tue, 21 Jul 2026 15:51:27",
+         "title" : "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
          "pubDate" : "Tue, 21 Jul 2026 13:50:00",
          "title" : "Biel Festival - Live!"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave is your winner for Titled Tuesday on July 21, scoring 9.5/11 points and a big win over GM Fabiano Caruana in the seventh round that proved to be the difference between first and second place&#38;mdash;Caruana also scored 9.5 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-21-2026",
+         "pubDate" : "Tue, 21 Jul 2026 11:58:38",
+         "title" : "Vachier-Lagrave Scrapes By Caruana To Take Titled Tuesday"
       },
       {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
@@ -64,6 +96,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
          "pubDate" : "Tue, 21 Jul 2026 04:15:24",
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
+      },
+      {
+         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, tomorrow, check out our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or check back soon for an interactive study (technical difficulties allowing) ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-naroditsky-memorial-pt-2",
+         "pubDate" : "Tue, 21 Jul 2026 00:00:00",
+         "title" : "Tactics Tuesday: Naroditsky Memorial, Pt. 2"
+      },
+      {
+         "description" : "Tang Takes Over, Other Races Remain StableAfter a well-deserved rest day on Sunday, the 2026 U.S. Junior and Senior Championships resumed Monday in St. Louis. Spectators were treated to 11 decisive games and one lead change. Girls' Junior Championship: Tang Takes Over<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Iris Mou shook up the standings Monday in the Girls' Junior Championship. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> WGM Iris Mou defeated WIM Rachael Li to deal the pre-round leader her first loss of the tournament. WGM Zoey Tang made the most of the opportunity, winning her fifth straight game to leapfrog Li. <br> <br> <br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tang-joins-leaders-after-round-6",
+         "pubDate" : "Tue, 21 Jul 2026 00:00:00",
+         "title" : "Tang Joins Leaders After Round 6"
       },
       {
          "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
@@ -306,14 +354,6 @@ news_feed (
          "title" : "Maghsoodloo Wins Titled Tuesday With Ease"
       },
       {
-         "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, beginning tomorrow, in our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-naroditsky-memorial-pt-1",
-         "pubDate" : "Tue, 14 Jul 2026 00:00:00",
-         "title" : "Tactics Tuesday: Naroditsky Memorial, Pt. 1"
-      },
-      {
          "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-new-format",
          "pubDate" : "Mon, 13 Jul 2026 12:37:00",
          "title" : "FIDE Transforms 2027 World Cup Format"
-      },
-      {
-         "description" : "In a typical summer, I would play in the National Open, in Las Vegas, the World Open, in Philadelphia, and other annual tournaments. This year I'm focusing less on chess, but I still wanted to play in the inaugural Naroditsky Memorial Rapid and Blitz, organized July 3-5 by the Charlotte Chess Center, where Danya was a GM-in-residence during the last years of his life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Charlotte Chess Center/Kelly Centrelli.<br> <br> I went to the Naroditsky memorial, though, primarily as a way to honor Danya, ag",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/naroditsky-memorial-honors-danyas-legacy-sindarov-sweeps",
-         "pubDate" : "Mon, 13 Jul 2026 00:00:00",
-         "title" : "Naroditsky Memorial Honors Danya's Legacy as Sindarov Sweeps"
       },
       {
          "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ...",
@@ -544,14 +576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
          "pubDate" : "Sun, 5 Jul 2026 22:55:00",
          "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
-      },
-      {
-         "description" : "GM Alireza Firouzja has won the 2026 Super Rapid &#38;amp; Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead after scoring 8/9 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
-         "pubDate" : "Sun, 05 Jul 2026 11:55:00",
-         "title" : "Firouzja Survives 'Worst Blitz Day Of Life' To Win Croatia Title In Armageddon"
       },
       {
          "description" : "The 2026 European Youth Rapid &#38; Blitz Chess Championship starts this Monday in Rzeszow, Poland! The event will take place from July 6 July 10 at the Podpromie Playing Hall and will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The event gathers nearly 950 children coming from 33 European federations! The Championship will crown 24 European Champions, for different age sections and for Rapid and Blitz competitions. List []",
