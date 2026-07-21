@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Tue, 21 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
          "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
          "pubDate" : "Tue, 21 Jul 2026 10:00:00",
          "title" : "ChessBase tips for beginners - Standard Layout or Custom Layout (10)"
-      },
-      {
-         "description" : "Arjun Erigaisi defeated world champion Gukesh Dommaraju with black to join Alireza Firouzja in the lead with two rounds remaining at the Quantbox Chennai Grand Masters. Nodirbek Abdusattorov also won with the black pieces, beating Nihal Sarin to move within half a point of first place. Firouzja drew Dmitry Andreikin, while Pranesh M held Hans Niemann after a 104-move struggle. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-5",
-         "pubDate" : "Tue, 21 Jul 2026 08:00:00",
-         "title" : "Chennai GMs: Erigaisi takes down Gukesh, joins Firouzja in the lead"
       },
       {
          "description" : "The ECU General Assembly and Elections 2026 took place on Saturday, 18th of July, at the premises of the Romanian Olympic Committee in Bucharest, Romania. The guests of honour at the opening ceremony were Mr Mihai Claudiu, President of the Romanian Olympic Committee and an Olympic fencing champion, and Mrs Nadia Elena Comaneci, a five-time Olympic gymnastics champion and one of the greatest athletes in history. In her opening speech, Comaneci delivered a powerful message expressing her wish for chess []",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
          "pubDate" : "Tue, 21 Jul 2026 04:15:24",
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
-      },
-      {
-         "description" : "Did you know that today is the International Chess Day, which commemorates the founding of FIDE in 1924. Every year on July 20, the global chess community comes together to celebrate International Chess Day, by staging a game in the most unusual, meaningful or symbolic places - whether on a mountaintop, beside a famous landmark, underwater or anywhere else that captures the imagination. Here are some inspiring examples provided by FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-chess-day-2026",
-         "pubDate" : "Mon, 20 Jul 2026 22:45:00",
-         "title" : "International Chess Day 2026"
       },
       {
          "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
