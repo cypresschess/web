@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132550346.cms\" />D Gukesh faces a difficult period in the Chennai GM chess tournament. He is currently in last place after six rounds of play. Gukesh lost his second consecutive game to a fellow Indian player. Nihal Sarin defeated overnight leader Erigaisi Arjun in another match. This result has created a three-way tie for the tournament title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-gukesh-loses-to-pranesh-nihal-sarin-wins/articleshow/132550346.cms",
+         "pubDate" : "Wed, 22 Jul 2026 03:18:19",
+         "title" : "Chennai Grand Masters: Gukesh loses to Pranesh, Nihal Sarin wins"
+      },
+      {
          "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
