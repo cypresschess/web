@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4&frac12;/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dead last on 2/7 and is in danger of falling below 2700. Gukesh continues to play wildly ambitious chess, it's still possible to believe he'll turn this around.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2026",
+         "pubDate" : "Wed, 22 Jul 2026 14:55:00",
+         "title" : "Quantbox Chennai Grand Masters 2026 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132561685.cms\" />French Grandmaster Alireza Firouzja secured the Chennai Grand Masters title. He held Indian GM Arjun Erigaisi to a draw in the final round. World champion D Gukesh endured a disappointing campaign, finishing last in the tournament. Firouzja finished with 4.5 points after two victories and five draws. Andreikin ended the event as the only other unbeaten player.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-alireza-firouzja-wins-title-as-world-champion-gukesh-suffers-shock-last-place-finish/articleshow/132561685.cms",
+         "pubDate" : "Wed, 22 Jul 2026 14:49:48",
+         "title" : "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish"
+      },
+      {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Wed, 22 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
+         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
+         "pubDate" : "Wed, 22 Jul 2026 10:30:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world's best players compete-and how fans experience the sport. Among the backers of the Total Chess World Championship Tour Pilot is football superstar Erling Haaland... | Photo Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2026-6",
          "pubDate" : "Wed, 22 Jul 2026 08:20:00",
          "title" : "Chennai GMs: Nihal beats Erigaisi, Pranesh stuns Gukesh"
+      },
+      {
+         "description" : "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-7",
+         "pubDate" : "Wed, 22 Jul 2026 05:57:37",
+         "title" : "Firouzja Wins 2026 Chennai Grand Masters, Andreikin Snatches 2nd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132550346.cms\" />D Gukesh faces a difficult period in the Chennai GM chess tournament. He is currently in last place after six rounds of play. Gukesh lost his second consecutive game to a fellow Indian player. Nihal Sarin defeated overnight leader Erigaisi Arjun in another match. This result has created a three-way tie for the tournament title.",
@@ -50,14 +90,6 @@ news_feed (
          "title" : "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters"
       },
       {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Tue, 21 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
-      },
-      {
          "description" : "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-21-2026",
          "pubDate" : "Tue, 21 Jul 2026 11:58:38",
          "title" : "Vachier-Lagrave Scrapes By Caruana To Take Titled Tuesday"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Tue, 21 Jul 2026 10:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, active counterplay and precise prophylactic ideas. The lesson highlights how much can still be learned from classical games, especially when it comes to initiative, defensive resourcefulness and the idea that prophylaxis can be aggressive rather than passive.",
@@ -170,7 +194,7 @@ news_feed (
          "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
       },
       {
-         "description" : "Editor's note: This report by WIM Iris Mou, Lisa Sun, and WIM Kelsey Liu details how a group of dedicated high school chess players were able to plan, coordinate, and organize a free chess festival for 60 girls in New York City.WIM Iris Mou is a rising senior at the Dalton School, and she is currently competing in the U.S. Girls' Junior Championship. Together with Lisa Sun, she serves as a co-president of Rooks and Roots, handling communications, marketing, outreach, event planning, curriculum design, teaching, and more. Lisa Sun is a rising junior at Hunter College High School and has been playing chess tournaments for over ten years. Beyond the playing hall, her most memorable experiences ",
+         "description" : "Editor's note: This report by WGM Iris Mou, Lisa Sun, and WIM Kelsey Liu details how a group of dedicated high school chess players were able to plan, coordinate, and organize a free chess festival for 60 girls in New York City.WGM Iris Mou is a rising senior at the Dalton School, and she is currently competing in the U.S. Girls' Junior Championship. Together with Lisa Sun, she serves as a co-president of Rooks and Roots, handling communications, marketing, outreach, event planning, curriculum design, teaching, and more. Lisa Sun is a rising junior at Hunter College High School and has been playing chess tournaments for over ten years. Beyond the playing hall, her most memorable experiences ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/free-inaugural-girls-chess-festival-brings-young-players-together",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bok-wins-2026-india-rising-final",
          "pubDate" : "Tue, 07 Jul 2026 11:31:56",
          "title" : "Bok Beats Vidit In Armageddon To Clinch EWC Spot"
-      },
-      {
-         "description" : "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-2026-naroditsky-memorial-rapid-blitz",
-         "pubDate" : "Mon, 06 Jul 2026 15:08:57",
-         "title" : "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky"
       },
       {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
