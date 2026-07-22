@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Armenian State Pedagogical University, together with the &#8220;Chess&#8221; Scientific Research Institute and the Chess Academy of Armenia, organise the International Scientific Conference \"Theory and Practice of Chess Education\" from 1-2 October 2026 in Tsaghkadzor, Armenia. The event will be held in the Hybrid format (Online and Onsite), aiming to bring together researchers, educators, and practitioners to explore the role of chess in education, cognitive development, and social-emotional learning. The Conference will cover the following topics: Chess and Personal Development, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/international-scientific-conference-theory-and-practice-of-chess-education/",
+         "pubDate" : "Wed, 22 Jul 2026 17:26:51",
+         "title" : "International Scientific Conference \"Theory and Practice of Chess Education\""
+      },
+      {
          "description" : " The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4&frac12;/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dead last on 2/7 and is in danger of falling below 2700. Gukesh continues to play wildly ambitious chess, it's still possible to believe he'll turn this around.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
          "pubDate" : "Wed, 22 Jul 2026 13:50:00",
          "title" : "Biel Festival - Live!"
-      },
-      {
-         "description" : "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Wed, 22 Jul 2026 10:30:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world's best players compete-and how fans experience the sport. Among the backers of the Total Chess World Championship Tour Pilot is football superstar Erling Haaland... | Photo Total Chess",
@@ -64,6 +64,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-gukesh-loses-to-pranesh-nihal-sarin-wins/articleshow/132550346.cms",
          "pubDate" : "Wed, 22 Jul 2026 03:18:19",
          "title" : "Chennai Grand Masters: Gukesh loses to Pranesh, Nihal Sarin wins"
+      },
+      {
+         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Wednesday Workouts and in our more accessible Tactics Tuesday series (beginning here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-naroditsky-memorial-pt-2",
+         "pubDate" : "Wed, 22 Jul 2026 00:00:00",
+         "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 2"
+      },
+      {
+         "description" : "Tang Separates, Other Races Tighten With Two Rounds to GoFor the first time, more games ended peacefully than decisively in the 2026 U.S. Junior and Senior Championships. As the standings solidify heading into the final two rounds of play, the tension is palpable on the board. But two of the decisive games featured clashes of players leading their respective tournament, so we certainly are not wanting for drama! Senior Women's Championship: Belakovskaia Does It AgainIn the 2024 U.S. Senior Women's Championship, WFM Natalya Tsodikova defeated reigning champion WGM Anjelina Belakovskaia in Round 2, going on to win the title. Last year, Belakovskaia got her revenge, but Tsodikova caught up and ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/juniorsenior-championships-standings-take-shape-two-rounds-remaining",
+         "pubDate" : "Wed, 22 Jul 2026 00:00:00",
+         "title" : "Junior/Senior Championships: Standings Take Shape with Two Rounds Remaining"
       },
       {
          "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
@@ -376,22 +392,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-may-june-2026/",
          "pubDate" : "Wed, 15 Jul 2026 10:22:16",
          "title" : "ECU E-Magazine May & June 2026"
-      },
-      {
-         "description" : "Junior and Senior Championships Underway in St. LouisCan we squeeze a few more boards in? The 2026 U.S. Junior and Senior Chess Championships began Tuesday, July 14, in St. Louis with its largest - and most inclusive - field yet. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> (Grand)Master of Ceremonies Yasser Seirawan presiding over the drawing of lots in St. Louis. (Photo courtesy SLCC/Crystal Fuller)<br> <br> The freshly renovated Saint Louis Chess Club (SLCC) has long hosted the U.S. Junior, Girls' Junior, Girls' Junior, and Senior tournaments. But, since its inception in 2023, the U.S. Senior Women's Championship had taken place separately from the three",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/room-one-more-junior-and-senior-championships-underway-st-louis",
-         "pubDate" : "Wed, 15 Jul 2026 00:00:00",
-         "title" : "Room for One More? Junior and Senior Championships Underway in St. Louis"
-      },
-      {
-         "description" : "Today's puzzles begin our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Wednesday Workouts and in our more accessible Tactics Tuesday series (beginning here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-naroditsky-memorial-pt-1",
-         "pubDate" : "Wed, 15 Jul 2026 00:00:00",
-         "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 1"
       },
       {
          "description" : "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women&#39;s Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20...",
