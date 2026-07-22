@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world's best players compete-and how fans experience the sport. Among the backers of the Total Chess World Championship Tour Pilot is football superstar Erling Haaland... | Photo Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/budapest-to-launch-total-chess",
+         "pubDate" : "Wed, 22 Jul 2026 09:00:00",
+         "title" : "Budapest to launch Total Chess"
+      },
+      {
+         "description" : "Alireza Firouzja has a half-point lead going into the final round of the Quantbox Chennai Grand Masters after drawing Nodirbek Abdusattorov, while former co-leader Arjun Erigaisi lost to Nihal Sarin. Meanwhile, Pranesh M scored his first win of the event by defeating world champion Gukesh Dommaraju. Firouzja will face Erigaisi in the decisive final-round encounter, with Abdusattorov still in contention. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-6",
+         "pubDate" : "Wed, 22 Jul 2026 08:20:00",
+         "title" : "Chennai GMs: Nihal beats Erigaisi, Pranesh stuns Gukesh"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132550346.cms\" />D Gukesh faces a difficult period in the Chennai GM chess tournament. He is currently in last place after six rounds of play. Gukesh lost his second consecutive game to a fellow Indian player. Nihal Sarin defeated overnight leader Erigaisi Arjun in another match. This result has created a three-way tie for the tournament title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2026-live",
-         "pubDate" : "Tue, 21 Jul 2026 11:30:00",
+         "pubDate" : "Tue, 21 Jul 2026 10:30:00",
          "title" : "Chennai Grand Masters - Live!"
       },
       {
