@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja won the Quantbox Chennai Grand Masters outright with an unbeaten 4&frac12;/7 score, drawing Arjun Erigaisi in the final round to finish half a point clear. Erigaisi and Dmitry Andreikin shared second place, with Andreikin defeating Nodirbek Abdusattorov in the last round. Reigning world champion Gukesh Dommaraju finished last on 2/7 after suffering three defeats and losing 13.9 rating points. | Photo: Tushar Damor",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2026-7",
+         "pubDate" : "Wed, 22 Jul 2026 22:40:00",
+         "title" : "Alireza Firouzja wins Chennai Grand Masters, rejoins world top ten"
+      },
+      {
          "description" : "The Armenian State Pedagogical University, together with the &#8220;Chess&#8221; Scientific Research Institute and the Chess Academy of Armenia, organise the International Scientific Conference \"Theory and Practice of Chess Education\" from 1-2 October 2026 in Tsaghkadzor, Armenia. The event will be held in the Hybrid format (Online and Onsite), aiming to bring together researchers, educators, and practitioners to explore the role of chess in education, cognitive development, and social-emotional learning. The Conference will cover the following topics: Chess and Personal Development, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-7",
-         "pubDate" : "Wed, 22 Jul 2026 05:57:37",
+         "pubDate" : "Wed, 22 Jul 2026 05:57:00",
          "title" : "Firouzja Wins 2026 Chennai Grand Masters, Andreikin Snatches 2nd"
       },
       {
