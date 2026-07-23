@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
+         "pubDate" : "Thu, 23 Jul 2026 13:50:00",
+         "title" : "Biel Festival - Live!"
+      },
+      {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-final-2",
          "pubDate" : "Thu, 23 Jul 2026 08:30:00",
          "title" : "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare"
+      },
+      {
+         "description" : "GM Anish Giri, the longtime top-10 chess player and instructional author, has signed with Basilisk Gaming (stylized BASILISK), the esports organization announced in a press release and on social media Thursday. Giri will begin representing Basilis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-signs-with-basilisk-esports",
+         "pubDate" : "Thu, 23 Jul 2026 06:10:00",
+         "title" : "Giri Signs With Basilisk Esports"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132571380.cms\" />Niemann welcomed the removal of the rating qualification spot for the 2026 Candidates Tournament, arguing that the qualifiers through that route in the previous three cycles - Ding, Alireza Firouzja and Hikaru Nakamura - had found loopholes in the system and played easier games to secure their places.",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-wins-titled-tuesday-july-7-2026",
          "pubDate" : "Tue, 07 Jul 2026 11:39:05",
          "title" : "Arjun \"Arjuly\" Erigaisi Is Month's First Titled Tuesday Victor"
-      },
-      {
-         "description" : "GM Benjamin Bok has qualified for the 2026 Esports World Cup&#38;nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bok-wins-2026-india-rising-final",
-         "pubDate" : "Tue, 07 Jul 2026 11:31:56",
-         "title" : "Bok Beats Vidit In Armageddon To Clinch EWC Spot"
       },
       {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
