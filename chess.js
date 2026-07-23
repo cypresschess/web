@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-3",
+         "pubDate" : "Thu, 23 Jul 2026 20:00:01",
+         "title" : "ChessBase Summer-Special! - Part 3"
+      },
+      {
+         "description" : "The London System has enjoyed a remarkable rise in popularity. Once regarded as a modest sideline, it has evolved in recent years into a dangerous opening that Black players must take seriously. In his review, Lukas K&ouml;pl takes a close look at GM Elisabeth P&auml;htz's latest Fritztrainer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-mastering-the-london-system-by-elisabeth-paehtz",
+         "pubDate" : "Thu, 23 Jul 2026 20:00:00",
+         "title" : "Review: Mastering the London System by Elisabeth P&auml;htz"
+      },
+      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-3",
          "pubDate" : "Thu, 23 Jul 2026 12:00:00",
          "title" : "Upcoming tournaments and events"
+      },
+      {
+         "description" : "The President of the International Chess Federation (FIDE), Arkady Dvorkovich, said Thursday could be his &#34;last day&#34; as head of the chess governing body. Hours later, he was included in the European Union&#39;s 21st sanctions package against Russia, f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arkady-dvorkovich-sanctioned-by-eu-ukrainian-sports-minister",
+         "pubDate" : "Thu, 23 Jul 2026 11:13:00",
+         "title" : "EU Sanctions Arkady Dvorkovich; Could End His FIDE Presidency"
       },
       {
          "description" : "The European Chess Union and the Federation Monegasque des Echecs are pleased to announce the new event in the ECU Calendar: the European Senior Rapid and Blitz Chess Championship. The inaugurate edition of the European Senior Rapid and Blitz Chess Championship 2027 will take place from 10-14 January 2027 in Monte-Carlo, Monaco, featuring the total prize fund of €32.000. The events will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of low []",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-abstract-thats-why-its-very-isolating-american-gm-hans-niemann/articleshow/132571380.cms",
          "pubDate" : "Thu, 23 Jul 2026 03:38:46",
          "title" : "'Chess is abstract, that's why it's very isolating': American GM Hans Niemann"
+      },
+      {
+         "description" : "Woodward Catches Mishra as Other Leaders Hold OnThis year's Junior and Senior champions will be crowned today in St. Louis. Unless, of course, there's a tie for first, in which case playoffs will take place tomorrow. But three of the four events boast clear leaders headed into the final day of action. Here's how Wednesday's games shaped today's standings: Senior Championship: Onischuk Catches Fishbein, Trails Akopian GM Vladimir Akopian still leads the U.S. Senior Championship, but GM Alexander Onischuk cut the margin to a half-point with his win yesterday against IM Stuart Rachels. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alexander Onischuk won",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-8-woodward-makes-his-move",
+         "pubDate" : "Thu, 23 Jul 2026 00:00:00",
+         "title" : "Junior and Senior Championships Round 8: Woodward Makes His Move"
       },
       {
          "description" : "Alireza Firouzja won the Quantbox Chennai Grand Masters outright with an unbeaten 4&frac12;/7 score, drawing Arjun Erigaisi in the final round to finish half a point clear. Erigaisi and Dmitry Andreikin shared second place, with Andreikin defeating Nodirbek Abdusattorov in the last round. Reigning world champion Gukesh Dommaraju finished last on 2/7 after suffering three defeats and losing 13.9 rating points. | Photo: Tushar Damor",
@@ -386,14 +418,6 @@ news_feed (
          "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
       },
       {
-         "description" : "Races Remain Tight After Tense Second RoundWe are only two rounds into the four 2026 U.S. Junior and Senior Championship tournaments, and yet only three perfect 2/2 scores (out of 39 players - more on that later) remain at the Saint Louis Chess Club (SLCC).Play calmed down slightly after a vicious Round 1 that saw a 70% rate of decisive games, but Wednesday still generated 11 decisive results.We started with the two senior events yesterday, so today we'll start with the youngsters. But, just like yesterday, we still have commentary from 2017 U.S. Women's Champion WGM Sabina Foisor to enjoy! Junior Championship: Pobody's NerfectLooking at this section yesterday, I wrote, \"It's early, but this",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/junior-and-senior-championships-heat-round-2",
-         "pubDate" : "Thu, 16 Jul 2026 00:00:00",
-         "title" : "Junior and Senior Championships Heat Up in Round 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417912.cms\" />FIDE has approved a revamped qualification system for the 2028 Open and Women's Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/07/jimmy-adams-obituary",
          "pubDate" : "Tue, 07 Jul 2026 12:06:40",
          "title" : "Jimmy Adams obituary"
-      },
-      {
-         "description" : "By taking the July 7 tournament outright on 9.5/11, GM Arjun Erigaisi has broken into the Titled Tuesday winners column in 2026, ahead of seven players who tied on nine points. GM Hikaru Nakamura took second place among that group just ahead of GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-titled-tuesday-july-7-2026",
-         "pubDate" : "Tue, 07 Jul 2026 11:39:05",
-         "title" : "Arjun \"Arjuly\" Erigaisi Is Month's First Titled Tuesday Victor"
       },
       {
          "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
