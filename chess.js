@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christian Gloeckler won the Masters Open Tournament at the Biel Chess Festival with a round to spare, scoring 8/9 and securing his first grandmaster norm with a 2689 performance rating. The 14-year-old German IM entered as the ninth seed and took the title after impressively collecting four straight wins. In the Masters Triathlon, Levon Aronian still leads, while Aydin Suleymanli remains in contention before the final round. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-final-2",
+         "pubDate" : "Thu, 23 Jul 2026 08:30:00",
+         "title" : "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132571380.cms\" />Niemann welcomed the removal of the rating qualification spot for the 2026 Candidates Tournament, arguing that the qualifiers through that route in the previous three cycles - Ding, Alireza Firouzja and Hikaru Nakamura - had found loopholes in the system and played easier games to secure their places.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-abstract-thats-why-its-very-isolating-american-gm-hans-niemann/articleshow/132571380.cms",
+         "pubDate" : "Thu, 23 Jul 2026 03:38:46",
+         "title" : "'Chess is abstract, that's why it's very isolating': American GM Hans Niemann"
+      },
+      {
          "description" : "Alireza Firouzja won the Quantbox Chennai Grand Masters outright with an unbeaten 4&frac12;/7 score, drawing Arjun Erigaisi in the final round to finish half a point clear. Erigaisi and Dmitry Andreikin shared second place, with Andreikin defeating Nodirbek Abdusattorov in the last round. Reigning world champion Gukesh Dommaraju finished last on 2/7 after suffering three defeats and losing 13.9 rating points. | Photo: Tushar Damor",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,30 +50,6 @@ news_feed (
          "title" : "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish"
       },
       {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Wed, 22 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
-      },
-      {
-         "description" : "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world's best players compete-and how fans experience the sport. Among the backers of the Total Chess World Championship Tour Pilot is football superstar Erling Haaland... | Photo Total Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/budapest-to-launch-total-chess",
-         "pubDate" : "Wed, 22 Jul 2026 09:00:00",
-         "title" : "Budapest to launch Total Chess"
-      },
-      {
-         "description" : "Alireza Firouzja has a half-point lead going into the final round of the Quantbox Chennai Grand Masters after drawing Nodirbek Abdusattorov, while former co-leader Arjun Erigaisi lost to Nihal Sarin. Meanwhile, Pranesh M scored his first win of the event by defeating world champion Gukesh Dommaraju. Firouzja will face Erigaisi in the decisive final-round encounter, with Abdusattorov still in contention. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-6",
-         "pubDate" : "Wed, 22 Jul 2026 08:20:00",
-         "title" : "Chennai GMs: Nihal beats Erigaisi, Pranesh stuns Gukesh"
-      },
-      {
          "description" : "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,22 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/juniorsenior-championships-standings-take-shape-two-rounds-remaining",
          "pubDate" : "Wed, 22 Jul 2026 00:00:00",
          "title" : "Junior/Senior Championships: Standings Take Shape with Two Rounds Remaining"
-      },
-      {
-         "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-3",
-         "pubDate" : "Tue, 21 Jul 2026 19:00:00",
-         "title" : "ChessBase Summer-Special! - Part 3"
-      },
-      {
-         "description" : "WR Chess will stage a USA v. Uzbekistan team event at Faena Miami Beach on 27-28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. Hikaru Nakamura, Fabiano Caruana, Wesley So and Levon Aronian will represent Team USA, while Uzbekistan's line-up includes World Championship challenger Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev and Shamsiddin Vokhidov. The event marks WR Chess' US debut. | Image: WR Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-preview",
-         "pubDate" : "Tue, 21 Jul 2026 18:00:00",
-         "title" : "Next week: USA v. Uzbekistan rapid and blitz match in Miami Beach"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132540907.cms\" />GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
