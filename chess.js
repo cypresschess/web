@@ -34,12 +34,12 @@ news_feed (
          "title" : "Upcoming tournaments and events"
       },
       {
-         "description" : "The President of the International Chess Federation (FIDE), Arkady Dvorkovich, said Thursday could be his &#34;last day&#34; as head of the chess governing body. Hours later, he was included in the European Union&#39;s 21st sanctions package against Russia, f...",
+         "description" : "The President of the International Chess Federation (FIDE), Arkady Dvorkovich, has decided to suspend his authority as the head of the chess governing body after being sanctioned by the European Union. Five-time world champion GM Viswanathan Anand...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arkady-dvorkovich-sanctioned-by-eu-ukrainian-sports-minister",
          "pubDate" : "Thu, 23 Jul 2026 11:13:00",
-         "title" : "EU Sanctions Arkady Dvorkovich; Could End His FIDE Presidency"
+         "title" : "Dvorkovich Suspends FIDE Presidency After EU Sanctions; Anand Named Interim President"
       },
       {
          "description" : "The European Chess Union and the Federation Monegasque des Echecs are pleased to announce the new event in the ECU Calendar: the European Senior Rapid and Blitz Chess Championship. The inaugurate edition of the European Senior Rapid and Blitz Chess Championship 2027 will take place from 10-14 January 2027 in Monte-Carlo, Monaco, featuring the total prize fund of €32.000. The events will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of low []",
