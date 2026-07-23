@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-3",
+         "pubDate" : "Thu, 23 Jul 2026 12:00:00",
+         "title" : "Upcoming tournaments and events"
+      },
+      {
+         "description" : "The European Chess Union and the Federation Monegasque des Echecs are pleased to announce the new event in the ECU Calendar: the European Senior Rapid and Blitz Chess Championship. The inaugurate edition of the European Senior Rapid and Blitz Chess Championship 2027 will take place from 10-14 January 2027 in Monte-Carlo, Monaco, featuring the total prize fund of €32.000. The events will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of low []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-rapid-and-blitz-chess-championships-2027-regulations/",
+         "pubDate" : "Thu, 23 Jul 2026 09:23:40",
+         "title" : "European Senior Rapid and Blitz Chess Championships 2027 - Regulations"
+      },
+      {
          "description" : "Christian Gloeckler won the Masters Open Tournament at the Biel Chess Festival with a round to spare, scoring 8/9 and securing his first grandmaster norm with a 2689 performance rating. The 14-year-old German IM entered as the ninth seed and took the title after impressively collecting four straight wins. In the Masters Triathlon, Levon Aronian still leads, while Aydin Suleymanli remains in contention before the final round. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
