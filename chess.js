@@ -34,6 +34,30 @@ news_feed (
          "title" : "FIDE President Dvorkovich added to EU Sanctions List"
       },
       {
+         "description" : "IM Alice Lee upset Women&#39;s World Champion and reigning WSCC Champion GM Ju Wenjun on Friday in the 2026 Women&#39;s Speed Chess Championship Quarterfinals. Lee dominated all three portions and won the match with a shockingly one-sided 9.5-3.5 score. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
+         "pubDate" : "Fri, 24 Jul 2026 11:16:00",
+         "title" : "Alice Lee Eliminates Women's World Champion With 6-Point Margin"
+      },
+      {
+         "description" : "In chess slang, adoption means beating an opponent 10 games in a row. It&#39;s an impressive accomplishment against any strong player, but GM Vladimir Fedoseev managed it against a whole field of opponents in 3 0 Thursday on July 23. He won his first ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-yoo-fedoseev-3-0-thursday-07-23-2026",
+         "pubDate" : "Fri, 24 Jul 2026 09:44:30",
+         "title" : "Fedoseev Adopts The Field In 3 0 Thursday"
+      },
+      {
+         "description" : "Moscow-born Kazakh billionaire Timur Turlov has put himself forward as a candidate to become FIDE president, with GM Viswanathan Anand as his deputy. Turlov was planning to run for deputy president under Arkady Dvorkovich, but the European Union&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/timur-turlov-vishy-anand-fide-president",
+         "pubDate" : "Fri, 24 Jul 2026 08:21:00",
+         "title" : "Timur Turlov Bids To Become FIDE President, Vishy Anand As Deputy"
+      },
+      {
          "description" : "Levon Aronian won the 2026 Biel Masters Triathlon on his first appearance at the festival, drawing his final classical game against Aydin Suleymanli to finish on 29&frac12; points. The US grandmaster built his victory on strong rapid and blitz results, while Suleymanli took second place ahead of Yagiz Kaan Erdogmus and Le Quang Liem. Vaclav Finek won the Generations Challenge, and Christian Gloeckler secured the Masters Open title. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
          "pubDate" : "Fri, 24 Jul 2026 01:32:34",
          "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
+      },
+      {
+         "description" : "Tang, Belakovskaia, and Woodward Win Titles, Onischuk Forces Playoff with AkopianAll good things must come to an end. The quote is sometimes attributed to Geoffrey Chaucer, which would make sense, since they didn't have playoffs in the 1300s. Three of the four national championships were decided on Thursday in St. Louis, but the U.S. Senior Championship will go to a playoff tiebreaker beginning Friday at noon CDT. Girls' Junior Championship: Tang Clinches, Wu Rises<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Zoey Tang did it again, winning this year's U.S. Girls' Junior Championship by a two-point margin. (Photo courtesy SLCC/Lennart Ootes)<br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-winners-crowned-one-playoff-looms-junior-and-senior-championships",
+         "pubDate" : "Fri, 24 Jul 2026 00:00:00",
+         "title" : "Three Winners Crowned, One Playoff Looms in Junior and Senior Championships"
       },
       {
          "description" : "The London System has enjoyed a remarkable rise in popularity. Once regarded as a modest sideline, it has evolved in recent years into a dangerous opening that Black players must take seriously. In his review, Lukas K&ouml;pl takes a close look at GM Elisabeth P&auml;htz's latest Fritztrainer.",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Inside Story: Traveling Man"
       },
       {
-         "description" : "Clear Leaders Emerge After Round 3Just three days into the 2026 Junior and Senior Championships, we have a clear leader in all four sections. There's still two more rounds before the rest day, so players are getting creative: <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Brewington Hardaway (L) and Alexander Shabalov take rest where they can get it! (Photos courtesy SLCC/Lennart Ootes)<br> <br> WIM Rachael Li and GM Vladimir Akopian - in the Girls' Junior and Senior, respectively - are the lone players with 3/3 scores. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/standings-take-shape-junior-and-senior-championships-round-3",
-         "pubDate" : "Fri, 17 Jul 2026 00:00:00",
-         "title" : "Standings Take Shape in Junior and Senior Championships Round 3"
-      },
-      {
          "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "Arjun Completes Big Week With 3 0 Thursday Victory"
       },
       {
-         "description" : "The favorites, GMs Divya Deshmukh and Bibisara Assaubayeva, advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship on Friday. Between the two of them, the winners lost only a single game. Divya defeated IM Rose Atwell with an u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-divya-atwell-assaubayeva-khamdamova",
-         "pubDate" : "Fri, 10 Jul 2026 13:31:01",
-         "title" : "Divya Wins 14-1 Vs. Atwell, Assaubayeva 10.5-3.5 Vs. Khamdamova"
-      },
-      {
          "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -610,14 +626,6 @@ news_feed (
          "title" : "KazChess Masters 2026 - Games and Results"
       },
       {
-         "description" : "GM Kateryna Lagno and IM Alice Lee advanced to the Quarterfinals of the 2026 Women&#39;s Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno&#39;s victory was never in doubt as she scored 10.5-3.5 on the way to eliminating...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-lagno-ambartsumova-kosteniuk-lee",
-         "pubDate" : "Wed, 08 Jul 2026 15:31:49",
-         "title" : "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132263956.cms\" />The Chennai Grand Masters 2026 will be held from July 16-22 in Chennai, featuring World Champion Gukesh Dommaraju, Arjun Erigaisi, Hans Niemann and other top grandmasters. The eight-player single round-robin tournament offers a Rs 75 lakh prize pool and crucial FIDE Circuit points. Organisers have confirmed there will be no Challengers section this year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/heartbreak-for-indian-chess-fans-as-vidit-gujrathi-falls-in-mumbai-benjamin-bok-seals-esports-world-cup-2026-berth/articleshow/132241620.cms",
          "pubDate" : "Tue, 07 Jul 2026 14:47:28",
          "title" : "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth"
-      },
-      {
-         "description" : "Local hero GM Jaime Santos has won the&#38;nbsp;2026 Leon Masters after celebrating his 30th birthday by beating 12-year-old Argentinian GM-elect Faustino Oro 3-1 in the Semifinals, before overcoming Vietnamese defending champion GM Liem Le 3.5-0.5 in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
-         "pubDate" : "Tue, 07 Jul 2026 13:50:00",
-         "title" : "Santos Beats Oro, Le To Win 2nd Leon Masters"
       },
       {
          "description" : " My friend Jimmy Adams, who has died aged 79, was a writer on chess known for his witty personality and encyclopedic knowledge. Editor of Chess magazine from 1991 to 2010, in which role he brought every game and player to life with his enthusiastic, almost tabloid-like style, he was also a Fide master, the third highest ranking behind international master and grandmaster, a title he was awarded at the age of 67. Jimmy was born in Islington, north London, to James, a delivery driver, and Ivy (nee Soule), a shopkeeper, and attended Highbury county grammar school for boys. As a youngster he discovered the children's novel John and the Chess Men in his local library, and quickly graduated to bor",
