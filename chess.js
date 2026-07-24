@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In its 21st package of sanctions in response to Russia's invasion of Ukraine, the European Union has added Arkady Dvorkovich to its list of sanctioned individuals. The FIDE President has temporarily stepped aside from his position, with Viswanathan Anand serving as acting president. A new FIDE Presidential Board will be elected in September.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-president-dvorkovich-added-to-eu-sanctions-list",
+         "pubDate" : "Fri, 24 Jul 2026 11:58:15",
+         "title" : "FIDE President Dvorkovich added to EU Sanctions List"
+      },
+      {
          "description" : "Levon Aronian won the 2026 Biel Masters Triathlon on his first appearance at the festival, drawing his final classical game against Aydin Suleymanli to finish on 29&frac12; points. The US grandmaster built his victory on strong rapid and blitz results, while Suleymanli took second place ahead of Yagiz Kaan Erdogmus and Le Quang Liem. Vaclav Finek won the Generations Challenge, and Christian Gloeckler secured the Masters Open title. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Aronian and Finek convincingly win 2026 Triathlons in Biel"
       },
       {
-         "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republice. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
+         "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republic. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-starts/",
