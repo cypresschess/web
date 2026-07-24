@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Dear chess friends! We've got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!",
+         "description" : "Levon Aronian won the 2026 Biel Masters Triathlon on his first appearance at the festival, drawing his final classical game against Aydin Suleymanli to finish on 29&frac12; points. The US grandmaster built his victory on strong rapid and blitz results, while Suleymanli took second place ahead of Yagiz Kaan Erdogmus and Le Quang Liem. Vaclav Finek won the Generations Challenge, and Christian Gloeckler secured the Masters Open title. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-3",
-         "pubDate" : "Thu, 23 Jul 2026 20:00:01",
-         "title" : "ChessBase Summer-Special! - Part 3"
+         "link" : "https://en.chessbase.com/post/biel-festival-2026-final-3",
+         "pubDate" : "Fri, 24 Jul 2026 06:40:00",
+         "title" : "Aronian and Finek convincingly win 2026 Triathlons in Biel"
+      },
+      {
+         "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republice. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-starts/",
+         "pubDate" : "Fri, 24 Jul 2026 06:25:11",
+         "title" : "European Youth Team Chess Championship 2026 starts"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132594550.cms\" />FIDE President Arkady Dvorkovich has voluntarily stepped aside after being sanctioned by the European Union over Russia's invasion of Ukraine. Calling the sanctions \"unlawful and unfair\", he said he would challenge them legally. Deputy President Viswanathan Anand will serve as interim president. Meanwhile, India named its squads for the FIDE Chess Olympiad, with D Gukesh and Koneru Humpy leading the teams.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-steps-in-as-fide-interim-president-after-eu-sanctions-sideline-arkady-dvorkovich/articleshow/132594550.cms",
+         "pubDate" : "Fri, 24 Jul 2026 02:00:34",
+         "title" : "Chess legend Anand steps in as FIDE interim president after EU sanctions sideline Dvorkovich"
+      },
+      {
+         "description" : " EU unveils largest package in four years of measures against Russian individuals and interests; Laura Loomer shows up in Kyiv. What we know on day 1,612 <a href=\"https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
+         "pubDate" : "Fri, 24 Jul 2026 01:32:34",
+         "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
       },
       {
          "description" : "The London System has enjoyed a remarkable rise in popularity. Once regarded as a modest sideline, it has evolved in recent years into a dangerous opening that Black players must take seriously. In his review, Lukas K&ouml;pl takes a close look at GM Elisabeth P&auml;htz's latest Fritztrainer.",
@@ -26,14 +50,6 @@ news_feed (
          "title" : "Biel Festival - Live!"
       },
       {
-         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details. In our selection we highlight selected events from around the world that may interest players, coaches, parents and chess fans.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-3",
-         "pubDate" : "Thu, 23 Jul 2026 12:00:00",
-         "title" : "Upcoming tournaments and events"
-      },
-      {
          "description" : "The President of the International Chess Federation (FIDE), Arkady Dvorkovich, has decided to suspend his authority as the head of the chess governing body after being sanctioned by the European Union. Five-time world champion GM Viswanathan Anand...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-rapid-and-blitz-chess-championships-2027-regulations/",
          "pubDate" : "Thu, 23 Jul 2026 09:23:40",
          "title" : "European Senior Rapid and Blitz Chess Championships 2027 - Regulations"
-      },
-      {
-         "description" : "Christian Gloeckler won the Masters Open Tournament at the Biel Chess Festival with a round to spare, scoring 8/9 and securing his first grandmaster norm with a 2689 performance rating. The 14-year-old German IM entered as the ninth seed and took the title after impressively collecting four straight wins. In the Masters Triathlon, Levon Aronian still leads, while Aydin Suleymanli remains in contention before the final round. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-final-2",
-         "pubDate" : "Thu, 23 Jul 2026 08:30:00",
-         "title" : "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare"
       },
       {
          "description" : "GM Anish Giri, the longtime top-10 chess player and instructional author, has signed with Basilisk Gaming (stylized BASILISK), the esports organization announced in a press release and on social media Thursday. Giri will begin representing Basilis...",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-8-woodward-makes-his-move",
          "pubDate" : "Thu, 23 Jul 2026 00:00:00",
          "title" : "Junior and Senior Championships Round 8: Woodward Makes His Move"
-      },
-      {
-         "description" : "Alireza Firouzja won the Quantbox Chennai Grand Masters outright with an unbeaten 4&frac12;/7 score, drawing Arjun Erigaisi in the final round to finish half a point clear. Erigaisi and Dmitry Andreikin shared second place, with Andreikin defeating Nodirbek Abdusattorov in the last round. Reigning world champion Gukesh Dommaraju finished last on 2/7 after suffering three defeats and losing 13.9 rating points. | Photo: Tushar Damor",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2026-7",
-         "pubDate" : "Wed, 22 Jul 2026 22:40:00",
-         "title" : "Alireza Firouzja wins Chennai Grand Masters, rejoins world top ten"
       },
       {
          "description" : "The Armenian State Pedagogical University, together with the &#8220;Chess&#8221; Scientific Research Institute and the Chess Academy of Armenia, organise the International Scientific Conference \"Theory and Practice of Chess Education\" from 1-2 October 2026 in Tsaghkadzor, Armenia. The event will be held in the Hybrid format (Online and Onsite), aiming to bring together researchers, educators, and practitioners to explore the role of chess in education, cognitive development, and social-emotional learning. The Conference will cover the following topics: Chess and Personal Development, []",
@@ -688,22 +688,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2026/07/04/2026-07-04.national-initiative-with-leap/",
          "pubDate" : "Sat, 04 Jul 2026 00:00:00",
          "title" : "National Initiative with LEAP Company"
-      },
-      {
-         "description" : " Annual celebration on 12 July enables social players and children to challenge some of England's best On Sunday, 12 July, ChessFest, the game's annual celebration, returns to Trafalgar Square in central London and offers a unique opportunity for ordinary players and their children to experience top chess free of charge. Complete beginners are welcome and will receive helpful instruction from Chess in Schools and Communities tutors. The action starts at noon and continues until 7pm. Throughout the day, experts including nine-time British champion Michael Adams, three-time champion Gawain Maroroa Jones, and many other international players will give simultaneous displays or be available for o",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/03/chessfest-back-in-london-as-public-get-chance-to-take-on-grandmasters",
-         "pubDate" : "Fri, 03 Jul 2026 07:00:22",
-         "title" : "ChessFest back in London as public get chance to take on grandmasters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132151234.cms\" /> Born exactly 50 years after Garry Kasparov, 13-year-old chess prodigy and maths Olympiad star Pratitee Bordoloi scripted history by winning India's only medal at the 2026 FIDE World Youth Chess Championship. The story explores her extraordinary rise, analytical brilliance, disciplined upbringing, and the unique blend of academic excellence, humility, and competitive ambition shaping her journey.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/born-exactly-50-years-after-garry-kasparov-how-13-year-old-maths-olympiad-genius-pratitee-bordoloi-became-indias-lone-medallist-at-world-youth-chess/articleshow/132151234.cms",
-         "pubDate" : "Fri, 03 Jul 2026 03:20:38",
-         "title" : "Born 50 yrs after Kasparov! How 13-yo Pratitee became India's lone medallist at World Youth Chess"
       }
    ]
 }
