@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Timur Turlov, president of the Kazakhstan Chess Federation and founder of Freedom Holding Corp., an international financial services and technology group, has announced his decision to run for president of the International Chess Federation, or FIDE. Viswanathan Anand, one of the world's most accomplished grandmasters and a former world chess champion, will join Turlov's ticket as a candidate for vice president.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freedom-holding-founder-timur-turlov-to-run-for-fide-president",
+         "pubDate" : "Fri, 24 Jul 2026 16:22:34",
+         "title" : "Freedom Holding Founder Timur Turlov to Run for FIDE President"
+      },
+      {
+         "description" : "The Vugar Gashimov Chess Open 2026 officially commences in Baku, and will be played from 24 to 30 July at the Baku Olympic Hall. Organized in honor of late Grandmaster Vugar Gashimov, this year's tournament holds special significance as it marks the 40th anniversary of his birth. Ahead of the event's opening, on the morning of July 24, family members, friends, players and colleagues visited GM Vugar Gashimov's grave to mark his birthday and pay tribute to his lasting legacy []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/vugar-gashimov-chess-open-2026-commences-in-baku/",
+         "pubDate" : "Fri, 24 Jul 2026 15:01:09",
+         "title" : "Vugar Gashimov Chess Open 2026 commences in Baku"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132606133.cms\" />Team India has announced formidable squads for the upcoming FIDE Chess Olympiad. Defending champions aim to retain both open and women's team titles. Prominent players like Gukesh and Praggnanandhaa will lead the men's team. Vaishali, a recent Women's Candidates winner, spearheads the women's lineup. Viswanathan Anand now serves as the interim FIDE president.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
+         "pubDate" : "Fri, 24 Jul 2026 12:44:59",
+         "title" : "India name Chess Olympiad squads as Gukesh, Praggnanandhaa, Vaishali lead title defence"
+      },
+      {
          "description" : "In its 21st package of sanctions in response to Russia's invasion of Ukraine, the European Union has added Arkady Dvorkovich to its list of sanctioned individuals. The FIDE President has temporarily stepped aside from his position, with Viswanathan Anand serving as acting president. A new FIDE Presidential Board will be elected in September.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/do-not-need-to-calculate-everything/",
          "pubDate" : "Sat, 04 Jul 2026 13:00:00",
          "title" : "You Don't Need To Calculate Everything"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132174198.cms\" />Former world champion Vladimir Kramnik has been banned by FIDE for two years, with the second year suspended, over unethical conduct linked to public cheating allegations against players including David Navara and Daniel Naroditsky. FIDE cited bullying, unjustified accusations and procedural violations. Kramnik has vowed to appeal the ruling.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-is-next-for-vladimir-kramnik-after-chess-legend-handed-two-year-ban-by-fide/articleshow/132174198.cms",
-         "pubDate" : "Sat, 04 Jul 2026 04:20:01",
-         "title" : "What is next for Kramnik after chess legend handed two-year ban by FIDE?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173556.cms\" />Ahead of the India Rising: Road to EWC Chess LAN Finals in Mumbai on Saturday, Grandmaster Vidit Gujrathi spoke to TimesofIndia.com about his journey through the qualifiers, India's growing stature in world chess, and the evolving relationship between chess and esports. Reflecting on a near-elimination scare, Vidit backed India's dedicated EWC pathway and expressed his determination to secure a place at the Esports World Cup 2026 in Paris.",
