@@ -90,6 +90,14 @@ news_feed (
          "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
       },
       {
+         "description" : "GM Vladimir Akopian defeated GM Alexander Onischuk 3-1 in the U.S. Senior Championship playoff earlier this afternoon at the Saint Louis Chess Club (SLCC). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Akopian led for most of the tournament, but a strong 3&frac12;/4 finish from Onischuk saw him catch the leader in the final round. The players split a pair of rapid games, and Akopian won both blitz games to clinch his second title in three years. In the first rapid game, Akopian seemed prepared in a slightly slow variation of the Slav Defense, only to immediately drift in the ensuing complications.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/akopian-wins-us-senior-championship-playoff",
+         "pubDate" : "Fri, 24 Jul 2026 00:00:00",
+         "title" : "Akopian Wins U.S. Senior Championship Playoff"
+      },
+      {
          "description" : "Tang, Belakovskaia, and Woodward Win Titles, Onischuk Forces Playoff with AkopianAll good things must come to an end. The quote is sometimes attributed to Geoffrey Chaucer, which would make sense, since they didn't have playoffs in the 1300s. Three of the four national championships were decided on Thursday in St. Louis, but the U.S. Senior Championship will go to a playoff tiebreaker beginning Friday at noon CDT. Girls' Junior Championship: Tang Clinches, Wu Rises<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Zoey Tang did it again, winning this year's U.S. Girls' Junior Championship by a two-point margin. (Photo courtesy SLCC/Lennart Ootes)<br> <br>",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-wscc-qf-divya-assaubayeva-lagno-avramidou",
          "pubDate" : "Fri, 17 Jul 2026 04:00:49",
          "title" : "Assaubayeva, Avramidou Reach Semifinals Through Bullet Skills"
-      },
-      {
-         "description" : "Hitting the road with GM Jianchao ZhouEditor's note: this story first appeared in the July 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Jianchao Zhou at the 2023 U.S. Masters. (Photo courtesy David Llada)<br> <br> <br> <br> Want to win the Grand Prix? It takes more than you might think.GM Jianchao Zhou has won it three years in a row, and he's got a sizable lead in this year's standings.And",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-traveling-man",
-         "pubDate" : "Fri, 17 Jul 2026 00:00:00",
-         "title" : "Inside Story: Traveling Man"
       },
       {
          "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
