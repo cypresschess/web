@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the key aspects of chess playing that gets misunderstood is how to use strategy in a real game. Seeing Grandmasters and YouTubers explain so many interesting concepts can easily persuade you to try too hard to understand &#38; apply strategic concepts. Today I want to share a super simple rule of thumb: If []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/how-to-use-strategy-in-chess-game/",
+         "pubDate" : "Sat, 25 Jul 2026 13:00:00",
+         "title" : "How To Use Strategy In A Game"
+      },
+      {
          "description" : "The latest issue of ChessBase Magazine, No. 232, is once again packed with training material covering a wide range of chess topics. In his review, Lukas K&ouml;pl takes a closer look at the magazine's contents, with a particular focus on Jan Markos' article with \"Practical Tips\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2026-starts/",
          "pubDate" : "Sun, 05 Jul 2026 10:24:18",
          "title" : "European Youth Rapid & Blitz Chess Championship 2026 starts"
-      },
-      {
-         "description" : "Calculation is hard. But many of my students make it harder than it has to be. The truth is: you'll never see everything. It also isn't necessary. You just need to see what is crucial to make a good decision. Here is how. When It Is Enough I recently had this position in a 1:1 []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/do-not-need-to-calculate-everything/",
-         "pubDate" : "Sat, 04 Jul 2026 13:00:00",
-         "title" : "You Don't Need To Calculate Everything"
       }
    ]
 }
