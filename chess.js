@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michal Krasenkow gives an interview after a dramatic comeback win to talk about his turbulent game, his storied career and why he has no intention of making life easy for the Indian players chasing norms. Michal dominated the second edition of the Chola Chess Grandmaster Round Robin Tournament and won the event in style. | Photos and interview: Devansh Singh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michal-krasenkow-interview-2026-chola-tournament",
+         "pubDate" : "Sat, 25 Jul 2026 02:10:00",
+         "title" : "Michal Krasenkow: \"If you want a GM norm, beat a GM\""
+      },
+      {
+         "description" : "GM Levon Aronian emerged as the winner of the Biel Masters&#38;mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &#38;euro;10,750 or $12,250). The 59th edition of the festival had a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
+         "pubDate" : "Fri, 24 Jul 2026 19:03:18",
+         "title" : "Aronian Wins Biel Masters 2026"
+      },
+      {
          "description" : "Timur Turlov, president of the Kazakhstan Chess Federation and founder of Freedom Holding Corp., an international financial services and technology group, has announced his decision to run for president of the International Chess Federation, or FIDE. Viswanathan Anand, one of the world's most accomplished grandmasters and a former world chess champion, will join Turlov's ticket as a candidate for vice president.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Trying harder makes you play worse moves"
       },
       {
-         "description" : "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-ohanyan-murzin-3-0-thursday-07-10-2026",
-         "pubDate" : "Fri, 10 Jul 2026 13:45:45",
-         "title" : "Arjun Completes Big Week With 3 0 Thursday Victory"
-      },
-      {
          "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -696,22 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-exclusive-india-is-chess-powerhouse-but-still-far-from-becoming-esports-hub/articleshow/132173556.cms",
          "pubDate" : "Sat, 04 Jul 2026 03:53:47",
          "title" : "Vidit Gujrathi Exclusive: 'India is a chess powerhouse but still far from becoming esports hub'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173577.cms\" />India has secured a permanent qualification pathway to the Esports World Cup through the India Rising initiative, a collaboration between JioBLAST, Chess.com and the EWC Foundation. Leveraging the country's chess dominance and massive gaming market, the initiative aims to create a long-term pipeline for Indian talent. On Saturday, using this pathway, Grandmaster Vidit Gujrathi could become the fourth Indian to qualify for the EWC main event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-indias-moment-why-the-nation-of-1-4-billion-now-has-a-dedicated-pathway-to-esports-world-cup/articleshow/132173577.cms",
-         "pubDate" : "Sat, 04 Jul 2026 02:53:25",
-         "title" : "'This is India's moment': Why the nation of 1.4 billion now has a dedicated pathway to Esports World Cup"
-      },
-      {
-         "description" : " On behalf of the Chess Federation of Canada, it is my great pleasure to announce an exciting new national initiative that we believe will help grow chess in communities across Canada. The Chess Federation of Canada has entered into a new partnership with LEAP Company, a respected Chinese manufacturer of chess equipment and digital chess clocks. Through this partnership, the CFC will be able to provide high-quality chess sets and clocks at significantly reduced costs, creating new opportunities for chess development from coast to coast. ",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2026/07/04/2026-07-04.national-initiative-with-leap/",
-         "pubDate" : "Sat, 04 Jul 2026 00:00:00",
-         "title" : "National Initiative with LEAP Company"
       }
    ]
 }
