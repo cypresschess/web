@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2026-07-24","42","<a href=https://ratings.uschess.org/event/202607240313 target='_blank'>Knights of Cypress</a>",
+"HOUSTON","2026-07-24","16","<a href=https://ratings.uschess.org/event/202607240303 target='_blank'>JULY 21-24  CHESSMASTERS DAYLIGHT O</a>",
 "HOUSTON","2026-07-19","10","<a href=https://ratings.uschess.org/event/202607190223 target='_blank'>Bellaire Sunday Swiss 2026.07.19</a>",
 "HOUSTON","2026-07-18","5","<a href=https://ratings.uschess.org/event/202607180133 target='_blank'>chesspanda07182026saturday</a>",
 "CYPRESS","2026-07-17","46","<a href=https://ratings.uschess.org/event/202607170423 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-04-28","19","<a href=https://ratings.uschess.org/event/202604280243 target='_blank'>APRIL TUE NITE SWISS 2026</a>",
 "KATY","2026-04-26","13","<a href=https://ratings.uschess.org/event/202604260953 target='_blank'>2026 Katy Kids Chess</a>",
 "HOUSTON","2026-04-26","15","<a href=https://ratings.uschess.org/event/202604260383 target='_blank'>Bellaire Sunday Swiss 2026.04.26</a>",
-"HOUSTON","2026-04-25","42","<a href=https://ratings.uschess.org/event/202604250663 target='_blank'>2026 TEXAS QUICK CHESS STATE CHAMPI</a>",
-"HOUSTON","2026-04-25","11","<a href=https://ratings.uschess.org/event/202604250383 target='_blank'>chesspanda04252026saturday</a>",
 ]);
