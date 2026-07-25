@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The latest issue of ChessBase Magazine, No. 232, is once again packed with training material covering a wide range of chess topics. In his review, Lukas K&ouml;pl takes a closer look at the magazine's contents, with a particular focus on Jan Markos' article with \"Practical Tips\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-232",
+         "pubDate" : "Sat, 25 Jul 2026 07:00:00",
+         "title" : "Review: ChessBase Magazine #232"
+      },
+      {
          "description" : "Michal Krasenkow gives an interview after a dramatic comeback win to talk about his turbulent game, his storied career and why he has no intention of making life easy for the Indian players chasing norms. Michal dominated the second edition of the Chola Chess Grandmaster Round Robin Tournament and won the event in style. | Photos and interview: Devansh Singh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/do-not-need-to-calculate-everything/",
          "pubDate" : "Sat, 04 Jul 2026 13:00:00",
          "title" : "You Don't Need To Calculate Everything"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132173556.cms\" />Ahead of the India Rising: Road to EWC Chess LAN Finals in Mumbai on Saturday, Grandmaster Vidit Gujrathi spoke to TimesofIndia.com about his journey through the qualifiers, India's growing stature in world chess, and the evolving relationship between chess and esports. Reflecting on a near-elimination scare, Vidit backed India's dedicated EWC pathway and expressed his determination to secure a place at the Esports World Cup 2026 in Paris.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-exclusive-india-is-chess-powerhouse-but-still-far-from-becoming-esports-hub/articleshow/132173556.cms",
-         "pubDate" : "Sat, 04 Jul 2026 03:53:47",
-         "title" : "Vidit Gujrathi Exclusive: 'India is a chess powerhouse but still far from becoming esports hub'"
       }
    ]
 }
