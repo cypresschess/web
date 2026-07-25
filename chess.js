@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Seventy years ago, Bobby Fischer appeared on the cover of a chess magazine for the first time. The then 13-year-old had won the U.S. Junior Championship in Philadelphia in commanding fashion. Chess Life, the magazine of the United States Chess Federation, celebrated his achievement with a cover story in its 20 July 1956 issue. Roger Lorenz takes us on a short journey back in time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bobby-fischer-first-front-page",
+         "pubDate" : "Sat, 25 Jul 2026 18:20:00",
+         "title" : "Bobby Fischer's first front-page appearance, 70 years on"
+      },
+      {
          "description" : "One of the key aspects of chess playing that gets misunderstood is how to use strategy in a real game. Seeing Grandmasters and YouTubers explain so many interesting concepts can easily persuade you to try too hard to understand &#38; apply strategic concepts. Today I want to share a super simple rule of thumb: If []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
