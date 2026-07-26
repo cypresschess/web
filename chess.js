@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Mega Database 2026 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase&acute;26, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
+         "pubDate" : "Sun, 26 Jul 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 24: Always get the latest games via update"
+      },
+      {
+         "description" : "The Tech Mahindra Global Chess League returns for its fourth season, bringing the world's biggest chess stars to Bengaluru from September 3-13, 2026. With six power-packed franchises, fresh team combinations, exciting debutants and fierce rivalries, here's a complete look at every squad, their strengths and what makes this season the most anticipated yet. | Pictured: Vishy Anand with Anand Mahindra, Chairman of the Mahindra Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-draft",
+         "pubDate" : "Sun, 26 Jul 2026 05:40:00",
+         "title" : "Global Chess League to take place in India's Silicon Valley: Carlsen, Sindarov and Anand in the mix"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132635468.cms\" />India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
          "pubDate" : "Sun, 26 Jul 2026 01:17:36",
          "title" : "'Gens Una Sumus' - What three Latin words beneath a chess emblem taught me about the world"
-      },
-      {
-         "description" : "Seventy years ago, Bobby Fischer appeared on the cover of a chess magazine for the first time. The then 13-year-old had won the U.S. Junior Championship in Philadelphia in commanding fashion. Chess Life, the magazine of the United States Chess Federation, celebrated his achievement with a cover story in its 20 July 1956 issue. Roger Lorenz takes us on a short journey back in time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bobby-fischer-first-front-page",
-         "pubDate" : "Sat, 25 Jul 2026 18:20:00",
-         "title" : "Bobby Fischer's first front-page appearance, 70 years on"
       },
       {
          "description" : "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&#38;nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde...",
@@ -34,36 +42,12 @@ news_feed (
          "title" : "How To Use Strategy In A Game"
       },
       {
-         "description" : "The latest issue of ChessBase Magazine, No. 232, is once again packed with training material covering a wide range of chess topics. In his review, Lukas K&ouml;pl takes a closer look at the magazine's contents, with a particular focus on Jan Markos' article with \"Practical Tips\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-232",
-         "pubDate" : "Sat, 25 Jul 2026 07:00:00",
-         "title" : "Review: ChessBase Magazine #232"
-      },
-      {
-         "description" : "Michal Krasenkow gives an interview after a dramatic comeback win to talk about his turbulent game, his storied career and why he has no intention of making life easy for the Indian players chasing norms. Michal dominated the second edition of the Chola Chess Grandmaster Round Robin Tournament and won the event in style. | Photos and interview: Devansh Singh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michal-krasenkow-interview-2026-chola-tournament",
-         "pubDate" : "Sat, 25 Jul 2026 02:10:00",
-         "title" : "Michal Krasenkow: \"If you want a GM norm, beat a GM\""
-      },
-      {
          "description" : "GM Levon Aronian emerged as the winner of the Biel Masters&#38;mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &#38;euro;10,750 or $12,250). The 59th edition of the festival had a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
          "pubDate" : "Fri, 24 Jul 2026 19:03:18",
          "title" : "Aronian Wins Biel Masters 2026"
-      },
-      {
-         "description" : "Timur Turlov, president of the Kazakhstan Chess Federation and founder of Freedom Holding Corp., an international financial services and technology group, has announced his decision to run for president of the International Chess Federation, or FIDE. Viswanathan Anand, one of the world's most accomplished grandmasters and a former world chess champion, will join Turlov's ticket as a candidate for vice president.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freedom-holding-founder-timur-turlov-to-run-for-fide-president",
-         "pubDate" : "Fri, 24 Jul 2026 16:22:34",
-         "title" : "Freedom Holding Founder Timur Turlov to Run for FIDE President"
       },
       {
          "description" : "The Vugar Gashimov Chess Open 2026 officially commences in Baku, and will be played from 24 to 30 July at the Baku Olympic Hall. Organized in honor of late Grandmaster Vugar Gashimov, this year's tournament holds special significance as it marks the 40th anniversary of his birth. Ahead of the event's opening, on the morning of July 24, family members, friends, players and colleagues visited GM Vugar Gashimov's grave to mark his birthday and pay tribute to his lasting legacy []",
@@ -80,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
          "pubDate" : "Fri, 24 Jul 2026 12:44:59",
          "title" : "India name Chess Olympiad squads as Gukesh, Praggnanandhaa, Vaishali lead title defence"
-      },
-      {
-         "description" : "In its 21st package of sanctions in response to Russia's invasion of Ukraine, the European Union has added Arkady Dvorkovich to its list of sanctioned individuals. The FIDE President has temporarily stepped aside from his position, with Viswanathan Anand serving as acting president. A new FIDE Presidential Board will be elected in September.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-president-dvorkovich-added-to-eu-sanctions-list",
-         "pubDate" : "Fri, 24 Jul 2026 11:58:15",
-         "title" : "FIDE President Dvorkovich added to EU Sanctions List"
       },
       {
          "description" : "IM Alice Lee upset Women&#39;s World Champion and reigning WSCC Champion GM Ju Wenjun on Friday in the 2026 Women&#39;s Speed Chess Championship Quarterfinals. Lee dominated all three portions and won the match with a shockingly one-sided 9.5-3.5 score. ...",
@@ -112,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/timur-turlov-vishy-anand-fide-president",
          "pubDate" : "Fri, 24 Jul 2026 08:21:00",
          "title" : "Timur Turlov Bids To Become FIDE President, Vishy Anand As Deputy"
-      },
-      {
-         "description" : "Levon Aronian won the 2026 Biel Masters Triathlon on his first appearance at the festival, drawing his final classical game against Aydin Suleymanli to finish on 29&frac12; points. The US grandmaster built his victory on strong rapid and blitz results, while Suleymanli took second place ahead of Yagiz Kaan Erdogmus and Le Quang Liem. Vaclav Finek won the Generations Challenge, and Christian Gloeckler secured the Masters Open title. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-final-3",
-         "pubDate" : "Fri, 24 Jul 2026 06:40:00",
-         "title" : "Aronian and Finek convincingly win 2026 Triathlons in Biel"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republic. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
@@ -160,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/three-winners-crowned-one-playoff-looms-junior-and-senior-championships",
          "pubDate" : "Fri, 24 Jul 2026 00:00:00",
          "title" : "Three Winners Crowned, One Playoff Looms in Junior and Senior Championships"
-      },
-      {
-         "description" : "The London System has enjoyed a remarkable rise in popularity. Once regarded as a modest sideline, it has evolved in recent years into a dangerous opening that Black players must take seriously. In his review, Lukas K&ouml;pl takes a close look at GM Elisabeth P&auml;htz's latest Fritztrainer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-mastering-the-london-system-by-elisabeth-paehtz",
-         "pubDate" : "Thu, 23 Jul 2026 20:00:00",
-         "title" : "Review: Mastering the London System by Elisabeth P&auml;htz"
       },
       {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
