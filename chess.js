@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132635468.cms\" />India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
+         "pubDate" : "Sun, 26 Jul 2026 01:17:36",
+         "title" : "'Gens Una Sumus' - What three Latin words beneath a chess emblem taught me about the world"
+      },
+      {
          "description" : "Seventy years ago, Bobby Fischer appeared on the cover of a chess magazine for the first time. The then 13-year-old had won the U.S. Junior Championship in Philadelphia in commanding fashion. Chess Life, the magazine of the United States Chess Federation, celebrated his achievement with a cover story in its 20 July 1956 issue. Roger Lorenz takes us on a short journey back in time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bobby-fischer-first-front-page",
          "pubDate" : "Sat, 25 Jul 2026 18:20:00",
          "title" : "Bobby Fischer's first front-page appearance, 70 years on"
+      },
+      {
+         "description" : "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&#38;nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-july-25-2026",
+         "pubDate" : "Sat, 25 Jul 2026 17:21:00",
+         "title" : "20-Point Comeback Seals Stunning Tiebreak Victory For Le"
       },
       {
          "description" : "One of the key aspects of chess playing that gets misunderstood is how to use strategy in a real game. Seeing Grandmasters and YouTubers explain so many interesting concepts can easily persuade you to try too hard to understand &#38; apply strategic concepts. Today I want to share a super simple rule of thumb: If []",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-new-format",
          "pubDate" : "Mon, 13 Jul 2026 12:37:00",
          "title" : "FIDE Transforms 2027 World Cup Format"
-      },
-      {
-         "description" : "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
-         "pubDate" : "Sat, 11 Jul 2026 21:12:00",
-         "title" : "Nakamura Wins 50 Games En Route To 12th Title In 2026"
       },
       {
          "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
