@@ -680,14 +680,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/mike-truran-steps-down-after-over-a-decade-of-ecf-board-service/",
          "pubDate" : "Mon, 06 Jul 2026 10:51:14",
          "title" : "Mike Truran Steps Down from ECF Board"
-      },
-      {
-         "description" : " The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Deac and Gukesh Dommaraju. Alrizeza Firouzja won an Armageddon Tie-break against Nodirbek Abdusattorov after they tied the combined standings and a two game rapid tie-break match.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
-         "pubDate" : "Sun, 5 Jul 2026 22:55:00",
-         "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
       }
    ]
 }
