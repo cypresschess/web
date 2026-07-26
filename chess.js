@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Championship has been decided: Leonardo Costa is the German champion in the open category with 6/9. Bennet Hagner, in second place, and Luis Engel, in third, follow in the standings with 5&frac12; points each. Jana Schneider became the German women's champion with 7/9. Lara Schulze finished second and Sarah Papp third. A draw against Dmitrij Kollars was enough for Leonardo Costa to secure first place, while Jana Schneider clinched the title with a victory over Kateryna Dolzhykova. | Photos: Finn Engesser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-championship-2026-report",
+         "pubDate" : "Sun, 26 Jul 2026 11:05:00",
+         "title" : "Leonardo Costa and Jana Schneider are the 2026 German chess champions"
+      },
+      {
          "description" : "The Mega Database 2026 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase&acute;26, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
          "pubDate" : "Sun, 5 Jul 2026 22:55:00",
          "title" : "GCT Super Rapid & Blitz Croatia 2026 - Games and Results"
-      },
-      {
-         "description" : "The 2026 European Youth Rapid &#38; Blitz Chess Championship starts this Monday in Rzeszow, Poland! The event will take place from July 6 July 10 at the Podpromie Playing Hall and will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The event gathers nearly 950 children coming from 33 European federations! The Championship will crown 24 European Champions, for different age sections and for Rapid and Blitz competitions. List []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2026-starts/",
-         "pubDate" : "Sun, 05 Jul 2026 10:24:18",
-         "title" : "European Youth Rapid & Blitz Chess Championship 2026 starts"
       }
    ]
 }
