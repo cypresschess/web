@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Walther Freiherr von Holzhausen is not among the best-known players of the early twentieth century. Nevertheless, he was a very strong amateur and, above all, a chess problem composer of great importance. As a major in the Prussian Army, the First World War marked a profound turning point in his life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/walther-von-holzhausen-military-officer-chess-problemist",
+         "pubDate" : "Sun, 26 Jul 2026 19:05:00",
+         "title" : "Walther von Holzhausen: Military officer, chess problemist"
+      },
+      {
          "description" : "The German Championship has been decided: Leonardo Costa is the German champion in the open category with 6/9. Bennet Hagner, in second place, and Luis Engel, in third, follow in the standings with 5&frac12; points each. Jana Schneider became the German women's champion with 7/9. Lara Schulze finished second and Sarah Papp third. A draw against Dmitrij Kollars was enough for Leonardo Costa to secure first place, while Jana Schneider clinched the title with a victory over Kateryna Dolzhykova. | Photos: Finn Engesser",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-draft",
          "pubDate" : "Sun, 26 Jul 2026 05:40:00",
          "title" : "Global Chess League to take place in India's Silicon Valley: Carlsen, Sindarov and Anand in the mix"
+      },
+      {
+         "description" : "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/akopian-wins-us-senior-championship",
+         "pubDate" : "Sun, 26 Jul 2026 04:29:00",
+         "title" : "Akopian Wins U.S. Senior Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132635468.cms\" />India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
          "pubDate" : "Mon, 13 Jul 2026 13:10:00",
          "title" : "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova"
-      },
-      {
-         "description" : "The International Chess Federation has announced a big shake-up in the format for the 2027 FIDE World Cup and Women&#39;s World Cup. Instead of huge 206 and 107-player knockouts, the last stage will now involve only the final 16 players in each event,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-new-format",
-         "pubDate" : "Mon, 13 Jul 2026 12:37:00",
-         "title" : "FIDE Transforms 2027 World Cup Format"
       },
       {
          "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
