@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132651100.cms\" />Viswanathan Anand has decided to contest the FIDE elections as Deputy President alongside presidential candidate Timur Turlov, reversing his earlier plan to step back for family reasons. The change follows Arkady Dvorkovich's exit from the race due to EU sanctions. Anand, currently FIDE's Interim President, said he wants to continue helping expand chess and backed Turlov's vision for the organisation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-makes-u-turn-rejoins-fide-election-race/articleshow/132651100.cms",
+         "pubDate" : "Mon, 27 Jul 2026 02:52:04",
+         "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
+      },
+      {
          "description" : "Walther Freiherr von Holzhausen is not among the best-known players of the early twentieth century. Nevertheless, he was a very strong amateur and, above all, a chess problem composer of great importance. As a major in the Prussian Army, the First World War marked a profound turning point in his life.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
