@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to win two consecutive world computer chess championships. How much faster are today's supercomputers? Take a guess - you are definitely not going to get it right.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-much-faster-are-computers-today",
+         "pubDate" : "Mon, 27 Jul 2026 06:55:27",
+         "title" : "How much faster are computers today?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132651100.cms\" />Viswanathan Anand has decided to contest the FIDE elections as Deputy President alongside presidential candidate Timur Turlov, reversing his earlier plan to step back for family reasons. The change follows Arkady Dvorkovich's exit from the race due to EU sanctions. Anand, currently FIDE's Interim President, said he wants to continue helping expand chess and backed Turlov's vision for the organisation.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
