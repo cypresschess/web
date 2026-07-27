@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2026-07-25","9","<a href=https://ratings.uschess.org/event/202607250233 target='_blank'>chesspanda07252026saturday</a>",
+"HOUSTON","2026-07-24","55","<a href=https://ratings.uschess.org/event/202607240543 target='_blank'>Gulf Coast FIDE 2026</a>",
 "SUGAR LAND","2026-07-24","24","<a href=https://ratings.uschess.org/event/202607240493 target='_blank'>FBCC 2026 National Amelia Earhart Day</a>",
 "SPRING","2026-07-24","15","<a href=https://ratings.uschess.org/event/202607240473 target='_blank'>The Friday Knights</a>",
 "KATY","2026-07-24","31","<a href=https://ratings.uschess.org/event/202607240463 target='_blank'>Katy Scholastic Chess Tournament</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-05-02","10","<a href=https://ratings.uschess.org/event/202605020163 target='_blank'>chesspanda05022026saturday</a>",
 "CYPRESS","2026-05-01","32","<a href=https://ratings.uschess.org/event/202605010333 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-01","16","<a href=https://ratings.uschess.org/event/202605010253 target='_blank'>The Friday Knights</a>",
-"SUGAR LAND","2026-05-01","8","<a href=https://ratings.uschess.org/event/202605010163 target='_blank'>FBCC 2026 National Space Day Open</a>",
 ]);
