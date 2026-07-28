@@ -2,12 +2,132 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Team USA took a 5-3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best individual result. World Championship challenger Javokhir Sindarov defeated both Hikaru Nakamura and Leinier Dominguez, but lost to Aronian. The teams are set to play eight rounds of blitz on Tuesday. | Photo: Lennart Ootes / WR Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-1",
+         "pubDate" : "Tue, 28 Jul 2026 15:20:00",
+         "title" : "WR Chess Miami: USA lead 5-3, Aronian scores 2&frac12; out of 3"
+      },
+      {
+         "description" : "In a press release, FIDE just announced that Geneva will host the 2026 FIDE World Championship match between reigning champion Gukesh Dommaraju and challenger Javokhir Sindarov from November 25 to December 15. The announcement ends months of speculation over the venue and brings the title match back to Switzerland for the first time since Kramnik and Leko met in Brissago in 2004. At just 20 years of age, Gukesh and Sindarov will contest the youngest World Championship match in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/geneva-to-host-fide-world-championship-match-2026",
+         "pubDate" : "Tue, 28 Jul 2026 14:29:36",
+         "title" : "Geneva to host FIDE World Championship Match 2026"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-reveals-host-city-for-gukesh-vs-sindarov-world-championship-clash-youngest-ever-title-match-in-chess-history/articleshow/132685626.cms",
+         "pubDate" : "Tue, 28 Jul 2026 13:32:47",
+         "title" : "FIDE reveals host city for Gukesh vs Sindarov World Championship clash"
+      },
+      {
+         "description" : "The German broadcaster Deutsche Welle recently examined Russia's influence within the International Chess Federation (FIDE). Following Russia's invasion of Ukraine, the Russian Chess Federation was sanctioned, but through Russian FIDE President Arkady Dvorkovich it maintained a foothold within the organisation. However, Russia's influence is now in decline.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutsche-welle-could-russia-be-about-to-lose-its-grip-on-chess-leadership",
+         "pubDate" : "Tue, 28 Jul 2026 12:00:00",
+         "title" : "Deutsche Welle: \"Could Russia be about to lose its grip on chess leadership?\""
+      },
+      {
+         "description" : " The WR Chess Rapid & Blitz Miami is a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hikaru Nakamura, Levon Aronian, Wesley So, Fabiano Caruana, Leinier Dominguez Perez. Each round is a team match with 2 points for a win, 1 for a draw. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
+         "pubDate" : "Tue, 28 Jul 2026 10:14:00",
+         "title" : "WR Chess Rapid & Blitz Miami 2026 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132678169.cms\" />India has launched CHESS+, a nationwide initiative to introduce structured chess education in schools. The pilot programme will begin in 30 Jawahar Navodaya Vidyalayas across Haryana, Uttar Pradesh and Delhi, offering expert coaching, competitions and mentorship. The initiative aims to develop critical thinking and decision-making skills before expanding to more Navodaya and Kendriya Vidyalayas across the country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-government-launches-nationwide-initiative-to-introduce-structured-chess-education-in-indian-schools/articleshow/132678169.cms",
+         "pubDate" : "Tue, 28 Jul 2026 07:38:34",
+         "title" : "AICF, government launches nationwide initiative to introduce structured chess education in Indian schools"
+      },
+      {
+         "description" : "Geneva, Switzerland will host the 2026 FIDE World Championship between Indian World Champion Gukesh Dommaraju and his Uzbek challenger GM Javokhir Sindarov, with the 14-game match running November 25 to December 15. FIDE Interim President GM Viswa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
+         "pubDate" : "Tue, 28 Jul 2026 07:25:16",
+         "title" : "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match"
+      },
+      {
+         "description" : "Maurice Ashley Chess Fellowship Announces 2026 AwardeesNEW YORK, NY - July 23, 2026 - The Maurice Ashley Chess Fellowship (MACF), established by internationally renowned Chess Grandmaster Maurice Ashley in partnership with the US Chess Trust, today announced its 2026 class of recipients. Seven promising young players will receive a combined $31,000 to support tournament participation, coaching, supplies, and other essential expenses as they continue their development and pursue their goals at the highest levels of competitive chess.Now in its second year, the Fellowship continues GM Ashley's commitment to expanding access and opportunity for talented young players while addressing the severe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/maurice-ashley-chess-fellowship-announces-2026-awardees",
+         "pubDate" : "Tue, 28 Jul 2026 00:00:00",
+         "title" : "Maurice Ashley Chess Fellowship Announces 2026 Awardees"
+      },
+      {
+         "description" : "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid &#38;amp; Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov&#39;s 3/4, the highest on team Uzbekis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wr-chess-rapid-blitz-miami-usa-vs-uzbekistan",
+         "pubDate" : "Mon, 27 Jul 2026 17:30:00",
+         "title" : "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess"
+      },
+      {
+         "description" : "Andy Woodward retained the US Junior Championship after finishing unbeaten on 6&frac12;/9, while Zoey Tang successfully defended the US Girls' Junior title with 7&frac12;/9. Both tournaments were held at the Saint Louis Chess Club, where Woodward edged Abhimanyu Mishra in the final round and Tang took control after defeating early leader Rachael Li in their direct encounter. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-junior-championships-2026-report",
+         "pubDate" : "Mon, 27 Jul 2026 15:50:00",
+         "title" : "Woodward and Tang retain US junior titles with convincing performances"
+      },
+      {
+         "description" : "A run of 11 wins in 12 games saw 16-year-old IM Alice Lee overwhelm FM Anastasia Avramidou to reach the Final of the 2026 Women&#39;s Speed Chess Championship. She&#39;ll face the winner of GM Bibisara Assaubayeva vs. GM Hou Yifan, after the women&#39;s numbe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
+         "pubDate" : "Mon, 27 Jul 2026 15:25:00",
+         "title" : "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5"
+      },
+      {
+         "description" : "Last Thursday the current FIDE President Arkady Dvorkovich has abandoned his candidacy for reelection, after been sanctioned by the European Union. We were informed by ther Chess Federation of Russia that Kirsan Ilyumzhinov, who had served as FIDE president for 23 years, received their full support as a candidate. And just as we were about to report this story we learn that he is not among the three candidates the FIDE Office received before the deadline. Turbulent times.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kirsan-is-back-no-he-isn-t",
+         "pubDate" : "Mon, 27 Jul 2026 14:48:20",
+         "title" : "Kirsan is back - no he isn't"
+      },
+      {
+         "description" : "Vladimir Akopian won his second US Senior Championship in three years after defeating Alexander Onischuk in a playoff, while Anjelina Belakovskaia claimed the US Senior Women's title with an unbeaten 7/8 score. Both events were held at the Saint Louis Chess Club, where Akopian prevailed 3-1 in rapid and blitz games after sharing first place, and Belakovskaia finished a full point ahead of defending champion Natalya Tsodikova. | Photo: Crystal Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-senior-championships-2026-report",
+         "pubDate" : "Mon, 27 Jul 2026 13:00:00",
+         "title" : "Akopian and Belakovskaia win US senior titles"
+      },
+      {
+         "description" : "The 2026 European Youth Team Chess Championship officially commenced yesterday at Enteria Arena in Pardubice, Czech Republic! Played across U12 and U18 age categories (Open and Girls sections separately), the tournament set a new participation record with 66 teams and 218 players. Each tournament is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for every move played starting from move 1. The Opening ceremony of the event took place yesterday, shortly []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-opened/",
+         "pubDate" : "Mon, 27 Jul 2026 12:26:08",
+         "title" : "European Youth Team Chess Championship 2026 opened"
+      },
+      {
          "description" : "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to win two consecutive world computer chess championships. How much faster are today's supercomputers? Take a guess - you are definitely not going to get it right.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-much-faster-are-computers-today",
-         "pubDate" : "Mon, 27 Jul 2026 06:55:27",
+         "pubDate" : "Mon, 27 Jul 2026 10:21:48",
          "title" : "How much faster are computers today?"
+      },
+      {
+         "description" : "European Women's Rapid and Blitz Chess Championships 2026 will take place from 7-11 January 2027, in Monte-Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2026 which will be played on 8th of January 2027. The event will be played according to the Swiss system, in 13 rounds, with the time control 3 minutes game + 2 seconds per move starting from the first move. The European Women's Rapid Chess Championship 2026 will []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championships-2026-invitation/",
+         "pubDate" : "Mon, 27 Jul 2026 09:39:44",
+         "title" : "European Women's Rapid and Blitz Chess Championships 2026 - Invitation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132651100.cms\" />Viswanathan Anand has decided to contest the FIDE elections as Deputy President alongside presidential candidate Timur Turlov, reversing his earlier plan to step back for family reasons. The change follows Arkady Dvorkovich's exit from the race due to EU sanctions. Anand, currently FIDE's Interim President, said he wants to continue helping expand chess and backed Turlov's vision for the organisation.",
@@ -16,6 +136,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-makes-u-turn-rejoins-fide-election-race/articleshow/132651100.cms",
          "pubDate" : "Mon, 27 Jul 2026 02:52:04",
          "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
+      },
+      {
+         "description" : "For its 250th birthday, the nation's capital continued its celebration of chess in the D.C. metropolitan area immediately after the World Open. Indeed, many players went straight from one event to the next! Atlantic Chess Association organized the 4th Annual Independence Day Open from July 5 through July 9 in Dulles, VA. The final standings are available here, and games from the top boards can be reviewed on both Chess.com and lichess. FA Peter Craney was the chief arbiter for this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Karthik Venkataraman won the tournament with a 7&frac12;/9 score. (All photos courtesy of the organizers)<br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/karthik-venkataraman-wins-4th-annual-independence-day-open-dulles",
+         "pubDate" : "Mon, 27 Jul 2026 00:00:00",
+         "title" : "Karthik Venkataraman Wins 4th Annual Independence Day Open in Dulles"
       },
       {
          "description" : "Walther Freiherr von Holzhausen is not among the best-known players of the early twentieth century. Nevertheless, he was a very strong amateur and, above all, a chess problem composer of great importance. As a major in the Prussian Army, the First World War marked a profound turning point in his life.",
@@ -40,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
          "pubDate" : "Sun, 26 Jul 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for beginners, part 24: Always get the latest games via update"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its fourth season, bringing the world's biggest chess stars to Bengaluru from September 3-13, 2026. With six power-packed franchises, fresh team combinations, exciting debutants and fierce rivalries, here's a complete look at every squad, their strengths and what makes this season the most anticipated yet. | Pictured: Vishy Anand with Anand Mahindra, Chairman of the Mahindra Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-draft",
-         "pubDate" : "Sun, 26 Jul 2026 05:40:00",
-         "title" : "Global Chess League to take place in India's Silicon Valley: Carlsen, Sindarov and Anand in the mix"
       },
       {
          "description" : "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort...",
@@ -410,14 +530,6 @@ news_feed (
          "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
       },
       {
-         "description" : "Seize the Day: Senior Women at the Saint Louis Chess ClubEditor's note: As I teased in yesterday's report, we're taking a break from the usual coverage today to do something different. WIM Alexey Root had the day off during Saturday's fifth round, so we asked her to share her experiences so far during the U.S. Senior Women's Championship's first year at the Saint Louis Chess Club (SLCC).At the bottom, I'll include a brief recap of Round 5 and key games. Today is the tournament's rest day, and the tournament resumes Monday, July 20 with Round 6.The 2026 U.S. Senior Women's Championship is at the Saint Louis Chess Club. And its participants are making the most of their time in the chess capita",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/seize-day-senior-women-saint-louis-chess-club",
-         "pubDate" : "Sun, 19 Jul 2026 00:00:00",
-         "title" : "Seize the Day: Senior Women at the Saint Louis Chess Club"
-      },
-      {
          "description" : "Less than 48 hours after claiming that 3+0 is his &#34;best time control,&#34; GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -440,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
          "pubDate" : "Sat, 18 Jul 2026 11:37:00",
          "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
-      },
-      {
-         "description" : "Rachael Li Improves to 4/4, All Sections Remain TightOnly two players are better than 3/4 in the 2026 U.S. Junior and Senior Championships. And they're in the same section!WIM Rachael Li improved to 4/4 in the Girls' Junior Championship thanks to an 11th hour victory in a rook-and-pawn endgame, but WGM Zoey Tang kept pace, reeling off a third consecutive victory of her own.In the other three sections, the pre-round leader either drew or (in both Senior events) lost, tightening the races.Annotations are from your Digital Editor today and tomorrow. But there's going to be some bonus color commentary tomorrow, as well. If you look at who has the bye in today's Senior Women Championship, you sho",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-4-rachael-li-does-it-again",
-         "pubDate" : "Sat, 18 Jul 2026 00:00:00",
-         "title" : "Junior and Senior Championships Round 4: Rachael Li Does It Again"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
@@ -546,22 +650,6 @@ news_feed (
          "title" : "ECU E-Magazine May & June 2026"
       },
       {
-         "description" : "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women&#39;s Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-candidates-qualification-2028-rating-spot-removed",
-         "pubDate" : "Tue, 14 Jul 2026 12:55:21",
-         "title" : "FIDE Removes Rating Spot For 2028 Candidates Qualification"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo, who won Titled Tuesday five times in 2025, got his first win of 2026 on July 14. His 10/11 score won outright over GM Praggnanandhaa Rameshbabu&#39;s 9.5/11, itself good enough for sole second. GM Hikaru Nakamura took third plac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-july-14-2026",
-         "pubDate" : "Tue, 14 Jul 2026 12:35:37",
-         "title" : "Maghsoodloo Wins Titled Tuesday With Ease"
-      },
-      {
          "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/mick-ridings-fundraiser-for-alzheimers-society/",
          "pubDate" : "Mon, 13 Jul 2026 13:12:39",
          "title" : "Mick Riding's Fundraiser for Alzheimer's Society"
-      },
-      {
-         "description" : "Women&#39;s world number-one GM Hou Yifan and WGM Anastasia Avramidou advance to the 2026 Women&#39;s Speed Chess Championship Quarterfinals after winning the last Round of 16 matches on Monday. Hou defeated IM Dinara Wagner in a one-sided match, 13.5-2.5...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
-         "pubDate" : "Mon, 13 Jul 2026 13:10:00",
-         "title" : "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova"
       },
       {
          "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
@@ -658,44 +738,12 @@ news_feed (
          "title" : "KazChess Masters 2026 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132263956.cms\" />The Chennai Grand Masters 2026 will be held from July 16-22 in Chennai, featuring World Champion Gukesh Dommaraju, Arjun Erigaisi, Hans Niemann and other top grandmasters. The eight-player single round-robin tournament offers a Rs 75 lakh prize pool and crucial FIDE Circuit points. Organisers have confirmed there will be no Challengers section this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-2026-full-player-list-from-d-gukesh-to-hans-niemann-format-prize-money-and-key-details/articleshow/132263956.cms",
-         "pubDate" : "Wed, 08 Jul 2026 14:28:02",
-         "title" : "Chennai GM Open: Full player list from Gukesh to Niemann, format, prize money, and key details"
-      },
-      {
          "description" : "The 105th Counties Championship Finals took place on Saturday 4 July, with live streaming of the Open Final by Luc Zimmer with commentary from FM Jonathan Blackburn on the ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2026-counties-champions/",
          "pubDate" : "Wed, 08 Jul 2026 08:57:11",
          "title" : "2026 Counties Champions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132241620.cms\" />Indian Grandmaster Vidit Gujrathi missed out on qualification for the Esports World Cup 2026 after losing 2-1 to Dutch Grandmaster Benjamin Bok in the India Rising: Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/heartbreak-for-indian-chess-fans-as-vidit-gujrathi-falls-in-mumbai-benjamin-bok-seals-esports-world-cup-2026-berth/articleshow/132241620.cms",
-         "pubDate" : "Tue, 07 Jul 2026 14:47:28",
-         "title" : "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth"
-      },
-      {
-         "description" : " My friend Jimmy Adams, who has died aged 79, was a writer on chess known for his witty personality and encyclopedic knowledge. Editor of Chess magazine from 1991 to 2010, in which role he brought every game and player to life with his enthusiastic, almost tabloid-like style, he was also a Fide master, the third highest ranking behind international master and grandmaster, a title he was awarded at the age of 67. Jimmy was born in Islington, north London, to James, a delivery driver, and Ivy (nee Soule), a shopkeeper, and attended Highbury county grammar school for boys. As a youngster he discovered the children's novel John and the Chess Men in his local library, and quickly graduated to bor",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/07/jimmy-adams-obituary",
-         "pubDate" : "Tue, 07 Jul 2026 12:06:40",
-         "title" : "Jimmy Adams obituary"
-      },
-      {
-         "description" : "Mike is a massive figure in English Chess and, in addition to his ECF work, he has key roles as a trustee of the Chess Trust and leading the 4NCL....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/mike-truran-steps-down-after-over-a-decade-of-ecf-board-service/",
-         "pubDate" : "Mon, 06 Jul 2026 10:51:14",
-         "title" : "Mike Truran Steps Down from ECF Board"
       }
    ]
 }
