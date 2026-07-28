@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-4",
+         "pubDate" : "Tue, 28 Jul 2026 20:00:00",
+         "title" : "ChessBase Summer-Special! - Teil 4"
+      },
+      {
+         "description" : "WR Chess stages a USA v. Uzbekistan team event in Miami Beach on 27-28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. After the first day of rapid chess, Team USA have a 5-3 lead over Uzbekistan. On Tuesday, eight rounds of blitz will decide the winner of the match. | Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-live",
+         "pubDate" : "Tue, 28 Jul 2026 18:45:00",
+         "title" : "WR Chess Miami: USA v. Uzbekistan - Live!"
+      },
+      {
+         "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/28/geneva-world-chess-championship-gukesh-sindarov",
+         "pubDate" : "Tue, 28 Jul 2026 17:57:32",
+         "title" : "Geneva lands world chess title match as Gukesh and Sindarov set to make history"
+      },
+      {
          "description" : "Team USA took a 5-3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best individual result. World Championship challenger Javokhir Sindarov defeated both Hikaru Nakamura and Leinier Dominguez, but lost to Aronian. The teams are set to play eight rounds of blitz on Tuesday. | Photo: Lennart Ootes / WR Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
-         "pubDate" : "Tue, 28 Jul 2026 07:25:16",
+         "pubDate" : "Tue, 28 Jul 2026 07:25:00",
          "title" : "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match"
       },
       {
