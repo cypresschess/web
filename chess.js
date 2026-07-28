@@ -42,6 +42,14 @@ news_feed (
          "title" : "Geneva to host FIDE World Championship Match 2026"
       },
       {
+         "description" : "GM Alireza Firouzja returned to Titled Tuesday on July 28 and won the event outright with a score of 9.5/11, including ripping off seven straight wins from rounds four through 10. The win was Firouzja&#39;s first of 2026 after he posted four victories...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-july-28-2026",
+         "pubDate" : "Tue, 28 Jul 2026 13:37:24",
+         "title" : "7-Game Win Streak Carries Firouzja Through Titled Tuesday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
          "pubDate" : "Tue, 28 Jul 2026 07:25:00",
          "title" : "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match"
+      },
+      {
+         "description" : "This week's puzzles begin our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month in St. Louis. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-junior-and-senior-championships-pt-1",
+         "pubDate" : "Tue, 28 Jul 2026 00:00:00",
+         "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 1"
       },
       {
          "description" : "Maurice Ashley Chess Fellowship Announces 2026 AwardeesNEW YORK, NY - July 23, 2026 - The Maurice Ashley Chess Fellowship (MACF), established by internationally renowned Chess Grandmaster Maurice Ashley in partnership with the US Chess Trust, today announced its 2026 class of recipients. Seven promising young players will receive a combined $31,000 to support tournament participation, coaching, supplies, and other essential expenses as they continue their development and pursue their goals at the highest levels of competitive chess.Now in its second year, the Fellowship continues GM Ashley's commitment to expanding access and opportunity for talented young players while addressing the severe",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
       },
       {
-         "description" : "Editor's note: This report by WGM Iris Mou, Lisa Sun, and WIM Kelsey Liu details how a group of dedicated high school chess players were able to plan, coordinate, and organize a free chess festival for 60 girls in New York City.WGM Iris Mou is a rising senior at the Dalton School, and she is currently competing in the U.S. Girls' Junior Championship. Together with Lisa Sun, she serves as a co-president of Rooks and Roots, handling communications, marketing, outreach, event planning, curriculum design, teaching, and more. Lisa Sun is a rising junior at Hunter College High School and has been playing chess tournaments for over ten years. Beyond the playing hall, her most memorable experiences ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/free-inaugural-girls-chess-festival-brings-young-players-together",
-         "pubDate" : "Mon, 20 Jul 2026 00:00:00",
-         "title" : "Free Inaugural Girls Chess Festival Brings Young Players Together"
-      },
-      {
          "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2026-2/",
          "pubDate" : "Thu, 16 Jul 2026 21:25:20",
          "title" : "ECU GENERAL ASSEMBLY 2026"
-      },
-      {
-         "description" : "GM Alireza Firouzja reentered the top 10 after a win against GM Pranesh M saw him grab the sole lead after round one of the&#38;nbsp;2026 Quantbox Chennai Grand Masters. All the other games featured near misses: GM Gukesh Dommaraju got into trouble ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-1",
-         "pubDate" : "Thu, 16 Jul 2026 13:16:32",
-         "title" : "Firouzja Back In Top 10 After Grabbing Early Lead In Chennai"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420109.cms\" />At 16, Indian chess prodigy Md Imran was stranded in Slovakia after a bus carrying his passport, visas and belongings left without him. Despite the ordeal, financial struggles and lack of institutional support, he played on to earn two Grandmaster norms. Now on the verge of becoming India's newest GM, Imran urgently awaits reissuance of his US visa to join his scholarship at UTRGV before August 23.",
