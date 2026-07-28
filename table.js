@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270093 target='_blank'>BWHY Chess Marathon</a>",
+"HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270043 target='_blank'>BWHY Chess Marathon</a>",
 "HOUSTON","2026-07-25","9","<a href=https://ratings.uschess.org/event/202607250233 target='_blank'>chesspanda07252026saturday</a>",
 "HOUSTON","2026-07-24","55","<a href=https://ratings.uschess.org/event/202607240543 target='_blank'>Gulf Coast FIDE 2026</a>",
 "SUGAR LAND","2026-07-24","24","<a href=https://ratings.uschess.org/event/202607240493 target='_blank'>FBCC 2026 National Amelia Earhart Day</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-05-02","17","<a href=https://ratings.uschess.org/event/202605021013 target='_blank'>HCA-CK chess tournament May-26</a>",
 "KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
 "HOUSTON","2026-05-02","10","<a href=https://ratings.uschess.org/event/202605020163 target='_blank'>chesspanda05022026saturday</a>",
-"CYPRESS","2026-05-01","32","<a href=https://ratings.uschess.org/event/202605010333 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-05-01","16","<a href=https://ratings.uschess.org/event/202605010253 target='_blank'>The Friday Knights</a>",
 ]);
