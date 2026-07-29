@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
+         "pubDate" : "Wed, 29 Jul 2026 12:00:00",
+         "title" : "Shifts and mirrors in a chess problem"
+      },
+      {
+         "description" : "Team USA defeated Uzbekistan 14-10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5-3 advantage in the rapid section by winning the blitz phase 9-7. Nodirbek Abdusattorov and Javokhir Sindarov posted the highest individual scores, but the greater consistency of the US lineup proved decisive across the twelve-round contest. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
+         "pubDate" : "Wed, 29 Jul 2026 10:05:00",
+         "title" : "USA prevail over Uzbekistan in WR Chess Miami match"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
       },
       {
-         "description" : "Team USA took a 5-3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best individual result. World Championship challenger Javokhir Sindarov defeated both Hikaru Nakamura and Leinier Dominguez, but lost to Aronian. The teams are set to play eight rounds of blitz on Tuesday. | Photo: Lennart Ootes / WR Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-1",
-         "pubDate" : "Tue, 28 Jul 2026 15:20:00",
-         "title" : "WR Chess Miami: USA lead 5-3, Aronian scores 2&frac12; out of 3"
-      },
-      {
          "description" : "In a press release, FIDE just announced that Geneva will host the 2026 FIDE World Championship match between reigning champion Gukesh Dommaraju and challenger Javokhir Sindarov from November 25 to December 15. The announcement ends months of speculation over the venue and brings the title match back to Switzerland for the first time since Kramnik and Leko met in Brissago in 2004. At just 20 years of age, Gukesh and Sindarov will contest the youngest World Championship match in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Deutsche Welle: \"Could Russia be about to lose its grip on chess leadership?\""
       },
       {
-         "description" : " The WR Chess Rapid & Blitz Miami is a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hikaru Nakamura, Levon Aronian, Wesley So, Fabiano Caruana, Leinier Dominguez Perez. Each round is a team match with 2 points for a win, 1 for a draw. ",
+         "description" : " The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hikaru Nakamura, Levon Aronian, Wesley So, Fabiano Caruana, Leinier Dominguez Perez. Each round was a team match with 2 points for a win, 1 for a draw. The USA narrowly won both days. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
          "pubDate" : "Wed, 8 Jul 2026 19:38:00",
          "title" : "KazChess Masters 2026 - Games and Results"
-      },
-      {
-         "description" : "The 105th Counties Championship Finals took place on Saturday 4 July, with live streaming of the Open Final by Luc Zimmer with commentary from FM Jonathan Blackburn on the ECF...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-counties-champions/",
-         "pubDate" : "Wed, 08 Jul 2026 08:57:11",
-         "title" : "2026 Counties Champions"
       }
    ]
 }
