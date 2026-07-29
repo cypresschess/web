@@ -26,6 +26,22 @@ news_feed (
          "title" : "Geneva lands world chess title match as Gukesh and Sindarov set to make history"
       },
       {
+         "description" : "Eleven-year-old FM Bodhana Sivanandan added two more age records with a stunning performance at the Dole Open in France last week, becoming the youngest girl ever to score an international master norm and the youngest girl known to defeat a 2600-r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-youngest-girl-im-norm-beats-2600-gm",
+         "pubDate" : "Tue, 28 Jul 2026 17:49:29",
+         "title" : "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win"
+      },
+      {
+         "description" : "Team USA won the match against Uzbekistan in the inaugural WR Chess Rapid &#38;amp; Blitz Miami 2026. They clinched the match 13-9 with a round to spare. They played the final round anyway, and tied, so the final score was 14-10. Team USA consisted o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
+         "pubDate" : "Tue, 28 Jul 2026 17:18:44",
+         "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
+      },
+      {
          "description" : "Team USA took a 5-3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best individual result. World Championship challenger Javokhir Sindarov defeated both Hikaru Nakamura and Leinier Dominguez, but lost to Aronian. The teams are set to play eight rounds of blitz on Tuesday. | Photo: Lennart Ootes / WR Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,28 +634,12 @@ news_feed (
          "title" : "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair"
       },
       {
-         "description" : "GM Alireza Firouzja marched on with a nail-biting win over World Champion Gukesh Dommaraju to move to 2/2 and take a one-point lead at the top of the 2026 Quantbox Chennai Grand Masters standings. Only GM Dmitry Andreikin vs. GM Pranesh M was a qu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-2-1",
-         "pubDate" : "Fri, 17 Jul 2026 07:48:00",
-         "title" : "Firouzja Beats Gukesh To Take Full-Point Lead"
-      },
-      {
          "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
          "pubDate" : "Fri, 17 Jul 2026 07:00:01",
          "title" : "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize"
-      },
-      {
-         "description" : "GM Bibisara Assaubayeva and WGM Anastasia Avramidou progressed to the Semifinals of the 2026 Women&#39;s Speed Chess Championship with contrasting victories over GMs Divya Deshmukh and Kateryna Lagno&#38;nbsp;respectively, in the first set of quarterfinal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-qf-divya-assaubayeva-lagno-avramidou",
-         "pubDate" : "Fri, 17 Jul 2026 04:00:49",
-         "title" : "Assaubayeva, Avramidou Reach Semifinals Through Bullet Skills"
       },
       {
          "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
