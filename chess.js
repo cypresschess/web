@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-4",
          "pubDate" : "Tue, 28 Jul 2026 20:00:00",
-         "title" : "ChessBase Summer-Special! - Teil 4"
+         "title" : "ChessBase Summer-Special! - Part 4"
       },
       {
          "description" : "WR Chess stages a USA v. Uzbekistan team event in Miami Beach on 27-28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. After the first day of rapid chess, Team USA have a 5-3 lead over Uzbekistan. On Tuesday, eight rounds of blitz will decide the winner of the match. | Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bodhana-youngest-girl-im-norm-beats-2600-gm",
-         "pubDate" : "Tue, 28 Jul 2026 17:49:29",
+         "pubDate" : "Tue, 28 Jul 2026 17:49:00",
          "title" : "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win"
       },
       {
