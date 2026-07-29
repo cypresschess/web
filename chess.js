@@ -26,6 +26,14 @@ news_feed (
          "title" : "Shifts and mirrors in a chess problem"
       },
       {
+         "description" : "WFM Alexandra Botez&#39;s venture into the game development world continues with a new chapter. Last year, the Canadian creator announced her involvement with Chess Arena, a fast-paced chess-themed battle royale game. Now, she&#39;s hosting the Chess Aren...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/creator-brawl-chess-arena",
+         "pubDate" : "Wed, 29 Jul 2026 11:00:00",
+         "title" : "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31"
+      },
+      {
          "description" : "Team USA defeated Uzbekistan 14-10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5-3 advantage in the rapid section by winning the blitz phase 9-7. Nodirbek Abdusattorov and Javokhir Sindarov posted the highest individual scores, but the greater consistency of the US lineup proved decisive across the twelve-round contest. | Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/real-growth-happens-through-discomfort/",
          "pubDate" : "Sat, 18 Jul 2026 13:00:00",
          "title" : "Real Growth Happens Through Discomfort"
-      },
-      {
-         "description" : "GM Arjun Erigaisi became the first player other than GM Alireza Firouzja to win a game in the 2026 Quantbox Chennai Grand Masters after carefully defusing an inventive queen sacrifice by GM Hans Niemann. Firouzja leads by half a point after making...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
-         "pubDate" : "Sat, 18 Jul 2026 11:37:00",
-         "title" : "Arjun Beats Niemann To Put Pressure On Firouzja"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
