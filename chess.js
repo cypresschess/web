@@ -58,20 +58,20 @@ news_feed (
          "title" : "Global Chess League Contenders Returns On August 7 As Pathway To World Stage"
       },
       {
+         "description" : "This week's puzzles begin our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-1",
+         "pubDate" : "Wed, 29 Jul 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 1"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-4",
          "pubDate" : "Tue, 28 Jul 2026 20:00:00",
          "title" : "ChessBase Summer-Special! - Part 4"
-      },
-      {
-         "description" : "WR Chess stages a USA v. Uzbekistan team event in Miami Beach on 27-28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. After the first day of rapid chess, Team USA have a 5-3 lead over Uzbekistan. On Tuesday, eight rounds of blitz will decide the winner of the match. | Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-live",
-         "pubDate" : "Tue, 28 Jul 2026 18:45:00",
-         "title" : "WR Chess Miami: USA v. Uzbekistan - Live!"
       },
       {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
@@ -122,14 +122,6 @@ news_feed (
          "title" : "FIDE reveals host city for Gukesh vs Sindarov World Championship clash"
       },
       {
-         "description" : "The German broadcaster Deutsche Welle recently examined Russia's influence within the International Chess Federation (FIDE). Following Russia's invasion of Ukraine, the Russian Chess Federation was sanctioned, but through Russian FIDE President Arkady Dvorkovich it maintained a foothold within the organisation. However, Russia's influence is now in decline.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutsche-welle-could-russia-be-about-to-lose-its-grip-on-chess-leadership",
-         "pubDate" : "Tue, 28 Jul 2026 12:00:00",
-         "title" : "Deutsche Welle: \"Could Russia be about to lose its grip on chess leadership?\""
-      },
-      {
          "description" : " The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hikaru Nakamura, Levon Aronian, Wesley So, Fabiano Caruana, Leinier Dominguez Perez. Each round was a team match with 2 points for a win, 1 for a draw. The USA narrowly won both days. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -178,36 +170,12 @@ news_feed (
          "title" : "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess"
       },
       {
-         "description" : "Andy Woodward retained the US Junior Championship after finishing unbeaten on 6&frac12;/9, while Zoey Tang successfully defended the US Girls' Junior title with 7&frac12;/9. Both tournaments were held at the Saint Louis Chess Club, where Woodward edged Abhimanyu Mishra in the final round and Tang took control after defeating early leader Rachael Li in their direct encounter. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-junior-championships-2026-report",
-         "pubDate" : "Mon, 27 Jul 2026 15:50:00",
-         "title" : "Woodward and Tang retain US junior titles with convincing performances"
-      },
-      {
          "description" : "A run of 11 wins in 12 games saw 16-year-old IM Alice Lee overwhelm FM Anastasia Avramidou to reach the Final of the 2026 Women&#39;s Speed Chess Championship. She&#39;ll face the winner of GM Bibisara Assaubayeva vs. GM Hou Yifan, after the women&#39;s numbe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
          "pubDate" : "Mon, 27 Jul 2026 15:25:00",
          "title" : "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5"
-      },
-      {
-         "description" : "Last Thursday the current FIDE President Arkady Dvorkovich has abandoned his candidacy for reelection, after been sanctioned by the European Union. We were informed by ther Chess Federation of Russia that Kirsan Ilyumzhinov, who had served as FIDE president for 23 years, received their full support as a candidate. And just as we were about to report this story we learn that he is not among the three candidates the FIDE Office received before the deadline. Turbulent times.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kirsan-is-back-no-he-isn-t",
-         "pubDate" : "Mon, 27 Jul 2026 14:48:20",
-         "title" : "Kirsan is back - no he isn't"
-      },
-      {
-         "description" : "Vladimir Akopian won his second US Senior Championship in three years after defeating Alexander Onischuk in a playoff, while Anjelina Belakovskaia claimed the US Senior Women's title with an unbeaten 7/8 score. Both events were held at the Saint Louis Chess Club, where Akopian prevailed 3-1 in rapid and blitz games after sharing first place, and Belakovskaia finished a full point ahead of defending champion Natalya Tsodikova. | Photo: Crystal Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-senior-championships-2026-report",
-         "pubDate" : "Mon, 27 Jul 2026 13:00:00",
-         "title" : "Akopian and Belakovskaia win US senior titles"
       },
       {
          "description" : "The 2026 European Youth Team Chess Championship officially commenced yesterday at Enteria Arena in Pardubice, Czech Republic! Played across U12 and U18 age categories (Open and Girls sections separately), the tournament set a new participation record with 66 teams and 218 players. Each tournament is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for every move played starting from move 1. The Opening ceremony of the event took place yesterday, shortly []",
@@ -248,30 +216,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/karthik-venkataraman-wins-4th-annual-independence-day-open-dulles",
          "pubDate" : "Mon, 27 Jul 2026 00:00:00",
          "title" : "Karthik Venkataraman Wins 4th Annual Independence Day Open in Dulles"
-      },
-      {
-         "description" : "Walther Freiherr von Holzhausen is not among the best-known players of the early twentieth century. Nevertheless, he was a very strong amateur and, above all, a chess problem composer of great importance. As a major in the Prussian Army, the First World War marked a profound turning point in his life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/walther-von-holzhausen-military-officer-chess-problemist",
-         "pubDate" : "Sun, 26 Jul 2026 19:05:00",
-         "title" : "Walther von Holzhausen: Military officer, chess problemist"
-      },
-      {
-         "description" : "The German Championship has been decided: Leonardo Costa is the German champion in the open category with 6/9. Bennet Hagner, in second place, and Luis Engel, in third, follow in the standings with 5&frac12; points each. Jana Schneider became the German women's champion with 7/9. Lara Schulze finished second and Sarah Papp third. A draw against Dmitrij Kollars was enough for Leonardo Costa to secure first place, while Jana Schneider clinched the title with a victory over Kateryna Dolzhykova. | Photos: Finn Engesser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-championship-2026-report",
-         "pubDate" : "Sun, 26 Jul 2026 11:05:00",
-         "title" : "Leonardo Costa and Jana Schneider are the 2026 German chess champions"
-      },
-      {
-         "description" : "The Mega Database 2026 contains over eleven million games - an impressive archive of chess knowledge. And it keeps growing. Thanks to the weekly Mega Update service, you receive about 5,000 new games each week, directly from tournaments around the world. As with ChessBase&acute;26, keeping the Mega Database up to date requires just a few clicks. In this tutorial episode, we'll show you how.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
-         "pubDate" : "Sun, 26 Jul 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 24: Always get the latest games via update"
       },
       {
          "description" : "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort...",
@@ -578,14 +522,6 @@ news_feed (
          "title" : "Tactics Tuesday: Naroditsky Memorial, Pt. 2"
       },
       {
-         "description" : "Tang Takes Over, Other Races Remain StableAfter a well-deserved rest day on Sunday, the 2026 U.S. Junior and Senior Championships resumed Monday in St. Louis. Spectators were treated to 11 decisive games and one lead change. Girls' Junior Championship: Tang Takes Over<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Iris Mou shook up the standings Monday in the Girls' Junior Championship. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> WGM Iris Mou defeated WIM Rachael Li to deal the pre-round leader her first loss of the tournament. WGM Zoey Tang made the most of the opportunity, winning her fifth straight game to leapfrog Li. <br> <br> <br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tang-joins-leaders-after-round-6",
-         "pubDate" : "Tue, 21 Jul 2026 00:00:00",
-         "title" : "Tang Joins Leaders After Round 6"
-      },
-      {
          "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -776,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
          "pubDate" : "Thu, 09 Jul 2026 05:04:10",
          "title" : "Exclusive: India gets its 98th GM! The making of teenage chess sensation Aswath S"
-      },
-      {
-         "description" : " The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
-         "pubDate" : "Wed, 8 Jul 2026 19:38:00",
-         "title" : "KazChess Masters 2026 - Games and Results"
       }
    ]
 }
