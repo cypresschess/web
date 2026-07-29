@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The British Championships will take place from 1 to 9 August in Coventry and, with more than 1,700 participants across all sections, will be the largest edition in 122 years. The country's leading players will compete alongside a number of promising young talents. Particular attention will be focused on Bodhana Sivanandan, England's young chess prodigy. | Photo: English Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/record-breaking-british-chess-championships-set-to-begin-in-coventry",
+         "pubDate" : "Wed, 29 Jul 2026 16:00:00",
+         "title" : "Record-breaking British Chess Championships set to begin in Coventry"
+      },
+      {
+         "description" : "From August 3 to 10, 2026, Almaty will become the center of global university chess. Kazakhstan's largest city will host the finals of the FIDE World University Team Chess Championship, the first-ever world team championship for universities. The tournament will feature 16 university teams. Among them are institutions with centuries of academic history and deep-rooted chess traditions, such as Oxford, Cambridge, and Harvard. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/almaty-to-host-the-inaugural-fide-world-university-team-chess-championship",
+         "pubDate" : "Wed, 29 Jul 2026 13:58:25",
+         "title" : "Almaty to Host the Inaugural FIDE World University Team Chess Championship"
+      },
+      {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
          "pubDate" : "Wed, 29 Jul 2026 10:05:00",
          "title" : "USA prevail over Uzbekistan in WR Chess Miami match"
+      },
+      {
+         "description" : "Who says chess needs to be an individual game? Call up your buddy and get ready for the madness of the Chess.com Bughouse Chess Championship! The event features a $5,000 prize fund and will take place from August 3 to August 7. Bughouse is one of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2026",
+         "pubDate" : "Wed, 29 Jul 2026 08:00:00",
+         "title" : "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3"
+      },
+      {
+         "description" : "The Tech Mahindra Global Chess League (GCL) is returning for its fourth season with GM Magnus Carlsen headlining the field in Bengaluru, India. With a stellar lineup of the strongest players in the game teaming up in exhilarating matchups, the fou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-contenders-2026",
+         "pubDate" : "Wed, 29 Jul 2026 07:30:00",
+         "title" : "Global Chess League Contenders Returns On August 7 As Pathway To World Stage"
       },
       {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!",
@@ -54,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
-         "pubDate" : "Tue, 28 Jul 2026 17:18:44",
+         "pubDate" : "Tue, 28 Jul 2026 17:18:00",
          "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
       },
       {
@@ -618,28 +650,12 @@ news_feed (
          "title" : "FIDE Excellence Awards shortlists: Gukesh, Praggnanandhaa and Divya Deshmukh lead India's strong showing"
       },
       {
-         "description" : "GM Hikaru Nakamura streamed his way to victory in the first 3 0 Thursday on July 16. On stream, he described the time control as clearly his strongest, explaining that it&#39;s faster than the five-minute time control used in Titled Tuesdays and that ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-drygalov-terry-3-0-thursday-07-16-2026",
-         "pubDate" : "Fri, 17 Jul 2026 12:35:00",
-         "title" : "Nakamura Tops 3 0 Thursday In His \"Best Time Control\""
-      },
-      {
          "description" : "Gold members of the ECF are entitled to elect four ECF members to represent their interests on the ECF Council. This year there are seven candidates for those positions, so...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/gold-members-representatives-2026-election/",
          "pubDate" : "Fri, 17 Jul 2026 09:52:28",
          "title" : "Gold Members Representatives 2026 - election"
-      },
-      {
-         "description" : "International Chess Day is July 20, and this year, you can turn it into a fresh start. We invite you to celebrate this special occasion with us&#38;mdash;while also restarting your longest streak and even winning a permanent and exclusive flair! Rest...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/international-chess-day-2026-rewards",
-         "pubDate" : "Fri, 17 Jul 2026 08:00:00",
-         "title" : "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair"
       },
       {
          "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
