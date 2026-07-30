@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2026-uk-open-blitz/",
          "pubDate" : "Thu, 09 Jul 2026 14:45:00",
          "title" : "2026 UK Open Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132277625.cms\" />India's 98th Grandmaster, Aswath S, achieved the coveted title after securing his final GM norm at the Pune International GM Round Robin 2026. The Tamil Nadu teenager overcame a four-month break for his Class 10 board exams, drawing inspiration from his family of chess coaches and mentors, and now has his sights set on breaking into the world's elite.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
-         "pubDate" : "Thu, 09 Jul 2026 05:04:10",
-         "title" : "Exclusive: India gets its 98th GM! The making of teenage chess sensation Aswath S"
       }
    ]
 }
