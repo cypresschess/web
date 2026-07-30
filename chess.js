@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Alireza Firouzja has withdrawn from the remainder of the 2026 Grand Chess Tour after choosing to compete in the Esports World Cup in Paris, whose dates overlap with the Sinquefield Cup. His tour points have been annulled and contractual penalties will apply, while Samuel Sevian will replace him in Saint Louis. Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave faced the same clash but retained their Grand Chess Tour commitments. | Photo: Lennart Ootes / Grand Chess Tour",
+         "description" : "Argentine 15-year-old IM Francisco Fiorito won the 42nd Andorra Open, scoring 7&frac12; points from 9 rounds to finish half a point clear of the field. After suffering his only defeat in round four, he recovered to win four of his final five games, including victories over GMs Egor Bogdanov and Andrey Sumets. Top seed Miguel Santos from Spain finished second on tiebreak. WGM Lile Koridze from Georgia, the 79th seed, had a remarkable performance, scoring 7/9 to obtain an IM norm. | Pictured: Francesc Rechi (President of the Andorran Chess Federation), Miguel Santos, Francisco Fiorito and Vladyslav Larkin | Photo: Andorra Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-withdraws-from-grand-chess-tour-2026",
-         "pubDate" : "Wed, 29 Jul 2026 23:55:00",
-         "title" : "Firouzja withdraws from remainder of Grand Chess Tour 2026 due to schedule clash with Esports World Cup"
+         "link" : "https://en.chessbase.com/post/andorra-open-2026-report",
+         "pubDate" : "Thu, 30 Jul 2026 16:50:00",
+         "title" : "Final-round win secures Andorra Open title for 15-year-old Francisco Fiorito"
       },
       {
-         "description" : "The British Championships will take place from 1 to 9 August in Coventry and, with more than 1,700 participants across all sections, will be the largest edition in 122 years. The country's leading players will compete alongside a number of promising young talents. Particular attention will be focused on Bodhana Sivanandan, England's young chess prodigy. | Photo: English Chess Federation",
+         "description" : "Chris Ward turns this edition of the Monthly Dragon into a special exploration of the Accelerated and Hyper Accelerated Dragon. He explains how Black can respond to the Maroczy Bind, why move order details matter, and which active ideas can prevent White from establishing comfortable control. Several instructive sidelines and one of Ward's own quick victories illustrate the tactical possibilities of the opening. The main example is a highly entertaining rapid game between Gukesh and Hikaru Nakamura, in which Nakamura creates remarkable counterplay and eventually wins a dramatic queen and rook ending. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/record-breaking-british-chess-championships-set-to-begin-in-coventry",
-         "pubDate" : "Wed, 29 Jul 2026 16:00:00",
-         "title" : "Record-breaking British Chess Championships set to begin in Coventry"
-      },
-      {
-         "description" : "From August 3 to 10, 2026, Almaty will become the center of global university chess. Kazakhstan's largest city will host the finals of the FIDE World University Team Chess Championship, the first-ever world team championship for universities. The tournament will feature 16 university teams. Among them are institutions with centuries of academic history and deep-rooted chess traditions, such as Oxford, Cambridge, and Harvard. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/almaty-to-host-the-inaugural-fide-world-university-team-chess-championship",
-         "pubDate" : "Wed, 29 Jul 2026 13:58:25",
-         "title" : "Almaty to Host the Inaugural FIDE World University Team Chess Championship"
+         "link" : "https://en.chessbase.com/post/accelerated-dragon-vs-maroczy-bind-the-monthly-dragon",
+         "pubDate" : "Thu, 30 Jul 2026 13:50:22",
+         "title" : "Accelerated Dragon vs Maroczy Bind- The Monthly Dragon"
       },
       {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
@@ -40,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/creator-brawl-chess-arena",
          "pubDate" : "Wed, 29 Jul 2026 11:00:00",
          "title" : "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31"
-      },
-      {
-         "description" : "Team USA defeated Uzbekistan 14-10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5-3 advantage in the rapid section by winning the blitz phase 9-7. Nodirbek Abdusattorov and Javokhir Sindarov posted the highest individual scores, but the greater consistency of the US lineup proved decisive across the twelve-round contest. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
-         "pubDate" : "Wed, 29 Jul 2026 10:05:00",
-         "title" : "USA prevail over Uzbekistan in WR Chess Miami match"
       },
       {
          "description" : "Who says chess needs to be an individual game? Call up your buddy and get ready for the madness of the Chess.com Bughouse Chess Championship! The event features a $5,000 prize fund and will take place from August 3 to August 7. Bughouse is one of...",
@@ -74,14 +58,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 1"
       },
       {
-         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-4",
-         "pubDate" : "Tue, 28 Jul 2026 20:00:00",
-         "title" : "ChessBase Summer-Special! - Part 4"
-      },
-      {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -104,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
          "pubDate" : "Tue, 28 Jul 2026 17:18:00",
          "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
-      },
-      {
-         "description" : "In a press release, FIDE just announced that Geneva will host the 2026 FIDE World Championship match between reigning champion Gukesh Dommaraju and challenger Javokhir Sindarov from November 25 to December 15. The announcement ends months of speculation over the venue and brings the title match back to Switzerland for the first time since Kramnik and Leko met in Brissago in 2004. At just 20 years of age, Gukesh and Sindarov will contest the youngest World Championship match in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/geneva-to-host-fide-world-championship-match-2026",
-         "pubDate" : "Tue, 28 Jul 2026 14:29:36",
-         "title" : "Geneva to host FIDE World Championship Match 2026"
       },
       {
          "description" : "GM Alireza Firouzja returned to Titled Tuesday on July 28 and won the event outright with a score of 9.5/11, including ripping off seven straight wins from rounds four through 10. The win was Firouzja&#39;s first of 2026 after he posted four victories...",
@@ -704,14 +672,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
          "pubDate" : "Fri, 10 Jul 2026 07:00:13",
          "title" : "Chess: Firouzja wins in Zagreb as Carlsen passes 15-year milestone at the top"
-      },
-      {
-         "description" : "The 2026 UK Open Blitz is now open for entries. There are 16 qualifiers across the UK in September and early October, with the final held in Leamington Spa on...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2026-uk-open-blitz/",
-         "pubDate" : "Thu, 09 Jul 2026 14:45:00",
-         "title" : "2026 UK Open Blitz"
       }
    ]
 }
