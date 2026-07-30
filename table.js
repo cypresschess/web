@@ -1,4 +1,10 @@
 jtable([
+"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290083 target='_blank'>Open</a>",
+"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290073 target='_blank'>Open</a>",
+"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290043 target='_blank'>Open</a>",
+"HOUSTON","2026-07-29","3","<a href=https://ratings.uschess.org/event/202607290033 target='_blank'>Open</a>",
+"HOUSTON","2026-07-29","3","<a href=https://ratings.uschess.org/event/202607290023 target='_blank'>Open</a>",
+"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290013 target='_blank'>Houston Open</a>",
 "HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270093 target='_blank'>BWHY Chess Marathon</a>",
 "HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270043 target='_blank'>BWHY Chess Marathon</a>",
 "HOUSTON","2026-07-25","9","<a href=https://ratings.uschess.org/event/202607250233 target='_blank'>chesspanda07252026saturday</a>",
@@ -93,10 +99,4 @@ jtable([
 "HOUSTON","2026-05-09","9","<a href=https://ratings.uschess.org/event/202605090383 target='_blank'>MAY 9TH  TROPHY SCHOLASTIC</a>",
 "SPRING","2026-05-08","24","<a href=https://ratings.uschess.org/event/202605080343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-05-08","14","<a href=https://ratings.uschess.org/event/202605080303 target='_blank'>FBCC National Give Someone a Cupcake Day Open</a>",
-"CYPRESS","2026-05-08","51","<a href=https://ratings.uschess.org/event/202605080233 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-05-03","15","<a href=https://ratings.uschess.org/event/202605030283 target='_blank'>Houston FIDE 26</a>",
-"HOUSTON","2026-05-03","47","<a href=https://ratings.uschess.org/event/202605030263 target='_blank'>Poison Pawns May 2026</a>",
-"HOUSTON","2026-05-02","17","<a href=https://ratings.uschess.org/event/202605021013 target='_blank'>HCA-CK chess tournament May-26</a>",
-"KINGWOOD","2026-05-02","134","<a href=https://ratings.uschess.org/event/202605020873 target='_blank'>2026 Houston Catholic Schools Champ</a>",
-"HOUSTON","2026-05-02","10","<a href=https://ratings.uschess.org/event/202605020163 target='_blank'>chesspanda05022026saturday</a>",
 ]);
