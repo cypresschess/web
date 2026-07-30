@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja has withdrawn from the remainder of the 2026 Grand Chess Tour after choosing to compete in the Esports World Cup in Paris, whose dates overlap with the Sinquefield Cup. His tour points have been annulled and contractual penalties will apply, while Samuel Sevian will replace him in Saint Louis. Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave faced the same clash but retained their Grand Chess Tour commitments. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-withdraws-from-grand-chess-tour-2026",
+         "pubDate" : "Wed, 29 Jul 2026 23:55:00",
+         "title" : "Firouzja withdraws from remainder of Grand Chess Tour 2026 due to schedule clash with Esports World Cup"
+      },
+      {
          "description" : "The British Championships will take place from 1 to 9 August in Coventry and, with more than 1,700 participants across all sections, will be the largest edition in 122 years. The country's leading players will compete alongside a number of promising young talents. Particular attention will be focused on Bodhana Sivanandan, England's young chess prodigy. | Photo: English Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
