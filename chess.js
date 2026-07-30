@@ -18,6 +18,22 @@ news_feed (
          "title" : "Accelerated Dragon vs Maroczy Bind- The Monthly Dragon"
       },
       {
+         "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
+         "pubDate" : "Thu, 30 Jul 2026 08:20:46",
+         "title" : "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library"
+      },
+      {
+         "description" : "If a tournament is both FIDE and US Chess rated there are bound to be some rules conflicts. If your TD follows a FIDE rule when it bumps up against a similar, but slightly different, US Chess rule, then the tournament stands a good chance of being rated in both systems. If you wait to file a claim after your game is finished, the chances decrease that your quest will be successful. The time to make a claim is when the infraction occurs. Take your time finding your pairing. Take your time locating your assigned board. When your opponent beats you in the race to that area, they will typically set up their standard equipment first. That saves you the time and trouble of not only setting things ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-fyi",
+         "pubDate" : "Thu, 30 Jul 2026 00:00:00",
+         "title" : "Just the Rules: FYI"
+      },
+      {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
       },
       {
-         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Tactics Tuesdays and, tomorrow, check out our more challenging Wednesday Workout series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or check back soon for an interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-naroditsky-memorial-pt-2",
-         "pubDate" : "Tue, 21 Jul 2026 00:00:00",
-         "title" : "Tactics Tuesday: Naroditsky Memorial, Pt. 2"
-      },
-      {
          "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
          "pubDate" : "Sun, 19 Jul 2026 06:32:37",
          "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
-      },
-      {
-         "description" : "Less than 48 hours after claiming that 3+0 is his &#34;best time control,&#34; GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-18-2026",
-         "pubDate" : "Sat, 18 Jul 2026 21:10:00",
-         "title" : "Nakamura Wins Back-To-Back Bullet Brawl Following Late Surge"
       },
       {
          "description" : "I keep getting the same question from Real Chess Training students: &#8220;The 6 positions in 45 minutes really push me. Can I adjust it a little bit to make it easier?&#8221; My answer is, and always will be: no. The difficulty is the whole point. A World of Comfort We've confused comfort with success. And []",
