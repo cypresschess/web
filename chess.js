@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please see below the list of appointments &#8212; HLVPs, VPs, CVPs, Honorary Life Members - Gerry Walsh, John Wickham Platinum Members - Adrian Elwin, David Eustace Gold Members - Barbara...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-member-representative-appointments/",
+         "pubDate" : "Fri, 31 Jul 2026 14:30:48",
+         "title" : "Direct Member Representative appointments"
+      },
+      {
+         "description" : "The 53rd Dortmund Sparkassen Chess Meeting gets underway on Saturday (1-8 August). Alongside a strong open tournament featuring German national team players Matthias Bl&uuml;baum, Rasmus Svane and Dmitrij Kollars, as well as Biel Open winner Christian Gl&ouml;ckler (pictured), the festival also includes an international women's GM tournament, where Dinara Wagner will defend her title. | Photos: Tournament organisers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-chess-festival-attracts-top-players",
+         "pubDate" : "Fri, 31 Jul 2026 14:00:00",
+         "title" : "Dortmund Chess Festival attracts top players"
+      },
+      {
          "description" : "FIDE and the International School Chess Federation (ISCF) have introduced a new format for the World Schools Team Championship. Continental championships will first be held in Asia, Africa, the Americas and Europe, with the continental winners advancing to a final tournament in December.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
          "pubDate" : "Fri, 31 Jul 2026 06:00:05",
          "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
+      },
+      {
+         "description" : "Check is in the MailThis month we take over the helm as Games Editor. Having recently lost as Black to a King's Gambit Accepted (KGA) in a Golden Knights Final (not by some tactical shot but a clerical error, more on that someday), I thought it would be interesting to see how many KGA games have been played in US Chess CC events. Searching the ICCF games database, I was able to find 134 games played over the past 25 years, from all levels of competition. Of course, this database does not include those played through the \"traditional\" mail or email. Let's dive in! Return of the King('s Gambit)\"Theory regards this opening as incorrect, but it is impossible to agree with this. Out of the five t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-august-2026-return-kings-gambit",
+         "pubDate" : "Fri, 31 Jul 2026 00:00:00",
+         "title" : "Check is in the Mail August 2026: Return of the King('s Gambit)"
       },
       {
          "description" : "Argentine 15-year-old IM Francisco Fiorito won the 42nd Andorra Open, scoring 7&frac12; points from 9 rounds to finish half a point clear of the field. After suffering his only defeat in round four, he recovered to win four of his final five games, including victories over GMs Egor Bogdanov and Andrey Sumets. Top seed Miguel Santos from Spain finished second on tiebreak. WGM Lile Koridze from Georgia, the 79th seed, had a remarkable performance, scoring 7/9 to obtain an IM norm. | Pictured: Francesc Rechi (President of the Andorran Chess Federation), Miguel Santos, Francisco Fiorito and Vladyslav Larkin | Photo: Andorra Open",
@@ -450,14 +474,6 @@ news_feed (
          "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 2"
       },
       {
-         "description" : "Tang Separates, Other Races Tighten With Two Rounds to GoFor the first time, more games ended peacefully than decisively in the 2026 U.S. Junior and Senior Championships. As the standings solidify heading into the final two rounds of play, the tension is palpable on the board. But two of the decisive games featured clashes of players leading their respective tournament, so we certainly are not wanting for drama! Senior Women's Championship: Belakovskaia Does It AgainIn the 2024 U.S. Senior Women's Championship, WFM Natalya Tsodikova defeated reigning champion WGM Anjelina Belakovskaia in Round 2, going on to win the title. Last year, Belakovskaia got her revenge, but Tsodikova caught up and ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/juniorsenior-championships-standings-take-shape-two-rounds-remaining",
-         "pubDate" : "Wed, 22 Jul 2026 00:00:00",
-         "title" : "Junior/Senior Championships: Standings Take Shape with Two Rounds Remaining"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132540907.cms\" />GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-excellence-awards-shortlist-gukesh-praggnanandhaa-and-divya-deshmukh-lead-indias-strong-showing/articleshow/132461181.cms",
          "pubDate" : "Fri, 17 Jul 2026 13:02:06",
          "title" : "FIDE Excellence Awards shortlists: Gukesh, Praggnanandhaa and Divya Deshmukh lead India's strong showing"
-      },
-      {
-         "description" : "Gold members of the ECF are entitled to elect four ECF members to represent their interests on the ECF Council. This year there are seven candidates for those positions, so...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gold-members-representatives-2026-election/",
-         "pubDate" : "Fri, 17 Jul 2026 09:52:28",
-         "title" : "Gold Members Representatives 2026 - election"
       },
       {
          "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
