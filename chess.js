@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE and the International School Chess Federation (ISCF) have introduced a new format for the World Schools Team Championship. Continental championships will first be held in Asia, Africa, the Americas and Europe, with the continental winners advancing to a final tournament in December.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/school-chess-across-continents-inside-the-2026-world-schools-team-championship",
+         "pubDate" : "Fri, 31 Jul 2026 11:00:00",
+         "title" : "School Chess Across Continents: Inside the 2026 World Schools Team Championship"
+      },
+      {
+         "description" : "On Monday, the African Chess Confederation elected a new executive board. In an extremely close vote, the incumbent continental president was voted out of office, and Benard Wanjala (pictured) was elected as the new president. The defeated candidate, Tshepiso Lopang, has accused Benard Wanjala of vote-buying and lodged a complaint against the result. | Photos: FIDE / ACC",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/african-chess-confederation-elections-2026",
+         "pubDate" : "Fri, 31 Jul 2026 10:00:00",
+         "title" : "The African Chess Confederation has elected a new executive board"
+      },
+      {
          "description" : " She Plays to Win face losing one of their female players after being told team must include a male The UK's only all-female chess team have been promoted to the game's top tier - only to be told they will have to add a man to their squad. She Plays to Win Lionesses A Team have fallen foul of a rule designed to boost female participation in the sport. <a href=\"https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/good-enough-moves/",
          "pubDate" : "Sat, 11 Jul 2026 13:00:00",
          "title" : "Trying harder makes you play worse moves"
-      },
-      {
-         "description" : "The 2026 European Youth Rapid and Blitz Chess Championship concluded yesterday in Rzeszow, Poland! The event gathered nearly 1000 players who competed over six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately in both Rapid and Blitz competitions. The first event on the schedule was European Youth Rapid Chess Championship 2026, which took place from 7-8 July. After nine played rounds in Rapid Open U8 competition, Nikolas Bausys (LTU, 2058) emerged as the sole []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2026-crowned/",
-         "pubDate" : "Fri, 10 Jul 2026 10:45:21",
-         "title" : "European Youth Rapid and Blitz Chess Champions 2026 crowned"
       }
    ]
 }
