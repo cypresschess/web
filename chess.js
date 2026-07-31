@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " She Plays to Win face losing one of their female players after being told team must include a male The UK's only all-female chess team have been promoted to the game's top tier - only to be told they will have to add a man to their squad. She Plays to Win Lionesses A Team have fallen foul of a rule designed to boost female participation in the sport. <a href=\"https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
+         "pubDate" : "Fri, 31 Jul 2026 06:00:05",
+         "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
+      },
+      {
          "description" : "Argentine 15-year-old IM Francisco Fiorito won the 42nd Andorra Open, scoring 7&frac12; points from 9 rounds to finish half a point clear of the field. After suffering his only defeat in round four, he recovered to win four of his final five games, including victories over GMs Egor Bogdanov and Andrey Sumets. Top seed Miguel Santos from Spain finished second on tiebreak. WGM Lile Koridze from Georgia, the 79th seed, had a remarkable performance, scoring 7/9 to obtain an IM norm. | Pictured: Francesc Rechi (President of the Andorran Chess Federation), Miguel Santos, Francisco Fiorito and Vladyslav Larkin | Photo: Andorra Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-champions-2026-crowned/",
          "pubDate" : "Fri, 10 Jul 2026 10:45:21",
          "title" : "European Youth Rapid and Blitz Chess Champions 2026 crowned"
-      },
-      {
-         "description" : " The Frenchman is ranked world No 12, but that is a disappointment after he became the youngest ever 2800-rated player at 18 years and five months Alireza Firouzja is shaping up to be one of the nearly men of grandmaster chess. The Iran-born Frenchman, 23, has just won the St Louis-organised Croatia Super Rapid and Blitz in Zagreb. He was far ahead at the start of the last day, but had a poor run of 2/7 during the final rounds before a successful Armageddon tie-break. Firouzja's career has been limited by his below-par performances in the Candidates. In 2022, he spoiled his chances by playing blitz into the small hours; in 2024, he did worse still, finishing seventh out of eight. He made a m",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
-         "pubDate" : "Fri, 10 Jul 2026 07:00:13",
-         "title" : "Chess: Firouzja wins in Zagreb as Carlsen passes 15-year milestone at the top"
       }
    ]
 }
