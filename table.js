@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-07-30","14","<a href=https://ratings.uschess.org/event/202607300033 target='_blank'>JULY TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290083 target='_blank'>Open</a>",
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290073 target='_blank'>Open</a>",
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290043 target='_blank'>Open</a>",
@@ -7,6 +8,7 @@ jtable([
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290013 target='_blank'>Houston Open</a>",
 "HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270093 target='_blank'>BWHY Chess Marathon</a>",
 "HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270043 target='_blank'>BWHY Chess Marathon</a>",
+"KATY","2026-07-26","39","<a href=https://ratings.uschess.org/event/202607260843 target='_blank'>Katy Kids Chess 2026 Beginner Monthly</a>",
 "HOUSTON","2026-07-25","9","<a href=https://ratings.uschess.org/event/202607250233 target='_blank'>chesspanda07252026saturday</a>",
 "HOUSTON","2026-07-24","55","<a href=https://ratings.uschess.org/event/202607240543 target='_blank'>Gulf Coast FIDE 2026</a>",
 "SUGAR LAND","2026-07-24","24","<a href=https://ratings.uschess.org/event/202607240493 target='_blank'>FBCC 2026 National Amelia Earhart Day</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-05-09","37","<a href=https://ratings.uschess.org/event/202605090463 target='_blank'>TCR: Clutch City Scholastic 2026</a>",
 "HOUSTON","2026-05-09","10","<a href=https://ratings.uschess.org/event/202605090403 target='_blank'>chesspanda05092026saturday</a>",
 "HOUSTON","2026-05-09","9","<a href=https://ratings.uschess.org/event/202605090383 target='_blank'>MAY 9TH  TROPHY SCHOLASTIC</a>",
-"SPRING","2026-05-08","24","<a href=https://ratings.uschess.org/event/202605080343 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-05-08","14","<a href=https://ratings.uschess.org/event/202605080303 target='_blank'>FBCC National Give Someone a Cupcake Day Open</a>",
 ]);
