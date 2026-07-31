@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana explores the Center Game with 1.e4 e5 2.d4 and explains why this historic opening remains a practical surprise weapon. She examines the main queen placements, Black's most important defensive setups, and White's typical plan of castling queenside and launching an attack. Particular attention is given to the choice between f3 and Nf3, the importance of preventing Black's central break with d5, and the tactical possibilities that arise from opposite side castling. The episode shows that even if engines consider many positions equal, the Center Game can still lead to rich, aggressive, and highly playable positions",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-center-game",
+         "pubDate" : "Fri, 31 Jul 2026 18:13:18",
+         "title" : "Svitlana's Smart Moves - Center Game"
+      },
+      {
          "description" : "Please see below the list of appointments &#8212; HLVPs, VPs, CVPs, Honorary Life Members - Gerry Walsh, John Wickham Platinum Members - Adrian Elwin, David Eustace Gold Members - Barbara...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
       },
       {
+         "description" : "The US Chess Federation is pleased to announce the 2026 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2025 | 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski Awards (Gold | Silver)Frank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-us-chess-awards-recipients",
+         "pubDate" : "Fri, 31 Jul 2026 00:00:00",
+         "title" : "2026 US Chess Awards Recipients"
+      },
+      {
          "description" : "Check is in the MailThis month we take over the helm as Games Editor. Having recently lost as Black to a King's Gambit Accepted (KGA) in a Golden Knights Final (not by some tactical shot but a clerical error, more on that someday), I thought it would be interesting to see how many KGA games have been played in US Chess CC events. Searching the ICCF games database, I was able to find 134 games played over the past 25 years, from all levels of competition. Of course, this database does not include those played through the \"traditional\" mail or email. Let's dive in! Return of the King('s Gambit)\"Theory regards this opening as incorrect, but it is impossible to agree with this. Out of the five t",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andorra-open-2026-report",
          "pubDate" : "Thu, 30 Jul 2026 16:50:00",
          "title" : "Final-round win secures Andorra Open title for 15-year-old Francisco Fiorito"
-      },
-      {
-         "description" : "Chris Ward turns this edition of the Monthly Dragon into a special exploration of the Accelerated and Hyper Accelerated Dragon. He explains how Black can respond to the Maroczy Bind, why move order details matter, and which active ideas can prevent White from establishing comfortable control. Several instructive sidelines and one of Ward's own quick victories illustrate the tactical possibilities of the opening. The main example is a highly entertaining rapid game between Gukesh and Hikaru Nakamura, in which Nakamura creates remarkable counterplay and eventually wins a dramatic queen and rook ending. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/accelerated-dragon-vs-maroczy-bind-the-monthly-dragon",
-         "pubDate" : "Thu, 30 Jul 2026 13:50:22",
-         "title" : "Accelerated Dragon vs Maroczy Bind- The Monthly Dragon"
       },
       {
          "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-gukesh-loses-to-pranesh-nihal-sarin-wins/articleshow/132550346.cms",
          "pubDate" : "Wed, 22 Jul 2026 03:18:19",
          "title" : "Chennai Grand Masters: Gukesh loses to Pranesh, Nihal Sarin wins"
-      },
-      {
-         "description" : "Today's puzzles continue our series on the Naroditsky Memorial Rapid and Blitz. Read IM Eric Liu's coverage of the event here, and keep an eye out for more puzzles from this tournament in future Wednesday Workouts and in our more accessible Tactics Tuesday series (beginning here). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-naroditsky-memorial-pt-2",
-         "pubDate" : "Wed, 22 Jul 2026 00:00:00",
-         "title" : "Wednesday Workout: Naroditsky Memorial, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132540907.cms\" />GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
