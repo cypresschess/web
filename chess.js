@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Rapid & Blitz will bring ten grandmasters to the Saint Louis Chess Club from 2 to 6 August for the fourth leg of the 2026 Grand Chess Tour. Fabiano Caruana, Vincent Keymer and Wesley So are the leading tour contenders in a field that also includes World Championship challenger Javokhir Sindarov (pictured), Praggnanandhaa Rameshbabu and three wildcards from the United States. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-preview",
+         "pubDate" : "Fri, 31 Jul 2026 22:15:00",
+         "title" : "Decisive phase of Grand Chess Tour kicks off with Saint Louis Rapid & Blitz"
+      },
+      {
          "description" : "Svitlana explores the Center Game with 1.e4 e5 2.d4 and explains why this historic opening remains a practical surprise weapon. She examines the main queen placements, Black's most important defensive setups, and White's typical plan of castling queenside and launching an attack. Particular attention is given to the choice between f3 and Nf3, the importance of preventing Black's central break with d5, and the tactical possibilities that arise from opposite side castling. The episode shows that even if engines consider many positions equal, the Center Game can still lead to rich, aggressive, and highly playable positions",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,12 @@ news_feed (
          "title" : "Dortmund Chess Festival attracts top players"
       },
       {
-         "description" : "FIDE and the International School Chess Federation (ISCF) have introduced a new format for the World Schools Team Championship. Continental championships will first be held in Asia, Africa, the Americas and Europe, with the continental winners advancing to a final tournament in December.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/school-chess-across-continents-inside-the-2026-world-schools-team-championship",
-         "pubDate" : "Fri, 31 Jul 2026 11:00:00",
-         "title" : "School Chess Across Continents: Inside the 2026 World Schools Team Championship"
-      },
-      {
-         "description" : "On Monday, the African Chess Confederation elected a new executive board. In an extremely close vote, the incumbent continental president was voted out of office, and Benard Wanjala (pictured) was elected as the new president. The defeated candidate, Tshepiso Lopang, has accused Benard Wanjala of vote-buying and lodged a complaint against the result. | Photos: FIDE / ACC",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/african-chess-confederation-elections-2026",
-         "pubDate" : "Fri, 31 Jul 2026 10:00:00",
-         "title" : "The African Chess Confederation has elected a new executive board"
+         "description" : "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov&#39;s last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/august-2026-fide-rating-list",
+         "pubDate" : "Fri, 31 Jul 2026 12:37:10",
+         "title" : "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List"
       },
       {
          "description" : " She Plays to Win face losing one of their female players after being told team must include a male The UK's only all-female chess team have been promoted to the game's top tier - only to be told they will have to add a man to their squad. She Plays to Win Lionesses A Team have fallen foul of a rule designed to boost female participation in the sport. <a href=\"https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport\">Continue reading...</a>",
@@ -66,20 +66,20 @@ news_feed (
          "title" : "Check is in the Mail August 2026: Return of the King('s Gambit)"
       },
       {
-         "description" : "Argentine 15-year-old IM Francisco Fiorito won the 42nd Andorra Open, scoring 7&frac12; points from 9 rounds to finish half a point clear of the field. After suffering his only defeat in round four, he recovered to win four of his final five games, including victories over GMs Egor Bogdanov and Andrey Sumets. Top seed Miguel Santos from Spain finished second on tiebreak. WGM Lile Koridze from Georgia, the 79th seed, had a remarkable performance, scoring 7/9 to obtain an IM norm. | Pictured: Francesc Rechi (President of the Andorran Chess Federation), Miguel Santos, Francisco Fiorito and Vladyslav Larkin | Photo: Andorra Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andorra-open-2026-report",
-         "pubDate" : "Thu, 30 Jul 2026 16:50:00",
-         "title" : "Final-round win secures Andorra Open title for 15-year-old Francisco Fiorito"
-      },
-      {
          "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
          "pubDate" : "Thu, 30 Jul 2026 08:20:46",
          "title" : "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 126th Annual U.S. Open Chess Championship begins Monday, August 3 at the DeVos Place Convention Center in Grand Rapids, MI. Here is a primer of what to expect and how to follow all the action! A True OpenAs always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best score in thei",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/what-expect-126th-us-open",
+         "pubDate" : "Thu, 30 Jul 2026 00:00:00",
+         "title" : "What to Expect at the 126th U.S. Open"
       },
       {
          "description" : "If a tournament is both FIDE and US Chess rated there are bound to be some rules conflicts. If your TD follows a FIDE rule when it bumps up against a similar, but slightly different, US Chess rule, then the tournament stands a good chance of being rated in both systems. If you wait to file a claim after your game is finished, the chances decrease that your quest will be successful. The time to make a claim is when the infraction occurs. Take your time finding your pairing. Take your time locating your assigned board. When your opponent beats you in the race to that area, they will typically set up their standard equipment first. That saves you the time and trouble of not only setting things ",
@@ -426,14 +426,6 @@ news_feed (
          "title" : "'Chess is abstract, that's why it's very isolating': American GM Hans Niemann"
       },
       {
-         "description" : "Woodward Catches Mishra as Other Leaders Hold OnThis year's Junior and Senior champions will be crowned today in St. Louis. Unless, of course, there's a tie for first, in which case playoffs will take place tomorrow. But three of the four events boast clear leaders headed into the final day of action. Here's how Wednesday's games shaped today's standings: Senior Championship: Onischuk Catches Fishbein, Trails Akopian GM Vladimir Akopian still leads the U.S. Senior Championship, but GM Alexander Onischuk cut the margin to a half-point with his win yesterday against IM Stuart Rachels. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Alexander Onischuk won",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/junior-and-senior-championships-round-8-woodward-makes-his-move",
-         "pubDate" : "Thu, 23 Jul 2026 00:00:00",
-         "title" : "Junior and Senior Championships Round 8: Woodward Makes His Move"
-      },
-      {
          "description" : "The Armenian State Pedagogical University, together with the &#8220;Chess&#8221; Scientific Research Institute and the Chess Academy of Armenia, organise the International Scientific Conference \"Theory and Practice of Chess Education\" from 1-2 October 2026 in Tsaghkadzor, Armenia. The event will be held in the Hybrid format (Online and Onsite), aiming to bring together researchers, educators, and practitioners to explore the role of chess in education, cognitive development, and social-emotional learning. The Conference will cover the following topics: Chess and Personal Development, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -568,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-shrugs-off-players-exploiting-loophole-to-get-grand-masters-title/articleshow/132506491.cms",
          "pubDate" : "Mon, 20 Jul 2026 05:07:52",
          "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
-      },
-      {
-         "description" : "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-4",
-         "pubDate" : "Sun, 19 Jul 2026 10:32:00",
-         "title" : "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132490725.cms\" />After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
