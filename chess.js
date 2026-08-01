@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen remains the undisputed world number one in chess. Hou Yifan is still the highest-rated woman player. Reigning world champion Gukesh Dommaraju has lost several rating points and has also relinquished his position as the world's top junior - it is now 15-year-old Turkish prodigy Yagiz Kaan Erdogmus who stands as the top-ranked player in the under-20 category!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-august-2026",
+         "pubDate" : "Sat, 01 Aug 2026 20:30:00",
+         "title" : "FIDE ratings - August 2026"
+      },
+      {
+         "description" : " The 112th British Chess Championships take place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+         "pubDate" : "Sat, 1 Aug 2026 18:15:00",
+         "title" : "112th British Chess Championships 2026 - Games and Results"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "You already know more than you can use"
       },
       {
-         "description" : "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who would also later become a grandmaster.",
+         "description" : "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who would later become at least an international master.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/carlsen-beginnings-tournament-chess",
@@ -688,22 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/mick-ridings-fundraiser-for-alzheimers-society/",
          "pubDate" : "Mon, 13 Jul 2026 13:12:39",
          "title" : "Mick Riding's Fundraiser for Alzheimer's Society"
-      },
-      {
-         "description" : " Sergei Tiviakov was the surprise winner of the <a href= \"https://theweekinchess.com/chessnews/events/netherland-championships-2026\">2026 Netherlands Chess Championships</a> held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respectable field and Tiviakov was the eighth seed. Tiviakov beat IM Eelke De Boer in the first round. In the second he lost the first game to Erwin L'Ami but recovered in a must win game two before winning the blitz (5m+2spm) tie-breaks 1.5-0.5. He beat Eric Van den Doel 1.5-0.5 in the semi-finals. His opponent in the final was another surprise, 9th seed 24-",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/sergei-tiviakov-wins-his-fourth-netherlands-chess-championship",
-         "pubDate" : "Sat, 11 Jul 2026 19:01:00",
-         "title" : "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final"
-      },
-      {
-         "description" : " The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat Anna-Maja Kazarian 2-0 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/netherland-championships-2026",
-         "pubDate" : "Sat, 11 Jul 2026 17:59:00",
-         "title" : "Netherland Championships 2026 - Games and Results"
       }
    ]
 }
