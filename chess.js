@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fintech entrepreneur and chess sponsor Timur Turlov has announced his candidacy for President of the International Chess Federation (FIDE), standing together with five-time World Champion Vishwanathan Anand as his candidate for Deputy President. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/turlov-anand-campaign-launched",
+         "pubDate" : "Sat, 01 Aug 2026 03:00:00",
+         "title" : "Turlov-Anand campaign pledges to move chess forward"
+      },
+      {
          "description" : "The Saint Louis Rapid & Blitz will bring ten grandmasters to the Saint Louis Chess Club from 2 to 6 August for the fourth leg of the 2026 Grand Chess Tour. Fabiano Caruana, Vincent Keymer and Wesley So are the leading tour contenders in a field that also includes World Championship challenger Javokhir Sindarov (pictured), Praggnanandhaa Rameshbabu and three wildcards from the United States. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
