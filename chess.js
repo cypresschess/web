@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who would also later become a grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-beginnings-tournament-chess",
+         "pubDate" : "Sat, 01 Aug 2026 09:00:00",
+         "title" : "26 years ago: Carlsen's first steps in tournament chess"
+      },
+      {
+         "description" : "Alongside its latest releases, ChessBase's Summer Specials also include a selection of older Fritz Trainers, such as titles from Daniel King's long-running PowerPlay series and Karsten M&uuml;ller's endgame courses. This raises an interesting question: can Fritz Trainers that are up to 20 years old still be used on modern computers, and how well have they stood the test of time? Jochen Schwarz, a club player from Bremen, revisited a number of these classic titles and also reveals his personal favourites among these old gems.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-are-older-fritz-trainers-still-worth-it",
+         "pubDate" : "Sat, 01 Aug 2026 07:00:00",
+         "title" : "Review: Are older Fritz Trainers still worth it?"
+      },
+      {
          "description" : "Fintech entrepreneur and chess sponsor Timur Turlov has announced his candidacy for President of the International Chess Federation (FIDE), standing together with five-time World Champion Vishwanathan Anand as his candidate for Deputy President. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-preview",
          "pubDate" : "Fri, 31 Jul 2026 22:15:00",
          "title" : "Decisive phase of Grand Chess Tour kicks off with Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "GM Pranav Venkatesh added another feather in his cap in the first 3 0 Thursday tournament of the week, finishing with an undefeated 9.5/11 and outscoring no fewer than eight super-GMs. Wins over GMs Aravindh Chithambaram, Sergei Zhigalko, Hans Nie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-maghsoodloo-xiong-3-0-thursday-07-30-2026",
+         "pubDate" : "Fri, 31 Jul 2026 20:54:10",
+         "title" : "Maghsoodloo Rallies To Win 3 0 Thursday On Tiebreaks"
       },
       {
          "description" : "Svitlana explores the Center Game with 1.e4 e5 2.d4 and explains why this historic opening remains a practical surprise weapon. She examines the main queen placements, Black's most important defensive setups, and White's typical plan of castling queenside and launching an attack. Particular attention is given to the choice between f3 and Nf3, the importance of preventing Black's central break with d5, and the tactical possibilities that arise from opposite side castling. The episode shows that even if engines consider many positions equal, the Center Game can still lead to rich, aggressive, and highly playable positions",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
          "pubDate" : "Mon, 20 Jul 2026 10:32:31",
          "title" : "Chess Joins Junior Olympics As AAU Adds Chess Program"
-      },
-      {
-         "description" : "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
-         "pubDate" : "Mon, 20 Jul 2026 08:29:00",
-         "title" : "Arjun Stuns Gukesh As Abdusattorov Also Joins Fight For 1st"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
