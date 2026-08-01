@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pranav-maghsoodloo-xiong-3-0-thursday-07-30-2026",
-         "pubDate" : "Fri, 31 Jul 2026 20:54:10",
+         "pubDate" : "Fri, 31 Jul 2026 20:54:00",
          "title" : "Maghsoodloo Rallies To Win 3 0 Thursday On Tiebreaks"
       },
       {
@@ -70,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/august-2026-fide-rating-list",
-         "pubDate" : "Fri, 31 Jul 2026 12:37:10",
+         "pubDate" : "Fri, 31 Jul 2026 12:37:00",
          "title" : "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List"
       },
       {
