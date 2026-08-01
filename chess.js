@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The top seeds made a solid start to the British Chess Championship in Coventry, with Luke McShane, defending champion Michael Adams and four other top contenders winning their opening games. Most results on the leading boards followed the ratings, although 11-year-old Bodhana Sivanandan was held to a draw by George Zhao after recovering from a pawn deficit in a queen-and-minor-piece ending. | Photo: Yury Krylov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-1",
+         "pubDate" : "Sun, 02 Aug 2026 00:45:00",
+         "title" : "Top seeds win in British Championship opening round"
+      },
+      {
          "description" : "Magnus Carlsen remains the undisputed world number one in chess. Hou Yifan is still the highest-rated woman player. Reigning world champion Gukesh Dommaraju has lost several rating points and has also relinquished his position as the world's top junior - it is now 15-year-old Turkish prodigy Yagiz Kaan Erdogmus who stands as the top-ranked player in the under-20 category!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
          "pubDate" : "Sat, 1 Aug 2026 18:15:00",
          "title" : "112th British Chess Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Sat, 01 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
