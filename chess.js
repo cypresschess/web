@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Sat, 01 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/knowledge-vs-skill/",
+         "pubDate" : "Sat, 01 Aug 2026 13:00:00",
+         "title" : "You already know more than you can use"
+      },
+      {
          "description" : "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who would also later become a grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/netherland-championships-2026",
          "pubDate" : "Sat, 11 Jul 2026 17:59:00",
          "title" : "Netherland Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "I see it daily with students. They want to play so well that they end up in time trouble, spend time on fancy ideas and miss the simple things. I was the same as a Grandmaster. I wanted to play perfectly on every move. Often, I did manage to outplay my opponents. But at a []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/good-enough-moves/",
-         "pubDate" : "Sat, 11 Jul 2026 13:00:00",
-         "title" : "Trying harder makes you play worse moves"
       }
    ]
 }
