@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132801444.cms\" />Henry Kissinger once urged Bobby Fischer to face the Soviets. It was a small island, not his homeland, that gave him a resting place. In the second column of The Grandmaster View, India's 93rd Grandmaster Aarav Dengla traces Fischer's journey from Cold War hero to exiled genius. his revolutionary impact on chess, the tragedy of his later years, and why the country that embraced him in death offered the sense of belonging that his own homeland ultimately could not. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bobby-fischer-the-champion-america-summoned-and-iceland-sheltered/articleshow/132801444.cms",
+         "pubDate" : "Sun, 02 Aug 2026 06:30:17",
+         "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
+      },
+      {
          "description" : "The top seeds made a solid start to the British Chess Championship in Coventry, with Luke McShane, defending champion Michael Adams and four other top contenders winning their opening games. Most results on the leading boards followed the ratings, although 11-year-old Bodhana Sivanandan was held to a draw by George Zhao after recovering from a pawn deficit in a queen-and-minor-piece ending. | Photo: Yury Krylov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
