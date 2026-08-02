@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE ratings - August 2026"
       },
       {
+         "description" : "GM Hikaru Nakamura reclaimed the Bullet Brawl throne with relative ease on Saturday one week after missing out on the $400 first prize due to inferior tiebreaks. With 50 wins, eight draws, and only 11 losses to his name, Nakamura convincingly won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
+         "pubDate" : "Sat, 01 Aug 2026 19:46:40",
+         "title" : "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title"
+      },
+      {
          "description" : " The 112th British Chess Championships take place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
          "pubDate" : "Tue, 21 Jul 2026 04:15:24",
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
-      },
-      {
-         "description" : "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
-         "pubDate" : "Mon, 20 Jul 2026 10:32:31",
-         "title" : "Chess Joins Junior Olympics As AAU Adds Chess Program"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
