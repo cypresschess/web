@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-champions-2026-crowned/",
+         "pubDate" : "Sun, 02 Aug 2026 09:03:39",
+         "title" : "European Youth Team Chess Champions 2026 crowned"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132801444.cms\" />Henry Kissinger once urged Bobby Fischer to face the Soviets. It was a small island, not his homeland, that gave him a resting place. In the second column of The Grandmaster View, India's 93rd Grandmaster Aarav Dengla traces Fischer's journey from Cold War hero to exiled genius. his revolutionary impact on chess, the tragedy of his later years, and why the country that embraced him in death offered the sense of belonging that his own homeland ultimately could not. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
