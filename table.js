@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-07-31","16","<a href=https://ratings.uschess.org/event/202607310433 target='_blank'>The Friday Knights</a>",
+"CYPRESS","2026-07-31","56","<a href=https://ratings.uschess.org/event/202607310423 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-07-31","20","<a href=https://ratings.uschess.org/event/202607310323 target='_blank'>FBCC 2026 National Parents Day Open</a>",
 "HOUSTON","2026-07-30","14","<a href=https://ratings.uschess.org/event/202607300033 target='_blank'>JULY TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290043 target='_blank'>Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-05-09","10","<a href=https://ratings.uschess.org/event/202605090403 target='_blank'>chesspanda05092026saturday</a>",
 "HOUSTON","2026-05-09","9","<a href=https://ratings.uschess.org/event/202605090383 target='_blank'>MAY 9TH  TROPHY SCHOLASTIC</a>",
 "SPRING","2026-05-08","24","<a href=https://ratings.uschess.org/event/202605080343 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-05-08","14","<a href=https://ratings.uschess.org/event/202605080303 target='_blank'>FBCC National Give Someone a Cupcake Day Open</a>",
-"CYPRESS","2026-05-08","51","<a href=https://ratings.uschess.org/event/202605080233 target='_blank'>Knights of Cypress</a>",
 ]);
