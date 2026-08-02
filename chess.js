@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Sun, 02 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Of the five players rated above 2600 at the main event of the Dortmund Chess Festival, only three began the tournament with a win on Saturday. Matthias Bluebaum (2689, last year's winner) defeated Alfred Parvanyan (2200), Rasmus Svane (2618) beat Robert Prieb (2196) and Andrew Hong (2604) overcame Junyi Zhang (2191). Dmitrij Kollars (2627) and David Navara (2619), meanwhile, were both held to draws despite being rating favourites. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-d1",
+         "pubDate" : "Sun, 02 Aug 2026 15:10:00",
+         "title" : "Dortmund: Bluebaum and Svane get off to a winning start"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bobby-fischer-the-champion-america-summoned-and-iceland-sheltered/articleshow/132801444.cms",
          "pubDate" : "Sun, 02 Aug 2026 06:30:17",
          "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
+      },
+      {
+         "description" : "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second Semifinal of the 2026 Women&#39;s Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent&#39;s expected resurgen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-sf-hou-assaubayeva",
+         "pubDate" : "Sun, 02 Aug 2026 05:39:00",
+         "title" : "Hou Yifan Wins, Sets Date With Alice Lee In Final"
       },
       {
          "description" : "The top seeds made a solid start to the British Chess Championship in Coventry, with Luke McShane, defending champion Michael Adams and four other top contenders winning their opening games. Most results on the leading boards followed the ratings, although 11-year-old Bodhana Sivanandan was held to a draw by George Zhao after recovering from a pawn deficit in a queen-and-minor-piece ending. | Photo: Yury Krylov",
