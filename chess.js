@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "description" : "Praggnanandhaa Rameshbabu took the outright lead after the first three rapid rounds of the Saint Louis Rapid & Blitz, scoring 5 points from a possible 6. The Indian grandmaster defeated Levon Aronian and Fabiano Caruana after opening with a draw, while Javokhir Sindarov and Wesley So finished 1 point behind. Five games were decisive on day one, with Jorden van Foreest suffering two defeats. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-         "pubDate" : "Sun, 02 Aug 2026 18:45:00",
-         "title" : "Saint Louis Rapid & Blitz - Live!"
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-1",
+         "pubDate" : "Mon, 03 Aug 2026 09:05:00",
+         "title" : "Saint Louis Rapid & Blitz: Pragg leads after first day of action"
+      },
+      {
+         "description" : "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and databases, and which parts of the interface help or get in your way. Filling out the survey takes around three minutes. If you fill it out we will send you a thank-you voucher gift.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
+         "pubDate" : "Mon, 03 Aug 2026 06:57:57",
+         "title" : "Help us build the next ChessBase"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid &#38;amp; Blitz, taking the sole lead with five out of a possible six points. He&#39;s trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-1",
+         "pubDate" : "Sun, 02 Aug 2026 20:50:00",
+         "title" : "Praggnanandhaa Takes Sole Lead On Day 1"
       },
       {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
          "pubDate" : "Tue, 21 Jul 2026 13:00:00",
          "title" : "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave is your winner for Titled Tuesday on July 21, scoring 9.5/11 points and a big win over GM Fabiano Caruana in the seventh round that proved to be the difference between first and second place&#38;mdash;Caruana also scored 9.5 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-21-2026",
-         "pubDate" : "Tue, 21 Jul 2026 11:58:38",
-         "title" : "Vachier-Lagrave Scrapes By Caruana To Take Titled Tuesday"
       },
       {
          "description" : "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, active counterplay and precise prophylactic ideas. The lesson highlights how much can still be learned from classical games, especially when it comes to initiative, defensive resourcefulness and the idea that prophylaxis can be aggressive rather than passive.",
