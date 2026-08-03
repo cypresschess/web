@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+         "pubDate" : "Mon, 03 Aug 2026 18:45:00",
+         "title" : "Saint Louis Rapid & Blitz - Live!"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-may-june-2026/",
          "pubDate" : "Wed, 15 Jul 2026 10:22:16",
          "title" : "ECU E-Magazine May & June 2026"
-      },
-      {
-         "description" : "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with opposite-side castling, Black bravely pushes the kingside pawns, opens the g-file and keeps finding dynamic resources while White misses several powerful attacking chances on the queenside. The game turns into a wild attacking masterpiece, ending with decisive tactics around the white king and a memorable victory for the underdog.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
-         "pubDate" : "Mon, 13 Jul 2026 18:00:00",
-         "title" : "The 1858-Rated Kid Who Beat a Super-GM - The Underdog"
       }
    ]
 }
