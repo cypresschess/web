@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Mon, 03 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132831412.cms\" />The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by Grandmaster Abhijeet Gupta, the federation is in talks with stakeholders to finalise dates. AICF said a packed domestic and international calendar had forced the initial postponement.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-arjuna-awardee-gm-calls-out-indian-chess-calendar-aicf-moves-swiftly-to-find-solution/articleshow/132831412.cms",
+         "pubDate" : "Mon, 03 Aug 2026 12:23:16",
+         "title" : "After Arjuna Awardee calls out Indian calendar, AICF moves to find solution"
+      },
+      {
+         "description" : "The ECF is appointing the England Coach for the European Youth Chess Championships (EYCC) in Crete from 2-13 November 2026. The England Coach will: Deliver daily on-the-spot coaching with England...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-youth-championships-england-coach-appointment/",
+         "pubDate" : "Mon, 03 Aug 2026 11:46:46",
+         "title" : "European Youth Championships - England Coach Appointment"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu took the outright lead after the first three rapid rounds of the Saint Louis Rapid & Blitz, scoring 5 points from a possible 6. The Indian grandmaster defeated Levon Aronian and Fabiano Caruana after opening with a draw, while Javokhir Sindarov and Wesley So finished 1 point behind. Five games were decisive on day one, with Jorden van Foreest suffering two defeats. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +42,20 @@ news_feed (
          "title" : "Help us build the next ChessBase"
       },
       {
+         "description" : "Every month, a new group of bots appear on Chess.com. This August, set sail on an epic chess adventure inspired by the legends of ancient Greece!&#38;nbsp;Navigate dangerous seas filled with monsters, magic, and heroes from Greek mythology. Enter the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/odyssey-chess-bots",
+         "pubDate" : "Mon, 03 Aug 2026 06:42:05",
+         "title" : "The Chess Odyssey Bots Are Here For August!"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid &#38;amp; Blitz, taking the sole lead with five out of a possible six points. He&#39;s trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-1",
          "pubDate" : "Sun, 02 Aug 2026 20:50:00",
          "title" : "Praggnanandhaa Takes Sole Lead On Day 1"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Sun, 02 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "Of the five players rated above 2600 at the main event of the Dortmund Chess Festival, only three began the tournament with a win on Saturday. Matthias Bluebaum (2689, last year's winner) defeated Alfred Parvanyan (2200), Rasmus Svane (2618) beat Robert Prieb (2196) and Andrew Hong (2604) overcame Junyi Zhang (2191). Dmitrij Kollars (2627) and David Navara (2619), meanwhile, were both held to draws despite being rating favourites. | Photo: Official website",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters"
       },
       {
-         "description" : "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
-         "pubDate" : "Tue, 21 Jul 2026 13:00:00",
-         "title" : "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten"
-      },
-      {
          "description" : "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, active counterplay and precise prophylactic ideas. The lesson highlights how much can still be learned from classical games, especially when it comes to initiative, defensive resourcefulness and the idea that prophylaxis can be aggressive rather than passive.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,22 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
          "pubDate" : "Mon, 13 Jul 2026 18:00:00",
          "title" : "The 1858-Rated Kid Who Beat a Super-GM - The Underdog"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132372833.cms\" />FIDE has approved a new format for the 2027 World Cup and Women's World Cup, reducing the events from 27 to 19 days by introducing a Swiss qualification stage before the knockout rounds. Both tournaments will feature more players, expanded qualification pathways and a combined prize fund of USD 3.3 million, making the competitions more inclusive and rewarding.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/big-changes-in-chess-world-cup-fide-approves-new-format-for-open-and-womens-events-from-2027/articleshow/132372833.cms",
-         "pubDate" : "Mon, 13 Jul 2026 17:42:51",
-         "title" : "Big changes in Chess World Cup! FIDE approves new format for 2027"
-      },
-      {
-         "description" : "Mick Riding, Grassroots Initiative Chairman, will celebrate his 70th birthday on Saturday 18 July by taking part in the Northumberland leg of an Alzheimer's Society nationwide fundraising initiative. &#160; Mick...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/mick-ridings-fundraiser-for-alzheimers-society/",
-         "pubDate" : "Mon, 13 Jul 2026 13:12:39",
-         "title" : "Mick Riding's Fundraiser for Alzheimer's Society"
       }
    ]
 }
