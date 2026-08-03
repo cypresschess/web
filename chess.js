@@ -42,7 +42,7 @@ news_feed (
          "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
       },
       {
-         "description" : "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second Semifinal of the 2026 Women&#39;s Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent&#39;s expected resurgen...",
+         "description" : "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second semifinal of the 2026 Women&#39;s Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent&#39;s expected resurgen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-wscc-sf-hou-assaubayeva",
