@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his latest column, Jon Speelman moves from Hatfield House and Queen Elizabeth's Oak to a series of chess puzzles, with rook endings, defensive choices and a spoof opening line among the themes. He also introduces the idea of a \"Fluffy Duck\" opening, inspired by an advocaat-based cocktail, and invites readers to suggest a suitable variation! | Photo: Puredrinkology",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-242",
+         "pubDate" : "Mon, 03 Aug 2026 23:50:00",
+         "title" : "Jon Speelman: Castles by the trees and Fluffy Ducks"
+      },
+      {
          "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "European Youth Championships - England Coach Appointment"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu took the outright lead after the first three rapid rounds of the Saint Louis Rapid & Blitz, scoring 5 points from a possible 6. The Indian grandmaster defeated Levon Aronian and Fabiano Caruana after opening with a draw, while Javokhir Sindarov and Wesley So finished 1 point behind. Five games were decisive on day one, with Jorden van Foreest suffering two defeats. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-1",
-         "pubDate" : "Mon, 03 Aug 2026 09:05:00",
-         "title" : "Saint Louis Rapid & Blitz: Pragg leads after first day of action"
-      },
-      {
          "description" : "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and databases, and which parts of the interface help or get in your way. Filling out the survey takes around three minutes. If you fill it out we will send you a thank-you voucher gift.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-1",
          "pubDate" : "Sun, 02 Aug 2026 20:50:00",
          "title" : "Praggnanandhaa Takes Sole Lead On Day 1"
-      },
-      {
-         "description" : "Of the five players rated above 2600 at the main event of the Dortmund Chess Festival, only three began the tournament with a win on Saturday. Matthias Bluebaum (2689, last year's winner) defeated Alfred Parvanyan (2200), Rasmus Svane (2618) beat Robert Prieb (2196) and Andrew Hong (2604) overcame Junyi Zhang (2191). Dmitrij Kollars (2627) and David Navara (2619), meanwhile, were both held to draws despite being rating favourites. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-d1",
-         "pubDate" : "Sun, 02 Aug 2026 15:10:00",
-         "title" : "Dortmund: Bluebaum and Svane get off to a winning start"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
@@ -98,22 +90,6 @@ news_feed (
          "title" : "Hou Yifan Wins, Sets Date With Alice Lee In Final"
       },
       {
-         "description" : "The top seeds made a solid start to the British Chess Championship in Coventry, with Luke McShane, defending champion Michael Adams and four other top contenders winning their opening games. Most results on the leading boards followed the ratings, although 11-year-old Bodhana Sivanandan was held to a draw by George Zhao after recovering from a pawn deficit in a queen-and-minor-piece ending. | Photo: Yury Krylov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-1",
-         "pubDate" : "Sun, 02 Aug 2026 00:45:00",
-         "title" : "Top seeds win in British Championship opening round"
-      },
-      {
-         "description" : "Magnus Carlsen remains the undisputed world number one in chess. Hou Yifan is still the highest-rated woman player. Reigning world champion Gukesh Dommaraju has lost several rating points and has also relinquished his position as the world's top junior - it is now 15-year-old Turkish prodigy Yagiz Kaan Erdogmus who stands as the top-ranked player in the under-20 category!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-august-2026",
-         "pubDate" : "Sat, 01 Aug 2026 20:30:00",
-         "title" : "FIDE ratings - August 2026"
-      },
-      {
          "description" : "GM Hikaru Nakamura reclaimed the Bullet Brawl throne with relative ease on Saturday one week after missing out on the $400 first prize due to inferior tiebreaks. With 50 wins, eight draws, and only 11 losses to his name, Nakamura convincingly won ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,38 +114,6 @@ news_feed (
          "title" : "You already know more than you can use"
       },
       {
-         "description" : "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who would later become at least an international master.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-beginnings-tournament-chess",
-         "pubDate" : "Sat, 01 Aug 2026 09:00:00",
-         "title" : "26 years ago: Carlsen's first steps in tournament chess"
-      },
-      {
-         "description" : "Alongside its latest releases, ChessBase's Summer Specials also include a selection of older Fritz Trainers, such as titles from Daniel King's long-running PowerPlay series and Karsten M&uuml;ller's endgame courses. This raises an interesting question: can Fritz Trainers that are up to 20 years old still be used on modern computers, and how well have they stood the test of time? Jochen Schwarz, a club player from Bremen, revisited a number of these classic titles and also reveals his personal favourites among these old gems.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-are-older-fritz-trainers-still-worth-it",
-         "pubDate" : "Sat, 01 Aug 2026 07:00:00",
-         "title" : "Review: Are older Fritz Trainers still worth it?"
-      },
-      {
-         "description" : "Fintech entrepreneur and chess sponsor Timur Turlov has announced his candidacy for President of the International Chess Federation (FIDE), standing together with five-time World Champion Vishwanathan Anand as his candidate for Deputy President. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/turlov-anand-campaign-launched",
-         "pubDate" : "Sat, 01 Aug 2026 03:00:00",
-         "title" : "Turlov-Anand campaign pledges to move chess forward"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz will bring ten grandmasters to the Saint Louis Chess Club from 2 to 6 August for the fourth leg of the 2026 Grand Chess Tour. Fabiano Caruana, Vincent Keymer and Wesley So are the leading tour contenders in a field that also includes World Championship challenger Javokhir Sindarov (pictured), Praggnanandhaa Rameshbabu and three wildcards from the United States. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-preview",
-         "pubDate" : "Fri, 31 Jul 2026 22:15:00",
-         "title" : "Decisive phase of Grand Chess Tour kicks off with Saint Louis Rapid & Blitz"
-      },
-      {
          "description" : "GM Pranav Venkatesh added another feather in his cap in the first 3 0 Thursday tournament of the week, finishing with an undefeated 9.5/11 and outscoring no fewer than eight super-GMs. Wins over GMs Aravindh Chithambaram, Sergei Zhigalko, Hans Nie...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -178,28 +122,12 @@ news_feed (
          "title" : "Maghsoodloo Rallies To Win 3 0 Thursday On Tiebreaks"
       },
       {
-         "description" : "Svitlana explores the Center Game with 1.e4 e5 2.d4 and explains why this historic opening remains a practical surprise weapon. She examines the main queen placements, Black's most important defensive setups, and White's typical plan of castling queenside and launching an attack. Particular attention is given to the choice between f3 and Nf3, the importance of preventing Black's central break with d5, and the tactical possibilities that arise from opposite side castling. The episode shows that even if engines consider many positions equal, the Center Game can still lead to rich, aggressive, and highly playable positions",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-center-game",
-         "pubDate" : "Fri, 31 Jul 2026 18:13:18",
-         "title" : "Svitlana's Smart Moves - Center Game"
-      },
-      {
          "description" : "Please see below the list of appointments &#8212; HLVPs, VPs, CVPs, Honorary Life Members - Gerry Walsh, John Wickham Platinum Members - Adrian Elwin, David Eustace Gold Members - Barbara...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/direct-member-representative-appointments/",
          "pubDate" : "Fri, 31 Jul 2026 14:30:48",
          "title" : "Direct Member Representative appointments"
-      },
-      {
-         "description" : "The 53rd Dortmund Sparkassen Chess Meeting gets underway on Saturday (1-8 August). Alongside a strong open tournament featuring German national team players Matthias Bl&uuml;baum, Rasmus Svane and Dmitrij Kollars, as well as Biel Open winner Christian Gl&ouml;ckler (pictured), the festival also includes an international women's GM tournament, where Dinara Wagner will defend her title. | Photos: Tournament organisers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-chess-festival-attracts-top-players",
-         "pubDate" : "Fri, 31 Jul 2026 14:00:00",
-         "title" : "Dortmund Chess Festival attracts top players"
       },
       {
          "description" : "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov&#39;s last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a...",
