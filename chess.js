@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+         "pubDate" : "Tue, 04 Aug 2026 18:45:00",
+         "title" : "Saint Louis Rapid & Blitz - Live!"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
          "pubDate" : "Tue, 04 Aug 2026 15:30:00",
          "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Bianca Mitchell-Avila was 16 when she cold-emailed Hollywood star Keanu Reeves asking him to support her chess documentary, and perhaps face her in a final battle against &#34;John Wick.&#34; Five years later, she got her game. On Thursday, Mitchell-Avil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keanu-reeves-mitchell-avila-madwomans-game-chess",
+         "pubDate" : "Tue, 04 Aug 2026 13:03:23",
+         "title" : "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess"
       },
       {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Review: My \"Sokolov-Strategy\" - Part 3"
       },
       {
+         "description" : "A week ahead of the start of the Esports World Cup main event, in which he will attempt to defend last year&#39;s title, GM Magnus Carlsen won Titled Tuesday on August 4. Carlsen scored 9.5 points and held a slightly better tiebreak over GM Arjun Erig...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-august-4-2026",
+         "pubDate" : "Tue, 04 Aug 2026 11:09:00",
+         "title" : "Carlsen Takes Titled Tuesday In Esports World Cup Warmup"
+      },
+      {
          "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
          "pubDate" : "Tue, 04 Aug 2026 09:25:00",
          "title" : "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place"
+      },
+      {
+         "description" : "126th U.S. Open Begins in MichiganThe official motto of Grand Rapids, MI is the Latin phrase motu viget, which translates as \"strength in activity.\" It's hard to think of a more apt phrase for the 126th U.S. Open, which began yesterday in \"Furniture City.\" In addition to the almost 500 players registered for the Open itself, almost 300 state champions began competing yesterday in the national invitational tournaments of state champions. Add on another 64 players who needed to get three classically rated games in before yesterday's evening round, and you're looking at a DeVos Convention Center abuzz with more activity than a King's Gambit Accepted. The theme of activity also carried over to y",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/strength-activity-us-open-begins",
+         "pubDate" : "Tue, 04 Aug 2026 00:00:00",
+         "title" : "Strength in Activity as U.S. Open Begins"
       },
       {
          "description" : "In his latest column, Jon Speelman moves from Hatfield House and Queen Elizabeth's Oak to a series of chess puzzles, with rook endings, defensive choices and a spoof opening line among the themes. He also introduces the idea of a \"Fluffy Duck\" opening, inspired by an advocaat-based cocktail, and invites readers to suggest a suitable variation! | Photo: Puredrinkology",
@@ -506,14 +538,6 @@ news_feed (
          "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
       },
       {
-         "description" : "GM Vladimir Akopian defeated GM Alexander Onischuk 3-1 in the U.S. Senior Championship playoff earlier this afternoon at the Saint Louis Chess Club (SLCC). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Akopian led for most of the tournament, but a strong 3&frac12;/4 finish from Onischuk saw him catch the leader in the final round. The players split a pair of rapid games, and Akopian won both blitz games to clinch his second title in three years. In the first rapid game, Akopian seemed prepared in a slightly slow variation of the Slav Defense, only to immediately drift in the ensuing complications.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/akopian-wins-us-senior-championship-playoff",
-         "pubDate" : "Fri, 24 Jul 2026 00:00:00",
-         "title" : "Akopian Wins U.S. Senior Championship Playoff"
-      },
-      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -522,28 +546,12 @@ news_feed (
          "title" : "Biel Festival - Live!"
       },
       {
-         "description" : "The President of the International Chess Federation (FIDE), Arkady Dvorkovich, has decided to suspend his authority as the head of the chess governing body after being sanctioned by the European Union. Five-time world champion GM Viswanathan Anand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arkady-dvorkovich-sanctioned-by-eu-ukrainian-sports-minister",
-         "pubDate" : "Thu, 23 Jul 2026 11:13:00",
-         "title" : "Dvorkovich Suspends FIDE Presidency After EU Sanctions; Anand Named Interim President"
-      },
-      {
          "description" : "The European Chess Union and the Federation Monegasque des Echecs are pleased to announce the new event in the ECU Calendar: the European Senior Rapid and Blitz Chess Championship. The inaugurate edition of the European Senior Rapid and Blitz Chess Championship 2027 will take place from 10-14 January 2027 in Monte-Carlo, Monaco, featuring the total prize fund of €32.000. The events will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of low []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-senior-rapid-and-blitz-chess-championships-2027-regulations/",
          "pubDate" : "Thu, 23 Jul 2026 09:23:40",
          "title" : "European Senior Rapid and Blitz Chess Championships 2027 - Regulations"
-      },
-      {
-         "description" : "GM Anish Giri, the longtime top-10 chess player and instructional author, has signed with Basilisk Gaming (stylized BASILISK), the esports organization announced in a press release and on social media Thursday. Giri will begin representing Basilis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-signs-with-basilisk-esports",
-         "pubDate" : "Thu, 23 Jul 2026 06:10:00",
-         "title" : "Giri Signs With Basilisk Esports"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132571380.cms\" />Niemann welcomed the removal of the rating qualification spot for the 2026 Candidates Tournament, arguing that the qualifiers through that route in the previous three cycles - Ding, Alireza Firouzja and Hikaru Nakamura - had found loopholes in the system and played easier games to secure their places.",
