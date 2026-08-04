@@ -18,6 +18,14 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
+         "pubDate" : "Mon, 03 Aug 2026 16:35:30",
+         "title" : "Praggnanandhaa Leads, Sindarov Trails By 2 Points"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/odyssey-chess-bots",
          "pubDate" : "Mon, 03 Aug 2026 06:42:05",
          "title" : "The Chess Odyssey Bots Are Here For August!"
+      },
+      {
+         "description" : "FM William \"Bill\" Goichberg passed away Sunday Aug. 2, 2026, at age 83. Between the 1960s and the 2000s, Bill held every one of the highest roles in US Chess. He was rating statistician; he was co-editor of Chess Life; he was a member of what we now call the Executive Board three separate times; he was executive director; he was president. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Bill Goichberg (L) and Harry Sabine (R) in an undated photo from the US Open. (From the US Chess Archives)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Goichberg in 1985 holding a beautiful inlaid chessboard ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/bill-goichberg-1942-2026",
+         "pubDate" : "Mon, 03 Aug 2026 00:00:00",
+         "title" : "Bill Goichberg (1942-2026)"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid &#38;amp; Blitz, taking the sole lead with five out of a possible six points. He&#39;s trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th...",
@@ -474,14 +490,6 @@ news_feed (
          "title" : "Akopian Wins U.S. Senior Championship Playoff"
       },
       {
-         "description" : "Tang, Belakovskaia, and Woodward Win Titles, Onischuk Forces Playoff with AkopianAll good things must come to an end. The quote is sometimes attributed to Geoffrey Chaucer, which would make sense, since they didn't have playoffs in the 1300s. Three of the four national championships were decided on Thursday in St. Louis, but the U.S. Senior Championship will go to a playoff tiebreaker beginning Friday at noon CDT. Girls' Junior Championship: Tang Clinches, Wu Rises<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Zoey Tang did it again, winning this year's U.S. Girls' Junior Championship by a two-point margin. (Photo courtesy SLCC/Lennart Ootes)<br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-winners-crowned-one-playoff-looms-junior-and-senior-championships",
-         "pubDate" : "Fri, 24 Jul 2026 00:00:00",
-         "title" : "Three Winners Crowned, One Playoff Looms in Junior and Senior Championships"
-      },
-      {
          "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-alireza-firouzja-wins-title-as-world-champion-gukesh-suffers-shock-last-place-finish/articleshow/132561685.cms",
          "pubDate" : "Wed, 22 Jul 2026 14:49:48",
          "title" : "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish"
-      },
-      {
-         "description" : "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-chennai-grand-masters-round-7",
-         "pubDate" : "Wed, 22 Jul 2026 05:57:00",
-         "title" : "Firouzja Wins 2026 Chennai Grand Masters, Andreikin Snatches 2nd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132550346.cms\" />D Gukesh faces a difficult period in the Chennai GM chess tournament. He is currently in last place after six rounds of play. Gukesh lost his second consecutive game to a fellow Indian player. Nihal Sarin defeated overnight leader Erigaisi Arjun in another match. This result has created a three-way tie for the tournament title.",
