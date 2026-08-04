@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-5",
+         "pubDate" : "Tue, 04 Aug 2026 13:00:01",
+         "title" : "ChessBase Summer-Special! - Part 5"
+      },
+      {
+         "description" : "Do you know the feeling? You often come out of the opening with a promising position, only to struggle to convert your advantage because you do not fully understand the resulting middlegame. Jochen Schwarz, a club player from Bremen, wants to improve this aspect of his game and has enlisted Ivan Sokolov as his \"coach\" through the video series Understanding Middlegame Strategies. In the third and final part of his review, he looks at three courses (12 to 14) devoted to reversed-colour openings and their strategic characteristics, hoping to gain a better understanding of how to meet these systems with the black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-my-sokolov-strategy-part-3",
+         "pubDate" : "Tue, 04 Aug 2026 13:00:00",
+         "title" : "Review: My \"Sokolov-Strategy\" - Part 3"
+      },
+      {
+         "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-starts/",
+         "pubDate" : "Tue, 04 Aug 2026 10:48:50",
+         "title" : "European Junior U20 Chess Championship 2026 starts"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu remained in sole first place after six rounds of the Saint Louis Rapid & Blitz, extending his lead to 2 points over Javokhir Sindarov. The Indian GM defeated Awonder Liang and drew his other two games on day two, including a 117-move encounter with Wesley So. Despite several missed opportunities and fluctuating positions, only two of the day's games ended decisively. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
+         "pubDate" : "Tue, 04 Aug 2026 09:25:00",
+         "title" : "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place"
+      },
+      {
          "description" : "In his latest column, Jon Speelman moves from Hatfield House and Queen Elizabeth's Oak to a series of chess puzzles, with rook endings, defensive choices and a spoof opening line among the themes. He also introduces the idea of a \"Fluffy Duck\" opening, inspired by an advocaat-based cocktail, and invites readers to suggest a suitable variation! | Photo: Puredrinkology",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,19 +42,11 @@ news_feed (
          "title" : "Jon Speelman: Castles by the trees and Fluffy Ducks"
       },
       {
-         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-         "pubDate" : "Mon, 03 Aug 2026 18:45:00",
-         "title" : "Saint Louis Rapid & Blitz - Live!"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
-         "pubDate" : "Mon, 03 Aug 2026 16:35:30",
+         "pubDate" : "Mon, 03 Aug 2026 16:35:00",
          "title" : "Praggnanandhaa Leads, Sindarov Trails By 2 Points"
       },
       {
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
          "pubDate" : "Wed, 15 Jul 2026 14:29:20",
          "title" : "No rating-based spots! FIDE launches new qualification system for 2028 Candidates"
-      },
-      {
-         "description" : "The ECU E-Magazine May &#38; June 2026 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine can be read online with interactive links through the following link, or it can be downloaded below in PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-june-2026/",
-         "pubDate" : "Wed, 15 Jul 2026 10:22:16",
-         "title" : "ECU E-Magazine May & June 2026"
       }
    ]
 }
