@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Tue, 04 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
          "pubDate" : "Mon, 03 Aug 2026 16:35:00",
          "title" : "Praggnanandhaa Leads, Sindarov Trails By 2 Points"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Mon, 03 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132831412.cms\" />The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by Grandmaster Abhijeet Gupta, the federation is in talks with stakeholders to finalise dates. AICF said a packed domestic and international calendar had forced the initial postponement.",
