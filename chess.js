@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svyatoslav Bazakutsa took sole possession of the lead at the British Chess Championship after defeating nine-time champion Michael Adams in round four. The 18-year-old Ukrainian now has a perfect 4/4, half a point ahead of a five-player chasing group. Among them is 11-year-old Bodhana Sivanandan, who continued her strong start by beating fifth seed Ameet Ghasi with the black pieces. | Photo: Yury Krylov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-4",
+         "pubDate" : "Wed, 05 Aug 2026 07:50:00",
+         "title" : "British Championship: Bazakutsa leads, Sivanandan among chasers"
+      },
+      {
+         "description" : "... as the Inaugural FIDE World University Team Chess Championship gets underway, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh National University as part of FIDE's Year of Chess in Education 2026, the championship celebrates not only sporting excellence, but also the growing role of chess in higher education.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/history-being-made-in-almaty",
+         "pubDate" : "Wed, 05 Aug 2026 02:40:00",
+         "title" : "History being made in Almaty"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132864124.cms\" />Savitha Shri Baskar never set out to become the family's chess star. She first picked up the game by watching her elder brother, but soon became the one her father chose to back. He quit his job in Singapore, pawned jewellery and stretched the family's finances to keep her career going. Now, at 19, Savitha is headed to the Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
+         "pubDate" : "Wed, 05 Aug 2026 00:30:00",
+         "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
+      },
+      {
          "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,19 +34,11 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Tue, 04 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
          "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-3",
-         "pubDate" : "Tue, 04 Aug 2026 15:25:11",
+         "pubDate" : "Tue, 04 Aug 2026 15:25:00",
          "title" : "Praggnanandhaa Leads 3rd Day, Trailed by Sindarov, Wesley So"
       },
       {
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/passport-visa-rs-67-lakh-worth-of-gear-lost-stranded-alone-in-europe-survival-of-16-year-old-md-imran-indias-upcoming-grandmaster/articleshow/132420109.cms",
          "pubDate" : "Thu, 16 Jul 2026 03:30:00",
          "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417912.cms\" />FIDE has approved a revamped qualification system for the 2028 Open and Women's Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
-         "pubDate" : "Wed, 15 Jul 2026 14:29:20",
-         "title" : "No rating-based spots! FIDE launches new qualification system for 2028 Candidates"
       }
    ]
 }
