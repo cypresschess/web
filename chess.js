@@ -58,6 +58,14 @@ news_feed (
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
       },
       {
+         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-2",
+         "pubDate" : "Wed, 05 Aug 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 2"
+      },
+      {
          "description" : "126th U.S. Open and Invitationals Ramp UpThe first double-round day is in the books at the 126th U.S. Open in Grand Rapids, MI. Players in the National Invitational tournaments are now halfway through their tournaments, and those in the 7-day schedule of the Open are now a third of the way through the event. Today we have Rounds 4 and 5 of the Invitationals and the 7-day Open, with commentary by WGM Sabina Foisor already underway on our Twitch channel. All annotations today come from Sabina!The 5-day schedule of the Open also begins today, with Round 1 beginning at 3 p.m. Weeramantry BlitzBefore Monday's first round, 216 state champions participated in the 7th Annual Weeramantry Blitz Tourna",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -432,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
          "pubDate" : "Tue, 28 Jul 2026 07:25:00",
          "title" : "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match"
-      },
-      {
-         "description" : "This week's puzzles begin our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month in St. Louis. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-junior-and-senior-championships-pt-1",
-         "pubDate" : "Tue, 28 Jul 2026 00:00:00",
-         "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 1"
       },
       {
          "description" : "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid &#38;amp; Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov&#39;s 3/4, the highest on team Uzbekis...",
