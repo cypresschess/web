@@ -18,6 +18,22 @@ news_feed (
          "title" : "British Chess Championship - Live!"
       },
       {
+         "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-3",
+         "pubDate" : "Tue, 04 Aug 2026 15:25:11",
+         "title" : "Praggnanandhaa Leads 3rd Day, Trailed by Sindarov, Wesley So"
+      },
+      {
+         "description" : "FM Bill Goichberg, the most prolific tournament organizer in the history of American chess, has passed at the age of 83. He leaves behind a lifetime of dedication to American chess in numerous roles, including as a competitor, tournament director,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bill-goichberg-1942-2026",
+         "pubDate" : "Tue, 04 Aug 2026 14:24:56",
+         "title" : "Bill Goichberg (1942-2026)"
+      },
+      {
          "description" : "Bianca Mitchell-Avila was 16 when she cold-emailed Hollywood star Keanu Reeves asking him to support her chess documentary, and perhaps face her in a final battle against &#34;John Wick.&#34; Five years later, she got her game. On Thursday, Mitchell-Avil...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
          "pubDate" : "Tue, 04 Aug 2026 09:25:00",
          "title" : "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month in St. Louis. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-junior-and-senior-championships-pt-2",
+         "pubDate" : "Tue, 04 Aug 2026 00:00:00",
+         "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 2"
       },
       {
          "description" : "126th U.S. Open Begins in MichiganThe official motto of Grand Rapids, MI is the Latin phrase motu viget, which translates as \"strength in activity.\" It's hard to think of a more apt phrase for the 126th U.S. Open, which began yesterday in \"Furniture City.\" In addition to the almost 500 players registered for the Open itself, almost 300 state champions began competing yesterday in the national invitational tournaments of state champions. Add on another 64 players who needed to get three classically rated games in before yesterday's evening round, and you're looking at a DeVos Convention Center abuzz with more activity than a King's Gambit Accepted. The theme of activity also carried over to y",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
       },
       {
-         "description" : "For its 250th birthday, the nation's capital continued its celebration of chess in the D.C. metropolitan area immediately after the World Open. Indeed, many players went straight from one event to the next! Atlantic Chess Association organized the 4th Annual Independence Day Open from July 5 through July 9 in Dulles, VA. The final standings are available here, and games from the top boards can be reviewed on both Chess.com and lichess. FA Peter Craney was the chief arbiter for this event. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Karthik Venkataraman won the tournament with a 7&frac12;/9 score. (All photos courtesy of the organizers)<br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/karthik-venkataraman-wins-4th-annual-independence-day-open-dulles",
-         "pubDate" : "Mon, 27 Jul 2026 00:00:00",
-         "title" : "Karthik Venkataraman Wins 4th Annual Independence Day Open in Dulles"
-      },
-      {
          "description" : "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,22 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
          "pubDate" : "Fri, 24 Jul 2026 11:16:00",
          "title" : "Alice Lee Eliminates Women's World Champion With 6-Point Margin"
-      },
-      {
-         "description" : "In chess slang, adoption means beating an opponent 10 games in a row. It&#39;s an impressive accomplishment against any strong player, but GM Vladimir Fedoseev managed it against a whole field of opponents in 3 0 Thursday on July 23. He won his first ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-yoo-fedoseev-3-0-thursday-07-23-2026",
-         "pubDate" : "Fri, 24 Jul 2026 09:44:30",
-         "title" : "Fedoseev Adopts The Field In 3 0 Thursday"
-      },
-      {
-         "description" : "Moscow-born Kazakh billionaire Timur Turlov has put himself forward as a candidate to become FIDE president, with GM Viswanathan Anand as his deputy. Turlov was planning to run for deputy president under Arkady Dvorkovich, but the European Union&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/timur-turlov-vishy-anand-fide-president",
-         "pubDate" : "Fri, 24 Jul 2026 08:21:00",
-         "title" : "Timur Turlov Bids To Become FIDE President, Vishy Anand As Deputy"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republic. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
