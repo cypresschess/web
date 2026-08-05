@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+         "pubDate" : "Wed, 05 Aug 2026 18:45:00",
+         "title" : "Saint Louis Rapid & Blitz - Live!"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
          "pubDate" : "Wed, 05 Aug 2026 00:30:00",
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
+      },
+      {
+         "description" : "126th U.S. Open and Invitationals Ramp UpThe first double-round day is in the books at the 126th U.S. Open in Grand Rapids, MI. Players in the National Invitational tournaments are now halfway through their tournaments, and those in the 7-day schedule of the Open are now a third of the way through the event. Today we have Rounds 4 and 5 of the Invitationals and the 7-day Open, with commentary by WGM Sabina Foisor already underway on our Twitch channel. All annotations today come from Sabina!The 5-day schedule of the Open also begins today, with Round 1 beginning at 3 p.m. Weeramantry BlitzBefore Monday's first round, 216 state champions participated in the 7th Annual Weeramantry Blitz Tourna",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/double-round-days-begin-grand-rapids",
+         "pubDate" : "Wed, 05 Aug 2026 00:00:00",
+         "title" : "Double Round Days Begin in Grand Rapids"
       },
       {
          "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-junior-and-senior-championships-pt-1",
          "pubDate" : "Tue, 28 Jul 2026 00:00:00",
          "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 1"
-      },
-      {
-         "description" : "Maurice Ashley Chess Fellowship Announces 2026 AwardeesNEW YORK, NY - July 23, 2026 - The Maurice Ashley Chess Fellowship (MACF), established by internationally renowned Chess Grandmaster Maurice Ashley in partnership with the US Chess Trust, today announced its 2026 class of recipients. Seven promising young players will receive a combined $31,000 to support tournament participation, coaching, supplies, and other essential expenses as they continue their development and pursue their goals at the highest levels of competitive chess.Now in its second year, the Fellowship continues GM Ashley's commitment to expanding access and opportunity for talented young players while addressing the severe",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/maurice-ashley-chess-fellowship-announces-2026-awardees",
-         "pubDate" : "Tue, 28 Jul 2026 00:00:00",
-         "title" : "Maurice Ashley Chess Fellowship Announces 2026 Awardees"
       },
       {
          "description" : "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid &#38;amp; Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov&#39;s 3/4, the highest on team Uzbekis...",
