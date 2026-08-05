@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Wed, 05 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu finished the rapid section of the Saint Louis Rapid & Blitz in first place with 12/18 points, despite losing to Jorden van Foreest in the final round. Javokhir Sindarov trails by one point, with Wesley So another point behind. Praggnanandhaa recorded four wins, four draws and one defeat across nine rounds, while also entering the top ten of the live rapid world rankings for the first time in his career. | Photo: Crystal Fuller / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-3",
+         "pubDate" : "Wed, 05 Aug 2026 10:35:00",
+         "title" : "Saint Louis Rapid & Blitz: Pragg wins rapid section despite final-round loss"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-confirms-new-dates-for-chess-nationals-after-gm-abhijeet-gupta-flags-2026-snub/articleshow/132906276.cms",
+         "pubDate" : "Wed, 05 Aug 2026 08:18:49",
+         "title" : "AICF confirms new dates for chess nationals after GM Abhijeet Gupta flags 2026 snub"
+      },
+      {
          "description" : "Svyatoslav Bazakutsa took sole possession of the lead at the British Chess Championship after defeating nine-time champion Michael Adams in round four. The 18-year-old Ukrainian now has a perfect 4/4, half a point ahead of a five-player chasing group. Among them is 11-year-old Bodhana Sivanandan, who continued her strong start by beating fifth seed Ameet Ghasi with the black pieces. | Photo: Yury Krylov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
          "pubDate" : "Wed, 05 Aug 2026 00:30:00",
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-         "pubDate" : "Tue, 04 Aug 2026 18:45:00",
-         "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2026-2/",
          "pubDate" : "Thu, 16 Jul 2026 21:25:20",
          "title" : "ECU GENERAL ASSEMBLY 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420109.cms\" />At 16, Indian chess prodigy Md Imran was stranded in Slovakia after a bus carrying his passport, visas and belongings left without him. Despite the ordeal, financial struggles and lack of institutional support, he played on to earn two Grandmaster norms. Now on the verge of becoming India's newest GM, Imran urgently awaits reissuance of his US visa to join his scholarship at UTRGV before August 23.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/passport-visa-rs-67-lakh-worth-of-gear-lost-stranded-alone-in-europe-survival-of-16-year-old-md-imran-indias-upcoming-grandmaster/articleshow/132420109.cms",
-         "pubDate" : "Thu, 16 Jul 2026 03:30:00",
-         "title" : "Passport lost, stranded alone in Europe: Survival of Md Imran, India's upcoming GM"
       }
    ]
 }
