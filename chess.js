@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu retained the lead after the first nine blitz rounds of the Saint Louis Rapid & Blitz, scoring 6/9 to extend his advantage over Javokhir Sindarov to 1&frac12; points. Sindarov remained the closest challenger after three consecutive wins, while Wesley So lost ground. The direct encounter between Sindarov and Pragg proved pivotal, as Sindarov failed to convert a winning pawn ending and had to settle for a draw. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-4",
+         "pubDate" : "Thu, 06 Aug 2026 11:00:00",
+         "title" : "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace"
+      },
+      {
          "description" : "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
          "pubDate" : "Thu, 06 Aug 2026 00:11:00",
          "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-         "pubDate" : "Wed, 05 Aug 2026 18:45:00",
-         "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "The 2026 Saint Louis Rapid &#38;amp; Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ...",
