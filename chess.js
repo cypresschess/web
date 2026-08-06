@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+         "pubDate" : "Thu, 06 Aug 2026 18:45:00",
+         "title" : "Saint Louis Rapid & Blitz - Live!"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,28 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace"
       },
       {
+         "description" : "Chess.com and Neuro are extending their partnership for another year. Neuro will continue to help advance Chess.com&#39;s mission to grow chess by supporting events like the Speed Chess Championship and the Champions Chess Tour. Neuro became an offic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-neuro-gum-partnership-extended",
+         "pubDate" : "Thu, 06 Aug 2026 10:06:00",
+         "title" : "Neuro Is Back Again For Another Year Of Focus And Chess"
+      },
+      {
          "description" : "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
          "pubDate" : "Thu, 06 Aug 2026 00:11:00",
          "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
+      },
+      {
+         "description" : "Meeting in the Middle<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aarav Karthik (L) makes his move against IM Jason Liang in Round 4. (Photo by David Llada)<br> <br> <br> <br> Any chessplayer who has lost 20 minutes on the clock while analyzing a position for what felt like 20 seconds can tell you that time is relative, and that's how it feels today at the 126th U.S. Open, in Grand Rapids, Mich. Thursday is the halfway point of the longest Open schedule, the 7-day; it's also the last day of the National Invitational tournaments, while the hyper-accelerated 4-day schedule of the Open is just beginning! A full schedule of the day's events is available",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-open-day-3-matter-perspective",
+         "pubDate" : "Thu, 06 Aug 2026 00:00:00",
+         "title" : "U.S. Open Day 3: A Matter of Perspective"
       },
       {
          "description" : "The 2026 Saint Louis Rapid &#38;amp; Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ...",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Global Chess League Contenders Returns On August 7 As Pathway To World Stage"
       },
       {
-         "description" : "This week's puzzles begin our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-1",
-         "pubDate" : "Wed, 29 Jul 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 1"
-      },
-      {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
          "pubDate" : "Sun, 26 Jul 2026 01:17:36",
          "title" : "'Gens Una Sumus' - What three Latin words beneath a chess emblem taught me about the world"
-      },
-      {
-         "description" : "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&#38;nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-july-25-2026",
-         "pubDate" : "Sat, 25 Jul 2026 17:21:00",
-         "title" : "20-Point Comeback Seals Stunning Tiebreak Victory For Le"
       },
       {
          "description" : "One of the key aspects of chess playing that gets misunderstood is how to use strategy in a real game. Seeing Grandmasters and YouTubers explain so many interesting concepts can easily persuade you to try too hard to understand &#38; apply strategic concepts. Today I want to share a super simple rule of thumb: If []",
