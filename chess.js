@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Thu, 06 Aug 2026 15:30:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Bewdley's Mayor, Sharon Harvey, arranged for Robert to drop into the Worcestershire Junior Chess Congress see BBC Hereford &#38; Worcester for picture and more https://www.bbc.co.uk/news/articles/cly914w625xo",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/led-zeppelins-robert-plant-drops-into-play-chess-at-bewdley/",
+         "pubDate" : "Thu, 06 Aug 2026 15:21:17",
+         "title" : "Led Zeppelin's Robert Plant drops into play chess at Bewdley!"
+      },
+      {
+         "description" : "In the International Women's Tournament at the Dortmund Chess Festival, Dinara Wagner (pictured) moved into first place after defeating the previous leader, Nataliya Buksa. As Klaudia Kulon, who had been level on points with Wagner, lost to Song Yuxin, Wagner now holds a half-point lead after three of six rounds. In the A Open, defending champion Matthias Bluebaum also looked well-prepared and defeated the previous sole leader, Amilal Munkhdalai. Bluebaum now shares the lead with Kacper Piorun and Yu Tian Poh. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-d5",
+         "pubDate" : "Thu, 06 Aug 2026 13:40:00",
+         "title" : "Dortmund: Dinara Wagner and Matthias Bluebaum grab crucial wins"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu retained the lead after the first nine blitz rounds of the Saint Louis Rapid & Blitz, scoring 6/9 to extend his advantage over Javokhir Sindarov to 1&frac12; points. Sindarov remained the closest challenger after three consecutive wins, while Wesley So lost ground. The direct encounter between Sindarov and Pragg proved pivotal, as Sindarov failed to convert a winning pawn ending and had to settle for a draw. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +50,6 @@ news_feed (
          "title" : "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov"
       },
       {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Wed, 05 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
-      },
-      {
          "description" : "Praggnanandhaa Rameshbabu finished the rapid section of the Saint Louis Rapid & Blitz in first place with 12/18 points, despite losing to Jorden van Foreest in the final round. Javokhir Sindarov trails by one point, with Wesley So another point behind. Praggnanandhaa recorded four wins, four draws and one defeat across nine rounds, while also entering the top ten of the live rapid world rankings for the first time in his career. | Photo: Crystal Fuller / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-confirms-new-dates-for-chess-nationals-after-gm-abhijeet-gupta-flags-2026-snub/articleshow/132906276.cms",
          "pubDate" : "Wed, 05 Aug 2026 08:18:49",
          "title" : "AICF confirms new dates for chess nationals after GM Abhijeet Gupta flags 2026 snub"
-      },
-      {
-         "description" : "Svyatoslav Bazakutsa took sole possession of the lead at the British Chess Championship after defeating nine-time champion Michael Adams in round four. The 18-year-old Ukrainian now has a perfect 4/4, half a point ahead of a five-player chasing group. Among them is 11-year-old Bodhana Sivanandan, who continued her strong start by beating fifth seed Ameet Ghasi with the black pieces. | Photo: Yury Krylov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-4",
-         "pubDate" : "Wed, 05 Aug 2026 07:50:00",
-         "title" : "British Championship: Bazakutsa leads, Sivanandan among chasers"
       },
       {
          "description" : "... as the Inaugural FIDE World University Team Chess Championship gets underway, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh National University as part of FIDE's Year of Chess in Education 2026, the championship celebrates not only sporting excellence, but also the growing role of chess in higher education.",
@@ -146,14 +154,6 @@ news_feed (
          "title" : "European Junior U20 Chess Championship 2026 starts"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu remained in sole first place after six rounds of the Saint Louis Rapid & Blitz, extending his lead to 2 points over Javokhir Sindarov. The Indian GM defeated Awonder Liang and drew his other two games on day two, including a 117-move encounter with Wesley So. Despite several missed opportunities and fluctuating positions, only two of the day's games ended decisively. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
-         "pubDate" : "Tue, 04 Aug 2026 09:25:00",
-         "title" : "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place"
-      },
-      {
          "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month in St. Louis. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/strength-activity-us-open-begins",
          "pubDate" : "Tue, 04 Aug 2026 00:00:00",
          "title" : "Strength in Activity as U.S. Open Begins"
-      },
-      {
-         "description" : "In his latest column, Jon Speelman moves from Hatfield House and Queen Elizabeth's Oak to a series of chess puzzles, with rook endings, defensive choices and a spoof opening line among the themes. He also introduces the idea of a \"Fluffy Duck\" opening, inspired by an advocaat-based cocktail, and invites readers to suggest a suitable variation! | Photo: Puredrinkology",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-242",
-         "pubDate" : "Mon, 03 Aug 2026 23:50:00",
-         "title" : "Jon Speelman: Castles by the trees and Fluffy Ducks"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
