@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
+         "pubDate" : "Thu, 06 Aug 2026 00:11:00",
+         "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
+      },
+      {
          "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Wed, 05 Aug 2026 18:18:25",
+         "pubDate" : "Wed, 05 Aug 2026 18:18:00",
          "title" : "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov"
       },
       {
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-to-use-strategy-in-chess-game/",
          "pubDate" : "Sat, 25 Jul 2026 13:00:00",
          "title" : "How To Use Strategy In A Game"
-      },
-      {
-         "description" : "GM Levon Aronian emerged as the winner of the Biel Masters&#38;mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &#38;euro;10,750 or $12,250). The 59th edition of the festival had a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
-         "pubDate" : "Fri, 24 Jul 2026 19:03:18",
-         "title" : "Aronian Wins Biel Masters 2026"
       },
       {
          "description" : "The Vugar Gashimov Chess Open 2026 officially commences in Baku, and will be played from 24 to 30 July at the Baku Olympic Hall. Organized in honor of late Grandmaster Vugar Gashimov, this year's tournament holds special significance as it marks the 40th anniversary of his birth. Ahead of the event's opening, on the morning of July 24, family members, friends, players and colleagues visited GM Vugar Gashimov's grave to mark his birthday and pay tribute to his lasting legacy []",
