@@ -10,6 +10,14 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
+         "description" : "The 2026 Saint Louis Rapid &#38;amp; Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
+         "pubDate" : "Wed, 05 Aug 2026 18:18:25",
+         "title" : "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -94,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/keanu-reeves-mitchell-avila-madwomans-game-chess",
-         "pubDate" : "Tue, 04 Aug 2026 13:03:23",
+         "pubDate" : "Tue, 04 Aug 2026 13:03:00",
          "title" : "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess"
       },
       {
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
          "pubDate" : "Fri, 24 Jul 2026 12:44:59",
          "title" : "India name Chess Olympiad squads as Gukesh, Praggnanandhaa, Vaishali lead title defence"
-      },
-      {
-         "description" : "IM Alice Lee upset Women&#39;s World Champion and reigning WSCC Champion GM Ju Wenjun on Friday in the 2026 Women&#39;s Speed Chess Championship Quarterfinals. Lee dominated all three portions and won the match with a shockingly one-sided 9.5-3.5 score. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
-         "pubDate" : "Fri, 24 Jul 2026 11:16:00",
-         "title" : "Alice Lee Eliminates Women's World Champion With 6-Point Margin"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republic. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
