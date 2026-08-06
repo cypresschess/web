@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the early years of the British Championship, Henry Atkins won the title seven times in succession between 1905 and 1911, before adding two more victories later on. This made him the record holder until the 1960s. What makes this achievement especially remarkable is that Atkins was essentially an amateur player who rarely competed in other tournaments. | Photo: Theo F Gidden, Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/henry-atkins-profile-2026",
+         "pubDate" : "Fri, 07 Aug 2026 00:15:00",
+         "title" : "Henry Atkins: Brilliant amateur, nine-time British champion"
+      },
+      {
          "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,22 @@ news_feed (
          "title" : "Led Zeppelin's Robert Plant drops into play chess at Bewdley!"
       },
       {
+         "description" : "GMs Vladislav Artemiev, Parham Maghsoodloo, Wei Yi, Oleksandr Bortnyk, and Alexander Grischuk have snatched the five spots available in the $1.5 million 2026 Esports World Cup after competing in the three-day Last Chance Qualifier in Paris. They&#39;r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-lcq-day-1",
+         "pubDate" : "Thu, 06 Aug 2026 15:19:00",
+         "title" : "Artemiev, Maghsoodloo, Wei, Bortnyk, Grischuk Grab Last Spots In Esports World Cup"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu won his maiden title and $50,000 in the 2026 Saint Louis Rapid &#38;amp; Blitz on Thursday. Though GM Javokhir Sindarov came within a half-point of catching him, Praggnanandhaa never let go of the lead in all five days of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-saint-louis-rapid-and-blitz",
+         "pubDate" : "Thu, 06 Aug 2026 14:32:00",
+         "title" : "Praggnanandhaa Wins 2026 Saint Louis Rapid & Blitz With Round To Spare"
+      },
+      {
          "description" : "In the International Women's Tournament at the Dortmund Chess Festival, Dinara Wagner (pictured) moved into first place after defeating the previous leader, Nataliya Buksa. As Klaudia Kulon, who had been level on points with Wagner, lost to Song Yuxin, Wagner now holds a half-point lead after three of six rounds. In the A Open, defending champion Matthias Bluebaum also looked well-prepared and defeated the previous sole leader, Amilal Munkhdalai. Bluebaum now shares the lead with Kacper Piorun and Yu Tian Poh. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace"
       },
       {
-         "description" : "Chess.com and Neuro are extending their partnership for another year. Neuro will continue to help advance Chess.com&#39;s mission to grow chess by supporting events like the Speed Chess Championship and the Champions Chess Tour. Neuro became an offic...",
+         "description" : "Chess.com and Neuro are extending their partnership for another year. Neuro will continue to help advance Chess.com&#39;s mission to grow chess by supporting events like the Speed Chess Championship and the Champions Chess Tour. Neuro became Chess.co...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-neuro-gum-partnership-extended",
@@ -474,14 +498,6 @@ news_feed (
          "title" : "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess"
       },
       {
-         "description" : "A run of 11 wins in 12 games saw 16-year-old IM Alice Lee overwhelm FM Anastasia Avramidou to reach the Final of the 2026 Women&#39;s Speed Chess Championship. She&#39;ll face the winner of GM Bibisara Assaubayeva vs. GM Hou Yifan, after the women&#39;s numbe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
-         "pubDate" : "Mon, 27 Jul 2026 15:25:00",
-         "title" : "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5"
-      },
-      {
          "description" : "The 2026 European Youth Team Chess Championship officially commenced yesterday at Enteria Arena in Pardubice, Czech Republic! Played across U12 and U18 age categories (Open and Girls sections separately), the tournament set a new participation record with 66 teams and 218 players. Each tournament is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for every move played starting from move 1. The Opening ceremony of the event took place yesterday, shortly []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-makes-u-turn-rejoins-fide-election-race/articleshow/132651100.cms",
          "pubDate" : "Mon, 27 Jul 2026 02:52:04",
          "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
-      },
-      {
-         "description" : "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/akopian-wins-us-senior-championship",
-         "pubDate" : "Sun, 26 Jul 2026 04:29:00",
-         "title" : "Akopian Wins U.S. Senior Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132635468.cms\" />India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
          "pubDate" : "Fri, 17 Jul 2026 07:00:01",
          "title" : "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize"
-      },
-      {
-         "description" : "ECU is publishing the complete list of those entitled to vote for the ECU General Assembly and elections on 18th July 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2026-2/",
-         "pubDate" : "Thu, 16 Jul 2026 21:25:20",
-         "title" : "ECU GENERAL ASSEMBLY 2026"
       }
    ]
 }
