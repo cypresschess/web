@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Fri, 07 Aug 2026 15:20:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu won the Saint Louis Rapid & Blitz after leading the tournament from start to finish. The Indian grandmaster secured the title with a round to spare by holding Javokhir Sindarov in their penultimate-round encounter, before finishing 1&frac12; points clear. The result moved Praggnanandhaa into second place in the Grand Chess Tour standings ahead of the Sinquefield Cup. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
          "pubDate" : "Thu, 06 Aug 2026 18:45:00",
          "title" : "Saint Louis Rapid & Blitz - Live!"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Thu, 06 Aug 2026 15:30:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "Bewdley's Mayor, Sharon Harvey, arranged for Robert to drop into the Worcestershire Junior Chess Congress see BBC Hereford &#38; Worcester for picture and more https://www.bbc.co.uk/news/articles/cly914w625xo",
