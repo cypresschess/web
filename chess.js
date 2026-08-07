@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana explains why controlling the centre remains important throughout every phase of a chess game. Using an instructive encounter between Vassily Ivanchuk and Anatoly Karpov, she shows how central control creates space, restricts the opponent's pieces and provides clear plans. The game also demonstrates how powerful central pawns and an active king can become in the endgame, ultimately allowing Karpov to take control and win.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-control-the-centre-control-the-game",
+         "pubDate" : "Fri, 07 Aug 2026 18:00:00",
+         "title" : "Svitlana's Smart Moves - Control the centre, control the game!"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
          "pubDate" : "Fri, 07 Aug 2026 15:20:00",
          "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "WCM Modipalli Deekshitha soared from 1985 to a live rating of 2454 in four European tournaments, climbing to second in the world among girls under 20. Just over a month ago, the 14-year-old Indian from Hyderabad was rated below 2000. Now she has ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/deekshitha-modipalli-469-rating-points-im-norm",
+         "pubDate" : "Fri, 07 Aug 2026 11:46:37",
+         "title" : "14-Year-Old Jumps 469 Rating Points To 2454 In One Month, Earns 1st IM Norm"
+      },
+      {
+         "description" : "GM Pranesh M scored a nearly perfect result in the first 3 0 Thursday on August 6. His 10.5/11 score tied the record for the most dominant run in the history of the tournament. In the second tournament of the day, GM Jan-Krzysztof Duda caught GM A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-duda-atanasov-3-0-thursday-08-06-2026",
+         "pubDate" : "Fri, 07 Aug 2026 10:02:02",
+         "title" : "Pranesh Dominates 3 0 Thursday"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu won the Saint Louis Rapid & Blitz after leading the tournament from start to finish. The Indian grandmaster secured the title with a round to spare by holding Javokhir Sindarov in their penultimate-round encounter, before finishing 1&frac12; points clear. The result moved Praggnanandhaa into second place in the Grand Chess Tour standings ahead of the Sinquefield Cup. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -158,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bill-goichberg-1942-2026",
-         "pubDate" : "Tue, 04 Aug 2026 14:24:56",
+         "pubDate" : "Tue, 04 Aug 2026 14:24:00",
          "title" : "Bill Goichberg (1942-2026)"
       },
       {
@@ -464,22 +488,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-government-launches-nationwide-initiative-to-introduce-structured-chess-education-in-indian-schools/articleshow/132678169.cms",
          "pubDate" : "Tue, 28 Jul 2026 07:38:34",
          "title" : "AICF, government launches nationwide initiative to introduce structured chess education in Indian schools"
-      },
-      {
-         "description" : "Geneva, Switzerland will host the 2026 FIDE World Championship between Indian World Champion Gukesh Dommaraju and his Uzbek challenger GM Javokhir Sindarov, with the 14-game match running November 25 to December 15. FIDE Interim President GM Viswa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
-         "pubDate" : "Tue, 28 Jul 2026 07:25:00",
-         "title" : "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match"
-      },
-      {
-         "description" : "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid &#38;amp; Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov&#39;s 3/4, the highest on team Uzbekis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wr-chess-rapid-blitz-miami-usa-vs-uzbekistan",
-         "pubDate" : "Mon, 27 Jul 2026 17:30:00",
-         "title" : "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess"
       },
       {
          "description" : "The 2026 European Youth Team Chess Championship officially commenced yesterday at Enteria Arena in Pardubice, Czech Republic! Played across U12 and U18 age categories (Open and Girls sections separately), the tournament set a new participation record with 66 teams and 218 players. Each tournament is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for every move played starting from move 1. The Opening ceremony of the event took place yesterday, shortly []",
