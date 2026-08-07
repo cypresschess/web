@@ -18,6 +18,14 @@ news_feed (
          "title" : "British Chess Championship - Live!"
       },
       {
+         "description" : "GM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wscc-alice-lee-beats-hou-yifan-wins-title",
+         "pubDate" : "Fri, 07 Aug 2026 13:57:00",
+         "title" : "16-Year-Old Alice Lee Wins Women's Speed Chess Championship"
+      },
+      {
          "description" : "WCM Modipalli Deekshitha soared from 1985 to a live rating of 2454 in four European tournaments, climbing to second in the world among girls under 20. Just over a month ago, the 14-year-old Indian from Hyderabad was rated below 2000. Now she has ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/henry-atkins-profile-2026",
          "pubDate" : "Fri, 07 Aug 2026 00:15:00",
          "title" : "Henry Atkins: Brilliant amateur, nine-time British champion"
+      },
+      {
+         "description" : "2026 Olympiad for People with Disabilities Team AnnouncedThe 3rd FIDE Olympiad for People with Disabilities will take place from September 10 through 17 in Samarkand, Uzbekistan. Team USA returns three members of last year's team, which finished tied for sixth in Almaty, Kazakhstan. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo courtesy of FIDE)<br> <br> The following is the list of official players. Captain will be determined by player vote, and this page will be updated after the vote has taken place. The McConnell brothers and Celine Atassi return from last year's tea",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/team-usa-announced-3rd-olympiad-people-disabilities",
+         "pubDate" : "Fri, 07 Aug 2026 00:00:00",
+         "title" : "Team USA Announced for 3rd Olympiad for People with Disabilities"
       },
       {
          "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
@@ -394,14 +410,6 @@ news_feed (
          "title" : "What to Expect at the 126th U.S. Open"
       },
       {
-         "description" : "If a tournament is both FIDE and US Chess rated there are bound to be some rules conflicts. If your TD follows a FIDE rule when it bumps up against a similar, but slightly different, US Chess rule, then the tournament stands a good chance of being rated in both systems. If you wait to file a claim after your game is finished, the chances decrease that your quest will be successful. The time to make a claim is when the infraction occurs. Take your time finding your pairing. Take your time locating your assigned board. When your opponent beats you in the race to that area, they will typically set up their standard equipment first. That saves you the time and trouble of not only setting things ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-fyi",
-         "pubDate" : "Thu, 30 Jul 2026 00:00:00",
-         "title" : "Just the Rules: FYI"
-      },
-      {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
          "pubDate" : "Tue, 28 Jul 2026 17:18:00",
          "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
-      },
-      {
-         "description" : "GM Alireza Firouzja returned to Titled Tuesday on July 28 and won the event outright with a score of 9.5/11, including ripping off seven straight wins from rounds four through 10. The win was Firouzja&#39;s first of 2026 after he posted four victories...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-july-28-2026",
-         "pubDate" : "Tue, 28 Jul 2026 13:37:24",
-         "title" : "7-Game Win Streak Carries Firouzja Through Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
