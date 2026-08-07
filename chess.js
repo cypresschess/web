@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu won the Saint Louis Rapid & Blitz after leading the tournament from start to finish. The Indian grandmaster secured the title with a round to spare by holding Javokhir Sindarov in their penultimate-round encounter, before finishing 1&frac12; points clear. The result moved Praggnanandhaa into second place in the Grand Chess Tour standings ahead of the Sinquefield Cup. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-5",
+         "pubDate" : "Fri, 07 Aug 2026 08:10:00",
+         "title" : "Praggnanandhaa wins St. Louis Rapid & Blitz after leading from start to finish"
+      },
+      {
+         "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-championship-game-since-1988-to-rising-star",
+         "pubDate" : "Fri, 07 Aug 2026 07:00:12",
+         "title" : "Chess: Adams loses first British Championship game since 1988 to rising star"
+      },
+      {
+         "description" : "The group stage of the inaugural FIDE World University Team Championship Finals came to an exciting conclusion on Thursday in Almaty, Kazakhstan, with the eight quarterfinalists now confirmed after three days of intense competition. With all sixteen participating universities in action for the final time, the last rounds determined which teams would continue their quest for the inaugural title and which would conclude their championship journey.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-university-team-championship-eight-teams-advance",
+         "pubDate" : "Fri, 07 Aug 2026 06:05:00",
+         "title" : "World University Team Championship: Eight teams advance"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133022348.cms\" />Indian Grandmaster R Praggnanandhaa won his first Saint Louis Rapid &amp; Blitz title with a round to spare after a dominant performance in the tournament. The 20-year-old finished on top with 23.5 points and also climbed to second place in the overall Grand Chess Tour standings, boosting his chances of qualifying for the season-ending Finals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-maiden-saint-louis-rapid-blitz-title/articleshow/133022348.cms",
+         "pubDate" : "Fri, 07 Aug 2026 05:37:47",
+         "title" : "R Praggnanandhaa wins maiden Saint Louis Rapid &amp; Blitz title"
+      },
+      {
          "description" : "In the early years of the British Championship, Henry Atkins won the title seven times in succession between 1905 and 1911, before adding two more victories later on. This made him the record holder until the 1960s. What makes this achievement especially remarkable is that Atkins was essentially an amateur player who rarely competed in other tournaments. | Photo: Theo F Gidden, Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,22 +82,6 @@ news_feed (
          "title" : "Praggnanandhaa Wins 2026 Saint Louis Rapid & Blitz With Round To Spare"
       },
       {
-         "description" : "In the International Women's Tournament at the Dortmund Chess Festival, Dinara Wagner (pictured) moved into first place after defeating the previous leader, Nataliya Buksa. As Klaudia Kulon, who had been level on points with Wagner, lost to Song Yuxin, Wagner now holds a half-point lead after three of six rounds. In the A Open, defending champion Matthias Bluebaum also looked well-prepared and defeated the previous sole leader, Amilal Munkhdalai. Bluebaum now shares the lead with Kacper Piorun and Yu Tian Poh. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-d5",
-         "pubDate" : "Thu, 06 Aug 2026 13:40:00",
-         "title" : "Dortmund: Dinara Wagner and Matthias Bluebaum grab crucial wins"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu retained the lead after the first nine blitz rounds of the Saint Louis Rapid & Blitz, scoring 6/9 to extend his advantage over Javokhir Sindarov to 1&frac12; points. Sindarov remained the closest challenger after three consecutive wins, while Wesley So lost ground. The direct encounter between Sindarov and Pragg proved pivotal, as Sindarov failed to convert a winning pawn ending and had to settle for a draw. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-4",
-         "pubDate" : "Thu, 06 Aug 2026 11:00:00",
-         "title" : "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace"
-      },
-      {
          "description" : "Chess.com and Neuro are extending their partnership for another year. Neuro will continue to help advance Chess.com&#39;s mission to grow chess by supporting events like the Speed Chess Championship and the Champions Chess Tour. Neuro became Chess.co...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,28 +114,12 @@ news_feed (
          "title" : "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu finished the rapid section of the Saint Louis Rapid & Blitz in first place with 12/18 points, despite losing to Jorden van Foreest in the final round. Javokhir Sindarov trails by one point, with Wesley So another point behind. Praggnanandhaa recorded four wins, four draws and one defeat across nine rounds, while also entering the top ten of the live rapid world rankings for the first time in his career. | Photo: Crystal Fuller / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-3",
-         "pubDate" : "Wed, 05 Aug 2026 10:35:00",
-         "title" : "Saint Louis Rapid & Blitz: Pragg wins rapid section despite final-round loss"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-confirms-new-dates-for-chess-nationals-after-gm-abhijeet-gupta-flags-2026-snub/articleshow/132906276.cms",
          "pubDate" : "Wed, 05 Aug 2026 08:18:49",
          "title" : "AICF confirms new dates for chess nationals after GM Abhijeet Gupta flags 2026 snub"
-      },
-      {
-         "description" : "... as the Inaugural FIDE World University Team Chess Championship gets underway, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh National University as part of FIDE's Year of Chess in Education 2026, the championship celebrates not only sporting excellence, but also the growing role of chess in higher education.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/history-being-made-in-almaty",
-         "pubDate" : "Wed, 05 Aug 2026 02:40:00",
-         "title" : "History being made in Almaty"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132864124.cms\" />Savitha Shri Baskar never set out to become the family's chess star. She first picked up the game by watching her elder brother, but soon became the one her father chose to back. He quit his job in Singapore, pawned jewellery and stretched the family's finances to keep her career going. Now, at 19, Savitha is headed to the Olympiad.",
@@ -168,22 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/keanu-reeves-mitchell-avila-madwomans-game-chess",
          "pubDate" : "Tue, 04 Aug 2026 13:03:00",
          "title" : "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess"
-      },
-      {
-         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-5",
-         "pubDate" : "Tue, 04 Aug 2026 13:00:01",
-         "title" : "ChessBase Summer-Special! - Part 5"
-      },
-      {
-         "description" : "Do you know the feeling? You often come out of the opening with a promising position, only to struggle to convert your advantage because you do not fully understand the resulting middlegame. Jochen Schwarz, a club player from Bremen, wants to improve this aspect of his game and has enlisted Ivan Sokolov as his \"coach\" through the video series Understanding Middlegame Strategies. In the third and final part of his review, he looks at three courses (12 to 14) devoted to reversed-colour openings and their strategic characteristics, hoping to gain a better understanding of how to meet these systems with the black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-my-sokolov-strategy-part-3",
-         "pubDate" : "Tue, 04 Aug 2026 13:00:00",
-         "title" : "Review: My \"Sokolov-Strategy\" - Part 3"
       },
       {
          "description" : "A week ahead of the start of the Esports World Cup main event, in which he will attempt to defend last year&#39;s title, GM Magnus Carlsen won Titled Tuesday on August 4. Carlsen scored 9.5 points and held a slightly better tiebreak over GM Arjun Erig...",
@@ -720,22 +704,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/real-growth-happens-through-discomfort/",
          "pubDate" : "Sat, 18 Jul 2026 13:00:00",
          "title" : "Real Growth Happens Through Discomfort"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132461181.cms\" />Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-excellence-awards-shortlist-gukesh-praggnanandhaa-and-divya-deshmukh-lead-indias-strong-showing/articleshow/132461181.cms",
-         "pubDate" : "Fri, 17 Jul 2026 13:02:06",
-         "title" : "FIDE Excellence Awards shortlists: Gukesh, Praggnanandhaa and Divya Deshmukh lead India's strong showing"
-      },
-      {
-         "description" : " Two of the top four chess nations will go head to head in Miami on 27-28 July The USA and Uzbekistan are among the world's current four best chess teams, along with India and China, so the announcement that the pair will meet at Miami on 27-28 July in an all-play-all rapid and blitz Scheveningen format is sure to create interest as a guide to what may happen when the 200-nation classical Olympiad takes place in Samarkand, Uzbekistan, from 15-27 September. Full details of the forthcoming match <a href=\"https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026#player\">are here</a>. The two teams in Miami will both be at virtually full strength. The USA will field the world Nos 2 and 3",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
-         "pubDate" : "Fri, 17 Jul 2026 07:00:01",
-         "title" : "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize"
       }
    ]
 }
