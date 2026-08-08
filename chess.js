@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shreyas Royal has taken the sole lead at the British Chess Championship after seven rounds in Coventry. The 17-year-old followed a draw against Svyatoslav Bazakutsa with consecutive wins over Bodhana Sivanandan and top seed Luke McShane to reach 6/7. Bazakutsa is among five players half a point behind. Royal will face nine-time British champion Michael Adams in Saturday's penultimate round. | Photo: Yury Krylov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-7",
+         "pubDate" : "Sat, 08 Aug 2026 09:45:00",
+         "title" : "British Championship: Royal upsets McShane, grabs the sole lead"
+      },
+      {
          "description" : "Reversed-colour Benoni, Blumenfeld and Benko structures are the focus of Volume 14 of Ivan Sokolov's Understanding Middlegame Strategy series. Hannes Langrock, an International Master, editor at a fiction publishing house and player for ESV Nickelh&uuml;tte Aue, reviews the course. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-control-the-centre-control-the-game",
          "pubDate" : "Fri, 07 Aug 2026 18:00:00",
          "title" : "Svitlana's Smart Moves - Control the centre, control the game!"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Fri, 07 Aug 2026 15:20:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "GM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
