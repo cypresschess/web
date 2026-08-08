@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Reversed-colour Benoni, Blumenfeld and Benko structures are the focus of Volume 14 of Ivan Sokolov's Understanding Middlegame Strategy series. Hannes Langrock, an International Master, editor at a fiction publishing house and player for ESV Nickelh&uuml;tte Aue, reviews the course. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-ivan-sokolov-understanding-middlegame-strategy-part-14",
+         "pubDate" : "Sat, 08 Aug 2026 08:00:00",
+         "title" : "Review: Ivan Sokolov - Understanding Middlegame Strategy (Part 14)"
+      },
+      {
          "description" : "Day four of the FIDE World University Team Championship Finals began away from the chessboard, as participants traded the playing hall for the mountains surrounding Almaty. Before the start of the quarterfinals, players had an opportunity to visit Shymbulak, one of the city's best-known mountain destinations. After three intense days of group-stage competition, the morning excursion gave the students a chance to experience another side of Almaty and spend time together before returning to the tournament venue for the start of the knockout stage. A few hours later, attention turned firmly back to chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
