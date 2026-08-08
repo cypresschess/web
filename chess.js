@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Sat, 08 Aug 2026 15:20:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
+         "description" : "Now it's time to talk about the weight of extra knowledge. Last week's analogy (You already know more than you can use): knowledge is the gear, skill is the body you built for the hike. This week, why loading gear you don't need costs you. The Extra Weight Same body, more weight, and you're slower []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/extra-knowledge-weight-in-chess/",
+         "pubDate" : "Sat, 08 Aug 2026 13:00:00",
+         "title" : "The weight of what you know"
+      },
+      {
          "description" : "Shreyas Royal has taken the sole lead at the British Chess Championship after seven rounds in Coventry. The 17-year-old followed a draw against Svyatoslav Bazakutsa with consecutive wins over Bodhana Sivanandan and top seed Luke McShane to reach 6/7. Bazakutsa is among five players half a point behind. Royal will face nine-time British champion Michael Adams in Saturday's penultimate round. | Photo: Yury Krylov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
          "pubDate" : "Sun, 19 Jul 2026 06:32:37",
          "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
-      },
-      {
-         "description" : "I keep getting the same question from Real Chess Training students: &#8220;The 6 positions in 45 minutes really push me. Can I adjust it a little bit to make it easier?&#8221; My answer is, and always will be: no. The difficulty is the whole point. A World of Comfort We've confused comfort with success. And []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/real-growth-happens-through-discomfort/",
-         "pubDate" : "Sat, 18 Jul 2026 13:00:00",
-         "title" : "Real Growth Happens Through Discomfort"
       }
    ]
 }
