@@ -42,6 +42,14 @@ news_feed (
          "title" : "World University Team Championship Finals: Four teams advance"
       },
       {
+         "description" : "After four and a half days of varying schedules, Friday night's Round 7 at the 126th U.S. Open, in Grand Rapids, Mich., saw all the players merge into one section, making it easier for fans (and, um, journalists) to figure out exactly who was leading.The Board 1 battle was quick and peaceful Friday night - tournament leader GM Gregoriy Oparin drew in eight moves against GM Christopher Yoo to stay in the lead with 6&frac12;/7, but IM Bohdan Bilovil moved into a tie for the lead by downing GM Bryan Smith with black in a Classical French with opposite-side castling. White's pawn sacrifice didn't work, and it wasn't long before the kingside, where White's king lived. The tactics followed quickly",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/all-together-now-day-5-us-open",
+         "pubDate" : "Sat, 08 Aug 2026 00:00:00",
+         "title" : "All Together Now: Day 5 at the U.S. Open"
+      },
+      {
          "description" : "In this episode, Svitlana explains why controlling the centre remains important throughout every phase of a chess game. Using an instructive encounter between Vassily Ivanchuk and Anatoly Karpov, she shows how central control creates space, restricts the opponent's pieces and provides clear plans. The game also demonstrates how powerful central pawns and an active king can become in the endgame, ultimately allowing Karpov to take control and win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-us-chess-awards-recipients",
          "pubDate" : "Fri, 31 Jul 2026 00:00:00",
          "title" : "2026 US Chess Awards Recipients"
-      },
-      {
-         "description" : "Check is in the MailThis month we take over the helm as Games Editor. Having recently lost as Black to a King's Gambit Accepted (KGA) in a Golden Knights Final (not by some tactical shot but a clerical error, more on that someday), I thought it would be interesting to see how many KGA games have been played in US Chess CC events. Searching the ICCF games database, I was able to find 134 games played over the past 25 years, from all levels of competition. Of course, this database does not include those played through the \"traditional\" mail or email. Let's dive in! Return of the King('s Gambit)\"Theory regards this opening as incorrect, but it is impossible to agree with this. Out of the five t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-august-2026-return-kings-gambit",
-         "pubDate" : "Fri, 31 Jul 2026 00:00:00",
-         "title" : "Check is in the Mail August 2026: Return of the King('s Gambit)"
       },
       {
          "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
