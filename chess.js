@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day four of the FIDE World University Team Championship Finals began away from the chessboard, as participants traded the playing hall for the mountains surrounding Almaty. Before the start of the quarterfinals, players had an opportunity to visit Shymbulak, one of the city's best-known mountain destinations. After three intense days of group-stage competition, the morning excursion gave the students a chance to experience another side of Almaty and spend time together before returning to the tournament venue for the start of the knockout stage. A few hours later, attention turned firmly back to chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-university-team-championship-finals-four-teams-advance",
+         "pubDate" : "Sat, 08 Aug 2026 02:00:00",
+         "title" : "World University Team Championship Finals: Four teams advance"
+      },
+      {
          "description" : "In this episode, Svitlana explains why controlling the centre remains important throughout every phase of a chess game. Using an instructive encounter between Vassily Ivanchuk and Anatoly Karpov, she shows how central control creates space, restricts the opponent's pieces and provides clear plans. The game also demonstrates how powerful central pawns and an active king can become in the endgame, ultimately allowing Karpov to take control and win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/deekshitha-modipalli-469-rating-points-im-norm",
-         "pubDate" : "Fri, 07 Aug 2026 11:46:37",
+         "pubDate" : "Fri, 07 Aug 2026 11:46:00",
          "title" : "14-Year-Old Jumps 469 Rating Points To 2454 In One Month, Earns 1st IM Norm"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pranesh-duda-atanasov-3-0-thursday-08-06-2026",
          "pubDate" : "Fri, 07 Aug 2026 10:02:02",
          "title" : "Pranesh Dominates 3 0 Thursday"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu won the Saint Louis Rapid & Blitz after leading the tournament from start to finish. The Indian grandmaster secured the title with a round to spare by holding Javokhir Sindarov in their penultimate-round encounter, before finishing 1&frac12; points clear. The result moved Praggnanandhaa into second place in the Grand Chess Tour standings ahead of the Sinquefield Cup. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-5",
-         "pubDate" : "Fri, 07 Aug 2026 08:10:00",
-         "title" : "Praggnanandhaa wins St. Louis Rapid & Blitz after leading from start to finish"
       },
       {
          "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/henry-atkins-profile-2026",
          "pubDate" : "Fri, 07 Aug 2026 00:15:00",
          "title" : "Henry Atkins: Brilliant amateur, nine-time British champion"
+      },
+      {
+         "description" : "Editor's note: This article will be updated tomorrow with photos of the National Invitational winners, as well as with information about age- and rating-related prizes (once this information is available). Illinois Wins Top State as Invitationals EndToday was the day when three became one: The 7-day, 5-day, and 4-day schedules of the 126th U.S. Open merged earlier tonight for Round 7.From here on in, it's Round 8 Saturday at 7 p.m. and Round 9 Sunday at 3.WGM Sabina Foisor is currently streaming on the US Chess Twitch Channel for tonight's round, and she has once again curated the positions and games analyzed in today's report. But first, the six National Invitational tournaments of state ch",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-open-day-4-come-feel-illinoise",
+         "pubDate" : "Fri, 07 Aug 2026 00:00:00",
+         "title" : "U.S. Open Day 4: Come On Feel the Illinoise!"
       },
       {
          "description" : "2026 Olympiad for People with Disabilities Team AnnouncedThe 3rd FIDE Olympiad for People with Disabilities will take place from September 10 through 17 in Samarkand, Uzbekistan. Team USA returns three members of last year's team, which finished tied for sixth in Almaty, Kazakhstan. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo courtesy of FIDE)<br> <br> The following is the list of official players. Captain will be determined by player vote, and this page will be updated after the vote has taken place. The McConnell brothers and Celine Atassi return from last year's tea",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
          "pubDate" : "Thu, 30 Jul 2026 08:20:46",
          "title" : "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 126th Annual U.S. Open Chess Championship begins Monday, August 3 at the DeVos Place Convention Center in Grand Rapids, MI. Here is a primer of what to expect and how to follow all the action! A True OpenAs always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best score in thei",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/what-expect-126th-us-open",
-         "pubDate" : "Thu, 30 Jul 2026 00:00:00",
-         "title" : "What to Expect at the 126th U.S. Open"
       },
       {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
