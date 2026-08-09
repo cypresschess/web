@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133061451.cms\" />Aarav Dengla traces the journeys of chess players caught between their game and the politics of their countries. From Viktor Korchnoi's defection from the Soviet Union to Alireza Firouzja's break with Iran and Ian Nepomniachtchi playing under the FIDE flag after opposing Russia's war, he explores how FIDE has stood between players and geopolitical upheavals, providing a neutral ground for those who could no longer compete under their national flags. For these stateless kings, the banner did not erase identity - it protected their freedom to play.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
+         "pubDate" : "Sun, 09 Aug 2026 02:21:07",
+         "title" : "The Stateless Kings: How Chess preserves an ideal in a fractured world"
+      },
+      {
+         "description" : "GM Jeffery Xiong is off the mark in 2026 after he won August&#39;s second Bullet Brawl off the back of an explosive 10/10 start. Playing more than 70 games in the two-hour arena, Xiong accrued a score of 159 and earned the $400 first prize, leaving IM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-8-2026",
+         "pubDate" : "Sat, 08 Aug 2026 17:29:00",
+         "title" : "'Orangutan' Opening Stars Again For Xiong In Bullet Brawl"
+      },
+      {
          "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win"
       },
       {
-         "description" : "Team USA won the match against Uzbekistan in the inaugural WR Chess Rapid &#38;amp; Blitz Miami 2026. They clinched the match 13-9 with a round to spare. They played the final round anyway, and tied, so the final score was 14-10. Team USA consisted o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
-         "pubDate" : "Tue, 28 Jul 2026 17:18:00",
-         "title" : "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-shrugs-off-players-exploiting-loophole-to-get-grand-masters-title/articleshow/132506491.cms",
          "pubDate" : "Mon, 20 Jul 2026 05:07:52",
          "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132490725.cms\" />After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
-         "pubDate" : "Sun, 19 Jul 2026 06:32:37",
-         "title" : "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS"
       }
    ]
 }
