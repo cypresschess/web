@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+         "pubDate" : "Sun, 9 Aug 2026 19:46:00",
+         "title" : "112th British Chess Championships 2026 - Games and Results"
+      },
+      {
+         "description" : "One of the world's strongest women's super-tournaments returns to Saint Louis this summer as the 2026 Cairns Cup welcomes ten of the world's top women chess players to compete for a $250,000 prize fund - one of the largest in women's chess. The tournament will take place on 10-19 August at the recently expanded Saint Louis Chess Club (STLCC), where it will run alongside the prestigious Sinquefield Cup, creating one of the world's premier showcases of elite chess. | Photo: Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2026-preview",
+         "pubDate" : "Sun, 09 Aug 2026 12:15:00",
+         "title" : "The Cairns Cup returns with elite field featuring players from seven different countries"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133066076.cms\" />Delhi's Vanshika Rawat finished second in the girls' section of the National Under-11 Chess Championship in Mangaluru with nine points from 11 rounds. Kerala's Divi Bijesh won the title with 9.5 points, while Maharashtra's Prisha Gholap was third. In the open category, West Bengal's Sarbartho Mani topped the standings with 10.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "World University Team Championship Finals: Four teams advance"
       },
       {
-         "description" : "After four and a half days of varying schedules, Friday night's Round 7 at the 126th U.S. Open, in Grand Rapids, Mich., saw all the players merge into one section, making it easier for fans (and, um, journalists) to figure out exactly who was leading.The Board 1 battle was quick and peaceful Friday night - tournament leader GM Gregoriy Oparin drew in eight moves against GM Christopher Yoo to stay in the lead with 6&frac12;/7, but IM Bohdan Bilovil moved into a tie for the lead by downing GM Bryan Smith with black in a Classical French with opposite-side castling. White's pawn sacrifice didn't work, and it wasn't long before the kingside, where White's king lived. The tactics followed quickly",
+         "description" : "After four and a half days of varying schedules, Friday night's Round 7 at the 126th U.S. Open, in Grand Rapids, Mich., saw all the players merge into one section, making it easier for fans (and, um, journalists) to figure out exactly who was leading.The Board 1 battle was quick and peaceful Friday night - tournament leader GM Gregoriy Oparin drew in eight moves against GM Christopher Yoo to stay in the lead with 6&frac12;/7, but IM Bohdan Bilovil moved into a tie for the lead by downing GM Bryan Smith with black in a Classical French with opposite-side castling. White's pawn sacrifice didn't work, and it wasn't long before the kingside, where White's king lived, fell. The tactics followed q",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/all-together-now-day-5-us-open",
@@ -362,7 +378,7 @@ news_feed (
          "title" : "The Chess Odyssey Bots Are Here For August!"
       },
       {
-         "description" : "FM William \"Bill\" Goichberg passed away Sunday Aug. 2, 2026, at age 83. Between the 1960s and the 2000s, Bill held every one of the highest roles in US Chess. He was rating statistician; he was co-editor of Chess Life; he was a member of what we now call the Executive Board three separate times; he was executive director; he was president. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Bill Goichberg (L) and Harry Sabine (R) in an undated photo from the US Open. (From the US Chess Archives)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Goichberg in 1985 holding a beautiful inlaid chessboard ",
+         "description" : "FM William \"Bill\" Goichberg passed away Sunday Aug. 2, 2026, at age 83. Between the 1960s and the 2000s, Bill held every one of the highest roles in US Chess. He was rating statistician; he was co-editor of Chess Life; he was a member of what we now call the Executive Board three separate times; he was executive director; he was president. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Bill Goichberg (L) and Harry Sabine (R) in an undated photo from the New York Open. (From the US Chess Archives)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Goichberg in 1985 holding a beautiful inlaid chess",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/bill-goichberg-1942-2026",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
          "pubDate" : "Sat, 01 Aug 2026 19:46:40",
          "title" : "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title"
-      },
-      {
-         "description" : " The 112th British Chess Championships take place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-         "pubDate" : "Sat, 1 Aug 2026 18:15:00",
-         "title" : "112th British Chess Championships 2026 - Games and Results"
       },
       {
          "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
