@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133066076.cms\" />Delhi's Vanshika Rawat finished second in the girls' section of the National Under-11 Chess Championship in Mangaluru with nine points from 11 rounds. Kerala's Divi Bijesh won the title with 9.5 points, while Maharashtra's Prisha Gholap was third. In the open category, West Bengal's Sarbartho Mani topped the standings with 10.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
+         "pubDate" : "Sun, 09 Aug 2026 10:49:20",
+         "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
+      },
+      {
+         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
+         "pubDate" : "Sun, 09 Aug 2026 10:00:00",
+         "title" : "British Chess Championship - Live!"
+      },
+      {
          "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase&acute;26 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-8-2026",
          "pubDate" : "Sat, 08 Aug 2026 17:29:00",
          "title" : "'Orangutan' Opening Stars Again For Xiong In Bullet Brawl"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Sat, 08 Aug 2026 15:20:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "Now it's time to talk about the weight of extra knowledge. Last week's analogy (You already know more than you can use): knowledge is the gear, skill is the body you built for the hike. This week, why loading gear you don't need costs you. The Extra Weight Same body, more weight, and you're slower []",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
          "pubDate" : "Tue, 21 Jul 2026 04:15:24",
          "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132506491.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-shrugs-off-players-exploiting-loophole-to-get-grand-masters-title/articleshow/132506491.cms",
-         "pubDate" : "Mon, 20 Jul 2026 05:07:52",
-         "title" : "Viswanathan Anand shrugs off players exploiting loophole to get Grand Masters title"
       }
    ]
 }
