@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shreyas Royal and Bodhana Sivanandan claimed the main titles at the 2026 British Chess Championships in Coventry, bringing the largest edition in the event's history to a record-breaking conclusion. Royal, 17, won his first overall British title after finishing ahead of Luke McShane and Michael Adams, while 11-year-old Sivanandan became Britain's youngest-ever women's champion after defeating Trisha Kanyamarala in a rapid playoff. | Photos: Yury Krylov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-9",
+         "pubDate" : "Mon, 10 Aug 2026 00:05:00",
+         "title" : "Royal and 11-year-old Sivanandan make British chess history"
+      },
+      {
          "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
          "pubDate" : "Sun, 09 Aug 2026 02:21:07",
          "title" : "The Stateless Kings: How Chess preserves an ideal in a fractured world"
+      },
+      {
+         "description" : "Four Lead with U.S. Championship Spot on the Line<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Oparin (L) against Bilovil with Zhou in the background. (Photo by David Llada)<br> <br> <br> <br> Our week in the Great Lakes State comes to a close today as the final round of the 126th U.S. Open begins at 3 p.m. EDT. A spot in this October's U.S. Championship is on the line for the highest-finishing American player, and four players enter Round 9 tied for first with 7/8 scores: GM Grigoriy Oparin (MO), GM Christopher Yoo (CA), IM Jason Liang (OH), and IM Bohdan Bilovil (TX). All the leaders except Bilovil are eligible for this spot. Bilovil currently atte",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/four-floor-final-day-us-open-begins",
+         "pubDate" : "Sun, 09 Aug 2026 00:00:00",
+         "title" : "Four on the Floor as Final Day of U.S. Open Begins"
       },
       {
          "description" : "GM Jeffery Xiong is off the mark in 2026 after he won August&#39;s second Bullet Brawl off the back of an explosive 10/10 start. Playing more than 70 games in the two-hour arena, Xiong accrued a score of 159 and earned the $400 first prize, leaving IM...",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Henry Atkins: Brilliant amateur, nine-time British champion"
       },
       {
-         "description" : "Editor's note: This article will be updated tomorrow with photos of the National Invitational winners, as well as with information about age- and rating-related prizes (once this information is available). Illinois Wins Top State as Invitationals EndToday was the day when three became one: The 7-day, 5-day, and 4-day schedules of the 126th U.S. Open merged earlier tonight for Round 7.From here on in, it's Round 8 Saturday at 7 p.m. and Round 9 Sunday at 3.WGM Sabina Foisor is currently streaming on the US Chess Twitch Channel for tonight's round, and she has once again curated the positions and games analyzed in today's report. But first, the six National Invitational tournaments of state ch",
+         "description" : "Illinois Wins Top State as Invitationals EndToday was the day when three became one: The 7-day, 5-day, and 4-day schedules of the 126th U.S. Open merged earlier tonight for Round 7.From here on in, it's Round 8 Saturday at 7 p.m. and Round 9 Sunday at 3.WGM Sabina Foisor is currently streaming on the US Chess Twitch Channel for tonight's round, and she has once again curated the positions and games analyzed in today's report. But first, the six National Invitational tournaments of state champions concluded yesterday, and we have 11 new Champions of Champions! With the addition of the GM Maurice Ashley National Tournament of K-3 State Champions, this marks the first year that these tournament",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-open-day-4-come-feel-illinoise",
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
          "pubDate" : "Fri, 31 Jul 2026 06:00:05",
          "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
-      },
-      {
-         "description" : "The US Chess Federation is pleased to announce the 2026 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"US Chess Awards Recipients from previous years can be viewed here: 2025 | 2024 | 2023 | 2022 | 2021 | 2020 Named AwardsDan Heisman Award for Excellence in Chess InstructionKoltanowski Awards (Gold | Silver)Frank J. Marshall AwardOrganizer AwardsChess City of the YearChess Club of the YearChess College of the YearOrganizer of the YearHonorary Chess Mate Player AwardsGM of the YearOutstanding Team AchievementWoman Player of the YearYoung Player of the ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-us-chess-awards-recipients",
-         "pubDate" : "Fri, 31 Jul 2026 00:00:00",
-         "title" : "2026 US Chess Awards Recipients"
       },
       {
          "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
