@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase&acute;26 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-26-null-moves-the-art-of-doing-nothing",
+         "pubDate" : "Sun, 09 Aug 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 26: Null moves: The art of doing nothing"
+      },
+      {
+         "description" : "Following three days of group-stage competition and Friday's quarterfinals of the inaugural FIDE World University Team Championship, the original field of sixteen universities had been reduced to four: Kazakh National University of Sports (KNUS), Ural State Mining University, Saint Louis University, and The University of Texas at Dallas. On Saturday, the finalists were confirmed: Saint Louis University and Ural State Mining University.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-and-ural-state-mining-reach-finals-in-almaty",
+         "pubDate" : "Sun, 09 Aug 2026 03:45:00",
+         "title" : "Saint Louis and Ural State Mining reach finals in Almaty"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133061451.cms\" />Aarav Dengla traces the journeys of chess players caught between their game and the politics of their countries. From Viktor Korchnoi's defection from the Soviet Union to Alireza Firouzja's break with Iran and Ian Nepomniachtchi playing under the FIDE flag after opposing Russia's war, he explores how FIDE has stood between players and geopolitical upheavals, providing a neutral ground for those who could no longer compete under their national flags. For these stateless kings, the banner did not erase identity - it protected their freedom to play.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
