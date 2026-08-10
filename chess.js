@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Elham Amar (pictured, right) won the main open tournament at the Dortmund Chess Festival. The Norwegian GM went into the final round with a half-point lead over two pursuers. He drew against one of them, Surya Ganguly, while the other, Sumiya Chinguun, lost to Amilal Munkhdalai. Amar's 7 points were enough to secure clear first place, half a point ahead of a group of five players. In the Women's International Tournament, a draw in the final round was enough for Song Yuxin to grab outright victory. The B Open was won by Max Pick on tiebreaks, ahead of Oleksandr Kasapchuk Jr. and Thomas Peter. | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-final-report",
+         "pubDate" : "Mon, 10 Aug 2026 13:45:00",
+         "title" : "Dortmund: Elham Amar wins A Open, Song prevails in Women's International Tournament"
+      },
+      {
+         "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
+         "pubDate" : "Mon, 10 Aug 2026 13:15:00",
+         "title" : "6th Cairns Cup 2026 - Games and Results"
+      },
+      {
+         "description" : " The 13th Sinquefield Cup takes place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
+         "pubDate" : "Mon, 10 Aug 2026 13:11:00",
+         "title" : "13th Sinquefield Cup 2026 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-teenagers-bodhana-sivanandan-and-shreyas-royal-become-2026-british-chess-champions/articleshow/133097814.cms",
+         "pubDate" : "Mon, 10 Aug 2026 11:03:06",
+         "title" : "Indian-origin teenagers Bodhana, Shreyas become British chess champions"
+      },
+      {
          "description" : "Ural State Mining University has been crowned champion of the inaugural FIDE World University Team Championship Finals, defeating Saint Louis University in Sunday's final in Almaty. The final day of competition brought the championship down to its two decisive encounters: Ural State Mining University against Saint Louis University for the title and Kazakh National University of Sports against The University of Texas at Dallas for third place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
          "pubDate" : "Sun, 09 Aug 2026 10:49:20",
          "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
-      },
-      {
-         "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase&acute;26 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-26-null-moves-the-art-of-doing-nothing",
-         "pubDate" : "Sun, 09 Aug 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 26: Null moves: The art of doing nothing"
       },
       {
          "description" : "Following three days of group-stage competition and Friday's quarterfinals of the inaugural FIDE World University Team Championship, the original field of sixteen universities had been reduced to four: Kazakh National University of Sports (KNUS), Ural State Mining University, Saint Louis University, and The University of Texas at Dallas. On Saturday, the finalists were confirmed: Saint Louis University and Ural State Mining University.",
@@ -90,44 +114,12 @@ news_feed (
          "title" : "The weight of what you know"
       },
       {
-         "description" : "Shreyas Royal has taken the sole lead at the British Chess Championship after seven rounds in Coventry. The 17-year-old followed a draw against Svyatoslav Bazakutsa with consecutive wins over Bodhana Sivanandan and top seed Luke McShane to reach 6/7. Bazakutsa is among five players half a point behind. Royal will face nine-time British champion Michael Adams in Saturday's penultimate round. | Photo: Yury Krylov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-7",
-         "pubDate" : "Sat, 08 Aug 2026 09:45:00",
-         "title" : "British Championship: Royal upsets McShane, grabs the sole lead"
-      },
-      {
-         "description" : "Reversed-colour Benoni, Blumenfeld and Benko structures are the focus of Volume 14 of Ivan Sokolov's Understanding Middlegame Strategy series. Hannes Langrock, an International Master, editor at a fiction publishing house and player for ESV Nickelh&uuml;tte Aue, reviews the course. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-ivan-sokolov-understanding-middlegame-strategy-part-14",
-         "pubDate" : "Sat, 08 Aug 2026 08:00:00",
-         "title" : "Review: Ivan Sokolov - Understanding Middlegame Strategy (Part 14)"
-      },
-      {
-         "description" : "Day four of the FIDE World University Team Championship Finals began away from the chessboard, as participants traded the playing hall for the mountains surrounding Almaty. Before the start of the quarterfinals, players had an opportunity to visit Shymbulak, one of the city's best-known mountain destinations. After three intense days of group-stage competition, the morning excursion gave the students a chance to experience another side of Almaty and spend time together before returning to the tournament venue for the start of the knockout stage. A few hours later, attention turned firmly back to chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-university-team-championship-finals-four-teams-advance",
-         "pubDate" : "Sat, 08 Aug 2026 02:00:00",
-         "title" : "World University Team Championship Finals: Four teams advance"
-      },
-      {
          "description" : "After four and a half days of varying schedules, Friday night's Round 7 at the 126th U.S. Open, in Grand Rapids, Mich., saw all the players merge into one section, making it easier for fans (and, um, journalists) to figure out exactly who was leading.The Board 1 battle was quick and peaceful Friday night - tournament leader GM Gregoriy Oparin drew in eight moves against GM Christopher Yoo to stay in the lead with 6&frac12;/7, but IM Bohdan Bilovil moved into a tie for the lead by downing GM Bryan Smith with black in a Classical French with opposite-side castling. White's pawn sacrifice didn't work, and it wasn't long before the kingside, where White's king lived, fell. The tactics followed q",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/all-together-now-day-5-us-open",
          "pubDate" : "Sat, 08 Aug 2026 00:00:00",
          "title" : "All Together Now: Day 5 at the U.S. Open"
-      },
-      {
-         "description" : "In this episode, Svitlana explains why controlling the centre remains important throughout every phase of a chess game. Using an instructive encounter between Vassily Ivanchuk and Anatoly Karpov, she shows how central control creates space, restricts the opponent's pieces and provides clear plans. The game also demonstrates how powerful central pawns and an active king can become in the endgame, ultimately allowing Karpov to take control and win.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-control-the-centre-control-the-game",
-         "pubDate" : "Fri, 07 Aug 2026 18:00:00",
-         "title" : "Svitlana's Smart Moves - Control the centre, control the game!"
       },
       {
          "description" : "GM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
@@ -162,28 +154,12 @@ news_feed (
          "title" : "Chess: Adams loses first British Championship game since 1988 to rising star"
       },
       {
-         "description" : "The group stage of the inaugural FIDE World University Team Championship Finals came to an exciting conclusion on Thursday in Almaty, Kazakhstan, with the eight quarterfinalists now confirmed after three days of intense competition. With all sixteen participating universities in action for the final time, the last rounds determined which teams would continue their quest for the inaugural title and which would conclude their championship journey.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-university-team-championship-eight-teams-advance",
-         "pubDate" : "Fri, 07 Aug 2026 06:05:00",
-         "title" : "World University Team Championship: Eight teams advance"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133022348.cms\" />Indian Grandmaster R Praggnanandhaa won his first Saint Louis Rapid &amp; Blitz title with a round to spare after a dominant performance in the tournament. The 20-year-old finished on top with 23.5 points and also climbed to second place in the overall Grand Chess Tour standings, boosting his chances of qualifying for the season-ending Finals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-maiden-saint-louis-rapid-blitz-title/articleshow/133022348.cms",
          "pubDate" : "Fri, 07 Aug 2026 05:37:47",
          "title" : "R Praggnanandhaa wins maiden Saint Louis Rapid &amp; Blitz title"
-      },
-      {
-         "description" : "In the early years of the British Championship, Henry Atkins won the title seven times in succession between 1905 and 1911, before adding two more victories later on. This made him the record holder until the 1960s. What makes this achievement especially remarkable is that Atkins was essentially an amateur player who rarely competed in other tournaments. | Photo: Theo F Gidden, Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/henry-atkins-profile-2026",
-         "pubDate" : "Fri, 07 Aug 2026 00:15:00",
-         "title" : "Henry Atkins: Brilliant amateur, nine-time British champion"
       },
       {
          "description" : "Illinois Wins Top State as Invitationals EndToday was the day when three became one: The 7-day, 5-day, and 4-day schedules of the 126th U.S. Open merged earlier tonight for Round 7.From here on in, it's Round 8 Saturday at 7 p.m. and Round 9 Sunday at 3.WGM Sabina Foisor is currently streaming on the US Chess Twitch Channel for tonight's round, and she has once again curated the positions and games analyzed in today's report. But first, the six National Invitational tournaments of state champions concluded yesterday, and we have 11 new Champions of Champions! With the addition of the GM Maurice Ashley National Tournament of K-3 State Champions, this marks the first year that these tournament",
@@ -200,14 +176,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/team-usa-announced-3rd-olympiad-people-disabilities",
          "pubDate" : "Fri, 07 Aug 2026 00:00:00",
          "title" : "Team USA Announced for 3rd Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, World Championship challenger Javokhir Sindarov, Fabiano Caruana and Vincent Keymer. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-         "pubDate" : "Thu, 06 Aug 2026 18:45:00",
-         "title" : "Saint Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "Bewdley's Mayor, Sharon Harvey, arranged for Robert to drop into the Worcestershire Junior Chess Congress see BBC Hereford &#38; Worcester for picture and more https://www.bbc.co.uk/news/articles/cly914w625xo",
@@ -736,14 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2026-3/",
          "pubDate" : "Tue, 21 Jul 2026 07:14:39",
          "title" : "ECU General Assembly 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132528111.cms\" />Indian Grandmaster Rohith Krishna won the Menuires International Chess Championship in France after defeating compatriot Raja Rithvik on the tie-break. Both finished unbeaten with seven points from nine rounds, but Rohith's superior tie-break secured gold. Rithvik claimed silver after an impressive campaign, highlighted by a final-round victory over higher-rated French Grandmaster Maxime Lagarde.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-rohith-krishna-wins-gold-raja-rithvik-takes-silver-at-menuires-international-chess-championship-in-france/articleshow/132528111.cms",
-         "pubDate" : "Tue, 21 Jul 2026 04:54:47",
-         "title" : "Indian GM Rohith Krishna wins gold, Raja Rithvik takes silver in France"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132527672.cms\" />The All India Chess Federation has awarded quarterly stipends worth Rs 42.3 lakh to 42 top junior players across the Under-7 to Under-19 categories. Selected based on their 2024 National Championship performances, each receives Rs 60,000-Rs 1.5 lakh to support coaching and travel. AICF says the historic initiative aims to remove financial barriers and strengthen India's grassroots chess ecosystem.",
