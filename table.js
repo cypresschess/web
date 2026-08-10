@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-08-09","19","<a href=https://ratings.uschess.org/event/202608090293 target='_blank'>Bellaire Sunday Swiss 2026.08.09</a>",
+"HOUSTON","2026-08-08","10","<a href=https://ratings.uschess.org/event/202608080363 target='_blank'>chesspanda08082026saturday</a>",
 "CYPRESS","2026-08-07","56","<a href=https://ratings.uschess.org/event/202608070403 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-08-07","24","<a href=https://ratings.uschess.org/event/202608070373 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-07","20","<a href=https://ratings.uschess.org/event/202608070333 target='_blank'>FBCC 2026 Sea Serpent Day Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-05-17","14","<a href=https://ratings.uschess.org/event/202605170413 target='_blank'>Bellaire Sunday Swiss 2026.05.17</a>",
 "HOUSTON","2026-05-17","6","<a href=https://ratings.uschess.org/event/202605170263 target='_blank'>2026 Houston Circuit T5 by AzChAcad</a>",
 "PASADENA","2026-05-16","20","<a href=https://ratings.uschess.org/event/202605160713 target='_blank'>Checkmates on Fairmont</a>",
-"SPRING","2026-05-15","19","<a href=https://ratings.uschess.org/event/202605150233 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2026-05-15","54","<a href=https://ratings.uschess.org/event/202605150213 target='_blank'>Knights of Cypress</a>",
 ]);
