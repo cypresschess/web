@@ -6,8 +6,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ural-wins-world-university-team-championship",
-         "pubDate" : "Mon, 10 Aug 2026 05:40:00",
-         "title" : "Ural wins World University Team Championship"
+         "pubDate" : "Mon, 10 Aug 2026 09:38:48",
+         "title" : "Ural State Mining University wins World University Team Championship"
       },
       {
          "description" : "Shreyas Royal and Bodhana Sivanandan claimed the main titles at the 2026 British Chess Championships in Coventry, bringing the largest edition in the event's history to a record-breaking conclusion. Royal, 17, won his first overall British title after finishing ahead of Luke McShane and Michael Adams, while 11-year-old Sivanandan became Britain's youngest-ever women's champion after defeating Trisha Kanyamarala in a rapid playoff. | Photos: Yury Krylov",
