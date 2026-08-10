@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Mon, 10 Aug 2026 19:00:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chiu-awatramani-win-2026-bughouse-chess-championship",
          "pubDate" : "Mon, 10 Aug 2026 08:35:30",
          "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
+      },
+      {
+         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in tiebreak order: Oparin, Zhou, GM Christopher Yoo (CA), Liang, GM Rahul Srivatshav Peddi (IND), IM Sebastian Kostolansky (SVK), IM Bohdan Bilovil (UKR), and IM Julian Colville (CA",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/oparin-defeats-zhou-armageddon-wins-us-open",
+         "pubDate" : "Mon, 10 Aug 2026 00:00:00",
+         "title" : "Oparin Defeats Zhou in Armageddon, Wins U.S. Open"
       },
       {
          "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
@@ -352,14 +352,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/odyssey-chess-bots",
          "pubDate" : "Mon, 03 Aug 2026 06:42:05",
          "title" : "The Chess Odyssey Bots Are Here For August!"
-      },
-      {
-         "description" : "FM William \"Bill\" Goichberg passed away Sunday Aug. 2, 2026, at age 83. Between the 1960s and the 2000s, Bill held every one of the highest roles in US Chess. He was rating statistician; he was co-editor of Chess Life; he was a member of what we now call the Executive Board three separate times; he was executive director; he was president. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Bill Goichberg (L) and Harry Sabine (R) in an undated photo from the New York Open. (From the US Chess Archives)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Goichberg in 1985 holding a beautiful inlaid chess",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/bill-goichberg-1942-2026",
-         "pubDate" : "Mon, 03 Aug 2026 00:00:00",
-         "title" : "Bill Goichberg (1942-2026)"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid &#38;amp; Blitz, taking the sole lead with five out of a possible six points. He&#39;s trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th...",
