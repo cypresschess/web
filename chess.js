@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Elham Amar (pictured, right) won the main open tournament at the Dortmund Chess Festival. The Norwegian GM went into the final round with a half-point lead over two pursuers. He drew against one of them, Surya Ganguly, while the other, Sumiya Chinguun, lost to Amilal Munkhdalai. Amar's 7 points were enough to secure clear first place, half a point ahead of a group of five players. In the Women's International Tournament, a draw in the final round was enough for Song Yuxin to grab outright victory. The B Open was won by Max Pick on tiebreaks, ahead of Oleksandr Kasapchuk Jr. and Thomas Peter. | Photo: Dariusz Gorzinski",
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2026-final-report",
-         "pubDate" : "Mon, 10 Aug 2026 13:45:00",
-         "title" : "Dortmund: Elham Amar wins A Open, Song prevails in Women's International Tournament"
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Mon, 10 Aug 2026 19:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-preview",
+         "pubDate" : "Mon, 10 Aug 2026 18:35:00",
+         "title" : "Carlsen returns to defend Esports World Cup title in Paris"
       },
       {
          "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "13th Sinquefield Cup 2026 - Games and Results"
       },
       {
+         "description" : "Indian prodigy FM Aarit Kapil has taken another major step toward the international master title, scoring his second norm with a round to spare before going on to win a round-robin tournament in Serbia ahead of three GMs and three IMs. Extraordin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/10-year-old-aarit-kapil-beats-another-gm-to-earn-2nd-im-norm",
+         "pubDate" : "Mon, 10 Aug 2026 11:49:00",
+         "title" : "10-Year-Old Aarit Kapil Wins GM Tournament To Score 2nd IM Norm"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,20 +50,12 @@ news_feed (
          "title" : "Indian-origin teenagers Bodhana, Shreyas become British chess champions"
       },
       {
-         "description" : "Ural State Mining University has been crowned champion of the inaugural FIDE World University Team Championship Finals, defeating Saint Louis University in Sunday's final in Almaty. The final day of competition brought the championship down to its two decisive encounters: Ural State Mining University against Saint Louis University for the title and Kazakh National University of Sports against The University of Texas at Dallas for third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ural-wins-world-university-team-championship",
-         "pubDate" : "Mon, 10 Aug 2026 09:38:48",
-         "title" : "Ural State Mining University wins World University Team Championship"
-      },
-      {
-         "description" : "Shreyas Royal and Bodhana Sivanandan claimed the main titles at the 2026 British Chess Championships in Coventry, bringing the largest edition in the event's history to a record-breaking conclusion. Royal, 17, won his first overall British title after finishing ahead of Luke McShane and Michael Adams, while 11-year-old Sivanandan became Britain's youngest-ever women's champion after defeating Trisha Kanyamarala in a rapid playoff. | Photos: Yury Krylov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-9",
-         "pubDate" : "Mon, 10 Aug 2026 00:05:00",
-         "title" : "Royal and 11-year-old Sivanandan make British chess history"
+         "description" : "NMs Isaac Chiu and Janak Awatramani are the first duo to win the Bughouse Championship twice. Their biggest rivals were 2024 champions GMs Jeffery Xiong and Awonder Liang. The super-grandmasters lost the first match, won the second encounter, but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chiu-awatramani-win-2026-bughouse-chess-championship",
+         "pubDate" : "Mon, 10 Aug 2026 08:35:30",
+         "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
       },
       {
          "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
@@ -58,28 +66,12 @@ news_feed (
          "title" : "112th British Chess Championships 2026 - Games and Results"
       },
       {
-         "description" : "One of the world's strongest women's super-tournaments returns to Saint Louis this summer as the 2026 Cairns Cup welcomes ten of the world's top women chess players to compete for a $250,000 prize fund - one of the largest in women's chess. The tournament will take place on 10-19 August at the recently expanded Saint Louis Chess Club (STLCC), where it will run alongside the prestigious Sinquefield Cup, creating one of the world's premier showcases of elite chess. | Photo: Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2026-preview",
-         "pubDate" : "Sun, 09 Aug 2026 12:15:00",
-         "title" : "The Cairns Cup returns with elite field featuring players from seven different countries"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133066076.cms\" />Delhi's Vanshika Rawat finished second in the girls' section of the National Under-11 Chess Championship in Mangaluru with nine points from 11 rounds. Kerala's Divi Bijesh won the title with 9.5 points, while Maharashtra's Prisha Gholap was third. In the open category, West Bengal's Sarbartho Mani topped the standings with 10.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
          "pubDate" : "Sun, 09 Aug 2026 10:49:20",
          "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
-      },
-      {
-         "description" : "Following three days of group-stage competition and Friday's quarterfinals of the inaugural FIDE World University Team Championship, the original field of sixteen universities had been reduced to four: Kazakh National University of Sports (KNUS), Ural State Mining University, Saint Louis University, and The University of Texas at Dallas. On Saturday, the finalists were confirmed: Saint Louis University and Ural State Mining University.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-and-ural-state-mining-reach-finals-in-almaty",
-         "pubDate" : "Sun, 09 Aug 2026 03:45:00",
-         "title" : "Saint Louis and Ural State Mining reach finals in Almaty"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133061451.cms\" />Aarav Dengla traces the journeys of chess players caught between their game and the politics of their countries. From Viktor Korchnoi's defection from the Soviet Union to Alireza Firouzja's break with Iran and Ian Nepomniachtchi playing under the FIDE flag after opposing Russia's war, he explores how FIDE has stood between players and geopolitical upheavals, providing a neutral ground for those who could no longer compete under their national flags. For these stateless kings, the banner did not erase identity - it protected their freedom to play.",
@@ -122,12 +114,12 @@ news_feed (
          "title" : "All Together Now: Day 5 at the U.S. Open"
       },
       {
-         "description" : "GM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
+         "description" : "IM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-wscc-alice-lee-beats-hou-yifan-wins-title",
          "pubDate" : "Fri, 07 Aug 2026 13:57:00",
-         "title" : "16-Year-Old Alice Lee Wins Women's Speed Chess Championship"
+         "title" : "16-Year-Old Alice Lee 🏆 Wins Women's Speed Chess Championship"
       },
       {
          "description" : "WCM Modipalli Deekshitha soared from 1985 to a live rating of 2454 in four European tournaments, climbing to second in the world among girls under 20. Just over a month ago, the 14-year-old Indian from Hyderabad was rated below 2000. Now she has ...",
@@ -482,28 +474,12 @@ news_feed (
          "title" : "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League (GCL) is returning for its fourth season with GM Magnus Carlsen headlining the field in Bengaluru, India. With a stellar lineup of the strongest players in the game teaming up in exhilarating matchups, the fou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-contenders-2026",
-         "pubDate" : "Wed, 29 Jul 2026 07:30:00",
-         "title" : "Global Chess League Contenders Returns On August 7 As Pathway To World Stage"
-      },
-      {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/jul/28/geneva-world-chess-championship-gukesh-sindarov",
          "pubDate" : "Tue, 28 Jul 2026 17:57:32",
          "title" : "Geneva lands world chess title match as Gukesh and Sindarov set to make history"
-      },
-      {
-         "description" : "Eleven-year-old FM Bodhana Sivanandan added two more age records with a stunning performance at the Dole Open in France last week, becoming the youngest girl ever to score an international master norm and the youngest girl known to defeat a 2600-r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-youngest-girl-im-norm-beats-2600-gm",
-         "pubDate" : "Tue, 28 Jul 2026 17:49:00",
-         "title" : "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
