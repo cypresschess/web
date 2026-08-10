@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ural State Mining University has been crowned champion of the inaugural FIDE World University Team Championship Finals, defeating Saint Louis University in Sunday's final in Almaty. The final day of competition brought the championship down to its two decisive encounters: Ural State Mining University against Saint Louis University for the title and Kazakh National University of Sports against The University of Texas at Dallas for third place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ural-wins-world-university-team-championship",
+         "pubDate" : "Mon, 10 Aug 2026 05:40:00",
+         "title" : "Ural wins World University Team Championship"
+      },
+      {
          "description" : "Shreyas Royal and Bodhana Sivanandan claimed the main titles at the 2026 British Chess Championships in Coventry, bringing the largest edition in the event's history to a record-breaking conclusion. Royal, 17, won his first overall British title after finishing ahead of Luke McShane and Michael Adams, while 11-year-old Sivanandan became Britain's youngest-ever women's champion after defeating Trisha Kanyamarala in a rapid playoff. | Photos: Yury Krylov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
          "pubDate" : "Sun, 09 Aug 2026 10:49:20",
          "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
-      },
-      {
-         "description" : "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and Shreyas Royal. Also noteworthy is the presence of 11-year-old prodigy Bodhana Sivanandan, already the highest-rated woman player in this year's edition. | Follow the games live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2026-live",
-         "pubDate" : "Sun, 09 Aug 2026 10:00:00",
-         "title" : "British Chess Championship - Live!"
       },
       {
          "description" : "It's often the small tricks that make training clearer and more effective. One such feature in ChessBase&acute;26 is the ability to insert null moves. This can be especially helpful in chess training or analysis. In this short and concise tutorial, you'll learn how to use null moves effectively.",
