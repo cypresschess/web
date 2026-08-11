@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. Fourteen players have qualified directly for the group stage, while eight more will compete in Tuesday's Play-In for the final two spots in the 16-player field. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
+         "pubDate" : "Tue, 11 Aug 2026 12:11:24",
+         "title" : "Esports World Cup live"
+      },
+      {
          "description" : "Fabiano Caruana was the only winner in the opening round of the Sinquefield Cup, defeating Jorden van Foreest to take the early sole lead in Saint Louis. The remaining four games were drawn, though Javokhir Sindarov missed chances to convert a favourable endgame against Levon Aronian. | Photo: Austin Fuller / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,22 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pranesh-stuns-gukesh-again-nihal-downs-erigaisi-at-chennai-grand-masters/articleshow/132540907.cms",
          "pubDate" : "Tue, 21 Jul 2026 15:51:27",
          "title" : "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters"
-      },
-      {
-         "description" : "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, active counterplay and precise prophylactic ideas. The lesson highlights how much can still be learned from classical games, especially when it comes to initiative, defensive resourcefulness and the idea that prophylaxis can be aggressive rather than passive.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
-         "pubDate" : "Tue, 21 Jul 2026 10:05:00",
-         "title" : "Svitlana's Smart Moves - Most underrated World Champion"
-      },
-      {
-         "description" : "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save your own setups, and restore the default view whenever needed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
-         "pubDate" : "Tue, 21 Jul 2026 10:00:00",
-         "title" : "ChessBase tips for beginners - Standard Layout or Custom Layout (10)"
       }
    ]
 }
