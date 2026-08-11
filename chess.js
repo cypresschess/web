@@ -10,6 +10,22 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GM Shreyas Royal became the youngest British Champion in history at 17, while 11-year-old FM Bodhana Sivanandan broke the age record for the British Women&#38;rsquo;s title. Fellow prodigy FM Supratit Banerjee, 12, also completed his third IM norm. B...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026",
+         "pubDate" : "Tue, 11 Aug 2026 16:03:08",
+         "title" : "Shreyas Royal, Bodhana Sivanandan Make History As Youngest-Ever British Champions"
+      },
+      {
+         "description" : "As the main chess event at the Esports World Cup began in Paris on August 11, Titled Tuesday continued apace. FM Artin Ashraf, who plays most weeks and has recorded multiple top-five finishes before, was the victor outright on 10/11 points. Reca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ashraf-wins-titled-tuesday-august-11-2026",
+         "pubDate" : "Tue, 11 Aug 2026 16:01:02",
+         "title" : "Titled Tuesday Vet Wins First Ever"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wemby-gothamchess-headline-hoop-gambit-chess-festival",
          "pubDate" : "Tue, 11 Aug 2026 06:13:05",
          "title" : "🏀 Wemby, GothamChess Headline Hoop Gambit Festival"
+      },
+      {
+         "description" : "Today's puzzles come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-1",
+         "pubDate" : "Tue, 11 Aug 2026 00:00:00",
+         "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 1"
       },
       {
          "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
@@ -122,7 +146,7 @@ news_feed (
          "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
       },
       {
-         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in rating order: Oparin, Zhou, GM Christopher Yoo (CA), Liang, GM Rahul Srivatshav Peddi (IND), IM Sebastian Kostolansky (SVK), IM Bohdan Bilovil (UKR), and IM Julian Colville (CA).",
+         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in tiebreak order: Oparin, Zhou, GM Christopher Yoo (CA), IM Bohdan Bilovil (UKR), Liang, IM Julian Colville (CA), GM Rahul Srivatshav Peddi (IND), and IM Sebastian Kostolansky (SVK",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/oparin-defeats-zhou-armageddon-wins-us-open",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 2"
       },
       {
-         "description" : "126th U.S. Open Begins in MichiganThe official motto of Grand Rapids, MI is the Latin phrase motu viget, which translates as \"strength in activity.\" It's hard to think of a more apt phrase for the 126th U.S. Open, which began yesterday in \"Furniture City.\" In addition to the almost 500 players registered for the Open itself, almost 300 state champions began competing yesterday in the national invitational tournaments of state champions. Add on another 64 players who needed to get three classically rated games in before yesterday's evening round, and you're looking at a DeVos Convention Center abuzz with more activity than a King's Gambit Accepted. The theme of activity also carried over to y",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/strength-activity-us-open-begins",
-         "pubDate" : "Tue, 04 Aug 2026 00:00:00",
-         "title" : "Strength in Activity as U.S. Open Begins"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -474,28 +490,12 @@ news_feed (
          "title" : "You already know more than you can use"
       },
       {
-         "description" : "GM Pranav Venkatesh added another feather in his cap in the first 3 0 Thursday tournament of the week, finishing with an undefeated 9.5/11 and outscoring no fewer than eight super-GMs. Wins over GMs Aravindh Chithambaram, Sergei Zhigalko, Hans Nie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-maghsoodloo-xiong-3-0-thursday-07-30-2026",
-         "pubDate" : "Fri, 31 Jul 2026 20:54:00",
-         "title" : "Maghsoodloo Rallies To Win 3 0 Thursday On Tiebreaks"
-      },
-      {
          "description" : "Please see below the list of appointments &#8212; HLVPs, VPs, CVPs, Honorary Life Members - Gerry Walsh, John Wickham Platinum Members - Adrian Elwin, David Eustace Gold Members - Barbara...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/direct-member-representative-appointments/",
          "pubDate" : "Fri, 31 Jul 2026 14:30:48",
          "title" : "Direct Member Representative appointments"
-      },
-      {
-         "description" : "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov&#39;s last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/august-2026-fide-rating-list",
-         "pubDate" : "Fri, 31 Jul 2026 12:37:00",
-         "title" : "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List"
       },
       {
          "description" : " She Plays to Win face losing one of their female players after being told team must include a male The UK's only all-female chess team have been promoted to the game's top tier - only to be told they will have to add a man to their squad. She Plays to Win Lionesses A Team have fallen foul of a rule designed to boost female participation in the sport. <a href=\"https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport\">Continue reading...</a>",
