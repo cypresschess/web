@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-6",
+         "pubDate" : "Tue, 11 Aug 2026 15:00:00",
+         "title" : "ChessBase Summer-Special! - Part 6"
+      },
+      {
          "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. Fourteen players have qualified directly for the group stage, while eight more will compete in Tuesday's Play-In for the final two spots in the 16-player field. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Tue, 11 Aug 2026 12:11:24",
          "title" : "Esports World Cup live"
+      },
+      {
+         "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
+         "pubDate" : "Tue, 11 Aug 2026 11:44:02",
+         "title" : "European Junior U20 Chess Championship 2026 is halfway through"
       },
       {
          "description" : "Fabiano Caruana was the only winner in the opening round of the Sinquefield Cup, defeating Jorden van Foreest to take the early sole lead in Saint Louis. The remaining four games were drawn, though Javokhir Sindarov missed chances to convert a favourable endgame against Levon Aronian. | Photo: Austin Fuller / Grand Chess Tour",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/apogee-chess-festival-2026-preview",
          "pubDate" : "Tue, 11 Aug 2026 07:07:43",
          "title" : "Veselin Topalov headlines the inaugural Apogee Chess Festival"
+      },
+      {
+         "description" : "NBA star Victor Wembanyama, Wemby to his fans, loves chess almost as much as basketball. For the second straight year, Wembanyama organized a summer Hoop Gambit Festival, combining his two favorite activities. The festival was held on the outskirt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wemby-gothamchess-headline-hoop-gambit-chess-festival",
+         "pubDate" : "Tue, 11 Aug 2026 06:13:05",
+         "title" : "🏀 Wemby, GothamChess Headline Hoop Gambit Festival"
       },
       {
          "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
          "pubDate" : "Wed, 29 Jul 2026 12:00:00",
          "title" : "Shifts and mirrors in a chess problem"
-      },
-      {
-         "description" : "WFM Alexandra Botez&#39;s venture into the game development world continues with a new chapter. Last year, the Canadian creator announced her involvement with Chess Arena, a fast-paced chess-themed battle royale game. Now, she&#39;s hosting the Chess Aren...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/creator-brawl-chess-arena",
-         "pubDate" : "Wed, 29 Jul 2026 11:00:00",
-         "title" : "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31"
       },
       {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
