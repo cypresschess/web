@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Tue, 11 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
          "pubDate" : "Tue, 11 Aug 2026 11:44:02",
          "title" : "European Junior U20 Chess Championship 2026 is halfway through"
+      },
+      {
+         "description" : "GMs Wei Yi and Andrey Esipenko are through to tomorrow&#39;s 16-player Group Stage of the $1.5 million 2026 Esports World Cup where they&#39;ll take on the likes of GMs Magnus Carlsen, Hikaru Nakamura, and Alireza Firouzja. Wei needed just six games in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-play-in",
+         "pubDate" : "Tue, 11 Aug 2026 11:25:47",
+         "title" : "Esipenko, Wei Yi Join Carlsen & Co. In Esports World Cup Last 16"
       },
       {
          "description" : "Fabiano Caruana was the only winner in the opening round of the Sinquefield Cup, defeating Jorden van Foreest to take the early sole lead in Saint Louis. The remaining four games were drawn, though Javokhir Sindarov missed chances to convert a favourable endgame against Levon Aronian. | Photo: Austin Fuller / Grand Chess Tour",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
       },
       {
-         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in tiebreak order: Oparin, Zhou, GM Christopher Yoo (CA), Liang, GM Rahul Srivatshav Peddi (IND), IM Sebastian Kostolansky (SVK), IM Bohdan Bilovil (UKR), and IM Julian Colville (CA",
+         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in rating order: Oparin, Zhou, GM Christopher Yoo (CA), Liang, GM Rahul Srivatshav Peddi (IND), IM Sebastian Kostolansky (SVK), IM Bohdan Bilovil (UKR), and IM Julian Colville (CA).",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/oparin-defeats-zhou-armageddon-wins-us-open",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
       },
       {
-         "description" : "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&#38;rsquo;s Children&#38;rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
-         "pubDate" : "Thu, 30 Jul 2026 08:20:46",
-         "title" : "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library"
-      },
-      {
          "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-gukesh-loses-to-pranesh-nihal-sarin-wins/articleshow/132550346.cms",
          "pubDate" : "Wed, 22 Jul 2026 03:18:19",
          "title" : "Chennai Grand Masters: Gukesh loses to Pranesh, Nihal Sarin wins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132540907.cms\" />GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pranesh-stuns-gukesh-again-nihal-downs-erigaisi-at-chennai-grand-masters/articleshow/132540907.cms",
-         "pubDate" : "Tue, 21 Jul 2026 15:51:27",
-         "title" : "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters"
       }
    ]
 }
