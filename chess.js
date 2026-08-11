@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana was the only winner in the opening round of the Sinquefield Cup, defeating Jorden van Foreest to take the early sole lead in Saint Louis. The remaining four games were drawn, though Javokhir Sindarov missed chances to convert a favourable endgame against Levon Aronian. | Photo: Austin Fuller / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-1",
+         "pubDate" : "Tue, 11 Aug 2026 08:20:00",
+         "title" : "Sinquefield Cup: Caruana beats Van Foreest to take early lead"
+      },
+      {
+         "description" : "The inaugural Apogee Chess Festival will take place in Caissargues, near Nîmes, from 22 to 30 August 2026, combining competitive chess with the cultural heritage of southern France. Organised by IM Silvia Alexieva, the event will feature two FIDE-rated open sections, a €26,000 prize fund and a special appearance by former FIDE world champion Veselin Topalov, who will give a simultaneous exhibition near the historic Maison Carr&eacute;e.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/apogee-chess-festival-2026-preview",
+         "pubDate" : "Tue, 11 Aug 2026 07:07:43",
+         "title" : "Veselin Topalov headlines the inaugural Apogee Chess Festival"
+      },
+      {
          "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-1",
-         "pubDate" : "Mon, 10 Aug 2026 17:47:02",
+         "pubDate" : "Mon, 10 Aug 2026 17:47:00",
          "title" : "Caruana Scores 1st Win In Sinquefield Cup; Tan, Divya, Lee Lead Cairns Cup"
       },
       {
@@ -664,30 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
          "pubDate" : "Tue, 21 Jul 2026 10:00:00",
          "title" : "ChessBase tips for beginners - Standard Layout or Custom Layout (10)"
-      },
-      {
-         "description" : "The ECU General Assembly and Elections 2026 took place on Saturday, 18th of July, at the premises of the Romanian Olympic Committee in Bucharest, Romania. The guests of honour at the opening ceremony were Mr Mihai Claudiu, President of the Romanian Olympic Committee and an Olympic fencing champion, and Mrs Nadia Elena Comaneci, a five-time Olympic gymnastics champion and one of the greatest athletes in history. In her opening speech, Comaneci delivered a powerful message expressing her wish for chess []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2026-3/",
-         "pubDate" : "Tue, 21 Jul 2026 07:14:39",
-         "title" : "ECU General Assembly 2026"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132527672.cms\" />The All India Chess Federation has awarded quarterly stipends worth Rs 42.3 lakh to 42 top junior players across the Under-7 to Under-19 categories. Selected based on their 2024 National Championship performances, each receives Rs 60,000-Rs 1.5 lakh to support coaching and travel. AICF says the historic initiative aims to remove financial barriers and strengthen India's grassroots chess ecosystem.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-42-3-lakh-boost-indian-chess-federation-announces-massive-financial-push-for-prodigies/articleshow/132527672.cms",
-         "pubDate" : "Tue, 21 Jul 2026 04:32:56",
-         "title" : "Rs 42.3 lakh boost! Indian chess body announces massive push for prodigies"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132527673.cms\" />Arjun Erigaisi secured a significant classical victory against world champion D Gukesh. The topsy-turvy game saw Gukesh falter in the endgame after missing opportunities. This dramatic result propelled Arjun Erigaisi into a tie for the lead. He now shares the top spot with Alireza Firouzja on 3.5 points. Two rounds remain in the competitive eight-player chess event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-arjun-erigaisi-storms-past-gukesh/articleshow/132527673.cms",
-         "pubDate" : "Tue, 21 Jul 2026 04:15:24",
-         "title" : "Chennai Grand Masters: Arjun Erigaisi storms past Gukesh"
       }
    ]
 }
