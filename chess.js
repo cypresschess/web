@@ -10,6 +10,14 @@ news_feed (
          "title" : "Carlsen returns to defend Esports World Cup title in Paris"
       },
       {
+         "description" : "GM Fabiano Caruana took sole lead of the 2026 Sinquefield Cup after round one on Monday after beating GM Jorden van Foreest with the white pieces. All other games ended in draws&#38;mdash;that is, GM Javokhir Sindarov vs. GM Levon Aronian, GM Vincent ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-1",
+         "pubDate" : "Mon, 10 Aug 2026 17:47:02",
+         "title" : "Caruana Scores 1st Win In Sinquefield Cup; Tan, Divya, Lee Lead Cairns Cup"
+      },
+      {
          "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/creator-brawl-chess-arena",
          "pubDate" : "Wed, 29 Jul 2026 11:00:00",
          "title" : "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31"
-      },
-      {
-         "description" : "Who says chess needs to be an individual game? Call up your buddy and get ready for the madness of the Chess.com Bughouse Chess Championship! The event features a $5,000 prize fund and will take place from August 3 to August 7. Bughouse is one of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2026",
-         "pubDate" : "Wed, 29 Jul 2026 08:00:00",
-         "title" : "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3"
       },
       {
          "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
