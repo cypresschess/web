@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Freestyle Chess and FIDE have confirmed the remaining qualification path for the 2027 FIDE Freestyle Chess World Championship, with three places still available in both the open and women's fields. Spots will be decided through the second part of the Freestyle Friday Championship and online qualifiers in November 2026 and January 2027. Five players have already qualified for each section, with the final lineups to be completed by 7 January.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2027-final-qualification-path",
+         "pubDate" : "Wed, 12 Aug 2026 03:45:00",
+         "title" : "Road to Weissenhaus 2027: Final qualification path confirmed"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
          "pubDate" : "Tue, 11 Aug 2026 18:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Round two of the 2026 Sinquefield Cup featured wins on four out of five boards, with the white pieces scoring every point. GM Levon Aronian came back from the dead to beat GM Vincent Keymer, GM Maxime Vachier-Lagrave beat GM Sam Sevian in a compli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-2",
+         "pubDate" : "Tue, 11 Aug 2026 18:24:59",
+         "title" : "Aronian Wins From Lost Position; 4 White Wins In Sinquefield, 3 Wins In Cairns"
       },
       {
          "description" : "GM Shreyas Royal became the youngest British Champion in history at 17, while 11-year-old FM Bodhana Sivanandan broke the age record for the British Women&#38;rsquo;s title. Fellow prodigy FM Supratit Banerjee, 12, also completed his third IM norm. B...",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "European Junior U20 Chess Championship 2026 is halfway through"
       },
       {
-         "description" : "GMs Wei Yi and Andrey Esipenko are through to tomorrow&#39;s 16-player Group Stage of the $1.5 million 2026 Esports World Cup where they&#39;ll take on the likes of GMs Magnus Carlsen, Hikaru Nakamura, and Alireza Firouzja. Wei needed just six games in th...",
+         "description" : "GMs Wei Yi (Team Nemesis) and Andrey Esipenko (Virtus.pro) are through to tomorrow&#39;s 16-player Group Stage of the $1.5 million 2026 Esports World Cup, where they&#39;ll take on the likes of GMs Magnus Carlsen, Hikaru Nakamura, and Alireza Firouzja. We...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-esports-world-cup-play-in",
-         "pubDate" : "Tue, 11 Aug 2026 11:25:47",
+         "pubDate" : "Tue, 11 Aug 2026 11:25:00",
          "title" : "Esipenko, Wei Yi Join Carlsen & Co. In Esports World Cup Last 16"
       },
       {
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wemby-gothamchess-headline-hoop-gambit-chess-festival",
-         "pubDate" : "Tue, 11 Aug 2026 06:13:05",
+         "pubDate" : "Tue, 11 Aug 2026 06:13:00",
          "title" : "🏀 Wemby, GothamChess Headline Hoop Gambit Festival"
       },
       {
@@ -474,14 +490,6 @@ news_feed (
          "title" : "Hou Yifan Wins, Sets Date With Alice Lee In Final"
       },
       {
-         "description" : "GM Hikaru Nakamura reclaimed the Bullet Brawl throne with relative ease on Saturday one week after missing out on the $400 first prize due to inferior tiebreaks. With 50 wins, eight draws, and only 11 losses to his name, Nakamura convincingly won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
-         "pubDate" : "Sat, 01 Aug 2026 19:46:40",
-         "title" : "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title"
-      },
-      {
          "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-alireza-firouzja-wins-title-as-world-champion-gukesh-suffers-shock-last-place-finish/articleshow/132561685.cms",
          "pubDate" : "Wed, 22 Jul 2026 14:49:48",
          "title" : "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132550346.cms\" />D Gukesh faces a difficult period in the Chennai GM chess tournament. He is currently in last place after six rounds of play. Gukesh lost his second consecutive game to a fellow Indian player. Nihal Sarin defeated overnight leader Erigaisi Arjun in another match. This result has created a three-way tie for the tournament title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-gukesh-loses-to-pranesh-nihal-sarin-wins/articleshow/132550346.cms",
-         "pubDate" : "Wed, 22 Jul 2026 03:18:19",
-         "title" : "Chennai Grand Masters: Gukesh loses to Pranesh, Nihal Sarin wins"
       }
    ]
 }
