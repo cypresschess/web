@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four decisive games in round two of the Sinquefield Cup produced a five-way tie for the lead, with all four wins coming with the white pieces. Levon Aronian, Wesley So, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave (pictured) joined Fabiano Caruana on 1&frac12;/2 points. Aronian's 91-move win over Vincent Keymer came after he survived a lost position. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-2",
+         "pubDate" : "Wed, 12 Aug 2026 08:20:00",
+         "title" : "Sinquefield Cup: Pragg, So, Aronian and MVL all score with white"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133171475.cms\" />At the Sinquefield Cup, Indian Grandmaster R Praggnanandhaa has emerged as a frontrunner after a pivotal win against Javokhir Sindarov in an intense match. This triumph is a significant addition to his success, having recently clinched the Grand Chess Tour St Louis Rapid and Blitz title. Meanwhile, Indian competitors encountered obstacles at the Cairns Cup, with Vaishali, Deshmukh, and Humpy struggling in their second rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-world-championship-challenger-sindarov-to-share-sinquefield-cup-lead/articleshow/133171475.cms",
+         "pubDate" : "Wed, 12 Aug 2026 05:21:38",
+         "title" : "Praggnanandhaa beats Sindarov to share Sinquefield Cup lead"
+      },
+      {
          "description" : "Freestyle Chess and FIDE have confirmed the remaining qualification path for the 2027 FIDE Freestyle Chess World Championship, with three places still available in both the open and women's fields. Spots will be decided through the second part of the Freestyle Friday Championship and online qualifiers in November 2026 and January 2027. Five players have already qualified for each section, with the final lineups to be completed by 7 January.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Road to Weissenhaus 2027: Final qualification path confirmed"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Tue, 11 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-6",
+         "pubDate" : "Tue, 11 Aug 2026 20:00:00",
+         "title" : "ChessBase Summer-Special! - Part 6"
       },
       {
          "description" : "Round two of the 2026 Sinquefield Cup featured wins on four out of five boards, with the white pieces scoring every point. GM Levon Aronian came back from the dead to beat GM Vincent Keymer, GM Maxime Vachier-Lagrave beat GM Sam Sevian in a compli...",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ashraf-wins-titled-tuesday-august-11-2026",
          "pubDate" : "Tue, 11 Aug 2026 16:01:02",
          "title" : "Titled Tuesday Vet Wins First Ever"
-      },
-      {
-         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-6",
-         "pubDate" : "Tue, 11 Aug 2026 15:00:00",
-         "title" : "ChessBase Summer-Special! - Part 6"
       },
       {
          "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. Fourteen players have qualified directly for the group stage, while eight more will compete in Tuesday's Play-In for the final two spots in the 16-player field. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
