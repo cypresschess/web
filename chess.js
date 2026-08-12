@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. The field is strong: besides Carlsen, Hikaru Nakamura, Alireza Firouzja, Ian Nepomniachtchi, Arjun Erigaisi, Jan-Krzysztof Duda and Nodirbek Abdusattorov will also compete. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
+         "pubDate" : "Wed, 12 Aug 2026 11:40:00",
+         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
+         "description" : "The 2026 British Chess Championships have come to a close!&#160;After nine unforgettable days of outstanding chess, dramatic finishes and exceptional performances at the University of Warwick, we have crowned our...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
+         "pubDate" : "Wed, 12 Aug 2026 09:35:05",
+         "title" : "The 2026 British Chess Championships conclude in Coventry"
+      },
+      {
          "description" : "Four decisive games in round two of the Sinquefield Cup produced a five-way tie for the lead, with all four wins coming with the white pieces. Levon Aronian, Wesley So, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave (pictured) joined Fabiano Caruana on 1&frac12;/2 points. Aronian's 91-move win over Vincent Keymer came after he survived a lost position. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-2",
-         "pubDate" : "Tue, 11 Aug 2026 18:24:59",
+         "pubDate" : "Tue, 11 Aug 2026 18:24:00",
          "title" : "Aronian Wins From Lost Position; 4 White Wins In Sinquefield, 3 Wins In Cairns"
       },
       {
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026",
-         "pubDate" : "Tue, 11 Aug 2026 16:03:08",
+         "pubDate" : "Tue, 11 Aug 2026 16:03:00",
          "title" : "Shreyas Royal, Bodhana Sivanandan Make History As Youngest-Ever British Champions"
       },
       {
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ashraf-wins-titled-tuesday-august-11-2026",
          "pubDate" : "Tue, 11 Aug 2026 16:01:02",
          "title" : "Titled Tuesday Vet Wins First Ever"
-      },
-      {
-         "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. Fourteen players have qualified directly for the group stage, while eight more will compete in Tuesday's Play-In for the final two spots in the 16-player field. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
-         "pubDate" : "Tue, 11 Aug 2026 12:11:24",
-         "title" : "Esports World Cup live"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
