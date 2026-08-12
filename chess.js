@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Wed, 12 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Wed, 12 Aug 2026 11:40:00",
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
+         "description" : "Defending Champion GM Magnus Carlsen said he was &#34;in no shape to play chess,&#34; but he still beat GMs&#38;nbsp;Andrey Esipenko and Hans Niemann 1.5-0.5 to reach Friday&#39;s Playoffs of the $1.5 million 2026 Esports World Cup. He&#39;s joined by GMs Hikaru Naka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-1",
+         "pubDate" : "Wed, 12 Aug 2026 10:27:00",
+         "title" : "Carlsen, Nakamura, Firouzja, Abdusattorov Reach Esports World Cup Playoffs"
       },
       {
          "description" : "The 2026 British Chess Championships have come to a close!&#160;After nine unforgettable days of outstanding chess, dramatic finishes and exceptional performances at the University of Warwick, we have crowned our...",
@@ -58,12 +74,20 @@ news_feed (
          "title" : "Road to Weissenhaus 2027: Final qualification path confirmed"
       },
       {
-         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 16th, 2026), you can get over 25% off all Fritz Trainer courses by Svitlana Demchenko and Karsten Mueller!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-6",
-         "pubDate" : "Tue, 11 Aug 2026 20:00:00",
-         "title" : "ChessBase Summer-Special! - Part 6"
+         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held last month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-3",
+         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 3"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2026-2027 US Chess Executive Board: (Top row, l-r) Daniel Serna, John D. Rockefeller V, John Fernandez, Anand Dommalapati. (Bottom row, l-r): Fred Abousleman, David Hater, Kevin Pryor, Lakshmana \"Vish\" Viswanath (Photo by David Llada). After the 2026 Delegates Meeting completed on August 8, 2026, the Executive Board elected the following officers:President: John FernandezVice President: John D. Rockefeller VVice President of Finance: Daniel SernaSecretary: Anand DommalapatiCompleting the board are:Member-at-Large: David HaterMember-at-Large: Kevin PryorMember-at-Large: Lakshmana \"Vish\" ViswanathExecutive Director: Fred",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/announcing-2026-2027-executive-board",
+         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
+         "title" : "Announcing the 2026-2027 Executive Board"
       },
       {
          "description" : "Round two of the 2026 Sinquefield Cup featured wins on four out of five boards, with the white pieces scoring every point. GM Levon Aronian came back from the dead to beat GM Vincent Keymer, GM Maxime Vachier-Lagrave beat GM Sam Sevian in a compli...",
@@ -71,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-2",
          "pubDate" : "Tue, 11 Aug 2026 18:24:00",
-         "title" : "Aronian Wins From Lost Position; 4 White Wins In Sinquefield, 3 Wins In Cairns"
+         "title" : "Aronian Wins From Lost Position; Lee, Tan On 2/2"
       },
       {
          "description" : "GM Shreyas Royal became the youngest British Champion in history at 17, while 11-year-old FM Bodhana Sivanandan broke the age record for the British Women&#38;rsquo;s title. Fellow prodigy FM Supratit Banerjee, 12, also completed his third IM norm. B...",
@@ -394,14 +418,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 2"
       },
       {
-         "description" : "126th U.S. Open and Invitationals Ramp UpThe first double-round day is in the books at the 126th U.S. Open in Grand Rapids, MI. Players in the National Invitational tournaments are now halfway through their tournaments, and those in the 7-day schedule of the Open are now a third of the way through the event. Today we have Rounds 4 and 5 of the Invitationals and the 7-day Open, with commentary by WGM Sabina Foisor already underway on our Twitch channel. All annotations today come from Sabina!The 5-day schedule of the Open also begins today, with Round 1 beginning at 3 p.m. Weeramantry BlitzBefore Monday's first round, 216 state champions participated in the 7th Annual Weeramantry Blitz Tourna",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/double-round-days-begin-grand-rapids",
-         "pubDate" : "Wed, 05 Aug 2026 00:00:00",
-         "title" : "Double Round Days Begin in Grand Rapids"
-      },
-      {
          "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -442,14 +458,6 @@ news_feed (
          "title" : "European Junior U20 Chess Championship 2026 starts"
       },
       {
-         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month in St. Louis. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-junior-and-senior-championships-pt-2",
-         "pubDate" : "Tue, 04 Aug 2026 00:00:00",
-         "title" : "Tactics Tuesday: Junior and Senior Championships, Pt. 2"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/odyssey-chess-bots",
          "pubDate" : "Mon, 03 Aug 2026 06:42:05",
          "title" : "The Chess Odyssey Bots Are Here For August!"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid &#38;amp; Blitz, taking the sole lead with five out of a possible six points. He&#39;s trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-1",
-         "pubDate" : "Sun, 02 Aug 2026 20:50:00",
-         "title" : "Praggnanandhaa Takes Sole Lead On Day 1"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
@@ -688,14 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-abstract-thats-why-its-very-isolating-american-gm-hans-niemann/articleshow/132571380.cms",
          "pubDate" : "Thu, 23 Jul 2026 03:38:46",
          "title" : "'Chess is abstract, that's why it's very isolating': American GM Hans Niemann"
-      },
-      {
-         "description" : "The Armenian State Pedagogical University, together with the &#8220;Chess&#8221; Scientific Research Institute and the Chess Academy of Armenia, organise the International Scientific Conference \"Theory and Practice of Chess Education\" from 1-2 October 2026 in Tsaghkadzor, Armenia. The event will be held in the Hybrid format (Online and Onsite), aiming to bring together researchers, educators, and practitioners to explore the role of chess in education, cognitive development, and social-emotional learning. The Conference will cover the following topics: Chess and Personal Development, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/international-scientific-conference-theory-and-practice-of-chess-education/",
-         "pubDate" : "Wed, 22 Jul 2026 17:26:51",
-         "title" : "International Scientific Conference \"Theory and Practice of Chess Education\""
       }
    ]
 }
