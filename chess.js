@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/high-level-tournaments-in-london-22-29-august/",
+         "pubDate" : "Wed, 12 Aug 2026 12:36:40",
+         "title" : "High Level Tournaments in London (22-29 August)"
+      },
+      {
          "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. The field is strong: besides Carlsen, Hikaru Nakamura, Alireza Firouzja, Ian Nepomniachtchi, Arjun Erigaisi, Jan-Krzysztof Duda and Nodirbek Abdusattorov will also compete. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-2",
          "pubDate" : "Wed, 12 Aug 2026 08:20:00",
          "title" : "Sinquefield Cup: Pragg, So, Aronian and MVL all score with white"
+      },
+      {
+         "description" : "The Kenyan chess community is mourning the loss of Hawi Kaloki, one of the country&#39;s leading chess players and a former national number one. He passed away at the age of 19, just weeks before he was due to make his Olympiad debut. The sad news wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/former-kenya-no-1-hawi-kaloki-dies-at-19-weeks-before-chess-olympiad",
+         "pubDate" : "Wed, 12 Aug 2026 06:05:16",
+         "title" : "Kenyan Chess Star Hawi Kaloki Dies At 19 Ahead Of Olympiad Debut"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133171475.cms\" />At the Sinquefield Cup, Indian Grandmaster R Praggnanandhaa has emerged as a frontrunner after a pivotal win against Javokhir Sindarov in an intense match. This triumph is a significant addition to his success, having recently clinched the Grand Chess Tour St Louis Rapid and Blitz title. Meanwhile, Indian competitors encountered obstacles at the Cairns Cup, with Vaishali, Deshmukh, and Humpy struggling in their second rounds.",
@@ -498,14 +514,6 @@ news_feed (
          "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
       },
       {
-         "description" : "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second semifinal of the 2026 Women&#39;s Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent&#39;s expected resurgen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-sf-hou-assaubayeva",
-         "pubDate" : "Sun, 02 Aug 2026 05:39:00",
-         "title" : "Hou Yifan Wins, Sets Date With Alice Lee In Final"
-      },
-      {
          "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -688,22 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/international-scientific-conference-theory-and-practice-of-chess-education/",
          "pubDate" : "Wed, 22 Jul 2026 17:26:51",
          "title" : "International Scientific Conference \"Theory and Practice of Chess Education\""
-      },
-      {
-         "description" : " The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4&frac12;/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dead last on 2/7 and is in danger of falling below 2700. Gukesh continues to play wildly ambitious chess, it's still possible to believe he'll turn this around.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2026",
-         "pubDate" : "Wed, 22 Jul 2026 14:55:00",
-         "title" : "Quantbox Chennai Grand Masters 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132561685.cms\" />French Grandmaster Alireza Firouzja secured the Chennai Grand Masters title. He held Indian GM Arjun Erigaisi to a draw in the final round. World champion D Gukesh endured a disappointing campaign, finishing last in the tournament. Firouzja finished with 4.5 points after two victories and five draws. Andreikin ended the event as the only other unbeaten player.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-alireza-firouzja-wins-title-as-world-champion-gukesh-suffers-shock-last-place-finish/articleshow/132561685.cms",
-         "pubDate" : "Wed, 22 Jul 2026 14:49:48",
-         "title" : "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish"
       }
    ]
 }
