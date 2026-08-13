@@ -90,6 +90,14 @@ news_feed (
          "title" : "Praggnanandhaa beats Sindarov to share Sinquefield Cup lead"
       },
       {
+         "description" : "Writers, columnists, photographers and analysts from US Chess had much to celebrate at the annual Chess Journalists of America (CJA) meeting on August 6 in Grand Rapids. US Chess took home 23 awards, including two of the \"big three\" - FM Mike Klein won \"Best Story of the Year\" for his December 2025 obituary of GM Daniel Naroditsky, while GM Joel Benjamin was awarded the \"Best Column\" prize.Here is the full list of awards won by US Chess. For complete results, visit the CJA website. Congratulations to all! TOP AWARDSBest Story of the Year, WinnerFM Mike Klein, \"Danya\" (Chess Life, December 2025) <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Best Column, WinnerGM Joel B",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-chess-journalist-america-awards-announced",
+         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
+         "title" : "2026 Chess Journalist of America Awards Announced"
+      },
+      {
          "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held last month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -402,14 +410,6 @@ news_feed (
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
       },
       {
-         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held earlier this month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-2",
-         "pubDate" : "Wed, 05 Aug 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 2"
-      },
-      {
          "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -648,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
          "pubDate" : "Fri, 24 Jul 2026 01:32:34",
          "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
-      },
-      {
-         "description" : "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classical section on 21-23 July. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
-         "pubDate" : "Thu, 23 Jul 2026 13:50:00",
-         "title" : "Biel Festival - Live!"
       }
    ]
 }
