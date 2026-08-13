@@ -10,6 +10,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GM Wesley So broke out to the sole lead of the 2026 Sinquefield Cup with a win, with the black pieces, over GM Fabiano Caruana. There were two more decisive games: GM Vincent Keymer bounced back from yesterday&#39;s loss with a win against GM Praggnan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-3",
+         "pubDate" : "Wed, 12 Aug 2026 17:52:40",
+         "title" : "So Leads Sinquefield Cup; Divya Deals Kosteniuk 3rd Loss"
+      },
+      {
          "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
       },
       {
-         "description" : "Defending Champion GM Magnus Carlsen said he was &#34;in no shape to play chess,&#34; but he still beat GMs&#38;nbsp;Andrey Esipenko and Hans Niemann 1.5-0.5 to reach Friday&#39;s Playoffs of the $1.5 million 2026 Esports World Cup. He&#39;s joined by GMs Hikaru Naka...",
+         "description" : "Defending Champion GM Magnus Carlsen said he was &#34;in no shape to play chess,&#34; but he still beat GMs Andrey Esipenko and Hans Niemann 1.5-0.5 to reach Friday&#39;s Playoffs of the $1.5 million 2026 Esports World Cup. He&#39;s joined by GMs Hikaru Nakamura,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-1",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
          "pubDate" : "Wed, 12 Aug 2026 09:35:05",
          "title" : "The 2026 British Chess Championships conclude in Coventry"
-      },
-      {
-         "description" : "Four decisive games in round two of the Sinquefield Cup produced a five-way tie for the lead, with all four wins coming with the white pieces. Levon Aronian, Wesley So, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave (pictured) joined Fabiano Caruana on 1&frac12;/2 points. Aronian's 91-move win over Vincent Keymer came after he survived a lost position. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-2",
-         "pubDate" : "Wed, 12 Aug 2026 08:20:00",
-         "title" : "Sinquefield Cup: Pragg, So, Aronian and MVL all score with white"
       },
       {
          "description" : "The Kenyan chess community is mourning the loss of Hawi Kaloki, one of the country&#39;s leading chess players and a former national number one. He passed away at the age of 19, just weeks before he was due to make his Olympiad debut. The sad news wa...",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-world-championship-challenger-sindarov-to-share-sinquefield-cup-lead/articleshow/133171475.cms",
          "pubDate" : "Wed, 12 Aug 2026 05:21:38",
          "title" : "Praggnanandhaa beats Sindarov to share Sinquefield Cup lead"
-      },
-      {
-         "description" : "Freestyle Chess and FIDE have confirmed the remaining qualification path for the 2027 FIDE Freestyle Chess World Championship, with three places still available in both the open and women's fields. Spots will be decided through the second part of the Freestyle Friday Championship and online qualifiers in November 2026 and January 2027. Five players have already qualified for each section, with the final lineups to be completed by 7 January.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-wc-2027-final-qualification-path",
-         "pubDate" : "Wed, 12 Aug 2026 03:45:00",
-         "title" : "Road to Weissenhaus 2027: Final qualification path confirmed"
       },
       {
          "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held last month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -130,22 +122,6 @@ news_feed (
          "title" : "Esipenko, Wei Yi Join Carlsen & Co. In Esports World Cup Last 16"
       },
       {
-         "description" : "Fabiano Caruana was the only winner in the opening round of the Sinquefield Cup, defeating Jorden van Foreest to take the early sole lead in Saint Louis. The remaining four games were drawn, though Javokhir Sindarov missed chances to convert a favourable endgame against Levon Aronian. | Photo: Austin Fuller / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-1",
-         "pubDate" : "Tue, 11 Aug 2026 08:20:00",
-         "title" : "Sinquefield Cup: Caruana beats Van Foreest to take early lead"
-      },
-      {
-         "description" : "The inaugural Apogee Chess Festival will take place in Caissargues, near Nîmes, from 22 to 30 August 2026, combining competitive chess with the cultural heritage of southern France. Organised by IM Silvia Alexieva, the event will feature two FIDE-rated open sections, a €26,000 prize fund and a special appearance by former FIDE world champion Veselin Topalov, who will give a simultaneous exhibition near the historic Maison Carr&eacute;e.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/apogee-chess-festival-2026-preview",
-         "pubDate" : "Tue, 11 Aug 2026 07:07:43",
-         "title" : "Veselin Topalov headlines the inaugural Apogee Chess Festival"
-      },
-      {
          "description" : "NBA star Victor Wembanyama, Wemby to his fans, loves chess almost as much as basketball. For the second straight year, Wembanyama organized a summer Hoop Gambit Festival, combining his two favorite activities. The festival was held on the outskirt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +136,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-1",
          "pubDate" : "Tue, 11 Aug 2026 00:00:00",
          "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 1"
-      },
-      {
-         "description" : "Magnus Carlsen will return to defend his Esports World Cup title as chess makes its second appearance at the event, this time in Paris. The competition runs from 11 to 15 August and features a rapid 10-minute time control without increment. Fourteen players have already qualified directly for the group stage, while eight others will contest Tuesday's Play-In for the final two places in the 16-player field. | Photos: Esports World Cup 2025",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-preview",
-         "pubDate" : "Mon, 10 Aug 2026 18:35:00",
-         "title" : "Carlsen returns to defend Esports World Cup title in Paris"
       },
       {
          "description" : "GM Fabiano Caruana took sole lead of the 2026 Sinquefield Cup after round one on Monday after beating GM Jorden van Foreest with the white pieces. All other games ended in draws&#38;mdash;that is, GM Javokhir Sindarov vs. GM Levon Aronian, GM Vincent ...",
@@ -488,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
          "pubDate" : "Mon, 03 Aug 2026 06:57:57",
          "title" : "Help us build the next ChessBase"
-      },
-      {
-         "description" : "Every month, a new group of bots appear on Chess.com. This August, set sail on an epic chess adventure inspired by the legends of ancient Greece!&#38;nbsp;Navigate dangerous seas filled with monsters, magic, and heroes from Greek mythology. Enter the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/odyssey-chess-bots",
-         "pubDate" : "Mon, 03 Aug 2026 06:42:05",
-         "title" : "The Chess Odyssey Bots Are Here For August!"
       },
       {
          "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
