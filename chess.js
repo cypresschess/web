@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Austin Fuller",
+         "description" : "Wesley So took the sole lead at the Sinquefield Cup after defeating Fabiano Caruana with black in round three. Vincent Keymer bounced back from his previous-round loss by beating Praggnanandhaa Rameshbabu, while Sam Sevian overcame Anish Giri after 110 moves. Maxime Vachier-Lagrave and Levon Aronian remain half a point behind So following draws against Javokhir Sindarov and Jorden van Foreest, respectively. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Wed, 12 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-3",
+         "pubDate" : "Thu, 13 Aug 2026 08:20:00",
+         "title" : "Sinquefield Cup: So beats Caruana, becomes sole leader"
+      },
+      {
+         "description" : "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction with him. For us news of his passing came out of the blue, and it left us deeply saddened.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-oleg-skvortsov",
+         "pubDate" : "Thu, 13 Aug 2026 08:00:00",
+         "title" : "Remembering Oleg Skvortsov"
+      },
+      {
+         "description" : "Alireza Firouzja, Nodirbek Abdusattorov, Magnus Carlsen and Hikaru Nakamura secured their places in the Esports World Cup playoffs after winning both of their matches on Wednesday. Firouzja needed Armageddon deciders against Wei Yi and Arjun Erigaisi, while Abdusattorov won all four of his games. Carlsen and Nakamura also advanced without losing a match, leaving 12 players to contest the remaining 4 playoff spots on Thursday. | Image: Esports World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d2",
+         "pubDate" : "Thu, 13 Aug 2026 06:30:00",
+         "title" : "Esports World Cup: Carlsen, Firouzja, Nakamura and Abdusattorov prevail in group stage"
       },
       {
          "description" : "GM Wesley So broke out to the sole lead of the 2026 Sinquefield Cup with a win, with the black pieces, over GM Fabiano Caruana. There were two more decisive games: GM Vincent Keymer bounced back from yesterday&#39;s loss with a win against GM Praggnan...",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-rapid-and-blitz-chess-championships-2027-regulations/",
          "pubDate" : "Thu, 23 Jul 2026 09:23:40",
          "title" : "European Senior Rapid and Blitz Chess Championships 2027 - Regulations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132571380.cms\" />Niemann welcomed the removal of the rating qualification spot for the 2026 Candidates Tournament, arguing that the qualifiers through that route in the previous three cycles - Ding, Alireza Firouzja and Hikaru Nakamura - had found loopholes in the system and played easier games to secure their places.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-abstract-thats-why-its-very-isolating-american-gm-hans-niemann/articleshow/132571380.cms",
-         "pubDate" : "Thu, 23 Jul 2026 03:38:46",
-         "title" : "'Chess is abstract, that's why it's very isolating': American GM Hans Niemann"
       }
    ]
 }
