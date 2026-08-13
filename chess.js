@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Thu, 13 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133217460.cms\" />In a surprising twist at the 2026 Sinquefield Cup, Indian Grandmaster R Praggnanandhaa succumbed to his first defeat, falling to Germany's Vincent Keymer in round three. Meanwhile, Wesley So clinched a vital win, catapulting him to the top of the leaderboard. Previously triumphant in the Saint Louis Rapid &amp; Blitz tournament, Praggnanandhaa is now tied for fourth with several formidable players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-2026-r-praggnanandhaa-suffers-first-defeat-loses-to-vincent-keymer-in-round-3/articleshow/133217460.cms",
+         "pubDate" : "Thu, 13 Aug 2026 15:32:22",
+         "title" : "Sinquefield Cup : Praggnanandhaa suffers first defeat, loses to Keymer in round 3"
+      },
+      {
          "description" : "Magnus Carlsen looks to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. On Thursday, twelve players fight for four spots in the tournament playoffs. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Thu, 13 Aug 2026 12:00:00",
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
+         "description" : "19-year-old GM Denis Lazavik pulled off the day&#39;s biggest upset to defeat GM Ian Nepomniachtchi and book a 2026 Esports World Cup quarterfinal against GM Nodirbek Abdusattorov. He&#39;s joined by GM Nihal Sarin, who faces GM Magnus Carlsen in a repeat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-2",
+         "pubDate" : "Thu, 13 Aug 2026 11:03:26",
+         "title" : "Lazavik Ousts Nepomniachtchi, Joins Arjun, Nihal, Niemann In Quarterfinals"
       },
       {
          "description" : "Wesley So took the sole lead at the Sinquefield Cup after defeating Fabiano Caruana with black in round three. Vincent Keymer bounced back from his previous-round loss by beating Praggnanandhaa Rameshbabu, while Sam Sevian overcame Anish Giri after 110 moves. Maxime Vachier-Lagrave and Levon Aronian remain half a point behind So following draws against Javokhir Sindarov and Jorden van Foreest, respectively. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-starts/",
          "pubDate" : "Tue, 04 Aug 2026 10:48:50",
          "title" : "European Junior U20 Chess Championship 2026 starts"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid &#38;amp; Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
-         "pubDate" : "Mon, 03 Aug 2026 16:35:00",
-         "title" : "Praggnanandhaa Leads, Sindarov Trails By 2 Points"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132831412.cms\" />The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by Grandmaster Abhijeet Gupta, the federation is in talks with stakeholders to finalise dates. AICF said a packed domestic and international calendar had forced the initial postponement.",
