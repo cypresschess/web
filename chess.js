@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/demchenko-opening-surprises-review-2",
+         "pubDate" : "Thu, 13 Aug 2026 23:00:00",
+         "title" : "Invest an hour and you will be ready to confound your opponents: Svitlana Demchenko's Opening Surprises"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-2",
-         "pubDate" : "Thu, 13 Aug 2026 11:03:26",
+         "pubDate" : "Thu, 13 Aug 2026 11:03:00",
          "title" : "Lazavik Ousts Nepomniachtchi, Joins Arjun, Nihal, Niemann In Quarterfinals"
       },
       {
