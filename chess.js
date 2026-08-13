@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen looks to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. On Thursday, twelve players fight for four spots in the tournament playoffs. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
+         "pubDate" : "Thu, 13 Aug 2026 12:00:00",
+         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
          "description" : "Wesley So took the sole lead at the Sinquefield Cup after defeating Fabiano Caruana with black in round three. Vincent Keymer bounced back from his previous-round loss by beating Praggnanandhaa Rameshbabu, while Sam Sevian overcame Anish Giri after 110 moves. Maxime Vachier-Lagrave and Levon Aronian remain half a point behind So following draws against Javokhir Sindarov and Jorden van Foreest, respectively. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-3",
          "pubDate" : "Thu, 13 Aug 2026 08:20:00",
          "title" : "Sinquefield Cup: So beats Caruana, becomes sole leader"
+      },
+      {
+         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
+         "pubDate" : "Thu, 13 Aug 2026 08:01:21",
+         "title" : "European Open and Women's Chess Club Cups 2026 - Official invitation"
       },
       {
          "description" : "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction with him. For us news of his passing came out of the blue, and it left us deeply saddened.",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-3",
-         "pubDate" : "Wed, 12 Aug 2026 17:52:40",
+         "pubDate" : "Wed, 12 Aug 2026 17:52:00",
          "title" : "So Leads Sinquefield Cup; Divya Deals Kosteniuk 3rd Loss"
       },
       {
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/high-level-tournaments-in-london-22-29-august/",
          "pubDate" : "Wed, 12 Aug 2026 12:36:40",
          "title" : "High Level Tournaments in London (22-29 August)"
-      },
-      {
-         "description" : "Magnus Carlsen will be looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. The tournament will be played at a rapid time control of 10 minutes per game with no increment. The field is strong: besides Carlsen, Hikaru Nakamura, Alireza Firouzja, Ian Nepomniachtchi, Arjun Erigaisi, Jan-Krzysztof Duda and Nodirbek Abdusattorov will also compete. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
-         "pubDate" : "Wed, 12 Aug 2026 11:40:00",
-         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
       },
       {
          "description" : "Defending Champion GM Magnus Carlsen said he was &#34;in no shape to play chess,&#34; but he still beat GMs Andrey Esipenko and Hans Niemann 1.5-0.5 to reach Friday&#39;s Playoffs of the $1.5 million 2026 Esports World Cup. He&#39;s joined by GMs Hikaru Nakamura,...",
@@ -70,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/former-kenya-no-1-hawi-kaloki-dies-at-19-weeks-before-chess-olympiad",
-         "pubDate" : "Wed, 12 Aug 2026 06:05:16",
+         "pubDate" : "Wed, 12 Aug 2026 06:05:00",
          "title" : "Kenyan Chess Star Hawi Kaloki Dies At 19 Ahead Of Olympiad Debut"
       },
       {
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2026-live",
          "pubDate" : "Thu, 23 Jul 2026 13:50:00",
          "title" : "Biel Festival - Live!"
-      },
-      {
-         "description" : "The European Chess Union and the Federation Monegasque des Echecs are pleased to announce the new event in the ECU Calendar: the European Senior Rapid and Blitz Chess Championship. The inaugurate edition of the European Senior Rapid and Blitz Chess Championship 2027 will take place from 10-14 January 2027 in Monte-Carlo, Monaco, featuring the total prize fund of €32.000. The events will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of low []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-rapid-and-blitz-chess-championships-2027-regulations/",
-         "pubDate" : "Thu, 23 Jul 2026 09:23:40",
-         "title" : "European Senior Rapid and Blitz Chess Championships 2027 - Regulations"
       }
    ]
 }
