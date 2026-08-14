@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nihal Sarin, Arjun Erigaisi, Denis Lazavik and Hans Niemann claimed the final four places in the Esports World Cup playoffs after progressing through Thursday's losers brackets. They join Alireza Firouzja, Nodirbek Abdusattorov, Magnus Carlsen and Hikaru Nakamura, who had qualified a day earlier. The quarterfinals will see Carlsen face Nihal, Nakamura meet Erigaisi, Abdusattorov play Lazavik and Firouzja take on Niemann. | Image: Esports World Cup webcast",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d3",
+         "pubDate" : "Fri, 14 Aug 2026 03:15:00",
+         "title" : "Esports World Cup: Erigaisi, Niemann, Lazavik and Nihal reach playoffs"
+      },
+      {
          "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/demchenko-opening-surprises-review-2",
          "pubDate" : "Thu, 13 Aug 2026 23:00:00",
          "title" : "Invest an hour and you will be ready to confound your opponents: Svitlana Demchenko's Opening Surprises"
+      },
+      {
+         "description" : "GM Wesley So continues to lead after round four of the 2026 Sinquefield Cup on Thursday. There was one decisive game, where GM Praggnanandhaa Rameshbabu gave GM Jorden van Foreest his third loss. Praggnanandhaa is now half a point behind the leade...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-4",
+         "pubDate" : "Thu, 13 Aug 2026 18:54:00",
+         "title" : "Praggnanandhaa Beats Van Foreest; Tan Leads By Full Point"
       },
       {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-2026-r-praggnanandhaa-suffers-first-defeat-loses-to-vincent-keymer-in-round-3/articleshow/133217460.cms",
          "pubDate" : "Thu, 13 Aug 2026 15:32:22",
          "title" : "Sinquefield Cup : Praggnanandhaa suffers first defeat, loses to Keymer in round 3"
-      },
-      {
-         "description" : "Magnus Carlsen looks to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. On Thursday, twelve players fight for four spots in the tournament playoffs. | Photos: Esports World Cup 2025 | Live from approximately 11:40 CEST",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
-         "pubDate" : "Thu, 13 Aug 2026 12:00:00",
-         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
       },
       {
          "description" : "19-year-old GM Denis Lazavik pulled off the day&#39;s biggest upset to defeat GM Ian Nepomniachtchi and book a 2026 Esports World Cup quarterfinal against GM Nodirbek Abdusattorov. He&#39;s joined by GM Nihal Sarin, who faces GM Magnus Carlsen in a repeat...",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess"
       },
       {
-         "description" : "A week ahead of the start of the Esports World Cup main event, in which he will attempt to defend last year&#39;s title, GM Magnus Carlsen won Titled Tuesday on August 4. Carlsen scored 9.5 points and held a slightly better tiebreak over GM Arjun Erig...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-august-4-2026",
-         "pubDate" : "Tue, 04 Aug 2026 11:09:00",
-         "title" : "Carlsen Takes Titled Tuesday In Esports World Cup Warmup"
-      },
-      {
          "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -656,22 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-starts/",
          "pubDate" : "Fri, 24 Jul 2026 06:25:11",
          "title" : "European Youth Team Chess Championship 2026 starts"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132594550.cms\" />FIDE President Arkady Dvorkovich has voluntarily stepped aside after being sanctioned by the European Union over Russia's invasion of Ukraine. Calling the sanctions \"unlawful and unfair\", he said he would challenge them legally. Deputy President Viswanathan Anand will serve as interim president. Meanwhile, India named its squads for the FIDE Chess Olympiad, with D Gukesh and Koneru Humpy leading the teams.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-steps-in-as-fide-interim-president-after-eu-sanctions-sideline-arkady-dvorkovich/articleshow/132594550.cms",
-         "pubDate" : "Fri, 24 Jul 2026 02:00:34",
-         "title" : "Chess legend Anand steps in as FIDE interim president after EU sanctions sideline Dvorkovich"
-      },
-      {
-         "description" : " EU unveils largest package in four years of measures against Russian individuals and interests; Laura Loomer shows up in Kyiv. What we know on day 1,612 <a href=\"https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
-         "pubDate" : "Fri, 24 Jul 2026 01:32:34",
-         "title" : "Ukraine war briefing: EU sanctions oust Russian president of world chess"
       }
    ]
 }
