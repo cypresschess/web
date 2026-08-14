@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So remains the sole leader of the Sinquefield Cup after round four, holding a half-point advantage over his nearest rivals. The only decisive result of the day saw Praggnanandhaa Rameshbabu defeat Jorden van Foreest, handing the Dutchman his third loss of the event. Pragg consequently joined Maxime Vachier-Lagrave and Levon Aronian in the chasing group, half a point behind So. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-4",
+         "pubDate" : "Fri, 14 Aug 2026 09:15:00",
+         "title" : "Sinquefield Cup: Pragg bounces back, beats Van Foreest"
+      },
+      {
+         "description" : "WIM Svitlana Demchenko presents a selection of practical opening courses designed to give players flexible and dynamic repertoire choices. Her trainers cover the Alapin Variation against the Sicilian, the aggressive Leningrad Dutch, the versatile King's Indian Attack, and a collection of easy to learn surprise weapons for both colours. As part of the ChessBase Summer Special, all of her Fritz Trainer courses are available at a discount until August 16, 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-demchenko-s-chessbase-training-courses-on-offer",
+         "pubDate" : "Fri, 14 Aug 2026 08:28:49",
+         "title" : "Svitlana Demchenko's ChessBase Training Courses on offer"
+      },
+      {
+         "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/aug/14/shreyas-royal-17-youngest-ever-british-chess-champion",
+         "pubDate" : "Fri, 14 Aug 2026 07:00:21",
+         "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
+      },
+      {
          "description" : "Nihal Sarin, Arjun Erigaisi, Denis Lazavik and Hans Niemann claimed the final four places in the Esports World Cup playoffs after progressing through Thursday's losers brackets. They join Alireza Firouzja, Nodirbek Abdusattorov, Magnus Carlsen and Hikaru Nakamura, who had qualified a day earlier. The quarterfinals will see Carlsen face Nihal, Nakamura meet Erigaisi, Abdusattorov play Lazavik and Firouzja take on Niemann. | Image: Esports World Cup webcast",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-4",
          "pubDate" : "Thu, 13 Aug 2026 18:54:00",
          "title" : "Praggnanandhaa Beats Van Foreest; Tan Leads By Full Point"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Thu, 13 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133217460.cms\" />In a surprising twist at the 2026 Sinquefield Cup, Indian Grandmaster R Praggnanandhaa succumbed to his first defeat, falling to Germany's Vincent Keymer in round three. Meanwhile, Wesley So clinched a vital win, catapulting him to the top of the leaderboard. Previously triumphant in the Saint Louis Rapid &amp; Blitz tournament, Praggnanandhaa is now tied for fourth with several formidable players.",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
          "pubDate" : "Fri, 24 Jul 2026 12:44:59",
          "title" : "India name Chess Olympiad squads as Gukesh, Praggnanandhaa, Vaishali lead title defence"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2026 is set to take place from 25 July 2 August in Pardubice, Czech Republic. The event will be played in two age categories: U12, and U18, open and girls sections separately, with teams consisting of four players and one reserve in the open competitions and two female players and one reserve in the girl competitions. Each tournament will be played in 7 rounds, swiss system, with the time control of 90 min. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-starts/",
-         "pubDate" : "Fri, 24 Jul 2026 06:25:11",
-         "title" : "European Youth Team Chess Championship 2026 starts"
       }
    ]
 }
