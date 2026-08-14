@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Fri, 14 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Magnus Carlsen will look to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. Eight players have reached the quarterfinals: Carlsen will face Nihal, Nakamura will play Erigaisi, Abdusattorov will take on Lazavik, and Firouzja will face Niemann. The tournament is played in a knockout format, with four games per match in the quarterfinals and six games per match in the semifinals. | Photos: Esports World Cup 2025 | Live from approximately 12:30 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Fri, 14 Aug 2026 12:30:00",
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
+         "description" : "We&#39;re about to find out who&#39;ll win the second Esports World Cup Chess Finals. To celebrate another year of exciting chess on the esports world stage, we&#39;re offering all our basic members the chance to get 14 days of Diamond membership for free! T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esports-world-cup-final-twitch-drops-2026",
+         "pubDate" : "Fri, 14 Aug 2026 10:13:00",
+         "title" : "Earn 14 Days Of Free Diamond By Watching The Esports World Cup Final On Twitch"
       },
       {
          "description" : "Wesley So remains the sole leader of the Sinquefield Cup after round four, holding a half-point advantage over his nearest rivals. The only decisive result of the day saw Praggnanandhaa Rameshbabu defeat Jorden van Foreest, handing the Dutchman his third loss of the event. Pragg consequently joined Maxime Vachier-Lagrave and Levon Aronian in the chasing group, half a point behind So. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-oleg-skvortsov",
          "pubDate" : "Thu, 13 Aug 2026 08:00:00",
          "title" : "Remembering Oleg Skvortsov"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tang makes it two in a row! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> One of the questions I get asked most often from chess parents is \"how do you balance school and chess?\" For a while I felt that I wasn't qualified to answer this question; I didn't have to do much balancing at all. In my final years of high school, though, with college applications looming, I had to take my own advice. For me, school always comes first. No matter how much I love chess, it is an extracurricular.An expected outcome of this hierarchy was that this school year, I spent more time writing essays than solving tac",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/balancing-act-wgm-zoey-tang-girls-junior-title-defense",
+         "pubDate" : "Thu, 13 Aug 2026 00:00:00",
+         "title" : "Balancing Act: WGM Zoey Tang on Girls' Junior Title Defense"
       },
       {
          "description" : "GM Wesley So broke out to the sole lead of the 2026 Sinquefield Cup with a win, with the black pieces, over GM Fabiano Caruana. There were two more decisive games: GM Vincent Keymer bounced back from yesterday&#39;s loss with a win against GM Praggnan...",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
       },
       {
-         "description" : "Meeting in the Middle<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Aarav Karthik (L) makes his move against IM Jason Liang in Round 4. (Photo by David Llada)<br> <br> <br> <br> Any chessplayer who has lost 20 minutes on the clock while analyzing a position for what felt like 20 seconds can tell you that time is relative, and that's how it feels today at the 126th U.S. Open, in Grand Rapids, Mich. Thursday is the halfway point of the longest Open schedule, the 7-day; it's also the last day of the National Invitational tournaments, while the hyper-accelerated 4-day schedule of the Open is just beginning! A full schedule of the day's events is available",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-open-day-3-matter-perspective",
-         "pubDate" : "Thu, 06 Aug 2026 00:00:00",
-         "title" : "U.S. Open Day 3: A Matter of Perspective"
-      },
-      {
          "description" : "The 2026 Saint Louis Rapid &#38;amp; Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bill-goichberg-1942-2026",
          "pubDate" : "Tue, 04 Aug 2026 14:24:00",
          "title" : "Bill Goichberg (1942-2026)"
-      },
-      {
-         "description" : "Bianca Mitchell-Avila was 16 when she cold-emailed Hollywood star Keanu Reeves asking him to support her chess documentary, and perhaps face her in a final battle against &#34;John Wick.&#34; Five years later, she got her game. On Thursday, Mitchell-Avil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keanu-reeves-mitchell-avila-madwomans-game-chess",
-         "pubDate" : "Tue, 04 Aug 2026 13:03:00",
-         "title" : "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
