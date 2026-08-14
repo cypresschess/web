@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When it comes to endgames, there's nobody better than Karsten M&uuml;ller. Michael Kotyk, the young Hamburg chess trainer, knows this well. He's taken out his magnifying glass and dedicated himself to M&uuml;ller's latest work: His endgame courses are ChessBase classics. The most recent edition also employs the interactive options that have become indispensable in video courses. The new edition of the Endgame Academy kicks off with Checkmate & Pawn Endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/newly-reviewed-endgame-academy-part-1-checkmate-pawn-endgames-2",
+         "pubDate" : "Fri, 14 Aug 2026 23:00:00",
+         "title" : "Newly reviewed: Endgame Academy Part 1 - Checkmate & Pawn Endgames"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "For the second week in a row, GM Pranesh M posted the best result of any player in 3 0 Thursday. He scored 9.5 points to win the second tournament of the day. GMs Alexey Sarana and Jeffery Xiong each scored nine points to win the first and third t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-pranesh-xiong-3-0-thursday-08-13-2026",
+         "pubDate" : "Fri, 14 Aug 2026 14:29:02",
+         "title" : "Pranesh Top 3 0 Thursday Scorer For Second Week Running"
+      },
+      {
          "description" : "Magnus Carlsen will look to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. Eight players have reached the quarterfinals: Carlsen will face Nihal, Nakamura will play Erigaisi, Abdusattorov will take on Lazavik, and Firouzja will face Niemann. The tournament is played in a knockout format, with four games per match in the quarterfinals and six games per match in the semifinals. | Photos: Esports World Cup 2025 | Live from approximately 12:30 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Fri, 14 Aug 2026 12:30:00",
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
+         "description" : "GM Magnus Carlsen scored a 2.5-0.5 victory over GM Nihal Sarin and then won a 4-1 thriller against GM Alireza Firouzja to reach the Final of the&#38;nbsp;2026 Esports World Cup. Carlsen will face off against 19-year-old GM Denis Lazavik, who pounced o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
+         "pubDate" : "Fri, 14 Aug 2026 12:25:00",
+         "title" : "Carlsen, Lazavik To Battle It Out In Esports World Cup Final"
       },
       {
          "description" : "We&#39;re about to find out who&#39;ll win the second Esports World Cup Chess Finals. To celebrate another year of exciting chess on the esports world stage, we&#39;re offering all our basic members the chance to get 14 days of Diamond membership for free! T...",
@@ -472,22 +496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
          "pubDate" : "Wed, 05 Aug 2026 00:30:00",
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
-      },
-      {
-         "description" : "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid &#38;amp; Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-3",
-         "pubDate" : "Tue, 04 Aug 2026 15:25:00",
-         "title" : "Praggnanandhaa Leads 3rd Day, Trailed by Sindarov, Wesley So"
-      },
-      {
-         "description" : "FM Bill Goichberg, the most prolific tournament organizer in the history of American chess, has passed at the age of 83. He leaves behind a lifetime of dedication to American chess in numerous roles, including as a competitor, tournament director,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bill-goichberg-1942-2026",
-         "pubDate" : "Tue, 04 Aug 2026 14:24:00",
-         "title" : "Bill Goichberg (1942-2026)"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
