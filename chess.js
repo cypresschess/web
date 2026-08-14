@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will look to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. Eight players have reached the quarterfinals: Carlsen will face Nihal, Nakamura will play Erigaisi, Abdusattorov will take on Lazavik, and Firouzja will face Niemann. The tournament is played in a knockout format, with four games per match in the quarterfinals and six games per match in the semifinals. | Photos: Esports World Cup 2025 | Live from approximately 12:30 CEST",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
+         "pubDate" : "Fri, 14 Aug 2026 12:30:00",
+         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
+      },
+      {
          "description" : "Wesley So remains the sole leader of the Sinquefield Cup after round four, holding a half-point advantage over his nearest rivals. The only decisive result of the day saw Praggnanandhaa Rameshbabu defeat Jorden van Foreest, handing the Dutchman his third loss of the event. Pragg consequently joined Maxime Vachier-Lagrave and Levon Aronian in the chasing group, half a point behind So. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Lazavik Ousts Nepomniachtchi, Joins Arjun, Nihal, Niemann In Quarterfinals"
       },
       {
-         "description" : "Wesley So took the sole lead at the Sinquefield Cup after defeating Fabiano Caruana with black in round three. Vincent Keymer bounced back from his previous-round loss by beating Praggnanandhaa Rameshbabu, while Sam Sevian overcame Anish Giri after 110 moves. Maxime Vachier-Lagrave and Levon Aronian remain half a point behind So following draws against Javokhir Sindarov and Jorden van Foreest, respectively. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-3",
-         "pubDate" : "Thu, 13 Aug 2026 08:20:00",
-         "title" : "Sinquefield Cup: So beats Caruana, becomes sole leader"
-      },
-      {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-oleg-skvortsov",
          "pubDate" : "Thu, 13 Aug 2026 08:00:00",
          "title" : "Remembering Oleg Skvortsov"
-      },
-      {
-         "description" : "Alireza Firouzja, Nodirbek Abdusattorov, Magnus Carlsen and Hikaru Nakamura secured their places in the Esports World Cup playoffs after winning both of their matches on Wednesday. Firouzja needed Armageddon deciders against Wei Yi and Arjun Erigaisi, while Abdusattorov won all four of his games. Carlsen and Nakamura also advanced without losing a match, leaving 12 players to contest the remaining 4 playoff spots on Thursday. | Image: Esports World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d2",
-         "pubDate" : "Thu, 13 Aug 2026 06:30:00",
-         "title" : "Esports World Cup: Carlsen, Firouzja, Nakamura and Abdusattorov prevail in group stage"
       },
       {
          "description" : "GM Wesley So broke out to the sole lead of the 2026 Sinquefield Cup with a win, with the black pieces, over GM Fabiano Caruana. There were two more decisive games: GM Vincent Keymer bounced back from yesterday&#39;s loss with a win against GM Praggnan...",
