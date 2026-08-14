@@ -640,22 +640,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-to-use-strategy-in-chess-game/",
          "pubDate" : "Sat, 25 Jul 2026 13:00:00",
          "title" : "How To Use Strategy In A Game"
-      },
-      {
-         "description" : "The Vugar Gashimov Chess Open 2026 officially commences in Baku, and will be played from 24 to 30 July at the Baku Olympic Hall. Organized in honor of late Grandmaster Vugar Gashimov, this year's tournament holds special significance as it marks the 40th anniversary of his birth. Ahead of the event's opening, on the morning of July 24, family members, friends, players and colleagues visited GM Vugar Gashimov's grave to mark his birthday and pay tribute to his lasting legacy []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/vugar-gashimov-chess-open-2026-commences-in-baku/",
-         "pubDate" : "Fri, 24 Jul 2026 15:01:09",
-         "title" : "Vugar Gashimov Chess Open 2026 commences in Baku"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132606133.cms\" />Team India has announced formidable squads for the upcoming FIDE Chess Olympiad. Defending champions aim to retain both open and women's team titles. Prominent players like Gukesh and Praggnanandhaa will lead the men's team. Vaishali, a recent Women's Candidates winner, spearheads the women's lineup. Viswanathan Anand now serves as the interim FIDE president.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
-         "pubDate" : "Fri, 24 Jul 2026 12:44:59",
-         "title" : "India name Chess Olympiad squads as Gukesh, Praggnanandhaa, Vaishali lead title defence"
       }
    ]
 }
