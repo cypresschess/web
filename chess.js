@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So retained the sole lead at the Sinquefield Cup after round five, but four players are now just half a point behind him. Fabiano Caruana recovered from his round-three loss to So by defeating Levon Aronian, while Vincent Keymer beat Anish Giri to join Caruana, Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu on 3/5. Following a rest day, play resumes on Sunday. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-5",
+         "pubDate" : "Sat, 15 Aug 2026 23:50:00",
+         "title" : "Sinquefield Cup: Keymer and Caruana score, MVL misses winning chance"
+      },
+      {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/newly-reviewed-endgame-academy-part-1-checkmate-pawn-endgames-2",
          "pubDate" : "Fri, 14 Aug 2026 23:00:00",
          "title" : "Newly reviewed: Endgame Academy Part 1 - Checkmate & Pawn Endgames"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Fri, 14 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Wesley So leads the 2026 Sinquefield Cup after round five on Friday, after making a quick draw with GM Praggnanandhaa Rameshbabu. GM Maxime Vachier-Lagrave had a winning position against GM Jorden van Foreest and could have caught the leader, b...",
