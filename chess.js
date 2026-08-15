@@ -18,6 +18,22 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GM Wesley So leads the 2026 Sinquefield Cup after round five on Friday, after making a quick draw with GM Praggnanandhaa Rameshbabu. GM Maxime Vachier-Lagrave had a winning position against GM Jorden van Foreest and could have caught the leader, b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-5",
+         "pubDate" : "Fri, 14 Aug 2026 18:10:00",
+         "title" : "Caruana, Keymer Win As Vachier-Lagrave Misses; Tan Survives Vs. Lee"
+      },
+      {
+         "description" : "GM Magnus Carlsen scored a 2.5-0.5 victory over GM Nihal Sarin and then won a 4-1 thriller against GM Alireza Firouzja to reach the Final of the&#38;nbsp;2026 Esports World Cup. Carlsen will face off against 19-year-old GM Denis Lazavik, who pounced o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
+         "pubDate" : "Fri, 14 Aug 2026 16:45:00",
+         "title" : "Carlsen, Lazavik To Battle It Out In Esports World Cup Final"
+      },
+      {
          "description" : "For the second week in a row, GM Pranesh M posted the best result of any player in 3 0 Thursday. He scored 9.5 points to win the second tournament of the day. GMs Alexey Sarana and Jeffery Xiong each scored nine points to win the first and third t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Fri, 14 Aug 2026 12:30:00",
          "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
-      },
-      {
-         "description" : "GM Magnus Carlsen scored a 2.5-0.5 victory over GM Nihal Sarin and then won a 4-1 thriller against GM Alireza Firouzja to reach the Final of the&#38;nbsp;2026 Esports World Cup. Carlsen will face off against 19-year-old GM Denis Lazavik, who pounced o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
-         "pubDate" : "Fri, 14 Aug 2026 12:25:00",
-         "title" : "Carlsen, Lazavik To Battle It Out In Esports World Cup Final"
       },
       {
          "description" : "We&#39;re about to find out who&#39;ll win the second Esports World Cup Chess Finals. To celebrate another year of exciting chess on the esports world stage, we&#39;re offering all our basic members the chance to get 14 days of Diamond membership for free! T...",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
          "pubDate" : "Thu, 06 Aug 2026 00:11:00",
          "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
-      },
-      {
-         "description" : "The 2026 Saint Louis Rapid &#38;amp; Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Wed, 05 Aug 2026 18:18:00",
-         "title" : "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
