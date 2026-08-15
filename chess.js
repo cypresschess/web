@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
+         "pubDate" : "Sat, 15 Aug 2026 18:42:00",
+         "title" : "Carlsen wins the Chess event in the Esports World Cup - Final"
+      },
+      {
+         "description" : "Chess skill is changing - but are players really getting stronger? Dr. Robert Howard looks at what decades of rating data and recent research reveal about Elo inflation, learning curves, the rise of computers, the age at which players peak and the role of natural talent. His findings challenge some familiar assumptions about chess expertise. | Photo: Magnus Carlsen 2019 | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/recent-scientific-research-on-chess-skill-and-its-development",
+         "pubDate" : "Sat, 15 Aug 2026 18:00:00",
+         "title" : "Recent scientific research on chess skill and its development"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133265883.cms\" />Hikaru Nakamura finished third at the 2026 Esports World Cup after Alireza Firouzja forfeited their match following technical issues and multiple disconnections. Initially blaming chess.com, Nakamura later learned the problems were caused by the EWC. He apologised for his comments, admitted he jumped to conclusions, and earned $145,000 plus valuable Club Championship points for Falcons Esports.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-now-know-i-was-wrong-hikaru-nakamura-breaks-silence-after-chaotic-ewc-match-against-alireza-firouzja/articleshow/133265883.cms",
+         "pubDate" : "Sat, 15 Aug 2026 17:27:08",
+         "title" : "'I now know I was wrong': Hikaru on chaotic EWC match against Firouzja"
+      },
+      {
+         "description" : " The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table format to show the results (although the introduction of sets in the final I couldn't handle) and all the games are also available. Carlsen was an easy winner of the final winning both sets comfortably and he didn't lose a game. Hikaru Nakamura finished in 3rd place winning his match against Firouzja which was plagued by technical issues and a loss in game 4 led to Firouzja just quitting.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
+         "pubDate" : "Sat, 15 Aug 2026 16:53:00",
+         "title" : "Esports World Cup 2026 - Games and Results"
+      },
+      {
          "description" : "Magnus Carlsen is looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. In Sunday's final match, Carlsen faces Denis Lazavik, while Hikaru Nakamura and Alireza Firouzja battle for third place. | Follow the games live with commentary from 13:00 CEST",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/esports-world-cup-live",
          "pubDate" : "Sat, 15 Aug 2026 12:30:00",
          "title" : "Esports World Cup Final: Carlsen v. Lazavik - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen has retained his Esports World Cup title after a dominant victory over GM Denis Lazavik. Carlsen won both sets 3-1, with two wins in each, and ended his Paris run without losing a single game. Carlsen takes $250,000, Lazavik $190...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
+         "pubDate" : "Sat, 15 Aug 2026 10:05:00",
+         "title" : "🐐 Magnus Carlsen Retains Chess Esports World Cup Title In Paris"
       },
       {
          "description" : "Since its first issue in 1988, ChessBase Magazine has been published every two months without interruption. Reports on current tournaments, in-depth analyses and a wide range of training features blend seamlessly to create a complete package aimed at both ambitious club players and experienced tournament players. Christian H&ouml;the takes a closer look at what issue #232 has to offer.",
@@ -480,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-neuro-gum-partnership-extended",
          "pubDate" : "Thu, 06 Aug 2026 10:06:00",
          "title" : "Neuro Is Back Again For Another Year Of Focus And Chess"
-      },
-      {
-         "description" : "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
-         "pubDate" : "Thu, 06 Aug 2026 00:11:00",
-         "title" : "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
