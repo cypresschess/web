@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since its first issue in 1988, ChessBase Magazine has been published every two months without interruption. Reports on current tournaments, in-depth analyses and a wide range of training features blend seamlessly to create a complete package aimed at both ambitious club players and experienced tournament players. Christian H&ouml;the takes a closer look at what issue #232 has to offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-2",
+         "pubDate" : "Sat, 15 Aug 2026 07:00:00",
+         "title" : "Review: ChessBase Magazine 232"
+      },
+      {
          "description" : "When it comes to endgames, there's nobody better than Karsten M&uuml;ller. Michael Kotyk, the young Hamburg chess trainer, knows this well. He's taken out his magnifying glass and dedicated himself to M&uuml;ller's latest work: His endgame courses are ChessBase classics. The most recent edition also employs the interactive options that have become indispensable in video courses. The new edition of the Endgame Academy kicks off with Checkmate & Pawn Endgames.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
