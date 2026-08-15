@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. In Sunday's final match, Carlsen faces Denis Lazavik, while Hikaru Nakamura and Alireza Firouzja battle for third place. | Follow the games live with commentary from 13:00 CEST",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
+         "pubDate" : "Sat, 15 Aug 2026 12:30:00",
+         "title" : "Esports World Cup Final: Carlsen v. Lazavik - Live!"
+      },
+      {
          "description" : "Since its first issue in 1988, ChessBase Magazine has been published every two months without interruption. Reports on current tournaments, in-depth analyses and a wide range of training features blend seamlessly to create a complete package aimed at both ambitious club players and experienced tournament players. Christian H&ouml;the takes a closer look at what issue #232 has to offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-pranesh-xiong-3-0-thursday-08-13-2026",
          "pubDate" : "Fri, 14 Aug 2026 14:29:02",
          "title" : "Pranesh Top 3 0 Thursday Scorer For Second Week Running"
-      },
-      {
-         "description" : "Magnus Carlsen will look to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. Eight players have reached the quarterfinals: Carlsen will face Nihal, Nakamura will play Erigaisi, Abdusattorov will take on Lazavik, and Firouzja will face Niemann. The tournament is played in a knockout format, with four games per match in the quarterfinals and six games per match in the semifinals. | Photos: Esports World Cup 2025 | Live from approximately 12:30 CEST",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
-         "pubDate" : "Fri, 14 Aug 2026 12:30:00",
-         "title" : "Esports World Cup live - With Carlsen, Nakamura and Firouzja"
       },
       {
          "description" : "We&#39;re about to find out who&#39;ll win the second Esports World Cup Chess Finals. To celebrate another year of exciting chess on the esports world stage, we&#39;re offering all our basic members the chance to get 14 days of Diamond membership for free! T...",
@@ -656,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
          "pubDate" : "Sun, 26 Jul 2026 01:17:36",
          "title" : "'Gens Una Sumus' - What three Latin words beneath a chess emblem taught me about the world"
-      },
-      {
-         "description" : "One of the key aspects of chess playing that gets misunderstood is how to use strategy in a real game. Seeing Grandmasters and YouTubers explain so many interesting concepts can easily persuade you to try too hard to understand &#38; apply strategic concepts. Today I want to share a super simple rule of thumb: If []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/how-to-use-strategy-in-chess-game/",
-         "pubDate" : "Sat, 25 Jul 2026 13:00:00",
-         "title" : "How To Use Strategy In A Game"
       }
    ]
 }
