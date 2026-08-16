@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Sun, 16 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "The French Championship is taking place in Vichy from 7 to 16 August 2026. The competition follows a knockout format, with each match consisting of two classical games, followed, if necessary, by rapid, blitz, and Armageddon tiebreaks. Etienne Bacrot and Maxime Lagarde face off in the final match of the open, while Sophie Milliet and Pauline Guichard are the finalists in the women's chahmpionship. | Photo: Ambrose Ducable",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championship-finals",
+         "pubDate" : "Sun, 16 Aug 2026 14:30:00",
+         "title" : "From Friday to Sunday: French Championships Finals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-27-creating-effective-training-material-part-1",
          "pubDate" : "Sun, 16 Aug 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for beginners, part 27: Creating Effective Training Material (Part 1)"
+      },
+      {
+         "description" : "For the first time, the Saint Louis Chess Club (SLCC)'s two premier international events are taking place side-by-side. The Grand Chess Tour (GCT)'s Sinquefield Cup began Tuesday, August 11 alongside the Cairns Cup, putting ten of the world's best players alongside ten of the world's strongest women. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Crystal Fuller.<br> <br> After five rounds, GM Wesley So leads the Sinquefield Cup with a 3&frac12;/5 score and GM Tan Zhongyi leads the Cairns Cup by a full point with a 4/5 score.This is the sixth year of the Cairns Cup,",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/so-and-tan-lead-first-concurrent-sinquefield-and-cairns-cups",
+         "pubDate" : "Sun, 16 Aug 2026 00:00:00",
+         "title" : "So and Tan Lead First Concurrent Sinquefield and Cairns Cups"
       },
       {
          "description" : "Wesley So retained the sole lead at the Sinquefield Cup after round five, but four players are now just half a point behind him. Fabiano Caruana recovered from his round-three loss to So by defeating Levon Aronian, while Vincent Keymer beat Anish Giri to join Caruana, Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu on 3/5. Following a rest day, play resumes on Sunday. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-open-day-4-come-feel-illinoise",
          "pubDate" : "Fri, 07 Aug 2026 00:00:00",
          "title" : "U.S. Open Day 4: Come On Feel the Illinoise!"
-      },
-      {
-         "description" : "2026 Olympiad for People with Disabilities Team AnnouncedThe 3rd FIDE Olympiad for People with Disabilities will take place from September 10 through 17 in Samarkand, Uzbekistan. Team USA returns three members of last year's team, which finished tied for sixth in Almaty, Kazakhstan. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo courtesy of FIDE)<br> <br> The following is the list of official players. Captain will be determined by player vote, and this page will be updated after the vote has taken place. The McConnell brothers and Celine Atassi return from last year's tea",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/team-usa-announced-3rd-olympiad-people-disabilities",
-         "pubDate" : "Fri, 07 Aug 2026 00:00:00",
-         "title" : "Team USA Announced for 3rd Olympiad for People with Disabilities"
       },
       {
          "description" : "Bewdley's Mayor, Sharon Harvey, arranged for Robert to drop into the Worcestershire Junior Chess Congress see BBC Hereford &#38; Worcester for picture and more https://www.bbc.co.uk/news/articles/cly914w625xo",
