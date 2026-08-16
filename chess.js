@@ -680,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-makes-u-turn-rejoins-fide-election-race/articleshow/132651100.cms",
          "pubDate" : "Mon, 27 Jul 2026 02:52:04",
          "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132635468.cms\" />India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
-         "pubDate" : "Sun, 26 Jul 2026 01:17:36",
-         "title" : "'Gens Una Sumus' - What three Latin words beneath a chess emblem taught me about the world"
       }
    ]
 }
