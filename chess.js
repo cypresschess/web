@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-3-members-of-englands-1939-chess-olympiad-team-became-wartime-codebreakers-during-wwii/articleshow/133272934.cms",
+         "pubDate" : "Sun, 16 Aug 2026 10:28:25",
+         "title" : "How 3 members of England's 1939 Chess Olympiad team became wartime codebreakers"
+      },
+      {
+         "description" : "The European Junior U20 Chess Championship 2026 concluded yesterday in Cetinje, Montenegro! The event took place from 5-16 August, featuring 116 players from 38 European federations who competed across nine Swiss rounds in two categories: Open U20 and Girls U20. GM Yahli Sokolovsky (ISR, 2541) emerged as the sole winner of the Open U20 Championship, scoring 7/9 points. Sokolovsky finished a half-point ahead of four players who tied for the silver medal with a score of 6.5/9 points each: FM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gm-yahli-sokolovsky-and-im-eline-roebers-crowned-european-junior-champions-2026/",
+         "pubDate" : "Sun, 16 Aug 2026 07:36:31",
+         "title" : "GM Yahli Sokolovsky and IM Eline Roebers crowned European Junior Champions 2026"
+      },
+      {
          "description" : "Chess trainers love ChessBase&acute;26 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-5",
          "pubDate" : "Sat, 15 Aug 2026 23:50:00",
          "title" : "Sinquefield Cup: Keymer and Caruana score, MVL misses winning chance"
-      },
-      {
-         "description" : "GM Jeffery Xiong mounted a successful title defense and won the $400 first prize in the Bullet Brawl&#38;nbsp;arena on Saturday after winning a tight race to the finish line. Xiong posted a score of 162 points and eclipsed IM Renato Terry and GM Nihal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-15-2026",
-         "pubDate" : "Sat, 15 Aug 2026 22:54:54",
-         "title" : "Xiong Defends Bullet Brawl Title With 4-Point Margin"
       },
       {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
          "pubDate" : "Sat, 15 Aug 2026 10:05:00",
          "title" : "🐐 Magnus Carlsen Retains Chess Esports World Cup Title In Paris"
+      },
+      {
+         "description" : "GM Jeffery Xiong mounted a successful title defense and won the $400 first prize in the Bullet Brawl&#38;nbsp;arena on Saturday after winning a tight race to the finish line. Xiong posted a score of 162 points and eclipsed IM Renato Terry and GM Nihal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-15-2026",
+         "pubDate" : "Sat, 15 Aug 2026 10:00:00",
+         "title" : "Xiong Defends Bullet Brawl Title With 4-Point Margin"
       },
       {
          "description" : "Since its first issue in 1988, ChessBase Magazine has been published every two months without interruption. Reports on current tournaments, in-depth analyses and a wide range of training features blend seamlessly to create a complete package aimed at both ambitious club players and experienced tournament players. Christian H&ouml;the takes a closer look at what issue #232 has to offer.",
