@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess trainers love ChessBase&acute;26 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-27-creating-effective-training-material-part-1",
+         "pubDate" : "Sun, 16 Aug 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 27: Creating Effective Training Material (Part 1)"
+      },
+      {
          "description" : "Wesley So retained the sole lead at the Sinquefield Cup after round five, but four players are now just half a point behind him. Fabiano Caruana recovered from his round-three loss to So by defeating Levon Aronian, while Vincent Keymer beat Anish Giri to join Caruana, Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu on 3/5. Following a rest day, play resumes on Sunday. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-5",
          "pubDate" : "Sat, 15 Aug 2026 23:50:00",
          "title" : "Sinquefield Cup: Keymer and Caruana score, MVL misses winning chance"
+      },
+      {
+         "description" : "GM Jeffery Xiong mounted a successful title defense and won the $400 first prize in the Bullet Brawl&#38;nbsp;arena on Saturday after winning a tight race to the finish line. Xiong posted a score of 162 points and eclipsed IM Renato Terry and GM Nihal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-15-2026",
+         "pubDate" : "Sat, 15 Aug 2026 22:54:54",
+         "title" : "Xiong Defends Bullet Brawl Title With 4-Point Margin"
       },
       {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-saint-louis-rapid-and-blitz",
          "pubDate" : "Thu, 06 Aug 2026 14:32:00",
          "title" : "Praggnanandhaa Wins 2026 Saint Louis Rapid & Blitz With Round To Spare"
-      },
-      {
-         "description" : "Chess.com and Neuro are extending their partnership for another year. Neuro will continue to help advance Chess.com&#39;s mission to grow chess by supporting events like the Speed Chess Championship and the Champions Chess Tour. Neuro became Chess.co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-neuro-gum-partnership-extended",
-         "pubDate" : "Thu, 06 Aug 2026 10:06:00",
-         "title" : "Neuro Is Back Again For Another Year Of Focus And Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
