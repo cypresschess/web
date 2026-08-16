@@ -1,4 +1,5 @@
 jtable([
+"KATY","2026-08-15","31","<a href=https://ratings.uschess.org/event/202608150363 target='_blank'>Healthy Gurukul's August Back to School Scholastic</a>",
 "HOUSTON","2026-08-14","25","<a href=https://ratings.uschess.org/event/202608140363 target='_blank'>HOUSTON CITY SCHOLASTIC 2026</a>",
 "SPRING","2026-08-14","23","<a href=https://ratings.uschess.org/event/202608140343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-08-14","45","<a href=https://ratings.uschess.org/event/202608140283 target='_blank'>Knights of Cypress</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-05-24","15","<a href=https://ratings.uschess.org/event/202605240173 target='_blank'>Bellaire Sunday Swiss 2026.05.24</a>",
 "SPRING","2026-05-22","21","<a href=https://ratings.uschess.org/event/202605220223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-22","46","<a href=https://ratings.uschess.org/event/202605220213 target='_blank'>Knights of Cypress</a>",
-"SUGAR LAND","2026-05-22","16","<a href=https://ratings.uschess.org/event/202605220193 target='_blank'>FBCC 2026 Sherlock Holmes Day Open</a>",
 ]);
