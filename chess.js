@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chris Ward examines an uncommon Classical Dragon line from the game between Andy Woodward and 2600+ GM Vasif Durarbayli. The system resembles a Yugoslav Attack, but White develops the bishop to e2 instead of playing the typical f3, leading to different strategic and tactical possibilities. Chris highlights several critical moments and believes Black could have improved with Rxc3, although Woodward eventually took over the initiative and won an entertaining game. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon",
+         "pubDate" : "Mon, 17 Aug 2026 16:00:00",
+         "title" : "Woodward's Unusual Classical Dragon - The Monthly Dragon"
+      },
+      {
+         "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/killed-by-your-own-preparation/",
+         "pubDate" : "Mon, 17 Aug 2026 13:00:00",
+         "title" : "Killed by your own preparation"
+      },
+      {
          "description" : "Wesley So is still the sole leader at the Sinquefield Cup after four draws kept the top of the standings unchanged in round six. The only decisive result saw Anish Giri defeat fellow Dutchman Jorden van Foreest, who remains alone in last place on 1/6. So leads with 4/6, while Fabiano Caruana, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are half a point behind. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-government-launches-nationwide-initiative-to-introduce-structured-chess-education-in-indian-schools/articleshow/132678169.cms",
          "pubDate" : "Tue, 28 Jul 2026 07:38:34",
          "title" : "AICF, government launches nationwide initiative to introduce structured chess education in Indian schools"
-      },
-      {
-         "description" : "The 2026 European Youth Team Chess Championship officially commenced yesterday at Enteria Arena in Pardubice, Czech Republic! Played across U12 and U18 age categories (Open and Girls sections separately), the tournament set a new participation record with 66 teams and 218 players. Each tournament is played in 7 rounds, swiss system, with the time control of 90 min. + 30 sec. increment for every move played starting from move 1. The Opening ceremony of the event took place yesterday, shortly []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-opened/",
-         "pubDate" : "Mon, 27 Jul 2026 12:26:08",
-         "title" : "European Youth Team Chess Championship 2026 opened"
       }
    ]
 }
