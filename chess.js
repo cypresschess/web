@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saco Oliveros de Lince won the American Continental Stage of the FIDE ISCF World Schools Team Championship in San Jos&eacute;, finishing unbeaten on 15/16 match points. Harvest Park Middle School from the United States and Crescent Heights Academy from Canada took second and third, with all three teams qualifying for the Grand Final in December. The closing day also featured board prizes, perfect individual scores and final side events for the young players. | Photos: ISCF, Arlan Olzhabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/san-jose-wstc-2026-final",
+         "pubDate" : "Mon, 17 Aug 2026 07:15:00",
+         "title" : "Saco Oliveros de Lince takes gold as San Jos&eacute; School Championship closes with tribute to mothers"
+      },
+      {
+         "description" : "Magnus Carlsen successfully defended his title. After winning the Esports World Cup in 2025, he came out on top again this year. In the final, he faced Denis Lazavik, a young talent who is particularly strong in online chess. Carlsen won both matches, each of which consisted of four games. Overall, he defeated Lazavik four times and drew the other four games. In the match for third place, Hikaru Nakamura beat Alireza Firouzja. Their encounter was not without drama. | Image: Esports World Cup webcast",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d5",
+         "pubDate" : "Mon, 17 Aug 2026 05:50:00",
+         "title" : "Carlsen beats Lazavik, successfully defends Esports World Cup title"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
