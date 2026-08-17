@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championships-2026-invitation/",
          "pubDate" : "Mon, 27 Jul 2026 09:39:44",
          "title" : "European Women's Rapid and Blitz Chess Championships 2026 - Invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132651100.cms\" />Viswanathan Anand has decided to contest the FIDE elections as Deputy President alongside presidential candidate Timur Turlov, reversing his earlier plan to step back for family reasons. The change follows Arkady Dvorkovich's exit from the race due to EU sanctions. Anand, currently FIDE's Interim President, said he wants to continue helping expand chess and backed Turlov's vision for the organisation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-makes-u-turn-rejoins-fide-election-race/articleshow/132651100.cms",
-         "pubDate" : "Mon, 27 Jul 2026 02:52:04",
-         "title" : "Chess legend Anand makes U-turn, rejoins FIDE election race"
       }
    ]
 }
