@@ -82,7 +82,7 @@ news_feed (
          "title" : "Giri Wins Dutch Battle; Lee Beats Humpy To Move To Clear 2nd"
       },
       {
-         "description" : "The Scholastic Council and the Executive Board have approved the 2026-2027 Scholastic Regulations. This year's regulations can be found here (or in .docx format here). Substantive changes in this year's regulations include:Section 5.2.1 revises the definition of a school and various types of school organizations such as a public school district, private school, and charter school to clarify eligibility criteria for teams in Section 5.3.Section 4.3 introduces new language on Section Eligibility for players who scored 6.0 or better in an Under section of the previous year's Spring Nationals. What's new is that a 6.0 or better score in a Spring Nationals during the current school year can affec",
+         "description" : "The Scholastic Council and the Executive Board have approved the 2026-2027 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:Section 5.2.1 revises the definition of a school and various types of school organizations such as a public school district, private school, and charter school to clarify eligibility criteria for teams in Section 5.3.Section 4.3 introduces new language on Section Eligibility for players who scored 6.0 or better in an Under section of the previous year's Spring Nationals. What's new is that a 6.0 or better score in a Spring Nationals during the current school year can affect a player's section eligi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-2027-scholastic-regulations",
