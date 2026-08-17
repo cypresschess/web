@@ -1,5 +1,8 @@
 jtable([
+"HOUSTON","2026-08-16","66","<a href=https://ratings.uschess.org/event/202608160493 target='_blank'>Houston City Championship 2026</a>",
+"HOUSTON","2026-08-16","18","<a href=https://ratings.uschess.org/event/202608160243 target='_blank'>Bellaire Sunday Swiss 2026.08.16</a>",
 "KATY","2026-08-15","31","<a href=https://ratings.uschess.org/event/202608150363 target='_blank'>Healthy Gurukul's August Back to School Scholastic</a>",
+"SUGAR LAND","2026-08-14","21","<a href=https://ratings.uschess.org/event/202608140433 target='_blank'>FBCC 2026 World Lizard Day Open</a>",
 "HOUSTON","2026-08-14","25","<a href=https://ratings.uschess.org/event/202608140363 target='_blank'>HOUSTON CITY SCHOLASTIC 2026</a>",
 "SPRING","2026-08-14","23","<a href=https://ratings.uschess.org/event/202608140343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-08-14","45","<a href=https://ratings.uschess.org/event/202608140283 target='_blank'>Knights of Cypress</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2026-05-26","17","<a href=https://ratings.uschess.org/event/202605260243 target='_blank'>MAY TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-05-25","190","<a href=https://ratings.uschess.org/event/202605250163 target='_blank'>81st Texas State & Amateur Championship (In Memory of Luis Salinas)</a>",
 "HOUSTON","2026-05-25","24","<a href=https://ratings.uschess.org/event/202605250073 target='_blank'>Bellaire Spring Scholastic 2026</a>",
-"HOUSTON","2026-05-24","15","<a href=https://ratings.uschess.org/event/202605240173 target='_blank'>Bellaire Sunday Swiss 2026.05.24</a>",
-"SPRING","2026-05-22","21","<a href=https://ratings.uschess.org/event/202605220223 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2026-05-22","46","<a href=https://ratings.uschess.org/event/202605220213 target='_blank'>Knights of Cypress</a>",
 ]);
