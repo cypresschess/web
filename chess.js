@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So is still the sole leader at the Sinquefield Cup after four draws kept the top of the standings unchanged in round six. The only decisive result saw Anish Giri defeat fellow Dutchman Jorden van Foreest, who remains alone in last place on 1/6. So leads with 4/6, while Fabiano Caruana, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are half a point behind. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-6",
+         "pubDate" : "Mon, 17 Aug 2026 12:00:00",
+         "title" : "Sinquefield Cup: Giri beats Van Foreest"
+      },
+      {
+         "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
+         "pubDate" : "Mon, 17 Aug 2026 10:51:12",
+         "title" : "Quo vadis, Fischer Random Chess? (1)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133294300.cms\" />R Praggnanandhaa draws Levon Aronian in the sixth round of the Sinquefield Cup, keeping him joint second with 3.5 points. Wesley So leads with four points after drawing Maxime Vachier-Lagrave. Praggnanandhaa survives a tricky middle game after losing two pawns. Anish Giri is the only winner of the round, defeating Jorden van Foreest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stays-in-contention-for-sinquefield-cup-title-despite-draw-against-levon-aronian/articleshow/133294300.cms",
+         "pubDate" : "Mon, 17 Aug 2026 10:50:06",
+         "title" : "Pragg stays in contention for Sinquefield Cup title despite Aronian draw "
+      },
+      {
+         "description" : "On Tuesday August 18th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 24th European Union Youth Chess Championship U8, U10, U12 and U14 will start. European Union Youth Chess Championship 2026 under the patronage of the European Chess Union is organized again by Sachova skola Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region, City Roznov pod Radhostem and Hotel Energetic. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
+         "pubDate" : "Mon, 17 Aug 2026 08:49:17",
+         "title" : "24th European Union Youth Chess Championship 2026 starts"
+      },
+      {
          "description" : "Saco Oliveros de Lince won the American Continental Stage of the FIDE ISCF World Schools Team Championship in San Jos&eacute;, finishing unbeaten on 15/16 match points. Harvest Park Middle School from the United States and Crescent Heights Academy from Canada took second and third, with all three teams qualifying for the Grand Final in December. The closing day also featured board prizes, perfect individual scores and final side events for the young players. | Photos: ISCF, Arlan Olzhabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +50,12 @@ news_feed (
          "title" : "Carlsen beats Lazavik, successfully defends Esports World Cup title"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Sun, 16 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
-         "description" : "The French Championship is taking place in Vichy from 7 to 16 August 2026. The competition follows a knockout format, with each match consisting of two classical games, followed, if necessary, by rapid, blitz, and Armageddon tiebreaks. Etienne Bacrot and Maxime Lagarde face off in the final match of the open, while Sophie Milliet and Pauline Guichard are the finalists in the women's chahmpionship. | Photo: Ambrose Ducable",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championship-finals",
-         "pubDate" : "Sun, 16 Aug 2026 14:30:00",
-         "title" : "From Friday to Sunday: French Championships Finals"
+         "description" : "GM Wesley So still leads GMs Fabiano Caruana, Maxime Vachier-Lagrave, Vincent Keymer, and Praggnanandhaa Rameshbabu by half a point after round six of the 2026 Sinquefield Cup, with GM Anish Giri scoring the day&#39;s only win. He said he &#34;went a litt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-6",
+         "pubDate" : "Mon, 17 Aug 2026 02:55:00",
+         "title" : "Giri Wins Dutch Battle; Lee Beats Humpy To Move To Clear 2nd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "GM Yahli Sokolovsky and IM Eline Roebers crowned European Junior Champions 2026"
       },
       {
-         "description" : "Chess trainers love ChessBase&acute;26 - and for good reason! With just a few clicks, you can create outstanding training material and even enrich it with interactive exercises. In this first part, we'll show you how to set up a thematic database in no time - perfect for your own practice or for your students. In the upcoming parts, you'll discover powerful ways to use it to boost training results quickly and effectively.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-27-creating-effective-training-material-part-1",
-         "pubDate" : "Sun, 16 Aug 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 27: Creating Effective Training Material (Part 1)"
-      },
-      {
          "description" : "For the first time, the Saint Louis Chess Club (SLCC)'s two premier international events are taking place side-by-side. The Grand Chess Tour (GCT)'s Sinquefield Cup began Tuesday, August 11 alongside the Cairns Cup, putting ten of the world's best players alongside ten of the world's strongest women. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Crystal Fuller.<br> <br> After five rounds, GM Wesley So leads the Sinquefield Cup with a 3&frac12;/5 score and GM Tan Zhongyi leads the Cairns Cup by a full point with a 4/5 score.This is the sixth year of the Cairns Cup,",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -66,28 +82,12 @@ news_feed (
          "title" : "So and Tan Lead First Concurrent Sinquefield and Cairns Cups"
       },
       {
-         "description" : "Wesley So retained the sole lead at the Sinquefield Cup after round five, but four players are now just half a point behind him. Fabiano Caruana recovered from his round-three loss to So by defeating Levon Aronian, while Vincent Keymer beat Anish Giri to join Caruana, Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu on 3/5. Following a rest day, play resumes on Sunday. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-5",
-         "pubDate" : "Sat, 15 Aug 2026 23:50:00",
-         "title" : "Sinquefield Cup: Keymer and Caruana score, MVL misses winning chance"
-      },
-      {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
          "pubDate" : "Sat, 15 Aug 2026 18:42:00",
          "title" : "Carlsen wins the Chess event in the Esports World Cup - Final"
-      },
-      {
-         "description" : "Chess skill is changing - but are players really getting stronger? Dr. Robert Howard looks at what decades of rating data and recent research reveal about Elo inflation, learning curves, the rise of computers, the age at which players peak and the role of natural talent. His findings challenge some familiar assumptions about chess expertise. | Photo: Magnus Carlsen 2019 | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/recent-scientific-research-on-chess-skill-and-its-development",
-         "pubDate" : "Sat, 15 Aug 2026 18:00:00",
-         "title" : "Recent scientific research on chess skill and its development"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133265883.cms\" />Hikaru Nakamura finished third at the 2026 Esports World Cup after Alireza Firouzja forfeited their match following technical issues and multiple disconnections. Initially blaming chess.com, Nakamura later learned the problems were caused by the EWC. He apologised for his comments, admitted he jumped to conclusions, and earned $145,000 plus valuable Club Championship points for Falcons Esports.",
@@ -106,14 +106,6 @@ news_feed (
          "title" : "Esports World Cup 2026 - Games and Results"
       },
       {
-         "description" : "Magnus Carlsen is looking to defend his title at the $1.5 million Esports World Cup. Chess is part of the event for the second time, with this year's competition taking place in Paris from 11 to 15 August. In Sunday's final match, Carlsen faces Denis Lazavik, while Hikaru Nakamura and Alireza Firouzja battle for third place. | Follow the games live with commentary from 13:00 CEST",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-live",
-         "pubDate" : "Sat, 15 Aug 2026 12:30:00",
-         "title" : "Esports World Cup Final: Carlsen v. Lazavik - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen has retained his Esports World Cup title after a dominant victory over GM Denis Lazavik. Carlsen won both sets 3-1, with two wins in each, and ended his Paris run without losing a single game. Carlsen takes $250,000, Lazavik $190...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,22 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-15-2026",
          "pubDate" : "Sat, 15 Aug 2026 10:00:00",
          "title" : "Xiong Defends Bullet Brawl Title With 4-Point Margin"
-      },
-      {
-         "description" : "Since its first issue in 1988, ChessBase Magazine has been published every two months without interruption. Reports on current tournaments, in-depth analyses and a wide range of training features blend seamlessly to create a complete package aimed at both ambitious club players and experienced tournament players. Christian H&ouml;the takes a closer look at what issue #232 has to offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-chessbase-magazine-2",
-         "pubDate" : "Sat, 15 Aug 2026 07:00:00",
-         "title" : "Review: ChessBase Magazine 232"
-      },
-      {
-         "description" : "When it comes to endgames, there's nobody better than Karsten M&uuml;ller. Michael Kotyk, the young Hamburg chess trainer, knows this well. He's taken out his magnifying glass and dedicated himself to M&uuml;ller's latest work: His endgame courses are ChessBase classics. The most recent edition also employs the interactive options that have become indispensable in video courses. The new edition of the Endgame Academy kicks off with Checkmate & Pawn Endgames.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/newly-reviewed-endgame-academy-part-1-checkmate-pawn-endgames-2",
-         "pubDate" : "Fri, 14 Aug 2026 23:00:00",
-         "title" : "Newly reviewed: Endgame Academy Part 1 - Checkmate & Pawn Endgames"
       },
       {
          "description" : "GM Wesley So leads the 2026 Sinquefield Cup after round five on Friday, after making a quick draw with GM Praggnanandhaa Rameshbabu. GM Maxime Vachier-Lagrave had a winning position against GM Jorden van Foreest and could have caught the leader, b...",
@@ -178,44 +154,12 @@ news_feed (
          "title" : "Earn 14 Days Of Free Diamond By Watching The Esports World Cup Final On Twitch"
       },
       {
-         "description" : "Wesley So remains the sole leader of the Sinquefield Cup after round four, holding a half-point advantage over his nearest rivals. The only decisive result of the day saw Praggnanandhaa Rameshbabu defeat Jorden van Foreest, handing the Dutchman his third loss of the event. Pragg consequently joined Maxime Vachier-Lagrave and Levon Aronian in the chasing group, half a point behind So. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-4",
-         "pubDate" : "Fri, 14 Aug 2026 09:15:00",
-         "title" : "Sinquefield Cup: Pragg bounces back, beats Van Foreest"
-      },
-      {
-         "description" : "WIM Svitlana Demchenko presents a selection of practical opening courses designed to give players flexible and dynamic repertoire choices. Her trainers cover the Alapin Variation against the Sicilian, the aggressive Leningrad Dutch, the versatile King's Indian Attack, and a collection of easy to learn surprise weapons for both colours. As part of the ChessBase Summer Special, all of her Fritz Trainer courses are available at a discount until August 16, 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-demchenko-s-chessbase-training-courses-on-offer",
-         "pubDate" : "Fri, 14 Aug 2026 08:28:49",
-         "title" : "Svitlana Demchenko's ChessBase Training Courses on offer"
-      },
-      {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/aug/14/shreyas-royal-17-youngest-ever-british-chess-champion",
          "pubDate" : "Fri, 14 Aug 2026 07:00:21",
          "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
-      },
-      {
-         "description" : "Nihal Sarin, Arjun Erigaisi, Denis Lazavik and Hans Niemann claimed the final four places in the Esports World Cup playoffs after progressing through Thursday's losers brackets. They join Alireza Firouzja, Nodirbek Abdusattorov, Magnus Carlsen and Hikaru Nakamura, who had qualified a day earlier. The quarterfinals will see Carlsen face Nihal, Nakamura meet Erigaisi, Abdusattorov play Lazavik and Firouzja take on Niemann. | Image: Esports World Cup webcast",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d3",
-         "pubDate" : "Fri, 14 Aug 2026 03:15:00",
-         "title" : "Esports World Cup: Erigaisi, Niemann, Lazavik and Nihal reach playoffs"
-      },
-      {
-         "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/demchenko-opening-surprises-review-2",
-         "pubDate" : "Thu, 13 Aug 2026 23:00:00",
-         "title" : "Invest an hour and you will be ready to confound your opponents: Svitlana Demchenko's Opening Surprises"
       },
       {
          "description" : "GM Wesley So continues to lead after round four of the 2026 Sinquefield Cup on Thursday. There was one decisive game, where GM Praggnanandhaa Rameshbabu gave GM Jorden van Foreest his third loss. Praggnanandhaa is now half a point behind the leade...",
@@ -570,14 +514,6 @@ news_feed (
          "title" : "Artemiev, Maghsoodloo, Wei, Bortnyk, Grischuk Grab Last Spots In Esports World Cup"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu won his maiden title and $50,000 in the 2026 Saint Louis Rapid &#38;amp; Blitz on Thursday. Though GM Javokhir Sindarov came within a half-point of catching him, Praggnanandhaa never let go of the lead in all five days of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-saint-louis-rapid-and-blitz",
-         "pubDate" : "Thu, 06 Aug 2026 14:32:00",
-         "title" : "Praggnanandhaa Wins 2026 Saint Louis Rapid & Blitz With Round To Spare"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -712,22 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2026-opened/",
          "pubDate" : "Mon, 27 Jul 2026 12:26:08",
          "title" : "European Youth Team Chess Championship 2026 opened"
-      },
-      {
-         "description" : "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to win two consecutive world computer chess championships. How much faster are today's supercomputers? Take a guess - you are definitely not going to get it right.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-much-faster-are-computers-today",
-         "pubDate" : "Mon, 27 Jul 2026 10:21:48",
-         "title" : "How much faster are computers today?"
-      },
-      {
-         "description" : "European Women's Rapid and Blitz Chess Championships 2026 will take place from 7-11 January 2027, in Monte-Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2026 which will be played on 8th of January 2027. The event will be played according to the Swiss system, in 13 rounds, with the time control 3 minutes game + 2 seconds per move starting from the first move. The European Women's Rapid Chess Championship 2026 will []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championships-2026-invitation/",
-         "pubDate" : "Mon, 27 Jul 2026 09:39:44",
-         "title" : "European Women's Rapid and Blitz Chess Championships 2026 - Invitation"
       }
    ]
 }
