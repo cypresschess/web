@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With two rounds left, GM Wesley So continues to lead the 2026 Sinquefield Cup on 4.5/7 after making an almost instant draw with GM Anish Giri in round seven on Monday. He&#39;s trailed by GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-7",
+         "pubDate" : "Mon, 17 Aug 2026 19:56:03",
+         "title" : "Sindarov Wins On Demand With Black; Tan Bamboozles Divya To Extend Lead"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/led-zeppelins-robert-plant-drops-into-play-chess-at-bewdley/",
          "pubDate" : "Thu, 06 Aug 2026 15:21:17",
          "title" : "Led Zeppelin's Robert Plant drops into play chess at Bewdley!"
-      },
-      {
-         "description" : "GMs Vladislav Artemiev, Parham Maghsoodloo, Wei Yi, Oleksandr Bortnyk, and Alexander Grischuk have snatched the five spots available in the $1.5 million 2026 Esports World Cup after competing in the three-day Last Chance Qualifier in Paris. They&#39;r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-lcq-day-1",
-         "pubDate" : "Thu, 06 Aug 2026 15:19:00",
-         "title" : "Artemiev, Maghsoodloo, Wei, Bortnyk, Grischuk Grab Last Spots In Esports World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
