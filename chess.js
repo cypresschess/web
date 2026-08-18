@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Tue, 18 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "With his FritzTrainer \"Calculation Training\", Robert Ris tackled one of the most important topics in chess back in 2018: how to calculate correctly - and clearly struck a chord. Several more courses on the subject followed. Jochen Schwarz has taken a closer look at these courses and presents an overview.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-state-of-chess-september-1-2026",
          "pubDate" : "Tue, 18 Aug 2026 07:00:00",
-         "title" : "State Of Chess Returns September 1 With Liza Mandelup, Albert Cheng, FIDE Debate"
+         "title" : "State Of Chess Returns September 1 With Liza Mandelup, Albert Cheng"
       },
       {
          "description" : "Javokhir Sindarov scored his first win of the Sinquefield Cup by beating Vincent Keymer with the black pieces, drawing level with the German GM on 3&frac12;/7 and tightening the race for a place in the Grand Chess Tour Finals. Wesley So remains the sole leader on 4&frac12;/7, half a point ahead of Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave, with two rounds left to play. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-7",
          "pubDate" : "Tue, 18 Aug 2026 06:55:00",
          "title" : "Sinquefield Cup: Sindarov outplays Keymer, keeps chances of reaching GCT Finals alive"
+      },
+      {
+         "description" : "Today's puzzles again come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-2",
+         "pubDate" : "Tue, 18 Aug 2026 00:00:00",
+         "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 2"
       },
       {
          "description" : "With two rounds left, GM Wesley So continues to lead the 2026 Sinquefield Cup on 4.5/7 after making an almost instant draw with GM Anish Giri in round seven on Monday. He&#39;s trailed by GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa...",
@@ -450,14 +466,6 @@ news_feed (
          "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
       },
       {
-         "description" : "GM Grigoriy Oparin (MO) defeated GM Jianchao Zhou (MA) in Armageddon to win the 2026 U.S. Open title and clinch a spot in this October's U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo by David Llada.<br> <br> Entering the final round, Oparin and IM Jason Liang (OH) led with 7/8 scores. When their game ended peacefully, that opened the floodgates and, when all was said and done, we had eight players tie for first with a 7&frac12;/9 score. Those players are, in tiebreak order: Oparin, Zhou, GM Christopher Yoo (CA), IM Bohdan Bilovil (UKR), Liang, IM Julian Colville (CA), GM Rahul Srivatshav Peddi (IND), and IM Sebastian Kostolansky (SVK",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/oparin-defeats-zhou-armageddon-wins-us-open",
-         "pubDate" : "Mon, 10 Aug 2026 00:00:00",
-         "title" : "Oparin Defeats Zhou in Armageddon, Wins U.S. Open"
-      },
-      {
          "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-wscc-alice-lee-beats-hou-yifan-wins-title",
          "pubDate" : "Fri, 07 Aug 2026 13:57:00",
          "title" : "16-Year-Old Alice Lee 🏆 Wins Women's Speed Chess Championship"
-      },
-      {
-         "description" : "WCM Modipalli Deekshitha soared from 1985 to a live rating of 2454 in four European tournaments, climbing to second in the world among girls under 20. Just over a month ago, the 14-year-old Indian from Hyderabad was rated below 2000. Now she has ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/deekshitha-modipalli-469-rating-points-im-norm",
-         "pubDate" : "Fri, 07 Aug 2026 11:46:00",
-         "title" : "14-Year-Old Jumps 469 Rating Points To 2454 In One Month, Earns 1st IM Norm"
       },
       {
          "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
@@ -632,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
          "pubDate" : "Wed, 29 Jul 2026 12:00:00",
          "title" : "Shifts and mirrors in a chess problem"
-      },
-      {
-         "description" : "<ul><li> Geneva chosen over US, India and Cyprus </li><li> Switzerland to host for first time since 2004 </li><li> Gukesh and Sindarov both 20 at first move </li></ul> Geneva has been chosen to host this year's world chess championship match, with Fide announcing on Tuesday that reigning champion Gukesh Dommaraju will defend his title against challenger Javokhir Sindarov in the Swiss city from 25 November to 15 December. Both Gukesh, of India, and Sindarov, of Uzbekistan, will be 20 when the best-of-14-games match begins, making it the youngest world championship encounter <a href=\"https://www.theguardian.com/sport/2024/nov/24/greatest-chess-games-world-championship-history\">since the title ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/28/geneva-world-chess-championship-gukesh-sindarov",
-         "pubDate" : "Tue, 28 Jul 2026 17:57:32",
-         "title" : "Geneva lands world chess title match as Gukesh and Sindarov set to make history"
       }
    ]
 }
