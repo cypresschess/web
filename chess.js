@@ -26,6 +26,14 @@ news_feed (
          "title" : "ChessBase Summer-Special! - Part 7"
       },
       {
+         "description" : "GM Tuan Minh Le won his first Titled Tuesday of the year on August 18, and the 12th of his career, after coming out ahead of GMs Parham Maghsoodloo and Arjun Erigaisi on tiebreaks with a score of 9.5/11. Le recovered from a first-round loss by rip...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-wins-titled-tuesday-august-18-2026",
+         "pubDate" : "Tue, 18 Aug 2026 12:51:55",
+         "title" : "Speedy Minh Le Wins 9 Straight To Take Titled Tuesday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/extra-knowledge-weight-in-chess/",
          "pubDate" : "Sat, 08 Aug 2026 13:00:00",
          "title" : "The weight of what you know"
-      },
-      {
-         "description" : "IM Alice Lee is the youngest ever winner of the Women&#39;s Speed Chess Championship after winning the final two bullet games to clinch an 11.5-9.5 victory over women&#39;s number-one GM Hou Yifan. The final clash couldn&#39;t have been tighter, with neither ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-wscc-alice-lee-beats-hou-yifan-wins-title",
-         "pubDate" : "Fri, 07 Aug 2026 13:57:00",
-         "title" : "16-Year-Old Alice Lee 🏆 Wins Women's Speed Chess Championship"
       },
       {
          "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
