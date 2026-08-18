@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 23rd, 2026), you can get up to 30% off all Fritz Trainer courses by Robert Ris and Felix Blohberger!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-7",
+         "pubDate" : "Tue, 18 Aug 2026 13:00:00",
+         "title" : "ChessBase Summer-Special! - Part 7"
+      },
+      {
          "description" : "Javokhir Sindarov scored his first win of the Sinquefield Cup by beating Vincent Keymer with the black pieces, drawing level with the German GM on 3&frac12;/7 and tightening the race for a place in the Grand Chess Tour Finals. Wesley So remains the sole leader on 4&frac12;/7, half a point ahead of Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave, with two rounds left to play. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,22 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-reveals-host-city-for-gukesh-vs-sindarov-world-championship-clash-youngest-ever-title-match-in-chess-history/articleshow/132685626.cms",
          "pubDate" : "Tue, 28 Jul 2026 13:32:47",
          "title" : "FIDE reveals host city for Gukesh vs Sindarov World Championship clash"
-      },
-      {
-         "description" : " The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hikaru Nakamura, Levon Aronian, Wesley So, Fabiano Caruana, Leinier Dominguez Perez. Each round was a team match with 2 points for a win, 1 for a draw. The USA narrowly won both days. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
-         "pubDate" : "Tue, 28 Jul 2026 10:14:00",
-         "title" : "WR Chess Rapid & Blitz Miami 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132678169.cms\" />India has launched CHESS+, a nationwide initiative to introduce structured chess education in schools. The pilot programme will begin in 30 Jawahar Navodaya Vidyalayas across Haryana, Uttar Pradesh and Delhi, offering expert coaching, competitions and mentorship. The initiative aims to develop critical thinking and decision-making skills before expanding to more Navodaya and Kendriya Vidyalayas across the country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-government-launches-nationwide-initiative-to-introduce-structured-chess-education-in-indian-schools/articleshow/132678169.cms",
-         "pubDate" : "Tue, 28 Jul 2026 07:38:34",
-         "title" : "AICF, government launches nationwide initiative to introduce structured chess education in Indian schools"
       }
    ]
 }
