@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With his FritzTrainer \"Calculation Training\", Robert Ris tackled one of the most important topics in chess back in 2018: how to calculate correctly - and clearly struck a chord. Several more courses on the subject followed. Jochen Schwarz has taken a closer look at these courses and presents an overview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-calculation-training-by-robert-ris",
+         "pubDate" : "Tue, 18 Aug 2026 17:00:00",
+         "title" : "Review: Calculation Training by Robert Ris"
+      },
+      {
          "description" : "Dear chess friends! We've got another great offer for you: this week (until August 23rd, 2026), you can get up to 30% off all Fritz Trainer courses by Robert Ris and Felix Blohberger!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-7",
          "pubDate" : "Tue, 18 Aug 2026 13:00:00",
          "title" : "ChessBase Summer-Special! - Part 7"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-stars-divya-deshmukh-vidit-gujrathi-honoured-with-arjuna-awards-aicf-reacts/articleshow/133321247.cms",
+         "pubDate" : "Tue, 18 Aug 2026 11:51:24",
+         "title" : "Chess stars Divya, Vidit honoured with Arjuna Awards; AICF reacts"
+      },
+      {
+         "description" : "We&#39;re excited to announce the next State of Chess, our live show where Chief Chess Officer IM Danny Rensch shares what Chess.com has been working on and what&#39;s coming next. It&#39;s also where you can ask us questions directly and get answers live on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-state-of-chess-september-1-2026",
+         "pubDate" : "Tue, 18 Aug 2026 07:00:00",
+         "title" : "State Of Chess Returns September 1 With Liza Mandelup, Albert Cheng, FIDE Debate"
       },
       {
          "description" : "Javokhir Sindarov scored his first win of the Sinquefield Cup by beating Vincent Keymer with the black pieces, drawing level with the German GM on 3&frac12;/7 and tightening the race for a place in the Grand Chess Tour Finals. Wesley So remains the sole leader on 4&frac12;/7, half a point ahead of Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave, with two rounds left to play. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "14-Year-Old Jumps 469 Rating Points To 2454 In One Month, Earns 1st IM Norm"
       },
       {
-         "description" : "GM Pranesh M scored a nearly perfect result in the first 3 0 Thursday on August 6. His 10.5/11 score tied the record for the most dominant run in the history of the tournament. In the second tournament of the day, GM Jan-Krzysztof Duda caught GM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-duda-atanasov-3-0-thursday-08-06-2026",
-         "pubDate" : "Fri, 07 Aug 2026 10:02:02",
-         "title" : "Pranesh Dominates 3 0 Thursday"
-      },
-      {
          "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/28/geneva-world-chess-championship-gukesh-sindarov",
          "pubDate" : "Tue, 28 Jul 2026 17:57:32",
          "title" : "Geneva lands world chess title match as Gukesh and Sindarov set to make history"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132685626.cms\" />Geneva, Switzerland, will host the 2026 FIDE World Championship Match. Reigning champion Gukesh Dommaraju will defend his title against Javokhir Sindarov. This historic contest will feature the youngest players ever to compete for the championship. The match is scheduled to take place from November 25 to December 15. FIDE selected Geneva as a neutral venue for this significant chess event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-reveals-host-city-for-gukesh-vs-sindarov-world-championship-clash-youngest-ever-title-match-in-chess-history/articleshow/132685626.cms",
-         "pubDate" : "Tue, 28 Jul 2026 13:32:47",
-         "title" : "FIDE reveals host city for Gukesh vs Sindarov World Championship clash"
       }
    ]
 }
