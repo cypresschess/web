@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov scored his first win of the Sinquefield Cup by beating Vincent Keymer with the black pieces, drawing level with the German GM on 3&frac12;/7 and tightening the race for a place in the Grand Chess Tour Finals. Wesley So remains the sole leader on 4&frac12;/7, half a point ahead of Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave, with two rounds left to play. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-7",
+         "pubDate" : "Tue, 18 Aug 2026 06:55:00",
+         "title" : "Sinquefield Cup: Sindarov outplays Keymer, keeps chances of reaching GCT Finals alive"
+      },
+      {
          "description" : "With two rounds left, GM Wesley So continues to lead the 2026 Sinquefield Cup on 4.5/7 after making an almost instant draw with GM Anish Giri in round seven on Monday. He&#39;s trailed by GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-7",
-         "pubDate" : "Mon, 17 Aug 2026 19:56:03",
+         "pubDate" : "Mon, 17 Aug 2026 19:56:00",
          "title" : "Sindarov Wins On Demand With Black; Tan Bamboozles Divya To Extend Lead"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Mon, 17 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
@@ -42,14 +42,6 @@ news_feed (
          "title" : "Killed by your own preparation"
       },
       {
-         "description" : "Wesley So is still the sole leader at the Sinquefield Cup after four draws kept the top of the standings unchanged in round six. The only decisive result saw Anish Giri defeat fellow Dutchman Jorden van Foreest, who remains alone in last place on 1/6. So leads with 4/6, while Fabiano Caruana, Vincent Keymer, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave are half a point behind. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-6",
-         "pubDate" : "Mon, 17 Aug 2026 12:00:00",
-         "title" : "Sinquefield Cup: Giri beats Van Foreest"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133294300.cms\" />R Praggnanandhaa draws Levon Aronian in the sixth round of the Sinquefield Cup, keeping him joint second with 3.5 points. Wesley So leads with four points after drawing Maxime Vachier-Lagrave. Praggnanandhaa survives a tricky middle game after losing two pawns. Anish Giri is the only winner of the round, defeating Jorden van Foreest.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,22 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : "Saco Oliveros de Lince won the American Continental Stage of the FIDE ISCF World Schools Team Championship in San Jos&eacute;, finishing unbeaten on 15/16 match points. Harvest Park Middle School from the United States and Crescent Heights Academy from Canada took second and third, with all three teams qualifying for the Grand Final in December. The closing day also featured board prizes, perfect individual scores and final side events for the young players. | Photos: ISCF, Arlan Olzhabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/san-jose-wstc-2026-final",
-         "pubDate" : "Mon, 17 Aug 2026 07:15:00",
-         "title" : "Saco Oliveros de Lince takes gold as San Jos&eacute; School Championship closes with tribute to mothers"
-      },
-      {
-         "description" : "Magnus Carlsen successfully defended his title. After winning the Esports World Cup in 2025, he came out on top again this year. In the final, he faced Denis Lazavik, a young talent who is particularly strong in online chess. Carlsen won both matches, each of which consisted of four games. Overall, he defeated Lazavik four times and drew the other four games. In the match for third place, Hikaru Nakamura beat Alireza Firouzja. Their encounter was not without drama. | Image: Esports World Cup webcast",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2026-d5",
-         "pubDate" : "Mon, 17 Aug 2026 05:50:00",
-         "title" : "Carlsen beats Lazavik, successfully defends Esports World Cup title"
       },
       {
          "description" : "GM Wesley So still leads GMs Fabiano Caruana, Maxime Vachier-Lagrave, Vincent Keymer, and Praggnanandhaa Rameshbabu by half a point after round six of the 2026 Sinquefield Cup, with GM Anish Giri scoring the day&#39;s only win. He said he &#34;went a litt...",
