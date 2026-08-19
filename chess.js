@@ -18,6 +18,14 @@ news_feed (
          "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
       },
       {
+         "description" : "The inaugural Esports Nations Cup (ENC), which was set to feature a 128-player chess tournament in Riyadh, Saudi Arabia, on November 2-29, has been postponed by one year to November 2027, the Esports Foundation (EF) announced on Tuesday. The Foun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esports-nations-cup-postponed-to-november-2027-chess-qualification-plans-unclear",
+         "pubDate" : "Wed, 19 Aug 2026 00:48:00",
+         "title" : "Esports Nations Cup Postponed To November 2027"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu has caught GM Wesley So in the lead of the 2026 Sinquefield Cup on 5/8, just before the final round. With the black pieces, Praggnanandhaa beat GM Maxime Vachier-Lagrave in just 27 moves, while So made a draw against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-teenagers-bodhana-sivanandan-and-shreyas-royal-become-2026-british-chess-champions/articleshow/133097814.cms",
          "pubDate" : "Mon, 10 Aug 2026 11:03:06",
          "title" : "Indian-origin teenagers Bodhana, Shreyas become British chess champions"
-      },
-      {
-         "description" : "NMs Isaac Chiu and Janak Awatramani are the first duo to win the Bughouse Championship twice. Their biggest rivals were 2024 champions GMs Jeffery Xiong and Awonder Liang. The super-grandmasters lost the first match, won the second encounter, but ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chiu-awatramani-win-2026-bughouse-chess-championship",
-         "pubDate" : "Mon, 10 Aug 2026 08:35:30",
-         "title" : "National Masters Chiu & Awatramani Beat Super-GMs Xiong & Awonder For 2nd Title"
       },
       {
          "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
