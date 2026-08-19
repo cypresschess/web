@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Étienne Bacrot and Sophie Milliet were crowned French chess champions, winning their ninth and seventh national titles, respectively. The 2026 edition of the French Championship took place from August 7 to 16 in Vichy and featured 16-player knockout competitions in the Open and Women's sections, as well as several side Swiss tournaments. In the main events, if a match was tied after two classical games, a 2-game rapid tiebreak (15+10) was played, followed by a 2-game blitz tiebreak (5+3) and an Armageddon game if necessary. | All photos: Ambrose Ducable",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championship-2026-tienne-bacrot-and-sophie-milliet-clinch-titles",
+         "pubDate" : "Wed, 19 Aug 2026 16:00:00",
+         "title" : "French Championship 2026: Étienne Bacrot and Sophie Milliet clinch titles"
+      },
+      {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explains how to work with candidate moves and build a more reliable thinking process at the board. Using several practical examples, she shows how comparison, calculation, prophylaxis and piece improvement help narrow down the right choices in critical positions. Special attention is given to knowing when a forcing line deserves deeper calculation and when positional understanding should guide the decision instead. The lesson ultimately shows how strong candidate moves combine concrete calculation with a clear sense of what the position actually demands.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-find-candidate-moves",
+         "pubDate" : "Wed, 19 Aug 2026 14:00:00",
+         "title" : "Svitlana's Smart Moves - How to find candidate moves"
+      },
+      {
+         "description" : "The English Chess Federation is pleased to host the 11th Menchik Memorial Tournament, which will take place from Monday 24th to Sunday 30th August 2026 at the ILEC Conference Centre....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
+         "pubDate" : "Wed, 19 Aug 2026 12:24:48",
+         "title" : "The 11th Menchik Memorial"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu caught Wesley So in the lead of the Sinquefield Cup with one round remaining after defeating Maxime Vachier-Lagrave in 27 moves. So drew Sam Sevian, leaving both players on 5/8. Vincent Keymer and Javokhir Sindarov are half a point behind after scoring wins on Tuesday, with Sindarov's victory keeping his hopes of reaching the Grand Chess Tour Finals alive. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
          "pubDate" : "Fri, 31 Jul 2026 06:00:05",
          "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
-      },
-      {
-         "description" : "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning - but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally shifted and mirrored positions losing. Here is the elegant solution, which reminds us of the famous Babson task.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
-         "pubDate" : "Wed, 29 Jul 2026 12:00:00",
-         "title" : "Shifts and mirrors in a chess problem"
       }
    ]
 }
