@@ -10,6 +10,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu has caught GM Wesley So in the lead of the 2026 Sinquefield Cup on 5/8, just before the final round. With the black pieces, Praggnanandhaa beat GM Maxime Vachier-Lagrave in just 27 moves, while So made a draw against G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-8",
+         "pubDate" : "Tue, 18 Aug 2026 18:47:38",
+         "title" : "Praggnanandhaa Catches So In Lead; Tan A Draw Away From Tournament Victory"
+      },
+      {
          "description" : "With his FritzTrainer \"Calculation Training\", Robert Ris tackled one of the most important topics in chess back in 2018: how to calculate correctly - and clearly struck a chord. Several more courses on the subject followed. Jochen Schwarz has taken a closer look at these courses and presents an overview.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
          "pubDate" : "Sun, 09 Aug 2026 02:21:07",
          "title" : "The Stateless Kings: How Chess preserves an ideal in a fractured world"
-      },
-      {
-         "description" : "GM Jeffery Xiong is off the mark in 2026 after he won August&#39;s second Bullet Brawl off the back of an explosive 10/10 start. Playing more than 70 games in the two-hour arena, Xiong accrued a score of 159 and earned the $400 first prize, leaving IM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-8-2026",
-         "pubDate" : "Sat, 08 Aug 2026 17:29:00",
-         "title" : "'Orangutan' Opening Stars Again For Xiong In Bullet Brawl"
       },
       {
          "description" : "Now it's time to talk about the weight of extra knowledge. Last week's analogy (You already know more than you can use): knowledge is the gear, skill is the body you built for the hike. This week, why loading gear you don't need costs you. The Extra Weight Same body, more weight, and you're slower []",
