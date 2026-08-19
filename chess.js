@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "description" : "Praggnanandhaa Rameshbabu caught Wesley So in the lead of the Sinquefield Cup with one round remaining after defeating Maxime Vachier-Lagrave in 27 moves. So drew Sam Sevian, leaving both players on 5/8. Vincent Keymer and Javokhir Sindarov are half a point behind after scoring wins on Tuesday, with Sindarov's victory keeping his hopes of reaching the Grand Chess Tour Finals alive. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Tue, 18 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-8",
+         "pubDate" : "Wed, 19 Aug 2026 07:50:00",
+         "title" : "Sinquefield Cup: Pragg wins to catch So, Sindarov and Keymer also score"
+      },
+      {
+         "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
+         "pubDate" : "Wed, 19 Aug 2026 07:22:09",
+         "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu has caught GM Wesley So in the lead of the 2026 Sinquefield Cup on 5/8, just before the final round. With the black pieces, Praggnanandhaa beat GM Maxime Vachier-Lagrave in just 27 moves, while So made a draw against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-8",
-         "pubDate" : "Tue, 18 Aug 2026 18:47:38",
-         "title" : "Praggnanandhaa Catches So In Lead; Tan A Draw Away From Tournament Victory"
+         "pubDate" : "Tue, 18 Aug 2026 18:47:00",
+         "title" : "Praggnanandhaa Catches So In Lead; Tan Draw Away From Tournament Victory"
       },
       {
          "description" : "With his FritzTrainer \"Calculation Training\", Robert Ris tackled one of the most important topics in chess back in 2018: how to calculate correctly - and clearly struck a chord. Several more courses on the subject followed. Jochen Schwarz has taken a closer look at these courses and presents an overview.",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-state-of-chess-september-1-2026",
          "pubDate" : "Tue, 18 Aug 2026 07:00:00",
          "title" : "State Of Chess Returns September 1 With Liza Mandelup, Albert Cheng"
-      },
-      {
-         "description" : "Javokhir Sindarov scored his first win of the Sinquefield Cup by beating Vincent Keymer with the black pieces, drawing level with the German GM on 3&frac12;/7 and tightening the race for a place in the Grand Chess Tour Finals. Wesley So remains the sole leader on 4&frac12;/7, half a point ahead of Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave, with two rounds left to play. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-7",
-         "pubDate" : "Tue, 18 Aug 2026 06:55:00",
-         "title" : "Sinquefield Cup: Sindarov outplays Keymer, keeps chances of reaching GCT Finals alive"
       },
       {
          "description" : "Today's puzzles again come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
