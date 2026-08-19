@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
+         "pubDate" : "Wed, 19 Aug 2026 23:06:12",
+         "title" : "Quo vadis, Fischer Random Chess? (1)"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
          "pubDate" : "Wed, 19 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup Tiebreaks - Live!"
       },
       {
          "description" : "Étienne Bacrot and Sophie Milliet were crowned French chess champions, winning their ninth and seventh national titles, respectively. The 2026 edition of the French Championship took place from August 7 to 16 in Vichy and featured 16-player knockout competitions in the Open and Women's sections, as well as several side Swiss tournaments. In the main events, if a match was tied after two classical games, a 2-game rapid tiebreak (15+10) was played, followed by a 2-game blitz tiebreak (5+3) and an Armageddon game if necessary. | All photos: Ambrose Ducable",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/french-championship-2026-tienne-bacrot-and-sophie-milliet-clinch-titles",
          "pubDate" : "Wed, 19 Aug 2026 16:00:00",
          "title" : "French Championship 2026: Étienne Bacrot and Sophie Milliet clinch titles"
+      },
+      {
+         "description" : "GM Wesley So won his third title and $87,500 at the 2026 Sinquefield Cup. After all the classical games ended in draws, he and GM Praggnanandhaa Rameshbabu contested the champion&#39;s title in rapid playoffs. The two rapid games ended in draws, and w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
+         "pubDate" : "Wed, 19 Aug 2026 15:29:38",
+         "title" : "Wesley So 3-Peat Sinquefield Cup Champion; Tan Zhongyi Wins 2nd Cairns Cup"
       },
       {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explains how to work with candidate moves and build a more reliable thinking process at the board. Using several practical examples, she shows how comparison, calculation, prophylaxis and piece improvement help narrow down the right choices in critical positions. Special attention is given to knowing when a forcing line deserves deeper calculation and when positional understanding should guide the decision instead. The lesson ultimately shows how strong candidate moves combine concrete calculation with a clear sense of what the position actually demands.",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-7",
          "pubDate" : "Mon, 17 Aug 2026 19:56:00",
          "title" : "Sindarov Wins On Demand With Black; Tan Bamboozles Divya To Extend Lead"
-      },
-      {
-         "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
-         "pubDate" : "Mon, 17 Aug 2026 18:30:00",
-         "title" : "Quo vadis, Fischer Random Chess? (1)"
       },
       {
          "description" : "Chris Ward examines an uncommon Classical Dragon line from the game between Andy Woodward and 2600+ GM Vasif Durarbayli. The system resembles a Yugoslav Attack, but White develops the bishop to e2 instead of playing the typical f3, leading to different strategic and tactical possibilities. Chris highlights several critical moments and believes Black could have improved with Rxc3, although Woodward eventually took over the initiative and won an entertaining game. | Photo: John Upham",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-esports-world-cup-play-in",
          "pubDate" : "Tue, 11 Aug 2026 11:25:00",
          "title" : "Esipenko, Wei Yi Join Carlsen & Co. In Esports World Cup Last 16"
-      },
-      {
-         "description" : "NBA star Victor Wembanyama, Wemby to his fans, loves chess almost as much as basketball. For the second straight year, Wembanyama organized a summer Hoop Gambit Festival, combining his two favorite activities. The festival was held on the outskirt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wemby-gothamchess-headline-hoop-gambit-chess-festival",
-         "pubDate" : "Tue, 11 Aug 2026 06:13:00",
-         "title" : "🏀 Wemby, GothamChess Headline Hoop Gambit Festival"
       },
       {
          "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
