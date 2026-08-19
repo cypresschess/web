@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+         "pubDate" : "Wed, 19 Aug 2026 18:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Étienne Bacrot and Sophie Milliet were crowned French chess champions, winning their ninth and seventh national titles, respectively. The 2026 edition of the French Championship took place from August 7 to 16 in Vichy and featured 16-player knockout competitions in the Open and Women's sections, as well as several side Swiss tournaments. In the main events, if a match was tied after two classical games, a 2-game rapid tiebreak (15+10) was played, followed by a 2-game blitz tiebreak (5+3) and an Armageddon game if necessary. | All photos: Ambrose Ducable",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,22 @@ news_feed (
          "title" : "The 11th Menchik Memorial"
       },
       {
+         "description" : "Fans now have a reason to tune in to their favorite streaming platform every Tuesday. Titled Tuesday (TT) broadcasts are back, hosted by the one and only GM Robert Hess! Shows start weekly at 11 a.m. ET / 17:00 CEST / 8:30 p.m. IST on our Twitch a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-titled-tuesday-broadcast",
+         "pubDate" : "Wed, 19 Aug 2026 10:00:00",
+         "title" : "Titled Tuesday Broadcast Returns With GM Robert Hess As Main Host"
+      },
+      {
+         "description" : "As GM Magnus Carlsen celebrates another Esports World Cup title, attention is already turning to the road to next year&#39;s event. The Champions Chess Tour (CCT) 2026-2027 cycle remains the main road to the next Esports World Cup&#38;mdash;with a tweaked...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-champions-chess-tour-2026-2027",
+         "pubDate" : "Wed, 19 Aug 2026 09:00:00",
+         "title" : "Champions Chess Tour 2026-2027: Adjusted Format, Same Road To The Esports World Cup"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu caught Wesley So in the lead of the Sinquefield Cup with one round remaining after defeating Maxime Vachier-Lagrave in 27 moves. So drew Sam Sevian, leaving both players on 5/8. Vincent Keymer and Javokhir Sindarov are half a point behind after scoring wins on Tuesday, with Sindarov's victory keeping his hopes of reaching the Grand Chess Tour Finals alive. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/esports-nations-cup-postponed-to-november-2027-chess-qualification-plans-unclear",
          "pubDate" : "Wed, 19 Aug 2026 00:48:00",
          "title" : "Esports Nations Cup Postponed To November 2027"
+      },
+      {
+         "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-1",
+         "pubDate" : "Wed, 19 Aug 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 1"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu has caught GM Wesley So in the lead of the 2026 Sinquefield Cup on 5/8, just before the final round. With the black pieces, Praggnanandhaa beat GM Maxime Vachier-Lagrave in just 27 moves, while So made a draw against G...",
@@ -458,22 +490,6 @@ news_feed (
          "title" : "🏀 Wemby, GothamChess Headline Hoop Gambit Festival"
       },
       {
-         "description" : "Today's puzzles come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-1",
-         "pubDate" : "Tue, 11 Aug 2026 00:00:00",
-         "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 1"
-      },
-      {
-         "description" : "GM Fabiano Caruana took sole lead of the 2026 Sinquefield Cup after round one on Monday after beating GM Jorden van Foreest with the white pieces. All other games ended in draws&#38;mdash;that is, GM Javokhir Sindarov vs. GM Levon Aronian, GM Vincent ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-1",
-         "pubDate" : "Mon, 10 Aug 2026 17:47:00",
-         "title" : "Caruana Scores 1st Win In Sinquefield Cup; Tan, Divya, Lee Lead Cairns Cup"
-      },
-      {
          "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
          "pubDate" : "Mon, 10 Aug 2026 13:11:00",
          "title" : "13th Sinquefield Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "Indian prodigy FM Aarit Kapil has taken another major step toward the international master title, scoring his second norm with a round to spare before going on to win a round-robin tournament in Serbia ahead of three GMs and three IMs. Extraordin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/10-year-old-aarit-kapil-beats-another-gm-to-earn-2nd-im-norm",
-         "pubDate" : "Mon, 10 Aug 2026 11:49:00",
-         "title" : "10-Year-Old Aarit Kapil Wins GM Tournament To Score 2nd IM Norm"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
