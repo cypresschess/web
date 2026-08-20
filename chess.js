@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So won the Sinquefield Cup for a third time (and for a second year in a row) after defeating Praggnanandhaa Rameshbabu in tiebreaks. The pair had finished the classical event tied on 5&frac12;/9, before two rapid draws sent the contest to Armageddon. Praggnanandhaa missed several winning chances with white, allowing So to hold the draw he needed to claim the title. Vincent Keymer and Javokhir Sindarov shared third place on 5/9. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-9",
+         "pubDate" : "Thu, 20 Aug 2026 08:10:00",
+         "title" : "So beats Pragg in Armageddon, claims Sinquefield Cup title for second consecutive year"
+      },
+      {
+         "description" : " The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took first place from Praggnanandhaa after winning a tie-break match. The players scored 5.5/9 to share first place and then drew two 10 minutes plus 5 seconds a move rapid game, a final Armageddon game was required, Wesley had the black pieces and draw odds, the game finished at King vs King and thus so had the draw he needed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
+         "pubDate" : "Thu, 20 Aug 2026 06:44:00",
+         "title" : "13th Sinquefield Cup 2026 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133350794.cms\" />Udaipur's Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
-         "pubDate" : "Wed, 19 Aug 2026 15:29:38",
+         "pubDate" : "Wed, 19 Aug 2026 15:29:00",
          "title" : "Wesley So 3-Peat Sinquefield Cup Champion; Tan Zhongyi Wins 2nd Cairns Cup"
       },
       {
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
          "pubDate" : "Mon, 10 Aug 2026 13:15:00",
          "title" : "6th Cairns Cup 2026 - Games and Results"
-      },
-      {
-         "description" : " The 13th Sinquefield Cup takes place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
-         "pubDate" : "Mon, 10 Aug 2026 13:11:00",
-         "title" : "13th Sinquefield Cup 2026 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
