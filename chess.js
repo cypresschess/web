@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For twenty years, Harika Dronavalli was a fixture of every Indian team that walked into an Olympiad hall. Board one, board two, whatever the assignment, she was there, absorbing the pressure that comes with playing for a country rather than just for herself. So when the Indian squad for the Chess Olympiad 2026 was announced without her name on it, the news read, on the surface, like a changing of the guard: Humpy Koneru returning to the team and Savitha Shri B stepping in as a new addition along with a new captain: Swayams Mishra. Read Harika's thoughts on the decision. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harika-dronavalli-interview-olympiad-2026",
+         "pubDate" : "Fri, 21 Aug 2026 00:30:00",
+         "title" : "\"It was solely my decision\": Harika Dronavalli on stepping back from representing India in the Olympiad"
+      },
+      {
          "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
          "pubDate" : "Thu, 20 Aug 2026 10:28:41",
          "title" : "It's Leonard Barden's birthday!"
-      },
-      {
-         "description" : "Wesley So won the Sinquefield Cup for a third time (and for a second year in a row) after defeating Praggnanandhaa Rameshbabu in tiebreaks. The pair had finished the classical event tied on 5&frac12;/9, before two rapid draws sent the contest to Armageddon. Praggnanandhaa missed several winning chances with white, allowing So to hold the draw he needed to claim the title. Vincent Keymer and Javokhir Sindarov shared third place on 5/9. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-9",
-         "pubDate" : "Thu, 20 Aug 2026 08:10:00",
-         "title" : "So beats Pragg in Armageddon, claims Sinquefield Cup title for second consecutive year"
       },
       {
          "description" : "Chess.com will host the first debate of the 2026 FIDE presidential election on September 9, bringing together all three candidates&#38;mdash;Jan Henric Buettner, Timur Turlov, and Wadim Rosenstein&#38;mdash;to discuss their visions for the future of inter...",
@@ -58,6 +58,14 @@ news_feed (
          "title" : "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map"
       },
       {
+         "description" : "When the dust settled Wednesday at the Saint Louis Chess Club and the Sinquefield Cup and Cairns Cup were finished, the leaders at the halfway point still stood atop the standings. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Seirawan, So, Tan, Ashley (photo courtesy SLCC / Ootes)<br> <br> <br> <br> American GM Wesley So won his second straight Sinquefield Cup, his third total, after a playoff against Indian GM Praggnanandhaa Rameshbabu that went to the Armageddon phase; in the Cairns Cup, Chinese GM Tan Zhongyi kept her lead despite a last-round stumble, while 16-year-old American IM Alice Lee finished in second place for the second year in a row, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/run-it-back-so-wins-sinquefield-tan-takes-cairns",
+         "pubDate" : "Thu, 20 Aug 2026 00:00:00",
+         "title" : "Run It Back: So Wins Sinquefield; Tan Takes Cairns"
+      },
+      {
          "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,28 +82,12 @@ news_feed (
          "title" : "Sinquefield Cup Tiebreaks - Live!"
       },
       {
-         "description" : "Étienne Bacrot and Sophie Milliet were crowned French chess champions, winning their ninth and seventh national titles, respectively. The 2026 edition of the French Championship took place from August 7 to 16 in Vichy and featured 16-player knockout competitions in the Open and Women's sections, as well as several side Swiss tournaments. In the main events, if a match was tied after two classical games, a 2-game rapid tiebreak (15+10) was played, followed by a 2-game blitz tiebreak (5+3) and an Armageddon game if necessary. | All photos: Ambrose Ducable",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championship-2026-tienne-bacrot-and-sophie-milliet-clinch-titles",
-         "pubDate" : "Wed, 19 Aug 2026 16:00:00",
-         "title" : "French Championship 2026: Étienne Bacrot and Sophie Milliet clinch titles"
-      },
-      {
          "description" : "GM Wesley So won his third title and $87,500 at the 2026 Sinquefield Cup on Wednesday. After all the classical games ended in draws, he and GM Praggnanandhaa Rameshbabu contested the champion&#39;s title in rapid playoffs. The two rapid games ended in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
          "pubDate" : "Wed, 19 Aug 2026 15:29:00",
          "title" : "Wesley So Wins 3rd Sinquefield Cup; Tan Zhongyi Claims 2nd Cairns Cup"
-      },
-      {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explains how to work with candidate moves and build a more reliable thinking process at the board. Using several practical examples, she shows how comparison, calculation, prophylaxis and piece improvement help narrow down the right choices in critical positions. Special attention is given to knowing when a forcing line deserves deeper calculation and when positional understanding should guide the decision instead. The lesson ultimately shows how strong candidate moves combine concrete calculation with a clear sense of what the position actually demands.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-find-candidate-moves",
-         "pubDate" : "Wed, 19 Aug 2026 14:00:00",
-         "title" : "Svitlana's Smart Moves - How to find candidate moves"
       },
       {
          "description" : "The English Chess Federation is pleased to host the 11th Menchik Memorial Tournament, which will take place from Monday 24th to Sunday 30th August 2026 at the ILEC Conference Centre....",
@@ -120,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-champions-chess-tour-2026-2027",
          "pubDate" : "Wed, 19 Aug 2026 09:00:00",
          "title" : "Champions Chess Tour 2026-2027: Adjusted Format, Same Road To The Esports World Cup"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu caught Wesley So in the lead of the Sinquefield Cup with one round remaining after defeating Maxime Vachier-Lagrave in 27 moves. So drew Sam Sevian, leaving both players on 5/8. Vincent Keymer and Javokhir Sindarov are half a point behind after scoring wins on Tuesday, with Sindarov's victory keeping his hopes of reaching the Grand Chess Tour Finals alive. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-8",
-         "pubDate" : "Wed, 19 Aug 2026 07:50:00",
-         "title" : "Sinquefield Cup: Pragg wins to catch So, Sindarov and Keymer also score"
       },
       {
          "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
@@ -160,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-8",
          "pubDate" : "Tue, 18 Aug 2026 18:47:00",
          "title" : "Praggnanandhaa Catches So In Lead; Tan Draw Away From Tournament Victory"
-      },
-      {
-         "description" : "With his FritzTrainer \"Calculation Training\", Robert Ris tackled one of the most important topics in chess back in 2018: how to calculate correctly - and clearly struck a chord. Several more courses on the subject followed. Jochen Schwarz has taken a closer look at these courses and presents an overview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-calculation-training-by-robert-ris",
-         "pubDate" : "Tue, 18 Aug 2026 17:00:00",
-         "title" : "Review: Calculation Training by Robert Ris"
       },
       {
          "description" : "GM Tuan Minh Le won his first Titled Tuesday of the year on August 18, and the 12th of his career, after coming out ahead of GMs Parham Maghsoodloo and Arjun Erigaisi on tiebreaks with a score of 9.5/11. Le recovered from a first-round loss by rip...",
@@ -208,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-7",
          "pubDate" : "Mon, 17 Aug 2026 19:56:00",
          "title" : "Sindarov Wins On Demand With Black; Tan Bamboozles Divya To Extend Lead"
-      },
-      {
-         "description" : "Chris Ward examines an uncommon Classical Dragon line from the game between Andy Woodward and 2600+ GM Vasif Durarbayli. The system resembles a Yugoslav Attack, but White develops the bishop to e2 instead of playing the typical f3, leading to different strategic and tactical possibilities. Chris highlights several critical moments and believes Black could have improved with Rxc3, although Woodward eventually took over the initiative and won an entertaining game. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon",
-         "pubDate" : "Mon, 17 Aug 2026 16:00:00",
-         "title" : "Woodward's Unusual Classical Dragon - The Monthly Dragon"
       },
       {
          "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
@@ -488,14 +456,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-3",
          "pubDate" : "Wed, 12 Aug 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 3"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2026-2027 US Chess Executive Board: (Top row, l-r) Daniel Serna, John D. Rockefeller V, John Fernandez, Anand Dommalapati. (Bottom row, l-r): Fred Abousleman, David Hater, Kevin Pryor, Lakshmana \"Vish\" Viswanath (Photo by David Llada). After the 2026 Delegates Meeting completed on August 8, 2026, the Executive Board elected the following officers:President: John FernandezVice President: John D. Rockefeller VVice President of Finance: Daniel SernaSecretary: Anand DommalapatiCompleting the board are:Member-at-Large: David HaterMember-at-Large: Kevin PryorMember-at-Large: Lakshmana \"Vish\" ViswanathExecutive Director: Fred",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/announcing-2026-2027-executive-board",
-         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
-         "title" : "Announcing the 2026-2027 Executive Board"
       },
       {
          "description" : "Round two of the 2026 Sinquefield Cup featured wins on four out of five boards, with the white pieces scoring every point. GM Levon Aronian came back from the dead to beat GM Vincent Keymer, GM Maxime Vachier-Lagrave beat GM Sam Sevian in a compli...",
