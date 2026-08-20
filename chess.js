@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF wishes Leonard Barden a very happy 97th birthday today! Leonard is the Guardian's chess columnist, and holds the Guinness World Record for the longest-running continuous chess column, which...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
+         "pubDate" : "Thu, 20 Aug 2026 10:28:41",
+         "title" : "It's Leonard Barden's birthday!"
+      },
+      {
          "description" : "Wesley So won the Sinquefield Cup for a third time (and for a second year in a row) after defeating Praggnanandhaa Rameshbabu in tiebreaks. The pair had finished the classical event tied on 5&frac12;/9, before two rapid draws sent the contest to Armageddon. Praggnanandhaa missed several winning chances with white, allowing So to hold the draw he needed to claim the title. Vincent Keymer and Javokhir Sindarov shared third place on 5/9. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-calculation-training-by-robert-ris",
          "pubDate" : "Tue, 18 Aug 2026 17:00:00",
          "title" : "Review: Calculation Training by Robert Ris"
-      },
-      {
-         "description" : "Dear chess friends! We've got another great offer for you: this week (until August 23rd, 2026), you can get up to 30% off all Fritz Trainer courses by Robert Ris and Felix Blohberger!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-7",
-         "pubDate" : "Tue, 18 Aug 2026 13:00:00",
-         "title" : "ChessBase Summer-Special! - Part 7"
       },
       {
          "description" : "GM Tuan Minh Le won his first Titled Tuesday of the year on August 18, and the 12th of his career, after coming out ahead of GMs Parham Maghsoodloo and Arjun Erigaisi on tiebreaks with a score of 9.5/11. Le recovered from a first-round loss by rip...",
