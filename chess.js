@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133350794.cms\" />Udaipur's Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gave-up-iit-left-home-slept-on-roads-how-rajasthans-first-agm-put-udaipur-on-global-chess-map/articleshow/133350794.cms",
+         "pubDate" : "Thu, 20 Aug 2026 02:30:00",
+         "title" : "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map"
+      },
+      {
          "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "French Championship 2026: Étienne Bacrot and Sophie Milliet clinch titles"
       },
       {
-         "description" : "GM Wesley So won his third title and $87,500 at the 2026 Sinquefield Cup. After all the classical games ended in draws, he and GM Praggnanandhaa Rameshbabu contested the champion&#39;s title in rapid playoffs. The two rapid games ended in draws, and w...",
+         "description" : "GM Wesley So won his third title and $87,500 at the 2026 Sinquefield Cup on Wednesday. After all the classical games ended in draws, he and GM Praggnanandhaa Rameshbabu contested the champion&#39;s title in rapid playoffs. The two rapid games ended in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
