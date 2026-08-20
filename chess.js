@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Warning: this is a long read. Two weeks ago I wrote a piece on the increase of computer power in the last 50 years. A number of readers wrote me letters discussing my findings and commenting on what I had said. Then I asked myself: what does AI, what do ChatGPT and its colleagues think about the subject? Here's what I found out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/will-elo-4000-ever-be-exceeded",
+         "pubDate" : "Thu, 20 Aug 2026 16:00:00",
+         "title" : "Will Elo 4000 ever be exceeded?"
+      },
+      {
          "description" : "The ECF wishes Leonard Barden a very happy 97th birthday today! Leonard is the Guardian's chess columnist, and holds the Guinness World Record for the longest-running continuous chess column, which...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-9",
          "pubDate" : "Thu, 20 Aug 2026 08:10:00",
          "title" : "So beats Pragg in Armageddon, claims Sinquefield Cup title for second consecutive year"
+      },
+      {
+         "description" : "Chess.com will host the first debate of the 2026 FIDE presidential election on September 9, bringing together all three candidates&#38;mdash;Jan Henric Buettner, Timur Turlov, and Wadim Rosenstein&#38;mdash;to discuss their visions for the future of inter...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-presidential-debate-2026-buettner-rosenstein-turlov",
+         "pubDate" : "Thu, 20 Aug 2026 08:08:26",
+         "title" : "Chess.com To Host Live FIDE Presidential Debate With Buettner, Rosenstein, Turlov"
       },
       {
          "description" : " The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took first place from Praggnanandhaa after winning a tie-break match. The players scored 5.5/9 to share first place and then drew two 10 minutes plus 5 seconds a move rapid game, a final Armageddon game was required, Wesley had the black pieces and draw odds, the game finished at King vs King and thus so had the draw he needed.",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
          "pubDate" : "Wed, 19 Aug 2026 15:29:00",
-         "title" : "Wesley So 3-Peat Sinquefield Cup Champion; Tan Zhongyi Wins 2nd Cairns Cup"
+         "title" : "Wesley So Wins 3rd Sinquefield Cup; Tan Zhongyi Claims 2nd Cairns Cup"
       },
       {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explains how to work with candidate moves and build a more reliable thinking process at the board. Using several practical examples, she shows how comparison, calculation, prophylaxis and piece improvement help narrow down the right choices in critical positions. Special attention is given to knowing when a forcing line deserves deeper calculation and when positional understanding should guide the decision instead. The lesson ultimately shows how strong candidate moves combine concrete calculation with a clear sense of what the position actually demands.",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
          "pubDate" : "Tue, 11 Aug 2026 11:44:02",
          "title" : "European Junior U20 Chess Championship 2026 is halfway through"
-      },
-      {
-         "description" : "GMs Wei Yi (Team Nemesis) and Andrey Esipenko (Virtus.pro) are through to tomorrow&#39;s 16-player Group Stage of the $1.5 million 2026 Esports World Cup, where they&#39;ll take on the likes of GMs Magnus Carlsen, Hikaru Nakamura, and Alireza Firouzja. We...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-play-in",
-         "pubDate" : "Tue, 11 Aug 2026 11:25:00",
-         "title" : "Esipenko, Wei Yi Join Carlsen & Co. In Esports World Cup Last 16"
       },
       {
          "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
