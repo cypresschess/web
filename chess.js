@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-king-s-indian-a-complete-repertoire-for-black-by-gm-felix-blohberger-2",
+         "pubDate" : "Thu, 20 Aug 2026 20:00:01",
+         "title" : "Review: King's Indian - A Complete Repertoire for Black by GM Felix Blohberger"
+      },
+      {
          "description" : "Warning: this is a long read. Two weeks ago I wrote a piece on the increase of computer power in the last 50 years. A number of readers wrote me letters discussing my findings and commenting on what I had said. Then I asked myself: what does AI, what do ChatGPT and its colleagues think about the subject? Here's what I found out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
