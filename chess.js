@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
          "pubDate" : "Fri, 21 Aug 2026 14:00:00",
-         "title" : "The Evans Gambit - a timeless opening system?"
+         "title" : "The Evans Gambit - an evergreen opening?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-junior-chess-guru-prakash-manav-kumar-register-major-upset-wins/articleshow/133401579.cms",
          "pubDate" : "Fri, 21 Aug 2026 11:08:21",
          "title" : "Asian Junior Chess: Guru Prakash, Manav Kumar register major upset wins"
+      },
+      {
+         "description" : "GM Vladimir Kramnik has taken New In Chess magazine to court over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky and examined the impact of his public comments on GM David Navara and others.&#38;nbsp; A hearin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vladimir-kramnik-sues-new-in-chess-naroditsky-article",
+         "pubDate" : "Fri, 21 Aug 2026 10:42:21",
+         "title" : "Kramnik Takes New In Chess To Court Over Naroditsky Article"
       },
       {
          "description" : "Ukrainian grandmaster Vereslav Eingorn has died at the age of 69. A leading figure in Soviet chess during the 1980s, he won three USSR Championship bronze medals, qualified for the 1987 Zagreb Interzonal and later represented Ukraine at team events, including the 2000 Olympiad and the 2001 World Team Championship. Eingorn also became a respected coach and author, guiding Ukraine's women's team to Olympiad gold in 2006.",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-3",
          "pubDate" : "Wed, 12 Aug 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 3"
-      },
-      {
-         "description" : "Round two of the 2026 Sinquefield Cup featured wins on four out of five boards, with the white pieces scoring every point. GM Levon Aronian came back from the dead to beat GM Vincent Keymer, GM Maxime Vachier-Lagrave beat GM Sam Sevian in a compli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-2",
-         "pubDate" : "Tue, 11 Aug 2026 18:24:00",
-         "title" : "Aronian Wins From Lost Position; Lee, Tan On 2/2"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
