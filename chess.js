@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-junior-chess-guru-prakash-manav-kumar-register-major-upset-wins/articleshow/133401579.cms",
+         "pubDate" : "Fri, 21 Aug 2026 11:08:21",
+         "title" : "Asian Junior Chess: Guru Prakash, Manav Kumar register major upset wins"
+      },
+      {
          "description" : "Ukrainian grandmaster Vereslav Eingorn has died at the age of 69. A leading figure in Soviet chess during the 1980s, he won three USSR Championship bronze medals, qualified for the 1987 Zagreb Interzonal and later represented Ukraine at team events, including the 2000 Olympiad and the 2001 World Team Championship. Eingorn also became a respected coach and author, guiding Ukraine's women's team to Olympiad gold in 2006.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/harika-dronavalli-interview-olympiad-2026",
          "pubDate" : "Fri, 21 Aug 2026 00:30:00",
          "title" : "\"It was solely my decision\": Harika Dronavalli on stepping back from representing India in the Olympiad"
+      },
+      {
+         "description" : "Former Barcelona and Spain star Gerard Pique has become a strategic shareholder in Global Chess League franchise FYERS American Gambits, adding to a chess portfolio that already includes an investment in Freestyle Chess. Pique is revealed as the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gerard-pique-american-gambits-chess-investment",
+         "pubDate" : "Fri, 21 Aug 2026 00:28:00",
+         "title" : "Barcelona Legend Gerard Pique Doubles Down On Chess With American Gambits Investment"
       },
       {
          "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026",
          "pubDate" : "Tue, 11 Aug 2026 16:03:00",
          "title" : "Shreyas Royal, Bodhana Sivanandan Make History As Youngest-Ever British Champions"
-      },
-      {
-         "description" : "As the main chess event at the Esports World Cup began in Paris on August 11, Titled Tuesday continued apace. FM Artin Ashraf, who plays most weeks and has recorded multiple top-five finishes before, was the victor outright on 10/11 points. Reca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ashraf-wins-titled-tuesday-august-11-2026",
-         "pubDate" : "Tue, 11 Aug 2026 16:01:02",
-         "title" : "Titled Tuesday Vet Wins First Ever"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
