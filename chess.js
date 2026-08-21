@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ukrainian grandmaster Vereslav Eingorn has died at the age of 69. A leading figure in Soviet chess during the 1980s, he won three USSR Championship bronze medals, qualified for the 1987 Zagreb Interzonal and later represented Ukraine at team events, including the 2000 Olympiad and the 2001 World Team Championship. Eingorn also became a respected coach and author, guiding Ukraine's women's team to Olympiad gold in 2006.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memoriam-vereslav-eingorn",
+         "pubDate" : "Fri, 21 Aug 2026 08:45:00",
+         "title" : "In memoriam: Vereslav Eingorn (1956-2026)"
+      },
+      {
+         "description" : " Norway's world No 1 outclassed the field and won the $250,000 first prize at the four-day event in France Magnus Carlsen, Norway's world No 1, triumphed again last weekend when he won the 2026 Esports World Cup, staged over four days at the prestigious venue of the Paris Expo Porte de Versailles. Carlsen retained his title from Riyadh 2025 and took home a monster first prize of $250,000 (&pound;183,000). The time limit was close to blitz, 10 minutes each per player with no per move increment, a format where blunders would be hoped for, and were indeed made, as entertainment for the capacity audience. <a href=\"https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-wo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-world-cup-in-paris-without-losing-a-game",
+         "pubDate" : "Fri, 21 Aug 2026 07:00:29",
+         "title" : "Chess: Magnus Carlsen wins Esports World Cup in Paris without losing a game"
+      },
+      {
+         "description" : "The European Chess Union (ECU) held its first Board meeting following the elections conducted during the General Assembly in Bucharest in July 2026. The meeting took place via teleconference on 17 August 2026. ECU President warmly welcomed the newly elected Board members and formally marked the beginning of the new 2026-2030 administration. GOVERNANCE AND ADMINISTRATION The Board confirmed the structure of the new administration and proceeded with a series of key appointments and organisational decisions aimed at strengthening the ECU's []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-board-convenes-following-2026-general-assembly-elections/",
+         "pubDate" : "Fri, 21 Aug 2026 05:48:05",
+         "title" : "European Chess Union Board Convenes Following 2026 General Assembly Elections"
+      },
+      {
          "description" : "For twenty years, Harika Dronavalli was a fixture of every Indian team that walked into an Olympiad hall. Board one, board two, whatever the assignment, she was there, absorbing the pressure that comes with playing for a country rather than just for herself. So when the Indian squad for the Chess Olympiad 2026 was announced without her name on it, the news read, on the surface, like a changing of the guard: Humpy Koneru returning to the team and Savitha Shri B stepping in as a new addition along with a new captain: Swayams Mishra. Read Harika's thoughts on the decision. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-member-representative-appointments/",
          "pubDate" : "Fri, 31 Jul 2026 14:30:48",
          "title" : "Direct Member Representative appointments"
-      },
-      {
-         "description" : " She Plays to Win face losing one of their female players after being told team must include a male The UK's only all-female chess team have been promoted to the game's top tier - only to be told they will have to add a man to their squad. She Plays to Win Lionesses A Team have fallen foul of a rule designed to boost female participation in the sport. <a href=\"https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
-         "pubDate" : "Fri, 31 Jul 2026 06:00:05",
-         "title" : "Fury as UK's only all-female chess team promoted - then told they must recruit a man"
       }
    ]
 }
