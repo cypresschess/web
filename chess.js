@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Evans Gambit is one of the most famous gambits in chess history. It is named after William Davies Evans (1790-1872), a Welsh sea captain who, in the 1820s, came up with the idea of offering a pawn with 4.b4!? after 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5. If Black accepts the sacrifice, White gains time to develop their pieces and attack the black king. The leading players of the 19th century were enthusiastic about this concept, and chess legends such as Paul Morphy and Adolf Anderssen played numerous spectacular games with the Evans Gambit. But what have modern world champions thought of the Evans Gambit? | Photo: Captain Evans (source: Wikipedia)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
+         "pubDate" : "Fri, 21 Aug 2026 14:00:00",
+         "title" : "The Evans Gambit - a timeless opening system?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-board-convenes-following-2026-general-assembly-elections/",
          "pubDate" : "Fri, 21 Aug 2026 05:48:05",
          "title" : "European Chess Union Board Convenes Following 2026 General Assembly Elections"
+      },
+      {
+         "description" : "GM Magnus Carlsen made it back-to-back victories as he claimed the $250,000 top prize in the 2026 Esports World Cup in Paris. We take a look back at an event that also featured brilliant performances by teenage stars GMs Denis Lazavik and Sina Mov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-7-conclusions",
+         "pubDate" : "Fri, 21 Aug 2026 05:36:00",
+         "title" : "Carlsen Wins 2026 Esports World Cup: 7 Conclusions"
       },
       {
          "description" : "For twenty years, Harika Dronavalli was a fixture of every Indian team that walked into an Olympiad hall. Board one, board two, whatever the assignment, she was there, absorbing the pressure that comes with playing for a country rather than just for herself. So when the Indian squad for the Chess Olympiad 2026 was announced without her name on it, the news read, on the surface, like a changing of the guard: Humpy Koneru returning to the team and Savitha Shri B stepping in as a new addition along with a new captain: Swayams Mishra. Read Harika's thoughts on the decision. | Photo: Nils Rohde / ChessBase",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Aronian Wins From Lost Position; Lee, Tan On 2/2"
       },
       {
-         "description" : "GM Shreyas Royal became the youngest British Champion in history at 17, while 11-year-old FM Bodhana Sivanandan broke the age record for the British Women&#38;rsquo;s title. Fellow prodigy FM Supratit Banerjee, 12, also completed his third IM norm. B...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026",
-         "pubDate" : "Tue, 11 Aug 2026 16:03:00",
-         "title" : "Shreyas Royal, Bodhana Sivanandan Make History As Youngest-Ever British Champions"
-      },
-      {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/knowledge-vs-skill/",
          "pubDate" : "Sat, 01 Aug 2026 13:00:00",
          "title" : "You already know more than you can use"
-      },
-      {
-         "description" : "Please see below the list of appointments &#8212; HLVPs, VPs, CVPs, Honorary Life Members - Gerry Walsh, John Wickham Platinum Members - Adrian Elwin, David Eustace Gold Members - Barbara...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-member-representative-appointments/",
-         "pubDate" : "Fri, 31 Jul 2026 14:30:48",
-         "title" : "Direct Member Representative appointments"
       }
    ]
 }
