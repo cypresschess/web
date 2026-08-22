@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2026-08-21","20","<a href=https://ratings.uschess.org/event/202608210263 target='_blank'>FBCC Jeremiah's Ice Treat Open</a>",
 "HOUSTON","2026-08-16","66","<a href=https://ratings.uschess.org/event/202608160493 target='_blank'>Houston City Championship 2026</a>",
 "HOUSTON","2026-08-16","18","<a href=https://ratings.uschess.org/event/202608160243 target='_blank'>Bellaire Sunday Swiss 2026.08.16</a>",
 "HOUSTON","2026-08-15","75","<a href=https://ratings.uschess.org/event/202608151143 target='_blank'>HOUSTON CITY TEAM BLITZ CHAMPIONSHIP 2026</a>",
@@ -98,5 +99,4 @@ jtable([
 "SPRING","2026-05-29","20","<a href=https://ratings.uschess.org/event/202605290293 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-05-29","42","<a href=https://ratings.uschess.org/event/202605290183 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-05-26","17","<a href=https://ratings.uschess.org/event/202605260243 target='_blank'>MAY TUE NITE SWISS 2026</a>",
-"HOUSTON","2026-05-25","190","<a href=https://ratings.uschess.org/event/202605250163 target='_blank'>81st Texas State & Amateur Championship (In Memory of Luis Salinas)</a>",
 ]);
