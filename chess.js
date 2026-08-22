@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While it has become easier nowadays to find information on openings, main lines and sidelines, converting advantageous positions effectively remains a fine art. As is well known, winning a won position is no easy task. In the third volume of his \"Master Your Technique\" series, Grandmaster Adrian Mikhalchishin examines techniques that occur particularly frequently in practical play. Lukas K&ouml;pl has taken a look at the course and summarised his impressions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-master-your-technique-volume-3-practical-techniques-you-must-know-von-adrian-mikhalchishin",
+         "pubDate" : "Sat, 22 Aug 2026 07:00:00",
+         "title" : "Review: Master Your Technique Volume 3 - Practical Techniques you must know von Adrian Mikhalchishin"
+      },
+      {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players set to compete in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer will take part in the knockout tournament, with competition running from 22 to 27 August and a total prize fund of $450,000 at stake.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
