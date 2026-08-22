@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A legendary centre-back for FC Barcelona, a 2010 World Cup and Euro 2012 champion and one of sport's most restless entrepreneurs is now a stakeholder in a chess franchise. Gerard Piqu&eacute; has come on board the Fyers American Gambits as a strategic shareholder, joining former India cricketer Ravichandran Ashwin in the ownership group, ahead of the Tech Mahindra Global Chess League Season 4 in Bengaluru (3-13 September 2026). It is one of the biggest crossovers chess has seen between football and the 64 squares. | Pictured: A press conference to announce the partnership took place in Bengaluru",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gerard-pique-stakeholder-fyers-american-gambits",
+         "pubDate" : "Sat, 22 Aug 2026 23:30:00",
+         "title" : "Renowned ex-footballer Gerard Piqu&eacute; now part-owner of Fyers American Gambits"
+      },
+      {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
