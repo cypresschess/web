@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase's new releases for July offer plenty of variety for your chess training: from strategic motifs such and dynamic openings such as the Dragon to established repertoires for Black in the Petroff and the Benko Gambit. The selection is rounded off by the new ChessBase Magazine 232, featuring analyses, opening articles and training material, as well as the accompanying Extra. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-july-2",
+         "pubDate" : "Sat, 22 Aug 2026 14:00:00",
+         "title" : "Review: All new releases in July!"
+      },
+      {
          "description" : " The Grand Chess Tour Finals take place in Saint Louis 22nd to 27th August 2026. This is the final event of the tour and there is a total prize fund of $450,000, distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour are in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. The format is complex, two classical games (and a tie-break match for two points if tied), rapid and blitz with different weighting for the sections. I've got an experimental program to do the broadcasting trying to make sense ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -37,8 +45,8 @@ news_feed (
          "description" : "GM Tuan Minh Le followed up his Titled Tuesday victory by winning the first&#38;nbsp;3 0 Thursday tournament of the week on August 20. He&#39;s the fifth player to complete the Tuesday-Thursday double victory on the same week, joining the company of GMs F...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-continues-blitz-run-in-3-0-thursday",
-         "pubDate" : "Fri, 21 Aug 2026 13:50:01",
+         "link" : "https://www.chess.com/news/view/3-0-thursday-minh-le-duda-aravindh-08-20-2026",
+         "pubDate" : "Fri, 21 Aug 2026 13:50:00",
          "title" : "Minh Le Continues Blitz Run In 3 0 Thursday"
       },
       {
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bobby-fischer-the-champion-america-summoned-and-iceland-sheltered/articleshow/132801444.cms",
          "pubDate" : "Sun, 02 Aug 2026 06:30:17",
          "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
-      },
-      {
-         "description" : "Last week I wrote about why trying to figure out strategy during a game is a lost cause. The logical reaction: learn more strategy. Stock up now, so you're never caught not knowing. If that worked, everyone consuming chess content would be a Grandmaster. They're not. So something else is going on. Going For A []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/knowledge-vs-skill/",
-         "pubDate" : "Sat, 01 Aug 2026 13:00:00",
-         "title" : "You already know more than you can use"
       }
    ]
 }
