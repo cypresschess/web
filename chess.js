@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour Finals take place in Saint Louis 22nd to 27th August 2026. This is the final event of the tour and there is a total prize fund of $450,000, distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour are in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. The format is complex, two classical games (and a tie-break match for two points if tied), rapid and blitz with different weighting for the sections. I've got an experimental program to do the broadcasting trying to make sense ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
+         "pubDate" : "Sat, 22 Aug 2026 11:54:00",
+         "title" : "Grand Chess Tour Finals 2026 - Games and results"
+      },
+      {
          "description" : "While it has become easier nowadays to find information on openings, main lines and sidelines, converting advantageous positions effectively remains a fine art. As is well known, winning a won position is no easy task. In the third volume of his \"Master Your Technique\" series, Grandmaster Adrian Mikhalchishin examines techniques that occur particularly frequently in practical play. Lukas K&ouml;pl has taken a look at the course and summarised his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
