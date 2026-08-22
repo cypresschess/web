@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
+         "pubDate" : "Sat, 22 Aug 2026 19:00:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "FIDE has opened nominations for the Svetozar Gligoric Trophy 2026, an award recognising exemplary fair play and sportsmanship in chess. Candidates will be assessed for actions or initiatives carried out between September 2024 and September 2026, including gestures of sportsmanship, promotion of fair play values and support for integrity in the game. Nominations must be submitted by 10 September, with the award ceremony to take place during the Samarkand Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gligoric-trophy-2026-nominations",
+         "pubDate" : "Sat, 22 Aug 2026 18:45:00",
+         "title" : "Gligoric Trophy 2026: Call for nominations"
+      },
+      {
          "description" : "ChessBase's new releases for July offer plenty of variety for your chess training: from strategic motifs such and dynamic openings such as the Dragon to established repertoires for Black in the Petroff and the Benko Gambit. The selection is rounded off by the new ChessBase Magazine 232, featuring analyses, opening articles and training material, as well as the accompanying Extra. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
