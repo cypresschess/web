@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players set to compete in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer will take part in the knockout tournament, with competition running from 22 to 27 August and a total prize fund of $450,000 at stake.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-preview",
+         "pubDate" : "Fri, 21 Aug 2026 23:00:00",
+         "title" : "GCT Finals with Pragg, So, Caruana and Keymer: Format and schedule"
+      },
+      {
          "description" : "The Evans Gambit is one of the most famous gambits in chess history. It is named after William Davies Evans (1790-1872), a Welsh sea captain who, in the 1820s, came up with the idea of offering a pawn with 4.b4!? after 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5. If Black accepts the sacrifice, White gains time to develop their pieces and attack the black king. The leading players of the 19th century were enthusiastic about this concept, and chess legends such as Paul Morphy and Adolf Anderssen played numerous spectacular games with the Evans Gambit. But what have modern world champions thought of the Evans Gambit? | Photo: Captain Evans (source: Wikipedia)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
          "pubDate" : "Fri, 21 Aug 2026 14:00:00",
          "title" : "The Evans Gambit - an evergreen opening?"
+      },
+      {
+         "description" : "GM Tuan Minh Le followed up his Titled Tuesday victory by winning the first&#38;nbsp;3 0 Thursday tournament of the week on August 20. He&#39;s the fifth player to complete the Tuesday-Thursday double victory on the same week, joining the company of GMs F...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-continues-blitz-run-in-3-0-thursday",
+         "pubDate" : "Fri, 21 Aug 2026 13:50:01",
+         "title" : "Minh Le Continues Blitz Run In 3 0 Thursday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
          "pubDate" : "Wed, 12 Aug 2026 09:35:05",
          "title" : "The 2026 British Chess Championships conclude in Coventry"
-      },
-      {
-         "description" : "The Kenyan chess community is mourning the loss of Hawi Kaloki, one of the country&#39;s leading chess players and a former national number one. He passed away at the age of 19, just weeks before he was due to make his Olympiad debut. The sad news wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/former-kenya-no-1-hawi-kaloki-dies-at-19-weeks-before-chess-olympiad",
-         "pubDate" : "Wed, 12 Aug 2026 06:05:00",
-         "title" : "Kenyan Chess Star Hawi Kaloki Dies At 19 Ahead Of Olympiad Debut"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133171475.cms\" />At the Sinquefield Cup, Indian Grandmaster R Praggnanandhaa has emerged as a frontrunner after a pivotal win against Javokhir Sindarov in an intense match. This triumph is a significant addition to his success, having recently clinched the Grand Chess Tour St Louis Rapid and Blitz title. Meanwhile, Indian competitors encountered obstacles at the Cairns Cup, with Vaishali, Deshmukh, and Humpy struggling in their second rounds.",
