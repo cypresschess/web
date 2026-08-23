@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
+         "pubDate" : "Sun, 23 Aug 2026 10:37:00",
+         "title" : "6th Cairns Cup 2026 - Games and Results"
+      },
+      {
+         "description" : " The Grand Chess Tour Finals take place in Saint Louis 22nd to 27th August 2026. This is the final event of the tour and there is a total prize fund of $450,000, distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour are in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. The format is complex, two classical games (and a tie-break match for two points if tied), rapid and blitz with different weighting for the sections. I've got an experimental program to do the broadcasting trying to make sense ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
+         "pubDate" : "Sun, 23 Aug 2026 10:37:00",
+         "title" : "Grand Chess Tour Finals 2026 - Games and results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133436010.cms\" />The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "ChessBase&acute;26 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
       },
       {
+         "description" : "A high-voltage Gen Z clash between GMs Vincent Keymer and Praggnanandhaa Rameshbabu, where both sides achieved a big advantage before it ended in a draw, was the highlight of an eventful first day of the 2026 Grand Chess Tour Finals in St. Louis. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-1",
+         "pubDate" : "Sun, 23 Aug 2026 01:37:00",
+         "title" : "Fighting Draws As Grand Chess Tour Finals Begin In St. Louis"
+      },
+      {
          "description" : "A legendary centre-back for FC Barcelona, a 2010 World Cup and Euro 2012 champion and one of sport's most restless entrepreneurs is now a stakeholder in a chess franchise. Gerard Piqu&eacute; has come on board the Fyers American Gambits as a strategic shareholder, joining former India cricketer Ravichandran Ashwin in the ownership group, ahead of the Tech Mahindra Global Chess League Season 4 in Bengaluru (3-13 September 2026). It is one of the biggest crossovers chess has seen between football and the 64 squares. | Pictured: A press conference to announce the partnership took place in Bengaluru",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-22-2026",
-         "pubDate" : "Sat, 22 Aug 2026 21:01:48",
+         "pubDate" : "Sat, 22 Aug 2026 21:01:00",
          "title" : "Nakamura Comeback Seals Milestone 64th Victory"
       },
       {
@@ -50,20 +74,20 @@ news_feed (
          "title" : "Gligoric Trophy 2026: Call for nominations"
       },
       {
+         "description" : "Dear Chess Friends, According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. *The Chairpersons have been []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
+         "pubDate" : "Sat, 22 Aug 2026 15:09:00",
+         "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
+      },
+      {
          "description" : "ChessBase's new releases for July offer plenty of variety for your chess training: from strategic motifs such and dynamic openings such as the Dragon to established repertoires for Black in the Petroff and the Benko Gambit. The selection is rounded off by the new ChessBase Magazine 232, featuring analyses, opening articles and training material, as well as the accompanying Extra. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-july-2",
          "pubDate" : "Sat, 22 Aug 2026 14:00:00",
          "title" : "Review: All new releases in July!"
-      },
-      {
-         "description" : " The Grand Chess Tour Finals take place in Saint Louis 22nd to 27th August 2026. This is the final event of the tour and there is a total prize fund of $450,000, distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour are in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. The format is complex, two classical games (and a tie-break match for two points if tied), rapid and blitz with different weighting for the sections. I've got an experimental program to do the broadcasting trying to make sense ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
-         "pubDate" : "Sat, 22 Aug 2026 11:54:00",
-         "title" : "Grand Chess Tour Finals 2026 - Games and results"
       },
       {
          "description" : "While it has become easier nowadays to find information on openings, main lines and sidelines, converting advantageous positions effectively remains a fine art. As is well known, winning a won position is no easy task. In the third volume of his \"Master Your Technique\" series, Grandmaster Adrian Mikhalchishin examines techniques that occur particularly frequently in practical play. Lukas K&ouml;pl has taken a look at the course and summarised his impressions.",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Balancing Act: WGM Zoey Tang on Girls' Junior Title Defense"
       },
       {
-         "description" : "GM Wesley So broke out to the sole lead of the 2026 Sinquefield Cup with a win, with the black pieces, over GM Fabiano Caruana. There were two more decisive games: GM Vincent Keymer bounced back from yesterday&#39;s loss with a win against GM Praggnan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-3",
-         "pubDate" : "Wed, 12 Aug 2026 17:52:00",
-         "title" : "So Leads Sinquefield Cup; Divya Deals Kosteniuk 3rd Loss"
-      },
-      {
          "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
          "pubDate" : "Tue, 11 Aug 2026 11:44:02",
          "title" : "European Junior U20 Chess Championship 2026 is halfway through"
-      },
-      {
-         "description" : " The 6th Cairns Cup takes place in Saint Louis August 10th - 21st, 2026. For the first time this women's event is alongside the Sinquefield Cup. Players: Bibisara Assaubayeva, Anna Muzychuk, Humpy Koneru, Zhongyi Tan, Alexandra Kosteniuk, Divya Deshmukh, Rameshbabu Vaishali, Carissa Yip, Stavroula Tsolakidou and Alice Lee.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
-         "pubDate" : "Mon, 10 Aug 2026 13:15:00",
-         "title" : "6th Cairns Cup 2026 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
          "pubDate" : "Mon, 03 Aug 2026 06:57:57",
          "title" : "Help us build the next ChessBase"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2026 concluded yesterday in Pardubice, Czech Republic, after seven days of intense battles across four categories: U12, GU12, U18, and GU18. Gathering 66 teams and 218 players, the tournament set a new participation record and was played over seven rounds (Swiss system) in each category. The most successful federation in the tournament was Ukraine, winning four medals (two gold and two silver), followed by Germany (two medals: one gold and one bronze), Czech Republic []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-champions-2026-crowned/",
-         "pubDate" : "Sun, 02 Aug 2026 09:03:39",
-         "title" : "European Youth Team Chess Champions 2026 crowned"
       }
    ]
 }
