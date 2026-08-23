@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133436010.cms\" />The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/before-ai-there-was-the-mechanical-turk-the-chess-machine-that-wasnt/articleshow/133436010.cms",
+         "pubDate" : "Sun, 23 Aug 2026 07:15:31",
+         "title" : "Before AI, there was the Mechanical Turk: The chess machine that wasn't"
+      },
+      {
+         "description" : "Use ChessBase&acute;26 for training purposes: with smart use of the database functions and the training tool, you can quickly put together excellent training material. There's no need anymore to pore over books, copy diagrams, or scan pages. In this second part of the tutorial, you'll learn how easy it is to prepare your material in a didactic way and turn it into exercises. This saves you valuable time that you can use for your own training or for your students.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-28-creating-effective-training-material-part-2",
+         "pubDate" : "Sun, 23 Aug 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
+      },
+      {
          "description" : "A legendary centre-back for FC Barcelona, a 2010 World Cup and Euro 2012 champion and one of sport's most restless entrepreneurs is now a stakeholder in a chess franchise. Gerard Piqu&eacute; has come on board the Fyers American Gambits as a strategic shareholder, joining former India cricketer Ravichandran Ashwin in the ownership group, ahead of the Tech Mahindra Global Chess League Season 4 in Bengaluru (3-13 September 2026). It is one of the biggest crossovers chess has seen between football and the 64 squares. | Pictured: A press conference to announce the partnership took place in Bengaluru",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gerard-pique-stakeholder-fyers-american-gambits",
          "pubDate" : "Sat, 22 Aug 2026 23:30:00",
          "title" : "Renowned ex-footballer Gerard Piqu&eacute; now part-owner of Fyers American Gambits"
+      },
+      {
+         "description" : "GM Hikaru Nakamura reached a tremendous milestone on Saturday after bringing up his 64th career Bullet Brawl victory, meaning he can now fill the squares of a chessboard with imaginary trophies for each win. Nakamura toiled away in the two-hour ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-22-2026",
+         "pubDate" : "Sat, 22 Aug 2026 21:01:48",
+         "title" : "Nakamura Comeback Seals Milestone 64th Victory"
       },
       {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "High Level Tournaments in London (22-29 August)"
       },
       {
-         "description" : "Defending Champion GM Magnus Carlsen said he was &#34;in no shape to play chess,&#34; but he still beat GMs Andrey Esipenko and Hans Niemann 1.5-0.5 to reach Friday&#39;s Playoffs of the $1.5 million 2026 Esports World Cup. He&#39;s joined by GMs Hikaru Nakamura,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-1",
-         "pubDate" : "Wed, 12 Aug 2026 10:27:00",
-         "title" : "Carlsen, Nakamura, Firouzja, Abdusattorov Reach Esports World Cup Playoffs"
-      },
-      {
          "description" : "The 2026 British Chess Championships have come to a close!&#160;After nine unforgettable days of outstanding chess, dramatic finishes and exceptional performances at the University of Warwick, we have crowned our...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-champions-2026-crowned/",
          "pubDate" : "Sun, 02 Aug 2026 09:03:39",
          "title" : "European Youth Team Chess Champions 2026 crowned"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132801444.cms\" />Henry Kissinger once urged Bobby Fischer to face the Soviets. It was a small island, not his homeland, that gave him a resting place. In the second column of The Grandmaster View, India's 93rd Grandmaster Aarav Dengla traces Fischer's journey from Cold War hero to exiled genius. his revolutionary impact on chess, the tragedy of his later years, and why the country that embraced him in death offered the sense of belonging that his own homeland ultimately could not. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bobby-fischer-the-champion-america-summoned-and-iceland-sheltered/articleshow/132801444.cms",
-         "pubDate" : "Sun, 02 Aug 2026 06:30:17",
-         "title" : "Bobby Fischer: The champion America summoned, and Iceland sheltered"
       }
    ]
 }
