@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
+         "pubDate" : "Sun, 23 Aug 2026 19:00:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "In the first classical games of the semifinals at the GCT Finals, Vincent Keymer faced Praggnanandhaa Rameshbabu. Keymer gave up the exchange in the middlegame, after which enough pieces were traded off to leave him with an inferior position. In the end, he managed to save a draw. Fabiano Caruana was also on the defensive side in his draw against Wesley So. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-1",
+         "pubDate" : "Sun, 23 Aug 2026 18:40:00",
+         "title" : "GCT Finals: Keymer escapes with draw in exchange-down endgame"
+      },
+      {
+         "description" : "Four-time Estonian Women&#39;s Championship IM Mai Narva won both the rapid and blitz segments of the WR Women&#39;s Chess Tour - Africa 2026 that took place in Maputo, Mozambique this weekend. She pulled off an upset to defeat women&#39;s world number-four G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/narva-zhu-2026-wr-womens-chess-tour-africa",
+         "pubDate" : "Sun, 23 Aug 2026 12:17:30",
+         "title" : "Narva Beats Zhu Twice To Dominate WR Women's Chess Tour Africa"
+      },
+      {
          "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,28 +50,12 @@ news_feed (
          "title" : "Before AI, there was the Mechanical Turk: The chess machine that wasn't"
       },
       {
-         "description" : "Use ChessBase&acute;26 for training purposes: with smart use of the database functions and the training tool, you can quickly put together excellent training material. There's no need anymore to pore over books, copy diagrams, or scan pages. In this second part of the tutorial, you'll learn how easy it is to prepare your material in a didactic way and turn it into exercises. This saves you valuable time that you can use for your own training or for your students.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-28-creating-effective-training-material-part-2",
-         "pubDate" : "Sun, 23 Aug 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
-      },
-      {
          "description" : "A high-voltage Gen Z clash between GMs Vincent Keymer and Praggnanandhaa Rameshbabu, where both sides achieved a big advantage before it ended in a draw, was the highlight of an eventful first day of classical chess in the 2026 Grand Chess Tour Fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-1",
          "pubDate" : "Sun, 23 Aug 2026 01:37:00",
          "title" : "Fighting Draws As Grand Chess Tour Finals Begin In St. Louis"
-      },
-      {
-         "description" : "A legendary centre-back for FC Barcelona, a 2010 World Cup and Euro 2012 champion and one of sport's most restless entrepreneurs is now a stakeholder in a chess franchise. Gerard Piqu&eacute; has come on board the Fyers American Gambits as a strategic shareholder, joining former India cricketer Ravichandran Ashwin in the ownership group, ahead of the Tech Mahindra Global Chess League Season 4 in Bengaluru (3-13 September 2026). It is one of the biggest crossovers chess has seen between football and the 64 squares. | Pictured: A press conference to announce the partnership took place in Bengaluru",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gerard-pique-stakeholder-fyers-american-gambits",
-         "pubDate" : "Sat, 22 Aug 2026 23:30:00",
-         "title" : "Renowned ex-footballer Gerard Piqu&eacute; now part-owner of Fyers American Gambits"
       },
       {
          "description" : "GM Hikaru Nakamura reached a tremendous milestone on Saturday after bringing up his 64th career Bullet Brawl victory, meaning he can now fill the squares of a chessboard with imaginary trophies for each win. Nakamura toiled away in the two-hour ar...",
@@ -58,60 +66,12 @@ news_feed (
          "title" : "Nakamura Comeback Seals Milestone 64th Victory"
       },
       {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
-         "pubDate" : "Sat, 22 Aug 2026 19:00:00",
-         "title" : "Grand Chess Tour Finals - Live!"
-      },
-      {
-         "description" : "FIDE has opened nominations for the Svetozar Gligoric Trophy 2026, an award recognising exemplary fair play and sportsmanship in chess. Candidates will be assessed for actions or initiatives carried out between September 2024 and September 2026, including gestures of sportsmanship, promotion of fair play values and support for integrity in the game. Nominations must be submitted by 10 September, with the award ceremony to take place during the Samarkand Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gligoric-trophy-2026-nominations",
-         "pubDate" : "Sat, 22 Aug 2026 18:45:00",
-         "title" : "Gligoric Trophy 2026: Call for nominations"
-      },
-      {
          "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
          "pubDate" : "Sat, 22 Aug 2026 15:09:00",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
-      },
-      {
-         "description" : "ChessBase's new releases for July offer plenty of variety for your chess training: from strategic motifs such and dynamic openings such as the Dragon to established repertoires for Black in the Petroff and the Benko Gambit. The selection is rounded off by the new ChessBase Magazine 232, featuring analyses, opening articles and training material, as well as the accompanying Extra. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-july-2",
-         "pubDate" : "Sat, 22 Aug 2026 14:00:00",
-         "title" : "Review: All new releases in July!"
-      },
-      {
-         "description" : "While it has become easier nowadays to find information on openings, main lines and sidelines, converting advantageous positions effectively remains a fine art. As is well known, winning a won position is no easy task. In the third volume of his \"Master Your Technique\" series, Grandmaster Adrian Mikhalchishin examines techniques that occur particularly frequently in practical play. Lukas K&ouml;pl has taken a look at the course and summarised his impressions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-master-your-technique-volume-3-practical-techniques-you-must-know-von-adrian-mikhalchishin",
-         "pubDate" : "Sat, 22 Aug 2026 07:00:00",
-         "title" : "Review: Master Your Technique Volume 3 - Practical Techniques you must know von Adrian Mikhalchishin"
-      },
-      {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players set to compete in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer will take part in the knockout tournament, with competition running from 22 to 27 August and a total prize fund of $450,000 at stake.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-preview",
-         "pubDate" : "Fri, 21 Aug 2026 23:00:00",
-         "title" : "GCT Finals with Pragg, So, Caruana and Keymer: Format and schedule"
-      },
-      {
-         "description" : "The Evans Gambit is one of the most famous gambits in chess history. It is named after William Davies Evans (1790-1872), a Welsh sea captain who, in the 1820s, came up with the idea of offering a pawn with 4.b4!? after 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5. If Black accepts the sacrifice, White gains time to develop their pieces and attack the black king. The leading players of the 19th century were enthusiastic about this concept, and chess legends such as Paul Morphy and Adolf Anderssen played numerous spectacular games with the Evans Gambit. But what have modern world champions thought of the Evans Gambit? | Photo: Captain Evans (source: Wikipedia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
-         "pubDate" : "Fri, 21 Aug 2026 14:00:00",
-         "title" : "The Evans Gambit - an evergreen opening?"
       },
       {
          "description" : "GM Tuan Minh Le followed up his Titled Tuesday victory by winning the first&#38;nbsp;3 0 Thursday tournament of the week on August 20. He&#39;s the fifth player to complete the Tuesday-Thursday double victory on the same week, joining the company of GMs F...",
@@ -138,14 +98,6 @@ news_feed (
          "title" : "Kramnik Takes New In Chess To Court Over Naroditsky Article"
       },
       {
-         "description" : "Ukrainian grandmaster Vereslav Eingorn has died at the age of 69. A leading figure in Soviet chess during the 1980s, he won three USSR Championship bronze medals, qualified for the 1987 Zagreb Interzonal and later represented Ukraine at team events, including the 2000 Olympiad and the 2001 World Team Championship. Eingorn also became a respected coach and author, guiding Ukraine's women's team to Olympiad gold in 2006.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memoriam-vereslav-eingorn",
-         "pubDate" : "Fri, 21 Aug 2026 08:45:00",
-         "title" : "In memoriam: Vereslav Eingorn (1956-2026)"
-      },
-      {
          "description" : " Norway's world No 1 outclassed the field and won the $250,000 first prize at the four-day event in France Magnus Carlsen, Norway's world No 1, triumphed again last weekend when he won the 2026 Esports World Cup, staged over four days at the prestigious venue of the Paris Expo Porte de Versailles. Carlsen retained his title from Riyadh 2025 and took home a monster first prize of $250,000 (&pound;183,000). The time limit was close to blitz, 10 minutes each per player with no per move increment, a format where blunders would be hoped for, and were indeed made, as entertainment for the capacity audience. <a href=\"https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-wo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -170,28 +122,12 @@ news_feed (
          "title" : "Carlsen Wins 2026 Esports World Cup: 7 Conclusions"
       },
       {
-         "description" : "For twenty years, Harika Dronavalli was a fixture of every Indian team that walked into an Olympiad hall. Board one, board two, whatever the assignment, she was there, absorbing the pressure that comes with playing for a country rather than just for herself. So when the Indian squad for the Chess Olympiad 2026 was announced without her name on it, the news read, on the surface, like a changing of the guard: Humpy Koneru returning to the team and Savitha Shri B stepping in as a new addition along with a new captain: Swayams Mishra. Read Harika's thoughts on the decision. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harika-dronavalli-interview-olympiad-2026",
-         "pubDate" : "Fri, 21 Aug 2026 00:30:00",
-         "title" : "\"It was solely my decision\": Harika Dronavalli on stepping back from representing India in the Olympiad"
-      },
-      {
          "description" : "Former Barcelona and Spain star Gerard Pique has become a strategic shareholder in Global Chess League franchise FYERS American Gambits, adding to a chess portfolio that already includes an investment in Freestyle Chess. Pique is revealed as the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gerard-pique-american-gambits-chess-investment",
          "pubDate" : "Fri, 21 Aug 2026 00:28:00",
          "title" : "Barcelona Legend Gerard Pique Doubles Down On Chess With American Gambits Investment"
-      },
-      {
-         "description" : "The two-part FritzTrainer series \"King's Indian - A Complete Repertoire for Black\" by Grandmaster Felix Blohberger is devoted to one of the most dynamic and at the same time complex openings in modern chess: the King's Indian Defence. Lukas K&ouml;pl examines the series with regard to its structure, content, didactic quality and practical relevance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-king-s-indian-a-complete-repertoire-for-black-by-gm-felix-blohberger-2",
-         "pubDate" : "Thu, 20 Aug 2026 20:00:01",
-         "title" : "Review: King's Indian - A Complete Repertoire for Black by GM Felix Blohberger"
       },
       {
          "description" : "Warning: this is a long read. Two weeks ago I wrote a piece on the increase of computer power in the last 50 years. A number of readers wrote me letters discussing my findings and commenting on what I had said. Then I asked myself: what does AI, what do ChatGPT and its colleagues think about the subject? Here's what I found out.",
@@ -536,14 +472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-2026-r-praggnanandhaa-suffers-first-defeat-loses-to-vincent-keymer-in-round-3/articleshow/133217460.cms",
          "pubDate" : "Thu, 13 Aug 2026 15:32:22",
          "title" : "Sinquefield Cup : Praggnanandhaa suffers first defeat, loses to Keymer in round 3"
-      },
-      {
-         "description" : "19-year-old GM Denis Lazavik pulled off the day&#39;s biggest upset to defeat GM Ian Nepomniachtchi and book a 2026 Esports World Cup quarterfinal against GM Nodirbek Abdusattorov. He&#39;s joined by GM Nihal Sarin, who faces GM Magnus Carlsen in a repeat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-group-stage-day-2",
-         "pubDate" : "Thu, 13 Aug 2026 11:03:00",
-         "title" : "Lazavik Ousts Nepomniachtchi, Joins Arjun, Nihal, Niemann In Quarterfinals"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
