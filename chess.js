@@ -18,11 +18,11 @@ news_feed (
          "title" : "GCT Finals: Keymer escapes with draw in exchange-down endgame"
       },
       {
-         "description" : "Four-time Estonian Women&#39;s Championship IM Mai Narva won both the rapid and blitz segments of the WR Women&#39;s Chess Tour - Africa 2026 that took place in Maputo, Mozambique this weekend. She pulled off an upset to defeat women&#39;s world number-four G...",
+         "description" : "Four-time Estonian Women&#39;s Champion IM Mai Narva won both the rapid and blitz segments of the WR Women&#39;s Chess Tour - Africa 2026 that took place in Maputo, Mozambique this weekend. She pulled off an upset to defeat women&#39;s world number-four GM Zh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/narva-zhu-2026-wr-womens-chess-tour-africa",
-         "pubDate" : "Sun, 23 Aug 2026 12:17:30",
+         "pubDate" : "Sun, 23 Aug 2026 12:17:00",
          "title" : "Narva Beats Zhu Twice To Dominate WR Women's Chess Tour Africa"
       },
       {
