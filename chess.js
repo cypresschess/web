@@ -34,7 +34,7 @@ news_feed (
          "title" : "ChessBase&acute;26 - Tips for beginners, part 28: Creating Effective Training Material (Part 2)"
       },
       {
-         "description" : "A high-voltage Gen Z clash between GMs Vincent Keymer and Praggnanandhaa Rameshbabu, where both sides achieved a big advantage before it ended in a draw, was the highlight of an eventful first day of the 2026 Grand Chess Tour Finals in St. Louis. ...",
+         "description" : "A high-voltage Gen Z clash between GMs Vincent Keymer and Praggnanandhaa Rameshbabu, where both sides achieved a big advantage before it ended in a draw, was the highlight of an eventful first day of classical chess in the 2026 Grand Chess Tour Fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-1",
@@ -74,7 +74,7 @@ news_feed (
          "title" : "Gligoric Trophy 2026: Call for nominations"
       },
       {
-         "description" : "Dear Chess Friends, According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. *The Chairpersons have been []",
+         "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
