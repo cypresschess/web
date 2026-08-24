@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1997, World Champion Garry Kasparov was defeated 3&frac12;-2&frac12; by Deep Blue, an IBM supercomputer in New York. The loss in their second encounter marked the first time a machine beat a world champion in a standard tournament play. It was an historic moment that reshaped global perceptions of artificial intelligence. Almost three decades later, Kasparov has described his perception of AI and what he thinks about its future, in a Washington Post interview. Here are some excerpts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-on-machine-intelligence",
+         "pubDate" : "Mon, 24 Aug 2026 09:15:00",
+         "title" : "Kasparov on machine intelligence"
+      },
+      {
+         "description" : "&#34;People are very, very tired!&#34; was the pronouncement of commentator GM Peter Svidler, as we witnessed a high number of errors on the second day of classical time control games at the Semifinals of the 2026 Grand Chess Tour Finals. GM Vincent Keym...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-2",
+         "pubDate" : "Mon, 24 Aug 2026 00:18:49",
+         "title" : "Contrasting Wins For Pragg And Caruana"
+      },
+      {
+         "description" : "Indian grandmasters Vidit Gujrathi and Divya Deshmukh have been named among the 17 recipients of the Arjuna Award for 2025, India's second-highest sporting honour. The National Sports Awards were announced on 18 August 2026 by the Ministry of Youth Affairs and Sports. Divya's selection follows her victory at the 2025 FIDE Women's World Cup, while Vidit is recognised for his sustained contribution to Indian chess. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vidit-divya-arjuna-award-2025",
+         "pubDate" : "Sun, 23 Aug 2026 21:00:00",
+         "title" : "Vidit Gujrathi and Divya Deshmukh honoured with Arjuna Award"
+      },
+      {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
       },
       {
-         "description" : "GM Wesley So continues to lead after round four of the 2026 Sinquefield Cup on Thursday. There was one decisive game, where GM Praggnanandhaa Rameshbabu gave GM Jorden van Foreest his third loss. Praggnanandhaa is now half a point behind the leade...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-4",
-         "pubDate" : "Thu, 13 Aug 2026 18:54:00",
-         "title" : "Praggnanandhaa Beats Van Foreest; Tan Leads By Full Point"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133217460.cms\" />In a surprising twist at the 2026 Sinquefield Cup, Indian Grandmaster R Praggnanandhaa succumbed to his first defeat, falling to Germany's Vincent Keymer in round three. Meanwhile, Wesley So clinched a vital win, catapulting him to the top of the leaderboard. Previously triumphant in the Saint Louis Rapid &amp; Blitz tournament, Praggnanandhaa is now tied for fourth with several formidable players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-youth-championships-england-coach-appointment/",
          "pubDate" : "Mon, 03 Aug 2026 11:46:46",
          "title" : "European Youth Championships - England Coach Appointment"
-      },
-      {
-         "description" : "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and databases, and which parts of the interface help or get in your way. Filling out the survey takes around three minutes. If you fill it out we will send you a thank-you voucher gift.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
-         "pubDate" : "Mon, 03 Aug 2026 06:57:57",
-         "title" : "Help us build the next ChessBase"
       }
    ]
 }
