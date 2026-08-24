@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Dominik Horvath successfully defended his title at the 2026 Austrian National Championship. With 6&frac12; points, he edged out IM Laurenz Borrmann on tiebreaks, who also scored 6&frac12; points and achieved a grandmaster norm. In the Oberbank Challenger Open, young German IM Ruben Gideon K&ouml;llner triumphed with 7&frac12; points. Olga Badelka was the top performer in the Open and thus claimed the women's national title. | Pictured (from left): Laurenz Borrmann, Dominik Horvath and Valentin Baidetskyi | Photo: Peter Kranzl",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/austrian-championship-2026-report",
+         "pubDate" : "Mon, 24 Aug 2026 23:30:00",
+         "title" : "Austrian Championship: Horvath defends title, Badelka victorious in women's category"
+      },
+      {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +34,6 @@ news_feed (
          "title" : "What I changed my mind on recently"
       },
       {
-         "description" : "In 1997, World Champion Garry Kasparov was defeated 3&frac12;-2&frac12; by Deep Blue, an IBM supercomputer in New York. The loss in their second encounter marked the first time a machine beat a world champion in a standard tournament play. It was an historic moment that reshaped global perceptions of artificial intelligence. Almost three decades later, Kasparov has described his perception of AI and what he thinks about its future, in a Washington Post interview. Here are some excerpts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-on-machine-intelligence",
-         "pubDate" : "Mon, 24 Aug 2026 09:15:00",
-         "title" : "Kasparov on machine intelligence"
-      },
-      {
          "description" : "Your daily dose of puzzle practice just got a glow-up! The new Daily Puzzle now features five lives instead of just one shot at glory, a fresh way to brag about your puzzle prowess, and a puzzle that refreshes according to your local time. Every ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,22 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-2",
          "pubDate" : "Mon, 24 Aug 2026 00:18:49",
          "title" : "Contrasting Wins For Pragg And Caruana"
-      },
-      {
-         "description" : "Indian grandmasters Vidit Gujrathi and Divya Deshmukh have been named among the 17 recipients of the Arjuna Award for 2025, India's second-highest sporting honour. The National Sports Awards were announced on 18 August 2026 by the Ministry of Youth Affairs and Sports. Divya's selection follows her victory at the 2025 FIDE Women's World Cup, while Vidit is recognised for his sustained contribution to Indian chess. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vidit-divya-arjuna-award-2025",
-         "pubDate" : "Sun, 23 Aug 2026 21:00:00",
-         "title" : "Vidit Gujrathi and Divya Deshmukh honoured with Arjuna Award"
-      },
-      {
-         "description" : "In the first classical games of the semifinals at the GCT Finals, Vincent Keymer faced Praggnanandhaa Rameshbabu. Keymer gave up the exchange in the middlegame, after which enough pieces were traded off to leave him with an inferior position. In the end, he managed to save a draw. Fabiano Caruana was also on the defensive side in his draw against Wesley So. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-1",
-         "pubDate" : "Sun, 23 Aug 2026 18:40:00",
-         "title" : "GCT Finals: Keymer escapes with draw in exchange-down endgame"
       },
       {
          "description" : "Four-time Estonian Women&#39;s Champion IM Mai Narva won both the rapid and blitz segments of the WR Women&#39;s Chess Tour - Africa 2026 that took place in Maputo, Mozambique this weekend. She pulled off an upset to defeat women&#39;s world number-four GM Zh...",
