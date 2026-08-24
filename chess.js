@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/what-i-changed-my-mind-on-recently/",
+         "pubDate" : "Mon, 24 Aug 2026 13:00:00",
+         "title" : "What I changed my mind on recently"
+      },
+      {
          "description" : "In 1997, World Champion Garry Kasparov was defeated 3&frac12;-2&frac12; by Deep Blue, an IBM supercomputer in New York. The loss in their second encounter marked the first time a machine beat a world champion in a standard tournament play. It was an historic moment that reshaped global perceptions of artificial intelligence. Almost three decades later, Kasparov has described his perception of AI and what he thinks about its future, in a Washington Post interview. Here are some excerpts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kasparov-on-machine-intelligence",
          "pubDate" : "Mon, 24 Aug 2026 09:15:00",
          "title" : "Kasparov on machine intelligence"
+      },
+      {
+         "description" : "Your daily dose of puzzle practice just got a glow-up! The new Daily Puzzle now features five lives instead of just one shot at glory, a fresh way to brag about your puzzle prowess, and a puzzle that refreshes according to your local time. Every ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-daily-puzzle-lives-system",
+         "pubDate" : "Mon, 24 Aug 2026 08:00:00",
+         "title" : "Daily Puzzles Just Got More Exciting"
       },
       {
          "description" : "&#34;People are very, very tired!&#34; was the pronouncement of commentator GM Peter Svidler, as we witnessed a high number of errors on the second day of classical time control games at the Semifinals of the 2026 Grand Chess Tour Finals. GM Vincent Keym...",
@@ -231,7 +247,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
          "pubDate" : "Wed, 19 Aug 2026 12:24:48",
-         "title" : "The 11th Menchik Memorial"
+         "title" : "The 11th Menchik Memorial is underway!"
       },
       {
          "description" : "Fans now have a reason to tune in to their favorite streaming platform every Tuesday. Titled Tuesday (TT) broadcasts are back, hosted by the one and only GM Robert Hess! Shows start weekly at 11 a.m. ET / 17:00 CEST / 8:30 p.m. IST on our Twitch a...",
@@ -466,14 +482,6 @@ news_feed (
          "title" : "Pranesh Top 3 0 Thursday Scorer For Second Week Running"
       },
       {
-         "description" : "We&#39;re about to find out who&#39;ll win the second Esports World Cup Chess Finals. To celebrate another year of exciting chess on the esports world stage, we&#39;re offering all our basic members the chance to get 14 days of Diamond membership for free! T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esports-world-cup-final-twitch-drops-2026",
-         "pubDate" : "Fri, 14 Aug 2026 10:13:00",
-         "title" : "Earn 14 Days Of Free Diamond By Watching The Esports World Cup Final On Twitch"
-      },
-      {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -648,22 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-starts/",
          "pubDate" : "Tue, 04 Aug 2026 10:48:50",
          "title" : "European Junior U20 Chess Championship 2026 starts"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132831412.cms\" />The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by Grandmaster Abhijeet Gupta, the federation is in talks with stakeholders to finalise dates. AICF said a packed domestic and international calendar had forced the initial postponement.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-arjuna-awardee-gm-calls-out-indian-chess-calendar-aicf-moves-swiftly-to-find-solution/articleshow/132831412.cms",
-         "pubDate" : "Mon, 03 Aug 2026 12:23:16",
-         "title" : "After Arjuna Awardee calls out Indian calendar, AICF moves to find solution"
-      },
-      {
-         "description" : "The ECF is appointing the England Coach for the European Youth Chess Championships (EYCC) in Crete from 2-13 November 2026. The England Coach will: Deliver daily on-the-spot coaching with England...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-youth-championships-england-coach-appointment/",
-         "pubDate" : "Mon, 03 Aug 2026 11:46:46",
-         "title" : "European Youth Championships - England Coach Appointment"
       }
    ]
 }
