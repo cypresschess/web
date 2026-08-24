@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
+         "pubDate" : "Mon, 24 Aug 2026 19:00:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Drama in the second game of the semifinals at the Grand Chess Tour Finals: Vincent Keymer had black against Praggnanandhaa Rameshbabu, and after a relatively quiet opening the position became increasingly complicated as both players ran short of time. Keymer reached a winning position, but in an almost hopeless situation Praggnanandhaa managed to capture the German star's rook with a king move and went on to secure the point. There was plenty of tension in the other semifinal as well. Wesley So found himself under severe pressure after a novelty by Fabiano Caruana, but Caruana allowed his opponent to escape with a draw. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-2",
+         "pubDate" : "Mon, 24 Aug 2026 18:15:00",
+         "title" : "GCT Finals: Keymer loses from winning position"
+      },
+      {
          "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vidit-divya-arjuna-award-2025",
          "pubDate" : "Sun, 23 Aug 2026 21:00:00",
          "title" : "Vidit Gujrathi and Divya Deshmukh honoured with Arjuna Award"
-      },
-      {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
-         "pubDate" : "Sun, 23 Aug 2026 19:00:00",
-         "title" : "Grand Chess Tour Finals - Live!"
       },
       {
          "description" : "In the first classical games of the semifinals at the GCT Finals, Vincent Keymer faced Praggnanandhaa Rameshbabu. Keymer gave up the exchange in the middlegame, after which enough pieces were traded off to leave him with an inferior position. In the end, he managed to save a draw. Fabiano Caruana was also on the defensive side in his draw against Wesley So. | Photo: Lennart Ootes / Grand Chess Tour",
