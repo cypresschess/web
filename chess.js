@@ -7,7 +7,15 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-8",
          "pubDate" : "Tue, 25 Aug 2026 12:00:00",
-         "title" : "ChessBase Summer-Special! - Teil 8"
+         "title" : "ChessBase Summer Special! - Part 8"
+      },
+      {
+         "description" : "For most people, the rubber duck is a whimsical bath accessory. For chess players, though, it is an instrument of war&#38;mdash;and we invite you to wield this powerful weapon in the upcoming Chess.com Duck Chess Championship. The event takes place fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2026",
+         "pubDate" : "Tue, 25 Aug 2026 08:00:00",
+         "title" : "Ready Your Quacktics For The Chess.com Duck Chess Championship Starting On September 2"
       },
       {
          "description" : "Fabiano Caruana and Praggnanandhaa Rameshbabu booked their places in the deciding match of the Grand Chess Tour Finals after prevailing in Monday's rapid and blitz section of the semifinals in Saint Louis. Praggnanandhaa clinched his match against Vincent Keymer with four games to spare, while Caruana completed an 18-12 win over Wesley So. The finalists will start from scratch on Tuesday, as Keymer and So contest the third-place match. | Photo: Lennart Ootes / Grand Chess Tour",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Upcoming tournaments and events"
       },
       {
+         "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-1",
+         "pubDate" : "Tue, 25 Aug 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 1"
+      },
+      {
          "description" : "GM Dominik Horvath successfully defended his title at the 2026 Austrian National Championship. With 6&frac12; points, he edged out IM Laurenz Borrmann on tiebreaks, who also scored 6&frac12; points and achieved a grandmaster norm. In the Oberbank Challenger Open, young German IM Ruben Gideon K&ouml;llner triumphed with 7&frac12; points. Olga Badelka was the top performer in the Open and thus claimed the women's national title. | Pictured (from left): Laurenz Borrmann, Dominik Horvath and Valentin Baidetskyi | Photo: Peter Kranzl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "GCT Finals: Keymer loses from winning position"
       },
       {
-         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with three games to spare, and then lost all three to end with a 19-9 score, while ...",
+         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with four games to spare, and then lost the last three blitz games to end with a 19...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-3",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gerard-pique-american-gambits-chess-investment",
          "pubDate" : "Fri, 21 Aug 2026 00:28:00",
          "title" : "Barcelona Legend Gerard Pique Doubles Down On Chess With American Gambits Investment"
-      },
-      {
-         "description" : "Warning: this is a long read. Two weeks ago I wrote a piece on the increase of computer power in the last 50 years. A number of readers wrote me letters discussing my findings and commenting on what I had said. Then I asked myself: what does AI, what do ChatGPT and its colleagues think about the subject? Here's what I found out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/will-elo-4000-ever-be-exceeded",
-         "pubDate" : "Thu, 20 Aug 2026 16:00:00",
-         "title" : "Will Elo 4000 ever be exceeded?"
       },
       {
          "description" : "The ECF wishes Leonard Barden a very happy 97th birthday today! Leonard is the Guardian's chess columnist, and holds the Guinness World Record for the longest-running continuous chess column, which...",
@@ -498,14 +506,6 @@ news_feed (
          "title" : "Caruana, Keymer Win As Vachier-Lagrave Misses; Tan Survives Vs. Lee"
       },
       {
-         "description" : "GM Magnus Carlsen scored a 2.5-0.5 victory over GM Nihal Sarin and then won a 4-1 thriller against GM Alireza Firouzja to reach the Final of the&#38;nbsp;2026 Esports World Cup. Carlsen will face off against 19-year-old GM Denis Lazavik, who pounced o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
-         "pubDate" : "Fri, 14 Aug 2026 16:45:00",
-         "title" : "Carlsen, Lazavik To Battle It Out In Esports World Cup Final"
-      },
-      {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -576,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-chess-journalist-america-awards-announced",
          "pubDate" : "Wed, 12 Aug 2026 00:00:00",
          "title" : "2026 Chess Journalist of America Awards Announced"
-      },
-      {
-         "description" : "This week's puzzles continue our series on the just-concluded 2026 U.S. Junior and Senior Championships, held last month at the Saint Louis Chess Club. Day-by-day reporting from the event is available here, but the majority of the puzzles curated for this series come from games that were not already covered there. Check out our Tactics Tuesday series (beginning here) for even more puzzles from St. Louis! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-junior-and-senior-championships-pt-3",
-         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Junior and Senior Championships, Pt. 3"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
