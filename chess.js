@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
+         "pubDate" : "Tue, 25 Aug 2026 19:00:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "In the last Titled Tuesday before big changes coming shortly, GM Jan-Krzysztof Duda took home victory with a 9.5/10 start, while GM Arjun Erigaisi came in second place with a 9.5/10 finish after missing the first round. Due to Arjun&#39;s missing roun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-august-25-2026",
+         "pubDate" : "Tue, 25 Aug 2026 12:19:45",
+         "title" : "Duda Takes 2026 Wins Lead In Titled Tuesday"
+      },
+      {
          "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: The Fritz 21 and the Fritz Powerbook 2026 are available this week (until August 30, 2026) for €99.90 - save around €60!!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-8",
          "pubDate" : "Tue, 25 Aug 2026 12:00:00",
          "title" : "ChessBase Summer Special! - Part 8"
+      },
+      {
+         "description" : "World number-one GM Magnus Carlsen and GM Fabiano Caruana headline the first 18 confirmed players for the Total Chess World Championship Tour Pilot, November 10-21, in Budapest, which will test a new format combining fast classical, rapid, and bli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-caruana-total-chess-pilot-budapest-2026",
+         "pubDate" : "Tue, 25 Aug 2026 08:26:00",
+         "title" : "Carlsen, Caruana Lead 18 Confirmed Players For Total Chess Pilot In Budapest"
       },
       {
          "description" : "For most people, the rubber duck is a whimsical bath accessory. For chess players, though, it is an instrument of war&#38;mdash;and we invite you to wield this powerful weapon in the upcoming Chess.com Duck Chess Championship. The event takes place fr...",
@@ -488,22 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
          "pubDate" : "Sat, 15 Aug 2026 10:05:00",
          "title" : "🐐 Magnus Carlsen Retains Chess Esports World Cup Title In Paris"
-      },
-      {
-         "description" : "GM Jeffery Xiong mounted a successful title defense and won the $400 first prize in the Bullet Brawl&#38;nbsp;arena on Saturday after winning a tight race to the finish line. Xiong posted a score of 162 points and eclipsed IM Renato Terry and GM Nihal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-bullet-brawl-aug-15-2026",
-         "pubDate" : "Sat, 15 Aug 2026 10:00:00",
-         "title" : "Xiong Defends Bullet Brawl Title With 4-Point Margin"
-      },
-      {
-         "description" : "GM Wesley So leads the 2026 Sinquefield Cup after round five on Friday, after making a quick draw with GM Praggnanandhaa Rameshbabu. GM Maxime Vachier-Lagrave had a winning position against GM Jorden van Foreest and could have caught the leader, b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-5",
-         "pubDate" : "Fri, 14 Aug 2026 18:10:00",
-         "title" : "Caruana, Keymer Win As Vachier-Lagrave Misses; Tan Survives Vs. Lee"
       },
       {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
