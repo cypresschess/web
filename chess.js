@@ -10,11 +10,19 @@ news_feed (
          "title" : "Grand Chess Tour Finals - Live!"
       },
       {
+         "description" : "GM Fabiano Caruana won the first classical game of the title match against GM Praggnanandhaa Rameshbabu&#38;nbsp;in the 2026 Grand Chess Tour Finals, earning six points. The Indian grandmaster held his own in an unusual version of the Italian Opening,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-4",
+         "pubDate" : "Tue, 25 Aug 2026 16:09:58",
+         "title" : "Caruana Leads Praggnanandhaa In Final Match, Keymer-So Stays Even"
+      },
+      {
          "description" : "In the last Titled Tuesday before big changes coming shortly, GM Jan-Krzysztof Duda took home victory with a 9.5/10 start, while GM Arjun Erigaisi came in second place with a 9.5/10 finish after missing the first round. Due to Arjun&#39;s missing roun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-august-25-2026",
-         "pubDate" : "Tue, 25 Aug 2026 12:19:45",
+         "pubDate" : "Tue, 25 Aug 2026 12:19:00",
          "title" : "Duda Takes 2026 Wins Lead In Titled Tuesday"
       },
       {
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
          "pubDate" : "Sat, 15 Aug 2026 16:53:00",
          "title" : "Esports World Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "GM Magnus Carlsen has retained his Esports World Cup title after a dominant victory over GM Denis Lazavik. Carlsen won both sets 3-1, with two wins in each, and ended his Paris run without losing a single game. Carlsen takes $250,000, Lazavik $190...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
-         "pubDate" : "Sat, 15 Aug 2026 10:05:00",
-         "title" : "🐐 Magnus Carlsen Retains Chess Esports World Cup Title In Paris"
       },
       {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
