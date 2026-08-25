@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: The Fritz 21 and the Fritz Powerbook 2026 are available this week (until August 30, 2026) for €99.90 - save around €60!!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-8",
+         "pubDate" : "Tue, 25 Aug 2026 12:00:00",
+         "title" : "ChessBase Summer-Special! - Teil 8"
+      },
+      {
          "description" : "Fabiano Caruana and Praggnanandhaa Rameshbabu booked their places in the deciding match of the Grand Chess Tour Finals after prevailing in Monday's rapid and blitz section of the semifinals in Saint Louis. Praggnanandhaa clinched his match against Vincent Keymer with four games to spare, while Caruana completed an 18-12 win over Wesley So. The finalists will start from scratch on Tuesday, as Keymer and So contest the third-place match. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-3",
-         "pubDate" : "Mon, 24 Aug 2026 18:09:25",
+         "pubDate" : "Mon, 24 Aug 2026 18:09:00",
          "title" : "Caruana, Praggnanandhaa Set Up Generational Clash In Final"
       },
       {
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
          "pubDate" : "Wed, 05 Aug 2026 00:30:00",
          "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
-      },
-      {
-         "description" : "The European Junior U20 Chess Championship 2026 is set to take place from 5-16 August at Hotel Grand, in Cetinje, Montenegro. The event will be played in two categories: Open U20 and Girls U20, with 9 swiss rounds in each competition, and the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment per move, starting from the move one. The event gathers 116 players from []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-starts/",
-         "pubDate" : "Tue, 04 Aug 2026 10:48:50",
-         "title" : "European Junior U20 Chess Championship 2026 starts"
       }
    ]
 }
