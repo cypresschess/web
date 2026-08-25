@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Praggnanandhaa Rameshbabu booked their places in the deciding match of the Grand Chess Tour Finals after prevailing in Monday's rapid and blitz section of the semifinals in Saint Louis. Praggnanandhaa clinched his match against Vincent Keymer with four games to spare, while Caruana completed an 18-12 win over Wesley So. The finalists will start from scratch on Tuesday, as Keymer and So contest the third-place match. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-3",
+         "pubDate" : "Tue, 25 Aug 2026 07:30:00",
+         "title" : "GCT Finals: Pragg and Caruana to fight for the title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-storms-into-grand-chess-tour-final-with-19-9-win-over-vincent-keymer/articleshow/133498665.cms",
+         "pubDate" : "Tue, 25 Aug 2026 07:17:17",
+         "title" : "Praggnanandhaa storms into Grand Chess Tour final with 19-9 win over Keymer"
+      },
+      {
+         "description" : "The European Chess Union (ECU) is pleased to announce the signing of two major partnership agreements with Super Foundation, totalling €800,000 in combined investment. The contracts, signed simultaneously on 20 August 2026, mark a defining moment for European chess and represent a direct fulfilment of commitments made by ECU leadership during the organisation's pre-election period. The two agreements are as follows: A Promise Kept: Delivering on Election Commitments Both agreements were publicly outlined by ECU leadership during the pre-election period []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-signs-historic-e800000-partnership-with-super-foundation/",
+         "pubDate" : "Tue, 25 Aug 2026 07:07:54",
+         "title" : "European Chess Union Signs Historic €800,000 Partnership with Super Foundation"
+      },
+      {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them - focused mainly on the period after the Chess Olympiad, with events from early October through the beginning of November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/austrian-championship-2026-report",
          "pubDate" : "Mon, 24 Aug 2026 23:30:00",
          "title" : "Austrian Championship: Horvath defends title, Badelka victorious in women's category"
-      },
-      {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
-         "pubDate" : "Mon, 24 Aug 2026 19:00:00",
-         "title" : "Grand Chess Tour Finals - Live!"
       },
       {
          "description" : "Drama in the second game of the semifinals at the Grand Chess Tour Finals: Vincent Keymer had black against Praggnanandhaa Rameshbabu, and after a relatively quiet opening the position became increasingly complicated as both players ran short of time. Keymer reached a winning position, but in an almost hopeless situation Praggnanandhaa managed to capture the German star's rook with a king move and went on to secure the point. There was plenty of tension in the other semifinal as well. Wesley So found himself under severe pressure after a novelty by Fabiano Caruana, but Caruana allowed his opponent to escape with a draw. | Photo: Lennart Ootes / Grand Chess Tour",
