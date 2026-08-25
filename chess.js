@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them - focused mainly on the period after the Chess Olympiad, with events from early October through the beginning of November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-4",
+         "pubDate" : "Tue, 25 Aug 2026 02:30:00",
+         "title" : "Upcoming tournaments and events"
+      },
+      {
          "description" : "GM Dominik Horvath successfully defended his title at the 2026 Austrian National Championship. With 6&frac12; points, he edged out IM Laurenz Borrmann on tiebreaks, who also scored 6&frac12; points and achieved a grandmaster norm. In the Oberbank Challenger Open, young German IM Ruben Gideon K&ouml;llner triumphed with 7&frac12; points. Olga Badelka was the top performer in the Open and thus claimed the women's national title. | Pictured (from left): Laurenz Borrmann, Dominik Horvath and Valentin Baidetskyi | Photo: Peter Kranzl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gct-finals-2026-2",
          "pubDate" : "Mon, 24 Aug 2026 18:15:00",
          "title" : "GCT Finals: Keymer loses from winning position"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with three games to spare, and then lost all three to end with a 19-9 score, while ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-3",
+         "pubDate" : "Mon, 24 Aug 2026 18:09:25",
+         "title" : "Caruana, Praggnanandhaa Set Up Generational Clash In Final"
       },
       {
          "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
          "pubDate" : "Fri, 14 Aug 2026 16:45:00",
          "title" : "Carlsen, Lazavik To Battle It Out In Esports World Cup Final"
-      },
-      {
-         "description" : "For the second week in a row, GM Pranesh M posted the best result of any player in 3 0 Thursday. He scored 9.5 points to win the second tournament of the day. GMs Alexey Sarana and Jeffery Xiong each scored nine points to win the first and third t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-pranesh-xiong-3-0-thursday-08-13-2026",
-         "pubDate" : "Fri, 14 Aug 2026 14:29:02",
-         "title" : "Pranesh Top 3 0 Thursday Scorer For Second Week Running"
       },
       {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
