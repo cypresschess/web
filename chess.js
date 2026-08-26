@@ -2,19 +2,27 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "description" : "Fabiano Caruana took the early lead in the Grand Chess Tour final by beating Praggnanandhaa Rameshbabu in the first classical game, capitalising on a single tactical error to collect six points. In the third-place match, Vincent Keymer and Wesley So split the points after a complicated London System ended in a draw. Both matches continue on Wednesday with the second classical games. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
-         "pubDate" : "Tue, 25 Aug 2026 19:00:00",
-         "title" : "Grand Chess Tour Finals - Live!"
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-4",
+         "pubDate" : "Wed, 26 Aug 2026 07:40:00",
+         "title" : "GCT Finals: Caruana beats Pragg in first classical game"
+      },
+      {
+         "description" : "At its meeting on Monday, the FIDE Council rejected the Russian Chess Federation's application for its teams to take part in the Chess Olympiad in Samarkand. Since Russia's invasion of Ukraine, Russian teams have been barred from international sporting events. Russia, however, has continued to push for this decision to be relaxed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-remains-suspended-from-chess-olympiad",
+         "pubDate" : "Wed, 26 Aug 2026 05:45:00",
+         "title" : "Russia remains suspended from the Chess Olympiad"
       },
       {
          "description" : "GM Fabiano Caruana won the first classical game of the title match against GM Praggnanandhaa Rameshbabu&#38;nbsp;in the 2026 Grand Chess Tour Finals, earning six points. The Indian grandmaster held his own in an unusual version of the Italian Opening,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-4",
-         "pubDate" : "Tue, 25 Aug 2026 16:09:58",
+         "pubDate" : "Tue, 25 Aug 2026 16:09:00",
          "title" : "Caruana Leads Praggnanandhaa In Final Match, Keymer-So Stays Even"
       },
       {
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-august-25-2026",
          "pubDate" : "Tue, 25 Aug 2026 12:19:00",
          "title" : "Duda Takes 2026 Wins Lead In Titled Tuesday"
-      },
-      {
-         "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: The Fritz 21 and the Fritz Powerbook 2026 are available this week (until August 30, 2026) for €99.90 - save around €60!!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-teil-8",
-         "pubDate" : "Tue, 25 Aug 2026 12:00:00",
-         "title" : "ChessBase Summer Special! - Part 8"
       },
       {
          "description" : "World number-one GM Magnus Carlsen and GM Fabiano Caruana headline the first 18 confirmed players for the Total Chess World Championship Tour Pilot, November 10-21, in Budapest, which will test a new format combining fast classical, rapid, and bli...",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "Ready Your Quacktics For The Chess.com Duck Chess Championship Starting On September 2"
       },
       {
-         "description" : "Fabiano Caruana and Praggnanandhaa Rameshbabu booked their places in the deciding match of the Grand Chess Tour Finals after prevailing in Monday's rapid and blitz section of the semifinals in Saint Louis. Praggnanandhaa clinched his match against Vincent Keymer with four games to spare, while Caruana completed an 18-12 win over Wesley So. The finalists will start from scratch on Tuesday, as Keymer and So contest the third-place match. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-3",
-         "pubDate" : "Tue, 25 Aug 2026 07:30:00",
-         "title" : "GCT Finals: Pragg and Caruana to fight for the title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,36 +66,12 @@ news_feed (
          "title" : "European Chess Union Signs Historic €800,000 Partnership with Super Foundation"
       },
       {
-         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them - focused mainly on the period after the Chess Olympiad, with events from early October through the beginning of November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-4",
-         "pubDate" : "Tue, 25 Aug 2026 02:30:00",
-         "title" : "Upcoming tournaments and events"
-      },
-      {
          "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-1",
          "pubDate" : "Tue, 25 Aug 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 1"
-      },
-      {
-         "description" : "GM Dominik Horvath successfully defended his title at the 2026 Austrian National Championship. With 6&frac12; points, he edged out IM Laurenz Borrmann on tiebreaks, who also scored 6&frac12; points and achieved a grandmaster norm. In the Oberbank Challenger Open, young German IM Ruben Gideon K&ouml;llner triumphed with 7&frac12; points. Olga Badelka was the top performer in the Open and thus claimed the women's national title. | Pictured (from left): Laurenz Borrmann, Dominik Horvath and Valentin Baidetskyi | Photo: Peter Kranzl",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/austrian-championship-2026-report",
-         "pubDate" : "Mon, 24 Aug 2026 23:30:00",
-         "title" : "Austrian Championship: Horvath defends title, Badelka victorious in women's category"
-      },
-      {
-         "description" : "Drama in the second game of the semifinals at the Grand Chess Tour Finals: Vincent Keymer had black against Praggnanandhaa Rameshbabu, and after a relatively quiet opening the position became increasingly complicated as both players ran short of time. Keymer reached a winning position, but in an almost hopeless situation Praggnanandhaa managed to capture the German star's rook with a king move and went on to secure the point. There was plenty of tension in the other semifinal as well. Wesley So found himself under severe pressure after a novelty by Fabiano Caruana, but Caruana allowed his opponent to escape with a draw. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-2",
-         "pubDate" : "Mon, 24 Aug 2026 18:15:00",
-         "title" : "GCT Finals: Keymer loses from winning position"
       },
       {
          "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with four games to spare, and then lost the last three blitz games to end with a 19...",
