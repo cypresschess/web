@@ -664,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-confirms-new-dates-for-chess-nationals-after-gm-abhijeet-gupta-flags-2026-snub/articleshow/132906276.cms",
          "pubDate" : "Wed, 05 Aug 2026 08:18:49",
          "title" : "AICF confirms new dates for chess nationals after GM Abhijeet Gupta flags 2026 snub"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132864124.cms\" />Savitha Shri Baskar never set out to become the family's chess star. She first picked up the game by watching her elder brother, but soon became the one her father chose to back. He quit his job in Singapore, pawned jewellery and stretched the family's finances to keep her career going. Now, at 19, Savitha is headed to the Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/father-quit-singapore-job-pawned-jewellery-to-fund-chess-dream-olympiad-bound-savitha-shris-story/articleshow/132864124.cms",
-         "pubDate" : "Wed, 05 Aug 2026 00:30:00",
-         "title" : "Father quit job, pawned jewellery to fund chess dream: Olympiad-bound Savitha's story"
       }
    ]
 }
