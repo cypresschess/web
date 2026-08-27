@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana retained a six-point lead over Praggnanandhaa Rameshbabu in the Grand Chess Tour final after holding a difficult 95-move draw in the second classical game. Pragg had several winning chances but could not convert them. In the third-place match, Vincent Keymer moved ahead of Wesley So by winning the bonus blitz game after their second classical encounter ended in a quick draw. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-5",
+         "pubDate" : "Thu, 27 Aug 2026 07:40:00",
+         "title" : "GCT Finals: Caruana saves draw, Keymer beats So in bonus blitz game"
+      },
+      {
+         "description" : "Awonder Liang won the 62nd Rubinstein Memorial in Polanica-Zdr&oacute;j with 5&frac12;/9, finishing half a point ahead of four players. The American recovered from a third-round loss to top seed Vladimir Fedoseev and secured first place by beating Szymon Gumularz in the final round. Jan Malek had entered round nine as the sole leader, but his defeat against Jakub Seemann opened the door for Liang to take the title outright. | Photo: Lennart Ootes / Saint Louis Chess Club (2024)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rubinstein-memorial-2026-final-report",
+         "pubDate" : "Thu, 27 Aug 2026 04:35:00",
+         "title" : "Final-round victory gives Awonder Liang Rubinstein Memorial title"
+      },
+      {
+         "description" : "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women&#39;s Chess Tour 2026 Grand Final after winning the WR Women&#39;s Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/assaubayeva-anna-muzychuk-2026-wr-womens-chess-tour-europe",
+         "pubDate" : "Thu, 27 Aug 2026 03:08:00",
+         "title" : "Assaubayeva, Anna Muzychuk Grab Final Spots In WR Women's Chess Tour Final"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133547352.cms\" />A remarkable teacher-student story from the Asian Junior Chess Championships, where India's 94th GM and Northeast's first GM, 17-year-old Mayank Chakraborty, and his 13-year-old pupil Pratitee Bordoloi won the classical titles in Mumbai. The story explores their three-month mentoring journey, the pressure of being top seeds, Pratitee's WGM norm, and Mayank's rise while balancing his own career with mentoring.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/northeasts-first-gm-17-year-old-mayank-chakraborty-and-pupil-pratitee-bordoloi-become-asias-junior-chess-champions/articleshow/133547352.cms",
+         "pubDate" : "Thu, 27 Aug 2026 02:30:00",
+         "title" : "Northeast's first GM, 17-yo Mayank and pupil Pratitee become Asia's chess champions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133550773.cms\" />Women's World Cup Winner To Make GCL Debut With Defending Champions Alpine Pipers; The 20-Year-Old Hopes A Woman Becomes India's 100th Chess Grandmaster",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-has-a-lot-to-teach-hes-one-of-the-best-says-divya-deshmukh/articleshow/133550773.cms",
+         "pubDate" : "Wed, 26 Aug 2026 20:21:39",
+         "title" : "Magnus Carlsen has a lot to teach, he's one of the best, says Divya Deshmukh"
+      },
+      {
+         "description" : "The BBC has released a 1977 documentary from its archives on YouTube about the then world chess champion, Anatoly Karpov. The programme traces Karpov's rise to the world title and features footage from the 1977 Interpolis Tournament in Hilversum, with many of the leading players and prominent figures in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bbc-archive-where-karpov-is-king",
+         "pubDate" : "Wed, 26 Aug 2026 16:00:00",
+         "title" : "From the BBC archive: Where Karpov is king"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133544842.cms\" />World champion D Gukesh shared a funny exchange with an online troll who initially told him to retire. After Gukesh jokingly replied, \"Sorry I'm retired bro\" when asked for a chess match, the user revealed it was a dare from friends. Gukesh posted the exchange with \"Haters are fun bro\" amid scrutiny over his recent form.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-retired-bro-world-chess-champion-d-gukeshs-cheeky-reply-to-troll-gets-unexpected-twist/articleshow/133544842.cms",
+         "pubDate" : "Wed, 26 Aug 2026 15:54:37",
+         "title" : "'I'm retired bro': Gukesh's cheeky reply to troll gets unexpected twist"
+      },
+      {
+         "description" : "GM Fabiano Caruana continues to lead GM Praggnanandhaa Rameshbabu 9-3 in the 2026 Grand Chess Tour Finals title match after making a draw in game two. Praggnanandhaa had huge winning chances in the opposite-color bishop endgame, but Caruana surviv...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-5",
+         "pubDate" : "Wed, 26 Aug 2026 15:46:00",
+         "title" : "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match"
+      },
+      {
+         "description" : "Bibisara Assaubayeva won the rapid tournament at the European qualifier for the WR Women's Chess Tour Finals in St Tropez. In the first round, she knocked out Elisabeth Paehtz in an Armageddon game. In the final, she defeated Mariya Muzychuk. Today, eight of Europe's strongest women players will compete in the blitz tournament. | Photo: WR Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-women-tour-2026-europe-rapid",
+         "pubDate" : "Wed, 26 Aug 2026 14:40:00",
+         "title" : "WR Women's Chess Tour: Assaubayeva wins rapid section"
+      },
+      {
+         "description" : "The ECF websites are sitting beside an extra layer of security for a short while, during which the IT squad are wrestling with a gritty problem. Visitors may get an...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-websites/",
+         "pubDate" : "Wed, 26 Aug 2026 09:44:10",
+         "title" : "ECF websites"
+      },
+      {
+         "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-starts-in-greece/",
+         "pubDate" : "Wed, 26 Aug 2026 08:26:18",
+         "title" : "European Senior Team Chess Championship 2026 starts in Greece"
+      },
+      {
          "description" : "Fabiano Caruana took the early lead in the Grand Chess Tour final by beating Praggnanandhaa Rameshbabu in the first classical game, capitalising on a single tactical error to collect six points. In the third-place match, Vincent Keymer and Wesley So split the points after a complicated London System ended in a draw. Both matches continue on Wednesday with the second classical games. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +98,44 @@ news_feed (
          "title" : "GCT Finals: Caruana beats Pragg in first classical game"
       },
       {
+         "description" : "IM Levy Rozman (GothamChess) is the latest addition to team BASILISK, the global esports organization. Rozman joins a team that already consists of super-GMs Anish Giri and Vincent Keymer, though his role will not be as a player but as the Head of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
+         "pubDate" : "Wed, 26 Aug 2026 06:02:51",
+         "title" : "GothamChess Signs With BASILISK As Head Of Chess, Joins Giri & Keymer"
+      },
+      {
          "description" : "At its meeting on Monday, the FIDE Council rejected the Russian Chess Federation's application for its teams to take part in the Chess Olympiad in Samarkand. Since Russia's invasion of Ukraine, Russian teams have been barred from international sporting events. Russia, however, has continued to push for this decision to be relaxed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/russia-remains-suspended-from-chess-olympiad",
          "pubDate" : "Wed, 26 Aug 2026 05:45:00",
          "title" : "Russia remains suspended from the Chess Olympiad"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-2",
+         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/youtube-video-test",
+         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
+         "title" : "YouTube video test"
+      },
+      {
+         "description" : "Registration Open: 2026 Saint Louis Chess ConferenceWhen: October 22-24 Where: Chase Park Plaza, St. Louis, the city officially designated by the U.S. Senate as the Chess Capital of the United States. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Hosted by the Saint Louis Chess Club, US Chess, and the Kasparov Chess Foundation, the Saint Louis Chess Conference is a national gathering built specifically for the people advancing chess through research, education, and policy. The 2024 inaugural edition drew over 250 educators, researchers, and enthusiasts from 14 countries and 32 states. The conference is dedicated to the love of the game - transforming the chessboard in",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/announcing-2026-saint-louis-chess-conference",
+         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
+         "title" : "Announcing The 2026 Saint Louis Chess Conference"
       },
       {
          "description" : "GM Fabiano Caruana won the first classical game of the title match against GM Praggnanandhaa Rameshbabu&#38;nbsp;in the 2026 Grand Chess Tour Finals, earning six points. The Indian grandmaster held his own in an unusual version of the Italian Opening,...",
@@ -72,6 +192,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-1",
          "pubDate" : "Tue, 25 Aug 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133474510.cms\" />As India nears its 100th Grandmaster, veteran GM Pravin Thipsay questions the booming coaching industry, arguing that expensive training is often unnecessary and independent thinking matters more. While he calls the ecosystem an \"unfortunate racket\", Grandmaster Aaryan Varshney offers a counterpoint, saying guidance remains crucial in the computer era. With inputs from Grandmasters, the story examines whether aspiring players really need to hire an expensive coach to become a GM.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/an-unfortunate-racket-as-india-nears-its-100th-chess-grandmaster-is-an-expensive-coach-all-you-need/articleshow/133474510.cms",
+         "pubDate" : "Mon, 24 Aug 2026 20:12:20",
+         "title" : "'An unfortunate racket': As India nears 100th GM, is expensive coach a must?"
       },
       {
          "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with four games to spare, and then lost the last three blitz games to end with a 19...",
@@ -354,28 +482,12 @@ news_feed (
          "title" : "Chess stars Divya, Vidit honoured with Arjuna Awards; AICF reacts"
       },
       {
-         "description" : "We&#39;re excited to announce the next State of Chess, our live show where Chief Chess Officer IM Danny Rensch shares what Chess.com has been working on and what&#39;s coming next. It&#39;s also where you can ask us questions directly and get answers live on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-state-of-chess-september-1-2026",
-         "pubDate" : "Tue, 18 Aug 2026 07:00:00",
-         "title" : "State Of Chess Returns September 1 With Liza Mandelup, Albert Cheng"
-      },
-      {
          "description" : "Today's puzzles again come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-2",
          "pubDate" : "Tue, 18 Aug 2026 00:00:00",
          "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 2"
-      },
-      {
-         "description" : "With two rounds left, GM Wesley So continues to lead the 2026 Sinquefield Cup on 4.5/7 after making an almost instant draw with GM Anish Giri in round seven on Monday. He&#39;s trailed by GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-7",
-         "pubDate" : "Mon, 17 Aug 2026 19:56:00",
-         "title" : "Sindarov Wins On Demand With Black; Tan Bamboozles Divya To Extend Lead"
       },
       {
          "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
@@ -400,14 +512,6 @@ news_feed (
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : "GM Wesley So still leads GMs Fabiano Caruana, Maxime Vachier-Lagrave, Vincent Keymer, and Praggnanandhaa Rameshbabu by half a point after round six of the 2026 Sinquefield Cup, with GM Anish Giri scoring the day&#39;s only win. He said he &#34;went a litt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-6",
-         "pubDate" : "Mon, 17 Aug 2026 02:55:00",
-         "title" : "Giri Wins Dutch Battle; Lee Beats Humpy To Move To Clear 2nd"
       },
       {
          "description" : "The Scholastic Council and the Executive Board have approved the 2026-2027 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:Section 5.2.1 revises the definition of a school and various types of school organizations such as a public school district, private school, and charter school to clarify eligibility criteria for teams in Section 5.3.Section 4.3 introduces new language on Section Eligibility for players who scored 6.0 or better in an Under section of the previous year's Spring Nationals. What's new is that a 6.0 or better score in a Spring Nationals during the current school year can affect a player's section eligi",
@@ -448,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-yahli-sokolovsky-and-im-eline-roebers-crowned-european-junior-champions-2026/",
          "pubDate" : "Sun, 16 Aug 2026 07:36:31",
          "title" : "GM Yahli Sokolovsky and IM Eline Roebers crowned European Junior Champions 2026"
-      },
-      {
-         "description" : "For the first time, the Saint Louis Chess Club (SLCC)'s two premier international events are taking place side-by-side. The Grand Chess Tour (GCT)'s Sinquefield Cup began Tuesday, August 11 alongside the Cairns Cup, putting ten of the world's best players alongside ten of the world's strongest women. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy SLCC/Crystal Fuller.<br> <br> After five rounds, GM Wesley So leads the Sinquefield Cup with a 3&frac12;/5 score and GM Tan Zhongyi leads the Cairns Cup by a full point with a 4/5 score.This is the sixth year of the Cairns Cup,",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/so-and-tan-lead-first-concurrent-sinquefield-and-cairns-cups",
-         "pubDate" : "Sun, 16 Aug 2026 00:00:00",
-         "title" : "So and Tan Lead First Concurrent Sinquefield and Cairns Cups"
       },
       {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
@@ -514,14 +610,6 @@ news_feed (
          "title" : "Remembering Oleg Skvortsov"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tang makes it two in a row! (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> One of the questions I get asked most often from chess parents is \"how do you balance school and chess?\" For a while I felt that I wasn't qualified to answer this question; I didn't have to do much balancing at all. In my final years of high school, though, with college applications looming, I had to take my own advice. For me, school always comes first. No matter how much I love chess, it is an extracurricular.An expected outcome of this hierarchy was that this school year, I spent more time writing essays than solving tac",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/balancing-act-wgm-zoey-tang-girls-junior-title-defense",
-         "pubDate" : "Thu, 13 Aug 2026 00:00:00",
-         "title" : "Balancing Act: WGM Zoey Tang on Girls' Junior Title Defense"
-      },
-      {
          "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -544,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-world-championship-challenger-sindarov-to-share-sinquefield-cup-lead/articleshow/133171475.cms",
          "pubDate" : "Wed, 12 Aug 2026 05:21:38",
          "title" : "Praggnanandhaa beats Sindarov to share Sinquefield Cup lead"
-      },
-      {
-         "description" : "Writers, columnists, photographers and analysts from US Chess had much to celebrate at the annual Chess Journalists of America (CJA) meeting on August 6 in Grand Rapids. US Chess took home 23 awards, including two of the \"big three\" - FM Mike Klein won \"Best Story of the Year\" for his December 2025 obituary of GM Daniel Naroditsky, while GM Joel Benjamin was awarded the \"Best Column\" prize.Here is the full list of awards won by US Chess. For complete results, visit the CJA website. Congratulations to all! TOP AWARDSBest Story of the Year, WinnerFM Mike Klein, \"Danya\" (Chess Life, December 2025) <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Best Column, WinnerGM Joel B",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-chess-journalist-america-awards-announced",
-         "pubDate" : "Wed, 12 Aug 2026 00:00:00",
-         "title" : "2026 Chess Journalist of America Awards Announced"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
@@ -624,14 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/led-zeppelins-robert-plant-drops-into-play-chess-at-bewdley/",
          "pubDate" : "Thu, 06 Aug 2026 15:21:17",
          "title" : "Led Zeppelin's Robert Plant drops into play chess at Bewdley!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132906276.cms\" />The All India Chess Federation has rescheduled the senior National Chess Championship to November 29-December 9, 2026, in Varanasi, after GM Abhijeet Gupta objected to its proposed March 2027 dates. AICF held discussions with stakeholders to come up with a solution while retaining the venue. Gupta had cited school board exams and the risk of effectively losing the 2026 edition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-confirms-new-dates-for-chess-nationals-after-gm-abhijeet-gupta-flags-2026-snub/articleshow/132906276.cms",
-         "pubDate" : "Wed, 05 Aug 2026 08:18:49",
-         "title" : "AICF confirms new dates for chess nationals after GM Abhijeet Gupta flags 2026 snub"
       }
    ]
 }
