@@ -10,20 +10,12 @@ news_feed (
          "title" : "Grand Chess Tour Finals - Live!"
       },
       {
-         "description" : "Levy Rozman, known online as GothamChess, has joined BASILISK as Head of Chess, taking charge of the organisation's global chess content strategy and long-term competitive plans. Rozman brings a large online audience and joins a chess roster that already includes Vincent Keymer and Anish Giri. BASILISK, which presents itself as an esports organisation for science-minded gaming communities, says the appointment will expand its reach and support new chess-related initiatives. | Photo: BASILISK",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gotham-chsess-joins-basilisk",
-         "pubDate" : "Thu, 27 Aug 2026 17:30:00",
-         "title" : "GothamChess joins BASILISK, science's esports team, as Head of Chess"
-      },
-      {
-         "description" : "Bibisara Assaubayeva reached both finals at the WR Women's Chess Tour stop in Saint-Tropez, winning the rapid event before finishing runner-up to Anna Muzychuk in the blitz. Assaubayeva and Anna Muzychuk ultimately secured the last two places in November's Grand Final in Stuttgart. Elisabeth Paehtz again came close to advancing, but lost to Assaubayeva in an Armageddon decider in the blitz semifinals. | Photo: WR Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-women-tour-2026-europe-blitz",
-         "pubDate" : "Thu, 27 Aug 2026 16:00:00",
-         "title" : "WR Women's Chess Tour 2026: Anna Muzychuk prevails in blitz section"
+         "description" : "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+         "pubDate" : "Thu, 27 Aug 2026 15:23:13",
+         "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, So Clinches 3rd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133567892.cms\" />",
@@ -42,22 +34,6 @@ news_feed (
          "title" : "Play In The Special Edition Of The Gambit Cup On August 31"
       },
       {
-         "description" : "Fabiano Caruana retained a six-point lead over Praggnanandhaa Rameshbabu in the Grand Chess Tour final after holding a difficult 95-move draw in the second classical game. Pragg had several winning chances but could not convert them. In the third-place match, Vincent Keymer moved ahead of Wesley So by winning the bonus blitz game after their second classical encounter ended in a quick draw. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-5",
-         "pubDate" : "Thu, 27 Aug 2026 07:40:00",
-         "title" : "GCT Finals: Caruana saves draw, Keymer beats So in bonus blitz game"
-      },
-      {
-         "description" : "Awonder Liang won the 62nd Rubinstein Memorial in Polanica-Zdr&oacute;j with 5&frac12;/9, finishing half a point ahead of four players. The American recovered from a third-round loss to top seed Vladimir Fedoseev and secured first place by beating Szymon Gumularz in the final round. Jan Malek had entered round nine as the sole leader, but his defeat against Jakub Seemann opened the door for Liang to take the title outright. | Photo: Lennart Ootes / Saint Louis Chess Club (2024)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rubinstein-memorial-2026-final-report",
-         "pubDate" : "Thu, 27 Aug 2026 04:35:00",
-         "title" : "Final-round victory gives Awonder Liang Rubinstein Memorial title"
-      },
-      {
          "description" : "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women&#39;s Chess Tour 2026 Grand Final after winning the WR Women&#39;s Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,20 +50,20 @@ news_feed (
          "title" : "Northeast's first GM, 17-yo Mayank and pupil Pratitee become Asia's chess champions"
       },
       {
+         "description" : "National Chess Day!National Chess Day is Saturday, Oct. 10. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2026FREE. This is case-sensitive. Be sure to rate the event by 11:59 p.m. Central on Wednesday, Oct. 14 to ensure the waiver of fees.Free online TLA. Online TLAs are always free, of course, not just for Nat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-10",
+         "pubDate" : "Thu, 27 Aug 2026 00:00:00",
+         "title" : "National Chess Day Set for Saturday, Oct. 10"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133550773.cms\" />Women's World Cup Winner To Make GCL Debut With Defending Champions Alpine Pipers; The 20-Year-Old Hopes A Woman Becomes India's 100th Chess Grandmaster",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-has-a-lot-to-teach-hes-one-of-the-best-says-divya-deshmukh/articleshow/133550773.cms",
          "pubDate" : "Wed, 26 Aug 2026 20:21:39",
          "title" : "Magnus Carlsen has a lot to teach, he's one of the best, says Divya Deshmukh"
-      },
-      {
-         "description" : "The BBC has released a 1977 documentary from its archives on YouTube about the then world chess champion, Anatoly Karpov. The programme traces Karpov's rise to the world title and features footage from the 1977 Interpolis Tournament in Hilversum, with many of the leading players and prominent figures in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bbc-archive-where-karpov-is-king",
-         "pubDate" : "Wed, 26 Aug 2026 16:00:00",
-         "title" : "From the BBC archive: Where Karpov is king"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133544842.cms\" />World champion D Gukesh shared a funny exchange with an online troll who initially told him to retire. After Gukesh jokingly replied, \"Sorry I'm retired bro\" when asked for a chess match, the user revealed it was a dare from friends. Gukesh posted the exchange with \"Haters are fun bro\" amid scrutiny over his recent form.",
@@ -106,14 +82,6 @@ news_feed (
          "title" : "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match"
       },
       {
-         "description" : "Bibisara Assaubayeva won the rapid tournament at the European qualifier for the WR Women's Chess Tour Finals in St Tropez. In the first round, she knocked out Elisabeth Paehtz in an Armageddon game. In the final, she defeated Mariya Muzychuk. Today, eight of Europe's strongest women players will compete in the blitz tournament. | Photo: WR Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-women-tour-2026-europe-rapid",
-         "pubDate" : "Wed, 26 Aug 2026 14:40:00",
-         "title" : "WR Women's Chess Tour: Assaubayeva wins rapid section"
-      },
-      {
          "description" : "The ECF websites are sitting beside an extra layer of security for a short while, during which the IT squad are wrestling with a gritty problem. Visitors may get an...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -130,28 +98,12 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2026 starts in Greece"
       },
       {
-         "description" : "Fabiano Caruana took the early lead in the Grand Chess Tour final by beating Praggnanandhaa Rameshbabu in the first classical game, capitalising on a single tactical error to collect six points. In the third-place match, Vincent Keymer and Wesley So split the points after a complicated London System ended in a draw. Both matches continue on Wednesday with the second classical games. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-4",
-         "pubDate" : "Wed, 26 Aug 2026 07:40:00",
-         "title" : "GCT Finals: Caruana beats Pragg in first classical game"
-      },
-      {
          "description" : "IM Levy Rozman (GothamChess) is the latest addition to team BASILISK, the global esports organization. Rozman joins a team that already consists of super-GMs Anish Giri and Vincent Keymer, though his role will not be as a player but as the Head of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
          "pubDate" : "Wed, 26 Aug 2026 06:02:51",
          "title" : "GothamChess Signs With BASILISK As Head Of Chess, Joins Giri & Keymer"
-      },
-      {
-         "description" : "At its meeting on Monday, the FIDE Council rejected the Russian Chess Federation's application for its teams to take part in the Chess Olympiad in Samarkand. Since Russia's invasion of Ukraine, Russian teams have been barred from international sporting events. Russia, however, has continued to push for this decision to be relaxed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-remains-suspended-from-chess-olympiad",
-         "pubDate" : "Wed, 26 Aug 2026 05:45:00",
-         "title" : "Russia remains suspended from the Chess Olympiad"
       },
       {
          "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -506,14 +458,6 @@ news_feed (
          "title" : "Praggnanandhaa Catches So In Lead; Tan Draw Away From Tournament Victory"
       },
       {
-         "description" : "GM Tuan Minh Le won his first Titled Tuesday of the year on August 18, and the 12th of his career, after coming out ahead of GMs Parham Maghsoodloo and Arjun Erigaisi on tiebreaks with a score of 9.5/11. Le recovered from a first-round loss by rip...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-wins-titled-tuesday-august-18-2026",
-         "pubDate" : "Tue, 18 Aug 2026 12:51:55",
-         "title" : "Speedy Minh Le Wins 9 Straight To Take Titled Tuesday"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -568,14 +512,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/meet-me-st-louis-root-senior-womens-pt-2",
          "pubDate" : "Mon, 17 Aug 2026 00:00:00",
          "title" : "Meet Me in St. Louis: Root on Senior Women's, Pt. 2"
-      },
-      {
-         "description" : "This article has been updated to reflect the deadline extension. The new deadline is September 7 at 5:00 p.m. CDT. 2026-2027 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Projects must be organized by educational non-profits (501c3), public schools, and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2026 through July 31, 2027. The",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-2027-women-and-girls-programming-grant-cycle-officially-open",
-         "pubDate" : "Mon, 17 Aug 2026 00:00:00",
-         "title" : "2026-2027 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
