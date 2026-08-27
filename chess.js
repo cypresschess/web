@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
+         "pubDate" : "Thu, 27 Aug 2026 19:00:00",
+         "title" : "Grand Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Levy Rozman, known online as GothamChess, has joined BASILISK as Head of Chess, taking charge of the organisation's global chess content strategy and long-term competitive plans. Rozman brings a large online audience and joins a chess roster that already includes Vincent Keymer and Anish Giri. BASILISK, which presents itself as an esports organisation for science-minded gaming communities, says the appointment will expand its reach and support new chess-related initiatives. | Photo: BASILISK",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gotham-chsess-joins-basilisk",
+         "pubDate" : "Thu, 27 Aug 2026 17:30:00",
+         "title" : "GothamChess joins BASILISK, science's esports team, as Head of Chess"
+      },
+      {
          "description" : "Bibisara Assaubayeva reached both finals at the WR Women's Chess Tour stop in Saint-Tropez, winning the rapid event before finishing runner-up to Anna Muzychuk in the blitz. Assaubayeva and Anna Muzychuk ultimately secured the last two places in November's Grand Final in Stuttgart. Elisabeth Paehtz again came close to advancing, but lost to Assaubayeva in an Armageddon decider in the blitz semifinals. | Photo: WR Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -382,7 +398,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-presidential-debate-2026-buettner-rosenstein-turlov",
-         "pubDate" : "Thu, 20 Aug 2026 08:08:26",
+         "pubDate" : "Thu, 20 Aug 2026 08:08:00",
          "title" : "Chess.com To Host Live FIDE Presidential Debate With Buettner, Rosenstein, Turlov"
       },
       {
