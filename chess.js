@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bibisara Assaubayeva reached both finals at the WR Women's Chess Tour stop in Saint-Tropez, winning the rapid event before finishing runner-up to Anna Muzychuk in the blitz. Assaubayeva and Anna Muzychuk ultimately secured the last two places in November's Grand Final in Stuttgart. Elisabeth Paehtz again came close to advancing, but lost to Assaubayeva in an Armageddon decider in the blitz semifinals. | Photo: WR Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-women-tour-2026-europe-blitz",
+         "pubDate" : "Thu, 27 Aug 2026 16:00:00",
+         "title" : "WR Women's Chess Tour 2026: Anna Muzychuk prevails in blitz section"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133567892.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-feels-like-ipl-of-chess-indian-grandmaster-nihal-sarin-ahead-of-new-season/articleshow/133567892.cms",
+         "pubDate" : "Thu, 27 Aug 2026 12:06:58",
+         "title" : "'GCL feels like IPL of chess': Indian GM Sarin ahead of new season"
+      },
+      {
+         "description" : "We&#39;re excited to announce a special edition of the Gambit Cup, a poker event taking place on August 31. The event starts at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST and is open to all Gambit members. The Gambit Cup is a daily poker tournament host...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-gambit-cup",
+         "pubDate" : "Thu, 27 Aug 2026 08:00:00",
+         "title" : "Play In The Special Edition Of The Gambit Cup On August 31"
+      },
+      {
          "description" : "Fabiano Caruana retained a six-point lead over Praggnanandhaa Rameshbabu in the Grand Chess Tour final after holding a difficult 95-move draw in the second classical game. Pragg had several winning chances but could not convert them. In the third-place match, Vincent Keymer moved ahead of Wesley So by winning the bonus blitz game after their second classical encounter ended in a quick draw. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-maiden-saint-louis-rapid-blitz-title/articleshow/133022348.cms",
          "pubDate" : "Fri, 07 Aug 2026 05:37:47",
          "title" : "R Praggnanandhaa wins maiden Saint Louis Rapid &amp; Blitz title"
-      },
-      {
-         "description" : "Bewdley's Mayor, Sharon Harvey, arranged for Robert to drop into the Worcestershire Junior Chess Congress see BBC Hereford &#38; Worcester for picture and more https://www.bbc.co.uk/news/articles/cly914w625xo",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/led-zeppelins-robert-plant-drops-into-play-chess-at-bewdley/",
-         "pubDate" : "Thu, 06 Aug 2026 15:21:17",
-         "title" : "Led Zeppelin's Robert Plant drops into play chess at Bewdley!"
       }
    ]
 }
