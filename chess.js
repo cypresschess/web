@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu overturned a six-point deficit on the final day to defeat Fabiano Caruana 15-13 and win the 2026 Grand Chess Tour Finals. The Indian GM won both rapid games before holding his advantage through the blitz section. In the third-place match, Wesley So recovered from an early deficit against Vincent Keymer and swept all four blitz games to secure an 18-12 victory. | Photo: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gct-finals-2026-6",
+         "pubDate" : "Fri, 28 Aug 2026 09:05:00",
+         "title" : "Praggnanandhaa comes from behind, wins Grand Chess Tour 2026"
+      },
+      {
+         "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and over $100,000 for the second year in succession, despite a run ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
+         "pubDate" : "Fri, 28 Aug 2026 07:00:50",
+         "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
+      },
+      {
          "description" : "Alan Pichot and Marta Garc&iacute;a Mart&iacute;n won the 2026 Spanish Absolute and Women's Chess Championships in Linares. Pichot, born in Argentina, claimed his first Spanish title after defeating Alex Villa Tornero in the final round to win the tournament outright on 7&frac12;/9. Daniil Yuffa took silver on tiebreaks ahead of Eduardo Iturrizaga Bonelli. In the women's standings, Garc&iacute;a defended her title with 6/9, ahead of Sabrina Vega and Adhara Rodr&iacute;guez Redondo. | Photo: Spanish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,19 +34,11 @@ news_feed (
          "title" : "Praggnanandhaa scripts history, becomes first Indian to win Grand Chess Tour"
       },
       {
-         "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-live",
-         "pubDate" : "Thu, 27 Aug 2026 19:00:00",
-         "title" : "Grand Chess Tour Finals - Live!"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
-         "pubDate" : "Thu, 27 Aug 2026 15:23:13",
+         "pubDate" : "Thu, 27 Aug 2026 15:23:00",
          "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, So Clinches 3rd"
       },
       {
@@ -672,22 +680,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/extra-knowledge-weight-in-chess/",
          "pubDate" : "Sat, 08 Aug 2026 13:00:00",
          "title" : "The weight of what you know"
-      },
-      {
-         "description" : " The Taunton grandmaster had been unbeaten in 87 games in a row, during which time he had won all his nine titles Michael Adams, the 54-year-old Taunton grandmaster aiming for a record-equalling 10th British title, began with three wins but in round four suffered his first championship defeat since 1988 when he resigned a lost rook endgame after 60 moves to the rising Ukrainian talent Svyatoslav Bazakutsa, 18, who lives in Liverpool. Adams has won nine British titles, one short of Jonathan Penrose's record, but missed many championships in the 1990s and 2000s when he was campaigning for the world crown. <a href=\"https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-ch",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/aug/07/chess-adams-loses-first-british-championship-game-since-1988-to-rising-star",
-         "pubDate" : "Fri, 07 Aug 2026 07:00:12",
-         "title" : "Chess: Adams loses first British Championship game since 1988 to rising star"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133022348.cms\" />Indian Grandmaster R Praggnanandhaa won his first Saint Louis Rapid &amp; Blitz title with a round to spare after a dominant performance in the tournament. The 20-year-old finished on top with 23.5 points and also climbed to second place in the overall Grand Chess Tour standings, boosting his chances of qualifying for the season-ending Finals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-maiden-saint-louis-rapid-blitz-title/articleshow/133022348.cms",
-         "pubDate" : "Fri, 07 Aug 2026 05:37:47",
-         "title" : "R Praggnanandhaa wins maiden Saint Louis Rapid &amp; Blitz title"
       }
    ]
 }
