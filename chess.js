@@ -10,6 +10,14 @@ news_feed (
          "title" : "Praggnanandhaa comes from behind, wins Grand Chess Tour 2026"
       },
       {
+         "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
+         "pubDate" : "Fri, 28 Aug 2026 08:04:16",
+         "title" : "The European Senior Team Chess Championships 2026 Daily Reports"
+      },
+      {
          "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and over $100,000 for the second year in succession, despite a run ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
