@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alan Pichot and Marta Garc&iacute;a Mart&iacute;n won the 2026 Spanish Absolute and Women's Chess Championships in Linares. Pichot, born in Argentina, claimed his first Spanish title after defeating Alex Villa Tornero in the final round to win the tournament outright on 7&frac12;/9. Daniil Yuffa took silver on tiebreaks ahead of Eduardo Iturrizaga Bonelli. In the women's standings, Garc&iacute;a defended her title with 6/9, ahead of Sabrina Vega and Adhara Rodr&iacute;guez Redondo. | Photo: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-championship-2026-final-report",
+         "pubDate" : "Fri, 28 Aug 2026 02:00:00",
+         "title" : "Spanish Championship: Alan Pichot and Marta Garc&iacute;a claim titles"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133580836.cms\" />In a remarkable display of skill and tenacity, R Praggnanandhaa clinched victory at the Grand Chess Tour Finals in St. Louis, overturning a daunting six-point deficit against renowned competitor Fabiano Caruana. This landmark win not only made him the first Indian champion of the Grand Chess Tour but also earned him a hefty prize of $200,000, solidifying his status in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-scripts-history-becomes-first-indian-to-win-grand-chess-tour/articleshow/133580836.cms",
+         "pubDate" : "Fri, 28 Aug 2026 00:53:50",
+         "title" : "Praggnanandhaa scripts history, becomes first Indian to win Grand Chess Tour"
+      },
+      {
          "description" : "The 2026 Grand Chess Tour reaches its concluding event this weekend, with the four highest-ranked full-tour players competing in the GCT Finals at the Saint Louis Chess Club. Praggnanandhaa Rameshbabu, Wesley So, Fabiano Caruana and Vincent Keymer take part in the knockout tournament, with runs from 22 to 27 August. | Follow the games live with expert commentary starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
