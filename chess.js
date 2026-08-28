@@ -10,6 +10,14 @@ news_feed (
          "title" : "Hassabis on chess and AI"
       },
       {
+         "description" : "No one has ever scored a perfect 11/11 in 3 0 Thursday, but GM Jeffery Xiong became the closest player to that elusive mark in the second tournament on August 27. Xiong won his first 10 games and had a forced mate on the board in the 11th, before ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
+         "pubDate" : "Fri, 28 Aug 2026 12:08:28",
+         "title" : "Xiong Nearly Perfect In 3 0 Thursday"
+      },
+      {
          "description" : "The European Union Youth Chess Championship 2026 concluded in Roznov pod Radhostem in the Czech Republic. The last rounds were full of fights and tension. In category Boys U8 took the first place Kalin Kotsev (BUL), the second place Majus Marcinkevicius (LTU) and the third Artur Zych (POL). In category Girls U8 took the first place Sophia Kaliskami (GRE), the second place Greta Flora Banvolgyi (HUN) and the third Ioana Onica (ROU). Champion EU in category Boys U10 has become []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -63,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
          "pubDate" : "Thu, 27 Aug 2026 15:23:00",
-         "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, So Clinches 3rd"
+         "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133567892.cms\" />",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-2",
          "pubDate" : "Wed, 26 Aug 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/youtube-video-test",
-         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
-         "title" : "YouTube video test"
       },
       {
          "description" : "Registration Open: 2026 Saint Louis Chess ConferenceWhen: October 22-24 Where: Chase Park Plaza, St. Louis, the city officially designated by the U.S. Senate as the Chess Capital of the United States. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Hosted by the Saint Louis Chess Club, US Chess, and the Kasparov Chess Foundation, the Saint Louis Chess Conference is a national gathering built specifically for the people advancing chess through research, education, and policy. The 2024 inaugural edition drew over 250 educators, researchers, and enthusiasts from 14 countries and 32 states. The conference is dedicated to the love of the game - transforming the chessboard in",
@@ -498,14 +498,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 1"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu has caught GM Wesley So in the lead of the 2026 Sinquefield Cup on 5/8, just before the final round. With the black pieces, Praggnanandhaa beat GM Maxime Vachier-Lagrave in just 27 moves, while So made a draw against G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-8",
-         "pubDate" : "Tue, 18 Aug 2026 18:47:00",
-         "title" : "Praggnanandhaa Catches So In Lead; Tan Draw Away From Tournament Victory"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -560,6 +552,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/meet-me-st-louis-root-senior-womens-pt-2",
          "pubDate" : "Mon, 17 Aug 2026 00:00:00",
          "title" : "Meet Me in St. Louis: Root on Senior Women's, Pt. 2"
+      },
+      {
+         "description" : "This article has been updated to reflect the deadline extension. The new deadline is September 7 at 5:00 p.m. CDT. 2026-2027 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Projects must be organized by educational non-profits (501c3), public schools, and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2026 through July 31, 2027. The",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-2027-women-and-girls-programming-grant-cycle-officially-open",
+         "pubDate" : "Mon, 17 Aug 2026 00:00:00",
+         "title" : "2026-2027 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
