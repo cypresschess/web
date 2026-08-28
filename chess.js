@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hassabis-on-ai",
+         "pubDate" : "Fri, 28 Aug 2026 15:00:00",
+         "title" : "Hassabis on chess and AI"
+      },
+      {
+         "description" : "The European Union Youth Chess Championship 2026 concluded in Roznov pod Radhostem in the Czech Republic. The last rounds were full of fights and tension. In category Boys U8 took the first place Kalin Kotsev (BUL), the second place Majus Marcinkevicius (LTU) and the third Artur Zych (POL). In category Girls U8 took the first place Sophia Kaliskami (GRE), the second place Greta Flora Banvolgyi (HUN) and the third Ioana Onica (ROU). Champion EU in category Boys U10 has become []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/eu-youth-chess-champions-2026-crowned/",
+         "pubDate" : "Fri, 28 Aug 2026 11:32:09",
+         "title" : "EU Youth Chess Champions 2026 crowned"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu overturned a six-point deficit on the final day to defeat Fabiano Caruana 15-13 and win the 2026 Grand Chess Tour Finals. The Indian GM won both rapid games before holding his advantage through the blitz section. In the third-place match, Wesley So recovered from an early deficit against Vincent Keymer and swept all four blitz games to secure an 18-12 victory. | Photo: Lennart Ootes / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "The European Senior Team Chess Championships 2026 Daily Reports"
       },
       {
-         "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and over $100,000 for the second year in succession, despite a run ",
+         "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US's world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and more than $100,000 for the second year in succession, despite",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
