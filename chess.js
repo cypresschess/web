@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hanging a piece in a winning position. Playing a perfect game only to lose because of time trouble. There are so many ways that a game of chess can end painfully. So, we search for ways to make that pain go away, and never appear again. But that only leads to more pain, anxiety and []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/how-to-deal-with-pain-in-chess/",
+         "pubDate" : "Sat, 29 Aug 2026 13:00:00",
+         "title" : "How to deal with pain in chess"
+      },
+      {
          "description" : "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjav&iacute;k Chess Club are joining forces to present \"Town and Country\" - two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days, set against two of Iceland's most contrasting backdrops. It all begins on Thursday, 19 November at 19:00. On Tuesday, 24 November, the Friðrik Ólafsson Memorial Tournament opens - honouring Iceland's first grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-evans-friends-andrew-martin",
          "pubDate" : "Sat, 29 Aug 2026 07:00:00",
          "title" : "Newly reviewed: Evans & Friends Vol.1 & 2 by Andrew Martin"
+      },
+      {
+         "description" : "The 13th World Champion GM Garry Kasparov will face GM Veselin Topalov, the opponent who defeated him in the final rated classical game of his career, in a $144,000 Chess960 match in St. Louis. The two former world champions will play 12 games ov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
+         "pubDate" : "Sat, 29 Aug 2026 05:46:00",
+         "title" : "Kasparov, Topalov To Renew Rivalry In $144,000 Chess960 Match"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133602684.cms\" />R Praggnanandhaa clinched the prestigious Grand Chess Tour title in St Louis, USA, adding to his earlier triumph at the Norway Chess event this summer. As the first Indian to achieve such a notable feat, his exceptional mental fortitude was on display during the intense final rounds. This victory represents a significant milestone for Indian chess, especially ahead of the upcoming Olympiad.",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
       },
       {
-         "description" : "The inaugural Esports Nations Cup (ENC), which was set to feature a 128-player chess tournament in Riyadh, Saudi Arabia, on November 2-29, has been postponed by one year to November 2027, the Esports Foundation (EF) announced on Tuesday. The Foun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esports-nations-cup-postponed-to-november-2027-chess-qualification-plans-unclear",
-         "pubDate" : "Wed, 19 Aug 2026 00:48:00",
-         "title" : "Esports Nations Cup Postponed To November 2027"
-      },
-      {
          "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
          "pubDate" : "Sun, 09 Aug 2026 02:21:07",
          "title" : "The Stateless Kings: How Chess preserves an ideal in a fractured world"
-      },
-      {
-         "description" : "Now it's time to talk about the weight of extra knowledge. Last week's analogy (You already know more than you can use): knowledge is the gear, skill is the body you built for the hike. This week, why loading gear you don't need costs you. The Extra Weight Same body, more weight, and you're slower []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/extra-knowledge-weight-in-chess/",
-         "pubDate" : "Sat, 08 Aug 2026 13:00:00",
-         "title" : "The weight of what you know"
       }
    ]
 }
