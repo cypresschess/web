@@ -1,4 +1,7 @@
 jtable([
+"SPRING","2026-08-28","27","<a href=https://ratings.uschess.org/event/202608280323 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-08-28","20","<a href=https://ratings.uschess.org/event/202608280243 target='_blank'>FBCC 2026 Back to School Open</a>",
+"CYPRESS","2026-08-28","37","<a href=https://ratings.uschess.org/event/202608280193 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-08-25","22","<a href=https://ratings.uschess.org/event/202608250193 target='_blank'>AUGUST TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-08-23","16","<a href=https://ratings.uschess.org/event/202608230343 target='_blank'>Bellaire Sunday Swiss 2026.08.23</a>",
 "HOUSTON","2026-08-22","241","<a href=https://ratings.uschess.org/event/202608220583 target='_blank'>Back to School Scholastic</a>",
@@ -6,6 +9,7 @@ jtable([
 "HOUSTON","2026-08-22","8","<a href=https://ratings.uschess.org/event/202608220123 target='_blank'>AUG 22ND TROPHY SCHOLASTIC</a>",
 "SPRING","2026-08-21","24","<a href=https://ratings.uschess.org/event/202608210363 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-21","20","<a href=https://ratings.uschess.org/event/202608210263 target='_blank'>FBCC Jeremiah's Ice Treat Open</a>",
+"CYPRESS","2026-08-21","50","<a href=https://ratings.uschess.org/event/202608210243 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-08-16","66","<a href=https://ratings.uschess.org/event/202608160493 target='_blank'>Houston City Championship 2026</a>",
 "HOUSTON","2026-08-16","18","<a href=https://ratings.uschess.org/event/202608160243 target='_blank'>Bellaire Sunday Swiss 2026.08.16</a>",
 "HOUSTON","2026-08-15","75","<a href=https://ratings.uschess.org/event/202608151143 target='_blank'>HOUSTON CITY TEAM BLITZ CHAMPIONSHIP 2026</a>",
@@ -95,8 +99,4 @@ jtable([
 "HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
 "HOUSTON","2026-06-06","38","<a href=https://ratings.uschess.org/event/202606061253 target='_blank'>TEXAS STATE CHESS TRIATHLON 2026</a>",
 "HOUSTON","2026-06-06","6","<a href=https://ratings.uschess.org/event/202606060203 target='_blank'>chesspanda06062026saturday</a>",
-"CYPRESS","2026-06-05","52","<a href=https://ratings.uschess.org/event/202606050293 target='_blank'>Knights of Cypress</a>",
-"SPRING","2026-06-05","33","<a href=https://ratings.uschess.org/event/202606050283 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-06-05","14","<a href=https://ratings.uschess.org/event/202606050163 target='_blank'>FBCC 2026 National Donut Day Open</a>",
-"KATY","2026-05-31","48","<a href=https://ratings.uschess.org/event/202605311003 target='_blank'>Katy Kids Chess Monthly Rated</a>",
 ]);
