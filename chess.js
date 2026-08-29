@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjav&iacute;k Chess Club are joining forces to present \"Town and Country\" - two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days, set against two of Iceland's most contrasting backdrops. It all begins on Thursday, 19 November at 19:00. On Tuesday, 24 November, the Friðrik Ólafsson Memorial Tournament opens - honouring Iceland's first grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fridrik-olafsson-memorial",
+         "pubDate" : "Sat, 29 Aug 2026 11:00:00",
+         "title" : "Fridrik Olafsson Memorial"
+      },
+      {
          "description" : "IM Andrew Martin presents a complete 1.e4 repertoire for White in his new two-volume course, based on the Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4). The repertoire also covers the Two Knights Defence (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) and all relevant deviations by Black from the second or third move onwards. Jochen Schwarz, a club player from Bremen, is himself a keen gambit player and therefore firmly part of the target audience for this course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
