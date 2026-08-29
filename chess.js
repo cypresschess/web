@@ -58,14 +58,6 @@ news_feed (
          "title" : "Praggnanandhaa's golden summer: From Norway Chess glory to GCT crown"
       },
       {
-         "description" : "The Total Chess World Championship Tour Pilot will take place in Budapest from 10 to 21 November, bringing together an elite field led by Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Wesley So. Created by Norway Chess and approved by FIDE, the event will test players across Fast Classic, Rapid and Blitz formats. The Budapest pilot will serve as the first step towards a multi-city tour launching in 2027. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-announcement",
-         "pubDate" : "Sat, 29 Aug 2026 02:00:00",
-         "title" : "Chess stars set for Total Chess World Championship Tour pilot in Budapest"
-      },
-      {
          "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +82,6 @@ news_feed (
          "title" : "EU Youth Chess Champions 2026 crowned"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu overturned a six-point deficit on the final day to defeat Fabiano Caruana 15-13 and win the 2026 Grand Chess Tour Finals. The Indian GM won both rapid games before holding his advantage through the blitz section. In the third-place match, Wesley So recovered from an early deficit against Vincent Keymer and swept all four blitz games to secure an 18-12 victory. | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gct-finals-2026-6",
-         "pubDate" : "Fri, 28 Aug 2026 09:05:00",
-         "title" : "Praggnanandhaa comes from behind, wins Grand Chess Tour 2026"
-      },
-      {
          "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -112,14 +96,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
          "pubDate" : "Fri, 28 Aug 2026 07:00:50",
          "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
-      },
-      {
-         "description" : "Alan Pichot and Marta Garc&iacute;a Mart&iacute;n won the 2026 Spanish Absolute and Women's Chess Championships in Linares. Pichot, born in Argentina, claimed his first Spanish title after defeating Alex Villa Tornero in the final round to win the tournament outright on 7&frac12;/9. Daniil Yuffa took silver on tiebreaks ahead of Eduardo Iturrizaga Bonelli. In the women's standings, Garc&iacute;a defended her title with 6/9, ahead of Sabrina Vega and Adhara Rodr&iacute;guez Redondo. | Photo: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-championship-2026-final-report",
-         "pubDate" : "Fri, 28 Aug 2026 02:00:00",
-         "title" : "Spanish Championship: Alan Pichot and Marta Garc&iacute;a claim titles"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133580836.cms\" />In a remarkable display of skill and tenacity, R Praggnanandhaa clinched victory at the Grand Chess Tour Finals in St. Louis, overturning a daunting six-point deficit against renowned competitor Fabiano Caruana. This landmark win not only made him the first Indian champion of the Grand Chess Tour but also earned him a hefty prize of $200,000, solidifying his status in the chess world.",
