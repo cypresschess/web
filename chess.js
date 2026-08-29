@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133602684.cms\" />R Praggnanandhaa clinched the prestigious Grand Chess Tour title in St Louis, USA, adding to his earlier triumph at the Norway Chess event this summer. As the first Indian to achieve such a notable feat, his exceptional mental fortitude was on display during the intense final rounds. This victory represents a significant milestone for Indian chess, especially ahead of the upcoming Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-golden-summer-from-norway-chess-glory-to-gct-crown/articleshow/133602684.cms",
+         "pubDate" : "Sat, 29 Aug 2026 02:53:20",
+         "title" : "Praggnanandhaa's golden summer: From Norway Chess glory to GCT crown"
+      },
+      {
+         "description" : "The Total Chess World Championship Tour Pilot will take place in Budapest from 10 to 21 November, bringing together an elite field led by Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Wesley So. Created by Norway Chess and approved by FIDE, the event will test players across Fast Classic, Rapid and Blitz formats. The Budapest pilot will serve as the first step towards a multi-city tour launching in 2027. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-announcement",
+         "pubDate" : "Sat, 29 Aug 2026 02:00:00",
+         "title" : "Chess stars set for Total Chess World Championship Tour pilot in Budapest"
+      },
+      {
          "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
