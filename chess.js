@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour were in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. In the semi-finals Praggnanandhaa beat Vincent Keymer comfortably, winning one of the two classical games and then both rapid games, Keymer won the blitz section but it didn't matter. Fabiano Caruana overcame Wesley So in a close ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
+         "pubDate" : "Sat, 29 Aug 2026 18:17:00",
+         "title" : "Grand Chess Tour Finals 2026 - Games and results"
+      },
+      {
+         "description" : "The Nottingham 1936 tournament, played almost exactly 90 years ago, is regarded as one of the greatest tournaments in chess history. Five world champions took part. With many young players in the field, a changing of the guard was already beginning to take shape. And for the first time since their 1927 World Championship match, Alexander Alekhine and Jos&eacute; Ra&uacute;l Capablanca faced each other again. Alongside the games and a number of photographs, film footage from the event has also survived as a valuable historical record.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nottingham-1936-great-tournament",
+         "pubDate" : "Sat, 29 Aug 2026 18:00:00",
+         "title" : "Nottingham 1936 : One of the greatest tournaments in chess history"
+      },
+      {
          "description" : "Hanging a piece in a winning position. Playing a perfect game only to lose because of time trouble. There are so many ways that a game of chess can end painfully. So, we search for ways to make that pain go away, and never appear again. But that only leads to more pain, anxiety and []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
          "pubDate" : "Sun, 23 Aug 2026 10:37:00",
          "title" : "6th Cairns Cup 2026 - Games and Results"
-      },
-      {
-         "description" : " The Grand Chess Tour Finals take place in Saint Louis 22nd to 27th August 2026. This is the final event of the tour and there is a total prize fund of $450,000, distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour are in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. The format is complex, two classical games (and a tie-break match for two points if tied), rapid and blitz with different weighting for the sections. I've got an experimental program to do the broadcasting trying to make sense ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
-         "pubDate" : "Sun, 23 Aug 2026 10:37:00",
-         "title" : "Grand Chess Tour Finals 2026 - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133436010.cms\" />The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
