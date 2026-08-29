@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Andrew Martin presents a complete 1.e4 repertoire for White in his new two-volume course, based on the Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4). The repertoire also covers the Two Knights Defence (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) and all relevant deviations by Black from the second or third move onwards. Jochen Schwarz, a club player from Bremen, is himself a keen gambit player and therefore firmly part of the target audience for this course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-evans-friends-andrew-martin",
+         "pubDate" : "Sat, 29 Aug 2026 07:00:00",
+         "title" : "Newly reviewed: Evans & Friends Vol.1 & 2 by Andrew Martin"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133602684.cms\" />R Praggnanandhaa clinched the prestigious Grand Chess Tour title in St Louis, USA, adding to his earlier triumph at the Norway Chess event this summer. As the first Indian to achieve such a notable feat, his exceptional mental fortitude was on display during the intense final rounds. This victory represents a significant milestone for Indian chess, especially ahead of the upcoming Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
