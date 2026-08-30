@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Club Ajedrez Solvay lead the Spanish \"Primera Divisi&oacute;n\" team championship with a perfect 6/6 match points after three rounds in Linares. Granada SIDN-C&iacute;vica-Nazar&iacute;es-Trevenque, Gros Xake Taldea and Andreu Paterna share second place on 4/6. With four rounds still to play, the race for the two promotion places to the \"Divisi&oacute;n de Honor\" remains open in the eight-team, round-robin event. | Photo: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-primera-divsion-2026-r3",
+         "pubDate" : "Sun, 30 Aug 2026 10:00:00",
+         "title" : "Solvay lead Spanish Primera Divisi&oacute;n with Ivanchuk on board one"
+      },
+      {
          "description" : "How to use ChessBase&acute;26 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
          "pubDate" : "Sun, 9 Aug 2026 19:46:00",
          "title" : "112th British Chess Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133066076.cms\" />Delhi's Vanshika Rawat finished second in the girls' section of the National Under-11 Chess Championship in Mangaluru with nine points from 11 rounds. Kerala's Divi Bijesh won the title with 9.5 points, while Maharashtra's Prisha Gholap was third. In the open category, West Bengal's Sarbartho Mani topped the standings with 10.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
-         "pubDate" : "Sun, 09 Aug 2026 10:49:20",
-         "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
       }
    ]
 }
