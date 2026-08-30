@@ -2,36 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Klaudia Kulon impressed at the 11th Menchik Memorial in London, scoring 7&frac12; points in the 9-round event. She won six games and drew just three. Her performance rating for the tournament was 2463. She had already secured overall victory before the final round. Cecile Haussernot from France and Andreea-Marioara Cosman finished in second and third place, respectively. | Photo: European Chess Union (archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/menchik-memorial-2026-report",
+         "pubDate" : "Sun, 30 Aug 2026 19:45:00",
+         "title" : "Klaudia Kulon victorious at Menchik Memorial"
+      },
+      {
          "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
          "pubDate" : "Sun, 30 Aug 2026 16:05:00",
          "title" : "Sofia Cup 2026 - Games and results"
-      },
-      {
-         "description" : "Defeating Magnus Carlsen in any format remains one of the most difficult tasks in modern chess. For 15-year-old Vandan Alankar Sawai of Delhi, that milestone arrived on 18 August during the late Titled Tuesday. Paired with the white pieces against the former world champion in round two, Vandan kept pressing until, at one point, Magnus mouse-slipped, and after that Vandan gave him no chance to come back. Read the story of this talented boy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vandan-alankar-sawai-victory-carlsen-2026",
-         "pubDate" : "Sun, 30 Aug 2026 16:00:00",
-         "title" : "The 15-year-old who beat Magnus Carlsen in Titled Tuesday: Vandan Alankar Sawai"
-      },
-      {
-         "description" : "Club Ajedrez Solvay lead the Spanish \"Primera Divisi&oacute;n\" team championship with a perfect 6/6 match points after three rounds in Linares. Granada SIDN-C&iacute;vica-Nazar&iacute;es-Trevenque, Gros Xake Taldea and Andreu Paterna share second place on 4/6. With four rounds still to play, the race for the two promotion places to the \"Divisi&oacute;n de Honor\" remains open in the eight-team, round-robin event. | Photo: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-primera-divsion-2026-r3",
-         "pubDate" : "Sun, 30 Aug 2026 10:00:00",
-         "title" : "Solvay lead Spanish Primera Divisi&oacute;n with Ivanchuk on board one"
-      },
-      {
-         "description" : "How to use ChessBase&acute;26 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-29-creating-effective-training-material-part-3",
-         "pubDate" : "Sun, 30 Aug 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for beginners, part 29: Creating Effective Training Material (Part 3)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
@@ -58,14 +42,6 @@ news_feed (
          "title" : "Grand Chess Tour Finals 2026 - Games and results"
       },
       {
-         "description" : "The Nottingham 1936 tournament, played almost exactly 90 years ago, is regarded as one of the greatest tournaments in chess history. Five world champions took part. With many young players in the field, a changing of the guard was already beginning to take shape. And for the first time since their 1927 World Championship match, Alexander Alekhine and Jos&eacute; Ra&uacute;l Capablanca faced each other again. Alongside the games and a number of photographs, film footage from the event has also survived as a valuable historical record.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nottingham-1936-great-tournament",
-         "pubDate" : "Sat, 29 Aug 2026 18:00:00",
-         "title" : "Nottingham 1936 : One of the greatest tournaments in chess history"
-      },
-      {
          "description" : "Hanging a piece in a winning position. Playing a perfect game only to lose because of time trouble. There are so many ways that a game of chess can end painfully. So, we search for ways to make that pain go away, and never appear again. But that only leads to more pain, anxiety and []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -80,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fridrik-olafsson-memorial",
          "pubDate" : "Sat, 29 Aug 2026 11:00:00",
          "title" : "Fridrik Olafsson Memorial"
-      },
-      {
-         "description" : "IM Andrew Martin presents a complete 1.e4 repertoire for White in his new two-volume course, based on the Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4). The repertoire also covers the Two Knights Defence (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) and all relevant deviations by Black from the second or third move onwards. Jochen Schwarz, a club player from Bremen, is himself a keen gambit player and therefore firmly part of the target audience for this course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-evans-friends-andrew-martin",
-         "pubDate" : "Sat, 29 Aug 2026 07:00:00",
-         "title" : "Newly reviewed: Evans & Friends Vol.1 & 2 by Andrew Martin"
       },
       {
          "description" : "The 13th World Champion GM Garry Kasparov will face GM Veselin Topalov, the opponent who defeated him in the final rated classical game of his career, in a $144,000 Chess960 match in St. Louis. The two former world champions will play 12 games ov...",
