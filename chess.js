@@ -704,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-teenagers-bodhana-sivanandan-and-shreyas-royal-become-2026-british-chess-champions/articleshow/133097814.cms",
          "pubDate" : "Mon, 10 Aug 2026 11:03:06",
          "title" : "Indian-origin teenagers Bodhana, Shreyas become British chess champions"
-      },
-      {
-         "description" : " The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. The event delivered on its promise with 17-year-old Shreyas Royal earning his first title and Bodhana Sivanandan winning a tie-break match against Trisha Kanyamarala to win her first title at a record breaking 11-years-old, the women competed in the main championship and Bodhana's only loss was to the winner. It was only a few years ago that the British was a depressing run down affair making me wonder where all the juniors were, well they",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-         "pubDate" : "Sun, 9 Aug 2026 19:46:00",
-         "title" : "112th British Chess Championships 2026 - Games and Results"
       }
    ]
 }
