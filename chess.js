@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How to use ChessBase&acute;26 effectively in training - that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-29-creating-effective-training-material-part-3",
+         "pubDate" : "Sun, 30 Aug 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for beginners, part 29: Creating Effective Training Material (Part 3)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/italian-jobs-french-connections-and-berlin-walls-chesss-european-tour/articleshow/133622287.cms",
+         "pubDate" : "Sun, 30 Aug 2026 03:21:05",
+         "title" : "Italian jobs, French connections and Berlin walls: Chess's European tour"
+      },
+      {
+         "description" : "GM Hikaru Nakamura notched his 65th career Bullet Brawl title and 16th of 2026 on Saturday after finishing 23 points clear of the field, despite taking his &#34;foot off the gas&#34; at the end of the arena. Nakamura scored 51/65 and posted a score of 17...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
+         "pubDate" : "Sat, 29 Aug 2026 23:07:08",
+         "title" : "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title"
+      },
+      {
          "description" : " The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour were in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. In the semi-finals Praggnanandhaa beat Vincent Keymer comfortably, winning one of the two classical games and then both rapid games, Keymer won the blitz section but it didn't matter. Fabiano Caruana overcame Wesley So in a close ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-titled-tuesday-broadcast",
          "pubDate" : "Wed, 19 Aug 2026 10:00:00",
          "title" : "Titled Tuesday Broadcast Returns With GM Robert Hess As Main Host"
-      },
-      {
-         "description" : "As GM Magnus Carlsen celebrates another Esports World Cup title, attention is already turning to the road to next year&#39;s event. The Champions Chess Tour (CCT) 2026-2027 cycle remains the main road to the next Esports World Cup&#38;mdash;with a tweaked...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-champions-chess-tour-2026-2027",
-         "pubDate" : "Wed, 19 Aug 2026 09:00:00",
-         "title" : "Champions Chess Tour 2026-2027: Adjusted Format, Same Road To The Esports World Cup"
       },
       {
          "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
