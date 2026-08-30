@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
+         "pubDate" : "Sun, 30 Aug 2026 16:05:00",
+         "title" : "Sofia Cup 2026 - Games and results"
+      },
+      {
+         "description" : "Defeating Magnus Carlsen in any format remains one of the most difficult tasks in modern chess. For 15-year-old Vandan Alankar Sawai of Delhi, that milestone arrived on 18 August during the late Titled Tuesday. Paired with the white pieces against the former world champion in round two, Vandan kept pressing until, at one point, Magnus mouse-slipped, and after that Vandan gave him no chance to come back. Read the story of this talented boy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vandan-alankar-sawai-victory-carlsen-2026",
+         "pubDate" : "Sun, 30 Aug 2026 16:00:00",
+         "title" : "The 15-year-old who beat Magnus Carlsen in Titled Tuesday: Vandan Alankar Sawai"
+      },
+      {
          "description" : "Club Ajedrez Solvay lead the Spanish \"Primera Divisi&oacute;n\" team championship with a perfect 6/6 match points after three rounds in Linares. Granada SIDN-C&iacute;vica-Nazar&iacute;es-Trevenque, Gros Xake Taldea and Andreu Paterna share second place on 4/6. With four rounds still to play, the race for the two promotion places to the \"Divisi&oacute;n de Honor\" remains open in the eight-team, round-robin event. | Photo: Spanish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
-         "pubDate" : "Sat, 29 Aug 2026 23:07:08",
+         "pubDate" : "Sat, 29 Aug 2026 23:07:00",
          "title" : "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title"
       },
       {
