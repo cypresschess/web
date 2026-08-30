@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/delhis-vanshika-rawat-claims-silver-at-national-under-11-chess-championship/articleshow/133066076.cms",
          "pubDate" : "Sun, 09 Aug 2026 10:49:20",
          "title" : "Delhi's Vanshika Rawat claims silver at National Under-11 Chess C'ship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133061451.cms\" />Aarav Dengla traces the journeys of chess players caught between their game and the politics of their countries. From Viktor Korchnoi's defection from the Soviet Union to Alireza Firouzja's break with Iran and Ian Nepomniachtchi playing under the FIDE flag after opposing Russia's war, he explores how FIDE has stood between players and geopolitical upheavals, providing a neutral ground for those who could no longer compete under their national flags. For these stateless kings, the banner did not erase identity - it protected their freedom to play.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
-         "pubDate" : "Sun, 09 Aug 2026 02:21:07",
-         "title" : "The Stateless Kings: How Chess preserves an ideal in a fractured world"
       }
    ]
 }
