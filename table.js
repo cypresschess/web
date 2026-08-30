@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-08-29","12","<a href=https://ratings.uschess.org/event/202608290183 target='_blank'>chesspanda08292026saturday</a>",
 "SPRING","2026-08-28","27","<a href=https://ratings.uschess.org/event/202608280323 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-28","20","<a href=https://ratings.uschess.org/event/202608280243 target='_blank'>FBCC 2026 Back to School Open</a>",
 "CYPRESS","2026-08-28","37","<a href=https://ratings.uschess.org/event/202608280193 target='_blank'>Knights of Cypress</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
 "HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
 "HOUSTON","2026-06-06","38","<a href=https://ratings.uschess.org/event/202606061253 target='_blank'>TEXAS STATE CHESS TRIATHLON 2026</a>",
-"HOUSTON","2026-06-06","6","<a href=https://ratings.uschess.org/event/202606060203 target='_blank'>chesspanda06062026saturday</a>",
 ]);
