@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Pranesh Munirethinam won Group A (2200+) of the 2026 Kanizsa Open with 7 points from 9 games. In the final round, Pranesh obtained a full point in his game against IM Vadym Petrovskiy. IM Or Bronstein, GM Andrei Volokitin and GM Karthik Venkataraman finished on the same score and took second to fourth places respectively on tiebreaks. Top seed Matthias Bluebaum could only manage 21st place. The 16-year-old German junior Mykola Korchynskyi finished ten places ahead of the Candidates Tournament participant. | | Photo: Tushar Damor / Chennai Grand Masters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kanisza-open-2026-report",
+         "pubDate" : "Mon, 31 Aug 2026 17:50:00",
+         "title" : "Pranesh M wins Kanizsa Open"
+      },
+      {
          "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-is-no-1-in-the-world-viswanathan-anand-after-indias-first-grand-chess-tour-title-exclusive/articleshow/133639519.cms",
          "pubDate" : "Mon, 31 Aug 2026 01:51:48",
          "title" : "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
+      },
+      {
+         "description" : "The annual U.S. Open produces more than just exciting chess. The Delegates meet to tweak, create, and massage our rulebook. This year had only one major rules upgrade, but it was indeed major. In fact, it covered an entire chapter. The old correspondence chess rules (chapter 9) were overhauled to meet the needs of our correspondence chess community. But other motions were passed that can impact the rulebook in years to come, and several more attempts to shake things up failed to pass muster. Read on! But first&hellip;Egg on my face: An earlier column outlined a minor, but important, inconsistency between the online and printed versions of rule 21L1. One version dictated a time limit of seven",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-highlighted-rulebook-updates-2026-delegates-meeting",
+         "pubDate" : "Mon, 31 Aug 2026 00:00:00",
+         "title" : "Just the Rules: Highlighted Rulebook Updates From 2026 Delegates Meeting"
       },
       {
          "description" : "Klaudia Kulon impressed at the 11th Menchik Memorial in London, scoring 7&frac12; points in the 9-round event. She won six games and drew just three. Her performance rating for the tournament was 2463. She had already secured overall victory before the final round. Cecile Haussernot from France and Andreea-Marioara Cosman finished in second and third place, respectively. | Photo: European Chess Union (archive)",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/meet-me-st-louis-root-senior-womens-pt-2",
          "pubDate" : "Mon, 17 Aug 2026 00:00:00",
          "title" : "Meet Me in St. Louis: Root on Senior Women's, Pt. 2"
-      },
-      {
-         "description" : "This article has been updated to reflect the deadline extension. The new deadline is September 7 at 5:00 p.m. CDT. 2026-2027 US Chess Women Grant Cycle AnnouncementUS Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Projects must be organized by educational non-profits (501c3), public schools, and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2026 through July 31, 2027. The",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-2027-women-and-girls-programming-grant-cycle-officially-open",
-         "pubDate" : "Mon, 17 Aug 2026 00:00:00",
-         "title" : "2026-2027 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
