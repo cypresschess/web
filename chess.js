@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Green Hills Resort Masters took place in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid and 7th in the bl",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
+         "pubDate" : "Mon, 31 Aug 2026 11:00:00",
+         "title" : "Green Hills Resort Masters 2026 - Games and results"
+      },
+      {
+         "description" : "New flagship club competition to crown Europe's finest chess team, with a guaranteed prize fund of €300,000 - Bucharest, Romania, 2-10 February 2027 The European Chess Union (ECU) is proud to announce the creation of the European Chess Superleague, a groundbreaking new flagship club competition that will bring together the finest chess teams on the continent. The inaugural edition will be held in Bucharest, Romania, from 2 to 10 February 2027, in partnership with Super Foundation (Romania) as the host []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-launches-inaugural-european-chess-superleague/",
+         "pubDate" : "Mon, 31 Aug 2026 07:57:42",
+         "title" : "European Chess Union Launches Inaugural European Chess Superleague"
+      },
+      {
          "description" : "Garry Kasparov and Veselin Topalov will meet in Saint Louis from 11 to 13 September for Clutch Chess: The Legends. The two former members of the sport's elite will contest a 12-game chess960 match, with the value of wins increasing on each successive day. The encounter follows Kasparov's 2025 victory over Viswanathan Anand and revisits a rivalry that also featured a chess960 match in Saint Louis in 2018.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
