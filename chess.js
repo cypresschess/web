@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov and Veselin Topalov will meet in Saint Louis from 11 to 13 September for Clutch Chess: The Legends. The two former members of the sport's elite will contest a 12-game chess960 match, with the value of wins increasing on each successive day. The encounter follows Kasparov's 2025 victory over Viswanathan Anand and revisits a rivalry that also featured a chess960 match in Saint Louis in 2018.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-announcement",
+         "pubDate" : "Mon, 31 Aug 2026 07:30:00",
+         "title" : "Clutch Chess: Kasparov to face Topalov in 12-game chess960 match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133640810.cms\" />Former World Champ Anand Reflects On How The Sport Can Learn To Attract Major Sponsors And Pragg's Incredible Form",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-want-chess-to-mirror-crickets-commercial-pull-viswanathan-anand/articleshow/133640810.cms",
+         "pubDate" : "Mon, 31 Aug 2026 03:43:52",
+         "title" : "'I want chess to mirror cricket's commercial pull': Viswanathan Anand"
+      },
+      {
          "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
          "pubDate" : "Tue, 11 Aug 2026 11:44:02",
          "title" : "European Junior U20 Chess Championship 2026 is halfway through"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133097814.cms\" />Indian-origin chess prodigies Bodhana Sivanandan, 11, and Shreyas Royal, 17, won the women's and open titles at the 2026 British Chess Championships. Bodhana became the youngest British women's champion, while Royal secured his first open title. Both have risen rapidly in chess, with Bodhana earning multiple honours and Royal becoming England's youngest grandmaster at 15.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-teenagers-bodhana-sivanandan-and-shreyas-royal-become-2026-british-chess-champions/articleshow/133097814.cms",
-         "pubDate" : "Mon, 10 Aug 2026 11:03:06",
-         "title" : "Indian-origin teenagers Bodhana, Shreyas become British chess champions"
       }
    ]
 }
