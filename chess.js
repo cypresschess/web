@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The Green Hills Resort Masters took place in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid and 7th in the bl",
+         "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
          "pubDate" : "Mon, 31 Aug 2026 11:00:00",
          "title" : "Green Hills Resort Masters 2026 - Games and results"
+      },
+      {
+         "description" : "Hehehehehehehehe! Is it your dream coming true, or is it your worst nightmare? You can now get coached by the most formidable and cutest chess-playing entity in the world: Mittens! Along with the god-like chess-playing kitten, you can also get coa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-mittens-and-other-coaches",
+         "pubDate" : "Mon, 31 Aug 2026 08:00:00",
+         "title" : "Get Coached By The Almighty Mittens And Other New Coaches On Chess.com"
       },
       {
          "description" : "New flagship club competition to crown Europe's finest chess team, with a guaranteed prize fund of €300,000 - Bucharest, Romania, 2-10 February 2027 The European Chess Union (ECU) is proud to announce the creation of the European Chess Superleague, a groundbreaking new flagship club competition that will bring together the finest chess teams on the continent. The inaugural edition will be held in Bucharest, Romania, from 2 to 10 February 2027, in partnership with Super Foundation (Romania) as the host []",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
          "pubDate" : "Sun, 30 Aug 2026 16:05:00",
          "title" : "Sofia Cup 2026 - Games and results"
+      },
+      {
+         "description" : "Defeating Magnus Carlsen in any format remains one of the most difficult tasks in modern chess. For 15-year-old Vandan Alankar Sawai of Delhi, that milestone arrived on 18 August during the late Titled Tuesday. Paired with the white pieces against the former world champion in round two, Vandan kept pressing until, at one point, Magnus mouse-slipped, and after that Vandan gave him no chance to come back. Read the story of this talented boy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vandan-alankar-sawai-victory-carlsen-2026",
+         "pubDate" : "Sun, 30 Aug 2026 16:00:00",
+         "title" : "The 15-year-old who beat Magnus Carlsen in Titled Tuesday: Vandan Alankar Sawai"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
          "pubDate" : "Wed, 19 Aug 2026 12:24:48",
          "title" : "The 11th Menchik Memorial is underway!"
-      },
-      {
-         "description" : "Fans now have a reason to tune in to their favorite streaming platform every Tuesday. Titled Tuesday (TT) broadcasts are back, hosted by the one and only GM Robert Hess! Shows start weekly at 11 a.m. ET / 17:00 CEST / 8:30 p.m. IST on our Twitch a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-titled-tuesday-broadcast",
-         "pubDate" : "Wed, 19 Aug 2026 10:00:00",
-         "title" : "Titled Tuesday Broadcast Returns With GM Robert Hess As Main Host"
       },
       {
          "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
