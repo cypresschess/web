@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura will face Ferrari Formula One driver Charles Leclerc in a strategy-game challenge in Monza on 1 September, ahead of the Italian Grand Prix. The pair will compete at Se!ze, a chess-inspired game developed with Leclerc's involvement. The event adds another chapter to the Mon&eacute;gasque driver's documented interest in chess, following earlier encounters involving Carlos Sainz and GM Teimour Radjabov. | Photo: Chivas Regal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-leclerc-seize-challenge-monza",
+         "pubDate" : "Mon, 31 Aug 2026 23:45:00",
+         "title" : "Hikaru Nakamura to face Formula One star Charles Leclerc in strategy-game challenge"
+      },
+      {
          "description" : "GM Pranesh Munirethinam won Group A (2200+) of the 2026 Kanizsa Open with 7 points from 9 games. In the final round, Pranesh obtained a full point in his game against IM Vadym Petrovskiy. IM Or Bronstein, GM Andrei Volokitin and GM Karthik Venkataraman finished on the same score and took second to fourth places respectively on tiebreaks. Top seed Matthias Bluebaum could only manage 21st place. The 16-year-old German junior Mykola Korchynskyi finished ten places ahead of the Candidates Tournament participant. | | Photo: Tushar Damor / Chennai Grand Masters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kanisza-open-2026-report",
          "pubDate" : "Mon, 31 Aug 2026 17:50:00",
          "title" : "Pranesh M wins Kanizsa Open"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/september-2026-fide-rating-list",
+         "pubDate" : "Mon, 31 Aug 2026 12:48:00",
+         "title" : "Praggnanandhaa Indian No. 1 On September FIDE Rating List"
       },
       {
          "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
          "pubDate" : "Wed, 19 Aug 2026 18:50:00",
          "title" : "Sinquefield Cup Tiebreaks - Live!"
-      },
-      {
-         "description" : "GM Wesley So won his third title and $87,500 at the 2026 Sinquefield Cup on Wednesday. After all the classical games ended in draws, he and GM Praggnanandhaa Rameshbabu contested the champion&#39;s title in rapid playoffs. The two rapid games ended in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-tan-win-2026-sinquefield-cairns-cup",
-         "pubDate" : "Wed, 19 Aug 2026 15:29:00",
-         "title" : "Wesley So Wins 3rd Sinquefield Cup; Tan Zhongyi Claims 2nd Cairns Cup"
       },
       {
          "description" : "The English Chess Federation is pleased to host the 11th Menchik Memorial Tournament, which will take place from Monday 24th to Sunday 30th August 2026 at the ILEC Conference Centre....",
