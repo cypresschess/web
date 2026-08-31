@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-08-30","17","<a href=https://ratings.uschess.org/event/202608300253 target='_blank'>Bellaire Sunday Swiss 2026.08.30</a>",
+"HOUSTON","2026-08-29","128","<a href=https://ratings.uschess.org/event/202608290883 target='_blank'>SBSC Back to School 2026</a>",
+"HOUSTON","2026-08-29","16","<a href=https://ratings.uschess.org/event/202608290843 target='_blank'>August 29 The Alan Rodenstein Open</a>",
 "HOUSTON","2026-08-29","12","<a href=https://ratings.uschess.org/event/202608290183 target='_blank'>chesspanda08292026saturday</a>",
 "SPRING","2026-08-28","27","<a href=https://ratings.uschess.org/event/202608280323 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-28","20","<a href=https://ratings.uschess.org/event/202608280243 target='_blank'>FBCC 2026 Back to School Open</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2026-06-12","22","<a href=https://ratings.uschess.org/event/202606120253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-06-12","20","<a href=https://ratings.uschess.org/event/202606120193 target='_blank'>FBCC 2026 National Superman Day Ope</a>",
 "SPRING","2026-06-12","36","<a href=https://ratings.uschess.org/event/202606120083 target='_blank'>2026 Kings & Queens Chess Camp</a>",
-"HOUSTON","2026-06-07","16","<a href=https://ratings.uschess.org/event/202606070353 target='_blank'>Bellaire Sunday Swiss 2026.06.07</a>",
-"HOUSTON","2026-06-07","8","<a href=https://ratings.uschess.org/event/202606070273 target='_blank'>2026 Houston Circuit T6 by AzChAcad</a>",
-"HOUSTON","2026-06-06","38","<a href=https://ratings.uschess.org/event/202606061253 target='_blank'>TEXAS STATE CHESS TRIATHLON 2026</a>",
 ]);
