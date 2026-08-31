@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-3",
+         "pubDate" : "Mon, 31 Aug 2026 02:00:00",
+         "title" : "Can you solve these positions from the Chola Chess camp? - Third edition"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133639519.cms\" />Praggnanandhaa has completed a remarkable comeback after his disappointing 2026 Candidates campaign, winning the Grand Chess Tour Finals in St Louis by beating Fabiano Caruana 15-13. He became the first Indian to win the title. Five-time world champion Viswanathan Anand praised his resilience and said, \"I think at the moment, I would say he's the number one player in the world.\"",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-is-no-1-in-the-world-viswanathan-anand-after-indias-first-grand-chess-tour-title-exclusive/articleshow/133639519.cms",
+         "pubDate" : "Mon, 31 Aug 2026 01:51:48",
+         "title" : "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
+      },
+      {
          "description" : "Klaudia Kulon impressed at the 11th Menchik Memorial in London, scoring 7&frac12; points in the 9-round event. She won six games and drew just three. Her performance rating for the tournament was 2463. She had already secured overall victory before the final round. Cecile Haussernot from France and Andreea-Marioara Cosman finished in second and third place, respectively. | Photo: European Chess Union (archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
