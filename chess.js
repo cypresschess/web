@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniel King's 'Power Play' series is one of ChessBase's most popular FritzTrainer course collections. Between 2007 and 2020, an impressive 28 volumes were published in the series, covering not only general topics such as tactics, attacking play and endgames, but also opening repertoires for both Black and White. Jochen Schwarz, a club player from Bremen, has known and valued the Power Play courses for many years and provides an overview of the individual volumes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-power-play-series-review-2026",
+         "pubDate" : "Tue, 01 Sep 2026 15:30:00",
+         "title" : "Freshly reviewed: Daniel King's Power Play series"
+      },
+      {
+         "description" : "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
+         "pubDate" : "Tue, 01 Sep 2026 15:00:00",
+         "title" : "ChessBase Summer-Special! - Part 9"
+      },
+      {
+         "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/help-strengthen-the-ecfs-it-team/",
+         "pubDate" : "Tue, 01 Sep 2026 13:06:32",
+         "title" : "Help strengthen the ECF's IT team"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its fourth season, bringing the world's biggest chess stars to Bengaluru from September 5-13, 2026. With six power-packed franchises, fresh team combinations, exciting debutants and fierce rivalries, here's a complete look at every squad, their strengths and what makes this season the most anticipated yet. | Pictured: Vishy Anand with Anand Mahindra, Chairman of the Mahindra Group",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r5",
          "pubDate" : "Tue, 01 Sep 2026 09:00:00",
          "title" : "European Senior Team Championship: English teams tied for first place in both sections"
+      },
+      {
+         "description" : "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
+         "pubDate" : "Tue, 01 Sep 2026 07:49:07",
+         "title" : "SaVaToP1gG Wins Gambit Cup, Tops Field Of 1,454 Players"
       },
       {
          "description" : "The European Senior Team Chess Championship 2026 is underway from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, Crete, Greece. The event reached its halfway mark following the completion of five rounds. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. In the 50+ section, the top []",
@@ -568,14 +600,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
          "pubDate" : "Thu, 20 Aug 2026 10:28:41",
          "title" : "It's Leonard Barden's birthday!"
-      },
-      {
-         "description" : "Chess.com will host the first debate of the 2026 FIDE presidential election on September 9, bringing together all three candidates&#38;mdash;Jan Henric Buettner, Timur Turlov, and Wadim Rosenstein&#38;mdash;to discuss their visions for the future of inter...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-presidential-debate-2026-buettner-rosenstein-turlov",
-         "pubDate" : "Thu, 20 Aug 2026 08:08:00",
-         "title" : "Chess.com To Host Live FIDE Presidential Debate With Buettner, Rosenstein, Turlov"
       },
       {
          "description" : " The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took first place from Praggnanandhaa after winning a tie-break match. The players scored 5.5/9 to share first place and then drew two 10 minutes plus 5 seconds a move rapid game, a final Armageddon game was required, Wesley had the black pieces and draw odds, the game finished at King vs King and thus so had the draw he needed.",
