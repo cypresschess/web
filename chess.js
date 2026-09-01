@@ -15,7 +15,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
          "pubDate" : "Tue, 01 Sep 2026 15:00:00",
-         "title" : "ChessBase Summer-Special! - Part 9"
+         "title" : "ChessBase Summer Special! - Part 9"
       },
       {
          "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
@@ -34,12 +34,28 @@ news_feed (
          "title" : "Starting Saturday in Bengaluru: Global Chess League with Carlsen, Sindarov and Anand in the mix"
       },
       {
+         "description" : "GM Pouya Idani, until now Iran&#38;rsquo;s third-highest-rated player, has officially transferred to France three years after moving to Brest with his wife. The 30-year-old joins GM Alireza Firouzja and WGM Mitra Hejazipour among the prominent Iranian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
+         "pubDate" : "Tue, 01 Sep 2026 09:19:00",
+         "title" : "Iranian GM Idani Switches To France: 'I Felt Forced Into It'"
+      },
+      {
          "description" : "England 1 and Italy share the lead in the 50+ section of the European Senior Team Championships after five rounds in Crete, while Slovenia and England 1 are level at the top of the 65+ event. The leading teams have taken different routes to their positions, with England and Italy unbeaten in the younger category and Slovenia having already defeated their main rivals in the 65+ competition. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r5",
          "pubDate" : "Tue, 01 Sep 2026 09:00:00",
          "title" : "European Senior Team Championship: English teams tied for first place in both sections"
+      },
+      {
+         "description" : "This September, step onto the stage with five questionable musicians who are ready to put your chess skills and patience to the test. The chessboards are set. Bring earplugs and take your seat. 🏆 Beat the Band Class Bots throughout September to c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/september-2026-chess-bots",
+         "pubDate" : "Tue, 01 Sep 2026 08:21:02",
+         "title" : "Welcome to the Worst Band Class Ever 🎻"
       },
       {
          "description" : "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points...",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-went-according-to-my-plans-k-humpy-opens-up-ahead-of-olympiad-title-defence/articleshow/133667671.cms",
          "pubDate" : "Tue, 01 Sep 2026 04:07:50",
          "title" : "'Nothing went according to my plans': K Humpy opens up ahead of Olympiad title defence"
+      },
+      {
+         "description" : "Check is in the MailThe King's Gambit Declined is a chess opening that arises after 1. e4 e5 2. f4, when Black chooses not to accept White's pawn sacrifice. Instead of playing 2. ... exf4, Black often develops actively with moves such as 2. ... Bc5 or strikes back in the center with 2. ... d5. By declining the gambit, Black avoids some of the sharpest attacking lines of the King's Gambit Accepted while aiming for sound development, central control, and pressure against White's slightly weakened king position.The most common way to decline the gambit is the Classical Defense, 2. ... Bc5, where Black develops the bishop to an active diagonal and helps prevent White from easily playing d2-d4. I",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-september2026-enduring-kings-gambit",
+         "pubDate" : "Tue, 01 Sep 2026 00:00:00",
+         "title" : "Check is in the Mail September2026: Enduring the King('s Gambit)"
       },
       {
          "description" : "Hikaru Nakamura will face Ferrari Formula One driver Charles Leclerc in a strategy-game challenge in Monza on 1 September, ahead of the Italian Grand Prix. The pair will compete at Se!ze, a chess-inspired game developed with Leclerc's involvement. The event adds another chapter to the Mon&eacute;gasque driver's documented interest in chess, following earlier encounters involving Carlos Sainz and GM Teimour Radjabov. | Photo: Chivas Regal",
@@ -578,22 +602,6 @@ news_feed (
          "title" : "European Chess Union Board Convenes Following 2026 General Assembly Elections"
       },
       {
-         "description" : "GM Magnus Carlsen made it back-to-back victories as he claimed the $250,000 top prize in the 2026 Esports World Cup in Paris. We take a look back at an event that also featured brilliant performances by teenage stars GMs Denis Lazavik and Sina Mov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-esports-world-cup-7-conclusions",
-         "pubDate" : "Fri, 21 Aug 2026 05:36:00",
-         "title" : "Carlsen Wins 2026 Esports World Cup: 7 Conclusions"
-      },
-      {
-         "description" : "Former Barcelona and Spain star Gerard Pique has become a strategic shareholder in Global Chess League franchise FYERS American Gambits, adding to a chess portfolio that already includes an investment in Freestyle Chess. Pique is revealed as the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gerard-pique-american-gambits-chess-investment",
-         "pubDate" : "Fri, 21 Aug 2026 00:28:00",
-         "title" : "Barcelona Legend Gerard Pique Doubles Down On Chess With American Gambits Investment"
-      },
-      {
          "description" : "The ECF wishes Leonard Barden a very happy 97th birthday today! Leonard is the Guardian's chess columnist, and holds the Guinness World Record for the longest-running continuous chess column, which...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2026-2027-scholastic-regulations",
          "pubDate" : "Mon, 17 Aug 2026 00:00:00",
          "title" : "2026-2027 Scholastic Regulations"
-      },
-      {
-         "description" : "Meet Me In St. Louis: The U.S. Senior Women's Championship's Second HalfFrom July 12 (arrival day) to July 25 (departure day), the Saint Louis Chess Club (SLCC) hosted the 2026 U.S. Senior Women's Championship alongside the U.S. Junior, Girls' Junior, and Senior Championships for the first time in the event's four-year history. I wrote about my experience in the first half of the event here, and I wanted to share my report from the final rounds, starting with the game that's still keeping me up at night. Any place but there In its Tactics Tuesdays and Wednesday Workouts about the July championships at SLCC, Chess Life Online (CLO) featured more puzzles taken from my games than from any other",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/meet-me-st-louis-root-senior-womens-pt-2",
-         "pubDate" : "Mon, 17 Aug 2026 00:00:00",
-         "title" : "Meet Me in St. Louis: Root on Senior Women's, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
