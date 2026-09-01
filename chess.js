@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "England 1 and Italy share the lead in the 50+ section of the European Senior Team Championships after five rounds in Crete, while Slovenia and England 1 are level at the top of the 65+ event. The leading teams have taken different routes to their positions, with England and Italy unbeaten in the younger category and Slovenia having already defeated their main rivals in the 65+ competition. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r5",
+         "pubDate" : "Tue, 01 Sep 2026 09:00:00",
+         "title" : "European Senior Team Championship: English teams tied for first place in both sections"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2026 is underway from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, Crete, Greece. The event reached its halfway mark following the completion of five rounds. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. In the 50+ section, the top []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-reaches-midway-point/",
+         "pubDate" : "Tue, 01 Sep 2026 06:40:15",
+         "title" : "European Senior Team Chess Championship 2026 reaches midway point"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133667671.cms\" />India's top chess player K Humpy is uncertain about her board assignment for the Olympiad. She recently experienced a disappointing performance in Norway after a long break. Humpy withdrew from a tournament due to security concerns and felt disturbed. She is now focused on regaining her good form and shape. The team is preparing to defend their gold medal in Uzbekistan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-went-according-to-my-plans-k-humpy-opens-up-ahead-of-olympiad-title-defence/articleshow/133667671.cms",
+         "pubDate" : "Tue, 01 Sep 2026 04:07:50",
+         "title" : "'Nothing went according to my plans': K Humpy opens up ahead of Olympiad title defence"
+      },
+      {
          "description" : "Hikaru Nakamura will face Ferrari Formula One driver Charles Leclerc in a strategy-game challenge in Monza on 1 September, ahead of the Italian Grand Prix. The pair will compete at Se!ze, a chess-inspired game developed with Leclerc's involvement. The event adds another chapter to the Mon&eacute;gasque driver's documented interest in chess, following earlier encounters involving Carlos Sainz and GM Teimour Radjabov. | Photo: Chivas Regal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,22 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
          "pubDate" : "Wed, 12 Aug 2026 09:35:05",
          "title" : "The 2026 British Chess Championships conclude in Coventry"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133171475.cms\" />At the Sinquefield Cup, Indian Grandmaster R Praggnanandhaa has emerged as a frontrunner after a pivotal win against Javokhir Sindarov in an intense match. This triumph is a significant addition to his success, having recently clinched the Grand Chess Tour St Louis Rapid and Blitz title. Meanwhile, Indian competitors encountered obstacles at the Cairns Cup, with Vaishali, Deshmukh, and Humpy struggling in their second rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-world-championship-challenger-sindarov-to-share-sinquefield-cup-lead/articleshow/133171475.cms",
-         "pubDate" : "Wed, 12 Aug 2026 05:21:38",
-         "title" : "Praggnanandhaa beats Sindarov to share Sinquefield Cup lead"
-      },
-      {
-         "description" : "The European Junior U20 Chess Championship 2026 has passed its midpoint following five tense rounds at the Hotel Grand in Cetinje, Montenegro! Organized by the Montenegro Chess Federation under the auspices of the European Chess Union (ECU), the 9-round Swiss tournament brings together 116 of Europe's top young talents representing 38 national federations. Players are competing not only for a total prize fund of €15,000, but also for direct FIDE titles, norms, and qualification spots for the 2027 FIDE World []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-junior-u20-chess-championship-2026-is-halfway-through/",
-         "pubDate" : "Tue, 11 Aug 2026 11:44:02",
-         "title" : "European Junior U20 Chess Championship 2026 is halfway through"
       }
    ]
 }
