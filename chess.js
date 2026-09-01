@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-september-2026",
+         "pubDate" : "Tue, 01 Sep 2026 22:00:00",
+         "title" : "FIDE ratings - September 2026"
+      },
+      {
          "description" : "Daniel King's 'Power Play' series is one of ChessBase's most popular FritzTrainer course collections. Between 2007 and 2020, an impressive 28 volumes were published in the series, covering not only general topics such as tactics, attacking play and endgames, but also opening repertoires for both Black and White. Jochen Schwarz, a club player from Bremen, has known and valued the Power Play courses for many years and provides an overview of the individual volumes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
          "pubDate" : "Tue, 01 Sep 2026 15:00:00",
          "title" : "ChessBase Summer Special! - Part 9"
+      },
+      {
+         "description" : "GM Hans Niemann stole the show in September 1&#39;s Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
+         "pubDate" : "Tue, 01 Sep 2026 13:47:00",
+         "title" : "Niemann Wins Thrilling Titled Tuesday In Broadcast Return"
       },
       {
          "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-went-according-to-my-plans-k-humpy-opens-up-ahead-of-olympiad-title-defence/articleshow/133667671.cms",
          "pubDate" : "Tue, 01 Sep 2026 04:07:50",
          "title" : "'Nothing went according to my plans': K Humpy opens up ahead of Olympiad title defence"
+      },
+      {
+         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-2",
+         "pubDate" : "Tue, 01 Sep 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 2"
       },
       {
          "description" : "Check is in the MailThe King's Gambit Declined is a chess opening that arises after 1. e4 e5 2. f4, when Black chooses not to accept White's pawn sacrifice. Instead of playing 2. ... exf4, Black often develops actively with moves such as 2. ... Bc5 or strikes back in the center with 2. ... d5. By declining the gambit, Black avoids some of the sharpest attacking lines of the King's Gambit Accepted while aiming for sound development, central control, and pressure against White's slightly weakened king position.The most common way to decline the gambit is the Classical Defense, 2. ... Bc5, where Black develops the bishop to an active diagonal and helps prevent White from easily playing d2-d4. I",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Asian Junior Chess: Guru Prakash, Manav Kumar register major upset wins"
       },
       {
-         "description" : "GM Vladimir Kramnik has taken New In Chess magazine to court over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky and examined the impact of his public comments on GM David Navara and others.&#38;nbsp; A hearin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vladimir-kramnik-sues-new-in-chess-naroditsky-article",
-         "pubDate" : "Fri, 21 Aug 2026 10:42:21",
-         "title" : "Kramnik Takes New In Chess To Court Over Naroditsky Article"
-      },
-      {
          "description" : " Norway's world No 1 outclassed the field and won the $250,000 first prize at the four-day event in France Magnus Carlsen, Norway's world No 1, triumphed again last weekend when he won the 2026 Esports World Cup, staged over four days at the prestigious venue of the Paris Expo Porte de Versailles. Carlsen retained his title from Riyadh 2025 and took home a monster first prize of $250,000 (&pound;183,000). The time limit was close to blitz, 10 minutes each per player with no per move increment, a format where blunders would be hoped for, and were indeed made, as entertainment for the capacity audience. <a href=\"https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-wo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : "The Scholastic Council and the Executive Board have approved the 2026-2027 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include:Section 5.2.1 revises the definition of a school and various types of school organizations such as a public school district, private school, and charter school to clarify eligibility criteria for teams in Section 5.3.Section 4.3 introduces new language on Section Eligibility for players who scored 6.0 or better in an Under section of the previous year's Spring Nationals. What's new is that a 6.0 or better score in a Spring Nationals during the current school year can affect a player's section eligi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-2027-scholastic-regulations",
-         "pubDate" : "Mon, 17 Aug 2026 00:00:00",
-         "title" : "2026-2027 Scholastic Regulations"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
