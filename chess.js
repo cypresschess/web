@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its fourth season, bringing the world's biggest chess stars to Bengaluru from September 5-13, 2026. With six power-packed franchises, fresh team combinations, exciting debutants and fierce rivalries, here's a complete look at every squad, their strengths and what makes this season the most anticipated yet. | Pictured: Vishy Anand with Anand Mahindra, Chairman of the Mahindra Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-preview",
+         "pubDate" : "Tue, 01 Sep 2026 13:00:00",
+         "title" : "Starting Saturday in Bengaluru: Global Chess League with Carlsen, Sindarov and Anand in the mix"
+      },
+      {
          "description" : "England 1 and Italy share the lead in the 50+ section of the European Senior Team Championships after five rounds in Crete, while Slovenia and England 1 are level at the top of the 65+ event. The leading teams have taken different routes to their positions, with England and Italy unbeaten in the younger category and Slovenia having already defeated their main rivals in the 65+ competition. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
