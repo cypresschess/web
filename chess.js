@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tirol Open 2026 featured eight days of high-level chess in Innsbruck. In the A Open, GM Harshit Raja successfully defended his title from the previous year, albeit only on tiebreaks ahead of FM Tobias Kolb, who finished level on points with the two-time champion. Philipp Schlosser, Timur Kocharin and Cedric Chassard ensured that three more German players finished in the top ten of the 57-player field.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tirol-open-2026-report",
+         "pubDate" : "Wed, 02 Sep 2026 22:00:00",
+         "title" : "Harshit Raja defends title at Tirol Open in Innsbruck"
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&#38;n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-state-of-chess-september",
+         "pubDate" : "Wed, 02 Sep 2026 14:44:28",
+         "title" : "State of Chess: 'Grandmasters,' Gambit & Classic Games, Titled Tuesday Updates, & More"
+      },
+      {
          "description" : "The year 1926 was a major one for chess tournaments. Among the many outstanding events was the anniversary tournament of the Hannover Chess Club, which had already enjoyed a remarkable history and was now celebrating its 50th anniversary. The battle for first place developed into a close contest between the two favourites, Aron Nimzowitsch (pictured) and Akiba Rubinstein, with Nimzowitsch ultimately prevailing. Friedrich S&auml;misch proved to be the decisive factor.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/anniversary-tournament-1926-hannover",
          "pubDate" : "Wed, 02 Sep 2026 14:00:00",
          "title" : "The 1926 anniversary tournament in Hannover"
+      },
+      {
+         "description" : "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
+         "pubDate" : "Wed, 02 Sep 2026 13:30:34",
+         "title" : "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal"
       },
       {
          "description" : "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Ant&oacute;n, Jos&eacute; Mart&iacute;nez, Ivan Sokolov, Diego Flores and Jos&eacute; \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-diplomacy-quite-literally-aicf-chief-on-pm-modi-gifting-javokhir-sindarovs-world-cup-scoresheet-to-uzbek-prez/articleshow/133696025.cms",
          "pubDate" : "Wed, 02 Sep 2026 03:09:17",
          "title" : "'Chess diplomacy': AICF chief on PM Modi gifting Sindarov's WC scoresheet to Uzbek prez"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 7 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 8 at 8 a.m. CDT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-7-labor-day",
+         "pubDate" : "Wed, 02 Sep 2026 00:00:00",
+         "title" : "US Chess Offices Closed Monday, September 7, for Labor Day"
       },
       {
          "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Contrasting Wins For Pragg And Caruana"
       },
       {
-         "description" : "Four-time Estonian Women&#39;s Champion IM Mai Narva won both the rapid and blitz segments of the WR Women&#39;s Chess Tour - Africa 2026 that took place in Maputo, Mozambique this weekend. She pulled off an upset to defeat women&#39;s world number-four GM Zh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/narva-zhu-2026-wr-womens-chess-tour-africa",
-         "pubDate" : "Sun, 23 Aug 2026 12:17:00",
-         "title" : "Narva Beats Zhu Twice To Dominate WR Women's Chess Tour Africa"
-      },
-      {
          "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/before-ai-there-was-the-mechanical-turk-the-chess-machine-that-wasnt/articleshow/133436010.cms",
          "pubDate" : "Sun, 23 Aug 2026 07:15:31",
          "title" : "Before AI, there was the Mechanical Turk: The chess machine that wasn't"
-      },
-      {
-         "description" : "A high-voltage Gen Z clash between GMs Vincent Keymer and Praggnanandhaa Rameshbabu, where both sides achieved a big advantage before it ended in a draw, was the highlight of an eventful first day of classical chess in the 2026 Grand Chess Tour Fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-1",
-         "pubDate" : "Sun, 23 Aug 2026 01:37:00",
-         "title" : "Fighting Draws As Grand Chess Tour Finals Begin In St. Louis"
       },
       {
          "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
          "pubDate" : "Wed, 19 Aug 2026 07:22:09",
          "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
-      },
-      {
-         "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-1",
-         "pubDate" : "Wed, 19 Aug 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
