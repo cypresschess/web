@@ -10,7 +10,7 @@ news_feed (
          "title" : "Faustino Oro returns for Legends & Prodigies in Madrid"
       },
       {
-         "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, and marks the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There []",
+         "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/high-level-tournaments-in-london-22-29-august/",
          "pubDate" : "Wed, 12 Aug 2026 12:36:40",
          "title" : "High Level Tournaments in London (22-29 August)"
-      },
-      {
-         "description" : "The 2026 British Chess Championships have come to a close!&#160;After nine unforgettable days of outstanding chess, dramatic finishes and exceptional performances at the University of Warwick, we have crowned our...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-2026-british-chess-championships-conclude-in-coventry/",
-         "pubDate" : "Wed, 12 Aug 2026 09:35:05",
-         "title" : "The 2026 British Chess Championships conclude in Coventry"
       }
    ]
 }
