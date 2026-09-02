@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Ant&oacute;n, Jos&eacute; Mart&iacute;nez, Ivan Sokolov, Diego Flores and Jos&eacute; \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2026-preview",
+         "pubDate" : "Wed, 02 Sep 2026 09:00:00",
+         "title" : "Faustino Oro returns for Legends & Prodigies in Madrid"
+      },
+      {
+         "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, and marks the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
+         "pubDate" : "Wed, 02 Sep 2026 07:24:37",
+         "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
+      },
+      {
+         "description" : "FIDE and World Chess have submitted an application to ICANN for .chess, a proposed top-level domain intended to provide the chess community with a dedicated and verified online space. Filed as a community application on behalf of FIDE, the project would give federations, clubs, organisers, platforms, media and players recognisable chess-specific domains if approved. Registration will open only after ICANN's review, with an early-access list already available.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-domain-extension-requirement-2026",
+         "pubDate" : "Wed, 02 Sep 2026 07:00:00",
+         "title" : "FIDE and World Chess apply for the .chess domain extension"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696926.cms\" />Viswanathan Anand is juggling two contrasting roles at this time. He is the interim FIDE President and also a competitive chess player. While handling increased responsibilities at world chess's governing body, the Indian Grandmaster remains focused on the Global Chess League. Representing Alaskan Knights, Anand says his hunger to win remains strong, while his experience and routine help him balance administration, family commitments, and competitive chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/amid-very-long-meetings-and-running-chess-world-has-viswanathan-anand-lost-hunger-to-win-exclusive/articleshow/133696926.cms",
+         "pubDate" : "Wed, 02 Sep 2026 04:04:21",
+         "title" : "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696025.cms\" />Prime Minister Narendra Modi gifted Uzbekistan President Shavkat Mirziyoyev the original scoresheet from Javokhir Sindarov's 2025 World Cup final victory in Goa. AICF chief Nitin Narang called it \"Chess diplomacy\". Sindarov later won the Candidates tournament and will face D Gukesh. The gesture highlights growing India-Uzbekistan chess rivalry ahead of the Chess Olympiad in Samarkand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-september-2026",
          "pubDate" : "Tue, 01 Sep 2026 22:00:00",
          "title" : "FIDE ratings - September 2026"
-      },
-      {
-         "description" : "Daniel King's 'Power Play' series is one of ChessBase's most popular FritzTrainer course collections. Between 2007 and 2020, an impressive 28 volumes were published in the series, covering not only general topics such as tactics, attacking play and endgames, but also opening repertoires for both Black and White. Jochen Schwarz, a club player from Bremen, has known and valued the Power Play courses for many years and provides an overview of the individual volumes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-power-play-series-review-2026",
-         "pubDate" : "Tue, 01 Sep 2026 15:30:00",
-         "title" : "Freshly reviewed: Daniel King's Power Play series"
       },
       {
          "description" : "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!",
@@ -50,28 +74,12 @@ news_feed (
          "title" : "Help strengthen the ECF's IT team"
       },
       {
-         "description" : "The Tech Mahindra Global Chess League returns for its fourth season, bringing the world's biggest chess stars to Bengaluru from September 5-13, 2026. With six power-packed franchises, fresh team combinations, exciting debutants and fierce rivalries, here's a complete look at every squad, their strengths and what makes this season the most anticipated yet. | Pictured: Vishy Anand with Anand Mahindra, Chairman of the Mahindra Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-preview",
-         "pubDate" : "Tue, 01 Sep 2026 13:00:00",
-         "title" : "Starting Saturday in Bengaluru: Global Chess League with Carlsen, Sindarov and Anand in the mix"
-      },
-      {
          "description" : "GM Pouya Idani, until now Iran&#38;rsquo;s third-highest-rated player, has officially transferred to France three years after moving to Brest with his wife. The 30-year-old joins GM Alireza Firouzja and WGM Mitra Hejazipour among the prominent Iranian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
          "pubDate" : "Tue, 01 Sep 2026 09:19:00",
          "title" : "Iranian GM Idani Switches To France: 'I Felt Forced Into It'"
-      },
-      {
-         "description" : "England 1 and Italy share the lead in the 50+ section of the European Senior Team Championships after five rounds in Crete, while Slovenia and England 1 are level at the top of the 65+ event. The leading teams have taken different routes to their positions, with England and Italy unbeaten in the younger category and Slovenia having already defeated their main rivals in the 65+ competition. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r5",
-         "pubDate" : "Tue, 01 Sep 2026 09:00:00",
-         "title" : "European Senior Team Championship: English teams tied for first place in both sections"
       },
       {
          "description" : "This September, step onto the stage with five questionable musicians who are ready to put your chess skills and patience to the test. The chessboards are set. Bring earplugs and take your seat. 🏆 Beat the Band Class Bots throughout September to c...",
@@ -122,22 +130,6 @@ news_feed (
          "title" : "Check is in the Mail September2026: Enduring the King('s Gambit)"
       },
       {
-         "description" : "Hikaru Nakamura will face Ferrari Formula One driver Charles Leclerc in a strategy-game challenge in Monza on 1 September, ahead of the Italian Grand Prix. The pair will compete at Se!ze, a chess-inspired game developed with Leclerc's involvement. The event adds another chapter to the Mon&eacute;gasque driver's documented interest in chess, following earlier encounters involving Carlos Sainz and GM Teimour Radjabov. | Photo: Chivas Regal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-leclerc-seize-challenge-monza",
-         "pubDate" : "Mon, 31 Aug 2026 23:45:00",
-         "title" : "Hikaru Nakamura to face Formula One star Charles Leclerc in strategy-game challenge"
-      },
-      {
-         "description" : "GM Pranesh Munirethinam won Group A (2200+) of the 2026 Kanizsa Open with 7 points from 9 games. In the final round, Pranesh obtained a full point in his game against IM Vadym Petrovskiy. IM Or Bronstein, GM Andrei Volokitin and GM Karthik Venkataraman finished on the same score and took second to fourth places respectively on tiebreaks. Top seed Matthias Bluebaum could only manage 21st place. The 16-year-old German junior Mykola Korchynskyi finished ten places ahead of the Candidates Tournament participant. | | Photo: Tushar Damor / Chennai Grand Masters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kanisza-open-2026-report",
-         "pubDate" : "Mon, 31 Aug 2026 17:50:00",
-         "title" : "Pranesh M wins Kanizsa Open"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,28 +162,12 @@ news_feed (
          "title" : "European Chess Union Launches Inaugural European Chess Superleague"
       },
       {
-         "description" : "Garry Kasparov and Veselin Topalov will meet in Saint Louis from 11 to 13 September for Clutch Chess: The Legends. The two former members of the sport's elite will contest a 12-game chess960 match, with the value of wins increasing on each successive day. The encounter follows Kasparov's 2025 victory over Viswanathan Anand and revisits a rivalry that also featured a chess960 match in Saint Louis in 2018.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-announcement",
-         "pubDate" : "Mon, 31 Aug 2026 07:30:00",
-         "title" : "Clutch Chess: Kasparov to face Topalov in 12-game chess960 match"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133640810.cms\" />Former World Champ Anand Reflects On How The Sport Can Learn To Attract Major Sponsors And Pragg's Incredible Form",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-want-chess-to-mirror-crickets-commercial-pull-viswanathan-anand/articleshow/133640810.cms",
          "pubDate" : "Mon, 31 Aug 2026 03:43:52",
          "title" : "'I want chess to mirror cricket's commercial pull': Viswanathan Anand"
-      },
-      {
-         "description" : "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 1300 players across the country. In this article, we take a look at some of the positions studied during a Chola Chess camp. Take your time and see if you can solve them. | Pictured: GM Debashis Das | Photo: Chola Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chola-chess-camp-problems-3",
-         "pubDate" : "Mon, 31 Aug 2026 02:00:00",
-         "title" : "Can you solve these positions from the Chola Chess camp? - Third edition"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133639519.cms\" />Praggnanandhaa has completed a remarkable comeback after his disappointing 2026 Candidates campaign, winning the Grand Chess Tour Finals in St Louis by beating Fabiano Caruana 15-13. He became the first Indian to win the title. Five-time world champion Viswanathan Anand praised his resilience and said, \"I think at the moment, I would say he's the number one player in the world.\"",
@@ -210,28 +186,12 @@ news_feed (
          "title" : "Just the Rules: Highlighted Rulebook Updates From 2026 Delegates Meeting"
       },
       {
-         "description" : "Klaudia Kulon impressed at the 11th Menchik Memorial in London, scoring 7&frac12; points in the 9-round event. She won six games and drew just three. Her performance rating for the tournament was 2463. She had already secured overall victory before the final round. Cecile Haussernot from France and Andreea-Marioara Cosman finished in second and third place, respectively. | Photo: European Chess Union (archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/menchik-memorial-2026-report",
-         "pubDate" : "Sun, 30 Aug 2026 19:45:00",
-         "title" : "Klaudia Kulon victorious at Menchik Memorial"
-      },
-      {
          "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
          "pubDate" : "Sun, 30 Aug 2026 16:05:00",
          "title" : "Sofia Cup 2026 - Games and results"
-      },
-      {
-         "description" : "Defeating Magnus Carlsen in any format remains one of the most difficult tasks in modern chess. For 15-year-old Vandan Alankar Sawai of Delhi, that milestone arrived on 18 August during the late Titled Tuesday. Paired with the white pieces against the former world champion in round two, Vandan kept pressing until, at one point, Magnus mouse-slipped, and after that Vandan gave him no chance to come back. Read the story of this talented boy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vandan-alankar-sawai-victory-carlsen-2026",
-         "pubDate" : "Sun, 30 Aug 2026 16:00:00",
-         "title" : "The 15-year-old who beat Magnus Carlsen in Titled Tuesday: Vandan Alankar Sawai"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
@@ -762,14 +722,6 @@ news_feed (
          "title" : "Carlsen wins the Chess event in the Esports World Cup - Final"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133265883.cms\" />Hikaru Nakamura finished third at the 2026 Esports World Cup after Alireza Firouzja forfeited their match following technical issues and multiple disconnections. Initially blaming chess.com, Nakamura later learned the problems were caused by the EWC. He apologised for his comments, admitted he jumped to conclusions, and earned $145,000 plus valuable Club Championship points for Falcons Esports.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-now-know-i-was-wrong-hikaru-nakamura-breaks-silence-after-chaotic-ewc-match-against-alireza-firouzja/articleshow/133265883.cms",
-         "pubDate" : "Sat, 15 Aug 2026 17:27:08",
-         "title" : "'I now know I was wrong': Hikaru on chaotic EWC match against Firouzja"
-      },
-      {
          "description" : " The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table format to show the results (although the introduction of sets in the final I couldn't handle) and all the games are also available. Carlsen was an easy winner of the final winning both sets comfortably and he didn't lose a game. Hikaru Nakamura finished in 3rd place winning his match against Firouzja which was plagued by technical issues and a loss in game 4 led to Firouzja just quitting.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -784,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/14/shreyas-royal-17-youngest-ever-british-chess-champion",
          "pubDate" : "Fri, 14 Aug 2026 07:00:21",
          "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
-      },
-      {
-         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
-         "pubDate" : "Thu, 13 Aug 2026 08:01:21",
-         "title" : "European Open and Women's Chess Club Cups 2026 - Official invitation"
       },
       {
          "description" : "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction with him. For us news of his passing came out of the blue, and it left us deeply saddened.",
