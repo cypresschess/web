@@ -66,6 +66,14 @@ news_feed (
          "title" : "'Chess diplomacy': AICF chief on PM Modi gifting Sindarov's WC scoresheet to Uzbek prez"
       },
       {
+         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-3",
+         "pubDate" : "Wed, 02 Sep 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 3"
+      },
+      {
          "description" : "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-stars-divya-deshmukh-vidit-gujrathi-honoured-with-arjuna-awards-aicf-reacts/articleshow/133321247.cms",
          "pubDate" : "Tue, 18 Aug 2026 11:51:24",
          "title" : "Chess stars Divya, Vidit honoured with Arjuna Awards; AICF reacts"
-      },
-      {
-         "description" : "Today's puzzles again come from the 1st Annual GM Maurice Ashley National Tournament of K-3 State Champions. The games were not broadcast on DGT boards, but we had over two dozen submissions for the \"best game\" prize (the winning game can be replayed here). All of this week's puzzles come from those submissions! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-1st-gm-ashley-national-tournament-k-3-champions-pt-2",
-         "pubDate" : "Tue, 18 Aug 2026 00:00:00",
-         "title" : "Tactics Tuesday: 1st GM Ashley National Tournament of K-3 Champions, Pt. 2"
       },
       {
          "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
