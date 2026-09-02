@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The year 1926 was a major one for chess tournaments. Among the many outstanding events was the anniversary tournament of the Hannover Chess Club, which had already enjoyed a remarkable history and was now celebrating its 50th anniversary. The battle for first place developed into a close contest between the two favourites, Aron Nimzowitsch (pictured) and Akiba Rubinstein, with Nimzowitsch ultimately prevailing. Friedrich S&auml;misch proved to be the decisive factor.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anniversary-tournament-1926-hannover",
+         "pubDate" : "Wed, 02 Sep 2026 14:00:00",
+         "title" : "The 1926 anniversary tournament in Hannover"
+      },
+      {
          "description" : "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Ant&oacute;n, Jos&eacute; Mart&iacute;nez, Ivan Sokolov, Diego Flores and Jos&eacute; \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/leyendas-prodigios-2026-preview",
          "pubDate" : "Wed, 02 Sep 2026 09:00:00",
          "title" : "Faustino Oro returns for Legends & Prodigies in Madrid"
+      },
+      {
+         "description" : "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world&#39;s largest corporate chess league, bringing together com...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-north-american-corporate-chess-league-season-14",
+         "pubDate" : "Wed, 02 Sep 2026 08:00:00",
+         "title" : "The North American Corporate Chess League Returns For Season 14 Starting October 1"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-domain-extension-requirement-2026",
          "pubDate" : "Wed, 02 Sep 2026 07:00:00",
          "title" : "FIDE and World Chess apply for the .chess domain extension"
+      },
+      {
+         "description" : "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov&#39;s eligibility, and allegations that FIDE itself has fail...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-election-complaints-buettner-rosenstein-turlov",
+         "pubDate" : "Wed, 02 Sep 2026 06:50:55",
+         "title" : "FIDE Election Heats Up As All 3 Presidential Tickets File Complaints"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696926.cms\" />Viswanathan Anand is juggling two contrasting roles at this time. He is the interim FIDE President and also a competitive chess player. While handling increased responsibilities at world chess's governing body, the Indian Grandmaster remains focused on the Global Chess League. Representing Alaskan Knights, Anand says his hunger to win remains strong, while his experience and routine help him balance administration, family commitments, and competitive chess.",
@@ -370,14 +394,6 @@ news_feed (
          "title" : "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match"
       },
       {
-         "description" : "The ECF websites are sitting beside an extra layer of security for a short while, during which the IT squad are wrestling with a gritty problem. Visitors may get an...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-websites/",
-         "pubDate" : "Wed, 26 Aug 2026 09:44:10",
-         "title" : "ECF websites"
-      },
-      {
          "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -538,28 +554,12 @@ news_feed (
          "title" : "Fighting Draws As Grand Chess Tour Finals Begin In St. Louis"
       },
       {
-         "description" : "GM Hikaru Nakamura reached a tremendous milestone on Saturday after bringing up his 64th career Bullet Brawl victory, meaning he can now fill the squares of a chessboard with imaginary trophies for each win. Nakamura toiled away in the two-hour ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-22-2026",
-         "pubDate" : "Sat, 22 Aug 2026 21:01:00",
-         "title" : "Nakamura Comeback Seals Milestone 64th Victory"
-      },
-      {
          "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
          "pubDate" : "Sat, 22 Aug 2026 15:09:00",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
-      },
-      {
-         "description" : "GM Tuan Minh Le followed up his Titled Tuesday victory by winning the first&#38;nbsp;3 0 Thursday tournament of the week on August 20. He&#39;s the fifth player to complete the Tuesday-Thursday double victory on the same week, joining the company of GMs F...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/3-0-thursday-minh-le-duda-aravindh-08-20-2026",
-         "pubDate" : "Fri, 21 Aug 2026 13:50:00",
-         "title" : "Minh Le Continues Blitz Run In 3 0 Thursday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
@@ -639,7 +639,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
          "pubDate" : "Wed, 19 Aug 2026 12:24:48",
-         "title" : "The 11th Menchik Memorial is underway!"
+         "title" : "The 11th Menchik Memorial"
       },
       {
          "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-oleg-skvortsov",
          "pubDate" : "Thu, 13 Aug 2026 08:00:00",
          "title" : "Remembering Oleg Skvortsov"
-      },
-      {
-         "description" : "If you are around in London later this month. There are some high level tournaments taking place already boasting strong player line-ups. &#160; 22-23 August: 2026 Mind Sports Olympiad London...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/high-level-tournaments-in-london-22-29-august/",
-         "pubDate" : "Wed, 12 Aug 2026 12:36:40",
-         "title" : "High Level Tournaments in London (22-29 August)"
       }
    ]
 }
