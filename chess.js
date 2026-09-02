@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696025.cms\" />Prime Minister Narendra Modi gifted Uzbekistan President Shavkat Mirziyoyev the original scoresheet from Javokhir Sindarov's 2025 World Cup final victory in Goa. AICF chief Nitin Narang called it \"Chess diplomacy\". Sindarov later won the Candidates tournament and will face D Gukesh. The gesture highlights growing India-Uzbekistan chess rivalry ahead of the Chess Olympiad in Samarkand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-diplomacy-quite-literally-aicf-chief-on-pm-modi-gifting-javokhir-sindarovs-world-cup-scoresheet-to-uzbek-prez/articleshow/133696025.cms",
+         "pubDate" : "Wed, 02 Sep 2026 03:09:17",
+         "title" : "'Chess diplomacy': AICF chief on PM Modi gifting Sindarov's WC scoresheet to Uzbek prez"
+      },
+      {
          "description" : "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/14/shreyas-royal-17-youngest-ever-british-chess-champion",
          "pubDate" : "Fri, 14 Aug 2026 07:00:21",
          "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133217460.cms\" />In a surprising twist at the 2026 Sinquefield Cup, Indian Grandmaster R Praggnanandhaa succumbed to his first defeat, falling to Germany's Vincent Keymer in round three. Meanwhile, Wesley So clinched a vital win, catapulting him to the top of the leaderboard. Previously triumphant in the Saint Louis Rapid &amp; Blitz tournament, Praggnanandhaa is now tied for fourth with several formidable players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-2026-r-praggnanandhaa-suffers-first-defeat-loses-to-vincent-keymer-in-round-3/articleshow/133217460.cms",
-         "pubDate" : "Thu, 13 Aug 2026 15:32:22",
-         "title" : "Sinquefield Cup : Praggnanandhaa suffers first defeat, loses to Keymer in round 3"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Herceg Novi, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel \"Medun\" []",
