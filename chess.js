@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723206.cms\" />American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
+         "pubDate" : "Thu, 03 Sep 2026 02:26:50",
+         "title" : "'I'm surprised': American GM after Pragg wins India's historic GCT title | Exclusive"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723148.cms\" />American chess grandmaster Hans Niemann urged FIDE to punish players for publicly making accusations, especially involving young competitors. His comments came after Ian Nepomniachtchi questioned a move by 14-year-old Canadian IM Aaron Mendes during their Titled Tuesday game. Nepomniachtchi described the move as suspicious, while Mendes went on to win after Nepomniachtchi's blunder and eventual resignation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-must-punish-players-americas-hans-niemann-slams-russia-no-1-ian-nepomniachtchi-over-comments-on-14-year-old/articleshow/133723148.cms",
+         "pubDate" : "Thu, 03 Sep 2026 01:55:48",
+         "title" : "'FIDE must punish players': Hans slams Russia No. 1 Nepo over comments on 14-yo"
+      },
+      {
          "description" : "The Tirol Open 2026 featured eight days of high-level chess in Innsbruck. In the A Open, GM Harshit Raja successfully defended his title from the previous year, albeit only on tiebreaks ahead of FM Tobias Kolb, who finished level on points with the two-time champion. Philipp Schlosser, Timur Kocharin and Cedric Chassard ensured that three more German players finished in the top ten of the 57-player field.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -690,28 +706,12 @@ news_feed (
          "title" : "Killed by your own preparation"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133294300.cms\" />R Praggnanandhaa draws Levon Aronian in the sixth round of the Sinquefield Cup, keeping him joint second with 3.5 points. Wesley So leads with four points after drawing Maxime Vachier-Lagrave. Praggnanandhaa survives a tricky middle game after losing two pawns. Anish Giri is the only winner of the round, defeating Jorden van Foreest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stays-in-contention-for-sinquefield-cup-title-despite-draw-against-levon-aronian/articleshow/133294300.cms",
-         "pubDate" : "Mon, 17 Aug 2026 10:50:06",
-         "title" : "Pragg stays in contention for Sinquefield Cup title despite Aronian draw "
-      },
-      {
          "description" : "On Tuesday August 18th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 24th European Union Youth Chess Championship U8, U10, U12 and U14 will start. European Union Youth Chess Championship 2026 under the patronage of the European Chess Union is organized again by Sachova skola Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region, City Roznov pod Radhostem and Hotel Energetic. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272934.cms\" />As World War II erupted in 1939, England's chess team withdrew from the Buenos Aires Olympiad. In Grandmaster Aarav Dengla's fourth column for TOI, he explores how three players, Hugh Alexander, Stuart Milner-Barry, and Harry Golombek, returned home to join Bletchley Park. Harnessing chessboard skills like pattern recognition and strategic elimination, they played pivotal roles in cracking Germany's Enigma code, helping secure Allied victory while keeping their wartime contributions secret for decades.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-3-members-of-englands-1939-chess-olympiad-team-became-wartime-codebreakers-during-wwii/articleshow/133272934.cms",
-         "pubDate" : "Sun, 16 Aug 2026 10:28:25",
-         "title" : "How 3 members of England's 1939 Chess Olympiad team became wartime codebreakers"
       },
       {
          "description" : "The European Junior U20 Chess Championship 2026 concluded yesterday in Cetinje, Montenegro! The event took place from 5-16 August, featuring 116 players from 38 European federations who competed across nine Swiss rounds in two categories: Open U20 and Girls U20. GM Yahli Sokolovsky (ISR, 2541) emerged as the sole winner of the Open U20 Championship, scoring 7/9 points. Sokolovsky finished a half-point ahead of four players who tied for the silver medal with a score of 6.5/9 points each: FM []",
