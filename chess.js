@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I have been generally investigating AI's ability to appreciate humour. Do AI clients catch the point in jokes and cartoons, and do they interpret them correctly? Do they consider the jokes funny, or do they merely know what humans find funny? After doing some general research on these questions, I turned to chess. I showed these cartoons to AI. Here the reactions. My experiments were not conclusive, but at least a lot of fun. You should try it our yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/does-ai-understand-chess-humour",
+         "pubDate" : "Thu, 03 Sep 2026 15:00:00",
+         "title" : "Does AI understand chess humour?"
+      },
+      {
          "description" : "The Opening Encyclopaedia 2026 presents you with a wealth of new ideas for your opening repertoire. From May 2025 to March 2026, 62 new repertoire suggestions and 46 new videos have been added to the Opening Encyclopaedia! In total, you have access to 1586 opening articles, 100 videos and 8274 surveys covering a period of over 26 years!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
          "pubDate" : "Thu, 03 Sep 2026 09:00:00",
          "title" : "ChessBase Summer Special! - Part 9"
+      },
+      {
+         "description" : "The main event of the fourth season of the Tech Mahindra Global Chess League, the world&#39;s largest chess league, starts on September 5. Soon, the very best players in the world will gather in Bengaluru, India, to play in one of this year&#39;s biggest ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
+         "pubDate" : "Thu, 03 Sep 2026 08:00:00",
+         "title" : "How To Watch Season 4 Of The Global Chess League"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133726773.cms\" />",
@@ -242,6 +258,14 @@ news_feed (
          "title" : "Praggnanandhaa Indian No. 1 On September FIDE Rating List"
       },
       {
+         "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
+         "pubDate" : "Mon, 31 Aug 2026 11:00:00",
+         "title" : "Green Hills Resort Masters 2026 - Games and results"
+      },
+      {
          "description" : "Hehehehehehehehe! Is it your dream coming true, or is it your worst nightmare? You can now get coached by the most formidable and cutest chess-playing entity in the world: Mittens! Along with the god-like chess-playing kitten, you can also get coa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -282,6 +306,14 @@ news_feed (
          "title" : "Just the Rules: Highlighted Rulebook Updates From 2026 Delegates Meeting"
       },
       {
+         "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
+         "pubDate" : "Sun, 30 Aug 2026 16:05:00",
+         "title" : "Sofia Cup 2026 - Games and results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -296,6 +328,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
          "pubDate" : "Sat, 29 Aug 2026 23:07:00",
          "title" : "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title"
+      },
+      {
+         "description" : " The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour were in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. In the semi-finals Praggnanandhaa beat Vincent Keymer comfortably, winning one of the two classical games and then both rapid games, Keymer won the blitz section but it didn't matter. Fabiano Caruana overcame Wesley So in a close ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
+         "pubDate" : "Sat, 29 Aug 2026 18:17:00",
+         "title" : "Grand Chess Tour Finals 2026 - Games and results"
       },
       {
          "description" : "Hanging a piece in a winning position. Playing a perfect game only to lose because of time trouble. There are so many ways that a game of chess can end painfully. So, we search for ways to make that pain go away, and never appear again. But that only leads to more pain, anxiety and []",
@@ -570,12 +610,12 @@ news_feed (
          "title" : "Daily Puzzles Just Got More Exciting"
       },
       {
-         "description" : "&#34;People are very, very tired!&#34; was the pronouncement of commentator GM Peter Svidler, as we witnessed a high number of errors on the second day of classical time control games at the Semifinals of the 2026 Grand Chess Tour Finals. GM Vincent Keym...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-2",
-         "pubDate" : "Mon, 24 Aug 2026 00:18:49",
-         "title" : "Contrasting Wins For Pragg And Caruana"
+         "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
+         "pubDate" : "Sun, 23 Aug 2026 10:37:00",
+         "title" : "6th Cairns Cup 2026 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133436010.cms\" />The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
@@ -624,6 +664,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
          "pubDate" : "Thu, 20 Aug 2026 10:28:41",
          "title" : "It's Leonard Barden's birthday!"
+      },
+      {
+         "description" : " The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took first place from Praggnanandhaa after winning a tie-break match. The players scored 5.5/9 to share first place and then drew two 10 minutes plus 5 seconds a move rapid game, a final Armageddon game was required, Wesley had the black pieces and draw odds, the game finished at King vs King and thus so had the draw he needed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
+         "pubDate" : "Thu, 20 Aug 2026 06:44:00",
+         "title" : "13th Sinquefield Cup 2026 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133350794.cms\" />Udaipur's Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
@@ -696,6 +744,22 @@ news_feed (
          "link" : "https://www.europechess.org/gm-yahli-sokolovsky-and-im-eline-roebers-crowned-european-junior-champions-2026/",
          "pubDate" : "Sun, 16 Aug 2026 07:36:31",
          "title" : "GM Yahli Sokolovsky and IM Eline Roebers crowned European Junior Champions 2026"
+      },
+      {
+         "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
+         "pubDate" : "Sat, 15 Aug 2026 18:42:00",
+         "title" : "Carlsen wins the Chess event in the Esports World Cup - Final"
+      },
+      {
+         "description" : " The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table format to show the results (although the introduction of sets in the final I couldn't handle) and all the games are also available. Carlsen was an easy winner of the final winning both sets comfortably and he didn't lose a game. Hikaru Nakamura finished in 3rd place winning his match against Firouzja which was plagued by technical issues and a loss in game 4 led to Firouzja just quitting.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
+         "pubDate" : "Sat, 15 Aug 2026 16:53:00",
+         "title" : "Esports World Cup 2026 - Games and Results"
       },
       {
          "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
