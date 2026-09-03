@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133726773.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/blitz-can-sharpen-not-spoil-classical-chess-former-womens-world-champion-alexandra-kosteniuk/articleshow/133726773.cms",
+         "pubDate" : "Thu, 03 Sep 2026 05:58:00",
+         "title" : "'Blitz can sharpen, not spoil classical chess': Former women's world champion Kosteniuk"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723206.cms\" />American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
          "pubDate" : "Wed, 19 Aug 2026 07:22:09",
          "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321247.cms\" />The All India Chess Federation congratulated Grandmasters Divya Deshmukh and Vidit Gujrathi on receiving the prestigious Arjuna Award. AICF president Nitin Narang praised their performances and contributions to Indian chess, while acknowledging their families and fans. Deshmukh's honour caps a landmark year after her 2025 Women's World Cup triumph, while Gujrathi continues to be among India's leading chess players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-stars-divya-deshmukh-vidit-gujrathi-honoured-with-arjuna-awards-aicf-reacts/articleshow/133321247.cms",
-         "pubDate" : "Tue, 18 Aug 2026 11:51:24",
-         "title" : "Chess stars Divya, Vidit honoured with Arjuna Awards; AICF reacts"
       },
       {
          "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
