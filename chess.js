@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
+         "pubDate" : "Thu, 3 Sep 2026 18:43:00",
+         "title" : "TCh-ESP 1st Div 2026 - Games and results"
+      },
+      {
          "description" : "I have been generally investigating AI's ability to appreciate humour. Do AI clients catch the point in jokes and cartoons, and do they interpret them correctly? Do they consider the jokes funny, or do they merely know what humans find funny? After doing some general research on these questions, I turned to chess. I showed these cartoons to AI. Here the reactions. My experiments were not conclusive, but at least a lot of fun. You should try it our yourself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "ChessCare.com launches: New management agency brings professional support to chess players"
       },
       {
+         "description" : "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian &#34;Messi of Chess&#34; the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
+         "pubDate" : "Thu, 03 Sep 2026 09:11:00",
+         "title" : "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster"
+      },
+      {
          "description" : "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
          "pubDate" : "Thu, 03 Sep 2026 09:00:00",
          "title" : "ChessBase Summer Special! - Part 9"
+      },
+      {
+         "description" : "Nigerian-born CM Chikwere Onyekwere (aka &#34;Chichi&#34;), the highest-rated hustler in New York&#39;s Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
+         "pubDate" : "Thu, 03 Sep 2026 08:20:00",
+         "title" : "Renowned Washington Square Park Player 'Chichi' Detained By ICE"
       },
       {
          "description" : "The main event of the fourth season of the Tech Mahindra Global Chess League, the world&#39;s largest chess league, starts on September 5. Soon, the very best players in the world will gather in Bengaluru, India, to play in one of this year&#39;s biggest ...",
@@ -586,28 +610,12 @@ news_feed (
          "title" : "'An unfortunate racket': As India nears 100th GM, is expensive coach a must?"
       },
       {
-         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu are the two finalists in the 2026 Grand Chess Tour Finals. Praggnanandhaa won his match against GM Vincent Keymer with four games to spare, and then lost the last three blitz games to end with a 19...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-3",
-         "pubDate" : "Mon, 24 Aug 2026 18:09:00",
-         "title" : "Caruana, Praggnanandhaa Set Up Generational Clash In Final"
-      },
-      {
          "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/what-i-changed-my-mind-on-recently/",
          "pubDate" : "Mon, 24 Aug 2026 13:00:00",
          "title" : "What I changed my mind on recently"
-      },
-      {
-         "description" : "Your daily dose of puzzle practice just got a glow-up! The new Daily Puzzle now features five lives instead of just one shot at glory, a fresh way to brag about your puzzle prowess, and a puzzle that refreshes according to your local time. Every ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-daily-puzzle-lives-system",
-         "pubDate" : "Mon, 24 Aug 2026 08:00:00",
-         "title" : "Daily Puzzles Just Got More Exciting"
       },
       {
          "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
