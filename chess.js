@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Club Ajedrez Solvay completed a perfect campaign at the Spanish \"Primera Divisi&oacute;n\" in Linares, winning all seven matches to secure the title and promotion to the \"Divisi&oacute;n de Honor\". Andreu Paterna finished second to claim the other promotion place, while Platja d'Aro took third. Vasyl Ivanchuk led the champions on board one, scoring 5/7 and gaining 13 rating points. | Photo: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-primera-divsion-2026-r7",
+         "pubDate" : "Thu, 03 Sep 2026 22:30:00",
+         "title" : "Solvay score 14/14 to win Spanish Primera Divisi&oacute;n, Ivanchuk excels on board one"
+      },
+      {
          "description" : " The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
