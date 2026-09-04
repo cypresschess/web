@@ -1,4 +1,5 @@
 jtable([
+"KATY","2026-09-03","34","<a href=https://ratings.uschess.org/event/202609030013 target='_blank'>Katy Kids Chess Monthly Rated</a>",
 "HOUSTON","2026-08-30","17","<a href=https://ratings.uschess.org/event/202608300253 target='_blank'>Bellaire Sunday Swiss 2026.08.30</a>",
 "HOUSTON","2026-08-29","128","<a href=https://ratings.uschess.org/event/202608290883 target='_blank'>SBSC Back to School 2026</a>",
 "HOUSTON","2026-08-29","16","<a href=https://ratings.uschess.org/event/202608290843 target='_blank'>August 29 The Alan Rodenstein Open</a>",
@@ -98,5 +99,4 @@ jtable([
 "CYPRESS","2026-06-12","43","<a href=https://ratings.uschess.org/event/202606120293 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-12","22","<a href=https://ratings.uschess.org/event/202606120253 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-06-12","20","<a href=https://ratings.uschess.org/event/202606120193 target='_blank'>FBCC 2026 National Superman Day Ope</a>",
-"SPRING","2026-06-12","36","<a href=https://ratings.uschess.org/event/202606120083 target='_blank'>2026 Kings & Queens Chess Camp</a>",
 ]);
