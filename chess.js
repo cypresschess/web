@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thomas Paehtz was one of the leading players in East Germany, winning the East German Championship twice and the German Championship once. He later worked as a chess coach. His most successful pupil was his own daughter Elisabeth, who for decades was Germany's leading female chess player. One of his current pupils is Christian Gloeckler. Today, Thomas Paehtz celebrates his 70th birthday. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/70-jahre-thomas-paehtz",
+         "pubDate" : "Fri, 04 Sep 2026 16:25:00",
+         "title" : "Thomas Paehtz turns 70"
+      },
+      {
+         "description" : " The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two finishers play for the title, the next two for 3rd-4th.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
+         "pubDate" : "Fri, 4 Sep 2026 12:55:00",
+         "title" : "Season Four of the Tech Mahindra Global Chess League - Start"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League takes place in Bengaluru, India 5th-13th September 2026. 6 Teams play over 10 rounds in rapid (10m+2spm) chess. Each match has its own session, there will be four a day for most of the league stage, 3 for the final couple of days. The top two finishers play for the title, the next two for 3rd and 4th on the final day, Firouzja, Sindarov, Carlsen and MVL are amongst the players.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
+         "pubDate" : "Fri, 4 Sep 2026 12:51:00",
+         "title" : "Tech Mahindra Global Chess League 2026 - Games and results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133761903.cms\" />Javokhir Sindarov is set to clash with D Gukesh for the world championship later this year, with preparations for the momentous encounter starting after the Global Chess League and the Olympiad. Currently, Sindarov is concentrating on these events but acknowledges Gukesh's prowess and is committed to delivering his best play. Their historic duel, featuring two talented twenty-year-olds, is slated for November in Geneva.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-sindarov-keeps-gukesh-showdown-on-hold-says-preparation-starts-after-olympiad/articleshow/133761903.cms",
+         "pubDate" : "Fri, 04 Sep 2026 11:57:17",
+         "title" : "Sindarov keeps Gukesh showdown on hold, says preparation starts after Olympiad"
+      },
+      {
+         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2026-registration",
+         "pubDate" : "Fri, 04 Sep 2026 08:00:00",
+         "title" : "Collegiate Chess League Fall 2026 Registration"
+      },
+      {
          "description" : " Fans would have preferred contest for world crown, but 20-minute Rapid games are still competitive substitute Magnus Carlsen, the world No 1, will be paired at least twice in the next few days with the world championship challenger, Uzbekistan's Javokhir Sindarov, in the Tech Mahindra Global Chess League, the six-team franchise competition based on cricket's Indian Premier League. In 2024 the Global League was staged in London, but this year it is back in India at Bengaluru (formerly Bangalore), India's technology capital, from 5-13 September, finishing two days before the 400-team chess Olympiad opens in Samarkand, Uzbekistan. <a href=\"https://www.theguardian.com/sport/2026/sep/04/magnus-c",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/sep/04/magnus-carlsen-and-sindarov-to-meet-at-least-twice-in-ipl-styled-global-chess-league",
          "pubDate" : "Fri, 04 Sep 2026 07:00:03",
          "title" : "Magnus Carlsen and Sindarov to meet at least twice in IPL-styled Global Chess League"
+      },
+      {
+         "description" : "&#34;I think, at the moment, I would say he&#39;s the number one player in the world,&#34; GM Viswanathan Anand recently told The Times of India about GM Praggnanandhaa Rameshbabu, who followed victory in Norway Chess 2026 by winning the 2026 Grand Chess Tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-interview-olympiad-gukesh-sindarov",
+         "pubDate" : "Fri, 04 Sep 2026 06:56:44",
+         "title" : "Praggnanandhaa On Fighting To Win, India's Olympiad Hopes, Gukesh-Sindarov & More"
       },
       {
          "description" : "Club Ajedrez Solvay completed a perfect campaign at the Spanish \"Primera Divisi&oacute;n\" in Linares, winning all seven matches to secure the title and promotion to the \"Divisi&oacute;n de Honor\". Andreu Paterna finished second to claim the other promotion place, while Platja d'Aro took third. Vasyl Ivanchuk led the champions on board one, scoring 5/7 and gaining 13 rating points. | Photo: Spanish Chess Federation",
@@ -578,22 +626,6 @@ news_feed (
          "title" : "Duda Takes 2026 Wins Lead In Titled Tuesday"
       },
       {
-         "description" : "World number-one GM Magnus Carlsen and GM Fabiano Caruana headline the first 18 confirmed players for the Total Chess World Championship Tour Pilot, November 10-21, in Budapest, which will test a new format combining fast classical, rapid, and bli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-caruana-total-chess-pilot-budapest-2026",
-         "pubDate" : "Tue, 25 Aug 2026 08:26:00",
-         "title" : "Carlsen, Caruana Lead 18 Confirmed Players For Total Chess Pilot In Budapest"
-      },
-      {
-         "description" : "For most people, the rubber duck is a whimsical bath accessory. For chess players, though, it is an instrument of war&#38;mdash;and we invite you to wield this powerful weapon in the upcoming Chess.com Duck Chess Championship. The event takes place fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2026",
-         "pubDate" : "Tue, 25 Aug 2026 08:00:00",
-         "title" : "Ready Your Quacktics For The Chess.com Duck Chess Championship Starting On September 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
          "pubDate" : "Thu, 20 Aug 2026 06:44:00",
          "title" : "13th Sinquefield Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133350794.cms\" />Udaipur's Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gave-up-iit-left-home-slept-on-roads-how-rajasthans-first-agm-put-udaipur-on-global-chess-map/articleshow/133350794.cms",
-         "pubDate" : "Thu, 20 Aug 2026 02:30:00",
-         "title" : "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map"
       },
       {
          "description" : "When the dust settled Wednesday at the Saint Louis Chess Club and the Sinquefield Cup and Cairns Cup were finished, the leaders at the halfway point still stood atop the standings. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Seirawan, So, Tan, Ashley (photo courtesy SLCC / Ootes)<br> <br> <br> <br> American GM Wesley So won his second straight Sinquefield Cup, his third total, after a playoff against Indian GM Praggnanandhaa Rameshbabu that went to the Armageddon phase; in the Cairns Cup, Chinese GM Tan Zhongyi kept her lead despite a last-round stumble, while 16-year-old American IM Alice Lee finished in second place for the second year in a row, ",
