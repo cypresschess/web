@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a candid interview from January 2026, 2700-level chess prodigy Awonder Liang reflects on his unique journey from a teenage sensation to a serious competitor while balancing a degree in economics and applied math. Liang challenges the notion that elite chess requires sacrificing a normal life, arguing that at the low 2700s, massive gains are still possible through fundamentals and doing what you enjoy. | Photo: Underpromoted on YouTube",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/awonder-liang-interview-underpromoted-2026",
+         "pubDate" : "Fri, 04 Sep 2026 22:20:00",
+         "title" : "Awonder Liang on chess, statistics, AI and the pursuit of small gains"
+      },
+      {
          "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
