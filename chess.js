@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Fans would have preferred contest for world crown, but 20-minute Rapid games are still competitive substitute Magnus Carlsen, the world No 1, will be paired at least twice in the next few days with the world championship challenger, Uzbekistan's Javokhir Sindarov, in the Tech Mahindra Global Chess League, the six-team franchise competition based on cricket's Indian Premier League. In 2024 the Global League was staged in London, but this year it is back in India at Bengaluru (formerly Bangalore), India's technology capital, from 5-13 September, finishing two days before the 400-team chess Olympiad opens in Samarkand, Uzbekistan. <a href=\"https://www.theguardian.com/sport/2026/sep/04/magnus-c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/sep/04/magnus-carlsen-and-sindarov-to-meet-at-least-twice-in-ipl-styled-global-chess-league",
+         "pubDate" : "Fri, 04 Sep 2026 07:00:03",
+         "title" : "Magnus Carlsen and Sindarov to meet at least twice in IPL-styled Global Chess League"
+      },
+      {
          "description" : "Club Ajedrez Solvay completed a perfect campaign at the Spanish \"Primera Divisi&oacute;n\" in Linares, winning all seven matches to secure the title and promotion to the \"Divisi&oacute;n de Honor\". Andreu Paterna finished second to claim the other promotion place, while Platja d'Aro took third. Vasyl Ivanchuk led the champions on board one, scoring 5/7 and gaining 13 rating points. | Photo: Spanish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
          "pubDate" : "Sat, 15 Aug 2026 16:53:00",
          "title" : "Esports World Cup 2026 - Games and Results"
-      },
-      {
-         "description" : " Bodhana Sivanandan, 11, is youngest ever British women's champion while Supratit Banerjee, 12, becomes England's youngest ever international master A new generation took over at the top of British chess on Sunday, when a trio of youthful talents demonstrated their skills on a national stage. Shreyas Royal, 17, of Dartford, Kent, became the youngest ever British champion, breaking Michael Adams's 1989 record by two months and underlining his status as an emerging world-class talent. Bodhana Sivanandan, aged 11, and Supratit Banerjee, 12, also delivered memorable performances. First prize at the University of Warwick, Coventry, was &pound;10,000. <a href=\"https://www.theguardian.com/sport/202",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/aug/14/shreyas-royal-17-youngest-ever-british-chess-champion",
-         "pubDate" : "Fri, 14 Aug 2026 07:00:21",
-         "title" : "Shreyas Royal, 17, is youngest ever British chess champion as new generation takes over"
       }
    ]
 }
