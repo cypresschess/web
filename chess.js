@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
+         "pubDate" : "Fri, 4 Sep 2026 19:21:00",
+         "title" : "European Senior Team Championship 2026 - Games and results"
+      },
+      {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explores how to keep complete control of a position through the classic game Petrosian vs. Unzicker. She shows how Petrosian calmly neutralized every source of counterplay, dominated the open c-file and gradually improved his pieces before creating a second weakness on the kingside. A remarkable king walk from g1 all the way to b1 clears the way for a pawn storm and demonstrates how even the king can play an important role in a long term strategic plan. The lesson highlights prophylaxis, the principle of two weaknesses and the art of turning a small positional advantage into a winning attack.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-complete-control-like-petrosian",
+         "pubDate" : "Fri, 04 Sep 2026 19:00:00",
+         "title" : "Svitlana's Smart Moves - Complete control like Petrosian"
+      },
+      {
          "description" : "Thomas Paehtz was one of the leading players in East Germany, winning the East German Championship twice and the German Championship once. He later worked as a chess coach. His most successful pupil was his own daughter Elisabeth, who for decades was Germany's leading female chess player. One of his current pupils is Christian Gloeckler. Today, Thomas Paehtz celebrates his 70th birthday. | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Sindarov keeps Gukesh showdown on hold, says preparation starts after Olympiad"
       },
       {
+         "description" : "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-maghsoodloo-terry-3-0-thursday-09-03-2026",
+         "pubDate" : "Fri, 04 Sep 2026 11:35:20",
+         "title" : "Terry Extends 3 0 Thursday Record"
+      },
+      {
          "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Praggnanandhaa On Fighting To Win, India's Olympiad Hopes, Gukesh-Sindarov & More"
       },
       {
-         "description" : "Club Ajedrez Solvay completed a perfect campaign at the Spanish \"Primera Divisi&oacute;n\" in Linares, winning all seven matches to secure the title and promotion to the \"Divisi&oacute;n de Honor\". Andreu Paterna finished second to claim the other promotion place, while Platja d'Aro took third. Vasyl Ivanchuk led the champions on board one, scoring 5/7 and gaining 13 rating points. | Photo: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-primera-divsion-2026-r7",
-         "pubDate" : "Thu, 03 Sep 2026 22:30:00",
-         "title" : "Solvay score 14/14 to win Spanish Primera Divisi&oacute;n, Ivanchuk excels on board one"
-      },
-      {
          "description" : " The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -74,44 +90,12 @@ news_feed (
          "title" : "TCh-ESP 1st Div 2026 - Games and results"
       },
       {
-         "description" : "I have been generally investigating AI's ability to appreciate humour. Do AI clients catch the point in jokes and cartoons, and do they interpret them correctly? Do they consider the jokes funny, or do they merely know what humans find funny? After doing some general research on these questions, I turned to chess. I showed these cartoons to AI. Here the reactions. My experiments were not conclusive, but at least a lot of fun. You should try it our yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/does-ai-understand-chess-humour",
-         "pubDate" : "Thu, 03 Sep 2026 15:00:00",
-         "title" : "Does AI understand chess humour?"
-      },
-      {
-         "description" : "The Opening Encyclopaedia 2026 presents you with a wealth of new ideas for your opening repertoire. From May 2025 to March 2026, 62 new repertoire suggestions and 46 new videos have been added to the Opening Encyclopaedia! In total, you have access to 1586 opening articles, 100 videos and 8274 surveys covering a period of over 26 years!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2026-review-nagesh-havanur",
-         "pubDate" : "Thu, 03 Sep 2026 12:00:00",
-         "title" : "Opening Encyclopaedia 2026: Introduction and Open Games"
-      },
-      {
-         "description" : "ChessCare.com, a new player management agency dedicated to professional chess players, has been launched by grandmaster Sebastian Siebrecht and marketing expert Oliver von Wersch. The agency will offer services covering career planning, contracts, travel logistics, sponsorship, communications and talent development. Its stated aim is to support players as the chess world becomes increasingly professional, allowing them to focus more fully on competition while receiving structured commercial and operational support.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-care-com-launch-2026",
-         "pubDate" : "Thu, 03 Sep 2026 10:30:00",
-         "title" : "ChessCare.com launches: New management agency brings professional support to chess players"
-      },
-      {
          "description" : "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian &#34;Messi of Chess&#34; the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
          "pubDate" : "Thu, 03 Sep 2026 09:11:00",
          "title" : "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster"
-      },
-      {
-         "description" : "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-9",
-         "pubDate" : "Thu, 03 Sep 2026 09:00:00",
-         "title" : "ChessBase Summer Special! - Part 9"
       },
       {
          "description" : "Nigerian-born CM Chikwere Onyekwere (aka &#34;Chichi&#34;), the highest-rated hustler in New York&#39;s Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention...",
@@ -154,14 +138,6 @@ news_feed (
          "title" : "'FIDE must punish players': Hans slams Russia No. 1 Nepo over comments on 14-yo"
       },
       {
-         "description" : "The Tirol Open 2026 featured eight days of high-level chess in Innsbruck. In the A Open, GM Harshit Raja successfully defended his title from the previous year, albeit only on tiebreaks ahead of FM Tobias Kolb, who finished level on points with the two-time champion. Philipp Schlosser, Timur Kocharin and Cedric Chassard ensured that three more German players finished in the top ten of the 57-player field.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tirol-open-2026-report",
-         "pubDate" : "Wed, 02 Sep 2026 22:00:00",
-         "title" : "Harshit Raja defends title at Tirol Open in Innsbruck"
-      },
-      {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&#38;n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,28 +146,12 @@ news_feed (
          "title" : "State of Chess: 'Grandmasters,' Gambit & Classic Games, Titled Tuesday Updates & More"
       },
       {
-         "description" : "The year 1926 was a major one for chess tournaments. Among the many outstanding events was the anniversary tournament of the Hannover Chess Club, which had already enjoyed a remarkable history and was now celebrating its 50th anniversary. The battle for first place developed into a close contest between the two favourites, Aron Nimzowitsch (pictured) and Akiba Rubinstein, with Nimzowitsch ultimately prevailing. Friedrich S&auml;misch proved to be the decisive factor.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anniversary-tournament-1926-hannover",
-         "pubDate" : "Wed, 02 Sep 2026 14:00:00",
-         "title" : "The 1926 anniversary tournament in Hannover"
-      },
-      {
          "description" : "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
          "pubDate" : "Wed, 02 Sep 2026 13:30:34",
          "title" : "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal"
-      },
-      {
-         "description" : "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Ant&oacute;n, Jos&eacute; Mart&iacute;nez, Ivan Sokolov, Diego Flores and Jos&eacute; \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leyendas-prodigios-2026-preview",
-         "pubDate" : "Wed, 02 Sep 2026 09:00:00",
-         "title" : "Faustino Oro returns for Legends & Prodigies in Madrid"
       },
       {
          "description" : "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world&#39;s largest corporate chess league, bringing together com...",
@@ -208,14 +168,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
          "pubDate" : "Wed, 02 Sep 2026 07:24:37",
          "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
-      },
-      {
-         "description" : "FIDE and World Chess have submitted an application to ICANN for .chess, a proposed top-level domain intended to provide the chess community with a dedicated and verified online space. Filed as a community application on behalf of FIDE, the project would give federations, clubs, organisers, platforms, media and players recognisable chess-specific domains if approved. Registration will open only after ICANN's review, with an early-access list already available.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-domain-extension-requirement-2026",
-         "pubDate" : "Wed, 02 Sep 2026 07:00:00",
-         "title" : "FIDE and World Chess apply for the .chess domain extension"
       },
       {
          "description" : "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov&#39;s eligibility, and allegations that FIDE itself has fail...",
@@ -256,14 +208,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-3",
          "pubDate" : "Wed, 02 Sep 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 3"
-      },
-      {
-         "description" : "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-september-2026",
-         "pubDate" : "Tue, 01 Sep 2026 22:00:00",
-         "title" : "FIDE ratings - September 2026"
       },
       {
          "description" : "GM Hans Niemann stole the show in September 1&#39;s Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir...",
@@ -616,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-4",
          "pubDate" : "Tue, 25 Aug 2026 16:09:00",
          "title" : "Caruana Leads Praggnanandhaa In Final Match, Keymer-So Stays Even"
-      },
-      {
-         "description" : "In the last Titled Tuesday before big changes coming shortly, GM Jan-Krzysztof Duda took home victory with a 9.5/10 start, while GM Arjun Erigaisi came in second place with a 9.5/10 finish after missing the first round. Due to Arjun&#39;s missing roun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-titled-tuesday-august-25-2026",
-         "pubDate" : "Tue, 25 Aug 2026 12:19:00",
-         "title" : "Duda Takes 2026 Wins Lead In Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
