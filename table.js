@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2026-09-04","21","<a href=https://ratings.uschess.org/event/202609040273 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2026-09-04","14","<a href=https://ratings.uschess.org/event/202609040233 target='_blank'>FBCC 2026 Labor Day Open</a>",
 "KATY","2026-09-03","34","<a href=https://ratings.uschess.org/event/202609030013 target='_blank'>Katy Kids Chess Monthly Rated</a>",
 "HOUSTON","2026-08-30","17","<a href=https://ratings.uschess.org/event/202608300253 target='_blank'>Bellaire Sunday Swiss 2026.08.30</a>",
 "HOUSTON","2026-08-29","128","<a href=https://ratings.uschess.org/event/202608290883 target='_blank'>SBSC Back to School 2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-06-13","15","<a href=https://ratings.uschess.org/event/202606130543 target='_blank'>Poison Pawns June 2026 Grinder</a>",
 "HOUSTON","2026-06-13","3","<a href=https://ratings.uschess.org/event/202606130373 target='_blank'>chesspanda06132026saturday</a>",
 "CYPRESS","2026-06-12","43","<a href=https://ratings.uschess.org/event/202606120293 target='_blank'>Knights of Cypress</a>",
-"SPRING","2026-06-12","22","<a href=https://ratings.uschess.org/event/202606120253 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-06-12","20","<a href=https://ratings.uschess.org/event/202606120193 target='_blank'>FBCC 2026 National Superman Day Ope</a>",
 ]);
