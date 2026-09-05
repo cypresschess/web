@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Sat, 05 Sep 2026 11:45:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "British Grandmaster Daniel King has been one of ChessBase's most popular and respected trainers for decades. In this Summer Special, all of his video courses are available at heavily reduced prices, including the complete 28 volume Power Play series, opening repertoires, tactical training and endgame courses. A great opportunity to explore Daniel's best training material and save up to 50%.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-all-my-chessbase-courses-on-offer",
+         "pubDate" : "Sat, 05 Sep 2026 10:00:00",
+         "title" : "Daniel King - All my ChessBase courses on offer"
+      },
+      {
          "description" : "Calculating variations, assessing positions accurately and finding the best move at the critical moment: few aspects of practical chess pose a greater challenge to players than concrete calculation. Robert Ris first addressed this topic in his 2018 Fritz Trainer, \"Calculation Training\", laying the foundations for a series of further courses. Lukas Koepl has taken a closer look at the various training programmes and, in this multipart overview, explains the main focus of each course and who they are particularly suited to.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Sat, 05 Sep 2026 06:00:16",
          "title" : "The European Senior Team Chess Championships - wins across the board!"
+      },
+      {
+         "description" : "Duck Chess specialist Edward Khachatryan of Israel defeated defending champion IM Nhat Minh To in both the Winners Final and the Grand Final to triumph in the 2026 Duck Chess Championship and pocket the winner&#39;s purse of $750. Nhat Minh gained $50...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
+         "pubDate" : "Sat, 05 Sep 2026 01:19:00",
+         "title" : "Khachatryan Upstages Nhat Minh Twice To Win Duck Chess Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133783238.cms\" />In an exclusive interview with TimesofIndia.com, American Grandmaster Levon Aronian assesses the upcoming World Championship clash between Gukesh and Javokhir Sindarov. He discusses the immense pressure on Gukesh after becoming the youngest world champion, Sindarov's adventurous style, and the strategic battle ahead. Aronian also reflects on his own career, revealing why he has no regrets about never winning the classical world title.",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/announcing-2026-saint-louis-chess-conference",
          "pubDate" : "Wed, 26 Aug 2026 00:00:00",
          "title" : "Announcing The 2026 Saint Louis Chess Conference"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the first classical game of the title match against GM Praggnanandhaa Rameshbabu&#38;nbsp;in the 2026 Grand Chess Tour Finals, earning six points. The Indian grandmaster held his own in an unusual version of the Italian Opening,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-4",
-         "pubDate" : "Tue, 25 Aug 2026 16:09:00",
-         "title" : "Caruana Leads Praggnanandhaa In Final Match, Keymer-So Stays Even"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
