@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133783238.cms\" />In an exclusive interview with TimesofIndia.com, American Grandmaster Levon Aronian assesses the upcoming World Championship clash between Gukesh and Javokhir Sindarov. He discusses the immense pressure on Gukesh after becoming the youngest world champion, Sindarov's adventurous style, and the strategic battle ahead. Aronian also reflects on his own career, revealing why he has no regrets about never winning the classical world title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-lifetime-dream-just-came-too-early-american-gm-levon-aronian-assesses-sindarov-clash-exclusive/articleshow/133783238.cms",
+         "pubDate" : "Sat, 05 Sep 2026 01:05:33",
+         "title" : "'Gukesh's lifetime dream just came too early': Levon Aronian assesses Sindarov clash"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133782968.cms\" />How did the Alpine APL Pipers assemble a dream team featuring Magnus Carlsen, Anish Giri, Vidit Gujrathi, Koneru Humpy, Divya Deshmukh and Volodar Murzin? Coach Pravin Thipsay reveals the strategy behind navigating the GCL draft, balancing star power with depth, and preparing for opponents' recent rapid form. As defending champions, the Pipers must also manage expectations, media attention and the pressure to repeat their success.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-anish-giri-vidit-gujrathi-divya-deshmukh-koneru-humpy-in-one-team-how-gcl-made-it-possible/articleshow/133782968.cms",
+         "pubDate" : "Sat, 05 Sep 2026 00:50:21",
+         "title" : "Carlsen, Anish, Vidit, Divya Deshmukh, K Humpy in one team: How GCL made it possible"
+      },
+      {
          "description" : "In a candid interview from January 2026, 2700-level chess prodigy Awonder Liang reflects on his unique journey from a teenage sensation to a serious competitor while balancing a degree in economics and applied math. Liang challenges the notion that elite chess requires sacrificing a normal life, arguing that at the low 2700s, massive gains are still possible through fundamentals and doing what you enjoy. | Photo: Underpromoted on YouTube",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,28 +634,12 @@ news_feed (
          "title" : "6th Cairns Cup 2026 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133436010.cms\" />The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/before-ai-there-was-the-mechanical-turk-the-chess-machine-that-wasnt/articleshow/133436010.cms",
-         "pubDate" : "Sun, 23 Aug 2026 07:15:31",
-         "title" : "Before AI, there was the Mechanical Turk: The chess machine that wasn't"
-      },
-      {
          "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
          "pubDate" : "Sat, 22 Aug 2026 15:09:00",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133401579.cms\" />Guru Prakash pulled off a major upset in the second round of the Asian Junior Open and Girls Classical Chess Championships on Friday, defeating recently crowned Asian Junior Rapid champion FM Vivaan Vishal Shah. The 2113-rated Prakash beat the much higher-rated Shah, who has a rating of 2339, as the Open section saw several surprise results.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-junior-chess-guru-prakash-manav-kumar-register-major-upset-wins/articleshow/133401579.cms",
-         "pubDate" : "Fri, 21 Aug 2026 11:08:21",
-         "title" : "Asian Junior Chess: Guru Prakash, Manav Kumar register major upset wins"
       },
       {
          "description" : " Norway's world No 1 outclassed the field and won the $250,000 first prize at the four-day event in France Magnus Carlsen, Norway's world No 1, triumphed again last weekend when he won the 2026 Esports World Cup, staged over four days at the prestigious venue of the Paris Expo Porte de Versailles. Carlsen retained his title from Riyadh 2025 and took home a monster first prize of $250,000 (&pound;183,000). The time limit was close to blitz, 10 minutes each per player with no per move increment, a format where blunders would be hoped for, and were indeed made, as entertainment for the capacity audience. <a href=\"https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-wo",
