@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Calculating variations, assessing positions accurately and finding the best move at the critical moment: few aspects of practical chess pose a greater challenge to players than concrete calculation. Robert Ris first addressed this topic in his 2018 Fritz Trainer, \"Calculation Training\", laying the foundations for a series of further courses. Lukas Koepl has taken a closer look at the various training programmes and, in this multipart overview, explains the main focus of each course and who they are particularly suited to.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-ris-fritztrainers-2026-part-1",
+         "pubDate" : "Sat, 05 Sep 2026 07:00:00",
+         "title" : "Newly reviewed: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 1)"
+      },
+      {
+         "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
+         "pubDate" : "Sat, 05 Sep 2026 06:00:16",
+         "title" : "The European Senior Team Chess Championships - wins across the board!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133783238.cms\" />In an exclusive interview with TimesofIndia.com, American Grandmaster Levon Aronian assesses the upcoming World Championship clash between Gukesh and Javokhir Sindarov. He discusses the immense pressure on Gukesh after becoming the youngest world champion, Sindarov's adventurous style, and the strategic battle ahead. Aronian also reflects on his own career, revealing why he has no regrets about never winning the classical world title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-champions-2026-crowned/",
          "pubDate" : "Fri, 28 Aug 2026 11:32:09",
          "title" : "EU Youth Chess Champions 2026 crowned"
-      },
-      {
-         "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
-         "pubDate" : "Fri, 28 Aug 2026 08:04:16",
-         "title" : "The European Senior Team Chess Championships 2026 Daily Reports"
       },
       {
          "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US's world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and more than $100,000 for the second year in succession, despite",
