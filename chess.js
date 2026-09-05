@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
+         "pubDate" : "Sat, 05 Sep 2026 18:15:00",
+         "title" : "Pouya Idani switches federations from Iran to France"
+      },
+      {
          "description" : "Scientists estimate there are 4.8 × 10⁴⁴ legal chess positions. That is 4.8 followed by 44 zeros. Yet the chessworld is flooded by opening courses and promises to \"just watch this and get better\". The promise that you can somehow learn all the opening moves, or never get in a position you feel unfamiliar with []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -768,22 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
-         "pubDate" : "Sat, 15 Aug 2026 18:42:00",
-         "title" : "Carlsen wins the Chess event in the Esports World Cup - Final"
-      },
-      {
-         "description" : " The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table format to show the results (although the introduction of sets in the final I couldn't handle) and all the games are also available. Carlsen was an easy winner of the final winning both sets comfortably and he didn't lose a game. Hikaru Nakamura finished in 3rd place winning his match against Firouzja which was plagued by technical issues and a loss in game 4 led to Firouzja just quitting.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
-         "pubDate" : "Sat, 15 Aug 2026 16:53:00",
-         "title" : "Esports World Cup 2026 - Games and Results"
       }
    ]
 }
