@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Scientists estimate there are 4.8 × 10⁴⁴ legal chess positions. That is 4.8 followed by 44 zeros. Yet the chessworld is flooded by opening courses and promises to \"just watch this and get better\". The promise that you can somehow learn all the opening moves, or never get in a position you feel unfamiliar with []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/how-to-learn-to-play-any-position-better/",
+         "pubDate" : "Sat, 05 Sep 2026 13:00:00",
+         "title" : "How to learn to play any position better"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece! The event took place from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, gathering 32 teams and 150 players competing in two age categories: 50+ and 65+. Each tournament was played in 9 rounds, swiss system, with the classical time control, with the participation of legendary Grandmasters. England 1 clinched the title in the Open 50+ section, scoring convincing 17 match points (8 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/england-and-slovenia-win-european-senior-team-chess-championship-2026/",
+         "pubDate" : "Sat, 05 Sep 2026 12:01:54",
+         "title" : "England and Slovenia win European Senior Team Chess Championship 2026"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
          "pubDate" : "Mon, 17 Aug 2026 08:49:17",
          "title" : "24th European Union Youth Chess Championship 2026 starts"
-      },
-      {
-         "description" : "The European Junior U20 Chess Championship 2026 concluded yesterday in Cetinje, Montenegro! The event took place from 5-16 August, featuring 116 players from 38 European federations who competed across nine Swiss rounds in two categories: Open U20 and Girls U20. GM Yahli Sokolovsky (ISR, 2541) emerged as the sole winner of the Open U20 Championship, scoring 7/9 points. Sokolovsky finished a half-point ahead of four players who tied for the silver medal with a score of 6.5/9 points each: FM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gm-yahli-sokolovsky-and-im-eline-roebers-crowned-european-junior-champions-2026/",
-         "pubDate" : "Sun, 16 Aug 2026 07:36:31",
-         "title" : "GM Yahli Sokolovsky and IM Eline Roebers crowned European Junior Champions 2026"
       },
       {
          "description" : " Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The claimed total prize fund for the entire event is US$75 million, the total for the chess was $1.5m with $250,000 for the winner, $190,000 for second, $145,000 for third place, and $115,000 fourth place. It might truly be said that the only really serious thing about the chess tournament in the Esports World Cup is the prize money. The players also sign up to be part of teams such as Team Liquid, Team Vitality, Karmine Corp, Ninjas in Pyjama",
