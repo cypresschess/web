@@ -10,6 +10,14 @@ news_feed (
          "title" : "Pouya Idani switches federations from Iran to France"
       },
       {
+         "description" : "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen&#39;s Alpine...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
+         "pubDate" : "Sat, 05 Sep 2026 13:07:00",
+         "title" : "Sindarov's American Gambits Begin Global Chess League With Double Win"
+      },
+      {
          "description" : "Scientists estimate there are 4.8 × 10⁴⁴ legal chess positions. That is 4.8 followed by 44 zeros. Yet the chessworld is flooded by opening courses and promises to \"just watch this and get better\". The promise that you can somehow learn all the opening moves, or never get in a position you feel unfamiliar with []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-starts-in-greece/",
          "pubDate" : "Wed, 26 Aug 2026 08:26:18",
          "title" : "European Senior Team Chess Championship 2026 starts in Greece"
-      },
-      {
-         "description" : "IM Levy Rozman (GothamChess) is the latest addition to team BASILISK, the global esports organization. Rozman joins a team that already consists of super-GMs Anish Giri and Vincent Keymer, though his role will not be as a player but as the Head of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
-         "pubDate" : "Wed, 26 Aug 2026 06:02:51",
-         "title" : "GothamChess Signs With BASILISK As Head Of Chess, Joins Giri & Keymer"
       },
       {
          "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
