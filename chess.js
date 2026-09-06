@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Sun, 06 Sep 2026 11:45:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133833620.cms\" />Levon Aronian described his ascent to the world number two ranking as a miracle in his chess journey. Despite not clinching the classical World Championship title, he has no regrets. Former champion Vladimir Kramnik commented on Aronian's modest view of his own skills, recognizing Aronian's outstanding achievements, which include two World Cup victories and multiple Olympiad gold medals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-reacts-to-levon-aronians-modest-confidence-after-grandmaster-says-he-is-better-than-many/articleshow/133833620.cms",
+         "pubDate" : "Sun, 06 Sep 2026 10:37:43",
+         "title" : "Kramnik reacts to Aronian's 'modest confidence' after grandmaster says he is better than many"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133832346.cms\" />While American Gambits enjoyed a memorable opening day, Magnus Carlsen's return was another major talking point. The Norwegian returned to the Global Chess League (GCL) after missing last year's edition in Mumbai. Representing defending champions Alpine APL Pipers, Carlsen was held to a draw by Maxime Vachier-Lagrave of Cheq Mumba Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/handshake-goes-wrong-twice-magnus-carlsen-and-maxime-vachier-lagrave-share-hilarious-moment-on-gcl-opening-day/articleshow/133832346.cms",
+         "pubDate" : "Sun, 06 Sep 2026 09:49:11",
+         "title" : "Handshake goes wrong: Magnus Carlsen and Vachier-Lagrave share hilarious moment"
+      },
+      {
+         "description" : "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with the Slovenian team taking gold on tiebreaks after having defeated their English rivals in their direct encounter. | Photo: Zetta Grapsa / European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r9",
+         "pubDate" : "Sun, 06 Sep 2026 09:20:00",
+         "title" : "England and Slovenia win European Senior Team Championships"
+      },
+      {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Russia No.1 GM's tattoos took 8 months, flight to Munich &amp; pain; now he's 'fed up'"
       },
       {
-         "description" : "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
-         "pubDate" : "Sat, 05 Sep 2026 20:44:00",
-         "title" : "Xiong Captures His 5th Bullet Brawl Title"
-      },
-      {
          "description" : "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-to-learn-to-play-any-position-better/",
          "pubDate" : "Sat, 05 Sep 2026 13:00:00",
          "title" : "How to learn to play any position better"
+      },
+      {
+         "description" : "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
+         "pubDate" : "Sat, 05 Sep 2026 12:05:00",
+         "title" : "Xiong Captures His 5th Bullet Brawl Title"
       },
       {
          "description" : "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece! The event took place from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, gathering 32 teams and 150 players competing in two age categories: 50+ and 65+. Each tournament was played in 9 rounds, swiss system, with the classical time control, with the participation of legendary Grandmasters. England 1 clinched the title in the Open 50+ section, scoring convincing 17 match points (8 []",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133567892.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-feels-like-ipl-of-chess-indian-grandmaster-nihal-sarin-ahead-of-new-season/articleshow/133567892.cms",
-         "pubDate" : "Thu, 27 Aug 2026 12:06:58",
-         "title" : "'GCL feels like IPL of chess': Indian GM Sarin ahead of new season"
-      },
-      {
          "description" : "We&#39;re excited to announce a special edition of the Gambit Cup, a poker event taking place on August 31. The event starts at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST and is open to all Gambit members. The Gambit Cup is a daily poker tournament host...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-10",
          "pubDate" : "Thu, 27 Aug 2026 00:00:00",
          "title" : "National Chess Day Set for Saturday, Oct. 10"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133550773.cms\" />Women's World Cup Winner To Make GCL Debut With Defending Champions Alpine Pipers; The 20-Year-Old Hopes A Woman Becomes India's 100th Chess Grandmaster",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-has-a-lot-to-teach-hes-one-of-the-best-says-divya-deshmukh/articleshow/133550773.cms",
-         "pubDate" : "Wed, 26 Aug 2026 20:21:39",
-         "title" : "Magnus Carlsen has a lot to teach, he's one of the best, says Divya Deshmukh"
       },
       {
          "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
