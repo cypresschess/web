@@ -10,6 +10,14 @@ news_feed (
          "title" : "Former Super GMs taken down - The Underdog"
       },
       {
+         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi&#39;s Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
+         "pubDate" : "Sun, 06 Sep 2026 13:00:00",
+         "title" : "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-gambit-cup",
          "pubDate" : "Thu, 27 Aug 2026 08:00:00",
          "title" : "Play In The Special Edition Of The Gambit Cup On August 31"
-      },
-      {
-         "description" : "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women&#39;s Chess Tour 2026 Grand Final after winning the WR Women&#39;s Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/assaubayeva-anna-muzychuk-2026-wr-womens-chess-tour-europe",
-         "pubDate" : "Thu, 27 Aug 2026 03:08:00",
-         "title" : "Assaubayeva, Anna Muzychuk Grab Final Spots In WR Women's Chess Tour Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133547352.cms\" />A remarkable teacher-student story from the Asian Junior Chess Championships, where India's 94th GM and Northeast's first GM, 17-year-old Mayank Chakraborty, and his 13-year-old pupil Pratitee Bordoloi won the classical titles in Mumbai. The story explores their three-month mentoring journey, the pressure of being top seeds, Pratitee's WGM norm, and Mayank's rise while balancing his own career with mentoring.",
