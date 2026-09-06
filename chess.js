@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost twice. The Ganges Grandmasters and Alpine APL Pipers also began with wins as the six-team double round-robin stage commenced at the Lalit Ashok hotel in Bengaluru. | Pictured: Javokhir Sindarov (American Gambits) defeated Viswanathan Anand (Alaskan Knights) | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-1",
+         "pubDate" : "Sun, 06 Sep 2026 03:50:00",
+         "title" : "Global Chess League: American Gambits win both their matches on opening day"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-months-moscow-to-munich-flights-but-now-he-is-fed-up-behind-russia-no-1-ian-nepomniachtchis-tattoos/articleshow/133821671.cms",
+         "pubDate" : "Sun, 06 Sep 2026 01:21:40",
+         "title" : "'Fed up': The story behind Russia No. 1 Ian Nepomniachtchi's tattoos"
+      },
+      {
          "description" : "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,30 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-and-slovenia-win-european-senior-team-chess-championship-2026/",
          "pubDate" : "Sat, 05 Sep 2026 12:01:54",
          "title" : "England and Slovenia win European Senior Team Chess Championship 2026"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Sat, 05 Sep 2026 11:45:00",
-         "title" : "Global Chess League - Live!"
-      },
-      {
-         "description" : "British Grandmaster Daniel King has been one of ChessBase's most popular and respected trainers for decades. In this Summer Special, all of his video courses are available at heavily reduced prices, including the complete 28 volume Power Play series, opening repertoires, tactical training and endgame courses. A great opportunity to explore Daniel's best training material and save up to 50%.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-all-my-chessbase-courses-on-offer",
-         "pubDate" : "Sat, 05 Sep 2026 10:00:00",
-         "title" : "Daniel King - All my ChessBase courses on offer"
-      },
-      {
-         "description" : "Calculating variations, assessing positions accurately and finding the best move at the critical moment: few aspects of practical chess pose a greater challenge to players than concrete calculation. Robert Ris first addressed this topic in his 2018 Fritz Trainer, \"Calculation Training\", laying the foundations for a series of further courses. Lukas Koepl has taken a closer look at the various training programmes and, in this multipart overview, explains the main focus of each course and who they are particularly suited to.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-ris-fritztrainers-2026-part-1",
-         "pubDate" : "Sat, 05 Sep 2026 07:00:00",
-         "title" : "Newly reviewed: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 1)"
       },
       {
          "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
@@ -90,36 +82,12 @@ news_feed (
          "title" : "Carlsen, Anish, Vidit, Divya Deshmukh, K Humpy in one team: How GCL made it possible"
       },
       {
-         "description" : "In a candid interview from January 2026, 2700-level chess prodigy Awonder Liang reflects on his unique journey from a teenage sensation to a serious competitor while balancing a degree in economics and applied math. Liang challenges the notion that elite chess requires sacrificing a normal life, arguing that at the low 2700s, massive gains are still possible through fundamentals and doing what you enjoy. | Photo: Underpromoted on YouTube",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/awonder-liang-interview-underpromoted-2026",
-         "pubDate" : "Fri, 04 Sep 2026 22:20:00",
-         "title" : "Awonder Liang on chess, statistics, AI and the pursuit of small gains"
-      },
-      {
          "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
          "pubDate" : "Fri, 4 Sep 2026 19:21:00",
          "title" : "European Senior Team Championship 2026 - Games and results"
-      },
-      {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explores how to keep complete control of a position through the classic game Petrosian vs. Unzicker. She shows how Petrosian calmly neutralized every source of counterplay, dominated the open c-file and gradually improved his pieces before creating a second weakness on the kingside. A remarkable king walk from g1 all the way to b1 clears the way for a pawn storm and demonstrates how even the king can play an important role in a long term strategic plan. The lesson highlights prophylaxis, the principle of two weaknesses and the art of turning a small positional advantage into a winning attack.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-complete-control-like-petrosian",
-         "pubDate" : "Fri, 04 Sep 2026 19:00:00",
-         "title" : "Svitlana's Smart Moves - Complete control like Petrosian"
-      },
-      {
-         "description" : "Thomas Paehtz was one of the leading players in East Germany, winning the East German Championship twice and the German Championship once. He later worked as a chess coach. His most successful pupil was his own daughter Elisabeth, who for decades was Germany's leading female chess player. One of his current pupils is Christian Gloeckler. Today, Thomas Paehtz celebrates his 70th birthday. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/70-jahre-thomas-paehtz",
-         "pubDate" : "Fri, 04 Sep 2026 16:25:00",
-         "title" : "Thomas Paehtz turns 70"
       },
       {
          "description" : " The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two finishers play for the title, the next two for 3rd-4th.",
@@ -632,14 +600,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/announcing-2026-saint-louis-chess-conference",
          "pubDate" : "Wed, 26 Aug 2026 00:00:00",
          "title" : "Announcing The 2026 Saint Louis Chess Conference"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133498665.cms\" />R Praggnanandhaa, the promising Indian Grandmaster, has earned his way to the Grand Chess Tour final following a stellar performance against Vincent Keymer from Germany. In an exciting matchup ahead, Praggnanandhaa will challenge the reigning titleholder Fabiano Caruana, who triumphed over fellow American Wesley So to reach the final. Notably, the top three contestants will be granted direct entry to the next Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-storms-into-grand-chess-tour-final-with-19-9-win-over-vincent-keymer/articleshow/133498665.cms",
-         "pubDate" : "Tue, 25 Aug 2026 07:17:17",
-         "title" : "Praggnanandhaa storms into Grand Chess Tour final with 19-9 win over Keymer"
       },
       {
          "description" : "The European Chess Union (ECU) is pleased to announce the signing of two major partnership agreements with Super Foundation, totalling €800,000 in combined investment. The contracts, signed simultaneously on 20 August 2026, mark a defining moment for European chess and represent a direct fulfilment of commitments made by ECU leadership during the organisation's pre-election period. The two agreements are as follows: A Promise Kept: Delivering on Election Commitments Both agreements were publicly outlined by ECU leadership during the pre-election period []",
