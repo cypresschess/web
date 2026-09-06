@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
+         "pubDate" : "Sun, 06 Sep 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
+      },
+      {
          "description" : "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost twice. The Ganges Grandmasters and Alpine APL Pipers also began with wins as the six-team double round-robin stage commenced at the Lalit Ashok hotel in Bengaluru. | Pictured: Javokhir Sindarov (American Gambits) defeated Viswanathan Anand (Alaskan Knights) | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,36 @@ news_feed (
          "title" : "Global Chess League: American Gambits win both their matches on opening day"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824104.cms\" />Ian Nepomniachtchi has praised Hans Niemann as a \"very good and formidable player\" but said he does not like the American's personality. In an exclusive interview with TimesofIndia.com, the Russian grandmaster reacted to Niemann's recent call for FIDE to punish players over public accusations, saying the American \"can't stop playing the victim card\" and comparing his image to Conor McGregor's.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/really-like-his-chess-not-his-personality-russia-no-1-nepo-on-hans-niemanns-fide-must-punish-remarks-exclusive/articleshow/133824104.cms",
+         "pubDate" : "Sun, 06 Sep 2026 03:31:59",
+         "title" : "'Like his chess, not personality': Russian GM on Niemann's 'FIDE must punish' remarks"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133823825.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-new-chess-generation-needs-exposure-says-vidit-gujrathi/articleshow/133823825.cms",
+         "pubDate" : "Sun, 06 Sep 2026 03:06:11",
+         "title" : "Global Chess League: 'New chess generation needs exposure,' says Vidit Gujrathi"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-months-moscow-to-munich-flights-but-now-he-is-fed-up-behind-russia-no-1-ian-nepomniachtchis-tattoos/articleshow/133821671.cms",
          "pubDate" : "Sun, 06 Sep 2026 01:21:40",
-         "title" : "'Fed up': The story behind Russia No. 1 Ian Nepomniachtchi's tattoos"
+         "title" : "Russia No.1 GM's tattoos took 8 months, flight to Munich &amp; pain; now he's 'fed up'"
+      },
+      {
+         "description" : "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
+         "pubDate" : "Sat, 05 Sep 2026 20:44:00",
+         "title" : "Xiong Captures His 5th Bullet Brawl Title"
       },
       {
          "description" : "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal",
@@ -562,22 +594,6 @@ news_feed (
          "title" : "Magnus Carlsen has a lot to teach, he's one of the best, says Divya Deshmukh"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133544842.cms\" />World champion D Gukesh shared a funny exchange with an online troll who initially told him to retire. After Gukesh jokingly replied, \"Sorry I'm retired bro\" when asked for a chess match, the user revealed it was a dare from friends. Gukesh posted the exchange with \"Haters are fun bro\" amid scrutiny over his recent form.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-retired-bro-world-chess-champion-d-gukeshs-cheeky-reply-to-troll-gets-unexpected-twist/articleshow/133544842.cms",
-         "pubDate" : "Wed, 26 Aug 2026 15:54:37",
-         "title" : "'I'm retired bro': Gukesh's cheeky reply to troll gets unexpected twist"
-      },
-      {
-         "description" : "GM Fabiano Caruana continues to lead GM Praggnanandhaa Rameshbabu 9-3 in the 2026 Grand Chess Tour Finals title match after making a draw in game two. Praggnanandhaa had huge winning chances in the opposite-color bishop endgame, but Caruana surviv...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-5",
-         "pubDate" : "Wed, 26 Aug 2026 15:46:00",
-         "title" : "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match"
-      },
-      {
          "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-1",
          "pubDate" : "Tue, 25 Aug 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133474510.cms\" />As India nears its 100th Grandmaster, veteran GM Pravin Thipsay questions the booming coaching industry, arguing that expensive training is often unnecessary and independent thinking matters more. While he calls the ecosystem an \"unfortunate racket\", Grandmaster Aaryan Varshney offers a counterpoint, saying guidance remains crucial in the computer era. With inputs from Grandmasters, the story examines whether aspiring players really need to hire an expensive coach to become a GM.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/an-unfortunate-racket-as-india-nears-its-100th-chess-grandmaster-is-an-expensive-coach-all-you-need/articleshow/133474510.cms",
-         "pubDate" : "Mon, 24 Aug 2026 20:12:20",
-         "title" : "'An unfortunate racket': As India nears 100th GM, is expensive coach a must?"
       },
       {
          "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
