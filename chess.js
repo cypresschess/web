@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves. The second example features Jos&eacute; Garc&iacute;a Molina against Sanan Sjugirov, where White sacrifices material for a dangerous initiative and builds a powerful attack against the black king. Both games show how quickly even very strong grandmasters can come under pressure in blitz when tactical threats and initiative take over.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/former-super-gms-taken-down-the-underdog",
+         "pubDate" : "Sun, 06 Sep 2026 18:30:00",
+         "title" : "Former Super GMs taken down - The Underdog"
+      },
+      {
          "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
