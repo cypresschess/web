@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day three of the Global Chess League features four team matches, with Magnus Carlsen set to take centre stage twice. At 12:00, Carlsen and the Alpine APL Pipers face the PBG Alaskan Knights, before taking on the FYERS American Gambits at 15:00. The second match will see Carlsen face Javokhir Sindarov on the icon board. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Mon, 07 Sep 2026 11:45:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match wins, as the standings tightened after eight encounters. The Triveni Continental Kings, meanwhile, remain without a match point after suffering a third consecutive loss. | Photo: Global Chess League",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/killed-by-your-own-preparation/",
          "pubDate" : "Mon, 17 Aug 2026 13:00:00",
          "title" : "Killed by your own preparation"
-      },
-      {
-         "description" : "On Tuesday August 18th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 24th European Union Youth Chess Championship U8, U10, U12 and U14 will start. European Union Youth Chess Championship 2026 under the patronage of the European Chess Union is organized again by Sachova skola Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. The event is supported by the Zlin Region, City Roznov pod Radhostem and Hotel Energetic. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/24th-european-union-youth-chess-championship-2026-starts/",
-         "pubDate" : "Mon, 17 Aug 2026 08:49:17",
-         "title" : "24th European Union Youth Chess Championship 2026 starts"
       }
    ]
 }
