@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match wins, as the standings tightened after eight encounters. The Triveni Continental Kings, meanwhile, remain without a match point after suffering a third consecutive loss. | Photo: Global Chess League",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-2",
+         "pubDate" : "Mon, 07 Sep 2026 08:10:00",
+         "title" : "Global Chess League: Pipers, Gambits and Grandmasters tied for first place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133867862.cms\" />The Chess Olympiad's historic US-Russia rivalry takes a striking turn in Samarkand. The United States arrives with a star-studded team, with Levon Aronian seeking a record fourth gold medal. Russia, meanwhile, remains barred from competing following its federation's suspension amid the Ukraine dispute. Ian Nepomniachtchi reflects on Russia's absence, highlighting how politics has reshaped one of chess's biggest rivalries.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-america-russia-paradox-one-chases-historic-gold-at-chess-olympiad-the-other-not-allowed-to-play/articleshow/133867862.cms",
+         "pubDate" : "Mon, 07 Sep 2026 06:42:37",
+         "title" : "The US-Russia Paradox: One chases historic gold at Olympiad, the other not allowed to play"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133861214.cms\" />The Global Chess League features a highly anticipated match between Magnus Carlsen and Javokhir Sindarov. This rapid chess encounter is expected to produce a decisive winner on the icon board. Bengaluru GM Pranav Anand believes Carlsen is the overwhelming favorite in this contest. Sindarov's best opportunity to challenge Carlsen is during the tournament's initial rounds. Previous results saw Alpine APL Pipers and Ganges Grandmasters secure victories.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
          "pubDate" : "Sun, 06 Sep 2026 13:00:00",
          "title" : "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten"
-      },
-      {
-         "description" : "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmasters and rising stars, with the title to be decided through a double round-robin stage followed by a two-match final. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Sun, 06 Sep 2026 11:45:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133833620.cms\" />Levon Aronian described his ascent to the world number two ranking as a miracle in his chess journey. Despite not clinching the classical World Championship title, he has no regrets. Former champion Vladimir Kramnik commented on Aronian's modest view of his own skills, recognizing Aronian's outstanding achievements, which include two World Cup victories and multiple Olympiad gold medals.",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
          "pubDate" : "Sat, 29 Aug 2026 05:46:00",
          "title" : "Kasparov, Topalov To Renew Rivalry In $144,000 Chess960 Match"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133602684.cms\" />R Praggnanandhaa clinched the prestigious Grand Chess Tour title in St Louis, USA, adding to his earlier triumph at the Norway Chess event this summer. As the first Indian to achieve such a notable feat, his exceptional mental fortitude was on display during the intense final rounds. This victory represents a significant milestone for Indian chess, especially ahead of the upcoming Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-golden-summer-from-norway-chess-glory-to-gct-crown/articleshow/133602684.cms",
-         "pubDate" : "Sat, 29 Aug 2026 02:53:20",
-         "title" : "Praggnanandhaa's golden summer: From Norway Chess glory to GCT crown"
       },
       {
          "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
