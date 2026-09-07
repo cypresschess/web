@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
          "pubDate" : "Wed, 19 Aug 2026 07:22:09",
          "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
-      },
-      {
-         "description" : "Last week I said knowing too much can lead you astray. Owning a pickaxe tempts you toward the hikes that need one. But if your body isn't ready, the pickaxe doesn't help you up the mountain. It's what gets you killed on it. In chess, that's getting into positions you can't handle. Let me show []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/killed-by-your-own-preparation/",
-         "pubDate" : "Mon, 17 Aug 2026 13:00:00",
-         "title" : "Killed by your own preparation"
       }
    ]
 }
