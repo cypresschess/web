@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "François-Andr&eacute; Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitation of Frederick II, visited Sanssouci Palace. A look back at the remarkable life of one of the first great names in chess history. | Picture: François-Andr&eacute; Philidor (1726-1795) by Augustin de Saint-Aubin and Charles-Nicolas Cochin",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
+         "pubDate" : "Mon, 07 Sep 2026 20:00:00",
+         "title" : "Philidor at 300: Chess Master, Musician and Pioneer"
+      },
+      {
          "description" : "Day three of the Global Chess League features four team matches, with Magnus Carlsen set to take centre stage twice. At 12:00, Carlsen and the Alpine APL Pipers face the PBG Alaskan Knights, before taking on the FYERS American Gambits at 15:00. The second match will see Carlsen face Javokhir Sindarov on the icon board. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
          "pubDate" : "Mon, 07 Sep 2026 11:45:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&#38;mdash;Jan Henric Buettner, Wadim Rosenstein, and &#38;nbsp;Timur Turlov&#38;mdash;will join to discuss their visions for the future of ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
+         "pubDate" : "Mon, 07 Sep 2026 10:00:00",
+         "title" : "How To Watch The FIDE Presidential Debate On September 9"
       },
       {
          "description" : "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match wins, as the standings tightened after eight encounters. The Triveni Continental Kings, meanwhile, remain without a match point after suffering a third consecutive loss. | Photo: Global Chess League",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
          "pubDate" : "Thu, 27 Aug 2026 15:23:00",
          "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd"
-      },
-      {
-         "description" : "We&#39;re excited to announce a special edition of the Gambit Cup, a poker event taking place on August 31. The event starts at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST and is open to all Gambit members. The Gambit Cup is a daily poker tournament host...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-gambit-cup",
-         "pubDate" : "Thu, 27 Aug 2026 08:00:00",
-         "title" : "Play In The Special Edition Of The Gambit Cup On August 31"
       },
       {
          "description" : "National Chess Day!National Chess Day is Saturday, Oct. 10. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2026FREE. This is case-sensitive. Be sure to rate the event by 11:59 p.m. Central on Wednesday, Oct. 14 to ensure the waiver of fees.Free online TLA. Online TLAs are always free, of course, not just for Nat",
