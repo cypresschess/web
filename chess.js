@@ -10,6 +10,14 @@ news_feed (
          "title" : "Philidor at 300: Chess Master, Musician and Pioneer"
       },
       {
+         "description" : "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn&#39;t stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
+         "pubDate" : "Mon, 07 Sep 2026 13:56:00",
+         "title" : "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead"
+      },
+      {
          "description" : "Day three of the Global Chess League features four team matches, with Magnus Carlsen set to take centre stage twice. At 12:00, Carlsen and the Alpine APL Pipers face the PBG Alaskan Knights, before taking on the FYERS American Gambits at 15:00. The second match will see Carlsen face Javokhir Sindarov on the icon board. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
          "pubDate" : "Fri, 28 Aug 2026 07:00:50",
          "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
-         "pubDate" : "Thu, 27 Aug 2026 15:23:00",
-         "title" : "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd"
       },
       {
          "description" : "National Chess Day!National Chess Day is Saturday, Oct. 10. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2026FREE. This is case-sensitive. Be sure to rate the event by 11:59 p.m. Central on Wednesday, Oct. 14 to ensure the waiver of fees.Free online TLA. Online TLAs are always free, of course, not just for Nat",
