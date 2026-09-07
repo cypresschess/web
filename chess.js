@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133861214.cms\" />The Global Chess League features a highly anticipated match between Magnus Carlsen and Javokhir Sindarov. This rapid chess encounter is expected to produce a decisive winner on the icon board. Bengaluru GM Pranav Anand believes Carlsen is the overwhelming favorite in this contest. Sindarov's best opportunity to challenge Carlsen is during the tournament's initial rounds. Previous results saw Alpine APL Pipers and Ganges Grandmasters secure victories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sindarovs-chance-to-shock-carlsen-experts-feel-uzbek-gm-will-have-to-seize-his-moments/articleshow/133861214.cms",
+         "pubDate" : "Mon, 07 Sep 2026 03:12:42",
+         "title" : "'Sindarov's chance to shock Carlsen': Experts feel Uzbek GM will have to seize his moments"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133859653.cms\" />Nihal Sarin is excited to represent India at the Chess Olympiad in Samarkand, where India will defend its Open title, but is currently focused on the Global Chess League. The 22-year-old calls the Olympiad a long-time dream. Meanwhile, American Gambits lead the GCL standings after two days, despite Nihal's individual win over Levon Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-long-time-dream-nihal-sarin-excited-but-not-thinking-about-indias-chess-olympiad-title-defence/articleshow/133859653.cms",
+         "pubDate" : "Mon, 07 Sep 2026 02:14:59",
+         "title" : "'Long dream': Nihal Sarin 'excited' but 'not thinking about' Olympiad title defence"
+      },
+      {
          "description" : "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves. The second example features Jos&eacute; Garc&iacute;a Molina against Sanan Sjugirov, where White sacrifices material for a dangerous initiative and builds a powerful attack against the black king. Both games show how quickly even very strong grandmasters can come under pressure in blitz when tactical threats and initiative take over.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133580836.cms\" />In a remarkable display of skill and tenacity, R Praggnanandhaa clinched victory at the Grand Chess Tour Finals in St. Louis, overturning a daunting six-point deficit against renowned competitor Fabiano Caruana. This landmark win not only made him the first Indian champion of the Grand Chess Tour but also earned him a hefty prize of $200,000, solidifying his status in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-scripts-history-becomes-first-indian-to-win-grand-chess-tour/articleshow/133580836.cms",
-         "pubDate" : "Fri, 28 Aug 2026 00:53:50",
-         "title" : "Praggnanandhaa scripts history, becomes first Indian to win Grand Chess Tour"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-gambit-cup",
          "pubDate" : "Thu, 27 Aug 2026 08:00:00",
          "title" : "Play In The Special Edition Of The Gambit Cup On August 31"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133547352.cms\" />A remarkable teacher-student story from the Asian Junior Chess Championships, where India's 94th GM and Northeast's first GM, 17-year-old Mayank Chakraborty, and his 13-year-old pupil Pratitee Bordoloi won the classical titles in Mumbai. The story explores their three-month mentoring journey, the pressure of being top seeds, Pratitee's WGM norm, and Mayank's rise while balancing his own career with mentoring.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/northeasts-first-gm-17-year-old-mayank-chakraborty-and-pupil-pratitee-bordoloi-become-asias-junior-chess-champions/articleshow/133547352.cms",
-         "pubDate" : "Thu, 27 Aug 2026 02:30:00",
-         "title" : "Northeast's first GM, 17-yo Mayank and pupil Pratitee become Asia's chess champions"
       },
       {
          "description" : "National Chess Day!National Chess Day is Saturday, Oct. 10. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2026FREE. This is case-sensitive. Be sure to rate the event by 11:59 p.m. Central on Wednesday, Oct. 14 to ensure the waiver of fees.Free online TLA. Online TLAs are always free, of course, not just for Nat",
