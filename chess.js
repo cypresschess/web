@@ -10,6 +10,22 @@ news_feed (
          "title" : "Mind vs Machine"
       },
       {
+         "description" : "GM Alireza Firouzja&#39;s Triveni Continental Kings continued their comeback by beating the leaders, GM Magnus Carlsen&#39;s Alpine APL Pipers, as the 2026 Tech Mahindra Global Chess League crossed the halfway mark with no teams breaking clear of the pack...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
+         "pubDate" : "Tue, 08 Sep 2026 14:50:00",
+         "title" : "All Teams Still In Fight As Global Chess League Crosses Halfway"
+      },
+      {
+         "description" : "The lead wasn&#39;t necessarily the ideal place to be in Titled Tuesday on September 8, before GM Liem Le won his first of the year with a 9.5 score, ahead of GM Hikaru Nakamura and IM Tobias Koelle on tiebreaks. For the second straight week, GM Jan-K...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/liem-le-wins-titled-tuesday-september-8-2026",
+         "pubDate" : "Tue, 08 Sep 2026 13:49:00",
+         "title" : "Le Last Leader In Back-And-Forth Titled Tuesday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133925312.cms\" />Abhimanyu Mishra's winning position against Leon Luke Mendonca turned into heartbreak after a promotion sequence was ruled incomplete and illegal in a dramatic GCL encounter. With seconds left, Mishra's dropped rook cost him crucial time, forcing him to replay the promotion with just one second remaining. He flagged instantly, handing Ganges Grandmasters a match-winning victory despite Mendonca's apology.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +72,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/that-was-a-pity-viswanathan-anand-after-losing-on-time-to-magnus-carlsen-who-lauds-indias-love-for-chess/articleshow/133904975.cms",
          "pubDate" : "Tue, 08 Sep 2026 03:29:27",
          "title" : "'That was a pity': V Anand loses on time to Carlsen, who lauds India's 'love for chess'"
+      },
+      {
+         "description" : "The 3rd FIDE Olympiad for People with Disabilities begins this week in Samarkand, Uzbekistan, with the opening ceremony on Thursday and the first round beginning Friday, Sept. 11, at 5 a.m. CDT (3 p.m. local time).According to FIDE, a record-setting 40 teams will participate in the seven-round event, which concludes on Thursday, Sept. 17. The tournament overlaps for two rounds with the 46th FIDE Chess Olympiad, which begins Wednesday, Sept. 16, also in Samarkand. This is the first time these events are hosted concurrently. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo co",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/3rd-olympiad-people-disabilities-begins-friday",
+         "pubDate" : "Tue, 08 Sep 2026 00:00:00",
+         "title" : "3rd Olympiad for People with Disabilities Begins Friday"
+      },
+      {
+         "description" : "This week's exercises come from the 2026 Harvey Lerman Florida State Championship, which will be featured later this week in our Labor Day Weekend Wrap-Up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-harvey-lerman-florida-state-championship",
+         "pubDate" : "Tue, 08 Sep 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 Harvey Lerman Florida State Championship"
       },
       {
          "description" : "François-Andr&eacute; Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitation of Frederick II, visited Sanssouci Palace. A look back at the remarkable life of one of the first great names in chess history. | Picture: François-Andr&eacute; Philidor (1726-1795) by Augustin de Saint-Aubin and Charles-Nicolas Cochin",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Sofia Cup 2026 - Games and results"
       },
       {
-         "description" : "GM Hikaru Nakamura notched his 65th career Bullet Brawl title and 16th of 2026 on Saturday after finishing 23 points clear of the field, despite taking his &#34;foot off the gas&#34; at the end of the arena. Nakamura scored 51/65 and posted a score of 17...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
-         "pubDate" : "Sat, 29 Aug 2026 23:07:00",
-         "title" : "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title"
-      },
-      {
          "description" : " The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour were in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. In the semi-finals Praggnanandhaa beat Vincent Keymer comfortably, winning one of the two classical games and then both rapid games, Keymer won the blitz section but it didn't matter. Fabiano Caruana overcame Wesley So in a close ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -608,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fridrik-olafsson-memorial",
          "pubDate" : "Sat, 29 Aug 2026 11:00:00",
          "title" : "Fridrik Olafsson Memorial"
-      },
-      {
-         "description" : "The 13th World Champion GM Garry Kasparov will face GM Veselin Topalov, the opponent who defeated him in the final rated classical game of his career, in a $144,000 Chess960 match in St. Louis. The two former world champions will play 12 games ov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
-         "pubDate" : "Sat, 29 Aug 2026 05:46:00",
-         "title" : "Kasparov, Topalov To Renew Rivalry In $144,000 Chess960 Match"
       },
       {
          "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "European Chess Union Signs Historic €800,000 Partnership with Super Foundation"
       },
       {
-         "description" : "This week's puzzles begin a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-1",
-         "pubDate" : "Tue, 25 Aug 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 1"
-      },
-      {
          "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
          "pubDate" : "Thu, 20 Aug 2026 06:44:00",
          "title" : "13th Sinquefield Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "When the dust settled Wednesday at the Saint Louis Chess Club and the Sinquefield Cup and Cairns Cup were finished, the leaders at the halfway point still stood atop the standings. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Seirawan, So, Tan, Ashley (photo courtesy SLCC / Ootes)<br> <br> <br> <br> American GM Wesley So won his second straight Sinquefield Cup, his third total, after a playoff against Indian GM Praggnanandhaa Rameshbabu that went to the Armageddon phase; in the Cairns Cup, Chinese GM Tan Zhongyi kept her lead despite a last-round stumble, while 16-year-old American IM Alice Lee finished in second place for the second year in a row, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/run-it-back-so-wins-sinquefield-tan-takes-cairns",
-         "pubDate" : "Thu, 20 Aug 2026 00:00:00",
-         "title" : "Run It Back: So Wins Sinquefield; Tan Takes Cairns"
       },
       {
          "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
