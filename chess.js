@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham. The narrative, in comic book form, captures the excitement and suspense of a classic sports showdown and explores thought-provoking themes about where humanity stands at the rise of AI.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mind-vs-machine",
+         "pubDate" : "Tue, 08 Sep 2026 19:00:00",
+         "title" : "Mind vs Machine"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133925312.cms\" />Abhimanyu Mishra's winning position against Leon Luke Mendonca turned into heartbreak after a promotion sequence was ruled incomplete and illegal in a dramatic GCL encounter. With seconds left, Mishra's dropped rook cost him crucial time, forcing him to replay the promotion with just one second remaining. He flagged instantly, handing Ganges Grandmasters a match-winning victory despite Mendonca's apology.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms",
+         "pubDate" : "Tue, 08 Sep 2026 12:31:01",
+         "title" : "'Leon was apologising': How an illegal move cost Abhimanyu a sure-shot win in GCL"
+      },
+      {
          "description" : "Day four of the Global Chess League marks the end of the first half of the preliminary stage. One of the highlights of today's four matches is the clash between Alireza Firouzja and Magnus Carlsen on the icon board, as defending champions Triveni Continental Kings face tournament leaders Alpine APL Pipers at 15:00 CEST. The other encounters also promise top-class chess, battles for prestige and time-trouble drama. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
          "pubDate" : "Tue, 08 Sep 2026 09:23:39",
          "title" : "Global Chess League: Carlsen's Pipers Take the Lead"
+      },
+      {
+         "description" : "Staying true to your opening repertoire just got easier with Game Review. Whenever you&#39;re reviewing a game, your coach will tell you when you&#39;ve deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-game-review-course-check",
+         "pubDate" : "Tue, 08 Sep 2026 09:03:22",
+         "title" : "Master Your Openings With Game Review's New Feature"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133911399.cms\" />Rising Indian Grandmaster Pranesh M has impressed at the Global Chess League after entering as a late replacement, defeating elite players and breaking into the world's top 50. He discusses his close connection with Vaishali Rameshbabu, dismisses rumours of assisting Praggnanandhaa, and credits training with Ramesh. Pranesh also highlights India's passionate chess crowds and his growing international ambitions.",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "European Chess Union Launches Inaugural European Chess Superleague"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133639519.cms\" />Praggnanandhaa has completed a remarkable comeback after his disappointing 2026 Candidates campaign, winning the Grand Chess Tour Finals in St Louis by beating Fabiano Caruana 15-13. He became the first Indian to win the title. Five-time world champion Viswanathan Anand praised his resilience and said, \"I think at the moment, I would say he's the number one player in the world.\"",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-is-no-1-in-the-world-viswanathan-anand-after-indias-first-grand-chess-tour-title-exclusive/articleshow/133639519.cms",
-         "pubDate" : "Mon, 31 Aug 2026 01:51:48",
-         "title" : "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
-      },
-      {
          "description" : "The annual U.S. Open produces more than just exciting chess. The Delegates meet to tweak, create, and massage our rulebook. This year had only one major rules upgrade, but it was indeed major. In fact, it covered an entire chapter. The old correspondence chess rules (chapter 9) were overhauled to meet the needs of our correspondence chess community. But other motions were passed that can impact the rulebook in years to come, and several more attempts to shake things up failed to pass muster. Read on! But first&hellip;Egg on my face: An earlier column outlined a minor, but important, inconsistency between the online and printed versions of rule 21L1. One version dictated a time limit of seven",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hassabis-on-ai",
          "pubDate" : "Fri, 28 Aug 2026 15:00:00",
          "title" : "Hassabis on chess and AI"
-      },
-      {
-         "description" : "No one has ever scored a perfect 11/11 in 3 0 Thursday, but GM Jeffery Xiong became the closest player to that elusive mark in the second tournament on August 27. Xiong won his first 10 games and had a forced mate on the board in the 11th, before ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
-         "pubDate" : "Fri, 28 Aug 2026 12:08:28",
-         "title" : "Xiong Nearly Perfect In 3 0 Thursday"
       },
       {
          "description" : "The European Union Youth Chess Championship 2026 concluded in Roznov pod Radhostem in the Czech Republic. The last rounds were full of fights and tension. In category Boys U8 took the first place Kalin Kotsev (BUL), the second place Majus Marcinkevicius (LTU) and the third Artur Zych (POL). In category Girls U8 took the first place Sophia Kaliskami (GRE), the second place Greta Flora Banvolgyi (HUN) and the third Ioana Onica (ROU). Champion EU in category Boys U10 has become []",
