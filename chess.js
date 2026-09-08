@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers nevertheless lost to the PBG Alaskan Knights. Carlsen's team then bounced back with a 15-3 victory over the previously leading FYERS American Gambits. After four of ten matches, the Pipers lead the table with nine match points, followed by four teams on six. | Photos: Global Chess League",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
+         "pubDate" : "Tue, 08 Sep 2026 09:23:39",
+         "title" : "Global Chess League: Carlsen's Pipers Take the Lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133911399.cms\" />Rising Indian Grandmaster Pranesh M has impressed at the Global Chess League after entering as a late replacement, defeating elite players and breaking into the world's top 50. He discusses his close connection with Vaishali Rameshbabu, dismisses rumours of assisting Praggnanandhaa, and credits training with Ramesh. Pranesh also highlights India's passionate chess crowds and his growing international ambitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/foreigners-wondering-what-is-this-india-pranesh-on-gcl-praggnanandhaa-rumours-and-vaishali-exclusive/articleshow/133911399.cms",
+         "pubDate" : "Tue, 08 Sep 2026 06:21:23",
+         "title" : "'Foreigners wondering what is this India': Pranesh on GCL, Praggnanandhaa 'rumours', and Vaishali | Exclusive"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133904975.cms\" />Magnus Carlsen edged Viswanathan Anand in a dramatic time scramble on Day 3 of the Global Chess League, with Anand losing on time despite his team securing victory. Carlsen later drew Javokhir Sindarov after unleashing the surprise 3...f6. Despite calling his form underwhelming, the World No. 1 praised Bengaluru's passionate chess crowd as the tournament delivered another action-packed day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/that-was-a-pity-viswanathan-anand-after-losing-on-time-to-magnus-carlsen-who-lauds-indias-love-for-chess/articleshow/133904975.cms",
+         "pubDate" : "Tue, 08 Sep 2026 03:29:27",
+         "title" : "'That was a pity': V Anand loses on time to Carlsen, who lauds India's 'love for chess'"
+      },
+      {
          "description" : "François-Andr&eacute; Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitation of Frederick II, visited Sanssouci Palace. A look back at the remarkable life of one of the first great names in chess history. | Picture: François-Andr&eacute; Philidor (1726-1795) by Augustin de Saint-Aubin and Charles-Nicolas Cochin",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,14 +538,6 @@ news_feed (
          "title" : "European Chess Union Launches Inaugural European Chess Superleague"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133640810.cms\" />Former World Champ Anand Reflects On How The Sport Can Learn To Attract Major Sponsors And Pragg's Incredible Form",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-want-chess-to-mirror-crickets-commercial-pull-viswanathan-anand/articleshow/133640810.cms",
-         "pubDate" : "Mon, 31 Aug 2026 03:43:52",
-         "title" : "'I want chess to mirror cricket's commercial pull': Viswanathan Anand"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133639519.cms\" />Praggnanandhaa has completed a remarkable comeback after his disappointing 2026 Candidates campaign, winning the Grand Chess Tour Finals in St Louis by beating Fabiano Caruana 15-13. He became the first Indian to win the title. Five-time world champion Viswanathan Anand praised his resilience and said, \"I think at the moment, I would say he's the number one player in the world.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
          "pubDate" : "Sun, 30 Aug 2026 16:05:00",
          "title" : "Sofia Cup 2026 - Games and results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622287.cms\" />Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy L&oacute;pez gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/italian-jobs-french-connections-and-berlin-walls-chesss-european-tour/articleshow/133622287.cms",
-         "pubDate" : "Sun, 30 Aug 2026 03:21:05",
-         "title" : "Italian jobs, French connections and Berlin walls: Chess's European tour"
       },
       {
          "description" : "GM Hikaru Nakamura notched his 65th career Bullet Brawl title and 16th of 2026 on Saturday after finishing 23 points clear of the field, despite taking his &#34;foot off the gas&#34; at the end of the arena. Nakamura scored 51/65 and posted a score of 17...",
