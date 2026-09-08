@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day four of the Global Chess League marks the end of the first half of the preliminary stage. One of the highlights of today's four matches is the clash between Alireza Firouzja and Magnus Carlsen on the icon board, as defending champions Triveni Continental Kings face tournament leaders Alpine APL Pipers at 15:00 CEST. The other encounters also promise top-class chess, battles for prestige and time-trouble drama. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Tue, 08 Sep 2026 11:45:00",
+         "title" : "Global Chess League, Day 4 - Live!"
+      },
+      {
          "description" : "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers nevertheless lost to the PBG Alaskan Knights. Carlsen's team then bounced back with a 15-3 victory over the previously leading FYERS American Gambits. After four of ten matches, the Pipers lead the table with nine match points, followed by four teams on six. | Photos: Global Chess League",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/foreigners-wondering-what-is-this-india-pranesh-on-gcl-praggnanandhaa-rumours-and-vaishali-exclusive/articleshow/133911399.cms",
          "pubDate" : "Tue, 08 Sep 2026 06:21:23",
-         "title" : "'Foreigners wondering what is this India': Pranesh on GCL, Praggnanandhaa 'rumours', and Vaishali | Exclusive"
+         "title" : "'What is this India?' Bengaluru chess crowds leave foreigners wondering at GCL"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133904975.cms\" />Magnus Carlsen edged Viswanathan Anand in a dramatic time scramble on Day 3 of the Global Chess League, with Anand losing on time despite his team securing victory. Carlsen later drew Javokhir Sindarov after unleashing the surprise 3...f6. Despite calling his form underwhelming, the World No. 1 praised Bengaluru's passionate chess crowd as the tournament delivered another action-packed day.",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
          "pubDate" : "Mon, 07 Sep 2026 13:56:00",
          "title" : "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead"
-      },
-      {
-         "description" : "Day three of the Global Chess League features four team matches, with Magnus Carlsen set to take centre stage twice. At 12:00, Carlsen and the Alpine APL Pipers face the PBG Alaskan Knights, before taking on the FYERS American Gambits at 15:00. The second match will see Carlsen face Javokhir Sindarov on the icon board. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Mon, 07 Sep 2026 11:45:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&#38;mdash;Jan Henric Buettner, Wadim Rosenstein, and &#38;nbsp;Timur Turlov&#38;mdash;will join to discuss their visions for the future of ches...",
