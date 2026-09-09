@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Andrew Martin presents the Evans Gambit as a dangerous and highly practical weapon for club players, especially those rated below 1800. Using a historic game by William Davies Evans, he shows how White gives up a pawn for rapid development, central control and direct attacking chances against the black king. Martin also explains why the opening remains relevant today despite modern engine analysis, with even top players such as Magnus Carlsen facing it in recent practice. The course is designed not only to teach a playable repertoire, but also to sharpen tactical vision and help players enjoy dynamic attacking chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-the-evans-gambit-is-still-dangerous",
+         "pubDate" : "Wed, 09 Sep 2026 07:05:19",
+         "title" : "Andrew Martin - The Evans Gambit is still dangerous"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133952570.cms\" />Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances. Anand called the game a \"comedy of errors\" after declining a draw offer. World Championship challenger Sindarov, however, called Anand \"world-class\", showering praise on the legend's enduring quality at 56.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms",
+         "pubDate" : "Wed, 09 Sep 2026 05:05:19",
+         "title" : "'It's madness': Anand loses on time after declining draw against Sindarov"
+      },
+      {
          "description" : "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham. The narrative, in comic book form, captures the excitement and suspense of a classic sports showdown and explores thought-provoking themes about where humanity stands at the rise of AI.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -266,7 +282,7 @@ news_feed (
          "title" : "England and Slovenia win European Senior Team Chess Championship 2026"
       },
       {
-         "description" : "&#8212; from Nigel Povah The European Senior Team Chess Championship kicks off today in the seaside resort of Hersonissos in Crete, with a total of 14 teams participating in the...",
+         "description" : "&#8212; from Nigel Povah England retain two European Senior Team Chess Titles! England retained two of the European titles (which they had won last year) in the European Senior Chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2026 reaches midway point"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133667671.cms\" />India's top chess player K Humpy is uncertain about her board assignment for the Olympiad. She recently experienced a disappointing performance in Norway after a long break. Humpy withdrew from a tournament due to security concerns and felt disturbed. She is now focused on regaining her good form and shape. The team is preparing to defend their gold medal in Uzbekistan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-went-according-to-my-plans-k-humpy-opens-up-ahead-of-olympiad-title-defence/articleshow/133667671.cms",
-         "pubDate" : "Tue, 01 Sep 2026 04:07:50",
-         "title" : "'Nothing went according to my plans': K Humpy opens up ahead of Olympiad title defence"
-      },
-      {
          "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
          "pubDate" : "Wed, 19 Aug 2026 12:24:48",
          "title" : "The 11th Menchik Memorial"
-      },
-      {
-         "description" : "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit, while Volume 2 provides practical answers to the Petroff, Philidor, Two Knights Defense, Hungarian Defense and several sharp gambits and traps. The aim is a ready to play repertoire that seizes the initiative early, sharpens tactical vision and puts Black under pressure from the very first moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
-         "pubDate" : "Wed, 19 Aug 2026 07:22:09",
-         "title" : "Andrew Martin: Evans & Friends Vol.1 & 2"
       }
    ]
 }
