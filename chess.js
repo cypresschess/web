@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Who will be the next FIDE President? The election will take place on 26 September at the FIDE General Assembly in Samarkand, during the Chess Olympiad. Three candidates are seeking to succeed Arkady Dvorkovich: Wadim Rosenstein, Jan Henric Buettner and Timur Turlov. Today, they will meet for their first joint public debate, moderated by Grandmaster Maurice Ashley. Chess.com will broadcast the 90-minute discussion live on YouTube from 16:00 CEST. | Image: Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-election-the-three-candidates-face-off-live",
+         "pubDate" : "Wed, 09 Sep 2026 15:30:00",
+         "title" : "FIDE Election: The three candidates face off live"
+      },
+      {
+         "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 - save around €50!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-10",
+         "pubDate" : "Wed, 09 Sep 2026 15:00:00",
+         "title" : "ChessBase Summer-Special! - Part 10"
+      },
+      {
          "description" : "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen's Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triveni take on FYERS at 16:30. Top-board highlights include MVL v Carlsen, Nepomniachtchi v Firouzja and, later in the day, Sindarov v Firouzja. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
          "pubDate" : "Wed, 09 Sep 2026 11:45:00",
          "title" : "Global Chess League, Day 5 - Live!"
-      },
-      {
-         "description" : "The \"Legends and Prodigies\" tournament is taking place in Madrid from 7 to 12 September, bringing together five grandmasters and five international masters from different generations. The event is a double round-robin with a shortened classical time control. After three rounds, David Ant&oacute;n and Faustino Oro share the lead with 2 points each. In round four, Ant&oacute;n has White against Diego Flores, while Oro plays White against Ivan Sokolov. The third game is Jos&eacute; Cuenca v Jos&eacute; Mart&iacute;nez. | Live with commentary from 11:00 CEST | Photo: Mar Melero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
-         "pubDate" : "Wed, 09 Sep 2026 10:51:00",
-         "title" : "Legends & Prodigies, Round 4 - Live!"
       },
       {
          "description" : "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Ant&oacute;n Guijarro, the two players who had won their opening games. | Photo: Faustino Oro at the 2026 Wijk aan Zee tournament | Photo: Nils Rohde",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "Green Hills Resort Masters 2026 - Games and results"
       },
       {
-         "description" : "Hehehehehehehehe! Is it your dream coming true, or is it your worst nightmare? You can now get coached by the most formidable and cutest chess-playing entity in the world: Mittens! Along with the god-like chess-playing kitten, you can also get coa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-mittens-and-other-coaches",
-         "pubDate" : "Mon, 31 Aug 2026 08:00:00",
-         "title" : "Get Coached By The Almighty Mittens And Other New Coaches On Chess.com"
-      },
-      {
          "description" : "New flagship club competition to crown Europe's finest chess team, with a guaranteed prize fund of €300,000 - Bucharest, Romania, 2-10 February 2027 The European Chess Union (ECU) is proud to announce the creation of the European Chess Superleague, a groundbreaking new flagship club competition that will bring together the finest chess teams on the continent. The inaugural edition will be held in Bucharest, Romania, from 2 to 10 February 2027, in partnership with Super Foundation (Romania) as the host []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -792,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
          "pubDate" : "Wed, 19 Aug 2026 18:50:00",
          "title" : "Sinquefield Cup Tiebreaks - Live!"
-      },
-      {
-         "description" : "The English Chess Federation is pleased to host the 11th Menchik Memorial Tournament, which will take place from Monday 24th to Sunday 30th August 2026 at the ILEC Conference Centre....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-11th-menchik-memorial/",
-         "pubDate" : "Wed, 19 Aug 2026 12:24:48",
-         "title" : "The 11th Menchik Memorial"
       }
    ]
 }
