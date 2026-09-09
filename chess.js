@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Who will be the next FIDE President? The election will take place on 26 September at the FIDE General Assembly in Samarkand, during the Chess Olympiad. Three candidates are seeking to succeed Arkady Dvorkovich: Wadim Rosenstein, Jan Henric Buettner and Timur Turlov. Today, they will meet for their first joint public debate, moderated by Grandmaster Maurice Ashley. Chess.com will broadcast the 90-minute discussion live on YouTube from 16:00 CEST. | Image: Chess.com",
+         "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-election-the-three-candidates-face-off-live",
-         "pubDate" : "Wed, 09 Sep 2026 15:30:00",
-         "title" : "FIDE Election: The three candidates face off live"
+         "link" : "https://en.chessbase.com/post/review-opening-encyclopedia-2",
+         "pubDate" : "Wed, 09 Sep 2026 21:00:00",
+         "title" : "Review: Opening Encyclopedia 2026"
       },
       {
          "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 - save around €50!",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms",
          "pubDate" : "Wed, 09 Sep 2026 05:05:19",
          "title" : "'It's madness': Anand loses on time after declining draw against Sindarov"
+      },
+      {
+         "description" : "This week's exercises come from the 2026 Harvey Lerman Florida State Championship, which will be featured later this week in our Labor Day Weekend Wrap-Up. This might be the hardest set of exercises I've ever published! For the first time, I couldn't fit all the relevant variations and explanations into the text of the printout, and have to refer readers to the study for the full solution. Gems like these are why I'm delighted to live in the age when state and regional tournaments can broadcast top games with the world!For even more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable work",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-harvey-lerman-florida-state-championship",
+         "pubDate" : "Wed, 09 Sep 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 Harvey Lerman Florida State Championship"
       },
       {
          "description" : "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham. The narrative, in comic book form, captures the excitement and suspense of a classic sports showdown and explores thought-provoking themes about where humanity stands at the rise of AI.",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 2"
       },
       {
-         "description" : "Registration Open: 2026 Saint Louis Chess ConferenceWhen: October 22-24 Where: Chase Park Plaza, St. Louis, the city officially designated by the U.S. Senate as the Chess Capital of the United States. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Hosted by the Saint Louis Chess Club, US Chess, and the Kasparov Chess Foundation, the Saint Louis Chess Conference is a national gathering built specifically for the people advancing chess through research, education, and policy. The 2024 inaugural edition drew over 250 educators, researchers, and enthusiasts from 14 countries and 32 states. The conference is dedicated to the love of the game - transforming the chessboard in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/announcing-2026-saint-louis-chess-conference",
-         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
-         "title" : "Announcing The 2026 Saint Louis Chess Conference"
-      },
-      {
          "description" : "The European Chess Union (ECU) is pleased to announce the signing of two major partnership agreements with Super Foundation, totalling €800,000 in combined investment. The contracts, signed simultaneously on 20 August 2026, mark a defining moment for European chess and represent a direct fulfilment of commitments made by ECU leadership during the organisation's pre-election period. The two agreements are as follows: A Promise Kept: Delivering on Election Commitments Both agreements were publicly outlined by ECU leadership during the pre-election period []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -784,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
          "pubDate" : "Wed, 19 Aug 2026 23:06:12",
          "title" : "Quo vadis, Fischer Random Chess? (1)"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in the upcoming Grand Chess Tour Finals. Follow the games live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-         "pubDate" : "Wed, 19 Aug 2026 18:50:00",
-         "title" : "Sinquefield Cup Tiebreaks - Live!"
       }
    ]
 }
