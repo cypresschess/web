@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen's Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triveni take on FYERS at 16:30. Top-board highlights include MVL v Carlsen, Nepomniachtchi v Firouzja and, later in the day, Sindarov v Firouzja. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Wed, 09 Sep 2026 11:45:00",
+         "title" : "Global Chess League, Day 5 - Live!"
+      },
+      {
+         "description" : "The \"Legends and Prodigies\" tournament is taking place in Madrid from 7 to 12 September, bringing together five grandmasters and five international masters from different generations. The event is a double round-robin with a shortened classical time control. After three rounds, David Ant&oacute;n and Faustino Oro share the lead with 2 points each. In round four, Ant&oacute;n has White against Diego Flores, while Oro plays White against Ivan Sokolov. The third game is Jos&eacute; Cuenca v Jos&eacute; Mart&iacute;nez. | Live with commentary from 11:00 CEST | Photo: Mar Melero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
+         "pubDate" : "Wed, 09 Sep 2026 10:51:00",
+         "title" : "Legends & Prodigies, Round 4 - Live!"
+      },
+      {
+         "description" : "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Ant&oacute;n Guijarro, the two players who had won their opening games. | Photo: Faustino Oro at the 2026 Wijk aan Zee tournament | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oro-and-antn-guijarro-share-the-lead-in-madrid",
+         "pubDate" : "Wed, 09 Sep 2026 10:35:07",
+         "title" : "Oro and Ant&oacute;n Guijarro share the lead in Madrid"
+      },
+      {
          "description" : "Andrew Martin presents the Evans Gambit as a dangerous and highly practical weapon for club players, especially those rated below 1800. Using a historic game by William Davies Evans, he shows how White gives up a pawn for rapid development, central control and direct attacking chances against the black king. Martin also explains why the opening remains relevant today despite modern engine analysis, with even top players such as Magnus Carlsen facing it in recent practice. The course is designed not only to teach a playable repertoire, but also to sharpen tactical vision and help players enjoy dynamic attacking chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms",
          "pubDate" : "Tue, 08 Sep 2026 12:31:01",
          "title" : "'Leon was apologising': How an illegal move cost Abhimanyu a sure-shot win in GCL"
-      },
-      {
-         "description" : "Day four of the Global Chess League marks the end of the first half of the preliminary stage. One of the highlights of today's four matches is the clash between Alireza Firouzja and Magnus Carlsen on the icon board, as defending champions Triveni Continental Kings face tournament leaders Alpine APL Pipers at 15:00 CEST. The other encounters also promise top-class chess, battles for prestige and time-trouble drama. The four matches start at 12:00, 13:30, 15:00 and 16:30 CEST. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Tue, 08 Sep 2026 11:45:00",
-         "title" : "Global Chess League, Day 4 - Live!"
       },
       {
          "description" : "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers nevertheless lost to the PBG Alaskan Knights. Carlsen's team then bounced back with a 15-3 victory over the previously leading FYERS American Gambits. After four of ten matches, the Pipers lead the table with nine match points, followed by four teams on six. | Photos: Global Chess League",
