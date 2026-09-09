@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2026-09-06","22","<a href=https://ratings.uschess.org/event/202609060193 target='_blank'>Bellaire Sunday Swiss 2026.09.06</a>",
+"HOUSTON","2026-09-06","23","<a href=https://ratings.uschess.org/event/202609060183 target='_blank'>$1,500 SEPTEMBER CHAMPIONSHIP 2026</a>",
 "HOUSTON","2026-09-05","9","<a href=https://ratings.uschess.org/event/202609050243 target='_blank'>chesspanda09052026saturday</a>",
 "CYPRESS","2026-09-04","49","<a href=https://ratings.uschess.org/event/202609040283 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-09-04","21","<a href=https://ratings.uschess.org/event/202609040273 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-06-16","18","<a href=https://ratings.uschess.org/event/202606160013 target='_blank'>shadowcreek06162026tuesdaymorning</a>",
 "HOUSTON","2026-06-15","15","<a href=https://ratings.uschess.org/event/202606150083 target='_blank'>shadowcreek06152026mondayafternoon</a>",
 "HOUSTON","2026-06-15","12","<a href=https://ratings.uschess.org/event/202606150073 target='_blank'>shadowcreek06152026mondaymorning</a>",
-"HOUSTON","2026-06-14","41","<a href=https://ratings.uschess.org/event/202606140463 target='_blank'>Summer FIDE 2026</a>",
 ]);
