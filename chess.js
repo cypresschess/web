@@ -18,6 +18,14 @@ news_feed (
          "title" : "ChessBase Summer-Special! - Part 10"
       },
       {
+         "description" : "GM Javokhir Sindarov&#39;s second win in a row, this time over GM Alireza Firouzja, took FYERS American Gambits into the 2026 Tech Mahindra Global Chess League lead while Triveni Continental Kings slumped to the bottom after a second loss of the day. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-5",
+         "pubDate" : "Wed, 09 Sep 2026 13:10:00",
+         "title" : "Sindarov Beats Firouzja To Give American Gambits Lead"
+      },
+      {
          "description" : "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen's Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triveni take on FYERS at 16:30. Top-board highlights include MVL v Carlsen, Nepomniachtchi v Firouzja and, later in the day, Sindarov v Firouzja. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms",
          "pubDate" : "Wed, 09 Sep 2026 05:05:19",
          "title" : "'It's madness': Anand loses on time after declining draw against Sindarov"
+      },
+      {
+         "description" : "Jim Mennella was born in 1948 and grew up in Brooklyn. In the mid-1970s he joined the US Chess Federation and his bank's corporate team. He eventually became team captain, then president of the Bankers Athletic chess league. That's where Jim and I met, and we often traveled together to tournaments all over the Northeast. He peaked at expert level. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mennella at the 125th U.S. Open in 2025. (Photo by David Llada)<br> <br> <br> <br> In 1979, he played in his first U.S. Open. He liked the idea of playing in a large one-section tournament, and it became an annual habit. His first game was against GM Arthur Bisg",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/jim-mennella-1948-2026",
+         "pubDate" : "Wed, 09 Sep 2026 00:00:00",
+         "title" : "Jim Mennella (1948-2026)"
       },
       {
          "description" : "This week's exercises come from the 2026 Harvey Lerman Florida State Championship, which will be featured later this week in our Labor Day Weekend Wrap-Up. This might be the hardest set of exercises I've ever published! For the first time, I couldn't fit all the relevant variations and explanations into the text of the printout, and have to refer readers to the study for the full solution. Gems like these are why I'm delighted to live in the age when state and regional tournaments can broadcast top games with the world!For even more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable work",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Check is in the Mail September2026: Enduring the King('s Gambit)"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/september-2026-fide-rating-list",
-         "pubDate" : "Mon, 31 Aug 2026 12:48:00",
-         "title" : "Praggnanandhaa Indian No. 1 On September FIDE Rating List"
-      },
-      {
          "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2026 starts in Greece"
       },
       {
-         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-2",
-         "pubDate" : "Wed, 26 Aug 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 2"
-      },
-      {
          "description" : "The European Chess Union (ECU) is pleased to announce the signing of two major partnership agreements with Super Foundation, totalling €800,000 in combined investment. The contracts, signed simultaneously on 20 August 2026, mark a defining moment for European chess and represent a direct fulfilment of commitments made by ECU leadership during the organisation's pre-election period. The two agreements are as follows: A Promise Kept: Delivering on Election Commitments Both agreements were publicly outlined by ECU leadership during the pre-election period []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
          "pubDate" : "Thu, 20 Aug 2026 06:44:00",
          "title" : "13th Sinquefield Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or Freestyle, as it is now called, and discuss the reasons for its popularity. In the end we will propose some modifications to the rules and how the game should be played. Stay tuned.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
-         "pubDate" : "Wed, 19 Aug 2026 23:06:12",
-         "title" : "Quo vadis, Fischer Random Chess? (1)"
       }
    ]
 }
