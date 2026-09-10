@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133990606.cms\" />Indian Grandmaster Nihal Sarin reveals how board games, tennis and a late-night US Open quarterfinal kept him awake until 7 am in the middle of this Global Chess League. The 22-year-old also reflects on teammate Javokhir Sindarov, Viswanathan Anand's enduring legacy, and his excitement ahead of his first appearance in India's main squad at the Chess Olympiad in Samarkand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-chess-what-kept-indian-gm-nihal-sarin-up-until-7-am-amid-ongoing-gcl/articleshow/133990606.cms",
+         "pubDate" : "Thu, 10 Sep 2026 02:11:42",
+         "title" : "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night"
+      },
+      {
          "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/amid-very-long-meetings-and-running-chess-world-has-viswanathan-anand-lost-hunger-to-win-exclusive/articleshow/133696926.cms",
          "pubDate" : "Wed, 02 Sep 2026 04:04:21",
          "title" : "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696025.cms\" />Prime Minister Narendra Modi gifted Uzbekistan President Shavkat Mirziyoyev the original scoresheet from Javokhir Sindarov's 2025 World Cup final victory in Goa. AICF chief Nitin Narang called it \"Chess diplomacy\". Sindarov later won the Candidates tournament and will face D Gukesh. The gesture highlights growing India-Uzbekistan chess rivalry ahead of the Chess Olympiad in Samarkand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-diplomacy-quite-literally-aicf-chief-on-pm-modi-gifting-javokhir-sindarovs-world-cup-scoresheet-to-uzbek-prez/articleshow/133696025.cms",
-         "pubDate" : "Wed, 02 Sep 2026 03:09:17",
-         "title" : "'Chess diplomacy': AICF chief on PM Modi gifting Sindarov's WC scoresheet to Uzbek prez"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 7 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 8 at 8 a.m. CDT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
