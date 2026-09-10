@@ -10,6 +10,22 @@ news_feed (
          "title" : "Legends & Prodigies, Round 7 - Live!"
       },
       {
+         "description" : "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&#38;mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
+         "pubDate" : "Thu, 10 Sep 2026 14:41:54",
+         "title" : "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate"
+      },
+      {
+         "description" : "The FYERS American Gambits, led by GM Javokhir Sindarov, dominated a critical match against the Ganges Grandmasters, led by GM Ian Nepomniachtchi, to join a three-way tie with the Grandmasters and GM Magnus Carlsen&#39;s Alpine APL Pipers on day six o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
+         "pubDate" : "Thu, 10 Sep 2026 13:48:00",
+         "title" : "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead"
+      },
+      {
          "description" : "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday's final. The day's top-board clashes are Carlsen v Nepomniachtchi at 12:00 CEST, MVL v Firouzja at 13:30, Carlsen v Anand at 15:00 and Nepomniachtchi v Sindarov at 16:30. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,22 +624,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/help-strengthen-the-ecfs-it-team/",
          "pubDate" : "Tue, 01 Sep 2026 13:06:32",
          "title" : "Help strengthen the ECF's IT team"
-      },
-      {
-         "description" : "GM Pouya Idani, until now Iran&#38;rsquo;s third-highest-rated player, has officially transferred to France three years after moving to Brest with his wife. The 30-year-old joins GM Alireza Firouzja and WGM Mitra Hejazipour among the prominent Iranian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
-         "pubDate" : "Tue, 01 Sep 2026 09:19:00",
-         "title" : "Iranian GM Idani Switches To France: 'I Felt Forced Into It'"
-      },
-      {
-         "description" : "This September, step onto the stage with five questionable musicians who are ready to put your chess skills and patience to the test. The chessboards are set. Bring earplugs and take your seat. 🏆 Beat the Band Class Bots throughout September to c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/september-2026-chess-bots",
-         "pubDate" : "Tue, 01 Sep 2026 08:21:02",
-         "title" : "Welcome to the Worst Band Class Ever 🎻"
       },
       {
          "description" : "The European Senior Team Chess Championship 2026 is underway from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, Crete, Greece. The event reached its halfway mark following the completion of five rounds. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. In the 50+ section, the top []",
