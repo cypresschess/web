@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Ant&oacute;n remains the sole leader of the \"Legends & Prodigies\" tournament in Madrid after drawing with Jos&eacute; Cuenca in round six. Ant&oacute;n has 4&frac12;/6, a full point ahead of defending champion Faustino Oro, who suffered his first defeat of the event against Diego Flores. Ivan Sokolov scored his first win, beating Jos&eacute; Mart&iacute;nez. Round seven starts at 17:00 CEST, with Oro v Cuenca, Mart&iacute;nez v Ant&oacute;n and Sokolov v Flores. | Live with commentary from 17:00 CEST. | Photo: Mar Melero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
+         "pubDate" : "Thu, 10 Sep 2026 16:51:00",
+         "title" : "Legends & Prodigies, Round 7 - Live!"
+      },
+      {
          "description" : "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday's final. The day's top-board clashes are Carlsen v Nepomniachtchi at 12:00 CEST, MVL v Firouzja at 13:30, Carlsen v Anand at 15:00 and Nepomniachtchi v Sindarov at 16:30. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Global Chess League, Day 6 - Live!"
       },
       {
-         "description" : "The second half of the \"Legends & Prodigies\" tournament in Madrid begins on Thursday morning with round six. After five rounds, David Ant&oacute;n leads with 4/5, half a point ahead of defending champion Faustino Oro. In round six, Oro has Black against Diego Flores, whom he defeated in the opening round, while Ant&oacute;n faces Jos&eacute; Cuenca with White. The third game is Jos&eacute; Mart&iacute;nez v Ivan Sokolov. | Live with commentary from 11:00 CEST. | Photo: Mar Melero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
-         "pubDate" : "Thu, 10 Sep 2026 10:51:00",
-         "title" : "Legends & Prodigies, Round 6 - Live!"
-      },
-      {
          "description" : "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcantara, while David Ant&oacute;n scored two wins, defeating Diego Flores and Sokolov. The experienced Spaniard now leads the young Argentine by half a point. | Photo: David Ant&oacute;n winning the 2025 Spanish Championship | Photo: Spanish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
          "pubDate" : "Thu, 10 Sep 2026 09:32:49",
          "title" : "Legends & Prodigies: David Ant&oacute;n scores twice to take sole lead"
+      },
+      {
+         "description" : "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
+         "pubDate" : "Thu, 10 Sep 2026 07:03:16",
+         "title" : "Applications Open For $50,000 Naroditsky Fellowship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133993346.cms\" />At 56, Viswanathan Anand continues to compete strongly despite a string of unfortunate results, says Arjun Erigaisi, who called his level \"hugely inspiring\". Meanwhile, Alaskan Knights beat Mumba Masters after Carissa Yip lost on time, while Abhimanyu Mishra sealed the match. American Gambits lead the GCL standings, with Alpine APL Pipers second.",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-chess-what-kept-indian-gm-nihal-sarin-up-until-7-am-amid-ongoing-gcl/articleshow/133990606.cms",
          "pubDate" : "Thu, 10 Sep 2026 02:11:42",
          "title" : "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Charlotte Chess Center Foundation (CCCF) has announced that the Naroditsky Fellowship is now accepting applications. The Fellowship, created in memory of the late GM Daniel \"Danya\" Naroditsky, will give $50,000 in awards to top junior American players in its inaugural year. To be eligible for the award, applicants must:Be 20 years of age or under at the time of the applicationReside in and represent the United States FIDE FederationBe ranked among the top 10 juniors overall in the United States on the US Chess or FIDE rating list Be ranked in the Top 10 nationally (US Chess) or internationally (FIDE) for their specific",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/50000-naroditsky-fellowship-now-open-applications",
+         "pubDate" : "Thu, 10 Sep 2026 00:00:00",
+         "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
       },
       {
          "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
@@ -202,7 +218,7 @@ news_feed (
          "title" : "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead"
       },
       {
-         "description" : "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&#38;mdash;Jan Henric Buettner, Wadim Rosenstein, and &#38;nbsp;Timur Turlov&#38;mdash;will join to discuss their visions for the future of ches...",
+         "description" : "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&#38;mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&#38;mdash;will join to discuss their visions for the future of chess. He...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Welcome to the Worst Band Class Ever 🎻"
       },
       {
-         "description" : "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
-         "pubDate" : "Tue, 01 Sep 2026 07:49:07",
-         "title" : "SaVaToP1gG Wins Gambit Cup, Tops Field Of 1,454 Players"
-      },
-      {
          "description" : "The European Senior Team Chess Championship 2026 is underway from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, Crete, Greece. The event reached its halfway mark following the completion of five rounds. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. In the 50+ section, the top []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
          "pubDate" : "Fri, 28 Aug 2026 07:00:50",
          "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
-      },
-      {
-         "description" : "National Chess Day!National Chess Day is Saturday, Oct. 10. For any event that includes \"National Chess Day\" in the event title and is held that day, US Chess is offering:A free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, select \"No charge.\" Also, make sure the demographic you are sending this to is reasonable; generally, this will be local or regional. Do not send to the entire membership.Free ratings fees. Use the payment code NCD2026FREE. This is case-sensitive. Be sure to rate the event by 11:59 p.m. Central on Wednesday, Oct. 14 to ensure the waiver of fees.Free online TLA. Online TLAs are always free, of course, not just for Nat",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-day-set-saturday-oct-10",
-         "pubDate" : "Thu, 27 Aug 2026 00:00:00",
-         "title" : "National Chess Day Set for Saturday, Oct. 10"
       },
       {
          "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
