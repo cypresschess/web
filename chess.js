@@ -50,6 +50,14 @@ news_feed (
          "title" : "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night"
       },
       {
+         "description" : "Editor's note: This article by Dewain Barber was originally published in 2011 on the 10th anniversary of the 9/11 attacks. In recognition of the 25th anniversary, we are republishing it along with the author's request that anybody with one of these boards take it out and play a game in the memory of those who died. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> It was a clear day in LA and the weather was comfortable. My wife, Susan had left to teach school that morning as she had since the start of the school year a few days before.As I got up to check for orders and begin the packing process of chess equipment for some reason still unknown to me I turned on the TV an",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chess-board-memory-911",
+         "pubDate" : "Thu, 10 Sep 2026 00:00:00",
+         "title" : "A Chess Board in Memory of 9/11"
+      },
+      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Charlotte Chess Center Foundation (CCCF) has announced that the Naroditsky Fellowship is now accepting applications. The Fellowship, created in memory of the late GM Daniel \"Danya\" Naroditsky, will give $50,000 in awards to top junior American players in its inaugural year. To be eligible for the award, applicants must:Be 20 years of age or under at the time of the applicationReside in and represent the United States FIDE FederationBe ranked among the top 10 juniors overall in the United States on the US Chess or FIDE rating list Be ranked in the Top 10 nationally (US Chess) or internationally (FIDE) for their specific",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-launches-inaugural-european-chess-superleague/",
          "pubDate" : "Mon, 31 Aug 2026 07:57:42",
          "title" : "European Chess Union Launches Inaugural European Chess Superleague"
-      },
-      {
-         "description" : "The annual U.S. Open produces more than just exciting chess. The Delegates meet to tweak, create, and massage our rulebook. This year had only one major rules upgrade, but it was indeed major. In fact, it covered an entire chapter. The old correspondence chess rules (chapter 9) were overhauled to meet the needs of our correspondence chess community. But other motions were passed that can impact the rulebook in years to come, and several more attempts to shake things up failed to pass muster. Read on! But first&hellip;Egg on my face: An earlier column outlined a minor, but important, inconsistency between the online and printed versions of rule 21L1. One version dictated a time limit of seven",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-highlighted-rulebook-updates-2026-delegates-meeting",
-         "pubDate" : "Mon, 31 Aug 2026 00:00:00",
-         "title" : "Just the Rules: Highlighted Rulebook Updates From 2026 Delegates Meeting"
       },
       {
          "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
