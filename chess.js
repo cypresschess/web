@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133993346.cms\" />At 56, Viswanathan Anand continues to compete strongly despite a string of unfortunate results, says Arjun Erigaisi, who called his level \"hugely inspiring\". Meanwhile, Alaskan Knights beat Mumba Masters after Carissa Yip lost on time, while Abhimanyu Mishra sealed the match. American Gambits lead the GCL standings, with Alpine APL Pipers second.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unfortunate-things-happening-arjun-erigaisi-explains-vishwanathan-anands-poor-gcl-run-despite-team-win/articleshow/133993346.cms",
+         "pubDate" : "Thu, 10 Sep 2026 04:11:33",
+         "title" : "'Unfortunate things happening': Arjun Erigaisi explains Anand's poor GCL run"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133990606.cms\" />Indian Grandmaster Nihal Sarin reveals how board games, tennis and a late-night US Open quarterfinal kept him awake until 7 am in the middle of this Global Chess League. The 22-year-old also reflects on teammate Javokhir Sindarov, Viswanathan Anand's enduring legacy, and his excitement ahead of his first appearance in India's main squad at the Chess Olympiad in Samarkand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "FIDE Election Heats Up As All 3 Presidential Tickets File Complaints"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133696926.cms\" />Viswanathan Anand is juggling two contrasting roles at this time. He is the interim FIDE President and also a competitive chess player. While handling increased responsibilities at world chess's governing body, the Indian Grandmaster remains focused on the Global Chess League. Representing Alaskan Knights, Anand says his hunger to win remains strong, while his experience and routine help him balance administration, family commitments, and competitive chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/amid-very-long-meetings-and-running-chess-world-has-viswanathan-anand-lost-hunger-to-win-exclusive/articleshow/133696926.cms",
-         "pubDate" : "Wed, 02 Sep 2026 04:04:21",
-         "title" : "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 7 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 8 at 8 a.m. CDT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
          "pubDate" : "Thu, 20 Aug 2026 10:28:41",
          "title" : "It's Leonard Barden's birthday!"
-      },
-      {
-         "description" : " The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took first place from Praggnanandhaa after winning a tie-break match. The players scored 5.5/9 to share first place and then drew two 10 minutes plus 5 seconds a move rapid game, a final Armageddon game was required, Wesley had the black pieces and draw odds, the game finished at King vs King and thus so had the draw he needed.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
-         "pubDate" : "Thu, 20 Aug 2026 06:44:00",
-         "title" : "13th Sinquefield Cup 2026 - Games and Results"
       }
    ]
 }
