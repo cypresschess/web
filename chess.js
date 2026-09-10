@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday's final. The day's top-board clashes are Carlsen v Nepomniachtchi at 12:00 CEST, MVL v Firouzja at 13:30, Carlsen v Anand at 15:00 and Nepomniachtchi v Sindarov at 16:30. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Thu, 10 Sep 2026 11:45:00",
+         "title" : "Global Chess League, Day 6 - Live!"
+      },
+      {
+         "description" : "The second half of the \"Legends & Prodigies\" tournament in Madrid begins on Thursday morning with round six. After five rounds, David Ant&oacute;n leads with 4/5, half a point ahead of defending champion Faustino Oro. In round six, Oro has Black against Diego Flores, whom he defeated in the opening round, while Ant&oacute;n faces Jos&eacute; Cuenca with White. The third game is Jos&eacute; Mart&iacute;nez v Ivan Sokolov. | Live with commentary from 11:00 CEST. | Photo: Mar Melero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
+         "pubDate" : "Thu, 10 Sep 2026 10:51:00",
+         "title" : "Legends & Prodigies, Round 6 - Live!"
+      },
+      {
+         "description" : "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcantara, while David Ant&oacute;n scored two wins, defeating Diego Flores and Sokolov. The experienced Spaniard now leads the young Argentine by half a point. | Photo: David Ant&oacute;n winning the 2025 Spanish Championship | Photo: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
+         "pubDate" : "Thu, 10 Sep 2026 09:32:49",
+         "title" : "Legends & Prodigies: David Ant&oacute;n scores twice to take sole lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133993346.cms\" />At 56, Viswanathan Anand continues to compete strongly despite a string of unfortunate results, says Arjun Erigaisi, who called his level \"hugely inspiring\". Meanwhile, Alaskan Knights beat Mumba Masters after Carissa Yip lost on time, while Abhimanyu Mishra sealed the match. American Gambits lead the GCL standings, with Alpine APL Pipers second.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-5",
          "pubDate" : "Wed, 09 Sep 2026 13:10:00",
          "title" : "Sindarov Beats Firouzja To Give American Gambits Lead"
-      },
-      {
-         "description" : "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen's Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triveni take on FYERS at 16:30. Top-board highlights include MVL v Carlsen, Nepomniachtchi v Firouzja and, later in the day, Sindarov v Firouzja. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Wed, 09 Sep 2026 11:45:00",
-         "title" : "Global Chess League, Day 5 - Live!"
       },
       {
          "description" : "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Ant&oacute;n Guijarro, the two players who had won their opening games. | Photo: Faustino Oro at the 2026 Wijk aan Zee tournament | Photo: Nils Rohde",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-board-convenes-following-2026-general-assembly-elections/",
          "pubDate" : "Fri, 21 Aug 2026 05:48:05",
          "title" : "European Chess Union Board Convenes Following 2026 General Assembly Elections"
-      },
-      {
-         "description" : "The ECF wishes Leonard Barden a very happy 97th birthday today! Leonard is the Guardian's chess columnist, and holds the Guinness World Record for the longest-running continuous chess column, which...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/leonard-bardens-birthday-2/",
-         "pubDate" : "Thu, 20 Aug 2026 10:28:41",
-         "title" : "It's Leonard Barden's birthday!"
       }
    ]
 }
