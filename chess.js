@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There's also bonus money, up to $24,000 that rolls over to the final two games if there's a draw. I cannot currently display Chess960 games, I'm working on that for the future, but I will have a PGN file that is updated and the score will also be updat",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
+         "pubDate" : "Fri, 11 Sep 2026 14:38:00",
+         "title" : "Clutch Chess: The Legends 2026 - Games and results"
+      },
+      {
          "description" : "hree teams are tied for the lead as the Global Chess League enters day seven in Bengaluru. The action begins at 13:30 CEST with the Triveni Continental Kings facing the PBG Alaskan Knights, featuring Alireza Firouzja against Vishy Anand on the icon board. At 15:00, the Alpine APL Pipers take on the FYERS American Gambits in a key clash, with Magnus Carlsen facing the in-form Javokhir Sindarov. The day concludes at 16:30 with the Ganges Grandmasters against the CheQ Mumba Masters. With the race for the two places in the final still wide open, there is plenty at stake. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,15 @@ news_feed (
          "title" : "Legends & Prodigies: Oro loses - Anton Guijarro leads by one point"
       },
       {
-         "description" : " England Open squad have internal tensions but the women's team blends rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are led ",
+         "description" : "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White&#39;s most common opening move, 1.e4. With positional, dependable lines, So will teach yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-wesley-sos-1e4-e5-part-1-course",
+         "pubDate" : "Fri, 11 Sep 2026 08:00:00",
+         "title" : "Build A Rock-Solid Repertoire Against 1.e4 With GM Wesley So's New Course"
+      },
+      {
+         "description" : " England Open squad have internal tensions but the women's team blend rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, the 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-not-in-a-position-to-defend-anything-magnus-carlsen-on-world-chess-championship-clash-vs-javokhir-sindarov/articleshow/134038283.cms",
          "pubDate" : "Fri, 11 Sep 2026 00:52:13",
          "title" : "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov"
+      },
+      {
+         "description" : "It is with profound sadness that I report the passing of Ernest W. \"Ernie\" Schlich Aug. 23, 2026. Ernie was a former US Chess employee, a long-time delegate, an NTD, organizer, and coach. Along with his wife, Joan, who passed away in 2017, he left a tremendous legacy for the chess community after more than 50 years of service. Chess friends across the country remember Ernie fondly for his generosity with his time and attention; the late-night post-tournament TD dinners he held in order to exchange notes on lessons learned; the dedicated chess rooms in his homes where countless children got their start, and his affinity for off-color jokes and verbal pranking. <br> <br> <br> <br> Image<br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/ernie-schlich-1946-2026",
+         "pubDate" : "Fri, 11 Sep 2026 00:00:00",
+         "title" : "Ernie Schlich (1946-2026) "
       },
       {
          "description" : "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&#38;mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short...",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 3"
       },
       {
-         "description" : "GM Hans Niemann stole the show in September 1&#39;s Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
-         "pubDate" : "Tue, 01 Sep 2026 13:47:00",
-         "title" : "Niemann Wins Thrilling Titled Tuesday In Broadcast Return"
-      },
-      {
          "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-2",
          "pubDate" : "Tue, 01 Sep 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 2"
-      },
-      {
-         "description" : "Check is in the MailThe King's Gambit Declined is a chess opening that arises after 1. e4 e5 2. f4, when Black chooses not to accept White's pawn sacrifice. Instead of playing 2. ... exf4, Black often develops actively with moves such as 2. ... Bc5 or strikes back in the center with 2. ... d5. By declining the gambit, Black avoids some of the sharpest attacking lines of the King's Gambit Accepted while aiming for sound development, central control, and pressure against White's slightly weakened king position.The most common way to decline the gambit is the Classical Defense, 2. ... Bc5, where Black develops the bishop to an active diagonal and helps prevent White from easily playing d2-d4. I",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-september2026-enduring-kings-gambit",
-         "pubDate" : "Tue, 01 Sep 2026 00:00:00",
-         "title" : "Check is in the Mail September2026: Enduring the King('s Gambit)"
       },
       {
          "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
