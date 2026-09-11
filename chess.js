@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "hree teams are tied for the lead as the Global Chess League enters day seven in Bengaluru. The action begins at 13:30 CEST with the Triveni Continental Kings facing the PBG Alaskan Knights, featuring Alireza Firouzja against Vishy Anand on the icon board. At 15:00, the Alpine APL Pipers take on the FYERS American Gambits in a key clash, with Magnus Carlsen facing the in-form Javokhir Sindarov. The day concludes at 16:30 with the Ganges Grandmasters against the CheQ Mumba Masters. With the race for the two places in the final still wide open, there is plenty at stake. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Fri, 11 Sep 2026 13:15:00",
+         "title" : "Global Chess League, Day 7 - Live!"
+      },
+      {
+         "description" : "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million - the Global Chess League is a chess spectacle. And it is heading for an exciting finish: the top two teams in the preliminary stage qualify for the final, and after eight of ten team matches, three teams are tied for the lead. | Photo: In one of the day's many top-level encounters, Magnus Carlsen defeated Vishy Anand | Photo: Global Chess League",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
+         "pubDate" : "Fri, 11 Sep 2026 10:04:28",
+         "title" : "Global Chess League: Three teams tied for the lead"
+      },
+      {
          "description" : "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew with Jose Cuenca Jiminez in yesterday's second round. Anton Guijarro drew both of his games, against Cuenca and Jose Martinez Alcantara. The two leaders will face each other in this morning's round. Cuenca Jiminez plays Ivan Sokolov, while Flores faces Martinez Alcantara. | Photo: Ivan Sokolov, who scored his first win in round six against Martinez, pictured during a simultaneous exhibition in Salzgitter-Bad a year ago | Photo: Arne K&aum",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov"
       },
       {
-         "description" : "David Ant&oacute;n remains the sole leader of the \"Legends & Prodigies\" tournament in Madrid after drawing with Jos&eacute; Cuenca in round six. Ant&oacute;n has 4&frac12;/6, a full point ahead of defending champion Faustino Oro, who suffered his first defeat of the event against Diego Flores. Ivan Sokolov scored his first win, beating Jos&eacute; Mart&iacute;nez. Round seven starts at 17:00 CEST, with Oro v Cuenca, Mart&iacute;nez v Ant&oacute;n and Sokolov v Flores. | Live with commentary from 17:00 CEST. | Photo: Mar Melero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-live",
-         "pubDate" : "Thu, 10 Sep 2026 16:51:00",
-         "title" : "Legends & Prodigies, Round 7 - Live!"
-      },
-      {
          "description" : "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&#38;mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
          "pubDate" : "Thu, 10 Sep 2026 13:48:00",
          "title" : "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead"
-      },
-      {
-         "description" : "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday's final. The day's top-board clashes are Carlsen v Nepomniachtchi at 12:00 CEST, MVL v Firouzja at 13:30, Carlsen v Anand at 15:00 and Nepomniachtchi v Sindarov at 16:30. | Follow the action live with commentary, starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Thu, 10 Sep 2026 11:45:00",
-         "title" : "Global Chess League, Day 6 - Live!"
       },
       {
          "description" : "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcantara, while David Ant&oacute;n scored two wins, defeating Diego Flores and Sokolov. The experienced Spaniard now leads the young Argentine by half a point. | Photo: David Ant&oacute;n winning the 2025 Spanish Championship | Photo: Spanish Chess Federation",
