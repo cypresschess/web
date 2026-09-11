@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Fri, 11 Sep 2026 11:49:52",
+         "pubDate" : "Fri, 11 Sep 2026 11:49:00",
          "title" : "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters"
       },
       {
