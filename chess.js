@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew with Jose Cuenca Jiminez in yesterday's second round. Anton Guijarro drew both of his games, against Cuenca and Jose Martinez Alcantara. The two leaders will face each other in this morning's round. Cuenca Jiminez plays Ivan Sokolov, while Flores faces Martinez Alcantara. | Photo: Ivan Sokolov, who scored his first win in round six against Martinez, pictured during a simultaneous exhibition in Salzgitter-Bad a year ago | Photo: Arne K&aum",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-oro-loses-anton-guijarro-leads-by-one-point",
+         "pubDate" : "Fri, 11 Sep 2026 08:38:28",
+         "title" : "Legends & Prodigies: Oro loses - Anton Guijarro leads by one point"
+      },
+      {
+         "description" : " England Open squad have internal tensions but the women's team blends rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are led ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
+         "pubDate" : "Fri, 11 Sep 2026 07:00:04",
+         "title" : "Chess: Uzbekistan favourites for Olympiad but ageing England given gloomy outlook"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134046039.cms\" />Defending champions APL Pipers bounced back from a 4-12 loss to Ganges Grandmasters to beat Alaskan Knights 11-6 and move top of the GCL standings on game points. Mumba Masters kept their playoff hopes alive with a 14-5 win over Triveni Continental Kings. Pipers, American Gambits and Ganges are level on 15 match points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-led-pipers-bounce-back-against-alaskan-knights-reclaim-gcl-top-spot/articleshow/134046039.cms",
+         "pubDate" : "Fri, 11 Sep 2026 04:48:52",
+         "title" : "Koneru Humpy-led Pipers bounce back against Alaskan Knights, reclaim GCL top spot"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134043770.cms\" />Elon Musk believes chess will eventually be fully solved by AI, drawing comparisons with checkers. Magnus Carlsen was less certain, saying he isn't a computer expert but noting chess is already \"semi-solved\" as a likely draw. Carlsen also praised AI for making chess more accessible, while backing the Global Chess League's exciting team format and enjoying his visits to India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms",
+         "pubDate" : "Fri, 11 Sep 2026 03:43:21",
+         "title" : "Elon Musk feels 'chess will be fully solved one day'; what does Carlsen think?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134039957.cms\" />Magnus Carlsen's transition into fatherhood has reshaped how he approaches chess, work and time. Despite unprecedented success, he still sees himself as a provider, balancing the joy of raising his son with the demands of a global career. Fatherhood helped cement his decision to abandon the classical World Championship, revealing a man reallocating ambition around family, responsibility and purpose.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -474,14 +506,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League 2026 - Games and results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133761903.cms\" />Javokhir Sindarov is set to clash with D Gukesh for the world championship later this year, with preparations for the momentous encounter starting after the Global Chess League and the Olympiad. Currently, Sindarov is concentrating on these events but acknowledges Gukesh's prowess and is committed to delivering his best play. Their historic duel, featuring two talented twenty-year-olds, is slated for November in Geneva.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-sindarov-keeps-gukesh-showdown-on-hold-says-preparation-starts-after-olympiad/articleshow/133761903.cms",
-         "pubDate" : "Fri, 04 Sep 2026 11:57:17",
-         "title" : "Sindarov keeps Gukesh showdown on hold, says preparation starts after Olympiad"
-      },
-      {
          "description" : "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
          "pubDate" : "Thu, 03 Sep 2026 08:00:00",
          "title" : "How To Watch Season 4 Of The Global Chess League"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723206.cms\" />American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
-         "pubDate" : "Thu, 03 Sep 2026 02:26:50",
-         "title" : "'I'm surprised': American GM after Pragg wins India's historic GCT title | Exclusive"
       },
       {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&#38;n...",
@@ -760,22 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
          "pubDate" : "Sat, 22 Aug 2026 15:09:00",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
-      },
-      {
-         "description" : " Norway's world No 1 outclassed the field and won the $250,000 first prize at the four-day event in France Magnus Carlsen, Norway's world No 1, triumphed again last weekend when he won the 2026 Esports World Cup, staged over four days at the prestigious venue of the Paris Expo Porte de Versailles. Carlsen retained his title from Riyadh 2025 and took home a monster first prize of $250,000 (&pound;183,000). The time limit was close to blitz, 10 minutes each per player with no per move increment, a format where blunders would be hoped for, and were indeed made, as entertainment for the capacity audience. <a href=\"https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-wo",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/aug/21/chess-magnus-carlsen-wins-esports-world-cup-in-paris-without-losing-a-game",
-         "pubDate" : "Fri, 21 Aug 2026 07:00:29",
-         "title" : "Chess: Magnus Carlsen wins Esports World Cup in Paris without losing a game"
-      },
-      {
-         "description" : "The European Chess Union (ECU) held its first Board meeting following the elections conducted during the General Assembly in Bucharest in July 2026. The meeting took place via teleconference on 17 August 2026. ECU President warmly welcomed the newly elected Board members and formally marked the beginning of the new 2026-2030 administration. GOVERNANCE AND ADMINISTRATION The Board confirmed the structure of the new administration and proceeded with a series of key appointments and organisational decisions aimed at strengthening the ECU's []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-board-convenes-following-2026-general-assembly-elections/",
-         "pubDate" : "Fri, 21 Aug 2026 05:48:05",
-         "title" : "European Chess Union Board Convenes Following 2026 General Assembly Elections"
       }
    ]
 }
