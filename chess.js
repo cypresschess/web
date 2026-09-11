@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+         "pubDate" : "Fri, 11 Sep 2026 18:30:00",
+         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 1 - Live!"
+      },
+      {
          "description" : " Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There's also bonus money, up to $24,000 that rolls over to the final two games if there's a draw. I cannot currently display Chess960 games, I'm working on that for the future, but I will have a PGN file that is updated and the score will also be updat",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Global Chess League, Day 7 - Live!"
       },
       {
+         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers and GM Ian Nepomniachtchi&#39;s Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
+         "pubDate" : "Fri, 11 Sep 2026 11:49:52",
+         "title" : "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters"
+      },
+      {
          "description" : "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million - the Global Chess League is a chess spectacle. And it is heading for an exciting finish: the top two teams in the preliminary stage qualify for the final, and after eight of ten team matches, three teams are tied for the lead. | Photo: In one of the day's many top-level encounters, Magnus Carlsen defeated Vishy Anand | Photo: Global Chess League",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
          "pubDate" : "Fri, 11 Sep 2026 10:04:28",
          "title" : "Global Chess League: Three teams tied for the lead"
+      },
+      {
+         "description" : "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
+         "pubDate" : "Fri, 11 Sep 2026 09:49:40",
+         "title" : "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph"
       },
       {
          "description" : "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew with Jose Cuenca Jiminez in yesterday's second round. Anton Guijarro drew both of his games, against Cuenca and Jose Martinez Alcantara. The two leaders will face each other in this morning's round. Cuenca Jiminez plays Ivan Sokolov, while Flores faces Martinez Alcantara. | Photo: Ivan Sokolov, who scored his first win in round six against Martinez, pictured during a simultaneous exhibition in Salzgitter-Bad a year ago | Photo: Arne K&aum",
@@ -82,6 +106,14 @@ news_feed (
          "title" : "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov"
       },
       {
+         "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/colville-takes-cadet-championship-over-das-tiebreaks",
+         "pubDate" : "Fri, 11 Sep 2026 00:00:00",
+         "title" : "Colville Takes Cadet Championship Over Das in Tiebreaks"
+      },
+      {
          "description" : "It is with profound sadness that I report the passing of Ernest W. \"Ernie\" Schlich Aug. 23, 2026. Ernie was a former US Chess employee, a long-time delegate, an NTD, organizer, and coach. Along with his wife, Joan, who passed away in 2017, he left a tremendous legacy for the chess community after more than 50 years of service. Chess friends across the country remember Ernie fondly for his generosity with his time and attention; the late-night post-tournament TD dinners he held in order to exchange notes on lessons learned; the dedicated chess rooms in his homes where countless children got their start, and his affinity for off-color jokes and verbal pranking. <br> <br> <br> <br> Image<br> <b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -118,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
-         "pubDate" : "Thu, 10 Sep 2026 07:03:16",
+         "pubDate" : "Thu, 10 Sep 2026 07:03:00",
          "title" : "Applications Open For $50,000 Naroditsky Fellowship"
       },
       {
@@ -610,28 +642,12 @@ news_feed (
          "title" : "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal"
       },
       {
-         "description" : "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world&#39;s largest corporate chess league, bringing together com...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-north-american-corporate-chess-league-season-14",
-         "pubDate" : "Wed, 02 Sep 2026 08:00:00",
-         "title" : "The North American Corporate Chess League Returns For Season 14 Starting October 1"
-      },
-      {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
          "pubDate" : "Wed, 02 Sep 2026 07:24:37",
          "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
-      },
-      {
-         "description" : "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov&#39;s eligibility, and allegations that FIDE itself has fail...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-election-complaints-buettner-rosenstein-turlov",
-         "pubDate" : "Wed, 02 Sep 2026 06:50:55",
-         "title" : "FIDE Election Heats Up As All 3 Presidential Tickets File Complaints"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 7 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 8 at 8 a.m. CDT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-reaches-midway-point/",
          "pubDate" : "Tue, 01 Sep 2026 06:40:15",
          "title" : "European Senior Team Chess Championship 2026 reaches midway point"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you. For even more puzzles, check out our Wednesday Workout series beginning here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-us-open-and-invitationals-pt-2",
-         "pubDate" : "Tue, 01 Sep 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 U.S. Open and Invitationals, Pt. 2"
       },
       {
          "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
