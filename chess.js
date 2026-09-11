@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134039957.cms\" />Magnus Carlsen's transition into fatherhood has reshaped how he approaches chess, work and time. Despite unprecedented success, he still sees himself as a provider, balancing the joy of raising his son with the demands of a global career. Fatherhood helped cement his decision to abandon the classical World Championship, revealing a man reallocating ambition around family, responsibility and purpose.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/spider-man-batman-all-had-to-pay-rent-magnus-carlsen-now-a-father-is-no-exception/articleshow/134039957.cms",
+         "pubDate" : "Fri, 11 Sep 2026 01:52:02",
+         "title" : "Spider-Man, Batman all had to pay rent: Magnus Carlsen, now a father, is no exception"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134038283.cms\" />Magnus Carlsen says Gukesh should not view his upcoming World Championship match against Javokhir Sindarov as a title defence, but as an opportunity to gain. Carlsen believes Gukesh's peak level matches or exceeds Sindarov's, though early momentum will be crucial. He also highlights chess's psychological nature, suggesting confidence and pressure could significantly influence the short match",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-not-in-a-position-to-defend-anything-magnus-carlsen-on-world-chess-championship-clash-vs-javokhir-sindarov/articleshow/134038283.cms",
+         "pubDate" : "Fri, 11 Sep 2026 00:52:13",
+         "title" : "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov"
+      },
+      {
          "description" : "David Ant&oacute;n remains the sole leader of the \"Legends & Prodigies\" tournament in Madrid after drawing with Jos&eacute; Cuenca in round six. Ant&oacute;n has 4&frac12;/6, a full point ahead of defending champion Faustino Oro, who suffered his first defeat of the event against Diego Flores. Ivan Sokolov scored his first win, beating Jos&eacute; Mart&iacute;nez. Round seven starts at 17:00 CEST, with Oro v Cuenca, Mart&iacute;nez v Ant&oacute;n and Sokolov v Flores. | Live with commentary from 17:00 CEST. | Photo: Mar Melero",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,28 +546,12 @@ news_feed (
          "title" : "How To Watch Season 4 Of The Global Chess League"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133726773.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/blitz-can-sharpen-not-spoil-classical-chess-former-womens-world-champion-alexandra-kosteniuk/articleshow/133726773.cms",
-         "pubDate" : "Thu, 03 Sep 2026 05:58:00",
-         "title" : "'Blitz can sharpen, not spoil classical chess': Former women's world champion Kosteniuk"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723206.cms\" />American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
          "pubDate" : "Thu, 03 Sep 2026 02:26:50",
          "title" : "'I'm surprised': American GM after Pragg wins India's historic GCT title | Exclusive"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723148.cms\" />American chess grandmaster Hans Niemann urged FIDE to punish players for publicly making accusations, especially involving young competitors. His comments came after Ian Nepomniachtchi questioned a move by 14-year-old Canadian IM Aaron Mendes during their Titled Tuesday game. Nepomniachtchi described the move as suspicious, while Mendes went on to win after Nepomniachtchi's blunder and eventual resignation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-must-punish-players-americas-hans-niemann-slams-russia-no-1-ian-nepomniachtchi-over-comments-on-14-year-old/articleshow/133723148.cms",
-         "pubDate" : "Thu, 03 Sep 2026 01:55:48",
-         "title" : "'FIDE must punish players': Hans slams Russia No. 1 Nepo over comments on 14-yo"
       },
       {
          "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&#38;n...",
