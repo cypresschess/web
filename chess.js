@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+         "pubDate" : "Sat, 12 Sep 2026 18:30:00",
+         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 2 - Live!"
+      },
+      {
          "description" : "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world's largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-is-holding-you-back/",
          "pubDate" : "Sat, 12 Sep 2026 13:00:00",
          "title" : "What is holding you back?"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers will play GM Ian Nepomniachtchi&#39;s Ganges Grandmasters in this year&#39;s title match at the 2026 Tech Mahindra Global Chess League. In a rare outcome for a chess tournament, both leaders lost on the final day but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-8",
+         "pubDate" : "Sat, 12 Sep 2026 12:08:36",
+         "title" : "Carlsen To Play Nepomniachtchi In Final After Both Leaders Lose Last Match"
       },
       {
          "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
          "pubDate" : "Thu, 03 Sep 2026 08:00:00",
          "title" : "How To Watch Season 4 Of The Global Chess League"
-      },
-      {
-         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&#38;n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-state-of-chess-september",
-         "pubDate" : "Wed, 02 Sep 2026 14:44:00",
-         "title" : "State of Chess: 'Grandmasters,' Gambit & Classic Games, Titled Tuesday Updates & More"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
