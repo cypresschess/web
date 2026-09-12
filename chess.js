@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Sat, 12 Sep 2026 12:08:36",
+         "pubDate" : "Sat, 12 Sep 2026 12:08:00",
          "title" : "Carlsen To Play Nepomniachtchi In Final After Both Leaders Lose Last Match"
       },
       {
