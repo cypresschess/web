@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world's largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
+         "pubDate" : "Sat, 12 Sep 2026 15:32:00",
+         "title" : "Salesforce to power the future of chess"
+      },
+      {
          "description" : "Heading to day 8, the final day of the preliminary round, two teams are comfortably tied for first place in the Global Chess League, each with 18 team points. The Ganges Grandmasters and the Alpine APL Pipers have the best chances of reaching Sunday's final. Today's matchups: Triveni Continental Kings vs. Alpine APL Pipers, PBG Alaskan Knights vs. Ganges Grandmasters, and CheQ Mumba Masters vs. Fyers American Gambits. The latter two teams are in 3rd and 4th place and are both expected to compete in the third-place match. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST) | Picture: Global Chess League",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
          "pubDate" : "Sat, 12 Sep 2026 13:15:00",
          "title" : "Global Chess League, Day 8 - Live!"
+      },
+      {
+         "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/what-is-holding-you-back/",
+         "pubDate" : "Sat, 12 Sep 2026 13:00:00",
+         "title" : "What is holding you back?"
       },
       {
          "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
          "pubDate" : "Sun, 23 Aug 2026 10:37:00",
          "title" : "6th Cairns Cup 2026 - Games and Results"
-      },
-      {
-         "description" : "European Chess Union opens a call of interest for the 16 FIDE Commissions' members who will be nominated by ECU and for the 7 ECU Commissions. According to current FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions202211 European Chess Union Commissions: *The Chairpersons have []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions/",
-         "pubDate" : "Sat, 22 Aug 2026 15:09:00",
-         "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2027 - 2030"
       }
    ]
 }
