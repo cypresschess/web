@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-years-ago-chessbase-news",
+         "pubDate" : "Sat, 12 Sep 2026 08:00:00",
+         "title" : "25 years ago  -  ChessBase news"
+      },
+      {
+         "description" : "Kostya Kavutskiy is the latest \"Fritz Trainer\" to join the ChessBase team of authors. An International Master, renowned FIDE trainer and chess author, he made his ChessBase debut with the video course \"Mastering Calculation\" and has already followed it up with \"The Fundamentals of Positional Play\". Jochen Schwarz, a club player from Bremen and a connoisseur of the FritzTrainer series, took a close look at both courses and also examined how they compare with similar courses by established authors such as Robert Ris and Ivan Sokolov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
+         "pubDate" : "Sat, 12 Sep 2026 07:00:00",
+         "title" : "Review: Mastering Calculation by Kostya Kavutskiy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134111571.cms\" />Ganges Grandmasters and APL Pipers strengthened their GCL final chances with big Day 7 wins, moving to 18 match points each. Ganges thrashed Mumba Masters 16-1, while Pipers beat American Gambits 9-7, with Magnus Carlsen defeating Javokhir Sindarov and handing his POTM trophy to Vidit Gujrathi. Ganges lead on game points, while Gambits need a win and help.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-ganges-grandmasters-run-riot-on-day-7-magnus-carlsen-gives-potm-trophy-to-vidit-gujrathi/articleshow/134111571.cms",
+         "pubDate" : "Sat, 12 Sep 2026 06:01:40",
+         "title" : "GCL: Ganges Grandmasters run riot on Day 7; Carlsen gives POTM trophy to Vidit"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134105847.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-magnus-carlsen-gets-better-of-sindarov/articleshow/134105847.cms",
+         "pubDate" : "Sat, 12 Sep 2026 03:45:43",
+         "title" : "Global Chess League: Magnus Carlsen gets better of Sindarov"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134105178.cms\" />Alireza Firouzja discussed his ankle injury, recovery, and strong connection with Indian chess fans during an exclusive interview. He praised Indian crowds and tandoori chicken, assessed Gukesh-Sindarov's upcoming World Championship match as close, and reflected on the difficulty of reaching the Candidates. The 23-year-old is fully recovered and will next compete in Budapest's Total Chess Championship in November 2026.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-people-always-very-interested-in-what-we-do-alireza-firouzja-youngest-to-beat-magnus-carlsens-2800-record-exclusive/articleshow/134105178.cms",
          "pubDate" : "Sat, 12 Sep 2026 03:08:28",
-         "title" : "'India's very interested in what we do': Firouzja, youngest to beat Carlsen's record"
+         "title" : "'Indians very interested in what we do': Firouzja, youngest to beat Carlsen's record"
+      },
+      {
+         "description" : "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
+         "pubDate" : "Fri, 11 Sep 2026 21:13:00",
+         "title" : "Topalov Leads Kasparov 2.5-1.5 After Eventful Day"
       },
       {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
@@ -458,14 +498,6 @@ news_feed (
          "title" : "'Like his chess, not personality': Russian GM on Niemann's 'FIDE must punish' remarks"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133823825.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-new-chess-generation-needs-exposure-says-vidit-gujrathi/articleshow/133823825.cms",
-         "pubDate" : "Sun, 06 Sep 2026 03:06:11",
-         "title" : "Global Chess League: 'New chess generation needs exposure,' says Vidit Gujrathi"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
          "pubDate" : "Sat, 05 Sep 2026 01:19:00",
          "title" : "Khachatryan Upstages Nhat Minh Twice To Win Duck Chess Title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133783238.cms\" />In an exclusive interview with TimesofIndia.com, American Grandmaster Levon Aronian assesses the upcoming World Championship clash between Gukesh and Javokhir Sindarov. He discusses the immense pressure on Gukesh after becoming the youngest world champion, Sindarov's adventurous style, and the strategic battle ahead. Aronian also reflects on his own career, revealing why he has no regrets about never winning the classical world title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-lifetime-dream-just-came-too-early-american-gm-levon-aronian-assesses-sindarov-clash-exclusive/articleshow/133783238.cms",
-         "pubDate" : "Sat, 05 Sep 2026 01:05:33",
-         "title" : "'Gukesh's lifetime dream just came too early': Levon Aronian assesses Sindarov clash"
       },
       {
          "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-state-of-chess-september",
          "pubDate" : "Wed, 02 Sep 2026 14:44:00",
          "title" : "State of Chess: 'Grandmasters,' Gambit & Classic Games, Titled Tuesday Updates & More"
-      },
-      {
-         "description" : "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
-         "pubDate" : "Wed, 02 Sep 2026 13:30:34",
-         "title" : "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
