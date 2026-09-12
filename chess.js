@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134105178.cms\" />Alireza Firouzja discussed his ankle injury, recovery, and strong connection with Indian chess fans during an exclusive interview. He praised Indian crowds and tandoori chicken, assessed Gukesh-Sindarov's upcoming World Championship match as close, and reflected on the difficulty of reaching the Candidates. The 23-year-old is fully recovered and will next compete in Budapest's Total Chess Championship in November 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-people-always-very-interested-in-what-we-do-alireza-firouzja-youngest-to-beat-magnus-carlsens-2800-record-exclusive/articleshow/134105178.cms",
+         "pubDate" : "Sat, 12 Sep 2026 03:08:28",
+         "title" : "'India's very interested in what we do': Firouzja, youngest to beat Carlsen's record"
+      },
+      {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-lifetime-dream-just-came-too-early-american-gm-levon-aronian-assesses-sindarov-clash-exclusive/articleshow/133783238.cms",
          "pubDate" : "Sat, 05 Sep 2026 01:05:33",
          "title" : "'Gukesh's lifetime dream just came too early': Levon Aronian assesses Sindarov clash"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133782968.cms\" />How did the Alpine APL Pipers assemble a dream team featuring Magnus Carlsen, Anish Giri, Vidit Gujrathi, Koneru Humpy, Divya Deshmukh and Volodar Murzin? Coach Pravin Thipsay reveals the strategy behind navigating the GCL draft, balancing star power with depth, and preparing for opponents' recent rapid form. As defending champions, the Pipers must also manage expectations, media attention and the pressure to repeat their success.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-anish-giri-vidit-gujrathi-divya-deshmukh-koneru-humpy-in-one-team-how-gcl-made-it-possible/articleshow/133782968.cms",
-         "pubDate" : "Sat, 05 Sep 2026 00:50:21",
-         "title" : "Carlsen, Anish, Vidit, Divya Deshmukh, K Humpy in one team: How GCL made it possible"
       },
       {
          "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
