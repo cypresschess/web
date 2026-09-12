@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading to day 8, the final day of the preliminary round, two teams are comfortably tied for first place in the Global Chess League, each with 18 team points. The Ganges Grandmasters and the Alpine APL Pipers have the best chances of reaching Sunday's final. Today's matchups: Triveni Continental Kings vs. Alpine APL Pipers, PBG Alaskan Knights vs. Ganges Grandmasters, and CheQ Mumba Masters vs. Fyers American Gambits. The latter two teams are in 3rd and 4th place and are both expected to compete in the third-place match. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST) | Picture: Global Chess League",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Sat, 12 Sep 2026 13:15:00",
+         "title" : "Global Chess League, Day 8 - Live!"
+      },
+      {
          "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,28 +58,12 @@ news_feed (
          "title" : "Topalov Leads Kasparov 2.5-1.5 After Eventful Day"
       },
       {
-         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-         "pubDate" : "Fri, 11 Sep 2026 18:30:00",
-         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 1 - Live!"
-      },
-      {
          "description" : " Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There's also bonus money, up to $24,000 that rolls over to the final two games if there's a draw. I cannot currently display Chess960 games, I'm working on that for the future, but I will have a PGN file that is updated and the score will also be updat",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
          "pubDate" : "Fri, 11 Sep 2026 14:38:00",
          "title" : "Clutch Chess: The Legends 2026 - Games and results"
-      },
-      {
-         "description" : "hree teams are tied for the lead as the Global Chess League enters day seven in Bengaluru. The action begins at 13:30 CEST with the Triveni Continental Kings facing the PBG Alaskan Knights, featuring Alireza Firouzja against Vishy Anand on the icon board. At 15:00, the Alpine APL Pipers take on the FYERS American Gambits in a key clash, with Magnus Carlsen facing the in-form Javokhir Sindarov. The day concludes at 16:30 with the Ganges Grandmasters against the CheQ Mumba Masters. With the race for the two places in the final still wide open, there is plenty at stake. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Fri, 11 Sep 2026 13:15:00",
-         "title" : "Global Chess League, Day 7 - Live!"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers and GM Ian Nepomniachtchi&#39;s Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two...",
