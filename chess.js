@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are countless ways to be creative. Chess and mathematics are just two examples. In both fields, one can be creative without needing words to describe the results of that creativity to others. In this article, the first of a three-part series by Prof. Christian Hesse and GM Dr Helmut Pfleger, we are particularly interested in mathematical proofs and chess problems that require no words for their formulation, presentation or solution. See for yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words",
+         "pubDate" : "Sun, 13 Sep 2026 16:00:00",
+         "title" : "On the Superfluity of Words"
+      },
+      {
+         "description" : "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated databases on the Petroff Defence. The courses by Bahne Fuhrmann, Andrew Martin and Kostya Kavutskiy combine theoretical explanations with annotated games and practical exercises. With material aimed at different playing strengths, the new releases offer both concrete repertoire advice and more in-depth training. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
+         "pubDate" : "Sun, 13 Sep 2026 15:00:00",
+         "title" : "Review: All new releases in August!"
+      },
+      {
          "description" : "Today at 12:00 p.m., the 9th and final day of the Global Chess League begins with the matches for third place between the CheQ Mumba Masters (Vachier-Lagrave, Mamedyarov, Dronavalli) and the FYERS American Gambits (Sindarov, Nihal Sarin, Assaubayeva). The final will follow at 3:00 p.m. between the Ganges Grandmasters Squad (featuring Nepomniachtchi, Aronian, and Shuvalova) and the Alpine APL Pipers (featuring Carlsen, Giri, and Deshmukh, among others). The finals consists of two matches, followed by two blitz matches if necessary, and then another Armageddon match. Live with commentary starting at 12:00 noon (6.00 AM ET, 15.30 IST) | Picture: Global Chess League",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
