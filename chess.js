@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+         "pubDate" : "Sun, 13 Sep 2026 18:35:00",
+         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 - Live!"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League took place in Bengaluru, India 5th-13th September 2026. 6 Teams played over 10 rounds in rapid (10m+2spm) chess. The winners were Ganges Grandmasters with Ian Nepomniachtchi as the Legend and Levon Aronian as their board 2. Magnus Carlsen's Alpine APL Pipers finished second after losing the final. Nepomniachtchi was allowed to escape a lost position against Magnus Carlsen and turned it round for a win. FYERS American Gambits finished in 3rd after beating CheQ Mumba Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
+         "pubDate" : "Sun, 13 Sep 2026 17:24:00",
+         "title" : "Tech Mahindra Global Chess League 2026 - Games and results"
+      },
+      {
+         "description" : " The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on 5.5 points. Francisco Fiorito won the B-tournament with 7/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
+         "pubDate" : "Sun, 13 Sep 2026 17:20:00",
+         "title" : "Legends and Prodigies II 2026 - Games and results"
+      },
+      {
          "description" : "There are countless ways to be creative. Chess and mathematics are just two examples. In both fields, one can be creative without needing words to describe the results of that creativity to others. In this article, the first of a three-part series by Prof. Christian Hesse and GM Dr Helmut Pfleger, we are particularly interested in mathematical proofs and chess problems that require no words for their formulation, presentation or solution. See for yourself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
          "pubDate" : "Sun, 13 Sep 2026 11:45:00",
          "title" : "Global Chess League, Day 9 Finals - Live!"
+      },
+      {
+         "description" : "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
+         "pubDate" : "Sun, 13 Sep 2026 08:45:50",
+         "title" : "Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
       },
       {
          "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase&acute;26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Season Four of the Tech Mahindra Global Chess League - Start"
       },
       {
-         "description" : " The Tech Mahindra Global Chess League takes place in Bengaluru, India 5th-13th September 2026. 6 Teams play over 10 rounds in rapid (10m+2spm) chess. Each match has its own session, there will be four a day for most of the league stage, 3 for the final couple of days. The top two finishers play for the title, the next two for 3rd and 4th on the final day, Firouzja, Sindarov, Carlsen and MVL are amongst the players.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
-         "pubDate" : "Fri, 4 Sep 2026 12:51:00",
-         "title" : "Tech Mahindra Global Chess League 2026 - Games and results"
-      },
-      {
          "description" : "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
          "pubDate" : "Thu, 03 Sep 2026 09:11:00",
          "title" : "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster"
-      },
-      {
-         "description" : "Nigerian-born CM Chikwere Onyekwere (aka &#34;Chichi&#34;), the highest-rated hustler in New York&#39;s Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
-         "pubDate" : "Thu, 03 Sep 2026 08:20:00",
-         "title" : "Renowned Washington Square Park Player 'Chichi' Detained By ICE"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
