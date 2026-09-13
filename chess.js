@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today at 12:00 p.m., the 9th and final day of the Global Chess League begins with the matches for third place between the CheQ Mumba Masters (Vachier-Lagrave, Mamedyarov, Dronavalli) and the FYERS American Gambits (Sindarov, Nihal Sarin, Assaubayeva). The final will follow at 3:00 p.m. between the Ganges Grandmasters Squad (featuring Nepomniachtchi, Aronian, and Shuvalova) and the Alpine APL Pipers (featuring Carlsen, Giri, and Deshmukh, among others). The finals consists of two matches, followed by two blitz matches if necessary, and then another Armageddon match. Live with commentary starting at 12:00 noon (6.00 AM ET, 15.30 IST) | Picture: Global Chess League",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
+         "pubDate" : "Sun, 13 Sep 2026 11:45:00",
+         "title" : "Global Chess League, Day 9 Finals - Live!"
+      },
+      {
          "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase&acute;26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Crazy day of chess! Carlsen loses, boosts Sindarov's GCL hopes, only to be denied"
       },
       {
-         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-         "pubDate" : "Sat, 12 Sep 2026 18:30:00",
-         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 2 - Live!"
-      },
-      {
          "description" : "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
          "pubDate" : "Sat, 12 Sep 2026 15:32:00",
          "title" : "Salesforce to power the future of chess"
-      },
-      {
-         "description" : "Heading to day 8, the final day of the preliminary round, two teams are comfortably tied for first place in the Global Chess League, each with 18 team points. The Ganges Grandmasters and the Alpine APL Pipers have the best chances of reaching Sunday's final. Today's matchups: Triveni Continental Kings vs. Alpine APL Pipers, PBG Alaskan Knights vs. Ganges Grandmasters, and CheQ Mumba Masters vs. Fyers American Gambits. The latter two teams are in 3rd and 4th place and are both expected to compete in the third-place match. | Follow the action live with commentary, starting at 13.30 CEST (7.30 ET, 17.00 IST) | Picture: Global Chess League",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Sat, 12 Sep 2026 13:15:00",
-         "title" : "Global Chess League, Day 8 - Live!"
       },
       {
          "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
@@ -816,14 +808,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-i-changed-my-mind-on-recently/",
          "pubDate" : "Mon, 24 Aug 2026 13:00:00",
          "title" : "What I changed my mind on recently"
-      },
-      {
-         "description" : " The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6&frac12;/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
-         "pubDate" : "Sun, 23 Aug 2026 10:37:00",
-         "title" : "6th Cairns Cup 2026 - Games and Results"
       }
    ]
 }
