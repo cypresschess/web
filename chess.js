@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134171949.cms\" />Magnus Carlsen suffered his first GCL 2026 defeat as Alireza Firouzja's Triveni Continental Kings upset APL Pipers, but the result failed to alter the standings. Home favourites American Gambits briefly revived their qualification hopes before losing to Pipers. Nihal Sarin's defeat on time ended their finals bid, setting up a third-place clash with Mumba Masters on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-be-denied/articleshow/134171949.cms",
+         "pubDate" : "Sun, 13 Sep 2026 02:17:01",
+         "title" : "Crazy day of chess! Carlsen suffers first loss, boosts Sindarov's GCL final hopes, only to be denied"
+      },
+      {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
          "pubDate" : "Sat, 12 Sep 2026 18:30:00",
          "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 2 - Live!"
+      },
+      {
+         "description" : "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
+         "pubDate" : "Sat, 12 Sep 2026 17:31:00",
+         "title" : "Topalov Builds Solid Lead Over Kasparov"
       },
       {
          "description" : "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world's largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. Press release.",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "Kramnik reacts to Aronian's 'modest confidence' after grandmaster says he is better than many"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133832346.cms\" />While American Gambits enjoyed a memorable opening day, Magnus Carlsen's return was another major talking point. The Norwegian returned to the Global Chess League (GCL) after missing last year's edition in Mumbai. Representing defending champions Alpine APL Pipers, Carlsen was held to a draw by Maxime Vachier-Lagrave of Cheq Mumba Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/handshake-goes-wrong-twice-magnus-carlsen-and-maxime-vachier-lagrave-share-hilarious-moment-on-gcl-opening-day/articleshow/133832346.cms",
-         "pubDate" : "Sun, 06 Sep 2026 09:49:11",
-         "title" : "Handshake goes wrong: Magnus Carlsen and Vachier-Lagrave share hilarious moment"
-      },
-      {
          "description" : "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with the Slovenian team taking gold on tiebreaks after having defeated their English rivals in their direct encounter. | Photo: Zetta Grapsa / European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
          "pubDate" : "Thu, 03 Sep 2026 08:20:00",
          "title" : "Renowned Washington Square Park Player 'Chichi' Detained By ICE"
-      },
-      {
-         "description" : "The main event of the fourth season of the Tech Mahindra Global Chess League, the world&#39;s largest chess league, starts on September 5. Soon, the very best players in the world will gather in Bengaluru, India, to play in one of this year&#39;s biggest ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
-         "pubDate" : "Thu, 03 Sep 2026 08:00:00",
-         "title" : "How To Watch Season 4 Of The Global Chess League"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
