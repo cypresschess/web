@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
+         "pubDate" : "Sun, 13 Sep 2026 22:09:00",
+         "title" : "Clutch Chess: The Legends 2026 - Games and results"
+      },
+      {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,8 +62,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
-         "pubDate" : "Sun, 13 Sep 2026 08:45:50",
-         "title" : "Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
+         "pubDate" : "Sun, 13 Sep 2026 08:45:00",
+         "title" : "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
       },
       {
          "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase&acute;26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
          "pubDate" : "Fri, 11 Sep 2026 21:13:00",
          "title" : "Topalov Leads Kasparov 2.5-1.5 After Eventful Day"
-      },
-      {
-         "description" : " Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There's also bonus money, up to $24,000 that rolls over to the final two games if there's a draw. I cannot currently display Chess960 games, I'm working on that for the future, but I will have a PGN file that is updated and the score will also be updat",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
-         "pubDate" : "Fri, 11 Sep 2026 14:38:00",
-         "title" : "Clutch Chess: The Legends 2026 - Games and results"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers and GM Ian Nepomniachtchi&#39;s Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two...",
