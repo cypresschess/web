@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase&acute;26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
+         "pubDate" : "Sun, 13 Sep 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, part 31: Endgame expert with the \"LiveBook\""
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134171949.cms\" />Magnus Carlsen suffered his first GCL 2026 defeat as Alireza Firouzja's Triveni Continental Kings upset APL Pipers, but the result failed to alter the standings. Home favourites American Gambits briefly revived their qualification hopes before losing to Pipers. Nihal Sarin's defeat on time ended their finals bid, setting up a third-place clash with Mumba Masters on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-be-denied/articleshow/134171949.cms",
          "pubDate" : "Sun, 13 Sep 2026 02:17:01",
-         "title" : "Crazy day of chess! Carlsen suffers first loss, boosts Sindarov's GCL final hopes, only to be denied"
+         "title" : "Crazy day of chess! Carlsen loses, boosts Sindarov's GCL hopes, only to be denied"
       },
       {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
