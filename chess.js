@@ -10,6 +10,14 @@ news_feed (
          "title" : "Clutch Chess: The Legends 2026 - Games and results"
       },
       {
+         "description" : "GM Veselin Topalov staved off a counterthrust from GM Garry Kasparov by winning both blitz games to win the 2026 Clutch Chess: The Legends Chess960 match at the end of the third and final day. In the final analysis, Topalov scored 11-1 in blitz ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
+         "pubDate" : "Sun, 13 Sep 2026 19:22:58",
+         "title" : "Blitz Skills Help Topalov Win Match With Big Bonus"
+      },
+      {
          "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
          "pubDate" : "Thu, 3 Sep 2026 18:43:00",
          "title" : "TCh-ESP 1st Div 2026 - Games and results"
-      },
-      {
-         "description" : "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian &#34;Messi of Chess&#34; the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
-         "pubDate" : "Thu, 03 Sep 2026 09:11:00",
-         "title" : "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
