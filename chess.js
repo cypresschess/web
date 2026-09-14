@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the legendary city: 400 chess teams from across the globe will gather for the 46th FIDE Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/samarkand-ready-for-a-record-breaking-chess-olympiad",
+         "pubDate" : "Mon, 14 Sep 2026 14:00:00",
+         "title" : "Samarkand ready for a record-breaking Chess Olympiad"
+      },
+      {
          "description" : "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the second, with Nepomniachtchi scoring a spectacular victory over Magnus Carlsen and Stavroula Tsolakidou beating Humpy Koneru to seal the title. Viswanathan Anand and his PBG Alaskan Knights had already been eliminated before the final day. | Photos and videos: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
-         "pubDate" : "Mon, 14 Sep 2026 03:33:14",
+         "pubDate" : "Mon, 14 Sep 2026 03:33:00",
          "title" : "Chess To Be Played At The South Pole In Antarctica's 1st-Ever FIDE-Rated Tournament"
       },
       {
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-signs-historic-e800000-partnership-with-super-foundation/",
          "pubDate" : "Tue, 25 Aug 2026 07:07:54",
          "title" : "European Chess Union Signs Historic €800,000 Partnership with Super Foundation"
-      },
-      {
-         "description" : "I've spent the last 3 weeks showing the difference between knowledge and skills. A big part of my teaching is: forget about knowledge and focus on your skills. Today I want to share where I took it too far, and how I'll change that in the future. But first, a fun story of my Padel []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/what-i-changed-my-mind-on-recently/",
-         "pubDate" : "Mon, 24 Aug 2026 13:00:00",
-         "title" : "What I changed my mind on recently"
       }
    ]
 }
