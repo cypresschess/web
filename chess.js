@@ -10,6 +10,14 @@ news_feed (
          "title" : "Salesforce FIDE World Championship Match 2026"
       },
       {
+         "description" : "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura&#39;s 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-sept-12",
+         "pubDate" : "Mon, 14 Sep 2026 14:38:40",
+         "title" : "Bullet King Nakamura Takes 66th Bullet Brawl Title"
+      },
+      {
          "description" : "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the legendary city: 400 chess teams from across the globe will gather for the 46th FIDE Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
          "pubDate" : "Mon, 14 Sep 2026 03:33:00",
          "title" : "Chess To Be Played At The South Pole In Antarctica's 1st-Ever FIDE-Rated Tournament"
+      },
+      {
+         "description" : "The 3rd FIDE Olympiad for People with Disabilities crossed the halfway mark today. After four rounds, Cuba leads with a perfect 8/8 team score (wins are worth two points, draws one, and losses zero). Poland and Czechia each trail the leader by a single match point with 7/8 scores.Team USA is currently tied for 10th with a 5/8 score. It's been a delight to follow this team so far. Every round has produced close, entertaining games replete with both tactical moments and tough strategic decisions. FM Sullivan McConnell, in particular, seems incapable of playing a boring game, and the resulting complications are a delight to try to keep up with. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-hunt-halfway-through-3rd-fide-olympiad-people-disabilities",
+         "pubDate" : "Mon, 14 Sep 2026 00:00:00",
+         "title" : "USA in the Hunt Halfway Through 3rd FIDE Olympiad for People with Disabilities"
       },
       {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
@@ -706,14 +722,6 @@ news_feed (
          "title" : "Terry Extends 3 0 Thursday Record"
       },
       {
-         "description" : "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2026-registration",
-         "pubDate" : "Fri, 04 Sep 2026 08:00:00",
-         "title" : "Collegiate Chess League Fall 2026 Registration"
-      },
-      {
          "description" : " Fans would have preferred contest for world crown, but 20-minute Rapid games are still competitive substitute Magnus Carlsen, the world No 1, will be paired at least twice in the next few days with the world championship challenger, Uzbekistan's Javokhir Sindarov, in the Tech Mahindra Global Chess League, the six-team franchise competition based on cricket's Indian Premier League. In 2024 the Global League was staged in London, but this year it is back in India at Bengaluru (formerly Bangalore), India's technology capital, from 5-13 September, finishing two days before the 400-team chess Olympiad opens in Samarkand, Uzbekistan. <a href=\"https://www.theguardian.com/sport/2026/sep/04/magnus-c",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-7-labor-day",
          "pubDate" : "Wed, 02 Sep 2026 00:00:00",
          "title" : "US Chess Offices Closed Monday, September 7, for Labor Day"
-      },
-      {
-         "description" : "This week's puzzles continue a series on the 2026 U.S. Open and National Invitationals. You can review all of our event coverage on Chess Life Online here. WGM Sabina Foisor provided live commentary for all seven days, as well as annotations on the most instructive moments. But, despite publishing over 64 games and game fragments, we've managed to save several dozen puzzle positions for you! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-us-open-invitationals-pt-3",
-         "pubDate" : "Wed, 02 Sep 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 U.S. Open & Invitationals, Pt. 3"
       },
       {
          "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
