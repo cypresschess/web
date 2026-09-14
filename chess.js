@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1&frac12; points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded somewhat in the second half of the tournament and had to settle for third place behind Jose Martinez Alcantara. | Photos: ECU (title photo), ChessBase India / Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
+         "pubDate" : "Mon, 14 Sep 2026 08:38:36",
+         "title" : "Legends & Prodigies: David Anton wins convincingly, Oro finishes third"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134232292.cms\" />Humpy's nine-year-old daughter Ahana witnessed her mother play live for the first time as APL Pipers lost the GCL final to Ganges Grandmasters. While Humpy was left disappointed with silver, Ahana celebrated from the front row, seeing only the joy of her mother competing and receiving a medal. For her, the silver felt every bit like gold.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-silver-medal-koneru-humpys-9-year-old-daughter-will-remember-as-gold/articleshow/134232292.cms",
+         "pubDate" : "Mon, 14 Sep 2026 04:24:15",
+         "title" : "The silver medal Koneru Humpy's 9-year-old daughter will remember as gold"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134231736.cms\" />Ganges Grandmasters stunned the favourites, APL Pipers, to win the GCL 2026 title on Sunday, powered by an unconventional team culture built on humour, trust and camaraderie. First-time coach Adiban Baskaran became the unlikely catalyst, blending superstition, calmness inspired by MS Dhoni, and personal bonds with players. Ian Nepomniachtchi and Stavroula Tsolakidou delivered decisive wins, completing a remarkable underdog triumph.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-coachs-fasting-nod-to-ms-dhoni-and-the-funniest-team-inside-ganges-grandmasters-gcl-2026-title/articleshow/134231736.cms",
+         "pubDate" : "Mon, 14 Sep 2026 03:34:22",
+         "title" : "Coach's fasting, nod to Dhoni, 'funniest' team: Inside Ganges Grandmasters' GCL title"
+      },
+      {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133833620.cms\" />Levon Aronian described his ascent to the world number two ranking as a miracle in his chess journey. Despite not clinching the classical World Championship title, he has no regrets. Former champion Vladimir Kramnik commented on Aronian's modest view of his own skills, recognizing Aronian's outstanding achievements, which include two World Cup victories and multiple Olympiad gold medals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-reacts-to-levon-aronians-modest-confidence-after-grandmaster-says-he-is-better-than-many/articleshow/133833620.cms",
-         "pubDate" : "Sun, 06 Sep 2026 10:37:43",
-         "title" : "Kramnik reacts to Aronian's 'modest confidence' after grandmaster says he is better than many"
-      },
-      {
          "description" : "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with the Slovenian team taking gold on tiebreaks after having defeated their English rivals in their direct encounter. | Photo: Zetta Grapsa / European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2026-1",
          "pubDate" : "Sun, 06 Sep 2026 03:50:00",
          "title" : "Global Chess League: American Gambits win both their matches on opening day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824104.cms\" />Ian Nepomniachtchi has praised Hans Niemann as a \"very good and formidable player\" but said he does not like the American's personality. In an exclusive interview with TimesofIndia.com, the Russian grandmaster reacted to Niemann's recent call for FIDE to punish players over public accusations, saying the American \"can't stop playing the victim card\" and comparing his image to Conor McGregor's.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/really-like-his-chess-not-his-personality-russia-no-1-nepo-on-hans-niemanns-fide-must-punish-remarks-exclusive/articleshow/133824104.cms",
-         "pubDate" : "Sun, 06 Sep 2026 03:31:59",
-         "title" : "'Like his chess, not personality': Russian GM on Niemann's 'FIDE must punish' remarks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
