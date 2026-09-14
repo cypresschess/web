@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the second, with Nepomniachtchi scoring a spectacular victory over Magnus Carlsen and Stavroula Tsolakidou beating Humpy Koneru to seal the title. Viswanathan Anand and his PBG Alaskan Knights had already been eliminated before the final day. | Photos and videos: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
+         "pubDate" : "Mon, 14 Sep 2026 12:10:28",
+         "title" : "Ganges Grandmasters win Global Chess League in dramatic final"
+      },
+      {
          "description" : "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1&frac12; points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded somewhat in the second half of the tournament and had to settle for third place behind Jose Martinez Alcantara. | Photos: ECU (title photo), ChessBase India / Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
          "pubDate" : "Mon, 14 Sep 2026 08:38:36",
          "title" : "Legends & Prodigies: David Anton wins convincingly, Oro finishes third"
+      },
+      {
+         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
+         "pubDate" : "Mon, 14 Sep 2026 08:28:17",
+         "title" : "ECF AGM - Call for nominations"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134232292.cms\" />Humpy's nine-year-old daughter Ahana witnessed her mother play live for the first time as APL Pipers lost the GCL final to Ganges Grandmasters. While Humpy was left disappointed with silver, Ahana celebrated from the front row, seeing only the joy of her mother competing and receiving a medal. For her, the silver felt every bit like gold.",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-coachs-fasting-nod-to-ms-dhoni-and-the-funniest-team-inside-ganges-grandmasters-gcl-2026-title/articleshow/134231736.cms",
          "pubDate" : "Mon, 14 Sep 2026 03:34:22",
          "title" : "Coach's fasting, nod to Dhoni, 'funniest' team: Inside Ganges Grandmasters' GCL title"
+      },
+      {
+         "description" : "No, it&#38;rsquo;s not an April Fool&#39;s. More than six years after Chess.com joked&#38;nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&#38;rsquo;s coldest continent. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
+         "pubDate" : "Mon, 14 Sep 2026 03:33:14",
+         "title" : "Chess To Be Played At The South Pole In Antarctica's 1st-Ever FIDE-Rated Tournament"
       },
       {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
          "pubDate" : "Sun, 13 Sep 2026 17:20:00",
          "title" : "Legends and Prodigies II 2026 - Games and results"
-      },
-      {
-         "description" : "There are countless ways to be creative. Chess and mathematics are just two examples. In both fields, one can be creative without needing words to describe the results of that creativity to others. In this article, the first of a three-part series by Prof. Christian Hesse and GM Dr Helmut Pfleger, we are particularly interested in mathematical proofs and chess problems that require no words for their formulation, presentation or solution. See for yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words",
-         "pubDate" : "Sun, 13 Sep 2026 16:00:00",
-         "title" : "On the Superfluity of Words"
       },
       {
          "description" : "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated databases on the Petroff Defence. The courses by Bahne Fuhrmann, Andrew Martin and Kostya Kavutskiy combine theoretical explanations with annotated games and practical exercises. With material aimed at different playing strengths, the new releases offer both concrete repertoire advice and more in-depth training. | All photos: ChessBase",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
          "pubDate" : "Sat, 12 Sep 2026 17:31:00",
          "title" : "Topalov Builds Solid Lead Over Kasparov"
-      },
-      {
-         "description" : "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world's largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
-         "pubDate" : "Sat, 12 Sep 2026 15:32:00",
-         "title" : "Salesforce to power the future of chess"
       },
       {
          "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/04/magnus-carlsen-and-sindarov-to-meet-at-least-twice-in-ipl-styled-global-chess-league",
          "pubDate" : "Fri, 04 Sep 2026 07:00:03",
          "title" : "Magnus Carlsen and Sindarov to meet at least twice in IPL-styled Global Chess League"
-      },
-      {
-         "description" : "&#34;I think, at the moment, I would say he&#39;s the number one player in the world,&#34; GM Viswanathan Anand recently told The Times of India about GM Praggnanandhaa Rameshbabu, who followed victory in Norway Chess 2026 by winning the 2026 Grand Chess Tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-interview-olympiad-gukesh-sindarov",
-         "pubDate" : "Fri, 04 Sep 2026 06:56:44",
-         "title" : "Praggnanandhaa On Fighting To Win, India's Olympiad Hopes, Gukesh-Sindarov & More"
       },
       {
          "description" : " The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams. ",
