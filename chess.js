@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 15 August 2026, the publisher, renowned author and chess historian Anthony Gillam died at the age of 83. He was one of the leading figures of the Chess History & Literature Society. In his obituary, Michael Negele recalls many moments from their shared research and the joy of discovery.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memoriam-anthony-john-gillam-1943-2026",
+         "pubDate" : "Tue, 15 Sep 2026 15:00:00",
+         "title" : "In Memoriam: Anthony John Gillam (1943-2026)"
+      },
+      {
+         "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
+         "pubDate" : "Tue, 15 Sep 2026 14:51:00",
+         "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
+         "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-ecf-resources-for-chess-clubs/",
+         "pubDate" : "Tue, 15 Sep 2026 13:48:56",
+         "title" : "New ECF resources for chess clubs"
+      },
+      {
          "description" : "At the end of August, the chess historians of the Chess History & Literature Society met in Copenhagen to exchange new findings from their research into chess history and chess literature in talks and lectures, and to present interesting new books. Herbert Bastian, Michael Negele and Frank Hoffmeister report. | Photo: The conference venue, Skakkens Hus, S&oslash;lvgade 5, 1307 Copenhagen / Photos: Herbert Bastian",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
