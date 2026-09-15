@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first major international tournament after the end of the Second World War took place in Groningen in August and September. It was the anniversary tournament of the Staunton Chess Club, founded in 1871. For the first time ever, a group of Soviet players also took part in a tournament outside the Soviet Union. Before the tournament began, they inadvertently caused a number of organizational problems. Report with video... | Photos: Dutch National Archives (Anefo), unless otherwise indicated.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-first-major-tournament-after-the-second-world-war-the-staunton-memorial-1946",
+         "pubDate" : "Tue, 15 Sep 2026 19:00:00",
+         "title" : "The first major tournament after the Second World War: The Staunton Memorial 1946"
+      },
+      {
+         "description" : "Georgios Makropoulos, FIDE Vice President and a longstanding figure in Greek and international chess, has died at the age of 72. A seven-time Greek champion and former Olympiad player, Makropoulos later became one of the most prominent administrators in the game. He served in senior FIDE roles for four decades and also played a central part in Greek chess, including helping bring the 1984 and 1988 Chess Olympiads to Thessaloniki.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/georgios-makropoulos-obituary",
+         "pubDate" : "Tue, 15 Sep 2026 17:50:00",
+         "title" : "Georgios Makropoulos (1953-2026)"
+      },
+      {
          "description" : "On 15 August 2026, the publisher, renowned author and chess historian Anthony Gillam died at the age of 83. He was one of the leading figures of the Chess History & Literature Society. In his obituary, Michael Negele recalls many moments from their shared research and the joy of discovery.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-historians-meet-in-copenhagen",
          "pubDate" : "Tue, 15 Sep 2026 12:21:00",
          "title" : "Chess historians meet in Copenhagen"
+      },
+      {
+         "description" : "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&#38;nbsp; The Greek Chess Federation and the International Chess Federation (...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
+         "pubDate" : "Tue, 15 Sep 2026 08:51:00",
+         "title" : "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72"
       },
       {
          "description" : "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandmaster Javokhir Sindarov. The match will be held at the Fondation Martin Bodmer in Cologny, Geneva, Switzerland, from 22 November to 13 December 2026, bringing a World Championship match back to Switzerland for the first time since Brissago in 2004.",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
          "pubDate" : "Sun, 13 Sep 2026 15:00:00",
          "title" : "Review: All new releases in August!"
-      },
-      {
-         "description" : "Today at 12:00 p.m., the 9th and final day of the Global Chess League begins with the matches for third place between the CheQ Mumba Masters (Vachier-Lagrave, Mamedyarov, Dronavalli) and the FYERS American Gambits (Sindarov, Nihal Sarin, Assaubayeva). The final will follow at 3:00 p.m. between the Ganges Grandmasters Squad (featuring Nepomniachtchi, Aronian, and Shuvalova) and the Alpine APL Pipers (featuring Carlsen, Giri, and Deshmukh, among others). The finals consists of two matches, followed by two blitz matches if necessary, and then another Armageddon match. Live with commentary starting at 12:00 noon (6.00 AM ET, 15.30 IST) | Picture: Global Chess League",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-live",
-         "pubDate" : "Sun, 13 Sep 2026 11:45:00",
-         "title" : "Global Chess League, Day 9 Finals - Live!"
       },
       {
          "description" : "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis...",
@@ -466,14 +482,6 @@ news_feed (
          "title" : "Oro and Ant&oacute;n Guijarro share the lead in Madrid"
       },
       {
-         "description" : "Andrew Martin presents the Evans Gambit as a dangerous and highly practical weapon for club players, especially those rated below 1800. Using a historic game by William Davies Evans, he shows how White gives up a pawn for rapid development, central control and direct attacking chances against the black king. Martin also explains why the opening remains relevant today despite modern engine analysis, with even top players such as Magnus Carlsen facing it in recent practice. The course is designed not only to teach a playable repertoire, but also to sharpen tactical vision and help players enjoy dynamic attacking chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-the-evans-gambit-is-still-dangerous",
-         "pubDate" : "Wed, 09 Sep 2026 07:05:19",
-         "title" : "Andrew Martin - The Evans Gambit is still dangerous"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133952570.cms\" />Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances. Anand called the game a \"comedy of errors\" after declining a draw offer. World Championship challenger Sindarov, however, called Anand \"world-class\", showering praise on the legend's enduring quality at 56.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -498,14 +506,6 @@ news_feed (
          "title" : "Wednesday Workout: 2026 Harvey Lerman Florida State Championship"
       },
       {
-         "description" : "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham. The narrative, in comic book form, captures the excitement and suspense of a classic sports showdown and explores thought-provoking themes about where humanity stands at the rise of AI.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mind-vs-machine",
-         "pubDate" : "Tue, 08 Sep 2026 19:00:00",
-         "title" : "Mind vs Machine"
-      },
-      {
          "description" : "GM Alireza Firouzja&#39;s Triveni Continental Kings continued their comeback by beating the leaders, GM Magnus Carlsen&#39;s Alpine APL Pipers, as the 2026 Tech Mahindra Global Chess League crossed the halfway mark with no teams breaking clear of the pack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -528,14 +528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms",
          "pubDate" : "Tue, 08 Sep 2026 12:31:01",
          "title" : "'Leon was apologising': How an illegal move cost Abhimanyu a sure-shot win in GCL"
-      },
-      {
-         "description" : "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers nevertheless lost to the PBG Alaskan Knights. Carlsen's team then bounced back with a 15-3 victory over the previously leading FYERS American Gambits. After four of ten matches, the Pipers lead the table with nine match points, followed by four teams on six. | Photos: Global Chess League",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
-         "pubDate" : "Tue, 08 Sep 2026 09:23:39",
-         "title" : "Global Chess League: Carlsen's Pipers Take the Lead"
       },
       {
          "description" : "Staying true to your opening repertoire just got easier with Game Review. Whenever you&#39;re reviewing a game, your coach will tell you when you&#39;ve deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i...",
@@ -578,14 +570,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2026 Harvey Lerman Florida State Championship"
       },
       {
-         "description" : "François-Andr&eacute; Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitation of Frederick II, visited Sanssouci Palace. A look back at the remarkable life of one of the first great names in chess history. | Picture: François-Andr&eacute; Philidor (1726-1795) by Augustin de Saint-Aubin and Charles-Nicolas Cochin",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
-         "pubDate" : "Mon, 07 Sep 2026 20:00:00",
-         "title" : "Philidor at 300: Chess Master, Musician and Pioneer"
-      },
-      {
          "description" : "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn&#39;t stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -600,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
          "pubDate" : "Mon, 07 Sep 2026 10:00:00",
          "title" : "How To Watch The FIDE Presidential Debate On September 9"
-      },
-      {
-         "description" : "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match wins, as the standings tightened after eight encounters. The Triveni Continental Kings, meanwhile, remain without a match point after suffering a third consecutive loss. | Photo: Global Chess League",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-2",
-         "pubDate" : "Mon, 07 Sep 2026 08:10:00",
-         "title" : "Global Chess League: Pipers, Gambits and Grandmasters tied for first place"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133867862.cms\" />The Chess Olympiad's historic US-Russia rivalry takes a striking turn in Samarkand. The United States arrives with a star-studded team, with Levon Aronian seeking a record fourth gold medal. Russia, meanwhile, remains barred from competing following its federation's suspension amid the Ukraine dispute. Ian Nepomniachtchi reflects on Russia's absence, highlighting how politics has reshaped one of chess's biggest rivalries.",
@@ -634,28 +610,12 @@ news_feed (
          "title" : "'Long dream': Nihal Sarin 'excited' but 'not thinking about' Olympiad title defence"
       },
       {
-         "description" : "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves. The second example features Jos&eacute; Garc&iacute;a Molina against Sanan Sjugirov, where White sacrifices material for a dangerous initiative and builds a powerful attack against the black king. Both games show how quickly even very strong grandmasters can come under pressure in blitz when tactical threats and initiative take over.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/former-super-gms-taken-down-the-underdog",
-         "pubDate" : "Sun, 06 Sep 2026 18:30:00",
-         "title" : "Former Super GMs taken down - The Underdog"
-      },
-      {
          "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi&#39;s Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
          "pubDate" : "Sun, 06 Sep 2026 13:00:00",
          "title" : "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten"
-      },
-      {
-         "description" : "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with the Slovenian team taking gold on tiebreaks after having defeated their English rivals in their direct encounter. | Photo: Zetta Grapsa / European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-teams-2026-r9",
-         "pubDate" : "Sun, 06 Sep 2026 09:20:00",
-         "title" : "England and Slovenia win European Senior Team Championships"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
@@ -666,28 +626,12 @@ news_feed (
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
       },
       {
-         "description" : "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost twice. The Ganges Grandmasters and Alpine APL Pipers also began with wins as the six-team double round-robin stage commenced at the Lalit Ashok hotel in Bengaluru. | Pictured: Javokhir Sindarov (American Gambits) defeated Viswanathan Anand (Alaskan Knights) | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2026-1",
-         "pubDate" : "Sun, 06 Sep 2026 03:50:00",
-         "title" : "Global Chess League: American Gambits win both their matches on opening day"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-months-moscow-to-munich-flights-but-now-he-is-fed-up-behind-russia-no-1-ian-nepomniachtchis-tattoos/articleshow/133821671.cms",
          "pubDate" : "Sun, 06 Sep 2026 01:21:40",
          "title" : "Russia No.1 GM's tattoos took 8 months, flight to Munich &amp; pain; now he's 'fed up'"
-      },
-      {
-         "description" : "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
-         "pubDate" : "Sat, 05 Sep 2026 18:15:00",
-         "title" : "Pouya Idani switches federations from Iran to France"
       },
       {
          "description" : "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen&#39;s Alpine...",
@@ -728,14 +672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Sat, 05 Sep 2026 06:00:16",
          "title" : "The European Senior Team Chess Championships - wins across the board!"
-      },
-      {
-         "description" : "Duck Chess specialist Edward Khachatryan of Israel defeated defending champion IM Nhat Minh To in both the Winners Final and the Grand Final to triumph in the 2026 Duck Chess Championship and pocket the winner&#39;s purse of $750. Nhat Minh gained $50...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
-         "pubDate" : "Sat, 05 Sep 2026 01:19:00",
-         "title" : "Khachatryan Upstages Nhat Minh Twice To Win Duck Chess Title"
       },
       {
          "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
