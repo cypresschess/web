@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-starts-in-greece/",
          "pubDate" : "Wed, 26 Aug 2026 08:26:18",
          "title" : "European Senior Team Chess Championship 2026 starts in Greece"
-      },
-      {
-         "description" : "The European Chess Union (ECU) is pleased to announce the signing of two major partnership agreements with Super Foundation, totalling €800,000 in combined investment. The contracts, signed simultaneously on 20 August 2026, mark a defining moment for European chess and represent a direct fulfilment of commitments made by ECU leadership during the organisation's pre-election period. The two agreements are as follows: A Promise Kept: Delivering on Election Commitments Both agreements were publicly outlined by ECU leadership during the pre-election period []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-signs-historic-e800000-partnership-with-super-foundation/",
-         "pubDate" : "Tue, 25 Aug 2026 07:07:54",
-         "title" : "European Chess Union Signs Historic €800,000 Partnership with Super Foundation"
       }
    ]
 }
