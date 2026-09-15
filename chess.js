@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/46th-chess-olympiad-starts-in-samarkand-uzbekistan/",
+         "pubDate" : "Tue, 15 Sep 2026 19:47:41",
+         "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
+      },
+      {
          "description" : "The first major international tournament after the end of the Second World War took place in Groningen in August and September. It was the anniversary tournament of the Staunton Chess Club, founded in 1871. For the first time ever, a group of Soviet players also took part in a tournament outside the Soviet Union. Before the tournament began, they inadvertently caused a number of organizational problems. Report with video... | Photos: Dutch National Archives (Anefo), unless otherwise indicated.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
          "pubDate" : "Tue, 15 Sep 2026 14:51:00",
          "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Sina Movahed claimed his third&#38;nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
+         "pubDate" : "Tue, 15 Sep 2026 14:22:02",
+         "title" : "Sina Movahed Again In Titled Tuesday"
       },
       {
          "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/usa-hunt-halfway-through-3rd-fide-olympiad-people-disabilities",
          "pubDate" : "Mon, 14 Sep 2026 00:00:00",
          "title" : "USA in the Hunt Halfway Through 3rd FIDE Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or wrap-ups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-labor-day-weekend-wrap",
+         "pubDate" : "Mon, 14 Sep 2026 00:00:00",
+         "title" : "2026 Labor Day Weekend Wrap-Up"
       },
       {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "How to learn to play any position better"
       },
       {
-         "description" : "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
-         "pubDate" : "Sat, 05 Sep 2026 12:05:00",
-         "title" : "Xiong Captures His 5th Bullet Brawl Title"
-      },
-      {
          "description" : "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece! The event took place from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, gathering 32 teams and 150 players competing in two age categories: 50+ and 65+. Each tournament was played in 9 rounds, swiss system, with the classical time control, with the participation of legendary Grandmasters. England 1 clinched the title in the Open 50+ section, scoring convincing 17 match points (8 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
          "pubDate" : "Wed, 02 Sep 2026 07:24:37",
          "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, September 7 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 8 at 8 a.m. CDT. Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess! ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-7-labor-day",
-         "pubDate" : "Wed, 02 Sep 2026 00:00:00",
-         "title" : "US Chess Offices Closed Monday, September 7, for Labor Day"
       },
       {
          "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
