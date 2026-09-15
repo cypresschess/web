@@ -10,6 +10,14 @@ news_feed (
          "title" : "Salesforce FIDE World Championship Match 2026"
       },
       {
+         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission has handed a two-year ban to a minor after he was caught with a mobile phone hidden inside his shoe during a tournament in Slovenia. The phone had the game position open on Chess.com. The five-page de...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
+         "pubDate" : "Mon, 14 Sep 2026 16:57:32",
+         "title" : "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe"
+      },
+      {
          "description" : "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura&#39;s 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
          "pubDate" : "Fri, 4 Sep 2026 12:55:00",
          "title" : "Season Four of the Tech Mahindra Global Chess League - Start"
-      },
-      {
-         "description" : "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-maghsoodloo-terry-3-0-thursday-09-03-2026",
-         "pubDate" : "Fri, 04 Sep 2026 11:35:20",
-         "title" : "Terry Extends 3 0 Thursday Record"
       },
       {
          "description" : " Fans would have preferred contest for world crown, but 20-minute Rapid games are still competitive substitute Magnus Carlsen, the world No 1, will be paired at least twice in the next few days with the world championship challenger, Uzbekistan's Javokhir Sindarov, in the Tech Mahindra Global Chess League, the six-team franchise competition based on cricket's Indian Premier League. In 2024 the Global League was staged in London, but this year it is back in India at Bengaluru (formerly Bangalore), India's technology capital, from 5-13 September, finishing two days before the 400-team chess Olympiad opens in Samarkand, Uzbekistan. <a href=\"https://www.theguardian.com/sport/2026/sep/04/magnus-c",
