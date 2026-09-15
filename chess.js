@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of August, the chess historians of the Chess History & Literature Society met in Copenhagen to exchange new findings from their research into chess history and chess literature in talks and lectures, and to present interesting new books. Herbert Bastian, Michael Negele and Frank Hoffmeister report. | Photo: The conference venue, Skakkens Hus, S&oslash;lvgade 5, 1307 Copenhagen / Photos: Herbert Bastian",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-historians-meet-in-copenhagen",
+         "pubDate" : "Tue, 15 Sep 2026 12:21:00",
+         "title" : "Chess historians meet in Copenhagen"
+      },
+      {
          "description" : "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandmaster Javokhir Sindarov. The match will be held at the Fondation Martin Bodmer in Cologny, Geneva, Switzerland, from 22 November to 13 December 2026, bringing a World Championship match back to Switzerland for the first time since Brissago in 2004.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
