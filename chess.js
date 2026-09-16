@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Wed, 16 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134282222.cms\" />The Chess Olympiad 2026 is underway in Samarkand, with India defending both Open and Women's titles won in 2024. The 11-round Swiss-system event features five-player teams, with four playing each round. Praggnanandhaa, Arjun, Nihal, Gukesh and Vidit form India's Open squad, while Humpy, Vaishali, Divya, Vantika and Savitha represent the women's team.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-indias-squads-schedule-format-and-all-you-need-to-know/articleshow/134282222.cms",
+         "pubDate" : "Wed, 16 Sep 2026 08:20:13",
+         "title" : "Chess Olympiad: India's squads, schedule, format and all you need to know"
+      },
+      {
          "description" : "FIDE Press Officer Michael Rahal writes: \"By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. But none of them comes remotely close to what the chess community witnessed this evening in Samarkand, Uzbekistan.\" Here's what impressed him so.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "How To Watch The FIDE Presidential Debate On September 9"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133867862.cms\" />The Chess Olympiad's historic US-Russia rivalry takes a striking turn in Samarkand. The United States arrives with a star-studded team, with Levon Aronian seeking a record fourth gold medal. Russia, meanwhile, remains barred from competing following its federation's suspension amid the Ukraine dispute. Ian Nepomniachtchi reflects on Russia's absence, highlighting how politics has reshaped one of chess's biggest rivalries.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-america-russia-paradox-one-chases-historic-gold-at-chess-olympiad-the-other-not-allowed-to-play/articleshow/133867862.cms",
-         "pubDate" : "Mon, 07 Sep 2026 06:42:37",
-         "title" : "The US-Russia Paradox: One chases historic gold at Olympiad, the other not allowed to play"
-      },
-      {
          "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi&#39;s Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
          "pubDate" : "Fri, 28 Aug 2026 07:00:50",
          "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
-      },
-      {
-         "description" : "The 2026 European Senior Team Chess Championship 2026 starts tomorrow in Hersonissos, Crete, Greece! The event will be played from 27 August 4 September at the ****Hotel Royal Belvedere Hersonissos. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. The top seeded teams in the Open 50+ section are: England []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-starts-in-greece/",
-         "pubDate" : "Wed, 26 Aug 2026 08:26:18",
-         "title" : "European Senior Team Chess Championship 2026 starts in Greece"
       }
    ]
 }
