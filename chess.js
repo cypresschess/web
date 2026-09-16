@@ -18,6 +18,14 @@ news_feed (
          "title" : "Pakistan hand Israel 4-0 win after refusing to play at FIDE World Chess Olympiad"
       },
       {
+         "description" : "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap&#39;s win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan&#39;s ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
+         "pubDate" : "Wed, 16 Sep 2026 13:26:00",
+         "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
          "pubDate" : "Wed, 16 Sep 2026 11:29:32",
          "title" : "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh"
-      },
-      {
-         "description" : "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap&#39;s win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-         "pubDate" : "Wed, 16 Sep 2026 09:26:00",
-         "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134282222.cms\" />The Chess Olympiad 2026 is underway in Samarkand, with India defending both Open and Women's titles won in 2024. The 11-round Swiss-system event features five-player teams, with four playing each round. Praggnanandhaa, Arjun, Nihal, Gukesh and Vidit form India's Open squad, while Humpy, Vaishali, Divya, Vantika and Savitha represent the women's team.",
@@ -314,14 +314,6 @@ news_feed (
          "title" : "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
       },
       {
-         "description" : "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase&acute;26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
-         "pubDate" : "Sun, 13 Sep 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, part 31: Endgame expert with the \"LiveBook\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134171949.cms\" />Magnus Carlsen suffered his first GCL 2026 defeat as Alireza Firouzja's Triveni Continental Kings upset APL Pipers, but the result failed to alter the standings. Home favourites American Gambits briefly revived their qualification hopes before losing to Pipers. Nihal Sarin's defeat on time ended their finals bid, setting up a third-place clash with Mumba Masters on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -570,28 +562,12 @@ news_feed (
          "title" : "Review: Opening Encyclopedia 2026"
       },
       {
-         "description" : "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 - save around €50!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-summer-special-part-10",
-         "pubDate" : "Wed, 09 Sep 2026 15:00:00",
-         "title" : "ChessBase Summer-Special! - Part 10"
-      },
-      {
          "description" : "GM Javokhir Sindarov&#39;s second win in a row, this time over GM Alireza Firouzja, took FYERS American Gambits into the 2026 Tech Mahindra Global Chess League lead while Triveni Continental Kings slumped to the bottom after a second loss of the day. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-5",
          "pubDate" : "Wed, 09 Sep 2026 13:10:00",
          "title" : "Sindarov Beats Firouzja To Give American Gambits Lead"
-      },
-      {
-         "description" : "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Ant&oacute;n Guijarro, the two players who had won their opening games. | Photo: Faustino Oro at the 2026 Wijk aan Zee tournament | Photo: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oro-and-antn-guijarro-share-the-lead-in-madrid",
-         "pubDate" : "Wed, 09 Sep 2026 10:35:07",
-         "title" : "Oro and Ant&oacute;n Guijarro share the lead in Madrid"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133952570.cms\" />Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances. Anand called the game a \"comedy of errors\" after declining a draw offer. World Championship challenger Sindarov, however, called Anand \"world-class\", showering praise on the legend's enduring quality at 56.",
