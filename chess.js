@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134276444.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-uzbeks-face-tough-test-from-defending-champs-india/articleshow/134276444.cms",
+         "pubDate" : "Wed, 16 Sep 2026 02:30:29",
+         "title" : "Chess Olympiad: Uzbeks face tough test from defending champs India"
+      },
+      {
+         "description" : "GM Jon Speelman returns to the theme of opening preparation in the computer era, examining how engine-assisted novelties can unsettle even the strongest players. His examples begin with Fabiano Caruana's preparation from the recent Grand Chess Tour final, before moving to an earlier attacking idea by Hikaru Nakamura and, finally, the famous gambit introduced by Frank Marshall (pictured) against Jos&eacute; Ra&uacute;l Capablanca in New York in 1918.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-243",
+         "pubDate" : "Wed, 16 Sep 2026 01:35:00",
+         "title" : "Jon Speelman: Beware the Centaur's Hooves"
+      },
+      {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
          "pubDate" : "Tue, 15 Sep 2026 14:22:02",
          "title" : "Sina Movahed Again In Titled Tuesday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134266159.cms\" />Upon their arrival in Samarkand, India's chess team faced a frustrating delay concerning hotel accommodations due to miscommunication from the local organizing committee. Fortunately, All India Chess Federation president Nitin Narang stepped in and reached out to FIDE to resolve the accommodation issue. Now, players are comfortably settled in individual rooms, while coaches share rooms.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/olympiad-mess-indian-chess-players-get-rooms-after-aicf-intervention-in-samarkand/articleshow/134266159.cms",
+         "pubDate" : "Tue, 15 Sep 2026 13:53:32",
+         "title" : "Olympiad mess! Indian chess players get rooms after AICF intervention in Samarkand"
       },
       {
          "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "The US-Russia Paradox: One chases historic gold at Olympiad, the other not allowed to play"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133861214.cms\" />The Global Chess League features a highly anticipated match between Magnus Carlsen and Javokhir Sindarov. This rapid chess encounter is expected to produce a decisive winner on the icon board. Bengaluru GM Pranav Anand believes Carlsen is the overwhelming favorite in this contest. Sindarov's best opportunity to challenge Carlsen is during the tournament's initial rounds. Previous results saw Alpine APL Pipers and Ganges Grandmasters secure victories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sindarovs-chance-to-shock-carlsen-experts-feel-uzbek-gm-will-have-to-seize-his-moments/articleshow/133861214.cms",
-         "pubDate" : "Mon, 07 Sep 2026 03:12:42",
-         "title" : "'Sindarov's chance to shock Carlsen': Experts feel Uzbek GM will have to seize his moments"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133859653.cms\" />Nihal Sarin is excited to represent India at the Chess Olympiad in Samarkand, where India will defend its Open title, but is currently focused on the Global Chess League. The 22-year-old calls the Olympiad a long-time dream. Meanwhile, American Gambits lead the GCL standings after two days, despite Nihal's individual win over Levon Aronian.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
          "pubDate" : "Sun, 06 Sep 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133821671.cms\" />Russia's No. 1 chess grandmaster Ian Nepomniachtchi has two tattoos. Both carry different stories. His left-arm full sleeve took eight sessions over eight months, with flights from Moscow to Munich to meet his tattoo artist. From a phoenix and a favourite quote to Greek mythology, chess pieces and the pain involved, Nepo opens up about the stories behind his ink.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-months-moscow-to-munich-flights-but-now-he-is-fed-up-behind-russia-no-1-ian-nepomniachtchis-tattoos/articleshow/133821671.cms",
-         "pubDate" : "Sun, 06 Sep 2026 01:21:40",
-         "title" : "Russia No.1 GM's tattoos took 8 months, flight to Munich &amp; pain; now he's 'fed up'"
       },
       {
          "description" : "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen&#39;s Alpine...",
