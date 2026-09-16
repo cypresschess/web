@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run of success. The surprise team from Uzbekistan, with just one grandmaster, took silver ahead of Armenia. In the women's event, Georgia won the gold medal. | Photo: Gerhard Hund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
+         "pubDate" : "Wed, 16 Sep 2026 21:10:00",
+         "title" : "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134291730.cms\" />In a bold move reflecting its political stance, Pakistan forfeited its opening match at the FIDE World Chess Olympiad, demonstrating solidarity with the Palestinian people by adhering to its policy of non-recognition of Israel. As a result, Israel clinched a default victory with a score of four-zero in the Open section. Despite this setback, Pakistan remains eligible to participate in the upcoming rounds of the Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistan-hand-israel-4-0-win-after-refusing-to-play-at-fide-world-chess-olympiad/articleshow/134291730.cms",
+         "pubDate" : "Wed, 16 Sep 2026 16:06:55",
+         "title" : "Pakistan hand Israel 4-0 win after refusing to play at FIDE World Chess Olympiad"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Wed, 16 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a &#34;pretty significant favorite&#34; and warning that the match could &#34;get a little bit ugly&#34; if Gukesh falls behind early.&#38;nbsp; The worl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
+         "pubDate" : "Wed, 16 Sep 2026 11:29:32",
+         "title" : "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh"
+      },
+      {
+         "description" : "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap&#39;s win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan&#39;s ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
+         "pubDate" : "Wed, 16 Sep 2026 09:26:00",
+         "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134282222.cms\" />The Chess Olympiad 2026 is underway in Samarkand, with India defending both Open and Women's titles won in 2024. The 11-round Swiss-system event features five-player teams, with four playing each round. Praggnanandhaa, Arjun, Nihal, Gukesh and Vidit form India's Open squad, while Humpy, Vaishali, Divya, Vantika and Savitha represent the women's team.",
@@ -142,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
-         "pubDate" : "Mon, 14 Sep 2026 16:57:32",
+         "pubDate" : "Mon, 14 Sep 2026 16:57:00",
          "title" : "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe"
       },
       {
@@ -626,14 +658,6 @@ news_feed (
          "title" : "'What is this India?' Bengaluru chess crowds leave foreigners wondering at GCL"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133904975.cms\" />Magnus Carlsen edged Viswanathan Anand in a dramatic time scramble on Day 3 of the Global Chess League, with Anand losing on time despite his team securing victory. Carlsen later drew Javokhir Sindarov after unleashing the surprise 3...f6. Despite calling his form underwhelming, the World No. 1 praised Bengaluru's passionate chess crowd as the tournament delivered another action-packed day.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/that-was-a-pity-viswanathan-anand-after-losing-on-time-to-magnus-carlsen-who-lauds-indias-love-for-chess/articleshow/133904975.cms",
-         "pubDate" : "Tue, 08 Sep 2026 03:29:27",
-         "title" : "'That was a pity': V Anand loses on time to Carlsen, who lauds India's 'love for chess'"
-      },
-      {
          "description" : "The 3rd FIDE Olympiad for People with Disabilities begins this week in Samarkand, Uzbekistan, with the opening ceremony on Thursday and the first round beginning Friday, Sept. 11, at 5 a.m. CDT (3 p.m. local time).According to FIDE, a record-setting 40 teams will participate in the seven-round event, which concludes on Thursday, Sept. 17. The tournament overlaps for two rounds with the 46th FIDE Chess Olympiad, which begins Wednesday, Sept. 16, also in Samarkand. This is the first time these events are hosted concurrently. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo co",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -666,28 +690,12 @@ news_feed (
          "title" : "How To Watch The FIDE Presidential Debate On September 9"
       },
       {
-         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi&#39;s Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Sun, 06 Sep 2026 13:00:00",
-         "title" : "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten"
-      },
-      {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
          "pubDate" : "Sun, 06 Sep 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
-      },
-      {
-         "description" : "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen&#39;s Alpine...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
-         "pubDate" : "Sat, 05 Sep 2026 13:07:00",
-         "title" : "Sindarov's American Gambits Begin Global Chess League With Double Win"
       },
       {
          "description" : "Scientists estimate there are 4.8 × 10⁴⁴ legal chess positions. That is 4.8 followed by 44 zeros. Yet the chessworld is flooded by opening courses and promises to \"just watch this and get better\". The promise that you can somehow learn all the opening moves, or never get in a position you feel unfamiliar with []",
