@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Press Officer Michael Rahal writes: \"By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. But none of them comes remotely close to what the chess community witnessed this evening in Samarkand, Uzbekistan.\" Here's what impressed him so.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-night-unlike-any-other",
+         "pubDate" : "Wed, 16 Sep 2026 06:56:11",
+         "title" : "A night unlike any other"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277121.cms\" />From consoling a devastated Nihal Sarin after a cruel time loss to calling out India's accommodation mess in Samarkand, Srinath Narayanan has been the steady hand all around. The Gambits captain helped his GCL side bounce back to bronze, and now turns his focus to India's Chess Olympiad campaign, confident a young, tightly knit squad can deliver.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-uplifting-a-heartbroken-team-to-calling-out-hotel-mess-at-chess-olympiad-srinath-is-indias-man-to-count-on/articleshow/134277121.cms",
+         "pubDate" : "Wed, 16 Sep 2026 03:36:02",
+         "title" : "From uplifting team to calling out Olympiad mess: Srinath is India's man to count on"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134276444.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-america-russia-paradox-one-chases-historic-gold-at-chess-olympiad-the-other-not-allowed-to-play/articleshow/133867862.cms",
          "pubDate" : "Mon, 07 Sep 2026 06:42:37",
          "title" : "The US-Russia Paradox: One chases historic gold at Olympiad, the other not allowed to play"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133859653.cms\" />Nihal Sarin is excited to represent India at the Chess Olympiad in Samarkand, where India will defend its Open title, but is currently focused on the Global Chess League. The 22-year-old calls the Olympiad a long-time dream. Meanwhile, American Gambits lead the GCL standings after two days, despite Nihal's individual win over Levon Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-long-time-dream-nihal-sarin-excited-but-not-thinking-about-indias-chess-olympiad-title-defence/articleshow/133859653.cms",
-         "pubDate" : "Mon, 07 Sep 2026 02:14:59",
-         "title" : "'Long dream': Nihal Sarin 'excited' but 'not thinking about' Olympiad title defence"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi&#39;s Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ...",
