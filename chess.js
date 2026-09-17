@@ -78,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-         "pubDate" : "Wed, 16 Sep 2026 13:26:00",
+         "pubDate" : "Wed, 16 Sep 2026 15:10:00",
          "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
       },
       {
