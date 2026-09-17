@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Ediz G&uuml;rel from Turkïye by Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Thu, 17 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4-0 and no major upsets on individual boards. England's 11-year-old top board Bodhana Sivanandan also opened with a win, defeating Hanna Wilson of Barbados. | Photo: Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
+         "pubDate" : "Thu, 17 Sep 2026 10:40:00",
+         "title" : "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories"
+      },
+      {
+         "description" : "After questions have been received, concerning publications in social media, ECU clarifies that there is no any decision to endorse any candidate for the upcoming FIDE elections. The European Chess Union remains instutitionally neutral committed to serving all 54 member federations.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/press-information/",
+         "pubDate" : "Thu, 17 Sep 2026 07:51:50",
+         "title" : "Press information"
+      },
+      {
          "description" : "The 46th Chess Olympiad began in Samarkand with 206 teams in the open section, where the United States, India, Uzbekistan and China are the leading seeds. The top 30 teams all won their opening matches, though a few strong grandmasters dropped points. Botswana produced the only team upset by holding Brazil to a draw, while Arjun Erigaisi suffered the biggest individual upset of the day, losing to Thailand's IM Prin Laohawirapap (pictured). | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
       },
       {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Wed, 16 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a &#34;pretty significant favorite&#34; and warning that the match could &#34;get a little bit ugly&#34; if Gukesh falls behind early.&#38;nbsp; The worl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-indias-squads-schedule-format-and-all-you-need-to-know/articleshow/134282222.cms",
          "pubDate" : "Wed, 16 Sep 2026 08:20:13",
          "title" : "Chess Olympiad: India's squads, schedule, format and all you need to know"
-      },
-      {
-         "description" : "FIDE Press Officer Michael Rahal writes: \"By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. But none of them comes remotely close to what the chess community witnessed this evening in Samarkand, Uzbekistan.\" Here's what impressed him so.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-night-unlike-any-other",
-         "pubDate" : "Wed, 16 Sep 2026 06:56:11",
-         "title" : "A night unlike any other"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277121.cms\" />From consoling a devastated Nihal Sarin after a cruel time loss to calling out India's accommodation mess in Samarkand, Srinath Narayanan has been the steady hand all around. The Gambits captain helped his GCL side bounce back to bronze, and now turns his focus to India's Chess Olympiad campaign, confident a young, tightly knit squad can deliver.",
@@ -106,44 +114,12 @@ news_feed (
          "title" : "Chess Olympiad: Uzbeks face tough test from defending champs India"
       },
       {
-         "description" : "GM Jon Speelman returns to the theme of opening preparation in the computer era, examining how engine-assisted novelties can unsettle even the strongest players. His examples begin with Fabiano Caruana's preparation from the recent Grand Chess Tour final, before moving to an earlier attacking idea by Hikaru Nakamura and, finally, the famous gambit introduced by Frank Marshall (pictured) against Jos&eacute; Ra&uacute;l Capablanca in New York in 1918.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-243",
-         "pubDate" : "Wed, 16 Sep 2026 01:35:00",
-         "title" : "Jon Speelman: Beware the Centaur's Hooves"
-      },
-      {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/46th-chess-olympiad-starts-in-samarkand-uzbekistan/",
          "pubDate" : "Tue, 15 Sep 2026 19:47:41",
          "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : "The first major international tournament after the end of the Second World War took place in Groningen in August and September. It was the anniversary tournament of the Staunton Chess Club, founded in 1871. For the first time ever, a group of Soviet players also took part in a tournament outside the Soviet Union. Before the tournament began, they inadvertently caused a number of organizational problems. Report with video... | Photos: Dutch National Archives (Anefo), unless otherwise indicated.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-first-major-tournament-after-the-second-world-war-the-staunton-memorial-1946",
-         "pubDate" : "Tue, 15 Sep 2026 19:00:00",
-         "title" : "The first major tournament after the Second World War: The Staunton Memorial 1946"
-      },
-      {
-         "description" : "Georgios Makropoulos, FIDE Vice President and a longstanding figure in Greek and international chess, has died at the age of 72. A seven-time Greek champion and former Olympiad player, Makropoulos later became one of the most prominent administrators in the game. He served in senior FIDE roles for four decades and also played a central part in Greek chess, including helping bring the 1984 and 1988 Chess Olympiads to Thessaloniki.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/georgios-makropoulos-obituary",
-         "pubDate" : "Tue, 15 Sep 2026 17:50:00",
-         "title" : "Georgios Makropoulos (1953-2026)"
-      },
-      {
-         "description" : "On 15 August 2026, the publisher, renowned author and chess historian Anthony Gillam died at the age of 83. He was one of the leading figures of the Chess History & Literature Society. In his obituary, Michael Negele recalls many moments from their shared research and the joy of discovery.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memoriam-anthony-john-gillam-1943-2026",
-         "pubDate" : "Tue, 15 Sep 2026 15:00:00",
-         "title" : "In Memoriam: Anthony John Gillam (1943-2026)"
       },
       {
          "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
@@ -178,28 +154,12 @@ news_feed (
          "title" : "New ECF resources for chess clubs"
       },
       {
-         "description" : "At the end of August, the chess historians of the Chess History & Literature Society met in Copenhagen to exchange new findings from their research into chess history and chess literature in talks and lectures, and to present interesting new books. Herbert Bastian, Michael Negele and Frank Hoffmeister report. | Photo: The conference venue, Skakkens Hus, S&oslash;lvgade 5, 1307 Copenhagen / Photos: Herbert Bastian",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-historians-meet-in-copenhagen",
-         "pubDate" : "Tue, 15 Sep 2026 12:21:00",
-         "title" : "Chess historians meet in Copenhagen"
-      },
-      {
          "description" : "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&#38;nbsp; The Greek Chess Federation and the International Chess Federation (...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
          "pubDate" : "Tue, 15 Sep 2026 08:51:00",
          "title" : "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72"
-      },
-      {
-         "description" : "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandmaster Javokhir Sindarov. The match will be held at the Fondation Martin Bodmer in Cologny, Geneva, Switzerland, from 22 November to 13 December 2026, bringing a World Championship match back to Switzerland for the first time since Brissago in 2004.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salesforce-fide-world-championship-match-2026",
-         "pubDate" : "Mon, 14 Sep 2026 18:00:00",
-         "title" : "Salesforce FIDE World Championship Match 2026"
       },
       {
          "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission has handed a two-year ban to a minor after he was caught with a mobile phone hidden inside his shoe during a tournament in Slovenia. The phone had the game position open on Chess.com. The five-page de...",
@@ -216,30 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-sept-12",
          "pubDate" : "Mon, 14 Sep 2026 14:38:40",
          "title" : "Bullet King Nakamura Takes 66th Bullet Brawl Title"
-      },
-      {
-         "description" : "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the legendary city: 400 chess teams from across the globe will gather for the 46th FIDE Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/samarkand-ready-for-a-record-breaking-chess-olympiad",
-         "pubDate" : "Mon, 14 Sep 2026 14:00:00",
-         "title" : "Samarkand ready for a record-breaking Chess Olympiad"
-      },
-      {
-         "description" : "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the second, with Nepomniachtchi scoring a spectacular victory over Magnus Carlsen and Stavroula Tsolakidou beating Humpy Koneru to seal the title. Viswanathan Anand and his PBG Alaskan Knights had already been eliminated before the final day. | Photos and videos: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
-         "pubDate" : "Mon, 14 Sep 2026 12:10:28",
-         "title" : "Ganges Grandmasters win Global Chess League in dramatic final"
-      },
-      {
-         "description" : "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1&frac12; points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded somewhat in the second half of the tournament and had to settle for third place behind Jose Martinez Alcantara. | Photos: ECU (title photo), ChessBase India / Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
-         "pubDate" : "Mon, 14 Sep 2026 08:38:36",
-         "title" : "Legends & Prodigies: David Anton wins convincingly, Oro finishes third"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
@@ -306,14 +242,6 @@ news_feed (
          "title" : "Blitz Skills Help Topalov Win Match With Big Bonus"
       },
       {
-         "description" : "Garry Kasparov and Veselin Topalov will face each other in \"Clutch Chess: The Legends\" in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov's victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-         "pubDate" : "Sun, 13 Sep 2026 18:35:00",
-         "title" : "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 - Live!"
-      },
-      {
          "description" : " The Tech Mahindra Global Chess League took place in Bengaluru, India 5th-13th September 2026. 6 Teams played over 10 rounds in rapid (10m+2spm) chess. The winners were Ganges Grandmasters with Ian Nepomniachtchi as the Legend and Levon Aronian as their board 2. Magnus Carlsen's Alpine APL Pipers finished second after losing the final. Nepomniachtchi was allowed to escape a lost position against Magnus Carlsen and turned it round for a win. FYERS American Gambits finished in 3rd after beating CheQ Mumba Masters.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -328,14 +256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
          "pubDate" : "Sun, 13 Sep 2026 17:20:00",
          "title" : "Legends and Prodigies II 2026 - Games and results"
-      },
-      {
-         "description" : "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated databases on the Petroff Defence. The courses by Bahne Fuhrmann, Andrew Martin and Kostya Kavutskiy combine theoretical explanations with annotated games and practical exercises. With material aimed at different playing strengths, the new releases offer both concrete repertoire advice and more in-depth training. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
-         "pubDate" : "Sun, 13 Sep 2026 15:00:00",
-         "title" : "Review: All new releases in August!"
       },
       {
          "description" : "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis...",
@@ -386,14 +306,6 @@ news_feed (
          "title" : "25 years ago  -  ChessBase news"
       },
       {
-         "description" : "Kostya Kavutskiy is the latest \"Fritz Trainer\" to join the ChessBase team of authors. An International Master, renowned FIDE trainer and chess author, he made his ChessBase debut with the video course \"Mastering Calculation\" and has already followed it up with \"The Fundamentals of Positional Play\". Jochen Schwarz, a club player from Bremen and a connoisseur of the FritzTrainer series, took a close look at both courses and also examined how they compare with similar courses by established authors such as Robert Ris and Ivan Sokolov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
-         "pubDate" : "Sat, 12 Sep 2026 07:00:00",
-         "title" : "Review: Mastering Calculation by Kostya Kavutskiy"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134111571.cms\" />Ganges Grandmasters and APL Pipers strengthened their GCL final chances with big Day 7 wins, moving to 18 match points each. Ganges thrashed Mumba Masters 16-1, while Pipers beat American Gambits 9-7, with Magnus Carlsen defeating Javokhir Sindarov and handing his POTM trophy to Vidit Gujrathi. Ganges lead on game points, while Gambits need a win and help.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -434,28 +346,12 @@ news_feed (
          "title" : "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters"
       },
       {
-         "description" : "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million - the Global Chess League is a chess spectacle. And it is heading for an exciting finish: the top two teams in the preliminary stage qualify for the final, and after eight of ten team matches, three teams are tied for the lead. | Photo: In one of the day's many top-level encounters, Magnus Carlsen defeated Vishy Anand | Photo: Global Chess League",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
-         "pubDate" : "Fri, 11 Sep 2026 10:04:28",
-         "title" : "Global Chess League: Three teams tied for the lead"
-      },
-      {
          "description" : "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
          "pubDate" : "Fri, 11 Sep 2026 09:49:40",
          "title" : "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph"
-      },
-      {
-         "description" : "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew with Jose Cuenca Jiminez in yesterday's second round. Anton Guijarro drew both of his games, against Cuenca and Jose Martinez Alcantara. The two leaders will face each other in this morning's round. Cuenca Jiminez plays Ivan Sokolov, while Flores faces Martinez Alcantara. | Photo: Ivan Sokolov, who scored his first win in round six against Martinez, pictured during a simultaneous exhibition in Salzgitter-Bad a year ago | Photo: Arne K&aum",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-oro-loses-anton-guijarro-leads-by-one-point",
-         "pubDate" : "Fri, 11 Sep 2026 08:38:28",
-         "title" : "Legends & Prodigies: Oro loses - Anton Guijarro leads by one point"
       },
       {
          "description" : "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White&#39;s most common opening move, 1.e4. With positional, dependable lines, So will teach yo...",
@@ -538,14 +434,6 @@ news_feed (
          "title" : "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead"
       },
       {
-         "description" : "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcantara, while David Ant&oacute;n scored two wins, defeating Diego Flores and Sokolov. The experienced Spaniard now leads the young Argentine by half a point. | Photo: David Ant&oacute;n winning the 2025 Spanish Championship | Photo: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
-         "pubDate" : "Thu, 10 Sep 2026 09:32:49",
-         "title" : "Legends & Prodigies: David Ant&oacute;n scores twice to take sole lead"
-      },
-      {
          "description" : "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -584,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/50000-naroditsky-fellowship-now-open-applications",
          "pubDate" : "Thu, 10 Sep 2026 00:00:00",
          "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
-      },
-      {
-         "description" : "The ChessBase Opening Encyclopedia 2026 is one of the company's flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas K&ouml;pl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-opening-encyclopedia-2",
-         "pubDate" : "Wed, 09 Sep 2026 21:00:00",
-         "title" : "Review: Opening Encyclopedia 2026"
       },
       {
          "description" : "GM Javokhir Sindarov&#39;s second win in a row, this time over GM Alireza Firouzja, took FYERS American Gambits into the 2026 Tech Mahindra Global Chess League lead while Triveni Continental Kings slumped to the bottom after a second loss of the day. ...",
