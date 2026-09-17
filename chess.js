@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
-         "pubDate" : "Thu, 17 Sep 2026 09:21:57",
+         "pubDate" : "Thu, 17 Sep 2026 09:21:00",
          "title" : "Gukesh Drops Under 2700 As India Beats Indonesia"
       },
       {
@@ -88,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
          "pubDate" : "Thu, 17 Sep 2026 02:07:43",
          "title" : "Chess Olympiad: How Arjun Erigaisi suffered Rd 1 upset against lower-rated opponent"
+      },
+      {
+         "description" : "Team USA notched its best finish yet at the 3rd FIDE Olympiad for People with Disabilities. After pairings against eventual podium finishers in the second and third round, the American team was tied for 10th place after Round 4. From there, USA delivered a 5/6 score across the final three rounds to finish in fourth place with a 10/14 score, improving on last year's tie for sixth place. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Team USA (from left) - Sullivan McConnell, Celine Atassi, Griffin McConnell, Pranav Shankar, Jordan Timm, and their families. (Photos courtesy US Chess)<br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/team-usa-finishes-4th-strong-finish-3rd-olympiad-people-disabilites",
+         "pubDate" : "Thu, 17 Sep 2026 00:00:00",
+         "title" : "Team USA Finishes 4th with Strong Finish at 3rd Olympiad for People with Disabilites"
       },
       {
          "description" : "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run of success. The surprise team from Uzbekistan, with just one grandmaster, took silver ahead of Armenia. In the women's event, Georgia won the gold medal. | Photo: Gerhard Hund",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/3rd-olympiad-people-disabilities-begins-friday",
          "pubDate" : "Tue, 08 Sep 2026 00:00:00",
          "title" : "3rd Olympiad for People with Disabilities Begins Friday"
-      },
-      {
-         "description" : "This week's exercises come from the 2026 Harvey Lerman Florida State Championship, which will be featured later this week in our Labor Day Weekend Wrap-Up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-harvey-lerman-florida-state-championship",
-         "pubDate" : "Tue, 08 Sep 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 Harvey Lerman Florida State Championship"
       },
       {
          "description" : "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn&#39;t stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the...",
