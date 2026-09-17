@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
+         "pubDate" : "Thu, 17 Sep 2026 20:10:00",
+         "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
+         "description" : " The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
+         "pubDate" : "Thu, 17 Sep 2026 20:10:00",
+         "title" : "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results"
+      },
+      {
+         "description" : "In today's article we present a gem of chess composition. It is a study requires no words, no instruction or stipulation, such as, for example, \"White to move and win\". Everything is solved by simply analysing the diagram. Can you follow the logic that tells you everything abut this diagram? It is extensive, exacting, and truly dizzying.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words-2",
+         "pubDate" : "Thu, 17 Sep 2026 19:00:00",
+         "title" : "On the Superfluity of Words (2)"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Ediz G&uuml;rel from Turkïye by Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
          "pubDate" : "Thu, 17 Sep 2026 10:40:00",
          "title" : "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories"
+      },
+      {
+         "description" : "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn&#39;t smooth sailing, as Uzbekistan, the United States, India, the Netherland...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
+         "pubDate" : "Thu, 17 Sep 2026 09:21:57",
+         "title" : "Gukesh Drops Under 2700 As India Beats Indonesia"
       },
       {
          "description" : "After questions have been received, concerning publications in social media, ECU clarifies that there is no any decision to endorse any candidate for the upcoming FIDE elections. The European Chess Union remains instutitionally neutral committed to serving all 54 member federations.",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.europechess.org/46th-chess-olympiad-starts-in-samarkand-uzbekistan/",
          "pubDate" : "Tue, 15 Sep 2026 19:47:41",
          "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
-         "pubDate" : "Tue, 15 Sep 2026 14:51:00",
-         "title" : "46th World Chess Olympiad 2026 - Games and Results"
       },
       {
          "description" : "GM Sina Movahed claimed his third&#38;nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M...",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
          "pubDate" : "Mon, 07 Sep 2026 13:56:00",
          "title" : "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead"
-      },
-      {
-         "description" : "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&#38;mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&#38;mdash;will join to discuss their visions for the future of chess. He...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
-         "pubDate" : "Mon, 07 Sep 2026 10:00:00",
-         "title" : "How To Watch The FIDE Presidential Debate On September 9"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
