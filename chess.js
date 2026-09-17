@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134298445.cms\" />India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
+         "pubDate" : "Thu, 17 Sep 2026 02:07:43",
+         "title" : "Chess Olympiad: How Arjun Erigaisi suffered Rd 1 upset against lower-rated opponent"
+      },
+      {
          "description" : "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run of success. The surprise team from Uzbekistan, with just one grandmaster, took silver ahead of Armenia. In the women's event, Georgia won the gold medal. | Photo: Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-game-review-course-check",
          "pubDate" : "Tue, 08 Sep 2026 09:03:22",
          "title" : "Master Your Openings With Game Review's New Feature"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133911399.cms\" />Rising Indian Grandmaster Pranesh M has impressed at the Global Chess League after entering as a late replacement, defeating elite players and breaking into the world's top 50. He discusses his close connection with Vaishali Rameshbabu, dismisses rumours of assisting Praggnanandhaa, and credits training with Ramesh. Pranesh also highlights India's passionate chess crowds and his growing international ambitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/foreigners-wondering-what-is-this-india-pranesh-on-gcl-praggnanandhaa-rumours-and-vaishali-exclusive/articleshow/133911399.cms",
-         "pubDate" : "Tue, 08 Sep 2026 06:21:23",
-         "title" : "'What is this India?' Bengaluru chess crowds leave foreigners wondering at GCL"
       },
       {
          "description" : "The 3rd FIDE Olympiad for People with Disabilities begins this week in Samarkand, Uzbekistan, with the opening ceremony on Thursday and the first round beginning Friday, Sept. 11, at 5 a.m. CDT (3 p.m. local time).According to FIDE, a record-setting 40 teams will participate in the seven-round event, which concludes on Thursday, Sept. 17. The tournament overlaps for two rounds with the 46th FIDE Chess Olympiad, which begins Wednesday, Sept. 16, also in Samarkand. This is the first time these events are hosted concurrently. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo co",
