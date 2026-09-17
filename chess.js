@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th Chess Olympiad began in Samarkand with 206 teams in the open section, where the United States, India, Uzbekistan and China are the leading seeds. The top 30 teams all won their opening matches, though a few strong grandmasters dropped points. Botswana produced the only team upset by holding Brazil to a draw, while Arjun Erigaisi suffered the biggest individual upset of the day, losing to Thailand's IM Prin Laohawirapap (pictured). | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-1",
+         "pubDate" : "Thu, 17 Sep 2026 07:00:00",
+         "title" : "Samarkand R1 (open): Favourites win comfortably, Thailand's Laohawirapap upsets Erigaisi"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134302682.cms\" />France opened their Chess Olympiad campaign with a 4-0 win over Tunisia, but top board Maxime Vachier-Lagrave remains realistic about his team's chances. In an exclusive interaction, MVL named USA, India, China and Uzbekistan as the favourites. The French star also reflected on his three-decade chess journey, handling setbacks, his love for the game and his recent time in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/were-nowhere-near-favourites-frances-maxime-vachier-lagrave-names-india-among-chess-olympiad-contenders/articleshow/134302682.cms",
+         "pubDate" : "Thu, 17 Sep 2026 05:58:44",
+         "title" : "'Four main favourites': France's MVL says India are not the only Olympiad contenders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134300656.cms\" />FIDE has apologised after accommodation problems disrupted the opening day of the 2026 Chess Olympiad in Samarkand, leaving some teams without proper lodging. The governing body said affected federations will be reimbursed for suitable accommodation for up to three days, while teams staying in substandard official hotels will receive compensation. India was among the contingents affected.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/deeply-regrets-fide-apologises-over-chess-olympiad-lodging-crisis-assures-teams-of-compensation/articleshow/134300656.cms",
+         "pubDate" : "Thu, 17 Sep 2026 03:37:22",
+         "title" : "'Deeply regrets': FIDE apologises over Chess Olympiad lodging crisis"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134298445.cms\" />India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Sindarov Beats Firouzja To Give American Gambits Lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133952570.cms\" />Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances. Anand called the game a \"comedy of errors\" after declining a draw offer. World Championship challenger Sindarov, however, called Anand \"world-class\", showering praise on the legend's enduring quality at 56.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms",
-         "pubDate" : "Wed, 09 Sep 2026 05:05:19",
-         "title" : "'It's madness': Anand loses on time after declining draw against Sindarov"
-      },
-      {
          "description" : "Jim Mennella was born in 1948 and grew up in Brooklyn. In the mid-1970s he joined the US Chess Federation and his bank's corporate team. He eventually became team captain, then president of the Bankers Athletic chess league. That's where Jim and I met, and we often traveled together to tournaments all over the Northeast. He peaked at expert level. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mennella at the 125th U.S. Open in 2025. (Photo by David Llada)<br> <br> <br> <br> In 1979, he played in his first U.S. Open. He liked the idea of playing in a large one-section tournament, and it became an annual habit. His first game was against GM Arthur Bisg",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/liem-le-wins-titled-tuesday-september-8-2026",
          "pubDate" : "Tue, 08 Sep 2026 13:49:00",
          "title" : "Le Last Leader In Back-And-Forth Titled Tuesday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133925312.cms\" />Abhimanyu Mishra's winning position against Leon Luke Mendonca turned into heartbreak after a promotion sequence was ruled incomplete and illegal in a dramatic GCL encounter. With seconds left, Mishra's dropped rook cost him crucial time, forcing him to replay the promotion with just one second remaining. He flagged instantly, handing Ganges Grandmasters a match-winning victory despite Mendonca's apology.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms",
-         "pubDate" : "Tue, 08 Sep 2026 12:31:01",
-         "title" : "'Leon was apologising': How an illegal move cost Abhimanyu a sure-shot win in GCL"
       },
       {
          "description" : "Staying true to your opening repertoire just got easier with Game Review. Whenever you&#39;re reviewing a game, your coach will tell you when you&#39;ve deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i...",
