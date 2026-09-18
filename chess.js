@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anna Cramling Bell&oacute;n from Sweden by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Fri, 18 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "&#8220;While fully supporting all necessary efforts to resolve the visa issues as quickly as possible and to ensure the participation of all eligible delegates, the European Chess Union does not support the postponement of the FIDE Congress and believes that such a step could have serious consequences for the observation of FIDE Charter and FIDE credibility.&#8221;",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-board-statement-on-fide-congress/",
+         "pubDate" : "Fri, 18 Sep 2026 11:23:47",
+         "title" : "ECU Board statement on FIDE Congress"
+      },
+      {
+         "description" : "Georgia became the first leading team to drop match points in the Women's Chess Olympiad, as the second seeds were held to a 2-2 draw by Montenegro in round two. Alena Skvortsova and Aleksandra Milovic (pictured) scored the Montenegrins' two wins. The Czech Republic were also held by the United Arab Emirates, while Tajikistan and Kenya recorded notable match victories against higher-seeded opposition. | Photo: Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-2-women",
+         "pubDate" : "Fri, 18 Sep 2026 10:35:00",
+         "title" : "Samarkand R2 (women): Georgia only manage a draw against Montenegro"
+      },
+      {
          "description" : "All of the top 28 seeds won in round two of the open Chess Olympiad, but several favourites were pushed hard. The United States (pictured), India and the Netherlands all prevailed by 2&frac12;-1&frac12;, while El Salvador produced the biggest team upset by beating Cuba. Gukesh Dommaraju was held to a draw by Satria Duta Cahaia and slipped below 2700 on the live rating list. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Samarkand R2 (open): Despite close calls, all top teams grab wins"
       },
       {
-         "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his seventies, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. ",
+         "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his 70s, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. <a hre",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words-2",
          "pubDate" : "Thu, 17 Sep 2026 19:00:00",
          "title" : "On the Superfluity of Words (2)"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Ediz G&uuml;rel from Turkïye by Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Thu, 17 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4-0 and no major upsets on individual boards. England's 11-year-old top board Bodhana Sivanandan also opened with a win, defeating Hanna Wilson of Barbados. | Photo: Michal Walusza / FIDE",
