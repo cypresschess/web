@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our database program - used by everyone, from the World Champion to lowly club players - will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is November 2026. Register now to make sure you don't miss the launch of a new era in chess study.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-finally-on-mac",
+         "pubDate" : "Fri, 18 Sep 2026 19:00:00",
+         "title" : "ChessBase - finally on Mac!"
+      },
+      {
+         "description" : "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
+         "pubDate" : "Fri, 18 Sep 2026 12:02:38",
+         "title" : "Dominant Starts For Ashraf, Sarana, Xiong, Bring 3 0 Thursday Wins"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anna Cramling Bell&oacute;n from Sweden by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "ECU Board statement on FIDE Congress"
       },
       {
-         "description" : "Georgia became the first leading team to drop match points in the Women's Chess Olympiad, as the second seeds were held to a 2-2 draw by Montenegro in round two. Alena Skvortsova and Aleksandra Milovic (pictured) scored the Montenegrins' two wins. The Czech Republic were also held by the United Arab Emirates, while Tajikistan and Kenya recorded notable match victories against higher-seeded opposition. | Photo: Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-2-women",
-         "pubDate" : "Fri, 18 Sep 2026 10:35:00",
-         "title" : "Samarkand R2 (women): Georgia only manage a draw against Montenegro"
+         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. 79th seed Kyrgyzstan beat 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with the same s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
+         "pubDate" : "Fri, 18 Sep 2026 09:06:00",
+         "title" : "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's"
+      },
+      {
+         "description" : "Playing chess online is great, but meeting new people and playing chess in real life is, too! Now, you can easily find physical chess clubs near you right here on our Local Clubs page. Club owners can also get their club verified and listed as an ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-local-clubs",
+         "pubDate" : "Fri, 18 Sep 2026 09:00:00",
+         "title" : "Find Local Chess Clubs Near You With Chess.com's New Feature"
       },
       {
          "description" : "Chess is hitting the big screen. Grandmasters, the new chess film following the dramatic tides and incredible characters of top-level chess, is showing in 90+ AMC theaters across the United States on October 11 and 14. For the first time, you can ...",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-grandmasters-theatrical-release",
          "pubDate" : "Fri, 18 Sep 2026 08:00:00",
          "title" : "Tickets Now On Sale For 'Grandmasters' As Film Hits U.S. Theaters On October 11 & 14"
-      },
-      {
-         "description" : "All of the top 28 seeds won in round two of the open Chess Olympiad, but several favourites were pushed hard. The United States (pictured), India and the Netherlands all prevailed by 2&frac12;-1&frac12;, while El Salvador produced the biggest team upset by beating Cuba. Gukesh Dommaraju was held to a draw by Satria Duta Cahaia and slipped below 2700 on the live rating list. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-2",
-         "pubDate" : "Fri, 18 Sep 2026 07:25:00",
-         "title" : "Samarkand R2 (open): Despite close calls, all top teams grab wins"
       },
       {
          "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his 70s, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. <a hre",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-against-sportsman-spirit-pakistan-explain-decision-to-boycott-israel-at-chess-olympiad/articleshow/134326830.cms",
          "pubDate" : "Fri, 18 Sep 2026 06:10:53",
          "title" : "'Nothing against sportsman spirit': Pakistan explain decision to boycott Israel"
-      },
-      {
-         "description" : "Poland won the 3rd FIDE Chess Olympiad for People with Disabilities in Samarkand after finishing unbeaten on 13 match points, ahead of Cuba and hosts Uzbekistan 1. The final round saw Poland defeat the Philippines 3&frac12;-&frac12; to secure gold. The event featured a record 41 teams and was staged alongside the main FIDE Chess Olympiad for the first time. | Photos: Mark Livshitz and Rafal Oleksiewicz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/olympyad-people-disabilities-2026-final-report",
-         "pubDate" : "Fri, 18 Sep 2026 04:35:00",
-         "title" : "Poland crowned champions at Olympiad for People with Disabilities"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134324435.cms\" />Gukesh slipped below 2700 after a draw with Indonesia's Satria Duta Cahaya, his first such drop since 2022. With three boards drawn, Nihal Sarin rescued India with a dramatic win over Arif Abdul Hafiz, featuring a bold rook sacrifice. India won 2.5-1.5. The women's team beat Finland 3.5-0.5 and will face Greece next. The men's team will take on Italy.",
@@ -90,22 +98,6 @@ news_feed (
          "title" : "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results"
       },
       {
-         "description" : "In today's article we present a gem of chess composition. It is a study requires no words, no instruction or stipulation, such as, for example, \"White to move and win\". Everything is solved by simply analysing the diagram. Can you follow the logic that tells you everything abut this diagram? It is extensive, exacting, and truly dizzying.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words-2",
-         "pubDate" : "Thu, 17 Sep 2026 19:00:00",
-         "title" : "On the Superfluity of Words (2)"
-      },
-      {
-         "description" : "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4-0 and no major upsets on individual boards. England's 11-year-old top board Bodhana Sivanandan also opened with a win, defeating Hanna Wilson of Barbados. | Photo: Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
-         "pubDate" : "Thu, 17 Sep 2026 10:40:00",
-         "title" : "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories"
-      },
-      {
          "description" : "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn&#39;t smooth sailing, as Uzbekistan, the United States, India, the Netherland...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -120,14 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-information/",
          "pubDate" : "Thu, 17 Sep 2026 07:51:50",
          "title" : "Press information"
-      },
-      {
-         "description" : "The 46th Chess Olympiad began in Samarkand with 206 teams in the open section, where the United States, India, Uzbekistan and China are the leading seeds. The top 30 teams all won their opening matches, though a few strong grandmasters dropped points. Botswana produced the only team upset by holding Brazil to a draw, while Arjun Erigaisi suffered the biggest individual upset of the day, losing to Thailand's IM Prin Laohawirapap (pictured). | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-1",
-         "pubDate" : "Thu, 17 Sep 2026 07:00:00",
-         "title" : "Samarkand R1 (open): Favourites win comfortably, Thailand's Laohawirapap upsets Erigaisi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134302682.cms\" />France opened their Chess Olympiad campaign with a 4-0 win over Tunisia, but top board Maxime Vachier-Lagrave remains realistic about his team's chances. In an exclusive interaction, MVL named USA, India, China and Uzbekistan as the favourites. The French star also reflected on his three-decade chess journey, handling setbacks, his love for the game and his recent time in India.",
@@ -160,14 +144,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/team-usa-finishes-4th-strong-finish-3rd-olympiad-people-disabilites",
          "pubDate" : "Thu, 17 Sep 2026 00:00:00",
          "title" : "Team USA Finishes 4th with Strong Finish at 3rd Olympiad for People with Disabilites"
-      },
-      {
-         "description" : "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run of success. The surprise team from Uzbekistan, with just one grandmaster, took silver ahead of Armenia. In the women's event, Georgia won the gold medal. | Photo: Gerhard Hund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
-         "pubDate" : "Wed, 16 Sep 2026 21:10:00",
-         "title" : "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134291730.cms\" />In a bold move reflecting its political stance, Pakistan forfeited its opening match at the FIDE World Chess Olympiad, demonstrating solidarity with the Palestinian people by adhering to its policy of non-recognition of Israel. As a result, Israel clinched a default victory with a score of four-zero in the Open section. Despite this setback, Pakistan remains eligible to participate in the upcoming rounds of the Olympiad.",
@@ -576,30 +552,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-harvey-lerman-florida-state-championship",
          "pubDate" : "Wed, 09 Sep 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 Harvey Lerman Florida State Championship"
-      },
-      {
-         "description" : "GM Alireza Firouzja&#39;s Triveni Continental Kings continued their comeback by beating the leaders, GM Magnus Carlsen&#39;s Alpine APL Pipers, as the 2026 Tech Mahindra Global Chess League crossed the halfway mark with no teams breaking clear of the pack...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
-         "pubDate" : "Tue, 08 Sep 2026 14:50:00",
-         "title" : "All Teams Still In Fight As Global Chess League Crosses Halfway"
-      },
-      {
-         "description" : "The lead wasn&#39;t necessarily the ideal place to be in Titled Tuesday on September 8, before GM Liem Le won his first of the year with a 9.5 score, ahead of GM Hikaru Nakamura and IM Tobias Koelle on tiebreaks. For the second straight week, GM Jan-K...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/liem-le-wins-titled-tuesday-september-8-2026",
-         "pubDate" : "Tue, 08 Sep 2026 13:49:00",
-         "title" : "Le Last Leader In Back-And-Forth Titled Tuesday"
-      },
-      {
-         "description" : "Staying true to your opening repertoire just got easier with Game Review. Whenever you&#39;re reviewing a game, your coach will tell you when you&#39;ve deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-game-review-course-check",
-         "pubDate" : "Tue, 08 Sep 2026 09:03:22",
-         "title" : "Master Your Openings With Game Review's New Feature"
       },
       {
          "description" : "The 3rd FIDE Olympiad for People with Disabilities begins this week in Samarkand, Uzbekistan, with the opening ceremony on Thursday and the first round beginning Friday, Sept. 11, at 5 a.m. CDT (3 p.m. local time).According to FIDE, a record-setting 40 teams will participate in the seven-round event, which concludes on Thursday, Sept. 17. The tournament overlaps for two rounds with the 46th FIDE Chess Olympiad, which begins Wednesday, Sept. 16, also in Samarkand. This is the first time these events are hosted concurrently. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo co",
