@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All of the top 28 seeds won in round two of the open Chess Olympiad, but several favourites were pushed hard. The United States (pictured), India and the Netherlands all prevailed by 2&frac12;-1&frac12;, while El Salvador produced the biggest team upset by beating Cuba. Gukesh Dommaraju was held to a draw by Satria Duta Cahaia and slipped below 2700 on the live rating list. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-2",
+         "pubDate" : "Fri, 18 Sep 2026 07:25:00",
+         "title" : "Samarkand R2 (open): Despite close calls, all top teams grab wins"
+      },
+      {
+         "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his seventies, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
+         "pubDate" : "Fri, 18 Sep 2026 07:00:13",
+         "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134326830.cms\" />Pakistan refused to play Israel in the opening round of the 2026 Chess Olympiad in Samarkand, handing Israel a 4-0 walkover. Pakistan's chess federation said the decision followed the government's policy of not recognising Israel and was also meant to show solidarity with Palestinians. Officials stressed the boycott was about state policy, not the players or sporting spirit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-against-sportsman-spirit-pakistan-explain-decision-to-boycott-israel-at-chess-olympiad/articleshow/134326830.cms",
+         "pubDate" : "Fri, 18 Sep 2026 06:10:53",
+         "title" : "'Nothing against sportsman spirit': Pakistan explain decision to boycott Israel"
+      },
+      {
          "description" : "Poland won the 3rd FIDE Chess Olympiad for People with Disabilities in Samarkand after finishing unbeaten on 13 match points, ahead of Cuba and hosts Uzbekistan 1. The final round saw Poland defeat the Philippines 3&frac12;-&frac12; to secure gold. The event featured a record 41 teams and was staged alongside the main FIDE Chess Olympiad for the first time. | Photos: Mark Livshitz and Rafal Oleksiewicz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Applications Open For $50,000 Naroditsky Fellowship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133993346.cms\" />At 56, Viswanathan Anand continues to compete strongly despite a string of unfortunate results, says Arjun Erigaisi, who called his level \"hugely inspiring\". Meanwhile, Alaskan Knights beat Mumba Masters after Carissa Yip lost on time, while Abhimanyu Mishra sealed the match. American Gambits lead the GCL standings, with Alpine APL Pipers second.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unfortunate-things-happening-arjun-erigaisi-explains-vishwanathan-anands-poor-gcl-run-despite-team-win/articleshow/133993346.cms",
-         "pubDate" : "Thu, 10 Sep 2026 04:11:33",
-         "title" : "'Unfortunate things happening': Arjun Erigaisi explains Anand's poor GCL run"
-      },
-      {
          "description" : "Editor's note: This article by Dewain Barber was originally published in 2011 on the 10th anniversary of the 9/11 attacks. In recognition of the 25th anniversary, we are republishing it along with the author's request that anybody with one of these boards take it out and play a game in the memory of those who died. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> It was a clear day in LA and the weather was comfortable. My wife, Susan had left to teach school that morning as she had since the start of the school year a few days before.As I got up to check for orders and begin the packing process of chess equipment for some reason still unknown to me I turned on the TV an",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-champions-2026-crowned/",
          "pubDate" : "Fri, 28 Aug 2026 11:32:09",
          "title" : "EU Youth Chess Champions 2026 crowned"
-      },
-      {
-         "description" : " The Indian, just 21, scored his second major success of the summer following Norway Chess at Oslo while Wesley So halved to Sinquefield Cup victory with nine straight draws India's world No 12, Praggnanandhaa Rameshbabu, won the Grand Chess Tour finals in St Louis on Thursday night when he defeated the US's world No 2, Fabiano Caruana, in a mix of classical, rapid and blitz games by 15-13. It was the 21-year-old's second major success of the summer following Norway Chess at Oslo and it earned him a record $200,000 first prize, up from $150,000 in 2025. Earlier, Wesley So, the US world No 6, won the prestigious Sinquefield Cup and more than $100,000 for the second year in succession, despite",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/aug/28/chess-praggnanandhaa-takes-200000-grand-tour-finals-after-so-wins-sinquefield-cup",
-         "pubDate" : "Fri, 28 Aug 2026 07:00:50",
-         "title" : "Chess: Praggnanandhaa takes $200,000 Grand Tour finals after So wins Sinquefield Cup"
       }
    ]
 }
