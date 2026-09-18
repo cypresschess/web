@@ -34,7 +34,7 @@ news_feed (
          "title" : "ECU Board statement on FIDE Congress"
       },
       {
-         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. 79th seed Kyrgyzstan beat 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with the same s...",
+         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms",
          "pubDate" : "Fri, 18 Sep 2026 02:59:08",
          "title" : "Olympiad: How Nihal saved India's day amid Gukesh's historic drop in rating points"
+      },
+      {
+         "description" : "Both American teams currently boast 6/6 scores after three rounds of the 11-round 46th FIDE Chess Olympiad. Of the 205 teams competing in the Open, just 21 remain unblemished. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Captain John Donaldson, Levon Aronian, Hans Niemann, Wesley So, and Awonder Liang. (Photo courtesy US Chess)<br> <br> <br> <br> In the women's event, 20 out of the 186 teams in the women's event have still yet to concede a match point. Moreover, with 11 wins and only one draw out of 12 games, the Women's team boasts the best tiebreaks in the field so far. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/46th-olympiad-both-american-teams-start-strong",
+         "pubDate" : "Fri, 18 Sep 2026 00:00:00",
+         "title" : "46th Olympiad: Both American Teams Start Strong"
       },
       {
          "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-2026-harvey-lerman-florida-state-championship",
          "pubDate" : "Wed, 09 Sep 2026 00:00:00",
          "title" : "Wednesday Workout: 2026 Harvey Lerman Florida State Championship"
-      },
-      {
-         "description" : "The 3rd FIDE Olympiad for People with Disabilities begins this week in Samarkand, Uzbekistan, with the opening ceremony on Thursday and the first round beginning Friday, Sept. 11, at 5 a.m. CDT (3 p.m. local time).According to FIDE, a record-setting 40 teams will participate in the seven-round event, which concludes on Thursday, Sept. 17. The tournament overlaps for two rounds with the 46th FIDE Chess Olympiad, which begins Wednesday, Sept. 16, also in Samarkand. This is the first time these events are hosted concurrently. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Sullivan McConnell (R) during the 2nd FIDE Olympiad for People with Disabilities. (Photo co",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/3rd-olympiad-people-disabilities-begins-friday",
-         "pubDate" : "Tue, 08 Sep 2026 00:00:00",
-         "title" : "3rd Olympiad for People with Disabilities Begins Friday"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
