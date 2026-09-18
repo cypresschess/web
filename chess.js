@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Poland won the 3rd FIDE Chess Olympiad for People with Disabilities in Samarkand after finishing unbeaten on 13 match points, ahead of Cuba and hosts Uzbekistan 1. The final round saw Poland defeat the Philippines 3&frac12;-&frac12; to secure gold. The event featured a record 41 teams and was staged alongside the main FIDE Chess Olympiad for the first time. | Photos: Mark Livshitz and Rafal Oleksiewicz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/olympyad-people-disabilities-2026-final-report",
+         "pubDate" : "Fri, 18 Sep 2026 04:35:00",
+         "title" : "Poland crowned champions at Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134324435.cms\" />Gukesh slipped below 2700 after a draw with Indonesia's Satria Duta Cahaya, his first such drop since 2022. With three boards drawn, Nihal Sarin rescued India with a dramatic win over Arif Abdul Hafiz, featuring a bold rook sacrifice. India won 2.5-1.5. The women's team beat Finland 3.5-0.5 and will face Greece next. The men's team will take on Italy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms",
+         "pubDate" : "Fri, 18 Sep 2026 02:59:08",
+         "title" : "Olympiad: How Nihal saved India's day amid Gukesh's historic drop in rating points"
+      },
+      {
          "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unfortunate-things-happening-arjun-erigaisi-explains-vishwanathan-anands-poor-gcl-run-despite-team-win/articleshow/133993346.cms",
          "pubDate" : "Thu, 10 Sep 2026 04:11:33",
          "title" : "'Unfortunate things happening': Arjun Erigaisi explains Anand's poor GCL run"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133990606.cms\" />Indian Grandmaster Nihal Sarin reveals how board games, tennis and a late-night US Open quarterfinal kept him awake until 7 am in the middle of this Global Chess League. The 22-year-old also reflects on teammate Javokhir Sindarov, Viswanathan Anand's enduring legacy, and his excitement ahead of his first appearance in India's main squad at the Chess Olympiad in Samarkand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-chess-what-kept-indian-gm-nihal-sarin-up-until-7-am-amid-ongoing-gcl/articleshow/133990606.cms",
-         "pubDate" : "Thu, 10 Sep 2026 02:11:42",
-         "title" : "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night"
       },
       {
          "description" : "Editor's note: This article by Dewain Barber was originally published in 2011 on the 10th anniversary of the 9/11 attacks. In recognition of the 25th anniversary, we are republishing it along with the author's request that anybody with one of these boards take it out and play a game in the memory of those who died. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> It was a clear day in LA and the weather was comfortable. My wife, Susan had left to teach school that morning as she had since the start of the school year a few days before.As I got up to check for orders and begin the packing process of chess equipment for some reason still unknown to me I turned on the TV an",
