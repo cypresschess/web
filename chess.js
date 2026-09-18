@@ -26,6 +26,14 @@ news_feed (
          "title" : "Samarkand R2 (women): Georgia only manage a draw against Montenegro"
       },
       {
+         "description" : "Chess is hitting the big screen. Grandmasters, the new chess film following the dramatic tides and incredible characters of top-level chess, is showing in 90+ AMC theaters across the United States on October 11 and 14. For the first time, you can ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-grandmasters-theatrical-release",
+         "pubDate" : "Fri, 18 Sep 2026 08:00:00",
+         "title" : "Tickets Now On Sale For 'Grandmasters' As Film Hits U.S. Theaters On October 11 & 14"
+      },
+      {
          "description" : "All of the top 28 seeds won in round two of the open Chess Olympiad, but several favourites were pushed hard. The United States (pictured), India and the Netherlands all prevailed by 2&frac12;-1&frac12;, while El Salvador produced the biggest team upset by beating Cuba. Gukesh Dommaraju was held to a draw by Satria Duta Cahaia and slipped below 2700 on the live rating list. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "3rd Olympiad for People with Disabilities Begins Friday"
       },
       {
-         "description" : "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn&#39;t stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
-         "pubDate" : "Mon, 07 Sep 2026 13:56:00",
-         "title" : "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead"
-      },
-      {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,22 +744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fridrik-olafsson-memorial",
          "pubDate" : "Sat, 29 Aug 2026 11:00:00",
          "title" : "Fridrik Olafsson Memorial"
-      },
-      {
-         "description" : "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hassabis-on-ai",
-         "pubDate" : "Fri, 28 Aug 2026 15:00:00",
-         "title" : "Hassabis on chess and AI"
-      },
-      {
-         "description" : "The European Union Youth Chess Championship 2026 concluded in Roznov pod Radhostem in the Czech Republic. The last rounds were full of fights and tension. In category Boys U8 took the first place Kalin Kotsev (BUL), the second place Majus Marcinkevicius (LTU) and the third Artur Zych (POL). In category Girls U8 took the first place Sophia Kaliskami (GRE), the second place Greta Flora Banvolgyi (HUN) and the third Ioana Onica (ROU). Champion EU in category Boys U10 has become []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/eu-youth-chess-champions-2026-crowned/",
-         "pubDate" : "Fri, 28 Aug 2026 11:32:09",
-         "title" : "EU Youth Chess Champions 2026 crowned"
       }
    ]
 }
