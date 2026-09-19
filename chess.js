@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: David Navara from Czechia by Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Sat, 19 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "The top ten teams in the open section of the Chess Olympiad all remain perfect after round three, although several were pushed hard by lower-seeded opposition. The United States, Germany, the Netherlands (pictured), Hungary and Armenia all won by 2&frac12;-1&frac12;, while 11th-seeded England were held by Lithuania. Singapore and Kyrgyzstan produced the biggest team upsets, defeating Norway and Brazil respectively, as 21 teams moved into round four on 6/6 match points. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
          "pubDate" : "Fri, 18 Sep 2026 12:02:38",
          "title" : "Dominant Starts For Ashraf, Sarana, Xiong, Bring 3 0 Thursday Wins"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anna Cramling Bell&oacute;n from Sweden by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Fri, 18 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "&#8220;While fully supporting all necessary efforts to resolve the visa issues as quickly as possible and to ensure the participation of all eligible delegates, the European Chess Union does not support the postponement of the FIDE Congress and believes that such a step could have serious consequences for the observation of FIDE Charter and FIDE credibility.&#8221;",
@@ -704,14 +704,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-to-deal-with-pain-in-chess/",
          "pubDate" : "Sat, 29 Aug 2026 13:00:00",
          "title" : "How to deal with pain in chess"
-      },
-      {
-         "description" : "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjav&iacute;k Chess Club are joining forces to present \"Town and Country\" - two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days, set against two of Iceland's most contrasting backdrops. It all begins on Thursday, 19 November at 19:00. On Tuesday, 24 November, the Friðrik Ólafsson Memorial Tournament opens - honouring Iceland's first grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fridrik-olafsson-memorial",
-         "pubDate" : "Sat, 29 Aug 2026 11:00:00",
-         "title" : "Fridrik Olafsson Memorial"
       }
    ]
 }
