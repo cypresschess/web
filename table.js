@@ -1,10 +1,13 @@
 jtable([
+"SPRING","2026-09-18","28","<a href=https://ratings.uschess.org/event/202609180173 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-09-13","14","<a href=https://ratings.uschess.org/event/202609130293 target='_blank'>Bellaire Sunday Swiss 2026.09.13</a>",
+"HOUSTON","2026-09-13","5","<a href=https://ratings.uschess.org/event/202609130073 target='_blank'>SEPT 13  SUNDAY SWISS</a>",
 "KATY","2026-09-12","29","<a href=https://ratings.uschess.org/event/202609120653 target='_blank'>HG - Katy City Championship 2026</a>",
 "HOUSTON","2026-09-12","14","<a href=https://ratings.uschess.org/event/202609120273 target='_blank'>chesspanda09132026saturday</a>",
 "SPRING","2026-09-11","30","<a href=https://ratings.uschess.org/event/202609110223 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-09-11","61","<a href=https://ratings.uschess.org/event/202609110203 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-09-11","22","<a href=https://ratings.uschess.org/event/202609110163 target='_blank'>FBCC 2026 Waffle Week Open</a>",
+"HOUSTON","2026-09-07","4","<a href=https://ratings.uschess.org/event/202609070523 target='_blank'>SEPT11  DAYLIGHT SWISS</a>",
 "HOUSTON","2026-09-06","22","<a href=https://ratings.uschess.org/event/202609060193 target='_blank'>Bellaire Sunday Swiss 2026.09.06</a>",
 "HOUSTON","2026-09-06","23","<a href=https://ratings.uschess.org/event/202609060183 target='_blank'>$1,500 SEPTEMBER CHAMPIONSHIP 2026</a>",
 "HOUSTON","2026-09-05","9","<a href=https://ratings.uschess.org/event/202609050243 target='_blank'>chesspanda09052026saturday</a>",
@@ -96,7 +99,4 @@ jtable([
 "PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
 "SPRING","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190363 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190113 target='_blank'>shadowcreek06192026fridaynoon</a>",
-"HOUSTON","2026-06-19","16","<a href=https://ratings.uschess.org/event/202606190043 target='_blank'>shadowcreek06192026fridaymorning</a>",
-"HOUSTON","2026-06-18","16","<a href=https://ratings.uschess.org/event/202606180263 target='_blank'>shadowcreek06182026thursdaynoon</a>",
-"HOUSTON","2026-06-18","16","<a href=https://ratings.uschess.org/event/202606180003 target='_blank'>shadowcreek06182026thursdaymorning</a>",
 ]);
