@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The top ten teams in the open section of the Chess Olympiad all remain perfect after round three, although several were pushed hard by lower-seeded opposition. The United States, Germany, the Netherlands (pictured), Hungary and Armenia all won by 2&frac12;-1&frac12;, while 11th-seeded England were held by Lithuania. Singapore and Kyrgyzstan produced the biggest team upsets, defeating Norway and Brazil respectively, as 21 teams moved into round four on 6/6 match points. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-3",
+         "pubDate" : "Sat, 19 Sep 2026 07:15:00",
+         "title" : "Samarkand R3 (open): Top ten stay perfect after tense third round"
+      },
+      {
+         "description" : "The Master Class series combines biography, a collection of games and Fritz Trainer material on a chess legend in a multimedia format. Several authors contribute to each volume, presenting the master in their respective areas of expertise. Jochen Schwarz, a club player from Bremen, has followed the Master Class series since its first volume and has taken a look at the latest edition, devoted to Danish grandmaster Bent Larsen. He also compares it with earlier volumes in the series.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-master-class-band-20-bent-larsen",
+         "pubDate" : "Sat, 19 Sep 2026 07:00:00",
+         "title" : "Review: Master Class Vol. 20 - Bent Larsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-all-waited-for-like-6-hours-to-get-a-room-d-gukesh-explains-why-arjun-erigaisi-lost-in-chess-olympiad-round-1-game/articleshow/134348479.cms",
+         "pubDate" : "Sat, 19 Sep 2026 05:52:18",
+         "title" : "'We waited for like 6 hrs to get a room': Gukesh on why Arjun lost Round 1 game"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134346470.cms\" />Koneru Humpy avenged her recent Global Chess League setbacks against Greece's Stavroula Tsolakidou, helping India's women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy's Sabino Brunello after slipping below 2700. India won the open tie 3-1, while both teams continued their strong starts to the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-finally-on-mac",
          "pubDate" : "Fri, 18 Sep 2026 19:00:00",
          "title" : "ChessBase - finally on Mac!"
+      },
+      {
+         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
+         "pubDate" : "Fri, 18 Sep 2026 13:06:00",
+         "title" : "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's"
       },
       {
          "description" : "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,...",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-statement-on-fide-congress/",
          "pubDate" : "Fri, 18 Sep 2026 11:23:47",
          "title" : "ECU Board statement on FIDE Congress"
-      },
-      {
-         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
-         "pubDate" : "Fri, 18 Sep 2026 09:06:00",
-         "title" : "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's"
       },
       {
          "description" : "Playing chess online is great, but meeting new people and playing chess in real life is, too! Now, you can easily find physical chess clubs near you right here on our Local Clubs page. Club owners can also get their club verified and listed as an ...",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms",
          "pubDate" : "Fri, 11 Sep 2026 03:43:21",
          "title" : "Elon Musk feels 'chess will be fully solved one day'; what does Carlsen think?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134039957.cms\" />Magnus Carlsen's transition into fatherhood has reshaped how he approaches chess, work and time. Despite unprecedented success, he still sees himself as a provider, balancing the joy of raising his son with the demands of a global career. Fatherhood helped cement his decision to abandon the classical World Championship, revealing a man reallocating ambition around family, responsibility and purpose.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/spider-man-batman-all-had-to-pay-rent-magnus-carlsen-now-a-father-is-no-exception/articleshow/134039957.cms",
-         "pubDate" : "Fri, 11 Sep 2026 01:52:02",
-         "title" : "Spider-Man, Batman all had to pay rent: Magnus Carlsen, now a father, is no exception"
       },
       {
          "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
