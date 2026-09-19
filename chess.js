@@ -31,7 +31,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
          "pubDate" : "Sat, 19 Sep 2026 09:28:00",
-         "title" : "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
+         "title" : "🇺🇸 U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
