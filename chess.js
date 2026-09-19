@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne K&auml;hler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-interviews-2",
+         "pubDate" : "Sat, 19 Sep 2026 19:00:00",
+         "title" : "ChessBase interviews from Samarkand: \"How many databases? Hundreds!\""
+      },
+      {
          "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Sat, 19 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.&#39;s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
+         "pubDate" : "Sat, 19 Sep 2026 09:28:00",
+         "title" : "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
          "pubDate" : "Sun, 30 Aug 2026 16:05:00",
          "title" : "Sofia Cup 2026 - Games and results"
-      },
-      {
-         "description" : " The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,000 for fourth. The top four players with the best results during the tour were in finishing order: No. 1 Praggnanandhaa Rameshbabu, Seed No. 2 Wesley So, Seed No. 3 Fabiano Caruana, and Seed No. 4 Vincent Keymer. In the semi-finals Praggnanandhaa beat Vincent Keymer comfortably, winning one of the two classical games and then both rapid games, Keymer won the blitz section but it didn't matter. Fabiano Caruana overcame Wesley So in a close ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
-         "pubDate" : "Sat, 29 Aug 2026 18:17:00",
-         "title" : "Grand Chess Tour Finals 2026 - Games and results"
       }
    ]
 }
