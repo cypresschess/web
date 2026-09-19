@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134346470.cms\" />Koneru Humpy avenged her recent Global Chess League setbacks against Greece's Stavroula Tsolakidou, helping India's women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy's Sabino Brunello after slipping below 2700. India won the open tie 3-1, while both teams continued their strong starts to the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
+         "pubDate" : "Sat, 19 Sep 2026 02:50:36",
+         "title" : "Olympiad: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
+      },
+      {
          "description" : "Our database program - used by everyone, from the World Champion to lowly club players - will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is November 2026. Register now to make sure you don't miss the launch of a new era in chess study.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/spider-man-batman-all-had-to-pay-rent-magnus-carlsen-now-a-father-is-no-exception/articleshow/134039957.cms",
          "pubDate" : "Fri, 11 Sep 2026 01:52:02",
          "title" : "Spider-Man, Batman all had to pay rent: Magnus Carlsen, now a father, is no exception"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134038283.cms\" />Magnus Carlsen says Gukesh should not view his upcoming World Championship match against Javokhir Sindarov as a title defence, but as an opportunity to gain. Carlsen believes Gukesh's peak level matches or exceeds Sindarov's, though early momentum will be crucial. He also highlights chess's psychological nature, suggesting confidence and pressure could significantly influence the short match",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-not-in-a-position-to-defend-anything-magnus-carlsen-on-world-chess-championship-clash-vs-javokhir-sindarov/articleshow/134038283.cms",
-         "pubDate" : "Fri, 11 Sep 2026 00:52:13",
-         "title" : "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov"
       },
       {
          "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
