@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
+         "pubDate" : "Sat, 19 Sep 2026 13:00:00",
+         "title" : "Fixing your skill gap: step by step"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: David Navara from Czechia by Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Sat, 19 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
-      },
-      {
-         "description" : "The top ten teams in the open section of the Chess Olympiad all remain perfect after round three, although several were pushed hard by lower-seeded opposition. The United States, Germany, the Netherlands (pictured), Hungary and Armenia all won by 2&frac12;-1&frac12;, while 11th-seeded England were held by Lithuania. Singapore and Kyrgyzstan produced the biggest team upsets, defeating Norway and Brazil respectively, as 21 teams moved into round four on 6/6 match points. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-3",
-         "pubDate" : "Sat, 19 Sep 2026 07:15:00",
-         "title" : "Samarkand R3 (open): Top ten stay perfect after tense third round"
-      },
-      {
-         "description" : "The Master Class series combines biography, a collection of games and Fritz Trainer material on a chess legend in a multimedia format. Several authors contribute to each volume, presenting the master in their respective areas of expertise. Jochen Schwarz, a club player from Bremen, has followed the Master Class series since its first volume and has taken a look at the latest edition, devoted to Danish grandmaster Bent Larsen. He also compares it with earlier volumes in the series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-master-class-band-20-bent-larsen",
-         "pubDate" : "Sat, 19 Sep 2026 07:00:00",
-         "title" : "Review: Master Class Vol. 20 - Bent Larsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
@@ -696,14 +688,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
          "pubDate" : "Sat, 29 Aug 2026 18:17:00",
          "title" : "Grand Chess Tour Finals 2026 - Games and results"
-      },
-      {
-         "description" : "Hanging a piece in a winning position. Playing a perfect game only to lose because of time trouble. There are so many ways that a game of chess can end painfully. So, we search for ways to make that pain go away, and never appear again. But that only leads to more pain, anxiety and []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/how-to-deal-with-pain-in-chess/",
-         "pubDate" : "Sat, 29 Aug 2026 13:00:00",
-         "title" : "How to deal with pain in chess"
       }
    ]
 }
