@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to raise $100,000 to bring chess to as many as 5,000 more children over two years, while founder Magnus Wolfe-Murray also plans to promote the initiative at the Chess Olympiad in Samarkand and pursue the long-term goal of forming a refugee youth team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
+         "pubDate" : "Sun, 20 Sep 2026 19:30:00",
+         "title" : "Move to bring chess to 5,000 refugee children"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Govhar Beydullayeva from Azerbaijan by Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Sun, 20 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat top-seeded U.S.A. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who def...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
+         "pubDate" : "Sun, 20 Sep 2026 09:14:00",
+         "title" : "Top Seeds Tumble As Germany Beat U.S. While Poland Defeat Indian Women"
       },
       {
          "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms",
          "pubDate" : "Sun, 20 Sep 2026 01:35:13",
          "title" : "Olympiad R4: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
+      },
+      {
+         "description" : "Team USA suffered its first defeated in the Open today, losing 1&frac12;-2&frac12; to Germany when GM Frederik Svane defeated GM Hans Niemann on Board 3 and GM Wesley So was unable to crack GM Matthias Bluebaum's fortress on Board 2. In the Women's event, USA also conceded its first point of the event but managed to hold onto a 2-2 tie against Uzbekistan when IM Alice Lee defeated former teammate IM Gulrukhbegim Tokhirjonova on Board 2 to neutralize IM Carissa Yip's loss against WGM Afruza Khamdamova on the top board.Today's report covers rounds three and four, featuring excellent and instructive analysis from FM Andy Lee. Tuesday's report will focus on rounds five and six with analysis by I",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/46th-olympiad-usa-perfect-after-round-4",
+         "pubDate" : "Sun, 20 Sep 2026 00:00:00",
+         "title" : "46th Olympiad: USA Perfect After Round 4"
       },
       {
          "description" : "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne K&auml;hler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase",
@@ -578,28 +602,12 @@ news_feed (
          "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
       },
       {
-         "description" : "GM Javokhir Sindarov&#39;s second win in a row, this time over GM Alireza Firouzja, took FYERS American Gambits into the 2026 Tech Mahindra Global Chess League lead while Triveni Continental Kings slumped to the bottom after a second loss of the day. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-5",
-         "pubDate" : "Wed, 09 Sep 2026 13:10:00",
-         "title" : "Sindarov Beats Firouzja To Give American Gambits Lead"
-      },
-      {
          "description" : "Jim Mennella was born in 1948 and grew up in Brooklyn. In the mid-1970s he joined the US Chess Federation and his bank's corporate team. He eventually became team captain, then president of the Bankers Athletic chess league. That's where Jim and I met, and we often traveled together to tournaments all over the Northeast. He peaked at expert level. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mennella at the 125th U.S. Open in 2025. (Photo by David Llada)<br> <br> <br> <br> In 1979, he played in his first U.S. Open. He liked the idea of playing in a large one-section tournament, and it became an annual habit. His first game was against GM Arthur Bisg",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/jim-mennella-1948-2026",
          "pubDate" : "Wed, 09 Sep 2026 00:00:00",
          "title" : "Jim Mennella (1948-2026)"
-      },
-      {
-         "description" : "This week's exercises come from the 2026 Harvey Lerman Florida State Championship, which will be featured later this week in our Labor Day Weekend Wrap-Up. This might be the hardest set of exercises I've ever published! For the first time, I couldn't fit all the relevant variations and explanations into the text of the printout, and have to refer readers to the study for the full solution. Gems like these are why I'm delighted to live in the age when state and regional tournaments can broadcast top games with the world!For even more puzzles from this event, check out yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable work",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-harvey-lerman-florida-state-championship",
-         "pubDate" : "Wed, 09 Sep 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 Harvey Lerman Florida State Championship"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-launches-inaugural-european-chess-superleague/",
          "pubDate" : "Mon, 31 Aug 2026 07:57:42",
          "title" : "European Chess Union Launches Inaugural European Chess Superleague"
-      },
-      {
-         "description" : " The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf Mamedov won the rapid event on tie-break from Alireza Firouzja and Dimitris Alexakis after all finished on 7.5/9. Firouzja was the clear winner of the blitz with 9.5/11 half a point clear of Ediz Gurel and Mamedov .",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
-         "pubDate" : "Sun, 30 Aug 2026 16:05:00",
-         "title" : "Sofia Cup 2026 - Games and results"
       }
    ]
 }
