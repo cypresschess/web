@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia 3-1. With all eight co-leaders now paired against one another, Sunday's fifth round is set to reshape the top of the standings. | Pictured: China's Wei Yi | Photo: Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-4",
+         "pubDate" : "Sun, 20 Sep 2026 04:25:00",
+         "title" : "Samarkand R4 (open): Eight-way tie at the top as favourites hold firm"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134362654.cms\" />Arjun Erigaisi bounced back from a difficult start to the Chess Olympiad with a convincing victory over Maksim Chigaev, helping defending champions India beat Spain 3-1 in Round 4. Gukesh continued his impressive run, while Praggnanandhaa and Nihal Sarin drew. India's women also remained unbeaten, beating Mongolia 3-1 as both Indian teams maintained their winning momentum in Samarkand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms",
+         "pubDate" : "Sun, 20 Sep 2026 01:35:13",
+         "title" : "Olympiad: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
+      },
+      {
          "description" : "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne K&auml;hler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
          "pubDate" : "Sat, 19 Sep 2026 09:28:00",
-         "title" : "🇺🇸 U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
+         "title" : "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-led-pipers-bounce-back-against-alaskan-knights-reclaim-gcl-top-spot/articleshow/134046039.cms",
          "pubDate" : "Fri, 11 Sep 2026 04:48:52",
          "title" : "Koneru Humpy-led Pipers bounce back against Alaskan Knights, reclaim GCL top spot"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134043770.cms\" />Elon Musk believes chess will eventually be fully solved by AI, drawing comparisons with checkers. Magnus Carlsen was less certain, saying he isn't a computer expert but noting chess is already \"semi-solved\" as a likely draw. Carlsen also praised AI for making chess more accessible, while backing the Global Chess League's exciting team format and enjoying his visits to India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms",
-         "pubDate" : "Fri, 11 Sep 2026 03:43:21",
-         "title" : "Elon Musk feels 'chess will be fully solved one day'; what does Carlsen think?"
       },
       {
          "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
