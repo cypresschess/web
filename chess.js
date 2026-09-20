@@ -390,7 +390,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
-         "pubDate" : "Sun, 13 Sep 2026 19:22:58",
+         "pubDate" : "Sun, 13 Sep 2026 19:22:00",
          "title" : "Blitz Skills Help Topalov Win Match With Big Bonus"
       },
       {
