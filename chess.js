@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
+         "pubDate" : "Sun, 20 Sep 2026 07:00:00",
+         "title" : "ChessBase&acute;26 - Tips for Beginners, part 32: Training with style"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134363468.cms\" />In his latest Grandmaster View column, India's young GM Aarav Dengla looks back at how the Bolsheviks transformed chess from a pastime of Russia's aristocracy into an instrument of mass education, military training and cultural revolution. From Ilyin-Zhenevsky and the Red Army to Botvinnik, Tal, Karpov and Kasparov, Aarav traces how a century-old state-backed experiment helped build the Soviet chess machine, and a legacy that still shapes the chess world today.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/red-pawns-red-soldiers-how-the-bolsheviks-built-a-chess-superpower/articleshow/134363468.cms",
+         "pubDate" : "Sun, 20 Sep 2026 04:26:18",
+         "title" : "Red Pawns, Red Soldiers: How the Bolsheviks built a chess superpower"
+      },
+      {
          "description" : "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia 3-1. With all eight co-leaders now paired against one another, Sunday's fifth round is set to reshape the top of the standings. | Pictured: China's Wei Yi | Photo: Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +31,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms",
          "pubDate" : "Sun, 20 Sep 2026 01:35:13",
-         "title" : "Olympiad: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
+         "title" : "Olympiad R4: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
       },
       {
          "description" : "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne K&auml;hler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
          "pubDate" : "Sat, 19 Sep 2026 13:00:00",
          "title" : "Fixing your skill gap: step by step"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: David Navara from Czechia by Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Sat, 19 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.&#39;s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the...",
@@ -63,7 +71,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
          "pubDate" : "Sat, 19 Sep 2026 02:50:36",
-         "title" : "Olympiad: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
+         "title" : "Olympiad R3: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
       },
       {
          "description" : "Our database program - used by everyone, from the World Champion to lowly club players - will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is November 2026. Register now to make sure you don't miss the launch of a new era in chess study.",
@@ -135,7 +143,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms",
          "pubDate" : "Fri, 18 Sep 2026 02:59:08",
-         "title" : "Olympiad: How Nihal saved India's day amid Gukesh's historic drop in rating points"
+         "title" : "Olympiad R2: How Nihal saved India's day amid Gukesh's historic drop in rating points"
       },
       {
          "description" : "Both American teams currently boast 6/6 scores after three rounds of the 11-round 46th FIDE Chess Olympiad. Of the 205 teams competing in the Open, just 21 remain unblemished. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Captain John Donaldson, Levon Aronian, Hans Niemann, Wesley So, and Awonder Liang. (Photo courtesy US Chess)<br> <br> <br> <br> In the women's event, 20 out of the 186 teams in the women's event have still yet to concede a match point. Moreover, with 11 wins and only one draw out of 12 games, the Women's team boasts the best tiebreaks in the field so far. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
          "pubDate" : "Fri, 11 Sep 2026 07:00:04",
          "title" : "Chess: Uzbekistan favourites for Olympiad but ageing England given gloomy outlook"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134046039.cms\" />Defending champions APL Pipers bounced back from a 4-12 loss to Ganges Grandmasters to beat Alaskan Knights 11-6 and move top of the GCL standings on game points. Mumba Masters kept their playoff hopes alive with a 14-5 win over Triveni Continental Kings. Pipers, American Gambits and Ganges are level on 15 match points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-led-pipers-bounce-back-against-alaskan-knights-reclaim-gcl-top-spot/articleshow/134046039.cms",
-         "pubDate" : "Fri, 11 Sep 2026 04:48:52",
-         "title" : "Koneru Humpy-led Pipers bounce back against Alaskan Knights, reclaim GCL top spot"
       },
       {
          "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
