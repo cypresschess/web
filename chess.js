@@ -18,12 +18,12 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat top-seeded U.S.A. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who def...",
+         "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
          "pubDate" : "Sun, 20 Sep 2026 09:14:00",
-         "title" : "Top Seeds Tumble As Germany Beat U.S. While Poland Defeat Indian Women"
+         "title" : "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women"
       },
       {
          "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
