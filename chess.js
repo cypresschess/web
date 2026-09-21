@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134393237.cms\" />Israel Chess Federation chief Zvika Barkai has accused FIDE of failing to honour a prior agreement over scheduling Israel's Chess Olympiad matches around Yom Kippur. Both Israeli teams forfeited their Round 6 games after the Netherlands and Bulgaria declined schedule changes. Barkai praised Singapore and Colombia for accommodating Israel, criticised FIDE's handling, and warned the forfeits could significantly affect Israel's rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-extremely-angry-israel-chess-chief-blasts-fide-for-not-honouring-commitments-after-chess-olympiad-forfeits-exclusive/articleshow/134393237.cms",
+         "pubDate" : "Mon, 21 Sep 2026 16:06:44",
+         "title" : "Chess Olympiad forfeit row: Israel blasts FIDE for not honouring 'commitments'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134391776.cms\" />The Israeli men's team was due to face the Netherlands in the Open section, while the women's team was scheduled to play Bulgaria.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/israel-forfeits-chess-olympiad-matches-against-netherlands-bulgaria-heres-why/articleshow/134391776.cms",
+         "pubDate" : "Mon, 21 Sep 2026 14:35:13",
+         "title" : "Israel forfeits Chess Olympiad matches against Netherlands, Bulgaria; here's why"
+      },
+      {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,12 +26,36 @@ news_feed (
          "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
       },
       {
+         "description" : "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura&#39;s second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
+         "pubDate" : "Mon, 21 Sep 2026 12:22:51",
+         "title" : "Nakamura Makes It Back To Back Bullet Brawls"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anish Giri from the Netherlands by Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Mon, 21 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "With a shock win on board three against India, Uzbekistan has taken the sole lead of the 46th Chess Olympiad 2026 after round six. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but with half an hour remaining he ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
+         "pubDate" : "Mon, 21 Sep 2026 09:45:09",
+         "title" : "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S."
+      },
+      {
+         "description" : "Think you can take down an NFL receiver at chess? Now&#38;rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&#38;rsquo;s bot is rated 14...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
+         "pubDate" : "Mon, 21 Sep 2026 09:00:00",
+         "title" : "Play Chess Against NFL Star Mack Hollins"
       },
       {
          "description" : "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2&frac12;-1&frac12;, with Frederik Svane (pictured) scoring the decisive win over Hans Niemann, while India beat the Netherlands and Uzbekistan swept Hungary 4-0. China and Armenia drew 2-2 and now stand one match point behind the leading group. | Photo: Rafal Oleksiewicz / FIDE",
@@ -40,6 +80,30 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
          "pubDate" : "Mon, 21 Sep 2026 02:35:52",
          "title" : "Olympiad R5: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/Title-I-2026",
+         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
+         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/Title-I",
+         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
+         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-opens-2026-2027-title-i-school-outreach-program-affiliates-serving-risk-youth",
+         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
+         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
          "description" : "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to raise $100,000 to bring chess to as many as 5,000 more children over two years, while founder Magnus Wolfe-Murray also plans to promote the initiative at the Chess Olympiad in Samarkand and pursue the long-term goal of forming a refugee youth team.",
@@ -90,7 +154,7 @@ news_feed (
          "title" : "Olympiad R4: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
       },
       {
-         "description" : "Team USA suffered its first defeated in the Open today, losing 1&frac12;-2&frac12; to Germany when GM Frederik Svane defeated GM Hans Niemann on Board 3 and GM Wesley So was unable to crack GM Matthias Bluebaum's fortress on Board 2. In the Women's event, USA also conceded its first point of the event but managed to hold onto a 2-2 tie against Uzbekistan when IM Alice Lee defeated former teammate IM Gulrukhbegim Tokhirjonova on Board 2 to neutralize IM Carissa Yip's loss against WGM Afruza Khamdamova on the top board.Today's report covers rounds three and four, featuring excellent and instructive analysis from FM Andy Lee. Tuesday's report will focus on rounds five and six with analysis by I",
+         "description" : "Team USA suffered its first match loss in the Open today, losing 1&frac12;-2&frac12; to Germany when GM Frederik Svane defeated GM Hans Niemann on Board 3 and GM Wesley So was unable to crack GM Matthias Bluebaum's fortress on Board 2. In the Women's event, USA also conceded its first point of the event but managed to hold onto a 2-2 tie against Uzbekistan when IM Alice Lee defeated former teammate IM Gulrukhbegim Tokhirjonova on Board 2 to neutralize IM Carissa Yip's loss against WGM Afruza Khamdamova on the top board.Today's report covers rounds three and four, featuring excellent and instructive analysis from FM Andy Lee. Tuesday's report will focus on rounds five and six with analysis by",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/46th-olympiad-usa-perfect-after-round-4",
@@ -514,22 +578,6 @@ news_feed (
          "title" : "25 years ago  -  ChessBase news"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134111571.cms\" />Ganges Grandmasters and APL Pipers strengthened their GCL final chances with big Day 7 wins, moving to 18 match points each. Ganges thrashed Mumba Masters 16-1, while Pipers beat American Gambits 9-7, with Magnus Carlsen defeating Javokhir Sindarov and handing his POTM trophy to Vidit Gujrathi. Ganges lead on game points, while Gambits need a win and help.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gcl-ganges-grandmasters-run-riot-on-day-7-magnus-carlsen-gives-potm-trophy-to-vidit-gujrathi/articleshow/134111571.cms",
-         "pubDate" : "Sat, 12 Sep 2026 06:01:40",
-         "title" : "GCL: Ganges Grandmasters run riot on Day 7; Carlsen gives POTM trophy to Vidit"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134105847.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-magnus-carlsen-gets-better-of-sindarov/articleshow/134105847.cms",
-         "pubDate" : "Sat, 12 Sep 2026 03:45:43",
-         "title" : "Global Chess League: Magnus Carlsen gets better of Sindarov"
-      },
-      {
          "description" : "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -554,14 +602,6 @@ news_feed (
          "title" : "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph"
       },
       {
-         "description" : "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White&#39;s most common opening move, 1.e4. With positional, dependable lines, So will teach yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-wesley-sos-1e4-e5-part-1-course",
-         "pubDate" : "Fri, 11 Sep 2026 08:00:00",
-         "title" : "Build A Rock-Solid Repertoire Against 1.e4 With GM Wesley So's New Course"
-      },
-      {
          "description" : " England Open squad have internal tensions but the women's team blend rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, the 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -584,46 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/ernie-schlich-1946-2026",
          "pubDate" : "Fri, 11 Sep 2026 00:00:00",
          "title" : "Ernie Schlich (1946-2026) "
-      },
-      {
-         "description" : "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&#38;mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
-         "pubDate" : "Thu, 10 Sep 2026 14:41:54",
-         "title" : "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate"
-      },
-      {
-         "description" : "The FYERS American Gambits, led by GM Javokhir Sindarov, dominated a critical match against the Ganges Grandmasters, led by GM Ian Nepomniachtchi, to join a three-way tie with the Grandmasters and GM Magnus Carlsen&#39;s Alpine APL Pipers on day six o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Thu, 10 Sep 2026 13:48:00",
-         "title" : "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead"
-      },
-      {
-         "description" : "Editor's note: This article by Dewain Barber was originally published in 2011 on the 10th anniversary of the 9/11 attacks. In recognition of the 25th anniversary, we are republishing it along with the author's request that anybody with one of these boards take it out and play a game in the memory of those who died. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> It was a clear day in LA and the weather was comfortable. My wife, Susan had left to teach school that morning as she had since the start of the school year a few days before.As I got up to check for orders and begin the packing process of chess equipment for some reason still unknown to me I turned on the TV an",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chess-board-memory-911",
-         "pubDate" : "Thu, 10 Sep 2026 00:00:00",
-         "title" : "A Chess Board in Memory of 9/11"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Charlotte Chess Center Foundation (CCCF) has announced that the Naroditsky Fellowship is now accepting applications. The Fellowship, created in memory of the late GM Daniel \"Danya\" Naroditsky, will give $50,000 in awards to top junior American players in its inaugural year. To be eligible for the award, applicants must:Be 20 years of age or under at the time of the applicationReside in and represent the United States FIDE FederationBe ranked among the top 10 juniors overall in the United States on the US Chess or FIDE rating list Be ranked in the Top 10 nationally (US Chess) or internationally (FIDE) for their specific",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/50000-naroditsky-fellowship-now-open-applications",
-         "pubDate" : "Thu, 10 Sep 2026 00:00:00",
-         "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
-      },
-      {
-         "description" : "Jim Mennella was born in 1948 and grew up in Brooklyn. In the mid-1970s he joined the US Chess Federation and his bank's corporate team. He eventually became team captain, then president of the Bankers Athletic chess league. That's where Jim and I met, and we often traveled together to tournaments all over the Northeast. He peaked at expert level. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Mennella at the 125th U.S. Open in 2025. (Photo by David Llada)<br> <br> <br> <br> In 1979, he played in his first U.S. Open. He liked the idea of playing in a large one-section tournament, and it became an annual habit. His first game was against GM Arthur Bisg",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/jim-mennella-1948-2026",
-         "pubDate" : "Wed, 09 Sep 2026 00:00:00",
-         "title" : "Jim Mennella (1948-2026)"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
