@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
+         "pubDate" : "Mon, 21 Sep 2026 13:14:51",
+         "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anish Giri from the Netherlands by Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-5",
          "pubDate" : "Mon, 21 Sep 2026 08:10:00",
          "title" : "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan"
+      },
+      {
+         "description" : "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
+         "pubDate" : "Mon, 21 Sep 2026 08:00:09",
+         "title" : "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
          "pubDate" : "Thu, 10 Sep 2026 13:48:00",
          "title" : "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead"
-      },
-      {
-         "description" : "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
-         "pubDate" : "Thu, 10 Sep 2026 07:03:00",
-         "title" : "Applications Open For $50,000 Naroditsky Fellowship"
       },
       {
          "description" : "Editor's note: This article by Dewain Barber was originally published in 2011 on the 10th anniversary of the 9/11 attacks. In recognition of the 25th anniversary, we are republishing it along with the author's request that anybody with one of these boards take it out and play a game in the memory of those who died. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> It was a clear day in LA and the weather was comfortable. My wife, Susan had left to teach school that morning as she had since the start of the school year a few days before.As I got up to check for orders and begin the packing process of chess equipment for some reason still unknown to me I turned on the TV an",
