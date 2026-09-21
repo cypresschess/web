@@ -1,5 +1,7 @@
 jtable([
 "HOUSTON","2026-09-19","8","<a href=https://ratings.uschess.org/event/202609190203 target='_blank'>chesspanda09192026saturday</a>",
+"CYPRESS","2026-09-18","43","<a href=https://ratings.uschess.org/event/202609180333 target='_blank'>Knights of Cypress</a>",
+"HOUSTON","2026-09-18","51","<a href=https://ratings.uschess.org/event/202609180323 target='_blank'>Houston Fall FIDE 2026</a>",
 "SUGAR LAND","2026-09-18","25","<a href=https://ratings.uschess.org/event/202609180273 target='_blank'>FBCC Cheeseburger Day Open</a>",
 "SPRING","2026-09-18","28","<a href=https://ratings.uschess.org/event/202609180173 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-09-13","14","<a href=https://ratings.uschess.org/event/202609130293 target='_blank'>Bellaire Sunday Swiss 2026.09.13</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-06-20","6","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
 "HOUSTON","2026-06-19","10","<a href=https://ratings.uschess.org/event/202606190663 target='_blank'>Chess Kids Rocks- June 26</a>",
 "SUGAR LAND","2026-06-19","22","<a href=https://ratings.uschess.org/event/202606190563 target='_blank'>FBCC Juneteenth Open</a>",
-"CYPRESS","2026-06-19","42","<a href=https://ratings.uschess.org/event/202606190543 target='_blank'>Knights of Cypress</a>",
-"PASADENA","2026-06-19","20","<a href=https://ratings.uschess.org/event/202606190443 target='_blank'>Checkmates on Fairmont</a>",
 ]);
