@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anish Giri from the Netherlands by Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Mon, 21 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2&frac12;-1&frac12;, with Frederik Svane (pictured) scoring the decisive win over Hans Niemann, while India beat the Netherlands and Uzbekistan swept Hungary 4-0. China and Armenia drew 2-2 and now stand one match point behind the leading group. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
          "pubDate" : "Sun, 20 Sep 2026 19:30:00",
          "title" : "Move to bring chess to 5,000 refugee children"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Govhar Beydullayeva from Azerbaijan by Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Sun, 20 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d...",
@@ -704,22 +704,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-reaches-midway-point/",
          "pubDate" : "Tue, 01 Sep 2026 06:40:15",
          "title" : "European Senior Team Chess Championship 2026 reaches midway point"
-      },
-      {
-         "description" : " The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the rapid he scored 6/7, which converted to 12 points, 3 points clear of the field going into the second day of blitz. In spite of finishing only 6th of 8 in the blitz he just hung on to win by half a point from Nodirbek Abdusattorov who beat him in their individual blitz game. Vladislav Artemiev finished in third place and Yagiz Kaan Erdogmus finished in fourth; Shakhriyar Mamedyarov had a terrible couple of days finishing last in the rapid ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
-         "pubDate" : "Mon, 31 Aug 2026 11:00:00",
-         "title" : "Green Hills Resort Masters 2026 - Games and results"
-      },
-      {
-         "description" : "New flagship club competition to crown Europe's finest chess team, with a guaranteed prize fund of €300,000 - Bucharest, Romania, 2-10 February 2027 The European Chess Union (ECU) is proud to announce the creation of the European Chess Superleague, a groundbreaking new flagship club competition that will bring together the finest chess teams on the continent. The inaugural edition will be held in Bucharest, Romania, from 2 to 10 February 2027, in partnership with Super Foundation (Romania) as the host []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-launches-inaugural-european-chess-superleague/",
-         "pubDate" : "Mon, 31 Aug 2026 07:57:42",
-         "title" : "European Chess Union Launches Inaugural European Chess Superleague"
       }
    ]
 }
