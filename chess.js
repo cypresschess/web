@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2&frac12;-1&frac12;, with Frederik Svane (pictured) scoring the decisive win over Hans Niemann, while India beat the Netherlands and Uzbekistan swept Hungary 4-0. China and Armenia drew 2-2 and now stand one match point behind the leading group. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-5",
+         "pubDate" : "Mon, 21 Sep 2026 08:10:00",
+         "title" : "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
