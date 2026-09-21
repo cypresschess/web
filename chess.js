@@ -42,11 +42,11 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "With a shock win on board three against India, Uzbekistan has taken the sole lead of the 46th Chess Olympiad 2026 after round six. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but with half an hour remaining he ...",
+         "description" : "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-         "pubDate" : "Mon, 21 Sep 2026 09:45:09",
+         "pubDate" : "Mon, 21 Sep 2026 09:45:00",
          "title" : "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S."
       },
       {
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
          "pubDate" : "Mon, 21 Sep 2026 02:35:52",
          "title" : "Olympiad R5: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses"
+      },
+      {
+         "description" : "The US Chess server will be undergoing planned maintenance during the day on Tuesday, September 22, starting at 8 a.m. CDT, and likely continuing through much of the day. The systems will appear back online as soon as the maintenance is complete.The website will be taken offline during this time, and it will display an image and message similar to the one below. There will be wording to the effect of \"Site under maintenance\" and \"Server maintenance in progress, please check back soon.\"This will be affecting both the main website (uschess.org) as well as the MUIR website (ratings.uschess.org). Access will be completely restricted: no login, member file editing, nor tournament report access wi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/notice-planned-server-maintenance-september-22",
+         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
+         "title" : "Notice of Planned Server Maintenance on September 22"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/colville-takes-cadet-championship-over-das-tiebreaks",
          "pubDate" : "Fri, 11 Sep 2026 00:00:00",
          "title" : "Colville Takes Cadet Championship Over Das in Tiebreaks"
-      },
-      {
-         "description" : "It is with profound sadness that I report the passing of Ernest W. \"Ernie\" Schlich Aug. 23, 2026. Ernie was a former US Chess employee, a long-time delegate, an NTD, organizer, and coach. Along with his wife, Joan, who passed away in 2017, he left a tremendous legacy for the chess community after more than 50 years of service. Chess friends across the country remember Ernie fondly for his generosity with his time and attention; the late-night post-tournament TD dinners he held in order to exchange notes on lessons learned; the dedicated chess rooms in his homes where countless children got their start, and his affinity for off-color jokes and verbal pranking. <br> <br> <br> <br> Image<br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ernie-schlich-1946-2026",
-         "pubDate" : "Fri, 11 Sep 2026 00:00:00",
-         "title" : "Ernie Schlich (1946-2026) "
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
