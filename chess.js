@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
+         "pubDate" : "Mon, 21 Sep 2026 02:35:52",
+         "title" : "Olympiad R5: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses"
+      },
+      {
          "description" : "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to raise $100,000 to bring chess to as many as 5,000 more children over two years, while founder Magnus Wolfe-Murray also plans to promote the initiative at the Chess Olympiad in Samarkand and pursue the long-term goal of forming a refugee youth team.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-magnus-carlsen-gets-better-of-sindarov/articleshow/134105847.cms",
          "pubDate" : "Sat, 12 Sep 2026 03:45:43",
          "title" : "Global Chess League: Magnus Carlsen gets better of Sindarov"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134105178.cms\" />Alireza Firouzja discussed his ankle injury, recovery, and strong connection with Indian chess fans during an exclusive interview. He praised Indian crowds and tandoori chicken, assessed Gukesh-Sindarov's upcoming World Championship match as close, and reflected on the difficulty of reaching the Candidates. The 23-year-old is fully recovered and will next compete in Budapest's Total Chess Championship in November 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-people-always-very-interested-in-what-we-do-alireza-firouzja-youngest-to-beat-magnus-carlsens-2800-record-exclusive/articleshow/134105178.cms",
-         "pubDate" : "Sat, 12 Sep 2026 03:08:28",
-         "title" : "'Indians very interested in what we do': Firouzja, youngest to beat Carlsen's record"
       },
       {
          "description" : "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the...",
