@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2&frac12;-1&frac12;, while China beat Poland 3&frac12;-&frac12; after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3-1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
+         "pubDate" : "Tue, 22 Sep 2026 23:50:00",
+         "title" : "Samarkand R6 (women): China and Kazakhstan remain perfect"
+      },
+      {
+         "description" : "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as &#34;Mr. Dionisio,&#34; Sganzerla died on September 12 in Go...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
+         "pubDate" : "Tue, 22 Sep 2026 15:42:02",
+         "title" : "'Mister Dion&iacute;sio', Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
+      },
+      {
          "description" : "In a previous article we described the genesis of this increasingly popular form of chess - and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen to the view of Levon Aronian - but also on a number of other subjects that are of great interest to the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
          "pubDate" : "Tue, 22 Sep 2026 15:30:00",
          "title" : "Quo vadis, Fischer Random Chess? (2)"
+      },
+      {
+         "description" : "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
+         "pubDate" : "Tue, 22 Sep 2026 12:44:37",
+         "title" : "On-Fire Firouzja Finishes First In Titled Tuesday"
       },
       {
          "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
          "pubDate" : "Tue, 22 Sep 2026 02:55:32",
          "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
+      },
+      {
+         "description" : "Both USA teams enter Tuesday's rest day after a tough couple of rounds, with the Open team tied for fourth at 10/12 and the Women's team tied for 14th at 9/12. But, with five rounds remaining, there's still a lot of time to gain ground. Today's report features detailed and entertaining analysis from IM Jason Liang, who is coming off a share of first place in the 126th U.S. Open. Open In Round 5, Germany defeated USA 2&frac12;-1&frac12; on Sunday thanks to three draws and GM Frederik Svane's win against GM Hans Niemann on Board 3. After an unforced knight trade on move 13, Niemann's remaining pieces became cramped as his clock ticked away. Rather than play patiently, Niemann went on the offen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/46th-olympiad-now-fun-starts",
+         "pubDate" : "Tue, 22 Sep 2026 00:00:00",
+         "title" : "46th Olympiad: Now The Fun Starts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134393237.cms\" />Israel Chess Federation chief Zvika Barkai has accused FIDE of failing to honour a prior agreement over scheduling Israel's Chess Olympiad matches around Yom Kippur. Both Israeli teams forfeited their Round 6 games after the Netherlands and Bulgaria declined schedule changes. Barkai praised Singapore and Colombia for accommodating Israel, criticised FIDE's handling, and warned the forfeits could significantly affect Israel's rankings.",
@@ -618,36 +650,12 @@ news_feed (
          "title" : "25 years ago  -  ChessBase news"
       },
       {
-         "description" : "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
-         "pubDate" : "Fri, 11 Sep 2026 21:13:00",
-         "title" : "Topalov Leads Kasparov 2.5-1.5 After Eventful Day"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers and GM Ian Nepomniachtchi&#39;s Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Fri, 11 Sep 2026 11:49:00",
-         "title" : "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters"
-      },
-      {
          "description" : " England Open squad have internal tensions but the women's team blend rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, the 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
          "pubDate" : "Fri, 11 Sep 2026 07:00:04",
          "title" : "Chess: Uzbekistan favourites for Olympiad but ageing England given gloomy outlook"
-      },
-      {
-         "description" : "Californian IM Julian Colville won the 2026 U.S. Cadet Championship in a playoff over New York's FM Aditeya Das to claim the national Under-16 title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Julian Colville won the Cadet Championship in tiebreaks. (Photo by Danial Wilson)<br> <br> <br> <br> The 16-year-old Colville added the title to last month's share of first place in the 126th U.S. Open. Das, who is 15, will have another year of eligibility in this tournament. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An intense analysis session between rounds. (Photo by Danial Wilson)<br> <br> <br> <br> Das and C",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/colville-takes-cadet-championship-over-das-tiebreaks",
-         "pubDate" : "Fri, 11 Sep 2026 00:00:00",
-         "title" : "Colville Takes Cadet Championship Over Das in Tiebreaks"
       },
       {
          "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
