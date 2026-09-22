@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/resolution-of-hounour-and-remembrance-for-georgios-makropoulos/",
+         "pubDate" : "Tue, 22 Sep 2026 09:27:44",
+         "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
+      },
+      {
          "description" : "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2&frac12;-1&frac12; in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. China and Armenia moved into joint second on 11/12 match points after beating Germany and Iran, respectively. Uzbekistan, China and Armenia remain unbeaten on individual boards. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
