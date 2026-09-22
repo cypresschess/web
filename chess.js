@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2&frac12;-1&frac12; in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. China and Armenia moved into joint second on 11/12 match points after beating Germany and Iran, respectively. Uzbekistan, China and Armenia remain unbeaten on individual boards. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
+         "pubDate" : "Tue, 22 Sep 2026 08:15:00",
+         "title" : "Samarkand R6 (open): Uzbekistan beat India to take the sole lead"
+      },
+      {
+         "description" : "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading experts on Fischer. He recently published a new book on the 1972 World Champion, \"Inside the Mind of Bobby Fischer\". In the interview, Donaldson talks about his research, previously unknown material and how he views Fischer after years of studying his life and work.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
+         "pubDate" : "Tue, 22 Sep 2026 07:39:22",
+         "title" : "John Donaldson: New insights into Bobby Fischer"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401161.cms\" />Grandmaster Alexei Shirov has proposed that the chess world consider adopting a system similar to tennis for its World Champion title. His suggestion comes at a pivotal time following D Gukesh's historic win over Ding Liren, making him the youngest undisputed world champion. Shirov's remarks are part of a larger discussion about the current relevance and representation of the classical world title in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Israel forfeits Chess Olympiad matches against Netherlands, Bulgaria; here's why"
       },
       {
+         "description" : "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
+         "pubDate" : "Mon, 21 Sep 2026 13:30:00",
+         "title" : "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S."
+      },
+      {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Mon, 21 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
-      },
-      {
-         "description" : "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-         "pubDate" : "Mon, 21 Sep 2026 09:45:00",
-         "title" : "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S."
       },
       {
          "description" : "Think you can take down an NFL receiver at chess? Now&#38;rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&#38;rsquo;s bot is rated 14...",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/help-strengthen-the-ecfs-it-team/",
          "pubDate" : "Tue, 01 Sep 2026 13:06:32",
          "title" : "Help strengthen the ECF's IT team"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2026 is underway from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, Crete, Greece. The event reached its halfway mark following the completion of five rounds. The event gathers 32 teams represented by 150 players competing in two age categories: 50+ and 65+. Each tournament will be played in 9 rounds, swiss system, with the classical time control, and each field includes legendary Grandmasters. In the 50+ section, the top []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2026-reaches-midway-point/",
-         "pubDate" : "Tue, 01 Sep 2026 06:40:15",
-         "title" : "European Senior Team Chess Championship 2026 reaches midway point"
       }
    ]
 }
