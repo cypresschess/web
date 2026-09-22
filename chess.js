@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401161.cms\" />Grandmaster Alexei Shirov has proposed that the chess world consider adopting a system similar to tennis for its World Champion title. His suggestion comes at a pivotal time following D Gukesh's historic win over Ding Liren, making him the youngest undisputed world champion. Shirov's remarks are part of a larger discussion about the current relevance and representation of the classical world title in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-shouldnt-be-called-no-1-alexei-shirov-questions-use-of-world-champion-title/articleshow/134401161.cms",
+         "pubDate" : "Tue, 22 Sep 2026 03:17:50",
+         "title" : "Gukesh shouldn't be called No. 1: Shirov questions use of 'World Champion' title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134400926.cms\" />India suffered a narrow 2.5-1.5 defeat to hosts Uzbekistan in Round 6 of the Chess Olympiad after Nihal Sarin let a winning position slip, allowing Nodirbek Yakubboev to capture his queen for free. With Praggnanandhaa, Arjun Erigaisi and D Gukesh drawing, Nihal's loss proved decisive. India's women bounced back against the United States, winning 3-1 after their previous-round defeat to Poland.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
+         "pubDate" : "Tue, 22 Sep 2026 02:55:32",
+         "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134393237.cms\" />Israel Chess Federation chief Zvika Barkai has accused FIDE of failing to honour a prior agreement over scheduling Israel's Chess Olympiad matches around Yom Kippur. Both Israeli teams forfeited their Round 6 games after the Netherlands and Bulgaria declined schedule changes. Barkai praised Singapore and Colombia for accommodating Israel, criticised FIDE's handling, and warned the forfeits could significantly affect Israel's rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
-         "pubDate" : "Mon, 21 Sep 2026 12:22:51",
-         "title" : "Nakamura Makes It Back To Back Bullet Brawls"
+         "pubDate" : "Mon, 21 Sep 2026 12:22:00",
+         "title" : "Nakamura Makes It Back-To-Back Bullet Brawls"
       },
       {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anish Giri from the Netherlands by Rafal Oleksiewicz / FIDE",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
          "pubDate" : "Sat, 19 Sep 2026 02:50:36",
          "title" : "Olympiad R3: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
-      },
-      {
-         "description" : "Our database program - used by everyone, from the World Champion to lowly club players - will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is November 2026. Register now to make sure you don't miss the launch of a new era in chess study.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-finally-on-mac",
-         "pubDate" : "Fri, 18 Sep 2026 19:00:00",
-         "title" : "ChessBase - finally on Mac!"
       },
       {
          "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th...",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "ECF AGM - Call for nominations"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134232292.cms\" />Humpy's nine-year-old daughter Ahana witnessed her mother play live for the first time as APL Pipers lost the GCL final to Ganges Grandmasters. While Humpy was left disappointed with silver, Ahana celebrated from the front row, seeing only the joy of her mother competing and receiving a medal. For her, the silver felt every bit like gold.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-silver-medal-koneru-humpys-9-year-old-daughter-will-remember-as-gold/articleshow/134232292.cms",
-         "pubDate" : "Mon, 14 Sep 2026 04:24:15",
-         "title" : "The silver medal Koneru Humpy's 9-year-old daughter will remember as gold"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134231736.cms\" />Ganges Grandmasters stunned the favourites, APL Pipers, to win the GCL 2026 title on Sunday, powered by an unconventional team culture built on humour, trust and camaraderie. First-time coach Adiban Baskaran became the unlikely catalyst, blending superstition, calmness inspired by MS Dhoni, and personal bonds with players. Ian Nepomniachtchi and Stavroula Tsolakidou delivered decisive wins, completing a remarkable underdog triumph.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -544,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
          "pubDate" : "Sun, 13 Sep 2026 08:45:00",
          "title" : "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134171949.cms\" />Magnus Carlsen suffered his first GCL 2026 defeat as Alireza Firouzja's Triveni Continental Kings upset APL Pipers, but the result failed to alter the standings. Home favourites American Gambits briefly revived their qualification hopes before losing to Pipers. Nihal Sarin's defeat on time ended their finals bid, setting up a third-place clash with Mumba Masters on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-be-denied/articleshow/134171949.cms",
-         "pubDate" : "Sun, 13 Sep 2026 02:17:01",
-         "title" : "Crazy day of chess! Carlsen loses, boosts Sindarov's GCL hopes, only to be denied"
       },
       {
          "description" : "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver...",
