@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a previous article we described the genesis of this increasingly popular form of chess - and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen to the view of Levon Aronian - but also on a number of other subjects that are of great interest to the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
+         "pubDate" : "Tue, 22 Sep 2026 15:30:00",
+         "title" : "Quo vadis, Fischer Random Chess? (2)"
+      },
+      {
          "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
          "pubDate" : "Tue, 22 Sep 2026 08:15:00",
          "title" : "Samarkand R6 (open): Uzbekistan beat India to take the sole lead"
+      },
+      {
+         "description" : "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&#38;mdash;and a whole new set of tactics&#38;mdash;this tournament will ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
+         "pubDate" : "Tue, 22 Sep 2026 08:02:40",
+         "title" : "Chess.com Seirawan Chess Championship Starts September 30"
       },
       {
          "description" : "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading experts on Fischer. He recently published a new book on the 1972 World Champion, \"Inside the Mind of Bobby Fischer\". In the interview, Donaldson talks about his research, previously unknown material and how he views Fischer after years of studying his life and work.",
@@ -110,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-         "pubDate" : "Mon, 21 Sep 2026 08:00:09",
+         "pubDate" : "Mon, 21 Sep 2026 08:00:00",
          "title" : "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30"
       },
       {
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters"
       },
       {
-         "description" : "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
-         "pubDate" : "Fri, 11 Sep 2026 09:49:40",
-         "title" : "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph"
-      },
-      {
          "description" : " England Open squad have internal tensions but the women's team blend rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, the 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
          "pubDate" : "Wed, 02 Sep 2026 07:24:37",
          "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
-      },
-      {
-         "description" : "Following the retirement of our IT Manager, Nigel Towers, at the end of August, the ECF is reviewing how its IT function should be organised for the future. We are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/help-strengthen-the-ecfs-it-team/",
-         "pubDate" : "Tue, 01 Sep 2026 13:06:32",
-         "title" : "Help strengthen the ECF's IT team"
       }
    ]
 }
