@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134425151.cms\" />Irina Krush has been a constant presence in the United States women's chess team's rise, featuring in all three of its historic Olympiad medals. From becoming America's youngest women's champion at 14 to earning the country's only female GM title, Krush, speaking exclusively to TimesofIndia.com, reflects on her journey, the changing landscape of American chess, her commentary career, and the challenges of competing at her 13th Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-usas-only-female-gm-irina-krush/articleshow/134425151.cms",
+         "pubDate" : "Wed, 23 Sep 2026 04:18:30",
+         "title" : "Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina"
+      },
+      {
          "description" : "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2&frac12;-1&frac12;, while China beat Poland 3&frac12;-&frac12; after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3-1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,8 +22,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
-         "pubDate" : "Tue, 22 Sep 2026 15:42:02",
-         "title" : "'Mister Dion&iacute;sio', Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
+         "pubDate" : "Tue, 22 Sep 2026 15:42:00",
+         "title" : "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
       },
       {
          "description" : "In a previous article we described the genesis of this increasingly popular form of chess - and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen to the view of Levon Aronian - but also on a number of other subjects that are of great interest to the chess world.",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
-         "pubDate" : "Tue, 22 Sep 2026 12:44:37",
+         "pubDate" : "Tue, 22 Sep 2026 12:44:00",
          "title" : "On-Fire Firouzja Finishes First In Titled Tuesday"
       },
       {
@@ -546,14 +554,6 @@ news_feed (
          "title" : "ECF AGM - Call for nominations"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134231736.cms\" />Ganges Grandmasters stunned the favourites, APL Pipers, to win the GCL 2026 title on Sunday, powered by an unconventional team culture built on humour, trust and camaraderie. First-time coach Adiban Baskaran became the unlikely catalyst, blending superstition, calmness inspired by MS Dhoni, and personal bonds with players. Ian Nepomniachtchi and Stavroula Tsolakidou delivered decisive wins, completing a remarkable underdog triumph.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-coachs-fasting-nod-to-ms-dhoni-and-the-funniest-team-inside-ganges-grandmasters-gcl-2026-title/articleshow/134231736.cms",
-         "pubDate" : "Mon, 14 Sep 2026 03:34:22",
-         "title" : "Coach's fasting, nod to Dhoni, 'funniest' team: Inside Ganges Grandmasters' GCL title"
-      },
-      {
          "description" : "No, it&#38;rsquo;s not an April Fool&#39;s. More than six years after Chess.com joked&#38;nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&#38;rsquo;s coldest continent. The...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
          "pubDate" : "Thu, 3 Sep 2026 18:43:00",
          "title" : "TCh-ESP 1st Div 2026 - Games and results"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championships 2026 and the European Fischer Random (Chess960) Chess Championship 2026 will take place from 4 December (arrival day) to 9 December (departure day) 2026 in Portimao, Portugal, marking the 100th anniversary of the Portuguese Chess Federation. The European Rapid, Blitz and Fischer Random (Chess 960) Chess Championships 2026 are open to all players from National Chess Federations which are members of the European Chess Union (ECU), without rating or title limitations. There is []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-and-fischer-random-chess960-chess-championships-2026-invitation/",
-         "pubDate" : "Wed, 02 Sep 2026 07:24:37",
-         "title" : "European Rapid, Blitz and Fischer Random (Chess960) Chess Championships 2026 - Invitation"
       }
    ]
 }
