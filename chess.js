@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining the lineup. The FIDE-approved event, scheduled for 10-20 November, will combine Fast Classic, Rapid and Blitz in a single competition and serve as the pilot for the global Total Chess World Championship Tour launching in 2027.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
+         "pubDate" : "Wed, 23 Sep 2026 20:30:00",
+         "title" : "Total Chess World Championship Tour announces six more stars for pilot"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Faustino Oro from Argentina by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Wed, 23 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-7",
+         "pubDate" : "Wed, 23 Sep 2026 09:42:00",
+         "title" : "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134425151.cms\" />Irina Krush has been a constant presence in the United States women's chess team's rise, featuring in all three of its historic Olympiad medals. From becoming America's youngest women's champion at 14 to earning the country's only female GM title, Krush, speaking exclusively to TimesofIndia.com, reflects on her journey, the changing landscape of American chess, her commentary career, and the challenges of competing at her 13th Olympiad.",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-is-holding-you-back/",
          "pubDate" : "Sat, 12 Sep 2026 13:00:00",
          "title" : "What is holding you back?"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s Alpine APL Pipers will play GM Ian Nepomniachtchi&#39;s Ganges Grandmasters in this year&#39;s title match at the 2026 Tech Mahindra Global Chess League. In a rare outcome for a chess tournament, both leaders lost on the final day but ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Sat, 12 Sep 2026 12:08:00",
-         "title" : "Carlsen To Play Nepomniachtchi In Final After Both Leaders Lose Last Match"
       },
       {
          "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
