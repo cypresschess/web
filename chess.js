@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Faustino Oro from Argentina by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Wed, 23 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134425151.cms\" />Irina Krush has been a constant presence in the United States women's chess team's rise, featuring in all three of its historic Olympiad medals. From becoming America's youngest women's champion at 14 to earning the country's only female GM title, Krush, speaking exclusively to TimesofIndia.com, reflects on her journey, the changing landscape of American chess, her commentary career, and the challenges of competing at her 13th Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-usas-only-female-gm-irina-krush/articleshow/134425151.cms",
          "pubDate" : "Wed, 23 Sep 2026 04:18:30",
          "title" : "Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina"
-      },
-      {
-         "description" : "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2&frac12;-1&frac12;, while China beat Poland 3&frac12;-&frac12; after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3-1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
-         "pubDate" : "Tue, 22 Sep 2026 23:50:00",
-         "title" : "Samarkand R6 (women): China and Kazakhstan remain perfect"
       },
       {
          "description" : "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as &#34;Mr. Dionisio,&#34; Sganzerla died on September 12 in Go...",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/resolution-of-hounour-and-remembrance-for-georgios-makropoulos/",
          "pubDate" : "Tue, 22 Sep 2026 09:27:44",
          "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
+      },
+      {
+         "description" : "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2&frac12;-1&frac12;, while China beat Poland 3&frac12;-&frac12; after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3-1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
+         "pubDate" : "Tue, 22 Sep 2026 08:50:00",
+         "title" : "Samarkand R6 (women): China and Kazakhstan remain perfect"
       },
       {
          "description" : "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2&frac12;-1&frac12; in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. China and Armenia moved into joint second on 11/12 match points after beating Germany and Iran, respectively. Uzbekistan, China and Armenia remain unbeaten on individual boards. | Photo: Rafal Oleksiewicz / FIDE",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
          "pubDate" : "Mon, 21 Sep 2026 12:22:00",
          "title" : "Nakamura Makes It Back-To-Back Bullet Brawls"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Anish Giri from the Netherlands by Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Mon, 21 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Think you can take down an NFL receiver at chess? Now&#38;rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&#38;rsquo;s bot is rated 14...",
