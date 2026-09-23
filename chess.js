@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features reactions to the forthcoming ChessBase for Mac, behind-the-scenes work by the team, new guests in the \"Off the Board\" interview series and the celebrations that follow a victory by the Uzbek team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-vlog-2",
+         "pubDate" : "Wed, 23 Sep 2026 21:30:00",
+         "title" : "Behind the scenes in Samarkand: The playing hall"
+      },
+      {
          "description" : "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining the lineup. The FIDE-approved event, scheduled for 10-20 November, will combine Fast Classic, Rapid and Blitz in a single competition and serve as the pilot for the global Total Chess World Championship Tour launching in 2027.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
          "pubDate" : "Tue, 22 Sep 2026 15:42:00",
          "title" : "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
-      },
-      {
-         "description" : "In a previous article we described the genesis of this increasingly popular form of chess - and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen to the view of Levon Aronian - but also on a number of other subjects that are of great interest to the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
-         "pubDate" : "Tue, 22 Sep 2026 15:30:00",
-         "title" : "Quo vadis, Fischer Random Chess? (2)"
       },
       {
          "description" : "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki...",
@@ -170,14 +170,6 @@ news_feed (
          "title" : "Play Chess Against NFL Star Mack Hollins"
       },
       {
-         "description" : "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2&frac12;-1&frac12;, with Frederik Svane (pictured) scoring the decisive win over Hans Niemann, while India beat the Netherlands and Uzbekistan swept Hungary 4-0. China and Armenia drew 2-2 and now stand one match point behind the leading group. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-5",
-         "pubDate" : "Mon, 21 Sep 2026 08:10:00",
-         "title" : "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan"
-      },
-      {
          "description" : "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -226,14 +218,6 @@ news_feed (
          "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
-         "description" : "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to raise $100,000 to bring chess to as many as 5,000 more children over two years, while founder Magnus Wolfe-Murray also plans to promote the initiative at the Chess Olympiad in Samarkand and pursue the long-term goal of forming a refugee youth team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
-         "pubDate" : "Sun, 20 Sep 2026 19:30:00",
-         "title" : "Move to bring chess to 5,000 refugee children"
-      },
-      {
          "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -258,14 +242,6 @@ news_feed (
          "title" : "Red Pawns, Red Soldiers: How the Bolsheviks built a chess superpower"
       },
       {
-         "description" : "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia 3-1. With all eight co-leaders now paired against one another, Sunday's fifth round is set to reshape the top of the standings. | Pictured: China's Wei Yi | Photo: Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-4",
-         "pubDate" : "Sun, 20 Sep 2026 04:25:00",
-         "title" : "Samarkand R4 (open): Eight-way tie at the top as favourites hold firm"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134362654.cms\" />Arjun Erigaisi bounced back from a difficult start to the Chess Olympiad with a convincing victory over Maksim Chigaev, helping defending champions India beat Spain 3-1 in Round 4. Gukesh continued his impressive run, while Praggnanandhaa and Nihal Sarin drew. India's women also remained unbeaten, beating Mongolia 3-1 as both Indian teams maintained their winning momentum in Samarkand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -280,14 +256,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/46th-olympiad-usa-perfect-after-round-4",
          "pubDate" : "Sun, 20 Sep 2026 00:00:00",
          "title" : "46th Olympiad: USA Perfect After Round 4"
-      },
-      {
-         "description" : "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne K&auml;hler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-interviews-2",
-         "pubDate" : "Sat, 19 Sep 2026 19:00:00",
-         "title" : "ChessBase interviews from Samarkand: \"How many databases? Hundreds!\""
       },
       {
          "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
