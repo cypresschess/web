@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Vesna Mihelic from Slovenia by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Thu, 24 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3-1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on every individual board. Armenia, India, Germany, the Netherlands and Azerbaijan form the chasing group. On Wednesday, Armenia drew the United States, while the remaining four chasers all won their round-seven encounters. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
