@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in Samarkand, Turlov talks about how his grandfather taught him the game, how his six children rekindled his enthusiasm for chess, why chess helps him in his work as an entrepreneur, and why he supports the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
+         "pubDate" : "Thu, 24 Sep 2026 16:32:00",
+         "title" : "\"Chess is something magic\": An interview with Timur Turlov"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Vesna Mihelic from Slovenia by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
