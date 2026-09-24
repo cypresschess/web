@@ -26,7 +26,7 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026, winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two board...",
+         "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
