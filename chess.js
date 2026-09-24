@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3-1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on every individual board. Armenia, India, Germany, the Netherlands and Azerbaijan form the chasing group. On Wednesday, Armenia drew the United States, while the remaining four chasers all won their round-seven encounters. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-7",
+         "pubDate" : "Thu, 24 Sep 2026 03:55:00",
+         "title" : "Samarkand R7 (open): Uzbekistan continue dominating run, extend lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134449255.cms\" />India's open team stayed in contention for a Chess Olympiad medal after beating England 2.5-1.5, but Uzbekistan's perfect run has made the gold race increasingly difficult. Meanwhile, the women's team strengthened their title hopes with a dominant 3.5-0.5 win over Germany, led by Savitha Shri's sixth straight victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms",
+         "pubDate" : "Thu, 24 Sep 2026 02:33:15",
+         "title" : "Olympiad R7: India's gold chances get bleaker despite win in open; women still in hunt"
+      },
+      {
          "description" : "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features reactions to the forthcoming ChessBase for Mac, behind-the-scenes work by the team, new guests in the \"Off the Board\" interview series and the celebrations that follow a victory by the Uzbek team.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
          "pubDate" : "Wed, 23 Sep 2026 20:30:00",
          "title" : "Total Chess World Championship Tour announces six more stars for pilot"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Faustino Oro from Argentina by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Wed, 23 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b...",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
          "pubDate" : "Tue, 15 Sep 2026 14:22:02",
          "title" : "Sina Movahed Again In Titled Tuesday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134266159.cms\" />Upon their arrival in Samarkand, India's chess team faced a frustrating delay concerning hotel accommodations due to miscommunication from the local organizing committee. Fortunately, All India Chess Federation president Nitin Narang stepped in and reached out to FIDE to resolve the accommodation issue. Now, players are comfortably settled in individual rooms, while coaches share rooms.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/olympiad-mess-indian-chess-players-get-rooms-after-aicf-intervention-in-samarkand/articleshow/134266159.cms",
-         "pubDate" : "Tue, 15 Sep 2026 13:53:32",
-         "title" : "Olympiad mess! Indian chess players get rooms after AICF intervention in Samarkand"
       },
       {
          "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
