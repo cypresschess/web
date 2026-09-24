@@ -10,12 +10,28 @@ news_feed (
          "title" : "\"Chess is something magic\": An interview with Timur Turlov"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134466331.cms\" />Gukesh pushed hard but was held to a draw by Azerbaijan's Mahammad Muradli as India missed a chance to close the gap on the Chess Olympiad leaders. Uzbekistan and Germany lead the open section with 14 points. In the women's event, Savitha Shri extended her winning streak to seven, rescuing India against Kazakhstan and keeping their title hopes alive.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
+         "pubDate" : "Thu, 24 Sep 2026 16:10:33",
+         "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Vesna Mihelic from Slovenia by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Thu, 24 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026, winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two board...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
+         "pubDate" : "Thu, 24 Sep 2026 08:47:00",
+         "title" : "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India"
       },
       {
          "description" : "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3-1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on every individual board. Armenia, India, Germany, the Netherlands and Azerbaijan form the chasing group. On Wednesday, Armenia drew the United States, while the remaining four chasers all won their round-seven encounters. | Photo: Rafal Oleksiewicz / FIDE",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "From uplifting team to calling out Olympiad mess: Srinath is India's man to count on"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134276444.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-uzbeks-face-tough-test-from-defending-champs-india/articleshow/134276444.cms",
-         "pubDate" : "Wed, 16 Sep 2026 02:30:29",
-         "title" : "Chess Olympiad: Uzbeks face tough test from defending champs India"
-      },
-      {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -618,14 +626,6 @@ news_feed (
          "title" : "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
       },
       {
-         "description" : "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
-         "pubDate" : "Sat, 12 Sep 2026 17:31:00",
-         "title" : "Topalov Builds Solid Lead Over Kasparov"
-      },
-      {
          "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -704,14 +704,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/04/magnus-carlsen-and-sindarov-to-meet-at-least-twice-in-ipl-styled-global-chess-league",
          "pubDate" : "Fri, 04 Sep 2026 07:00:03",
          "title" : "Magnus Carlsen and Sindarov to meet at least twice in IPL-styled Global Chess League"
-      },
-      {
-         "description" : " The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
-         "pubDate" : "Thu, 3 Sep 2026 18:43:00",
-         "title" : "TCh-ESP 1st Div 2026 - Games and results"
       }
    ]
 }
