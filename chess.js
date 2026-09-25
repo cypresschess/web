@@ -26,11 +26,11 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating the U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov, but the Nodirbeks won on boards o...",
+         "description" : "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov on board two, but the Nodirbe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
-         "pubDate" : "Fri, 25 Sep 2026 09:45:40",
+         "pubDate" : "Fri, 25 Sep 2026 09:45:00",
          "title" : "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points"
       },
       {
