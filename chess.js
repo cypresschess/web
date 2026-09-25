@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Fri, 25 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "We have seen a lot of great performances at the Olympiad in Samarkand - many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after since their early teens deliver the goods. Like this batch, who have been surging. One has scored in absolutely record-breaking style. You'll never guess who.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
+         "pubDate" : "Fri, 25 Sep 2026 09:30:00",
+         "title" : "7/7 points, rating performance 2955!"
+      },
+      {
          "description" : "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2&frac12;-1&frac12; to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row. Eight teams now sit only one point behind, including China, India, the United States and the Netherlands. With three rounds remaining, the standings have tightened considerably ahead of another set of direct clashes among the leading teams. | Photo: Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
          "pubDate" : "Thu, 24 Sep 2026 15:00:08",
          "title" : "Bodhana Sivanandan: Chess and other passions"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Vesna Mihelic from Slovenia by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Thu, 24 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ...",
