@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his essay Christian Hesse - professor of mathematics and, no less importantly, a passionate lover of chess - brings together mathematical and chess problems that are complete and self-contained, problems that explain themselves and need no lengthy verbal instructions. Helmut Pfleger, grandmaster and medical researcher, tells us what he thinks of the subject.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words-3",
+         "pubDate" : "Fri, 25 Sep 2026 19:00:00",
+         "title" : "On the Superfluity of Words (3)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489331.cms\" />D Gukesh produced a crucial comeback win over Germany's Alexander Donchenko in Round 9, helping India stay in the Chess Olympiad gold medal race. India's men beat Germany 2.5-1.5, while Vantika Agrawal and Divya Deshmukh powered the women's team to victory. India's men trail Uzbekistan, while the women remain second behind leaders China with two rounds left.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
+         "pubDate" : "Fri, 25 Sep 2026 16:32:38",
+         "title" : "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Fri, 25 Sep 2026 11:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating the U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov, but the Nodirbeks won on boards o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
+         "pubDate" : "Fri, 25 Sep 2026 09:45:40",
+         "title" : "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points"
+      },
+      {
+         "description" : "They aren&#39;t playing in the Olympiad, but GMs Magnus Carlsen and Hikaru Nakamura both competed in the first 3 0 Thursday on September 24. Both players joined a tie atop the standings, with Carlsen taking first on tiebreaks, with help from a mouse s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-ashraf-3-0-thursday-09-24-2026",
+         "pubDate" : "Fri, 25 Sep 2026 09:42:41",
+         "title" : "Heartbreak For Minh Le, Victories For Carlsen, Maghsoodloo, Ashraf In 3 0 Thursday"
       },
       {
          "description" : "We have seen a lot of great performances at the Olympiad in Samarkand - many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after since their early teens deliver the goods. Like this batch, who have been surging. One has scored in absolutely record-breaking style. You'll never guess who.",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
          "pubDate" : "Fri, 25 Sep 2026 07:00:43",
          "title" : "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines"
+      },
+      {
+         "description" : "Team USA's shot at gold took a significant hit in the Open after today's 2&frac12;-1&frac12; loss against hosts Uzbekistan in Round 9. The women's team rebounded with a 3-1 victory over Canada. With 13/18 scores, both teams are tied for 11th entering the weekend's final two rounds. By winning out, podium finishes remain possible for both teams, provided other matches break favorably. Today's report focuses on Rounds 7 and 8 with insightful, instructive annotations from WGM Zoey Tang. Check back Monday for annotations on the final three rounds by GM Luka Budisavljevic. OpenIn Round 7, Team USA seemed on track for a win over Armenia thanks to GM Awonder Liang's triumphant return on Board 4. Af",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/46th-olympiad-two-tight-races-entering-final-weekend",
+         "pubDate" : "Fri, 25 Sep 2026 00:00:00",
+         "title" : "46th Olympiad: Two Tight Races Entering Final Weekend"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134466331.cms\" />Gukesh pushed hard but was held to a draw by Azerbaijan's Mahammad Muradli as India missed a chance to close the gap on the Chess Olympiad leaders. Uzbekistan and Germany lead the open section with 14 points. In the women's event, Savitha Shri extended her winning streak to seven, rescuing India against Kazakhstan and keeping their title hopes alive.",
@@ -514,14 +554,6 @@ news_feed (
          "title" : "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134282222.cms\" />The Chess Olympiad 2026 is underway in Samarkand, with India defending both Open and Women's titles won in 2024. The 11-round Swiss-system event features five-player teams, with four playing each round. Praggnanandhaa, Arjun, Nihal, Gukesh and Vidit form India's Open squad, while Humpy, Vaishali, Divya, Vantika and Savitha represent the women's team.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-indias-squads-schedule-format-and-all-you-need-to-know/articleshow/134282222.cms",
-         "pubDate" : "Wed, 16 Sep 2026 08:20:13",
-         "title" : "Chess Olympiad: India's squads, schedule, format and all you need to know"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277121.cms\" />From consoling a devastated Nihal Sarin after a cruel time loss to calling out India's accommodation mess in Samarkand, Srinath Narayanan has been the steady hand all around. The Gambits captain helped his GCL side bounce back to bronze, and now turns his focus to India's Chess Olympiad campaign, confident a young, tightly knit squad can deliver.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -602,28 +634,12 @@ news_feed (
          "title" : "USA in the Hunt Halfway Through 3rd FIDE Olympiad for People with Disabilities"
       },
       {
-         "description" : "Editor's note: Since becoming Digital Editor for Chess Life Online, I have dreamt of publishing more regular wrap-ups of the sorts of events that are eligible for our Plan Ahead Calendar (as well as invitational tournaments).Do you want coverage of your tournament on Chess Life Online for future reporting or wrap-ups?If so, email Click here to show email address with information of upcoming or recently concluded (i.e. within 1-2 weeks) events.For concluded tournaments, please include links to or screenshots of final standings, as well as links to DGT games or attached, transcribed game scores from 1-3 games of winners. Photos of the tournament and of winners is also a plus (cell phone photos",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-labor-day-weekend-wrap",
-         "pubDate" : "Mon, 14 Sep 2026 00:00:00",
-         "title" : "2026 Labor Day Weekend Wrap-Up"
-      },
-      {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
          "pubDate" : "Sun, 13 Sep 2026 22:09:00",
          "title" : "Clutch Chess: The Legends 2026 - Games and results"
-      },
-      {
-         "description" : "GM Veselin Topalov staved off a counterthrust from GM Garry Kasparov by winning both blitz games to win the 2026 Clutch Chess: The Legends Chess960 match at the end of the third and final day. In the final analysis, Topalov scored 11-1 in blitz ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
-         "pubDate" : "Sun, 13 Sep 2026 19:22:00",
-         "title" : "Blitz Skills Help Topalov Win Match With Big Bonus"
       },
       {
          "description" : " The Tech Mahindra Global Chess League took place in Bengaluru, India 5th-13th September 2026. 6 Teams played over 10 rounds in rapid (10m+2spm) chess. The winners were Ganges Grandmasters with Ian Nepomniachtchi as the Legend and Levon Aronian as their board 2. Magnus Carlsen's Alpine APL Pipers finished second after losing the final. Nepomniachtchi was allowed to escape a lost position against Magnus Carlsen and turned it round for a win. FYERS American Gambits finished in 3rd after beating CheQ Mumba Masters.",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
          "pubDate" : "Sun, 13 Sep 2026 17:20:00",
          "title" : "Legends and Prodigies II 2026 - Games and results"
-      },
-      {
-         "description" : "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
-         "pubDate" : "Sun, 13 Sep 2026 08:45:00",
-         "title" : "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters"
       },
       {
          "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
          "pubDate" : "Sat, 05 Sep 2026 06:00:16",
          "title" : "The European Senior Team Chess Championships - wins across the board!"
-      },
-      {
-         "description" : " The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
-         "pubDate" : "Fri, 4 Sep 2026 19:21:00",
-         "title" : "European Senior Team Championship 2026 - Games and results"
       }
    ]
 }
