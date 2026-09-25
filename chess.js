@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in Samarkand, Turlov talks about how his grandfather taught him the game, how his six children rekindled his enthusiasm for chess, why chess helps him in his work as an entrepreneur, and why he supports the game.",
+         "description" : "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2&frac12;-1&frac12; to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row. Eight teams now sit only one point behind, including China, India, the United States and the Netherlands. With three rounds remaining, the standings have tightened considerably ahead of another set of direct clashes among the leading teams. | Photo: Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
-         "pubDate" : "Thu, 24 Sep 2026 16:32:00",
-         "title" : "\"Chess is something magic\": An interview with Timur Turlov"
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-8",
+         "pubDate" : "Fri, 25 Sep 2026 08:30:00",
+         "title" : "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead"
+      },
+      {
+         "description" : " The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets<strong> </strong>in the remaining three rounds. England have lost twice, first to the No 2 seeds India, then in a shock against Uzbekistan's second team, while England women have performed well, with 11-year-old Bodhana Sivanandan beaten only once on top board. <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-sh",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
+         "pubDate" : "Fri, 25 Sep 2026 07:00:43",
+         "title" : "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134466331.cms\" />Gukesh pushed hard but was held to a draw by Azerbaijan's Mahammad Muradli as India missed a chance to close the gap on the Chess Olympiad leaders. Uzbekistan and Germany lead the open section with 14 points. In the women's event, Savitha Shri extended her winning streak to seven, rescuing India against Kazakhstan and keeping their title hopes alive.",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
          "pubDate" : "Thu, 24 Sep 2026 16:10:33",
          "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
+      },
+      {
+         "description" : "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England women's team, corresponding to an Elo performance of 2504. But when she spoke to Arne K&auml;hler, chess was not the only passion they discussed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
+         "pubDate" : "Thu, 24 Sep 2026 15:00:08",
+         "title" : "Bodhana Sivanandan: Chess and other passions"
       },
       {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Vesna Mihelic from Slovenia by Michal Walusza / FIDE",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
          "pubDate" : "Fri, 4 Sep 2026 12:55:00",
          "title" : "Season Four of the Tech Mahindra Global Chess League - Start"
-      },
-      {
-         "description" : " Fans would have preferred contest for world crown, but 20-minute Rapid games are still competitive substitute Magnus Carlsen, the world No 1, will be paired at least twice in the next few days with the world championship challenger, Uzbekistan's Javokhir Sindarov, in the Tech Mahindra Global Chess League, the six-team franchise competition based on cricket's Indian Premier League. In 2024 the Global League was staged in London, but this year it is back in India at Bengaluru (formerly Bangalore), India's technology capital, from 5-13 September, finishing two days before the 400-team chess Olympiad opens in Samarkand, Uzbekistan. <a href=\"https://www.theguardian.com/sport/2026/sep/04/magnus-c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/sep/04/magnus-carlsen-and-sindarov-to-meet-at-least-twice-in-ipl-styled-global-chess-league",
-         "pubDate" : "Fri, 04 Sep 2026 07:00:03",
-         "title" : "Magnus Carlsen and Sindarov to meet at least twice in IPL-styled Global Chess League"
       }
    ]
 }
