@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
          "pubDate" : "Fri, 4 Sep 2026 19:21:00",
          "title" : "European Senior Team Championship 2026 - Games and results"
-      },
-      {
-         "description" : " The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two finishers play for the title, the next two for 3rd-4th.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
-         "pubDate" : "Fri, 4 Sep 2026 12:55:00",
-         "title" : "Season Four of the Tech Mahindra Global Chess League - Start"
       }
    ]
 }
