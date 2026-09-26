@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Sat, 26 Sep 2026 11:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. Turlov is the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
+         "pubDate" : "Sat, 26 Sep 2026 03:50:00",
+         "title" : "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85"
+      },
+      {
          "description" : "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2&frac12;-1&frac12; in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did against China in round seven. India, Armenia and the over-achieving Uzbekistan 2 are one match point behind, the latter after a striking 3&frac12;-&frac12; victory over the Netherlands. Two rounds remain in Samarkand. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
          "pubDate" : "Fri, 25 Sep 2026 16:32:38",
          "title" : "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Fri, 25 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov on board two, but the Nodirbe...",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
          "pubDate" : "Mon, 14 Sep 2026 08:28:17",
          "title" : "ECF AGM - Call for nominations"
-      },
-      {
-         "description" : "No, it&#38;rsquo;s not an April Fool&#39;s. More than six years after Chess.com joked&#38;nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&#38;rsquo;s coldest continent. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
-         "pubDate" : "Mon, 14 Sep 2026 03:33:00",
-         "title" : "Chess To Be Played At The South Pole In Antarctica's 1st-Ever FIDE-Rated Tournament"
       },
       {
          "description" : "The 3rd FIDE Olympiad for People with Disabilities crossed the halfway mark today. After four rounds, Cuba leads with a perfect 8/8 team score (wins are worth two points, draws one, and losses zero). Poland and Czechia each trail the leader by a single match point with 7/8 scores.Team USA is currently tied for 10th with a 5/8 score. It's been a delight to follow this team so far. Every round has produced close, entertaining games replete with both tactical moments and tough strategic decisions. FM Sullivan McConnell, in particular, seems incapable of playing a boring game, and the resulting complications are a delight to try to keep up with. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
