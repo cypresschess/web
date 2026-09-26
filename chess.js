@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2&frac12;-1&frac12; in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did against China in round seven. India, Armenia and the over-achieving Uzbekistan 2 are one match point behind, the latter after a striking 3&frac12;-&frac12; victory over the Netherlands. Two rounds remain in Samarkand. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-9",
+         "pubDate" : "Sat, 26 Sep 2026 03:45:00",
+         "title" : "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489249.cms\" />China currently lead the women's Chess Olympiad in Samarkand despite missing its top three players. World No. 4 Zhu Jiner has emerged as the team's unbeaten Board 1, rebounding strongly from a difficult GCL campaign in Bengaluru. In an exclusive interaction with TimesofIndia.com, she reflects on India's chess passion, her journey into professional chess, and China's unexpected title challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-too-much-pressure-how-zhu-jiner-turned-struggles-in-india-into-taking-china-closer-to-chess-olympiad-gold-exclusive/articleshow/134489249.cms",
+         "pubDate" : "Sat, 26 Sep 2026 00:30:00",
+         "title" : "How Jiner turned struggles in India into taking China closer to Olympiad gold"
+      },
+      {
          "description" : "In his essay Christian Hesse - professor of mathematics and, no less importantly, a passionate lover of chess - brings together mathematical and chess problems that are complete and self-contained, problems that explain themselves and need no lengthy verbal instructions. Helmut Pfleger, grandmaster and medical researcher, tells us what he thinks of the subject.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
          "pubDate" : "Wed, 16 Sep 2026 11:29:32",
          "title" : "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277121.cms\" />From consoling a devastated Nihal Sarin after a cruel time loss to calling out India's accommodation mess in Samarkand, Srinath Narayanan has been the steady hand all around. The Gambits captain helped his GCL side bounce back to bronze, and now turns his focus to India's Chess Olympiad campaign, confident a young, tightly knit squad can deliver.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-uplifting-a-heartbroken-team-to-calling-out-hotel-mess-at-chess-olympiad-srinath-is-indias-man-to-count-on/articleshow/134277121.cms",
-         "pubDate" : "Wed, 16 Sep 2026 03:36:02",
-         "title" : "From uplifting team to calling out Olympiad mess: Srinath is India's man to count on"
       },
       {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
