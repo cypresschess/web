@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2026-09-25","57","<a href=https://ratings.uschess.org/event/202609250273 target='_blank'>Knights of Cypress</a>",
+"SUGAR LAND","2026-09-25","20","<a href=https://ratings.uschess.org/event/202609250253 target='_blank'>2026 FBCC Comic Book Day Open</a>",
 "HOUSTON","2026-09-19","37","<a href=https://ratings.uschess.org/event/202609190993 target='_blank'>HCA-CK Open Sept2026</a>",
 "HOUSTON","2026-09-19","8","<a href=https://ratings.uschess.org/event/202609190203 target='_blank'>chesspanda09192026saturday</a>",
 "CYPRESS","2026-09-18","43","<a href=https://ratings.uschess.org/event/202609180333 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "SPRING","2026-06-26","25","<a href=https://ratings.uschess.org/event/202606260203 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-06-21","17","<a href=https://ratings.uschess.org/event/202606210213 target='_blank'>Bellaire Sunday Swiss 2026.06.21</a>",
 "HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
-"HOUSTON","2026-06-20","6","<a href=https://ratings.uschess.org/event/202606200293 target='_blank'>chesspanda06262026saturday</a>",
-"HOUSTON","2026-06-19","10","<a href=https://ratings.uschess.org/event/202606190663 target='_blank'>Chess Kids Rocks- June 26</a>",
 ]);
