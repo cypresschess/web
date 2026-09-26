@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
+         "description" : "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored dominating 3.5-0.5 victories over Arm...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
+         "pubDate" : "Sat, 26 Sep 2026 09:42:00",
+         "title" : "Uzbekistan Maintains Lead, Pursued By India; China Continues To Lead Women's"
+      },
+      {
          "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
          "pubDate" : "Mon, 14 Sep 2026 16:57:00",
          "title" : "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe"
-      },
-      {
-         "description" : "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura&#39;s 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-sept-12",
-         "pubDate" : "Mon, 14 Sep 2026 14:38:40",
-         "title" : "Bullet King Nakamura Takes 66th Bullet Brawl Title"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
