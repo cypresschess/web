@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3&frac12;-&frac12; in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while Germany, Ukraine and Hungary are two points back. Ukraine will face the hosts directly on Sunday, with India meeting Hungary and Germany taking on the Netherlands. The decisive round will begin four hours earlier than usual, at 8.00 CEST. | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-10",
+         "pubDate" : "Sat, 26 Sep 2026 21:50:00",
+         "title" : "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India"
+      },
+      {
          "description" : "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan. Turlov won in the second round, with 110 votes. At 38, he becomes the second youngest FIDE President ever elected. | Picture: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
-         "pubDate" : "Sat, 26 Sep 2026 14:00:50",
+         "pubDate" : "Sat, 26 Sep 2026 15:05:00",
          "title" : "Timur Turlov elected President of FIDE"
       },
       {
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
          "pubDate" : "Sat, 26 Sep 2026 09:42:00",
-         "title" : "Uzbekistan Maintains Lead, Pursued By India; China Continues To Lead Women's"
+         "title" : "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan"
       },
       {
          "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid...",
