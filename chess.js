@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan. Turlov won in the second round, with 110 votes. At 38, he becomes the second youngest FIDE President ever elected. | Picture: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
+         "pubDate" : "Sat, 26 Sep 2026 14:00:50",
+         "title" : "Timur Turlov elected President of FIDE"
+      },
+      {
+         "description" : "Training in a game like position, under uncertainty, is essential for your chess improvement. That's really what drives a lot of improvement. The question is: how should you train it? What resources are out there? Real Chess Training is my way of doing it, but currently only out for 1500-2000 Chesscom Rapid players. 1000-1500 is []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/resources-to-improve-your-skills-for-all-levels/",
+         "pubDate" : "Sat, 26 Sep 2026 13:00:00",
+         "title" : "Resources to improve your skills for all levels"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. Turlov is the f...",
+         "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
@@ -696,22 +712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
          "pubDate" : "Sun, 06 Sep 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
-      },
-      {
-         "description" : "Scientists estimate there are 4.8 × 10⁴⁴ legal chess positions. That is 4.8 followed by 44 zeros. Yet the chessworld is flooded by opening courses and promises to \"just watch this and get better\". The promise that you can somehow learn all the opening moves, or never get in a position you feel unfamiliar with []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/how-to-learn-to-play-any-position-better/",
-         "pubDate" : "Sat, 05 Sep 2026 13:00:00",
-         "title" : "How to learn to play any position better"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece! The event took place from 26 August - 5 September at the Hotel Royal Belvedere in Hersonissos, gathering 32 teams and 150 players competing in two age categories: 50+ and 65+. Each tournament was played in 9 rounds, swiss system, with the classical time control, with the participation of legendary Grandmasters. England 1 clinched the title in the Open 50+ section, scoring convincing 17 match points (8 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/england-and-slovenia-win-european-senior-team-chess-championship-2026/",
-         "pubDate" : "Sat, 05 Sep 2026 12:01:54",
-         "title" : "England and Slovenia win European Senior Team Chess Championship 2026"
       }
    ]
 }
