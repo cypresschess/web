@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-and-slovenia-win-european-senior-team-chess-championship-2026/",
          "pubDate" : "Sat, 05 Sep 2026 12:01:54",
          "title" : "England and Slovenia win European Senior Team Chess Championship 2026"
-      },
-      {
-         "description" : "&#8212; from Nigel Povah England retain two European Senior Team Chess Titles! England retained two of the European titles (which they had won last year) in the European Senior Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-european-senior-team-chess-championships-2026-daily-reports/",
-         "pubDate" : "Sat, 05 Sep 2026 06:00:16",
-         "title" : "The European Senior Team Chess Championships - wins across the board!"
       }
    ]
 }
