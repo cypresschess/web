@@ -26,14 +26,6 @@ news_feed (
          "title" : "Resources to improve your skills for all levels"
       },
       {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Jan-Kzysztof Duda from Poland by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Sat, 26 Sep 2026 11:45:00",
-         "title" : "Chess Olympiad - Live!"
-      },
-      {
          "description" : "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored dominating 3.5-0.5 victories over Arm...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
