@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Alexandra Kosteniuk from Switzerland by Michal Walusza / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
+         "pubDate" : "Sun, 27 Sep 2026 07:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134513539.cms\" />India face a tense final day at the 2026 Chess Olympiad in Samarkand, with both defending champions still in gold-medal contention. The open team needs a win over Hungary and an Uzbekistan slip-up, while the women's team face a steeper route against Georgia. Gukesh and Savitha Shri remain in individual medal contention.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-can-india-retain-their-gold-medals-on-final-day-in-samarkand/articleshow/134513539.cms",
+         "pubDate" : "Sun, 27 Sep 2026 03:48:52",
+         "title" : "Chess Olympiad 2026: Can India retain their gold medals on final day?"
+      },
+      {
          "description" : "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3&frac12;-&frac12; in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while Germany, Ukraine and Hungary are two points back. Ukraine will face the hosts directly on Sunday, with India meeting Hungary and Germany taking on the Netherlands. The decisive round will begin four hours earlier than usual, at 8.00 CEST. | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Team USA Finishes 4th with Strong Finish at 3rd Olympiad for People with Disabilites"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134291730.cms\" />In a bold move reflecting its political stance, Pakistan forfeited its opening match at the FIDE World Chess Olympiad, demonstrating solidarity with the Palestinian people by adhering to its policy of non-recognition of Israel. As a result, Israel clinched a default victory with a score of four-zero in the Open section. Despite this setback, Pakistan remains eligible to participate in the upcoming rounds of the Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistan-hand-israel-4-0-win-after-refusing-to-play-at-fide-world-chess-olympiad/articleshow/134291730.cms",
-         "pubDate" : "Wed, 16 Sep 2026 16:06:55",
-         "title" : "Pakistan hand Israel 4-0 win after refusing to play at FIDE World Chess Olympiad"
-      },
-      {
          "description" : "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap&#39;s win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan&#39;s ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
          "pubDate" : "Fri, 11 Sep 2026 07:00:04",
          "title" : "Chess: Uzbekistan favourites for Olympiad but ageing England given gloomy outlook"
-      },
-      {
-         "description" : "ChessBase&acute;26 is amazingly versatile and often surprisingly user-friendly - as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the \"Folders\" window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we'll show you how to activate the window (in case it's been disabled) and what you can view and work with there.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
-         "pubDate" : "Sun, 06 Sep 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, part 30: Use \"Folders\""
       }
    ]
 }
