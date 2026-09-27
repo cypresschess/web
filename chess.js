@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024-2026 cycle. Honours went to players, teams, tournaments, federations, creators and social initiatives, with recipients including Yagiz Kaan Erdogmus, Levon Aronian, India's Open and Women's teams and ChessBase India. The remaining Best Chess Player awards will be presented separately at the Olympiad closing ceremony. | Photos: KNZO Photography",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
+         "pubDate" : "Sun, 27 Sep 2026 15:00:00",
+         "title" : "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134520444.cms\" />India secured a memorable double podium at the Chess Olympiad in Samarkand. Savitha Shri's resilient 83-move draw sealed bronze for the women, while Arjun Erigaisi's dramatic late victory helped the open team win silver on tiebreak. Uzbekistan took open gold and China won women's gold. India also claimed the Gaprindashvili Cup for the best combined performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms",
+         "pubDate" : "Sun, 27 Sep 2026 12:49:38",
+         "title" : "Chess Olympiad: Savitha heroics bring medal; Arjun helps India bag Open silver"
+      },
+      {
          "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Alexandra Kosteniuk from Switzerland by Michal Walusza / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
          "pubDate" : "Sun, 27 Sep 2026 07:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cham...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
+         "pubDate" : "Sun, 27 Sep 2026 05:19:00",
+         "title" : "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134513539.cms\" />India face a tense final day at the 2026 Chess Olympiad in Samarkand, with both defending champions still in gold-medal contention. The open team needs a win over Hungary and an Uzbekistan slip-up, while the women's team face a steeper route against Georgia. Gukesh and Savitha Shri remain in individual medal contention.",
@@ -570,14 +594,6 @@ news_feed (
          "title" : "'Four main favourites': France's MVL says India are not the only Olympiad contenders"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134300656.cms\" />FIDE has apologised after accommodation problems disrupted the opening day of the 2026 Chess Olympiad in Samarkand, leaving some teams without proper lodging. The governing body said affected federations will be reimbursed for suitable accommodation for up to three days, while teams staying in substandard official hotels will receive compensation. India was among the contingents affected.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/deeply-regrets-fide-apologises-over-chess-olympiad-lodging-crisis-assures-teams-of-compensation/articleshow/134300656.cms",
-         "pubDate" : "Thu, 17 Sep 2026 03:37:22",
-         "title" : "'Deeply regrets': FIDE apologises over Chess Olympiad lodging crisis"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134298445.cms\" />India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
          "pubDate" : "Tue, 15 Sep 2026 08:51:00",
          "title" : "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72"
-      },
-      {
-         "description" : "The FIDE Ethics &#38;amp; Disciplinary Commission has handed a two-year ban to a minor after he was caught with a mobile phone hidden inside his shoe during a tournament in Slovenia. The phone had the game position open on Chess.com. The five-page de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
-         "pubDate" : "Mon, 14 Sep 2026 16:57:00",
-         "title" : "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
