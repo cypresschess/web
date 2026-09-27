@@ -1,4 +1,6 @@
 jtable([
+"TOMBALL","2026-09-26","6","<a href=https://ratings.uschess.org/event/202609260773 target='_blank'>Tomball Class B Round Robin</a>",
+"HOUSTON","2026-09-26","10","<a href=https://ratings.uschess.org/event/202609260313 target='_blank'>chesspanda09262026saturday</a>",
 "CYPRESS","2026-09-25","57","<a href=https://ratings.uschess.org/event/202609250273 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-09-25","20","<a href=https://ratings.uschess.org/event/202609250253 target='_blank'>2026 FBCC Comic Book Day Open</a>",
 "HOUSTON","2026-09-19","37","<a href=https://ratings.uschess.org/event/202609190993 target='_blank'>HCA-CK Open Sept2026</a>",
@@ -97,6 +99,4 @@ jtable([
 "SUGAR LAND","2026-06-26","28","<a href=https://ratings.uschess.org/event/202606260293 target='_blank'>FBCC Harry Potter and the Philosopher’s Stone Open</a>",
 "CYPRESS","2026-06-26","46","<a href=https://ratings.uschess.org/event/202606260273 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-06-26","25","<a href=https://ratings.uschess.org/event/202606260203 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2026-06-21","17","<a href=https://ratings.uschess.org/event/202606210213 target='_blank'>Bellaire Sunday Swiss 2026.06.21</a>",
-"HOUSTON","2026-06-20","41","<a href=https://ratings.uschess.org/event/202606200483 target='_blank'>CCUH June Scholastic and Collegiate</a>",
 ]);
