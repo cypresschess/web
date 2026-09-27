@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2&frac12;-1&frac12; in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000 after beating the Netherlands. Nodirbek Abdusattorov won individual gold on board one, Frederik Svane repeated his individual success (also gold) from 2024, while Hungary's Gleb Dudin finished with five consecutive wins. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-11",
+         "pubDate" : "Sun, 27 Sep 2026 22:50:00",
+         "title" : "Uzbekistan triumph on home soil, collect second Olympiad gold"
+      },
+      {
          "description" : "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024-2026 cycle. Honours went to players, teams, tournaments, federations, creators and social initiatives, with recipients including Yagiz Kaan Erdogmus, Levon Aronian, India's Open and Women's teams and ChessBase India. The remaining Best Chess Player awards will be presented separately at the Olympiad closing ceremony. | Photos: KNZO Photography",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cham...",
+         "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
