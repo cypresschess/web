@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3-1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with Poland, while India drew with Georgia. As a result, Kazakhstan's 18 points were enough for second place, while India took third on tiebreak ahead of the United States, Poland, Armenia and Mongolia, all of whom finished on 17 points. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
+         "pubDate" : "Mon, 28 Sep 2026 09:00:00",
+         "title" : "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium"
+      },
+      {
+         "description" : "The ECU Annual Academy training programme commences on Monday, 16th of November 2026 and will run until the 27th of April 2027 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A - for players rated 1900+, and B - for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2026-2027/",
+         "pubDate" : "Mon, 28 Sep 2026 05:34:26",
+         "title" : "ECU Annual Academy training programme 2026/2027"
+      },
+      {
          "description" : "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2&frac12;-1&frac12; in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000 after beating the Netherlands. Nodirbek Abdusattorov won individual gold on board one, Frederik Svane repeated his individual success (also gold) from 2024, while Hungary's Gleb Dudin finished with five consecutive wins. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
