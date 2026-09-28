@@ -1,8 +1,13 @@
 jtable([
+"KATY","2026-09-27","37","<a href=https://ratings.uschess.org/event/202609270673 target='_blank'>Katy Kids Chess Monthly Rated Begin</a>",
+"HOUSTON","2026-09-27","16","<a href=https://ratings.uschess.org/event/202609270433 target='_blank'>Bellaire Sunday Swiss 2026.09.27</a>",
+"HOUSTON","2026-09-27","6","<a href=https://ratings.uschess.org/event/202609270243 target='_blank'>SEPT 27th  SUNDAY SWISS</a>",
+"HOUSTON","2026-09-26","214","<a href=https://ratings.uschess.org/event/202609261103 target='_blank'>Impact Leadership Academy Scholasti</a>",
 "TOMBALL","2026-09-26","6","<a href=https://ratings.uschess.org/event/202609260773 target='_blank'>Tomball Class B Round Robin</a>",
 "HOUSTON","2026-09-26","10","<a href=https://ratings.uschess.org/event/202609260313 target='_blank'>chesspanda09262026saturday</a>",
 "CYPRESS","2026-09-25","57","<a href=https://ratings.uschess.org/event/202609250273 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-09-25","20","<a href=https://ratings.uschess.org/event/202609250253 target='_blank'>2026 FBCC Comic Book Day Open</a>",
+"HOUSTON","2026-09-20","4","<a href=https://ratings.uschess.org/event/202609200853 target='_blank'>SEPT 20th  SUNDAY SWISS</a>",
 "HOUSTON","2026-09-19","37","<a href=https://ratings.uschess.org/event/202609190993 target='_blank'>HCA-CK Open Sept2026</a>",
 "HOUSTON","2026-09-19","8","<a href=https://ratings.uschess.org/event/202609190203 target='_blank'>chesspanda09192026saturday</a>",
 "CYPRESS","2026-09-18","43","<a href=https://ratings.uschess.org/event/202609180333 target='_blank'>Knights of Cypress</a>",
@@ -94,9 +99,4 @@ jtable([
 "HOUSTON","2026-06-30","18","<a href=https://ratings.uschess.org/event/202606300393 target='_blank'>JUNE TUE NITE SWISS 2026</a>",
 "KATY","2026-06-28","28","<a href=https://ratings.uschess.org/event/202606280873 target='_blank'>Katy Kids Chess</a>",
 "HOUSTON","2026-06-28","19","<a href=https://ratings.uschess.org/event/202606280283 target='_blank'>Bellaire Sunday Swiss 2026.06.28</a>",
-"HOUSTON","2026-06-28","6","<a href=https://ratings.uschess.org/event/202606280163 target='_blank'>June 28TH- SUNDAY SWISS for Beginne</a>",
-"HOUSTON","2026-06-27","2","<a href=https://ratings.uschess.org/event/202606270233 target='_blank'>chesspanda06272026saturdayMATCH</a>",
-"SUGAR LAND","2026-06-26","28","<a href=https://ratings.uschess.org/event/202606260293 target='_blank'>FBCC Harry Potter and the Philosopher’s Stone Open</a>",
-"CYPRESS","2026-06-26","46","<a href=https://ratings.uschess.org/event/202606260273 target='_blank'>Knights of Cypress</a>",
-"SPRING","2026-06-26","25","<a href=https://ratings.uschess.org/event/202606260203 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
