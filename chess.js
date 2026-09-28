@@ -10,6 +10,14 @@ news_feed (
          "title" : "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium"
       },
       {
+         "description" : "GMs Levon Aronian,&#38;nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
+         "pubDate" : "Mon, 28 Sep 2026 07:08:56",
+         "title" : "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field"
+      },
+      {
          "description" : "The ECU Annual Academy training programme commences on Monday, 16th of November 2026 and will run until the 27th of April 2027 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A - for players rated 1900+, and B - for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ecf-resources-for-chess-clubs/",
          "pubDate" : "Tue, 15 Sep 2026 13:48:56",
          "title" : "New ECF resources for chess clubs"
-      },
-      {
-         "description" : "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&#38;nbsp; The Greek Chess Federation and the International Chess Federation (...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
-         "pubDate" : "Tue, 15 Sep 2026 08:51:00",
-         "title" : "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
