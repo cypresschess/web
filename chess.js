@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
+         "pubDate" : "Mon, 28 Sep 2026 18:00:00",
+         "title" : "XTX London Chess Classic returns"
+      },
+      {
          "description" : "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3-1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with Poland, while India drew with Georgia. As a result, Kazakhstan's 18 points were enough for second place, while India took third on tiebreak ahead of the United States, Poland, Armenia and Mongolia, all of whom finished on 17 points. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
