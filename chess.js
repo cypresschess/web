@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026.",
+         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside the LCC Festival at London Novotel West in Hammersmith.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
          "pubDate" : "Mon, 28 Sep 2026 18:00:00",
          "title" : "XTX London Chess Classic returns"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
+         "pubDate" : "Mon, 28 Sep 2026 13:28:00",
+         "title" : "Nakamura Completes Bullet Brawl Hat Trick"
       },
       {
          "description" : "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3-1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with Poland, while India drew with Georgia. As a result, Kazakhstan's 18 points were enough for second place, while India took third on tiebreak ahead of the United States, Poland, Armenia and Mongolia, all of whom finished on 17 points. | Photo: Nils Rohde / ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-annual-academy-training-programme-2026-2027/",
          "pubDate" : "Mon, 28 Sep 2026 05:34:26",
          "title" : "ECU Annual Academy training programme 2026/2027"
+      },
+      {
+         "description" : "<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Scenes from the closing ceremony in Samarkand. (Photos courtesy FIDE/Rafal Oleksiewicz)<br> <br> Both American teams finished one spot short of the podium when the 46th FIDE Chess Olympiad came to an end Sunday afternoon in Samarkand, Uzbekistan. Uzbekistan won its second gold (in four years) in the Open, finishing two points ahead of India and Germany. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The winning Uzbekistan 1 team. (Photo courtesy FIDE/Michal Walusza)<br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/46th-olympiad-usa-4th-both-sections-medals-yip-lee-and-aronian",
+         "pubDate" : "Mon, 28 Sep 2026 00:00:00",
+         "title" : "46th Olympiad: USA 4th in Both Sections, Medals for Yip, Lee, and Aronian"
       },
       {
          "description" : "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2&frac12;-1&frac12; in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000 after beating the Netherlands. Nodirbek Abdusattorov won individual gold on board one, Frederik Svane repeated his individual success (also gold) from 2024, while Hungary's Gleb Dudin finished with five consecutive wins. | Photo: Nils Rohde / ChessBase",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
       },
       {
-         "description" : "GM Sina Movahed claimed his third&#38;nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
-         "pubDate" : "Tue, 15 Sep 2026 14:22:02",
-         "title" : "Sina Movahed Again In Titled Tuesday"
-      },
-      {
          "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
          "pubDate" : "Mon, 14 Sep 2026 08:28:17",
          "title" : "ECF AGM - Call for nominations"
-      },
-      {
-         "description" : "The 3rd FIDE Olympiad for People with Disabilities crossed the halfway mark today. After four rounds, Cuba leads with a perfect 8/8 team score (wins are worth two points, draws one, and losses zero). Poland and Czechia each trail the leader by a single match point with 7/8 scores.Team USA is currently tied for 10th with a 5/8 score. It's been a delight to follow this team so far. Every round has produced close, entertaining games replete with both tactical moments and tough strategic decisions. FM Sullivan McConnell, in particular, seems incapable of playing a boring game, and the resulting complications are a delight to try to keep up with. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/usa-hunt-halfway-through-3rd-fide-olympiad-people-disabilities",
-         "pubDate" : "Mon, 14 Sep 2026 00:00:00",
-         "title" : "USA in the Hunt Halfway Through 3rd FIDE Olympiad for People with Disabilities"
       },
       {
          "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
