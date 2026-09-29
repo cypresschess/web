@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hanna-sayce-story-online-world",
+         "pubDate" : "Tue, 29 Sep 2026 05:05:00",
+         "title" : "The dark side of the online world: Hanna Sayce's story"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
+         "pubDate" : "Tue, 29 Sep 2026 02:05:22",
+         "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
+      },
+      {
          "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside the LCC Festival at London Novotel West in Hammersmith.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-information/",
          "pubDate" : "Thu, 17 Sep 2026 07:51:50",
          "title" : "Press information"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134302682.cms\" />France opened their Chess Olympiad campaign with a 4-0 win over Tunisia, but top board Maxime Vachier-Lagrave remains realistic about his team's chances. In an exclusive interaction, MVL named USA, India, China and Uzbekistan as the favourites. The French star also reflected on his three-decade chess journey, handling setbacks, his love for the game and his recent time in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/were-nowhere-near-favourites-frances-maxime-vachier-lagrave-names-india-among-chess-olympiad-contenders/articleshow/134302682.cms",
-         "pubDate" : "Thu, 17 Sep 2026 05:58:44",
-         "title" : "'Four main favourites': France's MVL says India are not the only Olympiad contenders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134298445.cms\" />India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
