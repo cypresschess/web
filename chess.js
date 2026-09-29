@@ -10,6 +10,22 @@ news_feed (
          "title" : "Bodhana Sivanandan: Youngest-Ever WGM at 11"
       },
       {
+         "description" : "Uzbekistan&#39;s victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
+         "pubDate" : "Tue, 29 Sep 2026 10:39:00",
+         "title" : "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions"
+      },
+      {
+         "description" : "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division&#39;s opening round. Texas Tech defeated three-time league champions the University of Missouri ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
+         "pubDate" : "Tue, 29 Sep 2026 10:34:00",
+         "title" : "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins"
+      },
+      {
          "description" : "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what this win means to them. Do not miss what the newly crowned champions had to say! | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
          "pubDate" : "Tue, 29 Sep 2026 09:37:38",
          "title" : "Vincent Keymer: Relaxed, light-hearted and funny"
+      },
+      {
+         "description" : "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chessup-lite",
+         "pubDate" : "Tue, 29 Sep 2026 09:00:00",
+         "title" : "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board"
       },
       {
          "description" : "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&#38;rsquo;re a chess player. Every rating point you&#38;rsquo;ve earned, every puzzle you&#38;rsquo;ve solved, and every game you&#38;rsquo;ve played is part o...",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "Find Local Chess Clubs Near You With Chess.com's New Feature"
       },
       {
-         "description" : "Chess is hitting the big screen. Grandmasters, the new chess film following the dramatic tides and incredible characters of top-level chess, is showing in 90+ AMC theaters across the United States on October 11 and 14. For the first time, you can ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-grandmasters-theatrical-release",
-         "pubDate" : "Fri, 18 Sep 2026 08:00:00",
-         "title" : "Tickets Now On Sale For 'Grandmasters' As Film Hits U.S. Theaters On October 11 & 14"
-      },
-      {
          "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his 70s, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. <a hre",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results"
       },
       {
-         "description" : "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn&#39;t smooth sailing, as Uzbekistan, the United States, India, the Netherland...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
-         "pubDate" : "Thu, 17 Sep 2026 09:21:00",
-         "title" : "Gukesh Drops Under 2700 As India Beats Indonesia"
-      },
-      {
          "description" : "After questions have been received, concerning publications in social media, ECU clarifies that there is no any decision to endorse any candidate for the upcoming FIDE elections. The European Chess Union remains instutitionally neutral committed to serving all 54 member federations.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/team-usa-finishes-4th-strong-finish-3rd-olympiad-people-disabilites",
          "pubDate" : "Thu, 17 Sep 2026 00:00:00",
          "title" : "Team USA Finishes 4th with Strong Finish at 3rd Olympiad for People with Disabilites"
-      },
-      {
-         "description" : "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap&#39;s win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-         "pubDate" : "Wed, 16 Sep 2026 15:10:00",
-         "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
       },
       {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
