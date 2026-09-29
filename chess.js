@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Continental Stage of the FIDE ISCF World Schools Team Championship has begun in Tsaghkadzor, Armenia, with 27 school teams from 25 countries competing for places in the December Grand Final. After two rounds, five teams remain on maximum match points, with Gymnasium No. 50 of Minsk leading on game points. The opening day also featured messages from the previous continental champions and an Armenian carpet-weaving workshop.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wstc-2026-european-stage-start",
+         "pubDate" : "Tue, 29 Sep 2026 23:50:00",
+         "title" : "WSTC 2026 European Stage begins in Tsaghkadzor"
+      },
+      {
          "description" : "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandmaster (WGM) in history. | Photo: Rafal Oleksiewicz/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
          "pubDate" : "Tue, 29 Sep 2026 02:05:22",
          "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
+      },
+      {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. passport-holders from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-puerto-rico-46th-olympiad",
+         "pubDate" : "Tue, 29 Sep 2026 00:00:00",
+         "title" : "Tactics Tuesday: Puerto Rico at 46th Olympiad"
       },
       {
          "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside the LCC Festival at London Novotel West in Hammersmith.",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
          "pubDate" : "Thu, 17 Sep 2026 02:07:43",
          "title" : "Chess Olympiad: How Arjun Erigaisi suffered Rd 1 upset against lower-rated opponent"
-      },
-      {
-         "description" : "Team USA notched its best finish yet at the 3rd FIDE Olympiad for People with Disabilities. After pairings against eventual podium finishers in the second and third round, the American team was tied for 10th place after Round 4. From there, USA delivered a 5/6 score across the final three rounds to finish in fourth place with a 10/14 score, improving on last year's tie for sixth place. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Team USA (from left) - Sullivan McConnell, Celine Atassi, Griffin McConnell, Pranav Shankar, Jordan Timm, and their families. (Photos courtesy US Chess)<br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/team-usa-finishes-4th-strong-finish-3rd-olympiad-people-disabilites",
-         "pubDate" : "Thu, 17 Sep 2026 00:00:00",
-         "title" : "Team USA Finishes 4th with Strong Finish at 3rd Olympiad for People with Disabilites"
       },
       {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
