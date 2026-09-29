@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandmaster (WGM) in history. | Photo: Rafal Oleksiewicz/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
+         "pubDate" : "Tue, 29 Sep 2026 11:25:31",
+         "title" : "Bodhana Sivanandan: Youngest-Ever WGM at 11"
+      },
+      {
+         "description" : "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what this win means to them. Do not miss what the newly crowned champions had to say! | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
+         "pubDate" : "Tue, 29 Sep 2026 10:00:00",
+         "title" : "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\""
+      },
+      {
+         "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
+         "pubDate" : "Tue, 29 Sep 2026 09:38:57",
+         "title" : "Uzbekistan and China win the 46th Chess Olympiad"
+      },
+      {
+         "description" : "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany's first team medal since silver in Istanbul in 2000. But after the final round, Keymer took time for a short interview with Arne K&auml;hler and handled his not entirely serious questions with ease and humour - while also revealing quite a bit about his likes and dislikes, both in chess and away from the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
+         "pubDate" : "Tue, 29 Sep 2026 09:37:38",
+         "title" : "Vincent Keymer: Relaxed, light-hearted and funny"
+      },
+      {
          "description" : "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
