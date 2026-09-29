@@ -34,6 +34,14 @@ news_feed (
          "title" : "Vincent Keymer: Relaxed, light-hearted and funny"
       },
       {
+         "description" : "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&#38;rsquo;re a chess player. Every rating point you&#38;rsquo;ve earned, every puzzle you&#38;rsquo;ve solved, and every game you&#38;rsquo;ve played is part o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
+         "pubDate" : "Tue, 29 Sep 2026 06:00:00",
+         "title" : "New Feature: Add Your Chess.com Stats To LinkedIn"
+      },
+      {
          "description" : "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +418,7 @@ news_feed (
          "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
       },
       {
-         "description" : "Both USA teams enter Tuesday's rest day after a tough couple of rounds, with the Open team tied for fourth at 10/12 and the Women's team tied for 14th at 9/12. But, with five rounds remaining, there's still a lot of time to gain ground. Today's report features detailed and entertaining analysis from IM Jason Liang, who is coming off a share of first place in the 126th U.S. Open. Open In Round 5, Germany defeated USA 2&frac12;-1&frac12; on Sunday thanks to three draws and GM Frederik Svane's win against GM Hans Niemann on Board 3. After an unforced knight trade on move 13, Niemann's remaining pieces became cramped as his clock ticked away. Rather than play patiently, Niemann went on the offen",
+         "description" : "Both USA teams enter Tuesday's rest day after a tough couple of rounds, with the Open team tied for fourth at 10/12 and the Women's team tied for 14th at 9/12. But, with five rounds remaining, there's still a lot of time to gain ground. Today's report features detailed and entertaining analysis from GM Jason Liang, who is coming off a share of first place in the 126th U.S. Open. Open In Round 5, Germany defeated USA 2&frac12;-1&frac12; on Sunday thanks to three draws and GM Frederik Svane's win against GM Hans Niemann on Board 3. After an unforced knight trade on move 13, Niemann's remaining pieces became cramped as his clock ticked away. Rather than play patiently, Niemann went on the offen",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/46th-olympiad-now-fun-starts",
@@ -471,7 +479,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
          "pubDate" : "Mon, 21 Sep 2026 08:00:00",
-         "title" : "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30"
+         "title" : "How To Play The Chess Club Showdown, Starting September 30"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
          "pubDate" : "Wed, 16 Sep 2026 15:10:00",
          "title" : "Thai IM Upsets Indian Number-2 As Favorites Prevail"
-      },
-      {
-         "description" : "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a &#34;pretty significant favorite&#34; and warning that the match could &#34;get a little bit ugly&#34; if Gukesh falls behind early.&#38;nbsp; The worl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
-         "pubDate" : "Wed, 16 Sep 2026 11:29:32",
-         "title" : "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh"
       },
       {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
