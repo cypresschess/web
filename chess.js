@@ -18,6 +18,14 @@ news_feed (
          "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
       },
       {
+         "description" : "The 13th World Chess Champion Garry Kasparov was warned by U.S. authorities this summer that he was the target of a plot to kill him and was placed under special protection, according to Spanish newspaper El Mundo, citing a source close to the for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
+         "pubDate" : "Wed, 30 Sep 2026 12:16:09",
+         "title" : "Garry Kasparov Reportedly Warned Of Alleged Russian Assassination Plot In U.S."
+      },
+      {
          "description" : "Arne K&auml;hler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. Arne then visits the press area and the game zone before meeting a special guest at the ChessBase stand - elite grandmaster Levon Aronian! | Photo: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
          "pubDate" : "Wed, 30 Sep 2026 07:18:10",
          "title" : "European Senior Team Chess Championship 2027 - Official invitation"
+      },
+      {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-puerto-rico-46th-olympiad",
+         "pubDate" : "Wed, 30 Sep 2026 00:00:00",
+         "title" : "Wednesday Workout: Puerto Rico at 46th Olympiad"
       },
       {
          "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
       },
       {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. passport-holders from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-puerto-rico-46th-olympiad",
@@ -474,28 +490,12 @@ news_feed (
          "title" : "Olympiad R4: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
       },
       {
-         "description" : "Team USA suffered its first match loss in the Open today, losing 1&frac12;-2&frac12; to Germany when GM Frederik Svane defeated GM Hans Niemann on Board 3 and GM Wesley So was unable to crack GM Matthias Bluebaum's fortress on Board 2. In the Women's event, USA also conceded its first point of the event but managed to hold onto a 2-2 tie against Uzbekistan when IM Alice Lee defeated former teammate IM Gulrukhbegim Tokhirjonova on Board 2 to neutralize IM Carissa Yip's loss against WGM Afruza Khamdamova on the top board.Today's report covers rounds three and four, featuring excellent and instructive analysis from FM Andy Lee. Tuesday's report will focus on rounds five and six with analysis by",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/46th-olympiad-usa-perfect-after-round-4",
-         "pubDate" : "Sun, 20 Sep 2026 00:00:00",
-         "title" : "46th Olympiad: USA Perfect After Round 4"
-      },
-      {
          "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
          "pubDate" : "Sat, 19 Sep 2026 13:00:00",
          "title" : "Fixing your skill gap: step by step"
-      },
-      {
-         "description" : "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.&#39;s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
-         "pubDate" : "Sat, 19 Sep 2026 09:28:00",
-         "title" : "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
