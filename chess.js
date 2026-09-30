@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
+         "pubDate" : "Wed, 30 Sep 2026 07:18:10",
+         "title" : "European Senior Team Chess Championship 2027 - Official invitation"
+      },
+      {
          "description" : "The European Continental Stage of the FIDE ISCF World Schools Team Championship has begun in Tsaghkadzor, Armenia, with 27 school teams from 25 countries competing for places in the December Grand Final. After two rounds, five teams remain on maximum match points, with Gymnasium No. 50 of Minsk leading on game points. The opening day also featured messages from the previous continental champions and an Armenian carpet-weaving workshop.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wstc-2026-european-stage-start",
          "pubDate" : "Tue, 29 Sep 2026 23:50:00",
          "title" : "WSTC 2026 European Stage begins in Tsaghkadzor"
+      },
+      {
+         "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
+         "pubDate" : "Tue, 29 Sep 2026 23:03:34",
+         "title" : "Wesley Sews Up First Titled Tuesday Of 2026"
       },
       {
          "description" : "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandmaster (WGM) in history. | Photo: Rafal Oleksiewicz/FIDE",
@@ -74,12 +90,12 @@ news_feed (
          "title" : "New Feature: Add Your Chess.com Stats To LinkedIn"
       },
       {
-         "description" : "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
+         "description" : "Over the past four years, Australian chess streamer Hannah Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hanna-sayce-story-online-world",
          "pubDate" : "Tue, 29 Sep 2026 05:05:00",
-         "title" : "The dark side of the online world: Hanna Sayce's story"
+         "title" : "The dark side of the online world: Hannah Sayce's story"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-statement-on-fide-congress/",
          "pubDate" : "Fri, 18 Sep 2026 11:23:47",
          "title" : "ECU Board statement on FIDE Congress"
-      },
-      {
-         "description" : "Playing chess online is great, but meeting new people and playing chess in real life is, too! Now, you can easily find physical chess clubs near you right here on our Local Clubs page. Club owners can also get their club verified and listed as an ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-local-clubs",
-         "pubDate" : "Fri, 18 Sep 2026 09:00:00",
-         "title" : "Find Local Chess Clubs Near You With Chess.com's New Feature"
       },
       {
          "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his 70s, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. <a hre",
