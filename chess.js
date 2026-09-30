@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arne K&auml;hler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. Arne then visits the press area and the game zone before meeting a special guest at the ChessBase stand - elite grandmaster Levon Aronian! | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-inside-the-expo",
+         "pubDate" : "Wed, 30 Sep 2026 10:00:00",
+         "title" : "Behind the scenes in Samarkand: Inside the Expo"
+      },
+      {
+         "description" : "Greetings all! Putting on my ECF Manager of Coaches hat I have been asked by Gerry Walsh if there are any coaches out there who would like to coach blind...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/coaching-blind-players/",
+         "pubDate" : "Wed, 30 Sep 2026 08:21:32",
+         "title" : "Coaching blind players"
+      },
+      {
          "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
