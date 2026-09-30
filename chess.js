@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
+         "pubDate" : "Wed, 30 Sep 2026 17:00:00",
+         "title" : "Turlov: Chess is massively undervalued"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unrealistic-to-win-gold-every-single-time-captain-srinath-narayanan-after-indias-chess-olympiad-silver-exclusive/articleshow/134593973.cms",
+         "pubDate" : "Wed, 30 Sep 2026 12:24:59",
+         "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
+      },
+      {
          "description" : "Arne K&auml;hler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. Arne then visits the press area and the game zone before meeting a special guest at the ChessBase stand - elite grandmaster Levon Aronian! | Photo: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Coaching blind players"
       },
       {
+         "description" : "British chess sensation FM Bodhana Sivanandan has made history again. The 11-year-old completed the requirements for the Woman Grandmaster title at the 46th Women&#39;s Chess Olympiad in Samarkand, Uzbekistan, becoming the youngest player ever to do s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
+         "pubDate" : "Wed, 30 Sep 2026 07:21:00",
+         "title" : "Bodhana Sivanandan, 11, Becomes Youngest-Ever WGM, Scores Second IM Norm"
+      },
+      {
          "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,28 +50,12 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2027 - Official invitation"
       },
       {
-         "description" : "The European Continental Stage of the FIDE ISCF World Schools Team Championship has begun in Tsaghkadzor, Armenia, with 27 school teams from 25 countries competing for places in the December Grand Final. After two rounds, five teams remain on maximum match points, with Gymnasium No. 50 of Minsk leading on game points. The opening day also featured messages from the previous continental champions and an Armenian carpet-weaving workshop.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wstc-2026-european-stage-start",
-         "pubDate" : "Tue, 29 Sep 2026 23:50:00",
-         "title" : "WSTC 2026 European Stage begins in Tsaghkadzor"
-      },
-      {
          "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
          "pubDate" : "Tue, 29 Sep 2026 23:03:34",
          "title" : "Wesley Sews Up First Titled Tuesday Of 2026"
-      },
-      {
-         "description" : "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandmaster (WGM) in history. | Photo: Rafal Oleksiewicz/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
-         "pubDate" : "Tue, 29 Sep 2026 11:25:31",
-         "title" : "Bodhana Sivanandan: Youngest-Ever WGM at 11"
       },
       {
          "description" : "Uzbekistan&#39;s victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also...",
@@ -66,28 +74,12 @@ news_feed (
          "title" : "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins"
       },
       {
-         "description" : "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what this win means to them. Do not miss what the newly crowned champions had to say! | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
-         "pubDate" : "Tue, 29 Sep 2026 10:00:00",
-         "title" : "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\""
-      },
-      {
          "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
          "pubDate" : "Tue, 29 Sep 2026 09:38:57",
          "title" : "Uzbekistan and China win the 46th Chess Olympiad"
-      },
-      {
-         "description" : "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany's first team medal since silver in Istanbul in 2000. But after the final round, Keymer took time for a short interview with Arne K&auml;hler and handled his not entirely serious questions with ease and humour - while also revealing quite a bit about his likes and dislikes, both in chess and away from the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
-         "pubDate" : "Tue, 29 Sep 2026 09:37:38",
-         "title" : "Vincent Keymer: Relaxed, light-hearted and funny"
       },
       {
          "description" : "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ...",
@@ -106,14 +98,6 @@ news_feed (
          "title" : "New Feature: Add Your Chess.com Stats To LinkedIn"
       },
       {
-         "description" : "Over the past four years, Australian chess streamer Hannah Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hanna-sayce-story-online-world",
-         "pubDate" : "Tue, 29 Sep 2026 05:05:00",
-         "title" : "The dark side of the online world: Hannah Sayce's story"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -130,12 +114,12 @@ news_feed (
          "title" : "Tactics Tuesday: Puerto Rico at 46th Olympiad"
       },
       {
-         "description" : "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside the LCC Festival at London Novotel West in Hammersmith.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
-         "pubDate" : "Mon, 28 Sep 2026 18:00:00",
-         "title" : "XTX London Chess Classic returns"
+         "description" : "All US Chess Correspondence Chess (CC) players should be aware that a revised set of US Chess CC Rules come into effect on October 1, 2026. Once effective, the revisions will apply immediately to all ongoing events as well as any new events. The revised rules can be viewed in full at https://new.uschess.org/correspondence-chess/rules.The recent Delegates Meeting at the 2026 U.S. Open approved a major overhaul of Chapter 9 of the US Chess Rulebook. These rules, effective October 1, 2026, supersede previous versions and apply to all US Chess Correspondence Chess rated tournaments.Repeats will now be sent after 16 days instead of two weeks. Time complaints, after a repeat, are now submitted to ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/correspondence-chess-rules-updates-effective-10-1-2026",
+         "pubDate" : "Tue, 29 Sep 2026 00:00:00",
+         "title" : "Correspondence Chess Rules Updates (Effective 10-1-2026)"
       },
       {
          "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
@@ -144,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
          "pubDate" : "Mon, 28 Sep 2026 13:28:00",
          "title" : "Nakamura Completes Bullet Brawl Hat Trick"
-      },
-      {
-         "description" : "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3-1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with Poland, while India drew with Georgia. As a result, Kazakhstan's 18 points were enough for second place, while India took third on tiebreak ahead of the United States, Poland, Armenia and Mongolia, all of whom finished on 17 points. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
-         "pubDate" : "Mon, 28 Sep 2026 09:00:00",
-         "title" : "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium"
       },
       {
          "description" : "GMs Levon Aronian,&#38;nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v...",
@@ -178,36 +154,12 @@ news_feed (
          "title" : "46th Olympiad: USA 4th in Both Sections, Medals for Yip, Lee, and Aronian"
       },
       {
-         "description" : "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2&frac12;-1&frac12; in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000 after beating the Netherlands. Nodirbek Abdusattorov won individual gold on board one, Frederik Svane repeated his individual success (also gold) from 2024, while Hungary's Gleb Dudin finished with five consecutive wins. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-11",
-         "pubDate" : "Sun, 27 Sep 2026 22:50:00",
-         "title" : "Uzbekistan triumph on home soil, collect second Olympiad gold"
-      },
-      {
-         "description" : "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024-2026 cycle. Honours went to players, teams, tournaments, federations, creators and social initiatives, with recipients including Yagiz Kaan Erdogmus, Levon Aronian, India's Open and Women's teams and ChessBase India. The remaining Best Chess Player awards will be presented separately at the Olympiad closing ceremony. | Photos: KNZO Photography",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
-         "pubDate" : "Sun, 27 Sep 2026 15:00:00",
-         "title" : "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134520444.cms\" />India secured a memorable double podium at the Chess Olympiad in Samarkand. Savitha Shri's resilient 83-move draw sealed bronze for the women, while Arjun Erigaisi's dramatic late victory helped the open team win silver on tiebreak. Uzbekistan took open gold and China won women's gold. India also claimed the Gaprindashvili Cup for the best combined performance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms",
          "pubDate" : "Sun, 27 Sep 2026 12:49:38",
          "title" : "Chess Olympiad: Savitha heroics bring medal; Arjun helps India bag Open silver"
-      },
-      {
-         "description" : "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST) | Pictured: Alexandra Kosteniuk from Switzerland by Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-live",
-         "pubDate" : "Sun, 27 Sep 2026 07:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha...",
@@ -224,22 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-can-india-retain-their-gold-medals-on-final-day-in-samarkand/articleshow/134513539.cms",
          "pubDate" : "Sun, 27 Sep 2026 03:48:52",
          "title" : "Chess Olympiad 2026: Can India retain their gold medals on final day?"
-      },
-      {
-         "description" : "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3&frac12;-&frac12; in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while Germany, Ukraine and Hungary are two points back. Ukraine will face the hosts directly on Sunday, with India meeting Hungary and Germany taking on the Netherlands. The decisive round will begin four hours earlier than usual, at 8.00 CEST. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-10",
-         "pubDate" : "Sat, 26 Sep 2026 21:50:00",
-         "title" : "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India"
-      },
-      {
-         "description" : "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan. Turlov won in the second round, with 110 votes. At 38, he becomes the second youngest FIDE President ever elected. | Picture: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
-         "pubDate" : "Sat, 26 Sep 2026 15:05:00",
-         "title" : "Timur Turlov elected President of FIDE"
       },
       {
          "description" : "Training in a game like position, under uncertainty, is essential for your chess improvement. That's really what drives a lot of improvement. The question is: how should you train it? What resources are out there? Real Chess Training is my way of doing it, but currently only out for 1500-2000 Chesscom Rapid players. 1000-1500 is []",
@@ -266,28 +202,12 @@ news_feed (
          "title" : "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85"
       },
       {
-         "description" : "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2&frac12;-1&frac12; in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did against China in round seven. India, Armenia and the over-achieving Uzbekistan 2 are one match point behind, the latter after a striking 3&frac12;-&frac12; victory over the Netherlands. Two rounds remain in Samarkand. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-9",
-         "pubDate" : "Sat, 26 Sep 2026 03:45:00",
-         "title" : "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489249.cms\" />China currently lead the women's Chess Olympiad in Samarkand despite missing its top three players. World No. 4 Zhu Jiner has emerged as the team's unbeaten Board 1, rebounding strongly from a difficult GCL campaign in Bengaluru. In an exclusive interaction with TimesofIndia.com, she reflects on India's chess passion, her journey into professional chess, and China's unexpected title challenge.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-too-much-pressure-how-zhu-jiner-turned-struggles-in-india-into-taking-china-closer-to-chess-olympiad-gold-exclusive/articleshow/134489249.cms",
          "pubDate" : "Sat, 26 Sep 2026 00:30:00",
          "title" : "How Jiner turned struggles in India into taking China closer to Olympiad gold"
-      },
-      {
-         "description" : "In his essay Christian Hesse - professor of mathematics and, no less importantly, a passionate lover of chess - brings together mathematical and chess problems that are complete and self-contained, problems that explain themselves and need no lengthy verbal instructions. Helmut Pfleger, grandmaster and medical researcher, tells us what he thinks of the subject.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-superfluity-of-words-3",
-         "pubDate" : "Fri, 25 Sep 2026 19:00:00",
-         "title" : "On the Superfluity of Words (3)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489331.cms\" />D Gukesh produced a crucial comeback win over Germany's Alexander Donchenko in Round 9, helping India stay in the Chess Olympiad gold medal race. India's men beat Germany 2.5-1.5, while Vantika Agrawal and Divya Deshmukh powered the women's team to victory. India's men trail Uzbekistan, while the women remain second behind leaders China with two rounds left.",
@@ -314,22 +234,6 @@ news_feed (
          "title" : "Heartbreak For Minh Le, Victories For Carlsen, Maghsoodloo, Ashraf In 3 0 Thursday"
       },
       {
-         "description" : "We have seen a lot of great performances at the Olympiad in Samarkand - many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after since their early teens deliver the goods. Like this batch, who have been surging. One has scored in absolutely record-breaking style. You'll never guess who.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
-         "pubDate" : "Fri, 25 Sep 2026 09:30:00",
-         "title" : "7/7 points, rating performance 2955!"
-      },
-      {
-         "description" : "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2&frac12;-1&frac12; to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row. Eight teams now sit only one point behind, including China, India, the United States and the Netherlands. With three rounds remaining, the standings have tightened considerably ahead of another set of direct clashes among the leading teams. | Photo: Michal Walusza / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-8",
-         "pubDate" : "Fri, 25 Sep 2026 08:30:00",
-         "title" : "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead"
-      },
-      {
          "description" : " The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets<strong> </strong>in the remaining three rounds. England have lost twice, first to the No 2 seeds India, then in a shock against Uzbekistan's second team, while England women have performed well, with 11-year-old Bodhana Sivanandan beaten only once on top board. <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-sh",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -354,14 +258,6 @@ news_feed (
          "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
       },
       {
-         "description" : "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England women's team, corresponding to an Elo performance of 2504. But when she spoke to Arne K&auml;hler, chess was not the only passion they discussed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
-         "pubDate" : "Thu, 24 Sep 2026 15:00:08",
-         "title" : "Bodhana Sivanandan: Chess and other passions"
-      },
-      {
          "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -370,36 +266,12 @@ news_feed (
          "title" : "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India"
       },
       {
-         "description" : "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3-1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on every individual board. Armenia, India, Germany, the Netherlands and Azerbaijan form the chasing group. On Wednesday, Armenia drew the United States, while the remaining four chasers all won their round-seven encounters. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-7",
-         "pubDate" : "Thu, 24 Sep 2026 03:55:00",
-         "title" : "Samarkand R7 (open): Uzbekistan continue dominating run, extend lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134449255.cms\" />India's open team stayed in contention for a Chess Olympiad medal after beating England 2.5-1.5, but Uzbekistan's perfect run has made the gold race increasingly difficult. Meanwhile, the women's team strengthened their title hopes with a dominant 3.5-0.5 win over Germany, led by Savitha Shri's sixth straight victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms",
          "pubDate" : "Thu, 24 Sep 2026 02:33:15",
          "title" : "Olympiad R7: India's gold chances get bleaker despite win in open; women still in hunt"
-      },
-      {
-         "description" : "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features reactions to the forthcoming ChessBase for Mac, behind-the-scenes work by the team, new guests in the \"Off the Board\" interview series and the celebrations that follow a victory by the Uzbek team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-vlog-2",
-         "pubDate" : "Wed, 23 Sep 2026 21:30:00",
-         "title" : "Behind the scenes in Samarkand: The playing hall"
-      },
-      {
-         "description" : "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining the lineup. The FIDE-approved event, scheduled for 10-20 November, will combine Fast Classic, Rapid and Blitz in a single competition and serve as the pilot for the global Total Chess World Championship Tour launching in 2027.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
-         "pubDate" : "Wed, 23 Sep 2026 20:30:00",
-         "title" : "Total Chess World Championship Tour announces six more stars for pilot"
       },
       {
          "description" : "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b...",
@@ -442,36 +314,12 @@ news_feed (
          "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
       },
       {
-         "description" : "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2&frac12;-1&frac12;, while China beat Poland 3&frac12;-&frac12; after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3-1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
-         "pubDate" : "Tue, 22 Sep 2026 08:50:00",
-         "title" : "Samarkand R6 (women): China and Kazakhstan remain perfect"
-      },
-      {
-         "description" : "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2&frac12;-1&frac12; in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. China and Armenia moved into joint second on 11/12 match points after beating Germany and Iran, respectively. Uzbekistan, China and Armenia remain unbeaten on individual boards. | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
-         "pubDate" : "Tue, 22 Sep 2026 08:15:00",
-         "title" : "Samarkand R6 (open): Uzbekistan beat India to take the sole lead"
-      },
-      {
          "description" : "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&#38;mdash;and a whole new set of tactics&#38;mdash;this tournament will ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
          "pubDate" : "Tue, 22 Sep 2026 08:02:40",
          "title" : "Chess.com Seirawan Chess Championship Starts September 30"
-      },
-      {
-         "description" : "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading experts on Fischer. He recently published a new book on the 1972 World Champion, \"Inside the Mind of Bobby Fischer\". In the interview, Donaldson talks about his research, previously unknown material and how he views Fischer after years of studying his life and work.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
-         "pubDate" : "Tue, 22 Sep 2026 07:39:22",
-         "title" : "John Donaldson: New insights into Bobby Fischer"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401161.cms\" />Grandmaster Alexei Shirov has proposed that the chess world consider adopting a system similar to tennis for its World Champion title. His suggestion comes at a pivotal time following D Gukesh's historic win over Ding Liren, making him the youngest undisputed world champion. Shirov's remarks are part of a larger discussion about the current relevance and representation of the classical world title in chess.",
@@ -666,22 +514,6 @@ news_feed (
          "title" : "Olympiad R3: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
       },
       {
-         "description" : "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
-         "pubDate" : "Fri, 18 Sep 2026 13:06:00",
-         "title" : "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's"
-      },
-      {
-         "description" : "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
-         "pubDate" : "Fri, 18 Sep 2026 12:02:38",
-         "title" : "Dominant Starts For Ashraf, Sarana, Xiong, Bring 3 0 Thursday Wins"
-      },
-      {
          "description" : "&#8220;While fully supporting all necessary efforts to resolve the visa issues as quickly as possible and to ensure the participation of all eligible delegates, the European Chess Union does not support the postponement of the FIDE Congress and believes that such a step could have serious consequences for the observation of FIDE Charter and FIDE credibility.&#8221;",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -714,14 +546,6 @@ news_feed (
          "title" : "Olympiad R2: How Nihal saved India's day amid Gukesh's historic drop in rating points"
       },
       {
-         "description" : "Both American teams currently boast 6/6 scores after three rounds of the 11-round 46th FIDE Chess Olympiad. Of the 205 teams competing in the Open, just 21 remain unblemished. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> From left: Captain John Donaldson, Levon Aronian, Hans Niemann, Wesley So, and Awonder Liang. (Photo courtesy US Chess)<br> <br> <br> <br> In the women's event, 20 out of the 186 teams in the women's event have still yet to concede a match point. Moreover, with 11 wins and only one draw out of 12 games, the Women's team boasts the best tiebreaks in the field so far. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/46th-olympiad-both-american-teams-start-strong",
-         "pubDate" : "Fri, 18 Sep 2026 00:00:00",
-         "title" : "46th Olympiad: Both American Teams Start Strong"
-      },
-      {
          "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -744,14 +568,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-information/",
          "pubDate" : "Thu, 17 Sep 2026 07:51:50",
          "title" : "Press information"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134298445.cms\" />India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
-         "pubDate" : "Thu, 17 Sep 2026 02:07:43",
-         "title" : "Chess Olympiad: How Arjun Erigaisi suffered Rd 1 upset against lower-rated opponent"
       },
       {
          "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
