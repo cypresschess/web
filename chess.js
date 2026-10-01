@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women's and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
+         "pubDate" : "Thu, 01 Oct 2026 09:26:25",
+         "title" : "Greatest Olympiad Underdogs - The Underdog"
+      },
+      {
+         "description" : "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a two-hour arena of five-minut...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
+         "pubDate" : "Thu, 01 Oct 2026 01:37:00",
+         "title" : "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown"
+      },
+      {
          "description" : "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
       },
       {
-         "description" : "The 13th World Chess Champion Garry Kasparov was warned by U.S. authorities this summer that he was the target of a plot to kill him and was placed under special protection, according to Spanish newspaper El Mundo, citing a source close to the for...",
+         "description" : "The 13th World Chess Champion Garry Kasparov says security services in the U.S. warned him and a fellow Russian opposition figure that their lives were in danger and that they should take precautions. His statement comes one day after a report by ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
-         "pubDate" : "Wed, 30 Sep 2026 12:16:09",
-         "title" : "Garry Kasparov Reportedly Warned Of Alleged Russian Assassination Plot In U.S."
+         "pubDate" : "Wed, 30 Sep 2026 12:16:00",
+         "title" : "Garry Kasparov Confirms Security Warnings After Report Of Russian Assassination Plot"
       },
       {
          "description" : "Arne K&auml;hler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. Arne then visits the press area and the game zone before meeting a special guest at the ChessBase stand - elite grandmaster Levon Aronian! | Photo: ChessBase",
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-opens-2026-2027-title-i-school-outreach-program-affiliates-serving-risk-youth",
          "pubDate" : "Mon, 21 Sep 2026 00:00:00",
          "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
-      },
-      {
-         "description" : "GM Frederik Svane&#39;s win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
-         "pubDate" : "Sun, 20 Sep 2026 09:14:00",
-         "title" : "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women"
       },
       {
          "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
