@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice Lee of the United States is now the top-ranked female junior.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2026",
+         "pubDate" : "Thu, 01 Oct 2026 16:16:09",
+         "title" : "FIDE Ratings - October 2026"
+      },
+      {
+         "description" : " London schoolgirl's father taught her to play when she was five, and three years later she beat former British champion Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinary challenges of c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
+         "pubDate" : "Thu, 01 Oct 2026 14:00:52",
+         "title" : "'I do it because I like it': Bodhana Sivanandan, 11, on being youngest ever 'woman grandmaster'"
+      },
+      {
          "description" : "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women's and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
