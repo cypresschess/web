@@ -5,6 +5,7 @@ jtable([
 "HOUSTON","2026-09-26","214","<a href=https://ratings.uschess.org/event/202609261103 target='_blank'>Impact Leadership Academy Scholasti</a>",
 "TOMBALL","2026-09-26","6","<a href=https://ratings.uschess.org/event/202609260773 target='_blank'>Tomball Class B Round Robin</a>",
 "HOUSTON","2026-09-26","10","<a href=https://ratings.uschess.org/event/202609260313 target='_blank'>chesspanda09262026saturday</a>",
+"SPRING","2026-09-25","23","<a href=https://ratings.uschess.org/event/202609250463 target='_blank'>The Friday Knights</a>",
 "CYPRESS","2026-09-25","57","<a href=https://ratings.uschess.org/event/202609250273 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-09-25","20","<a href=https://ratings.uschess.org/event/202609250253 target='_blank'>2026 FBCC Comic Book Day Open</a>",
 "HOUSTON","2026-09-20","4","<a href=https://ratings.uschess.org/event/202609200853 target='_blank'>SEPT 20th  SUNDAY SWISS</a>",
@@ -98,5 +99,4 @@ jtable([
 "CYPRESS","2026-07-03","31","<a href=https://ratings.uschess.org/event/202607030143 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-06-30","18","<a href=https://ratings.uschess.org/event/202606300393 target='_blank'>JUNE TUE NITE SWISS 2026</a>",
 "KATY","2026-06-28","28","<a href=https://ratings.uschess.org/event/202606280873 target='_blank'>Katy Kids Chess</a>",
-"HOUSTON","2026-06-28","19","<a href=https://ratings.uschess.org/event/202606280283 target='_blank'>Bellaire Sunday Swiss 2026.06.28</a>",
 ]);
