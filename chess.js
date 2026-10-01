@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were arrested at the border on their return and placed under house arrest. They could potentially face severe punishment.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
+         "pubDate" : "Thu, 01 Oct 2026 21:00:00",
+         "title" : "Afghan Olympiad participants arrested after returning home"
+      },
+      {
+         "description" : "Arne K&auml;hler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan-Ukraine and India-Hungary in the last round, a blitz game against seven-year-old Uzbek talent Mukhammadyusuf Bakhramov, scenes from the press room, a chat with Frederik Svane from Germany and Konstantin Peyrer from Austria, and highlights from the closing ceremony. | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
+         "pubDate" : "Thu, 01 Oct 2026 19:00:00",
+         "title" : "Behind the scenes in Samarkand: The Olympiad comes to a close"
+      },
+      {
          "description" : "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice Lee of the United States is now the top-ranked female junior.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "FIDE Ratings - October 2026"
       },
       {
-         "description" : " London schoolgirl's father taught her to play when she was five, and three years later she beat former British champion Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinary challenges of c",
+         "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
          "pubDate" : "Thu, 01 Oct 2026 14:00:52",
-         "title" : "'I do it because I like it': Bodhana Sivanandan, 11, on being youngest ever 'woman grandmaster'"
+         "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
       },
       {
          "description" : "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women's and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight.",
@@ -26,12 +42,36 @@ news_feed (
          "title" : "Greatest Olympiad Underdogs - The Underdog"
       },
       {
+         "description" : "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/october-2026-fide-rating-list",
+         "pubDate" : "Thu, 01 Oct 2026 08:56:00",
+         "title" : "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List"
+      },
+      {
+         "description" : "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
+         "pubDate" : "Thu, 01 Oct 2026 08:40:00",
+         "title" : "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report"
+      },
+      {
          "description" : "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a two-hour arena of five-minut...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
          "pubDate" : "Thu, 01 Oct 2026 01:37:00",
          "title" : "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown"
+      },
+      {
+         "description" : "US Chess is pleased to announce the recipients of the 2026-2027 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Ryan Cai, San Diego, CA, attending Yale UniversityKevin Flores, Palmview, TX, attending University of Texas Rio Grande ValleyJessica Lee, Mountain Lakes, NJ, attending Lehigh UniversityAustin McMurtrie, Hinckley, IL, attending Northern Illinois UniversityIn addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated events.Dr. Jacklyn wished for his gift to assi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-herbert-b-jacklyn-program-recipients-announced",
+         "pubDate" : "Thu, 01 Oct 2026 00:00:00",
+         "title" : "2026 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description.",
@@ -434,22 +474,6 @@ news_feed (
          "title" : "Nakamura Makes It Back-To-Back Bullet Brawls"
       },
       {
-         "description" : "Think you can take down an NFL receiver at chess? Now&#38;rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&#38;rsquo;s bot is rated 14...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
-         "pubDate" : "Mon, 21 Sep 2026 09:00:00",
-         "title" : "Play Chess Against NFL Star Mack Hollins"
-      },
-      {
-         "description" : "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-         "pubDate" : "Mon, 21 Sep 2026 08:00:00",
-         "title" : "How To Play The Chess Club Showdown, Starting September 30"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -478,14 +502,6 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/Title-I",
-         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
-         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-opens-2026-2027-title-i-school-outreach-program-affiliates-serving-risk-youth",
          "pubDate" : "Mon, 21 Sep 2026 00:00:00",
          "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
