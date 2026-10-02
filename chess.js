@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Host nation won having led almost from start to finish, while young English player reached a stunning landmark Uzbekistan, the host nation, won the open gold medals at the 2026 Olympiad, the biennial chess international team tournament, at Samarkand last week in the style of the legendary Soviet grandmasters of long ago. India, the defending champions, were second, Germany a surprise third, and the top-seeded United States fourth. The hosts led almost from start to finish, with world No 5 Nodirbek Abdusattorov and the world title challenger Javokhir Sindarov their top-board powerhouses. The team recovered swiftly from a single defeat by Germany, and were particularly impressive in crushing ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record",
+         "pubDate" : "Fri, 02 Oct 2026 07:00:14",
+         "title" : "Uzbekistan dominates chess Olympiad while England's Sivanandan, 11, sets new world age record"
+      },
+      {
          "description" : "The 2026 U.S. and U.S. Women's Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will defend his U.S. title against a field including Wesley So, Hans Niemann and Levon Aronian, while Carissa Yip heads the women's event alongside Alice Lee, Irina Krush and Rose Atwell. | Photo: Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/25-years-ago-chessbase-news",
          "pubDate" : "Sat, 12 Sep 2026 08:00:00",
          "title" : "25 years ago  -  ChessBase news"
-      },
-      {
-         "description" : " England Open squad have internal tensions but the women's team blend rising talent with experience Uzbekistan, the host nation, are the favourites to win the 208-team <a href=\"https://chessolympiad2026.fide.com/teams_open\">biennial chess Olympiad in Samarkand</a>, which has its opening ceremony on Tuesday, and its first round (of 11) on Wednesday. The defending champions, India, China and the US are Uzbekistan's most dangerous rivals. India would have been the open Olympiad favourites but for the shaky form of the world champion, the 20-year-old Gukesh Dommaraju, who was the top board gold medallist in Budapest two years ago but is likely to play lower down the order in Samarkand. USA are l",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/sep/11/chess-uzbekistan-favourites-olympiad-england-face-fight-top-15-spot",
-         "pubDate" : "Fri, 11 Sep 2026 07:00:04",
-         "title" : "Chess: Uzbekistan favourites for Olympiad but ageing England given gloomy outlook"
       }
    ]
 }
