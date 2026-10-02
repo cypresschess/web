@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 U.S. and U.S. Women's Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will defend his U.S. title against a field including Wesley So, Hans Niemann and Levon Aronian, while Carissa Yip heads the women's event alongside Alice Lee, Irina Krush and Rose Atwell. | Photo: Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-announcement",
+         "pubDate" : "Fri, 02 Oct 2026 02:00:00",
+         "title" : "Knight to October 8: Saint Louis to host America's chess elite"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134622703.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After kicking things off with Srinath Narayanan and India's silver-winning Open team, we turn to Swayams Mishra, captain of the bronze-winning women's team. In an exclusive interaction, the 34-year-old opens up about his first full stint as captain, the difficult decision-making around Vaishali, Savitha Shri's match-winning impact, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/if-india-won-a-medal-we-owe-it-to-her-captain-swayams-mishra-on-savitha-shris-chess-olympiad-heroics-exclusive/articleshow/134622703.cms",
+         "pubDate" : "Fri, 02 Oct 2026 00:30:00",
+         "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
+      },
+      {
          "description" : "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were arrested at the border on their return and placed under house arrest. They could potentially face severe punishment.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
          "pubDate" : "Fri, 18 Sep 2026 07:00:13",
          "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134326830.cms\" />Pakistan refused to play Israel in the opening round of the 2026 Chess Olympiad in Samarkand, handing Israel a 4-0 walkover. Pakistan's chess federation said the decision followed the government's policy of not recognising Israel and was also meant to show solidarity with Palestinians. Officials stressed the boycott was about state policy, not the players or sporting spirit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nothing-against-sportsman-spirit-pakistan-explain-decision-to-boycott-israel-at-chess-olympiad/articleshow/134326830.cms",
-         "pubDate" : "Fri, 18 Sep 2026 06:10:53",
-         "title" : "'Nothing against sportsman spirit': Pakistan explain decision to boycott Israel"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134324435.cms\" />Gukesh slipped below 2700 after a draw with Indonesia's Satria Duta Cahaya, his first such drop since 2022. With three boards drawn, Nihal Sarin rescued India with a dramatic win over Arif Abdul Hafiz, featuring a bold rook sacrifice. India won 2.5-1.5. The women's team beat Finland 3.5-0.5 and will face Greece next. The men's team will take on Italy.",
