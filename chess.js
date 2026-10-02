@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE rankings. A three-time British champion, Speelman also played a major role in England's Olympiad successes and later became well known for his work as a chess author, analyst and columnist. Happy birthday! | Photos: British Chess News / Gennadiy Titkov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-speelman-70th-birthday",
+         "pubDate" : "Fri, 02 Oct 2026 14:00:00",
+         "title" : "Jon Speelman at 70: A leading figure of English chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134640893.cms\" />Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-in-chess-there-are-just-these-blind-spots-nihal-sarin-looks-back-at-his-chess-olympiad-loss-to-uzbekistan-exclusive/articleshow/134640893.cms",
+         "pubDate" : "Fri, 02 Oct 2026 13:35:01",
+         "title" : "'Sometimes there are blind spots': Nihal Sarin looks back at Chess Olympiad loss"
+      },
+      {
          "description" : "Russia is hardly known for treating people in general, and political opponents in particular, with restraint. Lithuanian and US security services have now uncovered an alleged network of Russian operatives and saboteurs said to have been preparing attacks on Russian exiles. One of the reported targets: Garry Kasparov. | Photo: Kasparov.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon-2",
          "pubDate" : "Fri, 02 Oct 2026 10:00:00",
          "title" : "Nepo has dragon problems - The Monthly Dragon"
+      },
+      {
+         "description" : "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December&#39;s knockout finals, which will award one qualification sp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
+         "pubDate" : "Fri, 02 Oct 2026 08:00:00",
+         "title" : "Freestyle Friday Returns With World Championship Spots On The Line"
       },
       {
          "description" : " Host nation won having led almost from start to finish, while young English player reached a stunning landmark Uzbekistan, the host nation, won the open gold medals at the 2026 Olympiad, the biennial chess international team tournament, at Samarkand last week in the style of the legendary Soviet grandmasters of long ago. India, the defending champions, were second, Germany a surprise third, and the top-seeded United States fourth. The hosts led almost from start to finish, with world No 5 Nodirbek Abdusattorov and the world title challenger Javokhir Sindarov their top-board powerhouses. The team recovered swiftly from a single defeat by Germany, and were particularly impressive in crushing ",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
       },
       {
-         "description" : "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura&#39;s second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
-         "pubDate" : "Mon, 21 Sep 2026 12:22:00",
-         "title" : "Nakamura Makes It Back-To-Back Bullet Brawls"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
          "pubDate" : "Sat, 19 Sep 2026 13:00:00",
          "title" : "Fixing your skill gap: step by step"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134348479.cms\" />World champion D Gukesh said Arjun Erigaisi's shock opening-round loss was partly influenced by India's hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India's decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team's chances.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-all-waited-for-like-6-hours-to-get-a-room-d-gukesh-explains-why-arjun-erigaisi-lost-in-chess-olympiad-round-1-game/articleshow/134348479.cms",
-         "pubDate" : "Sat, 19 Sep 2026 05:52:18",
-         "title" : "'We waited for like 6 hrs to get a room': Gukesh on why Arjun lost Round 1 game"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134346470.cms\" />Koneru Humpy avenged her recent Global Chess League setbacks against Greece's Stavroula Tsolakidou, helping India's women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy's Sabino Brunello after slipping below 2700. India won the open tie 3-1, while both teams continued their strong starts to the tournament.",
