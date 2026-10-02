@@ -82,6 +82,14 @@ news_feed (
          "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
       },
       {
+         "description" : "Check is in the Mail October 2026A recent issue of US Chess's new newsletter, \"The Key,\" featured a Chessable course on the Sicilian Kan by FIDE Master Vjekoslav Nemec and Jonathan \"JJ\" Lang - our Digital Editor. Let's see what this opening is all about! (Editor's note: I couldn't help myself, so I annotated these games in a bit more detail. - JJL)The Sicilian Defense: Kan Variation is a flexible and solid chess opening for Black that begins with the moves 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6.Unlike forcing, heavily theoretical lines of the Sicilian like the Najdorf or Dragon, the Kan focuses on elastic principles, fluid piece placement, and long-term strategic ideas rather than memorizi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-october-2026-all-about-kan",
+         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
+         "title" : "Check is in the Mail October 2026: All About the Kan"
+      },
+      {
          "description" : "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were arrested at the border on their return and placed under house arrest. They could potentially face severe punishment.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -566,14 +574,6 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/Title-I-2026",
-         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
-         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/Title-I",
          "pubDate" : "Mon, 21 Sep 2026 00:00:00",
          "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
