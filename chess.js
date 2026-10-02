@@ -82,6 +82,22 @@ news_feed (
          "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
       },
       {
+         "description" : "IA/IO Carlos Chavez is the Executive Directors of the storied Marshall Chess Club in Manhattan, NY. Last month, he traveled to Samarkand, Uzbekistan to work as a Match Arbiter for the 3rd FIDE Olympiad for People with Disabilities. He documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. Review all of Chess Life Online's coverage from Samarkand here.Empowerment, accessibility, diversity, equity, and inclusion were not only words spoken but principles put into practice at the 3rd FIDE Chess Olympiad for Players with Disabilities. I had the privilege of serving as a match arbiter at this hist",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/arbiters-perspective-3rd-fide-chess-olympiad-players-disabilities",
+         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
+         "title" : "An Arbiter's Perspective: 3rd FIDE Chess Olympiad for Players with Disabilities"
+      },
+      {
+         "description" : "Take a peek at the US Chess list of working committees. How many groups do you recognize? These committees keep our federation's wheels greased. Some of these volunteer groups are higher-profile than others, but all serve essential functions. The Rules Committee is probably a lot more recognizable by wood-pushers than the Awards Committee, for example. The Audit Committee, plus the Finance &amp; Reserve Fund Committee, plays with greenbacks so that we all have the opportunity to be 64 square chess generals. The Ethics Committee deals with the moral principles, integrity, codes, and values we ascribe to when wood is pushed. Committee work takes dedication and often some special expertise: The",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-us-chess-committees",
+         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
+         "title" : "Just the Rules: US Chess Committees"
+      },
+      {
          "description" : "Check is in the Mail October 2026A recent issue of US Chess's new newsletter, \"The Key,\" featured a Chessable course on the Sicilian Kan by FIDE Master Vjekoslav Nemec and Jonathan \"JJ\" Lang - our Digital Editor. Let's see what this opening is all about! (Editor's note: I couldn't help myself, so I annotated these games in a bit more detail. - JJL)The Sicilian Defense: Kan Variation is a flexible and solid chess opening for Black that begins with the moves 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6.Unlike forcing, heavily theoretical lines of the Sicilian like the Najdorf or Dragon, the Kan focuses on elastic principles, fluid piece placement, and long-term strategic ideas rather than memorizi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -560,22 +576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
          "pubDate" : "Mon, 21 Sep 2026 02:35:52",
          "title" : "Olympiad R5: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses"
-      },
-      {
-         "description" : "The US Chess server will be undergoing planned maintenance during the day on Tuesday, September 22, starting at 8 a.m. CDT, and likely continuing through much of the day. The systems will appear back online as soon as the maintenance is complete.The website will be taken offline during this time, and it will display an image and message similar to the one below. There will be wording to the effect of \"Site under maintenance\" and \"Server maintenance in progress, please check back soon.\"This will be affecting both the main website (uschess.org) as well as the MUIR website (ratings.uschess.org). Access will be completely restricted: no login, member file editing, nor tournament report access wi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/notice-planned-server-maintenance-september-22",
-         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
-         "title" : "Notice of Planned Server Maintenance on September 22"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2026-2027 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either as part of the school day or as an afters",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/Title-I-2026",
-         "pubDate" : "Mon, 21 Sep 2026 00:00:00",
-         "title" : "US Chess Opens 2026-2027 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
          "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
