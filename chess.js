@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russia is hardly known for treating people in general, and political opponents in particular, with restraint. Lithuanian and US security services have now uncovered an alleged network of Russian operatives and saboteurs said to have been preparing attacks on Russian exiles. One of the reported targets: Garry Kasparov. | Photo: Kasparov.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
+         "pubDate" : "Fri, 02 Oct 2026 11:54:31",
+         "title" : "Is Russia plotting to kill Kasparov?"
+      },
+      {
+         "description" : " Have you been watching football, chess, cricket, rugby, motor racing, hockey, boxing, table tennis and horse racing? <a href=\"https://www.theguardian.com/sport/2026/oct/02/sports-quiz-football-chess-cricket-rugby-f1-hockey-boxing-table-tennis-horse-racing\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/02/sports-quiz-football-chess-cricket-rugby-f1-hockey-boxing-table-tennis-horse-racing",
+         "pubDate" : "Fri, 02 Oct 2026 11:14:37",
+         "title" : "Sports quiz of the week: winners, losers, prodigies, heroes, villains and rivals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134637399.cms\" />Diptayan Ghosh played a pivotal role in guiding the Indian women's chess team to a bronze medal at the 46th Chess Olympiad. Collaborating closely with the team captain, he helped prepare strategies in an online camp focused on openings before the tournament. Throughout the matches, Ghosh monitored the competition while fostering a calm environment. Though they faced a setback against Poland, the team's belief led to a well-deserved podium finish.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-learning-experience-for-gm-diptayan/articleshow/134637399.cms",
+         "pubDate" : "Fri, 02 Oct 2026 10:44:31",
+         "title" : "A learning experience for GM Diptayan"
+      },
+      {
+         "description" : "Chris Ward looks at two very different Dragon games, one from club level and one from the very top of the chess world. The first example shows how ambitious attacking ideas can lead to rich tactical positions, even when the calculation is not completely correct, while the second features Alexander Grischuk against Ian Nepomniachtchi and demonstrates how quickly White can get into trouble after spending time grabbing material instead of developing the attack. Chris highlights typical Dragon themes such as pressure on the queenside, exchange sacrifices, tactical ideas on the c file and the strength of the dark squared bishop. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon-2",
+         "pubDate" : "Fri, 02 Oct 2026 10:00:00",
+         "title" : "Nepo has dragon problems - The Monthly Dragon"
+      },
+      {
          "description" : " Host nation won having led almost from start to finish, while young English player reached a stunning landmark Uzbekistan, the host nation, won the open gold medals at the 2026 Olympiad, the biennial chess international team tournament, at Samarkand last week in the style of the legendary Soviet grandmasters of long ago. India, the defending champions, were second, Germany a surprise third, and the top-seeded United States fourth. The hosts led almost from start to finish, with world No 5 Nodirbek Abdusattorov and the world title challenger Javokhir Sindarov their top-board powerhouses. The team recovered swiftly from a single defeat by Germany, and were particularly impressive in crushing ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -592,14 +624,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
          "pubDate" : "Fri, 18 Sep 2026 07:00:13",
          "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134324435.cms\" />Gukesh slipped below 2700 after a draw with Indonesia's Satria Duta Cahaya, his first such drop since 2022. With three boards drawn, Nihal Sarin rescued India with a dramatic win over Arif Abdul Hafiz, featuring a bold rook sacrifice. India won 2.5-1.5. The women's team beat Finland 3.5-0.5 and will face Greece next. The men's team will take on Italy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms",
-         "pubDate" : "Fri, 18 Sep 2026 02:59:08",
-         "title" : "Olympiad R2: How Nihal saved India's day amid Gukesh's historic drop in rating points"
       },
       {
          "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
