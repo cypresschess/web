@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kutaisi Andria Razmadze Physico finished third. The champions also secured qualification for December's Grand Final, with individual board prizes and a closing ceremony bringing the European stage to an end. | Photos: Arlan Olzhabay / BI-Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wstc-2026-european-stage-final",
+         "pubDate" : "Sat, 03 Oct 2026 14:15:00",
+         "title" : "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration"
+      },
+      {
+         "description" : "I always believed that if I became a Grandmaster, I could be proud of my game and enjoy chess fully. When I did it, nothing changed. If anything, I felt more stressed. My next goal was 2550. Achieved this, again, nothing changed. Then, one day I wrote in my diary: I want to become European []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/there-is-only-one-way-to-enjoy-chess/",
+         "pubDate" : "Sat, 03 Oct 2026 13:00:00",
+         "title" : "There is only one way to enjoy chess"
+      },
+      {
          "description" : " The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold medal ahead of India and Germany. In the women's event China won ahead of Kazakhstan and India. All the games are available for download including my own corrections, I chose not to display files of this size. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
          "pubDate" : "Sat, 3 Oct 2026 11:02:00",
          "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
+         "pubDate" : "Sat, 03 Oct 2026 08:21:01",
+         "title" : "Awonder Liang Invincible At Seirawan Chess, The Complex Variant"
       },
       {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them - focused mainly on tournaments in November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
       },
       {
-         "description" : "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
-         "pubDate" : "Tue, 22 Sep 2026 12:44:00",
-         "title" : "On-Fire Firouzja Finishes First In Titled Tuesday"
-      },
-      {
          "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
          "pubDate" : "Sun, 13 Sep 2026 17:20:00",
          "title" : "Legends and Prodigies II 2026 - Games and results"
-      },
-      {
-         "description" : "Sometimes, knowledge is actually the thing holding you back. Is it the case for you? Let's find out! Today, I want to share a simple self-diagnosis you can do in under 30 minutes to understand if that is the case, or if you should spend even more time and energy on your skills. The biggest []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/what-is-holding-you-back/",
-         "pubDate" : "Sat, 12 Sep 2026 13:00:00",
-         "title" : "What is holding you back?"
       }
    ]
 }
