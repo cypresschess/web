@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold medal ahead of India and Germany. In the women's event China won ahead of Kazakhstan and India. All the games are available for download including my own corrections, I chose not to display files of this size. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
+         "pubDate" : "Sat, 3 Oct 2026 11:02:00",
+         "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
          "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them - focused mainly on tournaments in November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -642,14 +650,6 @@ news_feed (
          "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
       },
       {
-         "description" : " The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matches live for each of the Open and Women's event.(update every minute) the viewer I use isn't much use for any more, the full compilation file will update every 15 minutes. I hope this file will be the best available with good structure to the PGN and good checking procedures. I won't display it on this page, again the size of the file makes it fairly pointless with this viewer.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
-         "pubDate" : "Thu, 17 Sep 2026 20:10:00",
-         "title" : "46th World Chess Olympiad 2026 - Games and Results"
-      },
-      {
          "description" : " The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-is-holding-you-back/",
          "pubDate" : "Sat, 12 Sep 2026 13:00:00",
          "title" : "What is holding you back?"
-      },
-      {
-         "description" : "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world - but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-years-ago-chessbase-news",
-         "pubDate" : "Sat, 12 Sep 2026 08:00:00",
-         "title" : "25 years ago  -  ChessBase news"
       }
    ]
 }
