@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them - focused mainly on tournaments in November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
+         "pubDate" : "Sat, 03 Oct 2026 02:00:00",
+         "title" : "Upcoming tournaments and events"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren&#39;t quite enough to win, as he took second on tiebreaks behind IM Quoc Hy Nguyen. Maghsoodloo domina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
+         "pubDate" : "Fri, 02 Oct 2026 18:51:34",
+         "title" : "Hy Nguyen, Maghsoodloo, Grischuk Take 3 0 Thursday Titles"
+      },
+      {
+         "description" : "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
+         "pubDate" : "Fri, 02 Oct 2026 18:23:25",
+         "title" : "Bluebaum Takes First Freestyle Friday Of New Season"
+      },
+      {
          "description" : "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE rankings. A three-time British champion, Speelman also played a major role in England's Olympiad successes and later became well known for his work as a chess author, analyst and columnist. Happy birthday! | Photos: British Chess News / Gennadiy Titkov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
       },
       {
-         "description" : "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&#38;mdash;and a whole new set of tactics&#38;mdash;this tournament will ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
-         "pubDate" : "Tue, 22 Sep 2026 08:02:40",
-         "title" : "Chess.com Seirawan Chess Championship Starts September 30"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401161.cms\" />Grandmaster Alexei Shirov has proposed that the chess world consider adopting a system similar to tennis for its World Champion title. His suggestion comes at a pivotal time following D Gukesh's historic win over Ding Liren, making him the youngest undisputed world champion. Shirov's remarks are part of a larger discussion about the current relevance and representation of the classical world title in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/israel-forfeits-chess-olympiad-matches-against-netherlands-bulgaria-heres-why/articleshow/134391776.cms",
          "pubDate" : "Mon, 21 Sep 2026 14:35:13",
          "title" : "Israel forfeits Chess Olympiad matches against Netherlands, Bulgaria; here's why"
-      },
-      {
-         "description" : "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&#38;nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-         "pubDate" : "Mon, 21 Sep 2026 13:30:00",
-         "title" : "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S."
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
