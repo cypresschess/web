@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sahel Chess Festival returns to Monastir from 24 October to 1 November, with around 300 players expected to compete at the Hotel El Habib on Tunisia's Mediterranean coast. The field already includes GMs Titas Stremavicius, Pavel Ponkratov, Friso Nijboer, Mihail Marin and Amir Zaibi, alongside leading Tunisian players and young international prospects. The event continues to position Tunisia as a growing destination for open tournament chess. | Photo: Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2026-preview-2",
+         "pubDate" : "Sun, 04 Oct 2026 19:00:00",
+         "title" : "From the Olympiad to the Mediterranean: Titled stars head to the Sahel Chess Festival"
+      },
+      {
          "description" : "Chess philanthropist Evren Ucok has committed over $5 million in just three years to transform the global chess ecosystem. Moving beyond traditional sponsorships, his visionary investment provides holistic support for emerging prodigies like Yagiz Kaan Erdogmus and Sivanandan Bodhana, backs elite European clubs, and funds cutting-edge anti-cheating technology. This is the story of a profound commitment to shaping the next generation of grandmasters. | Photo: Courtesy of Selim Gurcan",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,14 +90,6 @@ news_feed (
          "title" : "Awonder Liang Invincible At Seirawan Chess, The Complex Variant"
       },
       {
-         "description" : "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them - focused mainly on tournaments in November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
-         "pubDate" : "Sat, 03 Oct 2026 02:00:00",
-         "title" : "Upcoming tournaments and events"
-      },
-      {
          "description" : "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren&#39;t quite enough to win, as he took second on tiebreaks behind IM Quoc Hy Nguyen. Maghsoodloo domina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
          "pubDate" : "Fri, 02 Oct 2026 18:23:25",
          "title" : "Bluebaum Takes First Freestyle Friday Of New Season"
-      },
-      {
-         "description" : "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE rankings. A three-time British champion, Speelman also played a major role in England's Olympiad successes and later became well known for his work as a chess author, analyst and columnist. Happy birthday! | Photos: British Chess News / Gennadiy Titkov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-speelman-70th-birthday",
-         "pubDate" : "Fri, 02 Oct 2026 14:00:00",
-         "title" : "Jon Speelman at 70: A leading figure of English chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134640893.cms\" />Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
@@ -146,14 +138,6 @@ news_feed (
          "title" : "A learning experience for GM Diptayan"
       },
       {
-         "description" : "Chris Ward looks at two very different Dragon games, one from club level and one from the very top of the chess world. The first example shows how ambitious attacking ideas can lead to rich tactical positions, even when the calculation is not completely correct, while the second features Alexander Grischuk against Ian Nepomniachtchi and demonstrates how quickly White can get into trouble after spending time grabbing material instead of developing the attack. Chris highlights typical Dragon themes such as pressure on the queenside, exchange sacrifices, tactical ideas on the c file and the strength of the dark squared bishop. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon-2",
-         "pubDate" : "Fri, 02 Oct 2026 10:00:00",
-         "title" : "Nepo has dragon problems - The Monthly Dragon"
-      },
-      {
          "description" : "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December&#39;s knockout finals, which will award one qualification sp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,14 +152,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record",
          "pubDate" : "Fri, 02 Oct 2026 07:00:14",
          "title" : "Uzbekistan dominates chess Olympiad while England's Sivanandan, 11, sets new world age record"
-      },
-      {
-         "description" : "The 2026 U.S. and U.S. Women's Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will defend his U.S. title against a field including Wesley So, Hans Niemann and Levon Aronian, while Carissa Yip heads the women's event alongside Alice Lee, Irina Krush and Rose Atwell. | Photo: Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-announcement",
-         "pubDate" : "Fri, 02 Oct 2026 02:00:00",
-         "title" : "Knight to October 8: Saint Louis to host America's chess elite"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134622703.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After kicking things off with Srinath Narayanan and India's silver-winning Open team, we turn to Swayams Mishra, captain of the bronze-winning women's team. In an exclusive interaction, the 34-year-old opens up about his first full stint as captain, the difficult decision-making around Vaishali, Savitha Shri's match-winning impact, and much more.",
@@ -210,44 +186,12 @@ news_feed (
          "title" : "Check is in the Mail October 2026: All About the Kan"
       },
       {
-         "description" : "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were arrested at the border on their return and placed under house arrest. They could potentially face severe punishment.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
-         "pubDate" : "Thu, 01 Oct 2026 21:00:00",
-         "title" : "Afghan Olympiad participants arrested after returning home"
-      },
-      {
-         "description" : "Arne K&auml;hler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan-Ukraine and India-Hungary in the last round, a blitz game against seven-year-old Uzbek talent Mukhammadyusuf Bakhramov, scenes from the press room, a chat with Frederik Svane from Germany and Konstantin Peyrer from Austria, and highlights from the closing ceremony. | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
-         "pubDate" : "Thu, 01 Oct 2026 19:00:00",
-         "title" : "Behind the scenes in Samarkand: The Olympiad comes to a close"
-      },
-      {
-         "description" : "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice Lee of the United States is now the top-ranked female junior.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2026",
-         "pubDate" : "Thu, 01 Oct 2026 16:16:09",
-         "title" : "FIDE Ratings - October 2026"
-      },
-      {
          "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
          "pubDate" : "Thu, 01 Oct 2026 14:00:52",
          "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
-      },
-      {
-         "description" : "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women's and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
-         "pubDate" : "Thu, 01 Oct 2026 09:26:25",
-         "title" : "Greatest Olympiad Underdogs - The Underdog"
       },
       {
          "description" : "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ...",
@@ -282,14 +226,6 @@ news_feed (
          "title" : "2026 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
-         "description" : "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
-         "pubDate" : "Wed, 30 Sep 2026 17:00:00",
-         "title" : "Turlov: Chess is massively undervalued"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -304,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
          "pubDate" : "Wed, 30 Sep 2026 12:16:00",
          "title" : "Garry Kasparov Confirms Security Warnings After Report Of Russian Assassination Plot"
-      },
-      {
-         "description" : "Arne K&auml;hler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. Arne then visits the press area and the game zone before meeting a special guest at the ChessBase stand - elite grandmaster Levon Aronian! | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2026-inside-the-expo",
-         "pubDate" : "Wed, 30 Sep 2026 10:00:00",
-         "title" : "Behind the scenes in Samarkand: Inside the Expo"
       },
       {
          "description" : "Greetings all! Putting on my ECF Manager of Coaches hat I have been asked by Gerry Walsh if there are any coaches out there who would like to coach blind...",
@@ -728,22 +656,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
          "pubDate" : "Sun, 13 Sep 2026 22:09:00",
          "title" : "Clutch Chess: The Legends 2026 - Games and results"
-      },
-      {
-         "description" : " The Tech Mahindra Global Chess League took place in Bengaluru, India 5th-13th September 2026. 6 Teams played over 10 rounds in rapid (10m+2spm) chess. The winners were Ganges Grandmasters with Ian Nepomniachtchi as the Legend and Levon Aronian as their board 2. Magnus Carlsen's Alpine APL Pipers finished second after losing the final. Nepomniachtchi was allowed to escape a lost position against Magnus Carlsen and turned it round for a win. FYERS American Gambits finished in 3rd after beating CheQ Mumba Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
-         "pubDate" : "Sun, 13 Sep 2026 17:24:00",
-         "title" : "Tech Mahindra Global Chess League 2026 - Games and results"
-      },
-      {
-         "description" : " The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on 5.5 points. Francisco Fiorito won the B-tournament with 7/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
-         "pubDate" : "Sun, 13 Sep 2026 17:20:00",
-         "title" : "Legends and Prodigies II 2026 - Games and results"
       }
    ]
 }
