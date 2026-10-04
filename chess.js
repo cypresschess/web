@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess philanthropist Evren Ucok has committed over $5 million in just three years to transform the global chess ecosystem. Moving beyond traditional sponsorships, his visionary investment provides holistic support for emerging prodigies like Yagiz Kaan Erdogmus and Sivanandan Bodhana, backs elite European clubs, and funds cutting-edge anti-cheating technology. This is the story of a profound commitment to shaping the next generation of grandmasters. | Photo: Courtesy of Selim Gurcan",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/evren-ucok-syoung-minds",
+         "pubDate" : "Sun, 04 Oct 2026 14:50:00",
+         "title" : "Evren Ucok and the case for chess in developing young minds"
+      },
+      {
+         "description" : "The FIDE General Assembly in Samarkand elected Timur Turlov as President and Viswanathan Anand as Deputy President, alongside a new group of vice-presidents and senior officials. Delegates also approved plans for a dedicated Chess960 rating system, changes to FIDE's institutional designation and the process for selecting the 2030 Chess Olympiad host. An Extraordinary General Assembly will be held later in 2026 to consider the 2027 budget and provisional figures for 2028. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/decisions-fide-general-assembly-2026",
+         "pubDate" : "Sun, 04 Oct 2026 14:00:00",
+         "title" : "Main decisions of the FIDE General Assembly 2026"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670348.cms\" />In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
-         "pubDate" : "Sat, 03 Oct 2026 21:30:45",
+         "pubDate" : "Sat, 03 Oct 2026 21:30:00",
          "title" : "Nakamura Breaks Calendar Record With 4th Consecutive Victory"
       },
       {
