@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer involving at least one player rated above 2500 - then selects a group of the most striking and entertaining examples! | Pictured: Ukrainian GM Igor Kovalenko (he played 15.Nb1! in the diagrammed position, trapping his opponent's queen) | Photo: Rafal Oleksiewicz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-244",
+         "pubDate" : "Sun, 04 Oct 2026 22:10:00",
+         "title" : "Jon Speelman: Miniatures in Samarkand"
+      },
+      {
          "description" : "The Sahel Chess Festival returns to Monastir from 24 October to 1 November, with around 300 players expected to compete at the Hotel El Habib on Tunisia's Mediterranean coast. The field already includes GMs Titas Stremavicius, Pavel Ponkratov, Friso Nijboer, Mihail Marin and Amir Zaibi, alongside leading Tunisian players and young international prospects. The event continues to position Tunisia as a growing destination for open tournament chess. | Photo: Diana Mihajlova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
          "pubDate" : "Mon, 14 Sep 2026 08:28:17",
          "title" : "ECF AGM - Call for nominations"
-      },
-      {
-         "description" : " Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There was also bonus money, up to $24,000 that rolled over to the final two games if there was a draw. I cannot currently display Chess960 games, Topalov won the match 16-8, The rapid portion saw Topalov win a rapid game on day one and Kasparov on d",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
-         "pubDate" : "Sun, 13 Sep 2026 22:09:00",
-         "title" : "Clutch Chess: The Legends 2026 - Games and results"
       }
    ]
 }
