@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134668742.cms\" />Bulgarian chess creator Volen Dyulgerov, known as Witty Alien, stunned world No. 1 Magnus Carlsen in a blitz game during Chess.com's Chess Club Showdown. The 27-year-old Candidate Master, known for his energetic content and Alien Gambit, has a 2181 FIDE rating. Despite Carlsen's much higher online rating, Dyulgerov secured a memorable upset victory in the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-witty-alien-the-shirtless-guy-who-shocked-world-no-1-magnus-carlsen/articleshow/134668742.cms",
+         "pubDate" : "Sun, 04 Oct 2026 01:51:37",
+         "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
+      },
+      {
          "description" : "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kutaisi Andria Razmadze Physico finished third. The champions also secured qualification for December's Grand Final, with individual board prizes and a closing ceremony bringing the European stage to an end. | Photos: Arlan Olzhabay / BI-Group",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
          "pubDate" : "Sat, 19 Sep 2026 13:00:00",
          "title" : "Fixing your skill gap: step by step"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134346470.cms\" />Koneru Humpy avenged her recent Global Chess League setbacks against Greece's Stavroula Tsolakidou, helping India's women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy's Sabino Brunello after slipping below 2700. India won the open tie 3-1, while both teams continued their strong starts to the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
-         "pubDate" : "Sat, 19 Sep 2026 02:50:36",
-         "title" : "Olympiad R3: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700"
       },
       {
          "description" : "&#8220;While fully supporting all necessary efforts to resolve the visa issues as quickly as possible and to ensure the participation of all eligible delegates, the European Chess Union does not support the postponement of the FIDE Congress and believes that such a step could have serious consequences for the observation of FIDE Charter and FIDE credibility.&#8221;",
