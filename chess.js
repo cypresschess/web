@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670348.cms\" />In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-got-latent-gambit-behind-vantika-agrawals-double-bronze-at-chess-olympiad-exclusive/articleshow/134670348.cms",
+         "pubDate" : "Sun, 04 Oct 2026 06:16:36",
+         "title" : "'India's Got Latent' Gambit? Behind Vantika's double bronze at Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134669830.cms\" />For much of its history, the world chess championship was not a title a player could simply qualify to challenge for. From Steinitz-Zukertort in 1886 to the long disputes involving Lasker, Capablanca and Rubinstein, challengers had to raise money, negotiate terms and persuade champions to play. As Gukesh prepares to defend his title against Sindarov in Geneva, the USD 2.5 million match offers a striking contrast: the challenger has earned his shot through a formal qualifying system.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-price-of-a-title-shot-when-challengers-had-to-pay-to-face-the-champion/articleshow/134669830.cms",
+         "pubDate" : "Sun, 04 Oct 2026 05:06:12",
+         "title" : "The Price of a Title Shot: When challengers had to pay to face the champion"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134668742.cms\" />Bulgarian chess creator Volen Dyulgerov, known as Witty Alien, stunned world No. 1 Magnus Carlsen in a blitz game during Chess.com's Chess Club Showdown. The 27-year-old Candidate Master, known for his energetic content and Alien Gambit, has a 2181 FIDE rating. Despite Carlsen's much higher online rating, Dyulgerov secured a memorable upset victory in the event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-witty-alien-the-shirtless-guy-who-shocked-world-no-1-magnus-carlsen/articleshow/134668742.cms",
          "pubDate" : "Sun, 04 Oct 2026 01:51:37",
          "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
+      },
+      {
+         "description" : "In a week when GM Hikaru Nakamura pushed Chess.com&#39;s blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
+         "pubDate" : "Sat, 03 Oct 2026 21:30:45",
+         "title" : "Nakamura Breaks Calendar Record With 4th Consecutive Victory"
       },
       {
          "description" : "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kutaisi Andria Razmadze Physico finished third. The champions also secured qualification for December's Grand Final, with individual board prizes and a closing ceremony bringing the European stage to an end. | Photos: Arlan Olzhabay / BI-Group",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina"
       },
       {
-         "description" : "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as &#34;Mr. Dionisio,&#34; Sganzerla died on September 12 in Go...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
-         "pubDate" : "Tue, 22 Sep 2026 15:42:00",
-         "title" : "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96"
-      },
-      {
          "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -624,22 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
          "pubDate" : "Sun, 20 Sep 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 32: Training with style"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134363468.cms\" />In his latest Grandmaster View column, India's young GM Aarav Dengla looks back at how the Bolsheviks transformed chess from a pastime of Russia's aristocracy into an instrument of mass education, military training and cultural revolution. From Ilyin-Zhenevsky and the Red Army to Botvinnik, Tal, Karpov and Kasparov, Aarav traces how a century-old state-backed experiment helped build the Soviet chess machine, and a legacy that still shapes the chess world today.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/red-pawns-red-soldiers-how-the-bolsheviks-built-a-chess-superpower/articleshow/134363468.cms",
-         "pubDate" : "Sun, 20 Sep 2026 04:26:18",
-         "title" : "Red Pawns, Red Soldiers: How the Bolsheviks built a chess superpower"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134362654.cms\" />Arjun Erigaisi bounced back from a difficult start to the Chess Olympiad with a convincing victory over Maksim Chigaev, helping defending champions India beat Spain 3-1 in Round 4. Gukesh continued his impressive run, while Praggnanandhaa and Nihal Sarin drew. India's women also remained unbeaten, beating Mongolia 3-1 as both Indian teams maintained their winning momentum in Samarkand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms",
-         "pubDate" : "Sun, 20 Sep 2026 01:35:13",
-         "title" : "Olympiad R4: Erigaisi picks first win of tournament; India's winning juggernaut rolls on"
       },
       {
          "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
