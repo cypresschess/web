@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bent Larsen combined an unconventional approach to the opening with a strong understanding of dynamic positions. In the 20th volume of the ChessBase Master Class series, several experts examine different aspects of the Danish star's play. The strategy section includes his 1968 win over Florin Gheorghiu in Monte Carlo, a game in which Larsen used active piece play and structural imbalances to make the most of a lasting initiative.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/learning-strategy-from-bent-larsen",
+         "pubDate" : "Mon, 05 Oct 2026 17:00:00",
+         "title" : "Learning strategy from Bent Larsen"
+      },
+      {
          "description" : "The Fagernes International Autumn Tournament is under way in Norway, with six players sharing the lead in the GM Swiss after two rounds. Tiger Hillarp Persson, Aksel Bu Kvaloy, Christian Gloeckler (pictured, left), Harika Dronavalli, Frode Olav Olsen Urkedal and Mads Vestby-Ellingsen have all started with 2/2. The ten-round event, played at the Scandic Valdres hotel, continues until Sunday 11 October. | Photo: Anna Ovidia Young",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,7 +194,7 @@ news_feed (
          "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
       },
       {
-         "description" : "IA/IO Carlos Chavez is the Executive Directors of the storied Marshall Chess Club in Manhattan, NY. Last month, he traveled to Samarkand, Uzbekistan to work as a Match Arbiter for the 3rd FIDE Olympiad for People with Disabilities. He documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. Review all of Chess Life Online's coverage from Samarkand here.Empowerment, accessibility, diversity, equity, and inclusion were not only words spoken but principles put into practice at the 3rd FIDE Chess Olympiad for Players with Disabilities. I had the privilege of serving as a match arbiter at this hist",
+         "description" : "IA/IO Carlos Chavez is the Executive Director of the storied Marshall Chess Club in Manhattan, NY. Last month, he traveled to Samarkand, Uzbekistan to work as a Match Arbiter for the 3rd FIDE Olympiad for People with Disabilities. He documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. Review all of Chess Life Online's coverage from Samarkand here.Empowerment, accessibility, diversity, equity, and inclusion were not only words spoken but principles put into practice at the 3rd FIDE Chess Olympiad for Players with Disabilities. I had the privilege of serving as a match arbiter at this histo",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/arbiters-perspective-3rd-fide-chess-olympiad-players-disabilities",
