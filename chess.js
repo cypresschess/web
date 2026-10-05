@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sebastian Poltorak of Poland and Singaporean grandmaster Tin Jingyao have been named recipients of the 2026 Svetozar Gligoric Trophy. Poltorak was recognised for agreeing to a draw after his opponent became unwell during the European Club Cup, while Tin declined to claim a forfeit win when his opponent arrived late because of traffic. The appointed commission said both cases reflected exemplary fair play and respect for opponents over immediate competitive advantage. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gligoric-trophy-2026-winners",
+         "pubDate" : "Mon, 05 Oct 2026 23:45:00",
+         "title" : "Respect over results: Sebastian Poltorak and Tin Jingyao receive Gligoric Trophy 2026"
+      },
+      {
          "description" : "Bent Larsen combined an unconventional approach to the opening with a strong understanding of dynamic positions. In the 20th volume of the ChessBase Master Class series, several experts examine different aspects of the Danish star's play. The strategy section includes his 1968 win over Florin Gheorghiu in Monte Carlo, a game in which Larsen used active piece play and structural imbalances to make the most of a lasting initiative.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
          "pubDate" : "Mon, 05 Oct 2026 01:35:29",
          "title" : "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad"
+      },
+      {
+         "description" : "On his personal Substack, Lit and Chess, FM Andy Lee reflected on his thought process after \"flash-annotating\" for Chess Life Online. His insight is astounding and will give readers insight into, in Lee's own words, \"How the sausage is made.\" With his permission, we are republishing his essay here, lightly edited for style. You can read it in its original form here.A couple weeks ago I was invited to contribute a set of annotations from rounds three and four of the 46th FIDE Olympiad for Chess Life Online. The deal was that I would focus on the performance of the American teams by annotating some key games and then pick out some interesting moments from other top teams and notable players. T",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/annotators-perspective-lost-translation",
+         "pubDate" : "Mon, 05 Oct 2026 00:00:00",
+         "title" : "An Annotator's Perspective: Lost in Translation"
       },
       {
          "description" : "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer involving at least one player rated above 2500 - then selects a group of the most striking and entertaining examples! | Pictured: Ukrainian GM Igor Kovalenko (he played 15.Nb1! in the diagrammed position, trapping his opponent's queen) | Photo: Rafal Oleksiewicz / FIDE",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
          "pubDate" : "Tue, 22 Sep 2026 02:55:32",
          "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
-      },
-      {
-         "description" : "Both USA teams enter Tuesday's rest day after a tough couple of rounds, with the Open team tied for fourth at 10/12 and the Women's team tied for 14th at 9/12. But, with five rounds remaining, there's still a lot of time to gain ground. Today's report features detailed and entertaining analysis from GM Jason Liang, who is coming off a share of first place in the 126th U.S. Open. Open In Round 5, Germany defeated USA 2&frac12;-1&frac12; on Sunday thanks to three draws and GM Frederik Svane's win against GM Hans Niemann on Board 3. After an unforced knight trade on move 13, Niemann's remaining pieces became cramped as his clock ticked away. Rather than play patiently, Niemann went on the offen",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/46th-olympiad-now-fun-starts",
-         "pubDate" : "Tue, 22 Sep 2026 00:00:00",
-         "title" : "46th Olympiad: Now The Fun Starts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134393237.cms\" />Israel Chess Federation chief Zvika Barkai has accused FIDE of failing to honour a prior agreement over scheduling Israel's Chess Olympiad matches around Yom Kippur. Both Israeli teams forfeited their Round 6 games after the Netherlands and Bulgaria declined schedule changes. Barkai praised Singapore and Colombia for accommodating Israel, criticised FIDE's handling, and warned the forfeits could significantly affect Israel's rankings.",
