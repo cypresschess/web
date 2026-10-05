@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134683498.cms\" />In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
+         "pubDate" : "Mon, 05 Oct 2026 01:35:29",
+         "title" : "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad"
+      },
+      {
          "description" : "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer involving at least one player rated above 2500 - then selects a group of the most striking and entertaining examples! | Pictured: Ukrainian GM Igor Kovalenko (he played 15.Nb1! in the diagrammed position, trapping his opponent's queen) | Photo: Rafal Oleksiewicz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
          "pubDate" : "Mon, 21 Sep 2026 13:14:51",
          "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377923.cms\" />At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India's women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
-         "pubDate" : "Mon, 21 Sep 2026 02:35:52",
-         "title" : "Olympiad R5: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses"
       },
       {
          "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
