@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fagernes International Autumn Tournament is under way in Norway, with six players sharing the lead in the GM Swiss after two rounds. Tiger Hillarp Persson, Aksel Bu Kvaloy, Christian Gloeckler (pictured, left), Harika Dronavalli, Frode Olav Olsen Urkedal and Mads Vestby-Ellingsen have all started with 2/2. The ten-round event, played at the Scandic Valdres hotel, continues until Sunday 11 October. | Photo: Anna Ovidia Young",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r2",
+         "pubDate" : "Mon, 05 Oct 2026 12:00:00",
+         "title" : "Six-way tie in the lead after two rounds in Fagernes"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134683498.cms\" />In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ecf-resources-for-chess-clubs/",
          "pubDate" : "Tue, 15 Sep 2026 13:48:56",
          "title" : "New ECF resources for chess clubs"
-      },
-      {
-         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
-         "pubDate" : "Mon, 14 Sep 2026 08:28:17",
-         "title" : "ECF AGM - Call for nominations"
       }
    ]
 }
