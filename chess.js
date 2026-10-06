@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Saturday, 21 November 2026, Prague's Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connection to Prague and the Hotel Don Giovanni. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vlastimil-hort-tournament-2026-return-to-hotel-don-giovanni",
+         "pubDate" : "Tue, 06 Oct 2026 12:27:50",
+         "title" : "Vlastimil Hort Tournament 2026: Return to Hotel Don Giovanni"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
