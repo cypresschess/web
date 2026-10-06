@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-medicines-and-playing-every-day-how-koneru-humpy-battled-diarrhoea-to-win-two-medals-at-chess-olympiad-exclusive/articleshow/134721640.cms",
+         "pubDate" : "Tue, 06 Oct 2026 03:49:46",
+         "title" : "'Taking medicines every day': How Humpy battled diarrhoea to win medals for India"
+      },
+      {
          "description" : "Sebastian Poltorak of Poland and Singaporean grandmaster Tin Jingyao have been named recipients of the 2026 Svetozar Gligoric Trophy. Poltorak was recognised for agreeing to a draw after his opponent became unwell during the European Club Cup, while Tin declined to claim a forfeit win when his opponent arrived late because of traffic. The appointed commission said both cases reflected exemplary fair play and respect for opponents over immediate competitive advantage. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-extremely-angry-israel-chess-chief-blasts-fide-for-not-honouring-commitments-after-chess-olympiad-forfeits-exclusive/articleshow/134393237.cms",
          "pubDate" : "Mon, 21 Sep 2026 16:06:44",
          "title" : "Chess Olympiad forfeit row: Israel blasts FIDE for not honouring 'commitments'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134391776.cms\" />The Israeli men's team was due to face the Netherlands in the Open section, while the women's team was scheduled to play Bulgaria.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/israel-forfeits-chess-olympiad-matches-against-netherlands-bulgaria-heres-why/articleshow/134391776.cms",
-         "pubDate" : "Mon, 21 Sep 2026 14:35:13",
-         "title" : "Israel forfeits Chess Olympiad matches against Netherlands, Bulgaria; here's why"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
