@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd V&ouml;kler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes' Group\" was born. Axel Eger reported for the Th&uuml;ringer Allgemeine. | Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/princes-of-samarkand-german-team",
+         "pubDate" : "Tue, 06 Oct 2026 19:00:00",
+         "title" : "The princes of Samarkand"
+      },
+      {
          "description" : "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-medicines-and-playing-every-day-how-koneru-humpy-battled-diarrhoea-to-win-two-medals-at-chess-olympiad-exclusive/articleshow/134721640.cms",
          "pubDate" : "Tue, 06 Oct 2026 03:49:46",
          "title" : "'Taking medicines every day': How Humpy battled diarrhoea to win medals for India"
+      },
+      {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the second installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico feature here, and this week we take a look at Guam! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Guam's Open Team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Guam's team finished with a 10/22 score in the Open section, with three of its five players gaining rating. A number of its instructive victories are feature",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-guam-46th-olympiad",
+         "pubDate" : "Tue, 06 Oct 2026 00:00:00",
+         "title" : "Tactics Tuesday: Guam at 46th Olympiad"
       },
       {
          "description" : "Sebastian Poltorak of Poland and Singaporean grandmaster Tin Jingyao have been named recipients of the 2026 Svetozar Gligoric Trophy. Poltorak was recognised for agreeing to a draw after his opponent became unwell during the European Club Cup, while Tin declined to claim a forfeit win when his opponent arrived late because of traffic. The appointed commission said both cases reflected exemplary fair play and respect for opponents over immediate competitive advantage. | Photo: FIDE",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
          "pubDate" : "Fri, 25 Sep 2026 07:00:43",
          "title" : "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines"
-      },
-      {
-         "description" : "Team USA's shot at gold took a significant hit in the Open after today's 2&frac12;-1&frac12; loss against hosts Uzbekistan in Round 9. The women's team rebounded with a 3-1 victory over Canada. With 13/18 scores, both teams are tied for 11th entering the weekend's final two rounds. By winning out, podium finishes remain possible for both teams, provided other matches break favorably. Today's report focuses on Rounds 7 and 8 with insightful, instructive annotations from WGM Zoey Tang. Check back Monday for annotations on the final three rounds by GM Luka Budisavljevic. OpenIn Round 7, Team USA seemed on track for a win over Armenia thanks to GM Awonder Liang's triumphant return on Board 4. Af",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/46th-olympiad-two-tight-races-entering-final-weekend",
-         "pubDate" : "Fri, 25 Sep 2026 00:00:00",
-         "title" : "46th Olympiad: Two Tight Races Entering Final Weekend"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134466331.cms\" />Gukesh pushed hard but was held to a draw by Azerbaijan's Mahammad Muradli as India missed a chance to close the gap on the Chess Olympiad leaders. Uzbekistan and Germany lead the open section with 14 points. In the women's event, Savitha Shri extended her winning streak to seven, rescuing India against Kazakhstan and keeping their title hopes alive.",
