@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
+         "pubDate" : "Tue, 06 Oct 2026 16:00:00",
+         "title" : "German chess magazine SCHACH launches first English edition as CHESS INSIGHT"
+      },
+      {
          "description" : "On Saturday, 21 November 2026, Prague's Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connection to Prague and the Hotel Don Giovanni. | Photo: Alina l'Ami",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.europechess.org/46th-chess-olympiad-starts-in-samarkand-uzbekistan/",
          "pubDate" : "Tue, 15 Sep 2026 19:47:41",
          "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : "The English Chess Federation has produced a new collection of guidance and model documents to support local chess clubs. The resources are intended to help club volunteers establish clear and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-ecf-resources-for-chess-clubs/",
-         "pubDate" : "Tue, 15 Sep 2026 13:48:56",
-         "title" : "New ECF resources for chess clubs"
       }
    ]
 }
