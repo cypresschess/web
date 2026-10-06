@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess pieces in the world. | Photo: Samarkand State Museum",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
+         "pubDate" : "Tue, 06 Oct 2026 23:05:00",
+         "title" : "The oldest chess pieces in the world"
+      },
+      {
          "description" : "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd V&ouml;kler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes' Group\" was born. Axel Eger reported for the Th&uuml;ringer Allgemeine. | Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
          "pubDate" : "Tue, 06 Oct 2026 16:00:00",
          "title" : "German chess magazine SCHACH launches first English edition as CHESS INSIGHT"
+      },
+      {
+         "description" : "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
+         "pubDate" : "Tue, 06 Oct 2026 13:53:06",
+         "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Out Last-Second Win"
       },
       {
          "description" : "On Saturday, 21 November 2026, Prague's Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connection to Prague and the Hotel Don Giovanni. | Photo: Alina l'Ami",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Olympiad R7: India's gold chances get bleaker despite win in open; women still in hunt"
       },
       {
-         "description" : "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-7",
-         "pubDate" : "Wed, 23 Sep 2026 09:42:00",
-         "title" : "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134425151.cms\" />Irina Krush has been a constant presence in the United States women's chess team's rise, featuring in all three of its historic Olympiad medals. From becoming America's youngest women's champion at 14 to earning the country's only female GM title, Krush, speaking exclusively to TimesofIndia.com, reflects on her journey, the changing landscape of American chess, her commentary career, and the challenges of competing at her 13th Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-information/",
          "pubDate" : "Thu, 17 Sep 2026 07:51:50",
          "title" : "Press information"
-      },
-      {
-         "description" : "The 46th Chess Olympiad starts tomorrow in Samarkand, Uzbekistan! The event will be held from 15-27 September at the International Expo, part of the Silk Road Samarkand tourist center. Nearly 400 teams will compete in the tournament, with 208 teams in the Open section, and 191 teams in the Women's event. The numbers break the previous participation record of 380 teams set in Budapest in 2024. Teams are made up of four players + one reserve player in both sections. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/46th-chess-olympiad-starts-in-samarkand-uzbekistan/",
-         "pubDate" : "Tue, 15 Sep 2026 19:47:41",
-         "title" : "46th Chess Olympiad starts in Samarkand, Uzbekistan"
       }
    ]
 }
