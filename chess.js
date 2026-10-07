@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won two Olympiad gold medals for the best performance on his board. | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederik-svane-understated-olympic-record",
+         "pubDate" : "Wed, 07 Oct 2026 19:00:00",
+         "title" : "Frederik Svane: An understated Olympic record"
+      },
+      {
          "description" : "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rather boisterous. In Hamburg last weekend, a secret gathering of veterans took place. \"From Dusk till Dawn\" was the motto.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
