@@ -10,6 +10,14 @@ news_feed (
          "title" : "From Dusk till Dawn"
       },
       {
+         "description" : "Europe is about to meet the world&#39;s biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
+         "pubDate" : "Wed, 07 Oct 2026 08:00:00",
+         "title" : "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities"
+      },
+      {
          "description" : "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
          "pubDate" : "Thu, 24 Sep 2026 16:10:33",
          "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
-      },
-      {
-         "description" : "Germany ended Uzbekistan&#39;s streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
-         "pubDate" : "Thu, 24 Sep 2026 08:47:00",
-         "title" : "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134449255.cms\" />India's open team stayed in contention for a Chess Olympiad medal after beating England 2.5-1.5, but Uzbekistan's perfect run has made the gold race increasingly difficult. Meanwhile, the women's team strengthened their title hopes with a dominant 3.5-0.5 win over Germany, led by Savitha Shri's sixth straight victory.",
