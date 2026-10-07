@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-least-expressive-of-sports",
+         "pubDate" : "Wed, 07 Oct 2026 07:30:00",
+         "title" : "\"Chess might be one of the least expressive sports I have ever watched\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756391.cms\" />In the final installment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Savitha Shri opens up about her remarkable breakthrough as India's only individual gold medallist. The 19-year-old recalls arriving as a reserve, playing all 10 rounds and delivering when India needed her most, while discussing her family's sacrifices, the team's bronze, Swayams Mishra's support and her goal of becoming a Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/between-parents-struggles-and-endless-coffees-how-savitha-shri-became-indias-only-gold-medallist-at-chess-olympiad-exclusive/articleshow/134756391.cms",
+         "pubDate" : "Wed, 07 Oct 2026 05:10:03",
+         "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
+      },
+      {
          "description" : "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess pieces in the world. | Photo: Samarkand State Museum",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
          "pubDate" : "Tue, 06 Oct 2026 13:53:06",
-         "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Out Last-Second Win"
+         "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win"
       },
       {
          "description" : "On Saturday, 21 November 2026, Prague's Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connection to Prague and the Hotel Don Giovanni. | Photo: Alina l'Ami",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
          "pubDate" : "Tue, 22 Sep 2026 02:55:32",
          "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134393237.cms\" />Israel Chess Federation chief Zvika Barkai has accused FIDE of failing to honour a prior agreement over scheduling Israel's Chess Olympiad matches around Yom Kippur. Both Israeli teams forfeited their Round 6 games after the Netherlands and Bulgaria declined schedule changes. Barkai praised Singapore and Colombia for accommodating Israel, criticised FIDE's handling, and warned the forfeits could significantly affect Israel's rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-extremely-angry-israel-chess-chief-blasts-fide-for-not-honouring-commitments-after-chess-olympiad-forfeits-exclusive/articleshow/134393237.cms",
-         "pubDate" : "Mon, 21 Sep 2026 16:06:44",
-         "title" : "Chess Olympiad forfeit row: Israel blasts FIDE for not honouring 'commitments'"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
