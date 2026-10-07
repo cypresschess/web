@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rather boisterous. In Hamburg last weekend, a secret gathering of veterans took place. \"From Dusk till Dawn\" was the motto.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-dusk-till-dawn",
+         "pubDate" : "Wed, 07 Oct 2026 11:00:00",
+         "title" : "From Dusk till Dawn"
+      },
+      {
          "description" : "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
