@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How can I improve at chess, increase my Elo rating or become an International Master or Grandmaster? Or, more generally, how can I become an expert in any field? The YouTube channel Veritasium provides some answers. | Photo: Screenshot from the Veritasium video. Here, Veritasium quotes from the video Magnus Carlsen's Mind-Blowing Memory, published by Chess24",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-do-i-become-an-expert",
+         "pubDate" : "Thu, 08 Oct 2026 19:10:00",
+         "title" : "How do I become an expert?"
+      },
+      {
          "description" : "This is not an advertisement! The 'amateur move' 3.Bc4 (without a subsequent d2-d4) against the Sicilian Defence, combined with a setup resembling the Italian Game, is becoming increasingly popular. Even top professionals are now using this system successfully, first in online blitz and now also in classical over-the-board games. At the Chess Olympiad, Michael Adams used it to defeat Etienne Bacrot. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
