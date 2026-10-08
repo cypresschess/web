@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Bundesliga, a.k.a. German League, kicks off its 2026/27 season this coming weekend. Last season's champions SC Viernheim and OSG Baden-Baden are the favourites to win the title. SV Erkenschwick 1923 will be making their debut in the league, while the other two promoted teams from the second division - SF Bad Mergentheim and SC Remagen Sinzig - have already competed in the top flight. Bundesliga fans can look forward to comprehensive live commentary throughout the coming season. | Pictured: OSG Baden-Baden's Viswanathan Anand and Vincent Keymer | Photo: Stefan Liebig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2026-27-kick-off",
+         "pubDate" : "Thu, 08 Oct 2026 07:00:00",
+         "title" : "The 2026/27 season of the Bundesliga kicks off this weekend"
+      },
+      {
          "description" : "Kazakhstan's President Kassym-Jomart Tokayev has met newly elected FIDE President Timur Turlov to discuss the development of chess in the country and future cooperation with FIDE. Their talks covered chess in education, coach and arbiter training, youth development and the organisation of major events. Tokayev also highlighted Kazakhstan's recent progress, including the women's team''s silver medal at the Samarkand Olympiad and the growing number of active players nationwide. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
