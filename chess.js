@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christian Gloeckler is the sole leader of the Fagernes International Autumn after seven rounds. The 14-year-old German IM defeated Lukas Dotzer on Thursday to reach 6/7, while Rinat Jumabayev beat top seed Elham Amar to move into clear second place on 5&frac12; points. Gloeckler and Jumabayev have already met, as they drew their round-four encounter after 84 moves. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r7",
+         "pubDate" : "Thu, 08 Oct 2026 23:50:00",
+         "title" : "Fagernes: Gloeckler holds outright lead with three rounds to go"
+      },
+      {
          "description" : "How can I improve at chess, increase my Elo rating or become an International Master or Grandmaster? Or, more generally, how can I become an expert in any field? The YouTube channel Veritasium provides some answers. | Photo: Screenshot from the Veritasium video. Here, Veritasium quotes from the video Magnus Carlsen's Mind-Blowing Memory, published by Chess24",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meeting-tokayev-turlov-2026",
          "pubDate" : "Thu, 08 Oct 2026 02:20:00",
          "title" : "President of Kazakhstan Kassym-Jomart Tokayev receives FIDE President Timur Turlov"
+      },
+      {
+         "description" : "Will we finally see a new champion in either the U.S. Championship or the U.S. Women's Championship this year? Not if either of our Olympiad top boards have their way! But among the challengers will be the entire remainder of the Open and Women's Olympiad teams and a host of former U.S. champions. The Saint Louis Chess Center (SLCC) hosts both events, and Round 1 begins Friday, Oct. 9. The 11-round round robin concludes on Wednesday, Oct. 21, with playoffs the following day if needed. Rounds begin daily at 12 p.m. CDT excluding the rest days of Tuesday, Oct. 13 and Sunday, Oct. 18. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 U.S. Championships",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-us-championships-preview",
+         "pubDate" : "Thu, 08 Oct 2026 00:00:00",
+         "title" : "2026 U.S. Championships Preview"
       },
       {
          "description" : "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won two Olympiad gold medals for the best performance on his board. | Photo: Nils Rohde",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "ECU Annual Academy training programme 2026/2027"
       },
       {
-         "description" : "<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Scenes from the closing ceremony in Samarkand. (Photos courtesy FIDE/Rafal Oleksiewicz)<br> <br> Both American teams finished one spot short of the podium when the 46th FIDE Chess Olympiad came to an end Sunday afternoon in Samarkand, Uzbekistan. Uzbekistan won its second gold (in four years) in the Open, finishing two points ahead of India and Germany. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> The winning Uzbekistan 1 team. (Photo courtesy FIDE/Michal Walusza)<br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/46th-olympiad-usa-4th-both-sections-medals-yip-lee-and-aronian",
-         "pubDate" : "Mon, 28 Sep 2026 00:00:00",
-         "title" : "46th Olympiad: USA 4th in Both Sections, Medals for Yip, Lee, and Aronian"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134520444.cms\" />India secured a memorable double podium at the Chess Olympiad in Samarkand. Savitha Shri's resilient 83-move draw sealed bronze for the women, while Arjun Erigaisi's dramatic late victory helped the open team win silver on tiebreak. Uzbekistan took open gold and China won women's gold. India also claimed the Gaprindashvili Cup for the best combined performance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
          "pubDate" : "Fri, 18 Sep 2026 07:00:13",
          "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
-      },
-      {
-         "description" : " The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
-         "pubDate" : "Thu, 17 Sep 2026 20:10:00",
-         "title" : "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results"
       }
    ]
 }
