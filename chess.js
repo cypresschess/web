@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is not an advertisement! The 'amateur move' 3.Bc4 (without a subsequent d2-d4) against the Sicilian Defence, combined with a setup resembling the Italian Game, is becoming increasingly popular. Even top professionals are now using this system successfully, first in online blitz and now also in classical over-the-board games. At the Chess Olympiad, Michael Adams used it to defeat Etienne Bacrot. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beating-the-sicilian-with-3-bc4",
+         "pubDate" : "Thu, 08 Oct 2026 12:00:00",
+         "title" : "Beating the Sicilian with 3.Bc4 - seriously?"
+      },
+      {
          "description" : "The Chess Bundesliga, a.k.a. German League, kicks off its 2026/27 season this coming weekend. Last season's champions SC Viernheim and OSG Baden-Baden are the favourites to win the title. SV Erkenschwick 1923 will be making their debut in the league, while the other two promoted teams from the second division - SF Bad Mergentheim and SC Remagen Sinzig - have already competed in the top flight. Bundesliga fans can look forward to comprehensive live commentary throughout the coming season. | Pictured: OSG Baden-Baden's Viswanathan Anand and Vincent Keymer | Photo: Stefan Liebig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
          "pubDate" : "Thu, 17 Sep 2026 20:10:00",
          "title" : "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results"
-      },
-      {
-         "description" : "After questions have been received, concerning publications in social media, ECU clarifies that there is no any decision to endorse any candidate for the upcoming FIDE elections. The European Chess Union remains instutitionally neutral committed to serving all 54 member federations.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/press-information/",
-         "pubDate" : "Thu, 17 Sep 2026 07:51:50",
-         "title" : "Press information"
       }
    ]
 }
