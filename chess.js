@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kazakhstan's President Kassym-Jomart Tokayev has met newly elected FIDE President Timur Turlov to discuss the development of chess in the country and future cooperation with FIDE. Their talks covered chess in education, coach and arbiter training, youth development and the organisation of major events. Tokayev also highlighted Kazakhstan's recent progress, including the women's team''s silver medal at the Samarkand Olympiad and the growing number of active players nationwide. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meeting-tokayev-turlov-2026",
+         "pubDate" : "Thu, 08 Oct 2026 02:20:00",
+         "title" : "President of Kazakhstan Kassym-Jomart Tokayev receives FIDE President Timur Turlov"
+      },
+      {
          "description" : "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won two Olympiad gold medals for the best performance on his board. | Photo: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
