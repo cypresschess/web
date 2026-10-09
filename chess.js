@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+         "pubDate" : "Fri, 09 Oct 2026 11:50:00",
+         "title" : "Fabiano Caruana targets fifth consecutive US title"
+      },
+      {
+         "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/visit-to-hmp-whitemoor-carl-portman/",
+         "pubDate" : "Fri, 09 Oct 2026 10:23:57",
+         "title" : "Visit to HMP Whitemoor - Carl Portman"
+      },
+      {
+         "description" : "The Chess Trust make annual BCET Awards to schools and junior clubs. This year we received several very good applications and had a difficult task in selecting six.&#160;Those receiving the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2026/",
+         "pubDate" : "Fri, 09 Oct 2026 08:53:13",
+         "title" : "BCET Awards 2026"
+      },
+      {
          "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
          "pubDate" : "Sat, 19 Sep 2026 13:00:00",
          "title" : "Fixing your skill gap: step by step"
-      },
-      {
-         "description" : "&#8220;While fully supporting all necessary efforts to resolve the visa issues as quickly as possible and to ensure the participation of all eligible delegates, the European Chess Union does not support the postponement of the FIDE Congress and believes that such a step could have serious consequences for the observation of FIDE Charter and FIDE credibility.&#8221;",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-statement-on-fide-congress/",
-         "pubDate" : "Fri, 18 Sep 2026 11:23:47",
-         "title" : "ECU Board statement on FIDE Congress"
       }
    ]
 }
