@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
+         "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush (pictured) head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
-         "pubDate" : "Fri, 09 Oct 2026 11:50:00",
-         "title" : "Fabiano Caruana targets fifth consecutive US title"
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Fri, 09 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
       },
       {
          "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
@@ -26,52 +26,20 @@ news_feed (
          "title" : "BCET Awards 2026"
       },
       {
+         "description" : "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
+         "pubDate" : "Fri, 09 Oct 2026 08:30:22",
+         "title" : "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'"
+      },
+      {
          "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
          "pubDate" : "Fri, 09 Oct 2026 07:00:42",
          "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
-      },
-      {
-         "description" : "Christian Gloeckler is the sole leader of the Fagernes International Autumn after seven rounds. The 14-year-old German IM defeated Lukas Dotzer on Thursday to reach 6/7, while Rinat Jumabayev beat top seed Elham Amar to move into clear second place on 5&frac12; points. Gloeckler and Jumabayev have already met, as they drew their round-four encounter after 84 moves. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r7",
-         "pubDate" : "Thu, 08 Oct 2026 23:50:00",
-         "title" : "Fagernes: Gloeckler holds outright lead with three rounds to go"
-      },
-      {
-         "description" : "How can I improve at chess, increase my Elo rating or become an International Master or Grandmaster? Or, more generally, how can I become an expert in any field? The YouTube channel Veritasium provides some answers. | Photo: Screenshot from the Veritasium video. Here, Veritasium quotes from the video Magnus Carlsen's Mind-Blowing Memory, published by Chess24",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-do-i-become-an-expert",
-         "pubDate" : "Thu, 08 Oct 2026 19:10:00",
-         "title" : "How do I become an expert?"
-      },
-      {
-         "description" : "This is not an advertisement! The 'amateur move' 3.Bc4 (without a subsequent d2-d4) against the Sicilian Defence, combined with a setup resembling the Italian Game, is becoming increasingly popular. Even top professionals are now using this system successfully, first in online blitz and now also in classical over-the-board games. At the Chess Olympiad, Michael Adams used it to defeat Etienne Bacrot. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beating-the-sicilian-with-3-bc4",
-         "pubDate" : "Thu, 08 Oct 2026 12:00:00",
-         "title" : "Beating the Sicilian with 3.Bc4 - seriously?"
-      },
-      {
-         "description" : "The Chess Bundesliga, a.k.a. German League, kicks off its 2026/27 season this coming weekend. Last season's champions SC Viernheim and OSG Baden-Baden are the favourites to win the title. SV Erkenschwick 1923 will be making their debut in the league, while the other two promoted teams from the second division - SF Bad Mergentheim and SC Remagen Sinzig - have already competed in the top flight. Bundesliga fans can look forward to comprehensive live commentary throughout the coming season. | Pictured: OSG Baden-Baden's Viswanathan Anand and Vincent Keymer | Photo: Stefan Liebig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2026-27-kick-off",
-         "pubDate" : "Thu, 08 Oct 2026 07:00:00",
-         "title" : "The 2026/27 season of the Bundesliga kicks off this weekend"
-      },
-      {
-         "description" : "Kazakhstan's President Kassym-Jomart Tokayev has met newly elected FIDE President Timur Turlov to discuss the development of chess in the country and future cooperation with FIDE. Their talks covered chess in education, coach and arbiter training, youth development and the organisation of major events. Tokayev also highlighted Kazakhstan's recent progress, including the women's team''s silver medal at the Samarkand Olympiad and the growing number of active players nationwide. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meeting-tokayev-turlov-2026",
-         "pubDate" : "Thu, 08 Oct 2026 02:20:00",
-         "title" : "President of Kazakhstan Kassym-Jomart Tokayev receives FIDE President Timur Turlov"
       },
       {
          "description" : "Will we finally see a new champion in either the U.S. Championship or the U.S. Women's Championship this year? Not if either of our Olympiad top boards have their way! But among the challengers will be the entire remainder of the Open and Women's Olympiad teams and a host of former U.S. champions. The Saint Louis Chess Center (SLCC) hosts both events, and Round 1 begins Friday, Oct. 9. The 11-round round robin concludes on Wednesday, Oct. 21, with playoffs the following day if needed. Rounds begin daily at 12 p.m. CDT excluding the rest days of Tuesday, Oct. 13 and Sunday, Oct. 18. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 U.S. Championships",
@@ -82,36 +50,12 @@ news_feed (
          "title" : "2026 U.S. Championships Preview"
       },
       {
-         "description" : "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won two Olympiad gold medals for the best performance on his board. | Photo: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederik-svane-understated-olympic-record",
-         "pubDate" : "Wed, 07 Oct 2026 19:00:00",
-         "title" : "Frederik Svane: An understated Olympic record"
-      },
-      {
-         "description" : "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rather boisterous. In Hamburg last weekend, a secret gathering of veterans took place. \"From Dusk till Dawn\" was the motto.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-dusk-till-dawn",
-         "pubDate" : "Wed, 07 Oct 2026 11:00:00",
-         "title" : "From Dusk till Dawn"
-      },
-      {
          "description" : "Europe is about to meet the world&#39;s biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
          "pubDate" : "Wed, 07 Oct 2026 08:00:00",
          "title" : "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities"
-      },
-      {
-         "description" : "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-least-expressive-of-sports",
-         "pubDate" : "Wed, 07 Oct 2026 07:30:00",
-         "title" : "\"Chess might be one of the least expressive sports I have ever watched\""
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756391.cms\" />In the final installment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Savitha Shri opens up about her remarkable breakthrough as India's only individual gold medallist. The 19-year-old recalls arriving as a reserve, playing all 10 rounds and delivering when India needed her most, while discussing her family's sacrifices, the team's bronze, Swayams Mishra's support and her goal of becoming a Grandmaster.",
@@ -122,44 +66,12 @@ news_feed (
          "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
       },
       {
-         "description" : "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess pieces in the world. | Photo: Samarkand State Museum",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
-         "pubDate" : "Tue, 06 Oct 2026 23:05:00",
-         "title" : "The oldest chess pieces in the world"
-      },
-      {
-         "description" : "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd V&ouml;kler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes' Group\" was born. Axel Eger reported for the Th&uuml;ringer Allgemeine. | Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/princes-of-samarkand-german-team",
-         "pubDate" : "Tue, 06 Oct 2026 19:00:00",
-         "title" : "The princes of Samarkand"
-      },
-      {
-         "description" : "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
-         "pubDate" : "Tue, 06 Oct 2026 16:00:00",
-         "title" : "German chess magazine SCHACH launches first English edition as CHESS INSIGHT"
-      },
-      {
          "description" : "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
          "pubDate" : "Tue, 06 Oct 2026 13:53:06",
          "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win"
-      },
-      {
-         "description" : "On Saturday, 21 November 2026, Prague's Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connection to Prague and the Hotel Don Giovanni. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vlastimil-hort-tournament-2026-return-to-hotel-don-giovanni",
-         "pubDate" : "Tue, 06 Oct 2026 12:27:50",
-         "title" : "Vlastimil Hort Tournament 2026: Return to Hotel Don Giovanni"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
@@ -178,30 +90,6 @@ news_feed (
          "title" : "Tactics Tuesday: Guam at 46th Olympiad"
       },
       {
-         "description" : "Sebastian Poltorak of Poland and Singaporean grandmaster Tin Jingyao have been named recipients of the 2026 Svetozar Gligoric Trophy. Poltorak was recognised for agreeing to a draw after his opponent became unwell during the European Club Cup, while Tin declined to claim a forfeit win when his opponent arrived late because of traffic. The appointed commission said both cases reflected exemplary fair play and respect for opponents over immediate competitive advantage. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gligoric-trophy-2026-winners",
-         "pubDate" : "Mon, 05 Oct 2026 23:45:00",
-         "title" : "Respect over results: Sebastian Poltorak and Tin Jingyao receive Gligoric Trophy 2026"
-      },
-      {
-         "description" : "Bent Larsen combined an unconventional approach to the opening with a strong understanding of dynamic positions. In the 20th volume of the ChessBase Master Class series, several experts examine different aspects of the Danish star's play. The strategy section includes his 1968 win over Florin Gheorghiu in Monte Carlo, a game in which Larsen used active piece play and structural imbalances to make the most of a lasting initiative.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/learning-strategy-from-bent-larsen",
-         "pubDate" : "Mon, 05 Oct 2026 17:00:00",
-         "title" : "Learning strategy from Bent Larsen"
-      },
-      {
-         "description" : "The Fagernes International Autumn Tournament is under way in Norway, with six players sharing the lead in the GM Swiss after two rounds. Tiger Hillarp Persson, Aksel Bu Kvaloy, Christian Gloeckler (pictured, left), Harika Dronavalli, Frode Olav Olsen Urkedal and Mads Vestby-Ellingsen have all started with 2/2. The ten-round event, played at the Scandic Valdres hotel, continues until Sunday 11 October. | Photo: Anna Ovidia Young",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r2",
-         "pubDate" : "Mon, 05 Oct 2026 12:00:00",
-         "title" : "Six-way tie in the lead after two rounds in Fagernes"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134683498.cms\" />In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -216,38 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/annotators-perspective-lost-translation",
          "pubDate" : "Mon, 05 Oct 2026 00:00:00",
          "title" : "An Annotator's Perspective: Lost in Translation"
-      },
-      {
-         "description" : "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer involving at least one player rated above 2500 - then selects a group of the most striking and entertaining examples! | Pictured: Ukrainian GM Igor Kovalenko (he played 15.Nb1! in the diagrammed position, trapping his opponent's queen) | Photo: Rafal Oleksiewicz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-244",
-         "pubDate" : "Sun, 04 Oct 2026 22:10:00",
-         "title" : "Jon Speelman: Miniatures in Samarkand"
-      },
-      {
-         "description" : "The Sahel Chess Festival returns to Monastir from 24 October to 1 November, with around 300 players expected to compete at the Hotel El Habib on Tunisia's Mediterranean coast. The field already includes GMs Titas Stremavicius, Pavel Ponkratov, Friso Nijboer, Mihail Marin and Amir Zaibi, alongside leading Tunisian players and young international prospects. The event continues to position Tunisia as a growing destination for open tournament chess. | Photo: Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sahel-chess-festival-2026-preview-2",
-         "pubDate" : "Sun, 04 Oct 2026 19:00:00",
-         "title" : "From the Olympiad to the Mediterranean: Titled stars head to the Sahel Chess Festival"
-      },
-      {
-         "description" : "Chess philanthropist Evren Ucok has committed over $5 million in just three years to transform the global chess ecosystem. Moving beyond traditional sponsorships, his visionary investment provides holistic support for emerging prodigies like Yagiz Kaan Erdogmus and Sivanandan Bodhana, backs elite European clubs, and funds cutting-edge anti-cheating technology. This is the story of a profound commitment to shaping the next generation of grandmasters. | Photo: Courtesy of Selim Gurcan",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/evren-ucok-syoung-minds",
-         "pubDate" : "Sun, 04 Oct 2026 14:50:00",
-         "title" : "Evren Ucok and the case for chess in developing young minds"
-      },
-      {
-         "description" : "The FIDE General Assembly in Samarkand elected Timur Turlov as President and Viswanathan Anand as Deputy President, alongside a new group of vice-presidents and senior officials. Delegates also approved plans for a dedicated Chess960 rating system, changes to FIDE's institutional designation and the process for selecting the 2030 Chess Olympiad host. An Extraordinary General Assembly will be held later in 2026 to consider the 2027 budget and provisional figures for 2028. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/decisions-fide-general-assembly-2026",
-         "pubDate" : "Sun, 04 Oct 2026 14:00:00",
-         "title" : "Main decisions of the FIDE General Assembly 2026"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670348.cms\" />In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
@@ -280,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
          "pubDate" : "Sat, 03 Oct 2026 21:30:00",
          "title" : "Nakamura Breaks Calendar Record With 4th Consecutive Victory"
-      },
-      {
-         "description" : "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kutaisi Andria Razmadze Physico finished third. The champions also secured qualification for December's Grand Final, with individual board prizes and a closing ceremony bringing the European stage to an end. | Photos: Arlan Olzhabay / BI-Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wstc-2026-european-stage-final",
-         "pubDate" : "Sat, 03 Oct 2026 14:15:00",
-         "title" : "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration"
       },
       {
          "description" : "I always believed that if I became a Grandmaster, I could be proud of my game and enjoy chess fully. When I did it, nothing changed. If anything, I felt more stressed. My next goal was 2550. Achieved this, again, nothing changed. Then, one day I wrote in my diary: I want to become European []",
@@ -336,14 +184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-in-chess-there-are-just-these-blind-spots-nihal-sarin-looks-back-at-his-chess-olympiad-loss-to-uzbekistan-exclusive/articleshow/134640893.cms",
          "pubDate" : "Fri, 02 Oct 2026 13:35:01",
          "title" : "'Sometimes there are blind spots': Nihal Sarin looks back at Chess Olympiad loss"
-      },
-      {
-         "description" : "Russia is hardly known for treating people in general, and political opponents in particular, with restraint. Lithuanian and US security services have now uncovered an alleged network of Russian operatives and saboteurs said to have been preparing attacks on Russian exiles. One of the reported targets: Garry Kasparov. | Photo: Kasparov.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
-         "pubDate" : "Fri, 02 Oct 2026 11:54:31",
-         "title" : "Is Russia plotting to kill Kasparov?"
       },
       {
          "description" : " Have you been watching football, chess, cricket, rugby, motor racing, hockey, boxing, table tennis and horse racing? <a href=\"https://www.theguardian.com/sport/2026/oct/02/sports-quiz-football-chess-cricket-rugby-f1-hockey-boxing-table-tennis-horse-racing\">Continue reading...</a>",
@@ -664,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
          "pubDate" : "Fri, 25 Sep 2026 09:45:00",
          "title" : "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points"
-      },
-      {
-         "description" : "They aren&#39;t playing in the Olympiad, but GMs Magnus Carlsen and Hikaru Nakamura both competed in the first 3 0 Thursday on September 24. Both players joined a tie atop the standings, with Carlsen taking first on tiebreaks, with help from a mouse s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-ashraf-3-0-thursday-09-24-2026",
-         "pubDate" : "Fri, 25 Sep 2026 09:42:41",
-         "title" : "Heartbreak For Minh Le, Victories For Carlsen, Maghsoodloo, Ashraf In 3 0 Thursday"
       },
       {
          "description" : " The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets<strong> </strong>in the remaining three rounds. England have lost twice, first to the No 2 seeds India, then in a shock against Uzbekistan's second team, while England women have performed well, with 11-year-old Bodhana Sivanandan beaten only once on top board. <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-sh",
