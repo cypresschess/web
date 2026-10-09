@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
+         "pubDate" : "Fri, 09 Oct 2026 07:00:42",
+         "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
+      },
+      {
          "description" : "Christian Gloeckler is the sole leader of the Fagernes International Autumn after seven rounds. The 14-year-old German IM defeated Lukas Dotzer on Thursday to reach 6/7, while Rinat Jumabayev beat top seed Elham Amar to move into clear second place on 5&frac12; points. Gloeckler and Jumabayev have already met, as they drew their round-four encounter after 84 moves. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-statement-on-fide-congress/",
          "pubDate" : "Fri, 18 Sep 2026 11:23:47",
          "title" : "ECU Board statement on FIDE Congress"
-      },
-      {
-         "description" : " The former world title challenger, 61, will take on representatives from five other continents in a tournament rated by the global chess body Fide Nigel Short, the 1993 world title challenger, will head to the Antarctic for his next tournament as the 61-year-old, formerly of Bolton but resident for many decades in Greece, attempts to become the first chess player to win tournaments on seven continents. There is history for the very strongest grandmasters successfully defying the ravages of time: Emanuel Lasker in his mid-60s at Moscow 1935 and 1936, Viktor Korchnoi in his 70s, and, most impressive of all, Vasily Smyslov reaching the 1984 Candidates final against Garry Kasparov at 63. <a hre",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact",
-         "pubDate" : "Fri, 18 Sep 2026 07:00:13",
-         "title" : "Chess: Nigel Short to play at south pole in event criticised over climate impact"
       }
    ]
 }
