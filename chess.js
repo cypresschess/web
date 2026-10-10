@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So, Awonder Liang and Jeffery Xiong scored victories with the white pieces in the opening round of the US Championship in Saint Louis, while defending champion Fabiano Caruana drew his game against Levon Aronian in just 17 moves. In the women's tournament, four lower-rated players claimed victories, including Rachael Li, who benefited from a surprising blunder by eight-time champion Irina Krush. | Photo: Crystal Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-1",
+         "pubDate" : "Sat, 10 Oct 2026 13:25:00",
+         "title" : "US Championships: Liang beats Niemann in all-around exciting first round"
+      },
+      {
+         "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/a-reminder-to-slow-down/",
+         "pubDate" : "Sat, 10 Oct 2026 13:00:00",
+         "title" : "A reminder to slow down"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
+         "pubDate" : "Sat, 10 Oct 2026 07:47:09",
+         "title" : "Maghsoodloo Wins Star-Studded Freestyle Friday"
+      },
+      {
          "description" : "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas K&ouml;pl has taken a closer look at Ris's opening courses and offers an assessment.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +50,20 @@ news_feed (
          "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
       },
       {
+         "description" : "The 2026 U.S. Championship and U.S. Women's Championship wasted no time, delivering us a host of exciting pairings right from the jump. Round 1 featured, among other highlights, three battles between 2026 Olympiad teammates and two match-ups between former U.S. champions, producing seven decisive results overall across 12 games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> As is tradition, Jeanne Cairns Sinquefield marked the start of this year's tournament with the ringing of the bell. (Photo courtesy SLCC/Crystal Fuller)<br> <br> <br> <br> Today's report features annotations by GM Jason Liang. Read on to learn a thing or two about endgames! Women'",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-championships-hot-start",
+         "pubDate" : "Sat, 10 Oct 2026 00:00:00",
+         "title" : "U.S. Championships Off to a Hot Start"
+      },
+      {
          "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
          "pubDate" : "Fri, 09 Oct 2026 23:09:00",
-         "title" : "Duda Scores 10/11, Narrowly Misses First Perfect Score"
+         "title" : "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score"
       },
       {
          "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
@@ -74,7 +106,7 @@ news_feed (
          "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
       },
       {
-         "description" : "Will we finally see a new champion in either the U.S. Championship or the U.S. Women's Championship this year? Not if either of our Olympiad top boards have their way! But among the challengers will be the entire remainder of the Open and Women's Olympiad teams and a host of former U.S. champions. The Saint Louis Chess Center (SLCC) hosts both events, and Round 1 begins Friday, Oct. 9. The 11-round round robin concludes on Wednesday, Oct. 21, with playoffs the following day if needed. Rounds begin daily at 12 p.m. CDT excluding the rest days of Tuesday, Oct. 13 and Sunday, Oct. 18. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 U.S. Championships",
+         "description" : "Will we finally see a new champion in either the U.S. Championship or the U.S. Women's Championship this year? Not if either of our Olympiad top boards have their way! But among the challengers will be the entire remainder of the Open and Women's Olympiad teams and a host of former U.S. champions. The Saint Louis Chess Club (SLCC) hosts both events, and Round 1 begins Friday, Oct. 9. The 11-round round robin concludes on Wednesday, Oct. 21, with playoffs the following day if needed. Rounds begin daily at 12 p.m. CDT excluding the rest days of Tuesday, Oct. 13 and Sunday, Oct. 18. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 U.S. Championships a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-us-championships-preview",
@@ -434,14 +466,6 @@ news_feed (
          "title" : "Tactics Tuesday: Puerto Rico at 46th Olympiad"
       },
       {
-         "description" : "All US Chess Correspondence Chess (CC) players should be aware that a revised set of US Chess CC Rules come into effect on October 1, 2026. Once effective, the revisions will apply immediately to all ongoing events as well as any new events. The revised rules can be viewed in full at https://new.uschess.org/correspondence-chess/rules.The recent Delegates Meeting at the 2026 U.S. Open approved a major overhaul of Chapter 9 of the US Chess Rulebook. These rules, effective October 1, 2026, supersede previous versions and apply to all US Chess Correspondence Chess rated tournaments.Repeats will now be sent after 16 days instead of two weeks. Time complaints, after a repeat, are now submitted to ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/correspondence-chess-rules-updates-effective-10-1-2026",
-         "pubDate" : "Tue, 29 Sep 2026 00:00:00",
-         "title" : "Correspondence Chess Rules Updates (Effective 10-1-2026)"
-      },
-      {
          "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/resources-to-improve-your-skills-for-all-levels/",
          "pubDate" : "Sat, 26 Sep 2026 13:00:00",
          "title" : "Resources to improve your skills for all levels"
-      },
-      {
-         "description" : "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored dominating 3.5-0.5 victories over Arm...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
-         "pubDate" : "Sat, 26 Sep 2026 09:42:00",
-         "title" : "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489249.cms\" />China currently lead the women's Chess Olympiad in Samarkand despite missing its top three players. World No. 4 Zhu Jiner has emerged as the team's unbeaten Board 1, rebounding strongly from a difficult GCL campaign in Bengaluru. In an exclusive interaction with TimesofIndia.com, she reflects on India's chess passion, her journey into professional chess, and China's unexpected title challenge.",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
          "pubDate" : "Sun, 20 Sep 2026 07:00:00",
          "title" : "ChessBase&acute;26 - Tips for Beginners, part 32: Training with style"
-      },
-      {
-         "description" : "Having analyzed your last games, you realize you have a clear skill gap. Missing opponent's ideas is what costs you most points. Now what? Here is the framework I want you to remember: This will help you make a new strength out of a previous weakness. Why one focus matters It is tempting to focus []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/fixing-your-skill-gap-step-by-step/",
-         "pubDate" : "Sat, 19 Sep 2026 13:00:00",
-         "title" : "Fixing your skill gap: step by step"
       }
    ]
 }
