@@ -26,6 +26,14 @@ news_feed (
          "title" : "A reminder to slow down"
       },
       {
+         "description" : "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
+         "pubDate" : "Sat, 10 Oct 2026 07:47:00",
+         "title" : "Maghsoodloo Wins Star-Studded Freestyle Friday"
+      },
+      {
          "description" : "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas K&ouml;pl has taken a closer look at Ris's opening courses and offers an assessment.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,28 @@ news_feed (
          "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
       },
       {
+         "description" : "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
+         "pubDate" : "Sat, 10 Oct 2026 01:55:00",
+         "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
+      },
+      {
          "description" : "The 2026 U.S. Championship and U.S. Women's Championship wasted no time, delivering us a host of exciting pairings right from the jump. Round 1 featured, among other highlights, three battles between 2026 Olympiad teammates and two match-ups between former U.S. champions, producing seven decisive results overall across 12 games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> As is tradition, Jeanne Cairns Sinquefield marked the start of this year's tournament with the ringing of the bell. (Photo courtesy SLCC/Crystal Fuller)<br> <br> <br> <br> Today's report features annotations by GM Jason Liang. Read on to learn a thing or two about endgames! Women'",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-championships-hot-start",
          "pubDate" : "Sat, 10 Oct 2026 00:00:00",
          "title" : "U.S. Championships Off to a Hot Start"
+      },
+      {
+         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
+         "pubDate" : "Fri, 09 Oct 2026 23:09:00",
+         "title" : "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score"
       },
       {
          "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
@@ -74,6 +98,14 @@ news_feed (
          "title" : "BCET Awards 2026"
       },
       {
+         "description" : "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
+         "pubDate" : "Fri, 09 Oct 2026 08:30:22",
+         "title" : "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'"
+      },
+      {
          "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -90,12 +122,28 @@ news_feed (
          "title" : "2026 U.S. Championships Preview"
       },
       {
+         "description" : "Europe is about to meet the world&#39;s biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
+         "pubDate" : "Wed, 07 Oct 2026 08:00:00",
+         "title" : "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756391.cms\" />In the final installment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Savitha Shri opens up about her remarkable breakthrough as India's only individual gold medallist. The 19-year-old recalls arriving as a reserve, playing all 10 rounds and delivering when India needed her most, while discussing her family's sacrifices, the team's bronze, Swayams Mishra's support and her goal of becoming a Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/between-parents-struggles-and-endless-coffees-how-savitha-shri-became-indias-only-gold-medallist-at-chess-olympiad-exclusive/articleshow/134756391.cms",
          "pubDate" : "Wed, 07 Oct 2026 05:10:03",
          "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
+      },
+      {
+         "description" : "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
+         "pubDate" : "Tue, 06 Oct 2026 13:53:06",
+         "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
@@ -154,6 +202,14 @@ news_feed (
          "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
       },
       {
+         "description" : "In a week when GM Hikaru Nakamura pushed Chess.com&#39;s blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
+         "pubDate" : "Sat, 03 Oct 2026 21:30:00",
+         "title" : "Nakamura Breaks Calendar Record With 4th Consecutive Victory"
+      },
+      {
          "description" : "I always believed that if I became a Grandmaster, I could be proud of my game and enjoy chess fully. When I did it, nothing changed. If anything, I felt more stressed. My next goal was 2550. Achieved this, again, nothing changed. Then, one day I wrote in my diary: I want to become European []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -168,6 +224,30 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
          "pubDate" : "Sat, 3 Oct 2026 11:02:00",
          "title" : "46th World Chess Olympiad 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
+         "pubDate" : "Sat, 03 Oct 2026 08:21:01",
+         "title" : "Awonder Liang Invincible At Seirawan Chess, The Complex Variant"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren&#39;t quite enough to win, as he took second on tiebreaks behind IM Quoc Hy Nguyen. Maghsoodloo domina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
+         "pubDate" : "Fri, 02 Oct 2026 18:51:34",
+         "title" : "Hy Nguyen, Maghsoodloo, Grischuk Take 3 0 Thursday Titles"
+      },
+      {
+         "description" : "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
+         "pubDate" : "Fri, 02 Oct 2026 18:23:25",
+         "title" : "Bluebaum Takes First Freestyle Friday Of New Season"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134640893.cms\" />Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
@@ -192,6 +272,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-learning-experience-for-gm-diptayan/articleshow/134637399.cms",
          "pubDate" : "Fri, 02 Oct 2026 10:44:31",
          "title" : "A learning experience for GM Diptayan"
+      },
+      {
+         "description" : "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December&#39;s knockout finals, which will award one qualification sp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
+         "pubDate" : "Fri, 02 Oct 2026 08:00:00",
+         "title" : "Freestyle Friday Returns With World Championship Spots On The Line"
       },
       {
          "description" : " Host nation won having led almost from start to finish, while young English player reached a stunning landmark Uzbekistan, the host nation, won the open gold medals at the 2026 Olympiad, the biennial chess international team tournament, at Samarkand last week in the style of the legendary Soviet grandmasters of long ago. India, the defending champions, were second, Germany a surprise third, and the top-seeded United States fourth. The hosts led almost from start to finish, with world No 5 Nodirbek Abdusattorov and the world title challenger Javokhir Sindarov their top-board powerhouses. The team recovered swiftly from a single defeat by Germany, and were particularly impressive in crushing ",
@@ -242,6 +330,30 @@ news_feed (
          "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
       },
       {
+         "description" : "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/october-2026-fide-rating-list",
+         "pubDate" : "Thu, 01 Oct 2026 08:56:00",
+         "title" : "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List"
+      },
+      {
+         "description" : "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
+         "pubDate" : "Thu, 01 Oct 2026 08:40:00",
+         "title" : "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report"
+      },
+      {
+         "description" : "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a two-hour arena of five-minut...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
+         "pubDate" : "Thu, 01 Oct 2026 01:37:00",
+         "title" : "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown"
+      },
+      {
          "description" : "US Chess is pleased to announce the recipients of the 2026-2027 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Ryan Cai, San Diego, CA, attending Yale UniversityKevin Flores, Palmview, TX, attending University of Texas Rio Grande ValleyJessica Lee, Mountain Lakes, NJ, attending Lehigh UniversityAustin McMurtrie, Hinckley, IL, attending Northern Illinois UniversityIn addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated events.Dr. Jacklyn wished for his gift to assi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -258,12 +370,28 @@ news_feed (
          "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
       },
       {
+         "description" : "The 13th World Chess Champion Garry Kasparov says security services in the U.S. warned him and a fellow Russian opposition figure that their lives were in danger and that they should take precautions. His statement comes one day after a report by ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
+         "pubDate" : "Wed, 30 Sep 2026 12:16:00",
+         "title" : "Garry Kasparov Confirms Security Warnings After Report Of Russian Assassination Plot"
+      },
+      {
          "description" : "Greetings all! Putting on my ECF Manager of Coaches hat I have been asked by Gerry Walsh if there are any coaches out there who would like to coach blind...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/coaching-blind-players/",
          "pubDate" : "Wed, 30 Sep 2026 08:21:32",
          "title" : "Coaching blind players"
+      },
+      {
+         "description" : "British chess sensation FM Bodhana Sivanandan has made history again. The 11-year-old completed the requirements for the Woman Grandmaster title at the 46th Women&#39;s Chess Olympiad in Samarkand, Uzbekistan, becoming the youngest player ever to do s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
+         "pubDate" : "Wed, 30 Sep 2026 07:21:00",
+         "title" : "Bodhana Sivanandan, 11, Becomes Youngest-Ever WGM, Scores Second IM Norm"
       },
       {
          "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
@@ -282,12 +410,52 @@ news_feed (
          "title" : "Wednesday Workout: Puerto Rico at 46th Olympiad"
       },
       {
+         "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
+         "pubDate" : "Tue, 29 Sep 2026 23:03:34",
+         "title" : "Wesley Sews Up First Titled Tuesday Of 2026"
+      },
+      {
+         "description" : "Uzbekistan&#39;s victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
+         "pubDate" : "Tue, 29 Sep 2026 10:39:00",
+         "title" : "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions"
+      },
+      {
+         "description" : "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division&#39;s opening round. Texas Tech defeated three-time league champions the University of Missouri ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
+         "pubDate" : "Tue, 29 Sep 2026 10:34:00",
+         "title" : "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins"
+      },
+      {
          "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
          "pubDate" : "Tue, 29 Sep 2026 09:38:57",
          "title" : "Uzbekistan and China win the 46th Chess Olympiad"
+      },
+      {
+         "description" : "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chessup-lite",
+         "pubDate" : "Tue, 29 Sep 2026 09:00:00",
+         "title" : "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board"
+      },
+      {
+         "description" : "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&#38;rsquo;re a chess player. Every rating point you&#38;rsquo;ve earned, every puzzle you&#38;rsquo;ve solved, and every game you&#38;rsquo;ve played is part o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
+         "pubDate" : "Tue, 29 Sep 2026 06:00:00",
+         "title" : "New Feature: Add Your Chess.com Stats To LinkedIn"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
@@ -306,6 +474,22 @@ news_feed (
          "title" : "Tactics Tuesday: Puerto Rico at 46th Olympiad"
       },
       {
+         "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
+         "pubDate" : "Mon, 28 Sep 2026 13:28:00",
+         "title" : "Nakamura Completes Bullet Brawl Hat Trick"
+      },
+      {
+         "description" : "GMs Levon Aronian,&#38;nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
+         "pubDate" : "Mon, 28 Sep 2026 07:08:56",
+         "title" : "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field"
+      },
+      {
          "description" : "The ECU Annual Academy training programme commences on Monday, 16th of November 2026 and will run until the 27th of April 2027 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A - for players rated 1900+, and B - for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -320,6 +504,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms",
          "pubDate" : "Sun, 27 Sep 2026 12:49:38",
          "title" : "Chess Olympiad: Savitha heroics bring medal; Arjun helps India bag Open silver"
+      },
+      {
+         "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
+         "pubDate" : "Sun, 27 Sep 2026 05:19:00",
+         "title" : "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134513539.cms\" />India face a tense final day at the 2026 Chess Olympiad in Samarkand, with both defending champions still in gold-medal contention. The open team needs a win over Hungary and an Uzbekistan slip-up, while the women's team face a steeper route against Georgia. Gukesh and Savitha Shri remain in individual medal contention.",
