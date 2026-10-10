@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush (pictured) head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Fri, 09 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
+         "link" : "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+         "pubDate" : "Fri, 09 Oct 2026 11:50:00",
+         "title" : "Fabiano Caruana targets fifth consecutive US title"
       },
       {
          "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
