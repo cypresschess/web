@@ -18,11 +18,19 @@ news_feed (
          "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
       },
       {
-         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player strong first tournament and came close to...",
+         "description" : "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang were the othe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
+         "pubDate" : "Sat, 10 Oct 2026 01:55:00",
+         "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
+      },
+      {
+         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
-         "pubDate" : "Fri, 09 Oct 2026 23:09:04",
+         "pubDate" : "Fri, 09 Oct 2026 23:09:00",
          "title" : "Duda Scores 10/11, Narrowly Misses First Perfect Score"
       },
       {
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
          "pubDate" : "Sat, 26 Sep 2026 09:42:00",
          "title" : "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan"
-      },
-      {
-         "description" : "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
-         "pubDate" : "Sat, 26 Sep 2026 03:50:00",
-         "title" : "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489249.cms\" />China currently lead the women's Chess Olympiad in Samarkand despite missing its top three players. World No. 4 Zhu Jiner has emerged as the team's unbeaten Board 1, rebounding strongly from a difficult GCL campaign in Bengaluru. In an exclusive interaction with TimesofIndia.com, she reflects on India's chess passion, her journey into professional chess, and China's unexpected title challenge.",
