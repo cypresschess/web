@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas K&ouml;pl has taken a closer look at Ris's opening courses and offers an assessment.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-2",
+         "pubDate" : "Sat, 10 Oct 2026 07:00:00",
+         "title" : "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134849027.cms\" />Tamil Nadu Chief Minister C Joseph Vijay honoured the state's 2026 Chess Olympiad medallists, distributing Rs 60 lakh among five recipients. D Gukesh and R Praggnanandhaa received Rs 15 lakh each, while Savitha Shri, R Vaishali and captain Srinath Narayanan were awarded Rs 10 lakh each. The state also launched its Dream Olympics 2036 scheme to support athletes with training and nutrition costs.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-get-rs-15-lakh-each-as-tamil-nadu-awards-rs-60-lakh-to-chess-olympiad-medallists/articleshow/134849027.cms",
+         "pubDate" : "Sat, 10 Oct 2026 06:34:28",
+         "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
+      },
+      {
+         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player strong first tournament and came close to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
+         "pubDate" : "Fri, 09 Oct 2026 23:09:04",
+         "title" : "Duda Scores 10/11, Narrowly Misses First Perfect Score"
+      },
+      {
          "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt"
       },
       {
-         "description" : "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov on board two, but the Nodirbe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
-         "pubDate" : "Fri, 25 Sep 2026 09:45:00",
-         "title" : "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points"
-      },
-      {
          "description" : " The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets<strong> </strong>in the remaining three rounds. England have lost twice, first to the No 2 seeds India, then in a shock against Uzbekistan's second team, while England women have performed well, with 11-year-old Bodhana Sivanandan beaten only once on top board. <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-sh",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-shouldnt-be-called-no-1-alexei-shirov-questions-use-of-world-champion-title/articleshow/134401161.cms",
          "pubDate" : "Tue, 22 Sep 2026 03:17:50",
          "title" : "Gukesh shouldn't be called No. 1: Shirov questions use of 'World Champion' title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134400926.cms\" />India suffered a narrow 2.5-1.5 defeat to hosts Uzbekistan in Round 6 of the Chess Olympiad after Nihal Sarin let a winning position slip, allowing Nodirbek Yakubboev to capture his queen for free. With Praggnanandhaa, Arjun Erigaisi and D Gukesh drawing, Nihal's loss proved decisive. India's women bounced back against the United States, winning 3-1 after their previous-round defeat to Poland.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
-         "pubDate" : "Tue, 22 Sep 2026 02:55:32",
-         "title" : "Chess Olympiad Round 6: How Nihal Sarin blundered his queen in India's loss"
       },
       {
          "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
