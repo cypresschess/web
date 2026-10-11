@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Sun, 11 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
