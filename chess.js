@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "description" : "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participants, Thalia Cervantes and 13-year-old Megan Paragua, share the lead on 2/2. Paragua defeated defending champion Carissa Yip, who blundered in an equal position. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Sat, 10 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
+         "link" : "https://en.chessbase.com/post/us-championships-2026-2",
+         "pubDate" : "Sun, 11 Oct 2026 04:45:00",
+         "title" : "US Championships: So and Liang remain perfect, Paragua beats Yip"
+      },
+      {
+         "description" : "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can change a position on the board; it is why people reach for one when the result matters and control feels limited. | Pictured: Alexander Alekhine and his cat Chess (Amsterdam, 1935)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strange-comforts-superstition-chess",
+         "pubDate" : "Sun, 11 Oct 2026 02:00:00",
+         "title" : "The strange comforts of superstition in chess"
+      },
+      {
+         "description" : "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
+         "pubDate" : "Sat, 10 Oct 2026 19:58:47",
+         "title" : "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores"
       },
       {
          "description" : "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its people. Here is his travel report. | Photos: Axel Eger",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
          "pubDate" : "Sat, 10 Oct 2026 17:40:00",
          "title" : "Between the Silk Road and the chessboard - eight days in Uzbekistan"
+      },
+      {
+         "description" : "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
+         "pubDate" : "Sat, 10 Oct 2026 17:14:00",
+         "title" : "Nakamura Makes History With Record 5th Straight Bullet Brawl Victory"
       },
       {
          "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Nakamura Completes Bullet Brawl Hat Trick"
       },
       {
-         "description" : "GMs Levon Aronian,&#38;nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
-         "pubDate" : "Mon, 28 Sep 2026 07:08:56",
-         "title" : "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field"
-      },
-      {
          "description" : "The ECU Annual Academy training programme commences on Monday, 16th of November 2026 and will run until the 27th of April 2027 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A - for players rated 1900+, and B - for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms",
          "pubDate" : "Sun, 27 Sep 2026 12:49:38",
          "title" : "Chess Olympiad: Savitha heroics bring medal; Arjun helps India bag Open silver"
-      },
-      {
-         "description" : "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
-         "pubDate" : "Sun, 27 Sep 2026 05:19:00",
-         "title" : "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134513539.cms\" />India face a tense final day at the 2026 Chess Olympiad in Samarkand, with both defending champions still in gold-medal contention. The open team needs a win over Hungary and an Uzbekistan slip-up, while the women's team face a steeper route against Georgia. Gukesh and Savitha Shri remain in individual medal contention.",
