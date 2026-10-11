@@ -608,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
          "pubDate" : "Mon, 21 Sep 2026 13:14:51",
          "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
-      },
-      {
-         "description" : "It's once again time to think about aesthetics in ChessBase&acute;26 training: Have you ever noticed the \"Style\" option? If not, in this episode we'll explain briefly and concisely how you can better adapt your screen display to your own taste.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
-         "pubDate" : "Sun, 20 Sep 2026 07:00:00",
-         "title" : "ChessBase&acute;26 - Tips for Beginners, part 32: Training with style"
       }
    ]
 }
