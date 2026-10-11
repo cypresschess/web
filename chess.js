@@ -26,6 +26,14 @@ news_feed (
          "title" : "The strange comforts of superstition in chess"
       },
       {
+         "description" : "After two rounds of the 2026 U.S. Championships, four players (two per event) remain in contention for the Fischer Prize in St. Louis. In the Open, it's three members of this year's Olympiad squad atop the standings, but, in the Women's event, the leaders are more surprising. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> World Chess Hall of Fame inductee Boris Gelfand got the games going on Saturday. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> In the Open, GMs Wesley So and Awonder Liang improved to 2/2, while top-rated GM Fabiano Caruana also won to move into clear third. In the Women's, FM Megan Paragua upset IM Carissa Yip to improve to",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/four-remain-perfect-after-round-2",
+         "pubDate" : "Sun, 11 Oct 2026 00:00:00",
+         "title" : "Four Remain Perfect After Round 2"
+      },
+      {
          "description" : "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
          "pubDate" : "Tue, 29 Sep 2026 02:05:22",
          "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
-      },
-      {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in tomorrow's Wednesday Workout. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-puerto-rico-46th-olympiad",
-         "pubDate" : "Tue, 29 Sep 2026 00:00:00",
-         "title" : "Tactics Tuesday: Puerto Rico at 46th Olympiad"
       },
       {
          "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
