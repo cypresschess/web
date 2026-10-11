@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-10-10","26","<a href=https://ratings.uschess.org/event/202610100653 target='_blank'>1st Azeri Chess Academy Open</a>",
+"HOUSTON","2026-10-10","10","<a href=https://ratings.uschess.org/event/202610100473 target='_blank'>chesspanda10102026saturday</a>",
 "SPRING","2026-10-09","22","<a href=https://ratings.uschess.org/event/202610090203 target='_blank'>The Friday Knights</a>",
 "CYPRESS","2026-10-09","49","<a href=https://ratings.uschess.org/event/202610090183 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-10-04","17","<a href=https://ratings.uschess.org/event/202610040273 target='_blank'>Bellaire Sunday Swiss 2026.10.04</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-07-11","25","<a href=https://ratings.uschess.org/event/202607111053 target='_blank'>2026 Houston Chess Festival Blitz</a>",
 "HOUSTON","2026-07-11","43","<a href=https://ratings.uschess.org/event/202607111033 target='_blank'>2026 Houston Chess Festival Scholastic</a>",
 "HOUSTON","2026-07-11","17","<a href=https://ratings.uschess.org/event/202607110533 target='_blank'>Houston Summer Open</a>",
-"HOUSTON","2026-07-11","4","<a href=https://ratings.uschess.org/event/202607110323 target='_blank'>chesspanda07112026saturday</a>",
-"SUGAR LAND","2026-07-11","20","<a href=https://ratings.uschess.org/event/202607110013 target='_blank'>FBCC 2025 National Kitten Day Open</a>",
 ]);
