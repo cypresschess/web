@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
+         "pubDate" : "Sun, 11 Oct 2026 13:00:00",
+         "title" : "The Chess Olympiad that wasn't: Munich 1936"
+      },
+      {
          "description" : "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participants, Thalia Cervantes and 13-year-old Megan Paragua, share the lead on 2/2. Paragua defeated defending champion Carissa Yip, who blundered in an equal position. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
-         "pubDate" : "Sat, 10 Oct 2026 19:58:47",
+         "pubDate" : "Sat, 10 Oct 2026 19:58:00",
          "title" : "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores"
       },
       {
