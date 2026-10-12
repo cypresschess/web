@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2&frac12;/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the leaders. In the women's tournament, Alice Lee defeated Nazi Paikidze to join Thalia Cervantes and Megan Paragua in first place. Defending champion Carissa Yip suffered her second consecutive defeat. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-3",
+         "pubDate" : "Mon, 12 Oct 2026 17:20:00",
+         "title" : "US Championships: Shankland and Woodward score"
+      },
+      {
          "description" : "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match points. The first three rounds saw encouraging results for promoted sides Bad Mergentheim and Remagen Sinzig, while Bayern Munich's Matic Lavrencic was the only player to score three wins in as many games. | Pictured: Viernheim's Aydin Suleymanli (2&frac12;/3 points) | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-shouldnt-be-called-no-1-alexei-shirov-questions-use-of-world-champion-title/articleshow/134401161.cms",
          "pubDate" : "Tue, 22 Sep 2026 03:17:50",
          "title" : "Gukesh shouldn't be called No. 1: Shirov questions use of 'World Champion' title"
-      },
-      {
-         "description" : "European Chess Union (ECU) and Montenegro Chess Federation (MCF) have the honour to invite all the National federations affiliated to ECU to participate in the 41st European Chess Club Cup and the 30th European Chess Club Cup for Women. The events will be held in Budva, Montenegro, from 16th October (arrival day) to 24th October 2026 (departure day). The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women will be played in Hotel Slovenska Plaza, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-and-womens-chess-club-cups-2026-official-invitation/",
-         "pubDate" : "Mon, 21 Sep 2026 13:14:51",
-         "title" : "European Open and Women's Chess Club Cups 2026 - Important Update of Official Regulations"
       }
    ]
 }
