@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match points. The first three rounds saw encouraging results for promoted sides Bad Mergentheim and Remagen Sinzig, while Bayern Munich's Matic Lavrencic was the only player to score three wins in as many games. | Pictured: Viernheim's Aydin Suleymanli (2&frac12;/3 points) | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2026-27-r3",
+         "pubDate" : "Mon, 12 Oct 2026 07:25:00",
+         "title" : "Bundesliga: Viernheim and Baden-Baden set the early pace"
+      },
+      {
          "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
