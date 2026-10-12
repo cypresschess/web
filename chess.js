@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Hans Niemann | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Mon, 12 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabayev, Tiger Hillarp Persson and G. B. Harshavardhan (pictured, left) shared first place with 7&frac12;/10 points each. | Photo: Anniken Vestby",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r10",
+         "pubDate" : "Mon, 12 Oct 2026 18:40:00",
+         "title" : "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm"
+      },
+      {
          "description" : "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2&frac12;/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the leaders. In the women's tournament, Alice Lee defeated Nazi Paikidze to join Thalia Cervantes and Megan Paragua in first place. Defending champion Carissa Yip suffered her second consecutive defeat. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders"
       },
       {
-         "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Sun, 11 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
+         "description" : "The Fischer Prize is safe for another year and journalists will have to find new storylines. Round 3 of the 2026 U.S. Championships saw all four remaining players with 2/2 settle for draws. In the Open, GMs Awonder Liang and Wesley So drew a quiet game and remain in joint first. In the Women's, WGM Thalia Cervantes and FM Megan Paragua each drew (mostly) uneventful games, allowing IM Alice Lee to join them in joint first after a tactical oversight by IM Nazi Paikidze. Annotations are coming from your author today, but fear not: guest commentary resumes tomorrow. Women's: Lee Joins LeadersParagua and Cervantes remain atop the leaderboard after draws on Sunday, but their games could have went ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/no-more-searching-bobby-fischer-prize",
+         "pubDate" : "Mon, 12 Oct 2026 00:00:00",
+         "title" : "No More Searching For Bobby Fischer Prize"
       },
       {
          "description" : "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
          "pubDate" : "Wed, 30 Sep 2026 07:18:10",
          "title" : "European Senior Team Chess Championship 2027 - Official invitation"
-      },
-      {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets resume this week with the first installment in a four-week series. We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-puerto-rico-46th-olympiad",
-         "pubDate" : "Wed, 30 Sep 2026 00:00:00",
-         "title" : "Wednesday Workout: Puerto Rico at 46th Olympiad"
       },
       {
          "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
