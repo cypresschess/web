@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2026-10-11","18","<a href=https://ratings.uschess.org/event/202610110343 target='_blank'>Bellaire Sunday Swiss 2026.10.11</a>",
+"HOUSTON","2026-10-11","11","<a href=https://ratings.uschess.org/event/202610110273 target='_blank'>OCT 11th SUNDAY SWISS</a>",
+"SPRING","2026-10-10","232","<a href=https://ratings.uschess.org/event/202610101293 target='_blank'>NATIONAL CHESS DAY AT STRACK INTERM</a>",
 "HOUSTON","2026-10-10","26","<a href=https://ratings.uschess.org/event/202610100653 target='_blank'>1st Azeri Chess Academy Open</a>",
 "HOUSTON","2026-10-10","10","<a href=https://ratings.uschess.org/event/202610100473 target='_blank'>chesspanda10102026saturday</a>",
 "SPRING","2026-10-09","22","<a href=https://ratings.uschess.org/event/202610090203 target='_blank'>The Friday Knights</a>",
@@ -96,7 +99,4 @@ jtable([
 "SPRING","2026-07-17","25","<a href=https://ratings.uschess.org/event/202607170273 target='_blank'>The Friday Knights</a>",
 "HOUSTON","2026-07-17","13","<a href=https://ratings.uschess.org/event/202607170133 target='_blank'>JULY 17  CHESSMASTERS DAYLIGHT OPEN</a>",
 "HOUSTON","2026-07-12","183","<a href=https://ratings.uschess.org/event/202607120763 target='_blank'>2026 Houston Chess Festival</a>",
-"HOUSTON","2026-07-11","25","<a href=https://ratings.uschess.org/event/202607111053 target='_blank'>2026 Houston Chess Festival Blitz</a>",
-"HOUSTON","2026-07-11","43","<a href=https://ratings.uschess.org/event/202607111033 target='_blank'>2026 Houston Chess Festival Scholastic</a>",
-"HOUSTON","2026-07-11","17","<a href=https://ratings.uschess.org/event/202607110533 target='_blank'>Houston Summer Open</a>",
 ]);
