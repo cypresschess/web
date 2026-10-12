@@ -10,6 +10,14 @@ news_feed (
          "title" : "Bundesliga: Viernheim and Baden-Baden set the early pace"
       },
       {
+         "description" : "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
+         "pubDate" : "Mon, 12 Oct 2026 00:40:22",
+         "title" : "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders"
+      },
+      {
          "description" : "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
          "pubDate" : "Tue, 29 Sep 2026 02:05:22",
          "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
-         "pubDate" : "Mon, 28 Sep 2026 13:28:00",
-         "title" : "Nakamura Completes Bullet Brawl Hat Trick"
       },
       {
          "description" : "The ECU Annual Academy training programme commences on Monday, 16th of November 2026 and will run until the 27th of April 2027 with the support of the FIDE Development Fund. The lecturers are the world-renowned chess coaches, and the trainings are organised in two groups: A - for players rated 1900+, and B - for players rated U1900. Each group will have 24 live sessions for a total of 48 hours of instruction. Participants will have the opportunity to watch []",
