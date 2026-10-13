@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
+         "pubDate" : "Tue, 13 Oct 2026 05:45:02",
+         "title" : "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi"
+      },
+      {
          "description" : "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Yangyi in the final match. After a lengthy battle, Yu Yangyi came out on top. | Photos: Chinese Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
