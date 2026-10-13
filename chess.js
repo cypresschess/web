@@ -34,6 +34,14 @@ news_feed (
          "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
       },
       {
+         "description" : "In Round 4 of the 2026 U.S. Championships, we witnessed brilliant sacrifices, complex endgames, and missed opportunities. Going into the first rest day, GMs Wesley So and Fabiano Caruana are tied for first in the Open, while IM Alice Lee has taken the sole lead - half a point ahead of WGM Thalia Cervantes - in the Women's event. Play resumes Wednesday, Oct. 14, at noon CDT. Open: Caruana Catches SoWith four decisive results (and just two draws), there was clearly blood in the water today. The co-leaders - So and GM Awonder Liang - were a combined &frac12;/2, leading to a standings shakeup, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An impress",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/caruana-catches-so-lee-leaps",
+         "pubDate" : "Tue, 13 Oct 2026 00:00:00",
+         "title" : "Caruana Catches So as Lee Leaps"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Hans Niemann | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
          "pubDate" : "Thu, 01 Oct 2026 01:37:00",
          "title" : "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown"
-      },
-      {
-         "description" : "US Chess is pleased to announce the recipients of the 2026-2027 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Ryan Cai, San Diego, CA, attending Yale UniversityKevin Flores, Palmview, TX, attending University of Texas Rio Grande ValleyJessica Lee, Mountain Lakes, NJ, attending Lehigh UniversityAustin McMurtrie, Hinckley, IL, attending Northern Illinois UniversityIn addition to the 18-21 age requirements set forth in Dr. Jacklyn's bequest, applicants for the Jacklyn Program must be US Chess members with a rating between 1500-2000 and have a sustained history of playing in US Chess-rated events.Dr. Jacklyn wished for his gift to assi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-herbert-b-jacklyn-program-recipients-announced",
-         "pubDate" : "Thu, 01 Oct 2026 00:00:00",
-         "title" : "2026 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
