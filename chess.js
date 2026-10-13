@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she played: 1&frac12; points. Not bad for an 11-year-old girl. Before the matches she visited ChessBase in Hamburg and did some recordings for us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhabna-in-the-bundesliga",
+         "pubDate" : "Tue, 13 Oct 2026 17:49:30",
+         "title" : "Bodhana in the Bundesliga"
+      },
+      {
          "description" : "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 season: A match started late, raising the question of whether a grandmaster had arrived on time. What followed was a furious battle over the rules, a series of appeals, a replayed match, a relegation play-off and repeated changes to which team would be relegated. | Photo: Dr Robert H&uuml;bner playing in the Bundesliga in the 1980s (All photos courtesy of Eising and Treppner, Schachbundesliga)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
          "pubDate" : "Tue, 13 Oct 2026 12:33:33",
          "title" : "A dispute in the Bundesliga"
+      },
+      {
+         "description" : "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&#38;mdash;where he currently shares the tournament lead&#38;mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
+         "pubDate" : "Tue, 13 Oct 2026 11:44:54",
+         "title" : "Caruana Wins Titled Tuesday On Day Off In U.S. Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
       },
       {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the second installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico and Guam features, and this week we take a look at U.S. Virgin Islands! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our i",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-virgin-islands-46th-olympiad",
+         "pubDate" : "Tue, 13 Oct 2026 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Virgin Islands at 46th Olympiad"
+      },
+      {
          "description" : "In Round 4 of the 2026 U.S. Championships, we witnessed brilliant sacrifices, complex endgames, and missed opportunities. Going into the first rest day, GMs Wesley So and Fabiano Caruana are tied for first in the Open, while IM Alice Lee has taken the sole lead - half a point ahead of WGM Thalia Cervantes - in the Women's event. Play resumes Wednesday, Oct. 14, at noon CDT. Open: Caruana Catches SoWith four decisive results (and just two draws), there was clearly blood in the water today. The co-leaders - So and GM Awonder Liang - were a combined &frac12;/2, leading to a standings shakeup, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An impress",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/caruana-catches-so-lee-leaps",
          "pubDate" : "Tue, 13 Oct 2026 00:00:00",
          "title" : "Caruana Catches So as Lee Leaps"
-      },
-      {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Hans Niemann | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Mon, 12 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabayev, Tiger Hillarp Persson and G. B. Harshavardhan (pictured, left) shared first place with 7&frac12;/10 points each. | Photo: Anniken Vestby",
@@ -442,14 +458,6 @@ news_feed (
          "title" : "Just the Rules: US Chess Committees"
       },
       {
-         "description" : "Check is in the Mail October 2026A recent issue of US Chess's new newsletter, \"The Key,\" featured a Chessable course on the Sicilian Kan by FIDE Master Vjekoslav Nemec and Jonathan \"JJ\" Lang - our Digital Editor. Let's see what this opening is all about! (Editor's note: I couldn't help myself, so I annotated these games in a bit more detail. - JJL)The Sicilian Defense: Kan Variation is a flexible and solid chess opening for Black that begins with the moves 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6.Unlike forcing, heavily theoretical lines of the Sicilian like the Najdorf or Dragon, the Kan focuses on elastic principles, fluid piece placement, and long-term strategic ideas rather than memorizi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-october-2026-all-about-kan",
-         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
-         "title" : "Check is in the Mail October 2026: All About the Kan"
-      },
-      {
          "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
          "pubDate" : "Tue, 29 Sep 2026 09:38:57",
          "title" : "Uzbekistan and China win the 46th Chess Olympiad"
-      },
-      {
-         "description" : "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chessup-lite",
-         "pubDate" : "Tue, 29 Sep 2026 09:00:00",
-         "title" : "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
