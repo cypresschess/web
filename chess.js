@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 season: A match started late, raising the question of whether a grandmaster had arrived on time. What followed was a furious battle over the rules, a series of appeals, a replayed match, a relegation play-off and repeated changes to which team would be relegated. | Photo: Dr Robert H&uuml;bner playing in the Bundesliga in the 1980s (All photos courtesy of Eising and Treppner, Schachbundesliga)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
+         "pubDate" : "Tue, 13 Oct 2026 12:33:33",
+         "title" : "A dispute in the Bundesliga"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
          "pubDate" : "Tue, 13 Oct 2026 02:45:00",
          "title" : "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters"
+      },
+      {
+         "description" : "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
+         "pubDate" : "Tue, 13 Oct 2026 01:04:00",
+         "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
       },
       {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Hans Niemann | Photo: Lennart Ootes",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board"
       },
       {
-         "description" : "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&#38;rsquo;re a chess player. Every rating point you&#38;rsquo;ve earned, every puzzle you&#38;rsquo;ve solved, and every game you&#38;rsquo;ve played is part o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
-         "pubDate" : "Tue, 29 Sep 2026 06:00:00",
-         "title" : "New Feature: Add Your Chess.com Stats To LinkedIn"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-usas-only-female-gm-irina-krush/articleshow/134425151.cms",
          "pubDate" : "Wed, 23 Sep 2026 04:18:30",
          "title" : "Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina"
-      },
-      {
-         "description" : "The Greek Chess Federation (ESO) convened an extraordinary meeting on 16th of September 2026, following the passing of the Federation's Honorary President, and former President, Mr. Georgios Makropoulos. The Greek Chess Federation's full resolution of Honour and Remembrance for Mr. Georgios Makropoulos is below. The Board of Directors of the Greek Chess Federation (ESO) convened in an extraordinary meeting on Wednesday, 16 September 2026, following the passing of the Federation's Honorary President, Georgios Makropoulos, and unanimously expresses its profound sorrow []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/resolution-of-hounour-and-remembrance-for-georgios-makropoulos/",
-         "pubDate" : "Tue, 22 Sep 2026 09:27:44",
-         "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
       }
    ]
 }
