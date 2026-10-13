@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Yangyi in the final match. After a lengthy battle, Yu Yangyi came out on top. | Photos: Chinese Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
+         "pubDate" : "Tue, 13 Oct 2026 02:45:00",
+         "title" : "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Hans Niemann | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.europechess.org/resolution-of-hounour-and-remembrance-for-georgios-makropoulos/",
          "pubDate" : "Tue, 22 Sep 2026 09:27:44",
          "title" : "Resolution of Hounour and Remembrance for Georgios Makropoulos"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401161.cms\" />Grandmaster Alexei Shirov has proposed that the chess world consider adopting a system similar to tennis for its World Champion title. His suggestion comes at a pivotal time following D Gukesh's historic win over Ding Liren, making him the youngest undisputed world champion. Shirov's remarks are part of a larger discussion about the current relevance and representation of the classical world title in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-shouldnt-be-called-no-1-alexei-shirov-questions-use-of-world-champion-title/articleshow/134401161.cms",
-         "pubDate" : "Tue, 22 Sep 2026 03:17:50",
-         "title" : "Gukesh shouldn't be called No. 1: Shirov questions use of 'World Champion' title"
       }
    ]
 }
