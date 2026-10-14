@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Lee took the sole lead by beating 13-year-old Megan Paragua, while Irina Krush scored her second victory of the event, defeating Nazi Paikidze. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-4",
+         "pubDate" : "Tue, 13 Oct 2026 19:45:00",
+         "title" : "US Championships: Caruana climbs to the shared lead in the open, Lee takes the sole lead in the women's"
+      },
+      {
          "description" : "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she played: 1&frac12; points. Not bad for an 11-year-old girl. Before the matches she visited ChessBase in Hamburg and did some recordings for us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
