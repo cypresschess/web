@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without special approval, while considering broader use of 45+30. Limits on games per day and title norms would remain, with further consultation planned before decisions on more extensive changes to classical tournament regulations. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
+         "pubDate" : "Wed, 14 Oct 2026 06:10:00",
+         "title" : "FIDE General Assembly adopts resolution on shorter time controls"
+      },
+      {
          "description" : "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Lee took the sole lead by beating 13-year-old Megan Paragua, while Irina Krush scored her second victory of the event, defeating Nazi Paikidze. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms",
          "pubDate" : "Thu, 24 Sep 2026 02:33:15",
          "title" : "Olympiad R7: India's gold chances get bleaker despite win in open; women still in hunt"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134425151.cms\" />Irina Krush has been a constant presence in the United States women's chess team's rise, featuring in all three of its historic Olympiad medals. From becoming America's youngest women's champion at 14 to earning the country's only female GM title, Krush, speaking exclusively to TimesofIndia.com, reflects on her journey, the changing landscape of American chess, her commentary career, and the challenges of competing at her 13th Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-usas-only-female-gm-irina-krush/articleshow/134425151.cms",
-         "pubDate" : "Wed, 23 Sep 2026 04:18:30",
-         "title" : "Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina"
       }
    ]
 }
