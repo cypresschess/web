@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Abhimanyu Mishra | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Wed, 14 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams"
       },
       {
+         "description" : "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
+         "pubDate" : "Wed, 14 Oct 2026 12:00:54",
+         "title" : "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record"
+      },
+      {
          "description" : "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without special approval, while considering broader use of 45+30. Limits on games per day and title norms would remain, with further consultation planned before decisions on more extensive changes to classical tournament regulations. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
          "pubDate" : "Wed, 14 Oct 2026 06:10:00",
          "title" : "FIDE General Assembly adopts resolution on shorter time controls"
+      },
+      {
+         "description" : "Editor's Note: Chess Life and Chess Life Online Editor John Hartmann made it to St. Louis for the first two rounds of the 2026 U.S. Championships. A true journalist, Hartmann kept a log of each day's goings-on, which he has allowed to be published on Chess Life Online. This is a collection of observations, not a complete write-up from Hartmann (you'll have to wait for the print issue). We've grouped his notes into three sections. The first will help you get a feel for the ambiance and atmosphere of the Saint Louis Chess Club (SLCC) before and during the rounds. The second introduces you to some of the many chess fans - from casual observers to life members, locals and travelers - he met at t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/club-notes-st-louis",
+         "pubDate" : "Wed, 14 Oct 2026 00:00:00",
+         "title" : "In the Club: Notes from St. Louis"
       },
       {
          "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in a previous Tactics Tuesday.This week, we double-up with worksheets from Guam and U.S. Virgin Islands' Open teams. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> Guam's Open ",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
       },
       {
-         "description" : "IA/IO Carlos Chavez is the Executive Director of the storied Marshall Chess Club in Manhattan, NY. Last month, he traveled to Samarkand, Uzbekistan to work as a Match Arbiter for the 3rd FIDE Olympiad for People with Disabilities. He documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. Review all of Chess Life Online's coverage from Samarkand here.Empowerment, accessibility, diversity, equity, and inclusion were not only words spoken but principles put into practice at the 3rd FIDE Chess Olympiad for Players with Disabilities. I had the privilege of serving as a match arbiter at this histo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/arbiters-perspective-3rd-fide-chess-olympiad-players-disabilities",
-         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
-         "title" : "An Arbiter's Perspective: 3rd FIDE Chess Olympiad for Players with Disabilities"
-      },
-      {
          "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
          "pubDate" : "Tue, 29 Sep 2026 10:39:00",
          "title" : "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions"
-      },
-      {
-         "description" : "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division&#39;s opening round. Texas Tech defeated three-time league champions the University of Missouri ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
-         "pubDate" : "Tue, 29 Sep 2026 10:34:00",
-         "title" : "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins"
       },
       {
          "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
