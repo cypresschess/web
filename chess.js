@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/young-british-prodigies",
+         "pubDate" : "Wed, 14 Oct 2026 16:00:00",
+         "title" : "Young British prodigies"
+      },
+      {
+         "description" : "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event continues a programme that uses chess as an educational and social tool in correctional facilities. Several teams completed the opening stage with perfect scores before advancing to the championship rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/intercontinental-online-chess-ch-2026-start",
+         "pubDate" : "Wed, 14 Oct 2026 13:45:00",
+         "title" : "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams"
+      },
+      {
          "description" : "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without special approval, while considering broader use of 45+30. Limits on games per day and title norms would remain, with further consultation planned before decisions on more extensive changes to classical tournament regulations. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
          "pubDate" : "Wed, 14 Oct 2026 06:10:00",
          "title" : "FIDE General Assembly adopts resolution on shorter time controls"
+      },
+      {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in a previous Tactics Tuesday.This week, we double-up with worksheets from Guam and U.S. Virgin Islands' Open teams. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> Guam's Open ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-guam-and-us-virgin-islands-46th-olympiad",
+         "pubDate" : "Wed, 14 Oct 2026 00:00:00",
+         "title" : "Wednesday Workout: Guam and U.S. Virgin Islands at 46th Olympiad"
       },
       {
          "description" : "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Lee took the sole lead by beating 13-year-old Megan Paragua, while Irina Krush scored her second victory of the event, defeating Nazi Paikidze. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/arbiters-perspective-3rd-fide-chess-olympiad-players-disabilities",
          "pubDate" : "Fri, 02 Oct 2026 00:00:00",
          "title" : "An Arbiter's Perspective: 3rd FIDE Chess Olympiad for Players with Disabilities"
-      },
-      {
-         "description" : "Take a peek at the US Chess list of working committees. How many groups do you recognize? These committees keep our federation's wheels greased. Some of these volunteer groups are higher-profile than others, but all serve essential functions. The Rules Committee is probably a lot more recognizable by wood-pushers than the Awards Committee, for example. The Audit Committee, plus the Finance &amp; Reserve Fund Committee, plays with greenbacks so that we all have the opportunity to be 64 square chess generals. The Ethics Committee deals with the moral principles, integrity, codes, and values we ascribe to when wood is pushed. Committee work takes dedication and often some special expertise: The",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-us-chess-committees",
-         "pubDate" : "Fri, 02 Oct 2026 00:00:00",
-         "title" : "Just the Rules: US Chess Committees"
       },
       {
          "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
