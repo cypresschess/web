@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
-         "pubDate" : "Wed, 14 Oct 2026 18:57:07",
+         "pubDate" : "Wed, 14 Oct 2026 18:57:00",
          "title" : "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet"
       },
       {
