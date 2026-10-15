@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/atyrau-masters-2026-r3",
+         "pubDate" : "Thu, 15 Oct 2026 04:45:00",
+         "title" : "Atyrau Masters: Top two seeds defeated in opening rounds"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Abhimanyu Mishra | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2026-live",
          "pubDate" : "Wed, 14 Oct 2026 19:00:00",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year&#39;s 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
+         "pubDate" : "Wed, 14 Oct 2026 18:57:07",
+         "title" : "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet"
       },
       {
          "description" : "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan.",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "Wesley Sews Up First Titled Tuesday Of 2026"
       },
       {
-         "description" : "Uzbekistan&#39;s victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
-         "pubDate" : "Tue, 29 Sep 2026 10:39:00",
-         "title" : "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions"
-      },
-      {
          "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
          "pubDate" : "Thu, 24 Sep 2026 16:10:33",
          "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134449255.cms\" />India's open team stayed in contention for a Chess Olympiad medal after beating England 2.5-1.5, but Uzbekistan's perfect run has made the gold race increasingly difficult. Meanwhile, the women's team strengthened their title hopes with a dominant 3.5-0.5 win over Germany, led by Savitha Shri's sixth straight victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms",
-         "pubDate" : "Thu, 24 Sep 2026 02:33:15",
-         "title" : "Olympiad R7: India's gold chances get bleaker despite win in open; women still in hunt"
       }
    ]
 }
