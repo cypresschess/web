@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia, was at one point ranked fourth in the world and played for SG Porz in the German Bundesliga for many years. | Photo: Frank Hoppe",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
+         "pubDate" : "Thu, 15 Oct 2026 21:45:00",
+         "title" : "Rafael Vaganian turns 75: Decades among the chess elite"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Jennifer Yu | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
