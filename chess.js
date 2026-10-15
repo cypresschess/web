@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Jennifer Yu | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Thu, 15 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3&frac12;/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee claimed her fourth consecutive win to extend her lead to a full point. Meanwhile, Rose Atwell defeated defending champion Carissa Yip, who suffered her third loss in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-5",
+         "pubDate" : "Thu, 15 Oct 2026 17:20:00",
+         "title" : "US Championships: Woodward takes down Caruana, Lee widens the gap"
+      },
+      {
          "description" : "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Atyrau Masters: Top two seeds defeated in opening rounds"
       },
       {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Abhimanyu Mishra | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Wed, 14 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
+         "description" : "After a day off, players were ready to fight, and the 2026 U.S. Championships delivered eight decisive results on Wednesday. IM Alice Lee extended her lead in the U.S. Women's Championship to a full point by improving to 4&frac12;/5. Lee turned 17 on her day off, but she picked up right where 16-year-old Alice left off, winning her fourth consecutive game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Woodward confidently moves against Caruana as Lee blurs by. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> But in the U.S. Championship, reigning U.S. Junior Champion GM Andy Woodward scored the best win of his career (so far), upsetting the fou",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-5-teen-takeover-us-championships",
+         "pubDate" : "Thu, 15 Oct 2026 00:00:00",
+         "title" : "Round 5: Teen Takeover at U.S. Championships"
       },
       {
          "description" : "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year&#39;s 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead...",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "Wednesday Workout: Guam and U.S. Virgin Islands at 46th Olympiad"
       },
       {
-         "description" : "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Lee took the sole lead by beating 13-year-old Megan Paragua, while Irina Krush scored her second victory of the event, defeating Nazi Paikidze. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-4",
-         "pubDate" : "Tue, 13 Oct 2026 19:45:00",
-         "title" : "US Championships: Caruana climbs to the shared lead in the open, Lee takes the sole lead in the women's"
-      },
-      {
          "description" : "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she played: 1&frac12; points. Not bad for an 11-year-old girl. Before the matches she visited ChessBase in Hamburg and did some recordings for us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +122,6 @@ news_feed (
          "title" : "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi"
       },
       {
-         "description" : "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Yangyi in the final match. After a lengthy battle, Yu Yangyi came out on top. | Photos: Chinese Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
-         "pubDate" : "Tue, 13 Oct 2026 02:45:00",
-         "title" : "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters"
-      },
-      {
          "description" : "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,30 +146,6 @@ news_feed (
          "title" : "Caruana Catches So as Lee Leaps"
       },
       {
-         "description" : "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabayev, Tiger Hillarp Persson and G. B. Harshavardhan (pictured, left) shared first place with 7&frac12;/10 points each. | Photo: Anniken Vestby",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-autumn-2026-r10",
-         "pubDate" : "Mon, 12 Oct 2026 18:40:00",
-         "title" : "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm"
-      },
-      {
-         "description" : "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2&frac12;/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the leaders. In the women's tournament, Alice Lee defeated Nazi Paikidze to join Thalia Cervantes and Megan Paragua in first place. Defending champion Carissa Yip suffered her second consecutive defeat. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-3",
-         "pubDate" : "Mon, 12 Oct 2026 17:20:00",
-         "title" : "US Championships: Shankland and Woodward score"
-      },
-      {
-         "description" : "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match points. The first three rounds saw encouraging results for promoted sides Bad Mergentheim and Remagen Sinzig, while Bayern Munich's Matic Lavrencic was the only player to score three wins in as many games. | Pictured: Viernheim's Aydin Suleymanli (2&frac12;/3 points) | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2026-27-r3",
-         "pubDate" : "Mon, 12 Oct 2026 07:25:00",
-         "title" : "Bundesliga: Viernheim and Baden-Baden set the early pace"
-      },
-      {
          "description" : "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -186,30 +162,6 @@ news_feed (
          "title" : "No More Searching For Bobby Fischer Prize"
       },
       {
-         "description" : "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
-         "pubDate" : "Sun, 11 Oct 2026 13:00:00",
-         "title" : "The Chess Olympiad that wasn't: Munich 1936"
-      },
-      {
-         "description" : "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participants, Thalia Cervantes and 13-year-old Megan Paragua, share the lead on 2/2. Paragua defeated defending champion Carissa Yip, who blundered in an equal position. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-2",
-         "pubDate" : "Sun, 11 Oct 2026 04:45:00",
-         "title" : "US Championships: So and Liang remain perfect, Paragua beats Yip"
-      },
-      {
-         "description" : "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can change a position on the board; it is why people reach for one when the result matters and control feels limited. | Pictured: Alexander Alekhine and his cat Chess (Amsterdam, 1935)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strange-comforts-superstition-chess",
-         "pubDate" : "Sun, 11 Oct 2026 02:00:00",
-         "title" : "The strange comforts of superstition in chess"
-      },
-      {
          "description" : "After two rounds of the 2026 U.S. Championships, four players (two per event) remain in contention for the Fischer Prize in St. Louis. In the Open, it's three members of this year's Olympiad squad atop the standings, but, in the Women's event, the leaders are more surprising. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> World Chess Hall of Fame inductee Boris Gelfand got the games going on Saturday. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> In the Open, GMs Wesley So and Awonder Liang improved to 2/2, while top-rated GM Fabiano Caruana also won to move into clear third. In the Women's, FM Megan Paragua upset IM Carissa Yip to improve to",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -224,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
          "pubDate" : "Sat, 10 Oct 2026 19:58:00",
          "title" : "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores"
-      },
-      {
-         "description" : "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its people. Here is his travel report. | Photos: Axel Eger",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
-         "pubDate" : "Sat, 10 Oct 2026 17:40:00",
-         "title" : "Between the Silk Road and the chessboard - eight days in Uzbekistan"
       },
       {
          "description" : "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec...",
@@ -256,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
          "pubDate" : "Sat, 10 Oct 2026 07:47:00",
          "title" : "Maghsoodloo Wins Star-Studded Freestyle Friday"
-      },
-      {
-         "description" : "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas K&ouml;pl has taken a closer look at Ris's opening courses and offers an assessment.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-2",
-         "pubDate" : "Sat, 10 Oct 2026 07:00:00",
-         "title" : "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134849027.cms\" />Tamil Nadu Chief Minister C Joseph Vijay honoured the state's 2026 Chess Olympiad medallists, distributing Rs 60 lakh among five recipients. D Gukesh and R Praggnanandhaa received Rs 15 lakh each, while Savitha Shri, R Vaishali and captain Srinath Narayanan were awarded Rs 10 lakh each. The state also launched its Dream Olympics 2036 scheme to support athletes with training and nutrition costs.",
@@ -296,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
          "pubDate" : "Fri, 09 Oct 2026 23:09:00",
          "title" : "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score"
-      },
-      {
-         "description" : "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky's record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
-         "pubDate" : "Fri, 09 Oct 2026 11:50:00",
-         "title" : "Fabiano Caruana targets fifth consecutive US title"
       },
       {
          "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
@@ -392,14 +320,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
          "pubDate" : "Mon, 05 Oct 2026 01:35:29",
          "title" : "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad"
-      },
-      {
-         "description" : "On his personal Substack, Lit and Chess, FM Andy Lee reflected on his thought process after \"flash-annotating\" for Chess Life Online. His insight is astounding and will give readers insight into, in Lee's own words, \"How the sausage is made.\" With his permission, we are republishing his essay here, lightly edited for style. You can read it in its original form here.A couple weeks ago I was invited to contribute a set of annotations for rounds three and four of the 46th FIDE Olympiad for Chess Life Online. The deal was that I would focus on the performance of the American teams by annotating some key games and then pick out some interesting moments from other top teams and notable players. Th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/annotators-perspective-lost-translation",
-         "pubDate" : "Mon, 05 Oct 2026 00:00:00",
-         "title" : "An Annotator's Perspective: Lost in Translation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670348.cms\" />In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
@@ -672,14 +592,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
          "pubDate" : "Fri, 25 Sep 2026 07:00:43",
          "title" : "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134466331.cms\" />Gukesh pushed hard but was held to a draw by Azerbaijan's Mahammad Muradli as India missed a chance to close the gap on the Chess Olympiad leaders. Uzbekistan and Germany lead the open section with 14 points. In the women's event, Savitha Shri extended her winning streak to seven, rescuing India against Kazakhstan and keeping their title hopes alive.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
-         "pubDate" : "Thu, 24 Sep 2026 16:10:33",
-         "title" : "Olympiad R8: India miss chance to close in as Gukesh draws; Savitha saves women's day"
       }
    ]
 }
