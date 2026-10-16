@@ -18,6 +18,22 @@ news_feed (
          "title" : "Dortmund Sparkassen Trophy 2027"
       },
       {
+         "description" : "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess&#39;s future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
+         "pubDate" : "Fri, 16 Oct 2026 14:14:59",
+         "title" : "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters"
+      },
+      {
+         "description" : "GM Sina Movahed won Freestyle Friday on October 16, riding a 7/7 start to sole first place on nine points. GM Haowen Xue finished second with 8.5/11, surpassing GM Ian Nepomniachtchi on tiebreaks. The win was Movahed&#39;s sixth in Freestyle Friday, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-16-2026",
+         "pubDate" : "Fri, 16 Oct 2026 13:25:18",
+         "title" : "Movahed Returns To Familiar Freestyle Friday First Position"
+      },
+      {
          "description" : "GM Parham Maghsoodloo won the first two 3 0 Thursday tournaments on October 15, the first player to win consecutive events since GM Jose Martinez did it in back-to-back weeks in March and April. Maghsoodloo tried to become the first player to ever...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -522,28 +538,12 @@ news_feed (
          "title" : "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report"
       },
       {
-         "description" : "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a two-hour arena of five-minut...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
-         "pubDate" : "Thu, 01 Oct 2026 01:37:00",
-         "title" : "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unrealistic-to-win-gold-every-single-time-captain-srinath-narayanan-after-indias-chess-olympiad-silver-exclusive/articleshow/134593973.cms",
          "pubDate" : "Wed, 30 Sep 2026 12:24:59",
          "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
-      },
-      {
-         "description" : "The 13th World Chess Champion Garry Kasparov says security services in the U.S. warned him and a fellow Russian opposition figure that their lives were in danger and that they should take precautions. His statement comes one day after a report by ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
-         "pubDate" : "Wed, 30 Sep 2026 12:16:00",
-         "title" : "Garry Kasparov Confirms Security Warnings After Report Of Russian Assassination Plot"
       },
       {
          "description" : "Greetings all! Putting on my ECF Manager of Coaches hat I have been asked by Gerry Walsh if there are any coaches out there who would like to coach blind...",
