@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Fri, 16 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the \"Salzlager\" at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany's longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-trophy-2027",
+         "pubDate" : "Fri, 16 Oct 2026 17:20:00",
+         "title" : "Dortmund Sparkassen Trophy 2027"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo won the first two 3 0 Thursday tournaments on October 15, the first player to win consecutive events since GM Jose Martinez did it in back-to-back weeks in March and April. Maghsoodloo tried to become the first player to ever...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
+         "pubDate" : "Fri, 16 Oct 2026 11:32:08",
+         "title" : "Maghsoodloo Takes Two 3 0 Thursdays, Caruana Wins 3rd"
+      },
+      {
          "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,20 +42,20 @@ news_feed (
          "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
       },
       {
+         "description" : "An eventful Thursday saw two more players join the share of first place in both the 2026 U.S. Championship and the U.S. Women's Championship. Across both sections, seven of the field's 24 players are currently tied for first, with three more only a half-point back.2017 U.S. Women's Champion WGM Sabina Foisor joins us today for annotations on the key games, particularly in the Women's event. Women'sIM Alice Lee entered Round 6 with a full-point lead over her closest competitors. But one of them - WIM Rachael Li - took down Lee as Black to join her in a share of first. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> With a win over Alice Lee, Rachael Li ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/leaderboard-logjam-after-us-championships-round-6",
+         "pubDate" : "Fri, 16 Oct 2026 00:00:00",
+         "title" : "Leaderboard Logjam after U.S. Championships Round 6"
+      },
+      {
          "description" : "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia, was at one point ranked fourth in the world and played for SG Porz in the German Bundesliga for many years. | Photo: Frank Hoppe",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
          "pubDate" : "Thu, 15 Oct 2026 21:45:00",
          "title" : "Rafael Vaganian turns 75: Decades among the chess elite"
-      },
-      {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Jennifer Yu | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Thu, 15 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an...",
@@ -346,14 +370,6 @@ news_feed (
          "title" : "'Taking medicines every day': How Humpy battled diarrhoea to win medals for India"
       },
       {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the second installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico feature here, and this week we take a look at Guam! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Guam's Open Team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> Guam's team finished with a 10/22 score in the Open section, with three of its five players gaining rating. A number of its instructive victories are feature",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-guam-46th-olympiad",
-         "pubDate" : "Tue, 06 Oct 2026 00:00:00",
-         "title" : "Tactics Tuesday: Guam at 46th Olympiad"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134683498.cms\" />In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "Coaching blind players"
       },
       {
-         "description" : "British chess sensation FM Bodhana Sivanandan has made history again. The 11-year-old completed the requirements for the Woman Grandmaster title at the 46th Women&#39;s Chess Olympiad in Samarkand, Uzbekistan, becoming the youngest player ever to do s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
-         "pubDate" : "Wed, 30 Sep 2026 07:21:00",
-         "title" : "Bodhana Sivanandan, 11, Becomes Youngest-Ever WGM, Scores Second IM Norm"
-      },
-      {
          "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-too-much-pressure-how-zhu-jiner-turned-struggles-in-india-into-taking-china-closer-to-chess-olympiad-gold-exclusive/articleshow/134489249.cms",
          "pubDate" : "Sat, 26 Sep 2026 00:30:00",
          "title" : "How Jiner turned struggles in India into taking China closer to Olympiad gold"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489331.cms\" />D Gukesh produced a crucial comeback win over Germany's Alexander Donchenko in Round 9, helping India stay in the Chess Olympiad gold medal race. India's men beat Germany 2.5-1.5, while Vantika Agrawal and Divya Deshmukh powered the women's team to victory. India's men trail Uzbekistan, while the women remain second behind leaders China with two rounds left.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
-         "pubDate" : "Fri, 25 Sep 2026 16:32:38",
-         "title" : "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt"
       }
    ]
 }
