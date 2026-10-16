@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
          "pubDate" : "Thu, 15 Oct 2026 18:08:00",
-         "title" : "Rachael Li Ousts Alice Lee In Women's; Caruana, Liang Join 4-Way Lead"
+         "title" : "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead"
       },
       {
          "description" : "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3&frac12;/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee claimed her fourth consecutive win to extend her lead to a full point. Meanwhile, Rose Atwell defeated defending champion Carissa Yip, who suffered her third loss in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
