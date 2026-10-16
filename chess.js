@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Newly promoted SPTW were expected to be outclassed in the top division of the 4NCL British League, but proved a revelation She Plays to Win Lionesses, the all-female team which won successive promotions to the first division of Britain's Four Nations Chess League (4NCL) were expected to be outclassed in the top flight, but instead proved the revelation of the opening weekend of the new season. SPTW wanted to continue without male players in the season's 2026-27 renewal, but the league stood by its rule, introduced to promote women's chess, that top division teams must include at least one player of each sex. <a href=\"https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri-leads-she-plays-to-win-women-to-unlikely-victory",
+         "pubDate" : "Fri, 16 Oct 2026 07:00:55",
+         "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
+      },
+      {
          "description" : "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia, was at one point ranked fourth in the world and played for SG Porz in the German Bundesliga for many years. | Photo: Frank Hoppe",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
          "pubDate" : "Fri, 25 Sep 2026 16:32:38",
          "title" : "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt"
-      },
-      {
-         "description" : " The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets<strong> </strong>in the remaining three rounds. England have lost twice, first to the No 2 seeds India, then in a shock against Uzbekistan's second team, while England women have performed well, with 11-year-old Bodhana Sivanandan beaten only once on top board. <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-sh",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
-         "pubDate" : "Fri, 25 Sep 2026 07:00:43",
-         "title" : "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines"
       }
    ]
 }
