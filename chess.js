@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Newly promoted SPTW were expected to be outclassed in the top division of the 4NCL British League, but proved a revelation She Plays to Win Lionesses, the all-female team which won successive promotions to the first division of Britain's Four Nations Chess League (4NCL) were expected to be outclassed in the top flight, but instead proved the revelation of the opening weekend of the new season. SPTW wanted to continue without male players in the season's 2026-27 renewal, but the league stood by its rule, introduced to promote women's chess, that top division teams must include at least one player of each sex. <a href=\"https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri",
+         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2026-starts-in-budva-montenegro/",
+         "pubDate" : "Fri, 16 Oct 2026 08:18:16",
+         "title" : "European Chess Club Cup 2026 starts in Budva, Montenegro"
+      },
+      {
+         "description" : " Newly promoted SPTW were expected to be outclassed in the top division of the 4NCL British League, but proved a revelation She Plays to Win Lionesses, the all-female team which won successive promotions to the first division of Britain's Four Nations Chess League (4NCL), were expected to be outclassed in the top flight, but instead proved the revelation of the opening weekend of the new season. SPTW wanted to continue without male players in the season's 2026-27 renewal, but the league stood by its rule, introduced to promote women's chess, that top division teams must include at least one player of each sex. <a href=\"https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-gir",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri-leads-she-plays-to-win-women-to-unlikely-victory",
@@ -26,11 +34,11 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
-         "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GM Wesley So, GM Andy Woodward, GM Fabiano Caruana, and GM Awonder Liang. Caruana scored a bounce-back win against GM Sam Shan...",
+         "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
-         "pubDate" : "Thu, 15 Oct 2026 18:08:15",
+         "pubDate" : "Thu, 15 Oct 2026 18:08:00",
          "title" : "Rachael Li Ousts Alice Lee In Women's; Caruana, Liang Join 4-Way Lead"
       },
       {
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2026-5",
          "pubDate" : "Thu, 15 Oct 2026 17:20:00",
          "title" : "US Championships: Woodward takes down Caruana, Lee widens the gap"
+      },
+      {
+         "description" : "The last two league champions, Saint Louis University (SLU) and the University of Texas at Dallas (UTD), are the two undefeated teams after two matches each in the 2026 fall season of the Collegiate Chess League. SLU has dominated both matches tha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
+         "pubDate" : "Thu, 15 Oct 2026 12:57:00",
+         "title" : "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League"
       },
       {
          "description" : "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation",
