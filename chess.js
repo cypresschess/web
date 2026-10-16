@@ -18,6 +18,14 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GM Wesley So, GM Andy Woodward, GM Fabiano Caruana, and GM Awonder Liang. Caruana scored a bounce-back win against GM Sam Shan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
+         "pubDate" : "Thu, 15 Oct 2026 18:08:15",
+         "title" : "Rachael Li Ousts Alice Lee In Women's; Caruana, Liang Join 4-Way Lead"
+      },
+      {
          "description" : "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3&frac12;/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee claimed her fourth consecutive win to extend her lead to a full point. Meanwhile, Rose Atwell defeated defending champion Carissa Yip, who suffered her third loss in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
          "pubDate" : "Wed, 30 Sep 2026 07:18:10",
          "title" : "European Senior Team Chess Championship 2027 - Official invitation"
-      },
-      {
-         "description" : "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
-         "pubDate" : "Tue, 29 Sep 2026 23:03:34",
-         "title" : "Wesley Sews Up First Titled Tuesday Of 2026"
       },
       {
          "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
