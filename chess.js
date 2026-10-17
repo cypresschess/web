@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. A game that literally took the chess world by storm - and exactly 70 years on, that stunning sacrificial onslaught has more than stood the test of time by universally being regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous",
+         "description" : "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Alice Lee and Rachael Li share first place on 5&frac12;/7, followed closely by Irina Krush, while Thalia Cervantes suffered her first defeat of the event, against Anna Sargsyan. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-7",
+         "pubDate" : "Sat, 17 Oct 2026 16:30:00",
+         "title" : "US Championships: So comes from behind to beat Robson, becomes sole leader"
+      },
+      {
+         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
+         "pubDate" : "Sat, 17 Oct 2026 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "From 17 to 23 October, Budva in Montenegro will host the European Club Cup. With over 100 teams competing in the open section and 22 teams in the women's competition, it is a large-scale event. The favourites, in each of the sections, are teams from T&uuml;rkiye and Monaco. The highest-rated players in the field are Nodirbek Abdusattorov, Wei Yi and Anish Giri. | Image: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-preview",
+         "pubDate" : "Sat, 17 Oct 2026 13:45:00",
+         "title" : "The European Club Cup kicks off in Budva"
+      },
+      {
+         "description" : "I genuinely don't get the point of winning with an opening trap. Let's put aside that it will stop working quicker than the clickbaiters like to admit. When you repeat a memorized line you learned from a YouTube video, what reason do you have to be happy? You did not learn anything. You didn't use []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/what-is-the-point-of-winning-with-a-trap/",
+         "pubDate" : "Sat, 17 Oct 2026 13:00:00",
+         "title" : "What is the point of winning with a trap?"
+      },
+      {
+         "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous. It was played seventy years ago, today.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/my-70th-memorable-game",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
-      },
-      {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Fri, 16 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the \"Salzlager\" at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany's longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants.",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-can-india-retain-their-gold-medals-on-final-day-in-samarkand/articleshow/134513539.cms",
          "pubDate" : "Sun, 27 Sep 2026 03:48:52",
          "title" : "Chess Olympiad 2026: Can India retain their gold medals on final day?"
-      },
-      {
-         "description" : "Training in a game like position, under uncertainty, is essential for your chess improvement. That's really what drives a lot of improvement. The question is: how should you train it? What resources are out there? Real Chess Training is my way of doing it, but currently only out for 1500-2000 Chesscom Rapid players. 1000-1500 is []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/resources-to-improve-your-skills-for-all-levels/",
-         "pubDate" : "Sat, 26 Sep 2026 13:00:00",
-         "title" : "Resources to improve your skills for all levels"
       }
    ]
 }
