@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Rachel Li | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Sat, 17 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Alice Lee and Rachael Li share first place on 5&frac12;/7, followed closely by Irina Krush, while Thalia Cervantes suffered her first defeat of the event, against Anna Sargsyan. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
+      },
+      {
+         "description" : "GM Wesley So traveled an unlikely route into first place at the 2026 U.S. Championship in Round 7. A terrible position blossomed into a winning one in a span of 11 moves, allowing him to defeat GM Ray Robson and grab the lead with 5/7. Lurking a half-point back are GMs Fabiano Caruana and Andy Woodward, both of whom drew in Friday's seventh round of play. So faces Woodward in today's Round 8.The Women's Championship is becoming a sprint to the finish, with IM Alice Lee and WIM Rachael Li both winning to share first with 5&frac12;/7. Meanwhile GM Irina Krush continues to push forward, and after defeating IM Carissa Yip she stands a half-point back at 5/7.Open ChampionshipThe Open suffered an ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-7-so-surges-lead",
+         "pubDate" : "Sat, 17 Oct 2026 00:00:00",
+         "title" : "Round 7: So Surges Into the Lead"
       },
       {
          "description" : "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the \"Salzlager\" at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany's longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants.",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
          "pubDate" : "Fri, 09 Oct 2026 07:00:42",
          "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
-      },
-      {
-         "description" : "Will we finally see a new champion in either the U.S. Championship or the U.S. Women's Championship this year? Not if either of our Olympiad top boards have their way! But among the challengers will be the entire remainder of the Open and Women's Olympiad teams and a host of former U.S. champions. The Saint Louis Chess Club (SLCC) hosts both events, and Round 1 begins Friday, Oct. 9. The 11-round round robin concludes on Wednesday, Oct. 21, with playoffs the following day if needed. Rounds begin daily at 12 p.m. CDT excluding the rest days of Tuesday, Oct. 13 and Sunday, Oct. 18. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> 2025 U.S. Championships a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-us-championships-preview",
-         "pubDate" : "Thu, 08 Oct 2026 00:00:00",
-         "title" : "2026 U.S. Championships Preview"
       },
       {
          "description" : "Europe is about to meet the world&#39;s biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see...",
