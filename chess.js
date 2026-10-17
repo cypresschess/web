@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional attempts at refutation. A new chapter in the history of the Benko Gambit has been written - and Christian H&ouml;the takes a close look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
+         "pubDate" : "Sat, 17 Oct 2026 07:00:00",
+         "title" : "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134989688.cms\" />In an exclusive interaction with TimesofIndia.com, China's No. 1 Wei Yi opens up about the exhaustion of competing in his maiden Candidates Tournament, describing the end of the gruelling 14-round event as a relief. The Grandmaster reflects on his performance in Cyprus, the pressures of elite chess, why players sometimes need extended breaks to recover, and more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
+         "pubDate" : "Sat, 17 Oct 2026 00:30:00",
+         "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Tatev Abrahamyan | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/resources-to-improve-your-skills-for-all-levels/",
          "pubDate" : "Sat, 26 Sep 2026 13:00:00",
          "title" : "Resources to improve your skills for all levels"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134489249.cms\" />China currently lead the women's Chess Olympiad in Samarkand despite missing its top three players. World No. 4 Zhu Jiner has emerged as the team's unbeaten Board 1, rebounding strongly from a difficult GCL campaign in Bengaluru. In an exclusive interaction with TimesofIndia.com, she reflects on India's chess passion, her journey into professional chess, and China's unexpected title challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-too-much-pressure-how-zhu-jiner-turned-struggles-in-india-into-taking-china-closer-to-chess-olympiad-gold-exclusive/articleshow/134489249.cms",
-         "pubDate" : "Sat, 26 Sep 2026 00:30:00",
-         "title" : "How Jiner turned struggles in India into taking China closer to Olympiad gold"
       }
    ]
 }
