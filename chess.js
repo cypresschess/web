@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women&#160;kicked off today in Budva, Montenegro! The record-breaking number of 130 teams (108 in the Open section and 22 teams in the Women's section) gathered today for the start of the first round of the events. The first round of the event was inaugurated after the ECU President Mr. Zurab Azmaiparashvili and Founder and CEO of Superbet Mr. Sacha Dragic played the first ceremonial move in []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2026-commenced-in-budva/",
+         "pubDate" : "Sat, 17 Oct 2026 21:25:57",
+         "title" : "European Chess Club Cup 2026 commenced in Budva"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Rachel Li | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2026-7",
          "pubDate" : "Sat, 17 Oct 2026 16:30:00",
          "title" : "US Championships: So comes from behind to beat Robson, becomes sole leader"
+      },
+      {
+         "description" : "The top teams could rest the likes of GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus while still scoring 6-0 clean sweeps in round one of the 41st European Chess Club Cup in Budva, Montenegro. GM Nils Grandelius was one of the few ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1",
+         "pubDate" : "Sat, 17 Oct 2026 15:12:00",
+         "title" : "Bodhana & Co. Test Favorites As European Club Cup Begins In Budva"
       },
       {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
          "pubDate" : "Thu, 01 Oct 2026 14:00:52",
          "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
-      },
-      {
-         "description" : "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/october-2026-fide-rating-list",
-         "pubDate" : "Thu, 01 Oct 2026 08:56:00",
-         "title" : "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
