@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. A game that literally took the chess world by storm - and exactly 70 years on, that stunning sacrificial onslaught has more than stood the test of time by universally being regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-70th-memorable-game",
+         "pubDate" : "Sat, 17 Oct 2026 11:55:27",
+         "title" : "My 70th Memorable Game"
+      },
+      {
+         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women were officially declared opened yesterday! The Opening Ceremony of the event took place at the Hotel Complex Slovenska Plaza, starting with musical performances, speeches by officials, and finishing with a spectacular firework show. The Opening ceremony was attended by the Minister of Sports and Youth of Montenegro Mr. Zoran Jojic, Mayor of the Municipality of Budva Mr. Nikola Jovanovic, the ECU President Mr. Zurab Azmaiparashvili, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2026-officially-opened/",
+         "pubDate" : "Sat, 17 Oct 2026 08:57:21",
+         "title" : "European Chess Club Cup 2026 officially opened"
+      },
+      {
          "description" : "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional attempts at refutation. A new chapter in the history of the Benko Gambit has been written - and Christian H&ouml;the takes a close look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
          "pubDate" : "Sat, 17 Oct 2026 07:00:00",
          "title" : "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst"
+      },
+      {
+         "description" : "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
+         "pubDate" : "Sat, 17 Oct 2026 01:00:00",
+         "title" : "So Sole Leader After Turnaround Win; Li And Lee Lead Women's"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134989688.cms\" />In an exclusive interaction with TimesofIndia.com, China's No. 1 Wei Yi opens up about the exhaustion of competing in his maiden Candidates Tournament, describing the end of the gruelling 14-round event as a relief. The Grandmaster reflects on his performance in Cyprus, the pressures of elite chess, why players sometimes need extended breaks to recover, and more.",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/october-2026-fide-rating-list",
          "pubDate" : "Thu, 01 Oct 2026 08:56:00",
          "title" : "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List"
-      },
-      {
-         "description" : "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
-         "pubDate" : "Thu, 01 Oct 2026 08:40:00",
-         "title" : "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
