@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Nazi Paikidze | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Mon, 19 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-unified-rating-system",
          "pubDate" : "Mon, 19 Oct 2026 02:45:00",
          "title" : "Total Chess proposes unified rating system"
+      },
+      {
+         "description" : "Just three days ago, we had a tie atop the U.S. Championship standings while IM Alice Lee led the U.S. Women's Championship field by a full point. Now, it's fellow Minnesotan GM Wesley So leading by a full point while Lee is tied with WIM Rachael Li. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Today is the second and final rest day, and play resumes Monday at noon CDT in St. Louis. Today, we are again joined by 2017 U.S. Women's champion WGM Sabina Foisor with annotations from the key games. Open: Wesley So Does it AgainToday's headliner was the clash between So, a three-time U.S. Champion, and ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-8-how-tables-turn",
+         "pubDate" : "Mon, 19 Oct 2026 00:00:00",
+         "title" : "Round 8: How the Tables Turn"
       },
       {
          "description" : "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remain tied for first place on 6/8, while Thalia Cervantes moved within half a point of the leaders by defeating four-time national champion Carissa Yip. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -368,14 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
          "pubDate" : "Sat, 10 Oct 2026 01:55:00",
          "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
-      },
-      {
-         "description" : "The 2026 U.S. Championship and U.S. Women's Championship wasted no time, delivering us a host of exciting pairings right from the jump. Round 1 featured, among other highlights, three battles between 2026 Olympiad teammates and two match-ups between former U.S. champions, producing seven decisive results overall across 12 games. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> As is tradition, Jeanne Cairns Sinquefield marked the start of this year's tournament with the ringing of the bell. (Photo courtesy SLCC/Crystal Fuller)<br> <br> <br> <br> Today's report features annotations by GM Jason Liang. Read on to learn a thing or two about endgames! Women'",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-championships-hot-start",
-         "pubDate" : "Sat, 10 Oct 2026 00:00:00",
-         "title" : "U.S. Championships Off to a Hot Start"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to...",
