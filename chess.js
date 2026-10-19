@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-2",
+         "pubDate" : "Mon, 19 Oct 2026 12:40:00",
+         "title" : "European Club Cup: Crowded at the top"
+      },
+      {
+         "description" : "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitive chess, how a career detour ultimately brought him back to the game, and how coaching, streaming and commentary became increasingly important parts of his life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
+         "pubDate" : "Mon, 19 Oct 2026 11:37:10",
+         "title" : "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans"
+      },
+      {
          "description" : "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overall playing strength across the three formats. Magnus Carlsen (pictured) tops the inaugural ranking, followed by Hikaru Nakamura and Nodirbek Abdusattorov. The system will undergo testing and public consultation before potential revisions. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
          "pubDate" : "Sun, 18 Oct 2026 16:12:00",
          "title" : "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Amin Tabatabaei | Photo: Mark Livshitz / European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Sun, 18 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance of his compatriot Abdusattorov, among others, as Abdusattorov himself recently revealed. | Poto: UzChess / Yoav Nis",
