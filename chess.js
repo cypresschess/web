@@ -10,6 +10,14 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
+         "pubDate" : "Mon, 19 Oct 2026 15:23:00",
+         "title" : "15-Year-Old Erdogmus Climbs To World No. 15"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +26,20 @@ news_feed (
          "title" : "European Club Cup - Live!"
       },
       {
-         "description" : "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-2",
-         "pubDate" : "Mon, 19 Oct 2026 12:40:00",
-         "title" : "European Club Cup: Crowded at the top"
-      },
-      {
          "description" : "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitive chess, how a career detour ultimately brought him back to the game, and how coaching, streaming and commentary became increasingly important parts of his life.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
          "pubDate" : "Mon, 19 Oct 2026 11:37:10",
          "title" : "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans"
+      },
+      {
+         "description" : "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-2",
+         "pubDate" : "Mon, 19 Oct 2026 08:05:00",
+         "title" : "European Club Cup: Crowded at the top"
       },
       {
          "description" : "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overall playing strength across the three formats. Magnus Carlsen (pictured) tops the inaugural ranking, followed by Hikaru Nakamura and Nodirbek Abdusattorov. The system will undergo testing and public consultation before potential revisions. | Photo: Nils Rohde / ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/round-8-how-tables-turn",
          "pubDate" : "Mon, 19 Oct 2026 00:00:00",
          "title" : "Round 8: How the Tables Turn"
+      },
+      {
+         "description" : "This announcement was originally published on September 10, 2026 and was reposted on October 19, 2026 with the below text from Charlotte Chess Center (CCC) (also available on the CCC Facebook page) announcing the fellowship's selection committee on the anniversary of Danya's passing\"One year ago we lost our friend, our colleague, and our brilliant Resident-GM, Daniel Naroditsky. Danya not only touched the Charlotte Chess Center community, but the world as a whole, and we collectively mourned the loss of such a gifted, generous, and kind human being. While his loss echoes in nearly everything we do, our mission remains clear: ensuring Danya's legacy continues for generations to come. Through ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/50000-naroditsky-fellowship-now-open-applications",
+         "pubDate" : "Mon, 19 Oct 2026 00:00:00",
+         "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
       },
       {
          "description" : "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remain tied for first place on 6/8, while Thalia Cervantes moved within half a point of the leaders by defeating four-time national champion Carissa Yip. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -330,14 +346,6 @@ news_feed (
          "title" : "No More Searching For Bobby Fischer Prize"
       },
       {
-         "description" : "After two rounds of the 2026 U.S. Championships, four players (two per event) remain in contention for the Fischer Prize in St. Louis. In the Open, it's three members of this year's Olympiad squad atop the standings, but, in the Women's event, the leaders are more surprising. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> World Chess Hall of Fame inductee Boris Gelfand got the games going on Saturday. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> In the Open, GMs Wesley So and Awonder Liang improved to 2/2, while top-rated GM Fabiano Caruana also won to move into clear third. In the Women's, FM Megan Paragua upset IM Carissa Yip to improve to",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/four-remain-perfect-after-round-2",
-         "pubDate" : "Sun, 11 Oct 2026 00:00:00",
-         "title" : "Four Remain Perfect After Round 2"
-      },
-      {
          "description" : "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
          "pubDate" : "Sat, 3 Oct 2026 11:02:00",
          "title" : "46th World Chess Olympiad 2026 - Games and Results"
-      },
-      {
-         "description" : "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
-         "pubDate" : "Sat, 03 Oct 2026 08:21:01",
-         "title" : "Awonder Liang Invincible At Seirawan Chess, The Complex Variant"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134640893.cms\" />Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
