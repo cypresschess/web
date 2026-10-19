@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
+         "pubDate" : "Mon, 19 Oct 2026 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup"
       },
       {
-         "description" : "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance of his compatriot Abdusattorov, among others, as Abdusattorov himself recently revealed. | Poto: UzChess / Yoav Nis",
+         "description" : "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance of his compatriot Abdusattorov, among others, as Abdusattorov himself recently revealed. | Photo: UzChess / Yoav Nis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-ch-2026-seconds",
@@ -98,28 +106,12 @@ news_feed (
          "title" : "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory"
       },
       {
-         "description" : "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Alice Lee and Rachael Li share first place on 5&frac12;/7, followed closely by Irina Krush, while Thalia Cervantes suffered her first defeat of the event, against Anna Sargsyan. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-7",
-         "pubDate" : "Sat, 17 Oct 2026 16:30:00",
-         "title" : "US Championships: So comes from behind to beat Robson, becomes sole leader"
-      },
-      {
          "description" : "The top teams could rest the likes of GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus while still scoring 6-0 clean sweeps in round one of the 41st European Chess Club Cup in Budva, Montenegro. GM Nils Grandelius was one of the few ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1",
          "pubDate" : "Sat, 17 Oct 2026 15:12:00",
          "title" : "Bodhana & Co. Test Favorites As European Club Cup Begins In Budva"
-      },
-      {
-         "description" : "From 17 to 23 October, Budva in Montenegro will host the European Club Cup. With over 100 teams competing in the open section and 22 teams in the women's competition, it is a large-scale event. The favourites, in each of the sections, are teams from T&uuml;rkiye and Monaco. The highest-rated players in the field are Nodirbek Abdusattorov, Wei Yi and Anish Giri. | Image: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-preview",
-         "pubDate" : "Sat, 17 Oct 2026 13:45:00",
-         "title" : "The European Club Cup kicks off in Budva"
       },
       {
          "description" : "I genuinely don't get the point of winning with an opening trap. Let's put aside that it will stop working quicker than the clickbaiters like to admit. When you repeat a memorized line you learned from a YouTube video, what reason do you have to be happy? You did not learn anything. You didn't use []",
@@ -136,14 +128,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-officially-opened/",
          "pubDate" : "Sat, 17 Oct 2026 08:57:21",
          "title" : "European Chess Club Cup 2026 officially opened"
-      },
-      {
-         "description" : "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional attempts at refutation. A new chapter in the history of the Benko Gambit has been written - and Christian H&ouml;the takes a close look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
-         "pubDate" : "Sat, 17 Oct 2026 07:00:00",
-         "title" : "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst"
       },
       {
          "description" : "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ...",
@@ -168,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/round-7-so-surges-lead",
          "pubDate" : "Sat, 17 Oct 2026 00:00:00",
          "title" : "Round 7: So Surges Into the Lead"
-      },
-      {
-         "description" : "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the \"Salzlager\" at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany's longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-trophy-2027",
-         "pubDate" : "Fri, 16 Oct 2026 17:20:00",
-         "title" : "Dortmund Sparkassen Trophy 2027"
       },
       {
          "description" : "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess&#39;s future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an...",
@@ -226,14 +202,6 @@ news_feed (
          "title" : "Leaderboard Logjam after U.S. Championships Round 6"
       },
       {
-         "description" : "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia, was at one point ranked fourth in the world and played for SG Porz in the German Bundesliga for many years. | Photo: Frank Hoppe",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
-         "pubDate" : "Thu, 15 Oct 2026 21:45:00",
-         "title" : "Rafael Vaganian turns 75: Decades among the chess elite"
-      },
-      {
          "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,28 +210,12 @@ news_feed (
          "title" : "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead"
       },
       {
-         "description" : "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3&frac12;/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee claimed her fourth consecutive win to extend her lead to a full point. Meanwhile, Rose Atwell defeated defending champion Carissa Yip, who suffered her third loss in the event. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-5",
-         "pubDate" : "Thu, 15 Oct 2026 17:20:00",
-         "title" : "US Championships: Woodward takes down Caruana, Lee widens the gap"
-      },
-      {
          "description" : "The last two league champions, Saint Louis University (SLU) and the University of Texas at Dallas (UTD), are the two undefeated teams after two matches each in the 2026 fall season of the Collegiate Chess League. SLU has dominated both matches tha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
          "pubDate" : "Thu, 15 Oct 2026 12:57:00",
          "title" : "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League"
-      },
-      {
-         "description" : "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/atyrau-masters-2026-r3",
-         "pubDate" : "Thu, 15 Oct 2026 04:45:00",
-         "title" : "Atyrau Masters: Top two seeds defeated in opening rounds"
       },
       {
          "description" : "After a day off, players were ready to fight, and the 2026 U.S. Championships delivered eight decisive results on Wednesday. IM Alice Lee extended her lead in the U.S. Women's Championship to a full point by improving to 4&frac12;/5. Lee turned 17 on her day off, but she picked up right where 16-year-old Alice left off, winning her fourth consecutive game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Woodward confidently moves against Caruana as Lee blurs by. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> But in the U.S. Championship, reigning U.S. Junior Champion GM Andy Woodward scored the best win of his career (so far), upsetting the fou",
@@ -282,36 +234,12 @@ news_feed (
          "title" : "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet"
       },
       {
-         "description" : "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/young-british-prodigies",
-         "pubDate" : "Wed, 14 Oct 2026 16:00:00",
-         "title" : "Young British prodigies"
-      },
-      {
-         "description" : "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event continues a programme that uses chess as an educational and social tool in correctional facilities. Several teams completed the opening stage with perfect scores before advancing to the championship rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/intercontinental-online-chess-ch-2026-start",
-         "pubDate" : "Wed, 14 Oct 2026 13:45:00",
-         "title" : "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams"
-      },
-      {
          "description" : "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
          "pubDate" : "Wed, 14 Oct 2026 12:00:54",
          "title" : "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record"
-      },
-      {
-         "description" : "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without special approval, while considering broader use of 45+30. Limits on games per day and title norms would remain, with further consultation planned before decisions on more extensive changes to classical tournament regulations. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
-         "pubDate" : "Wed, 14 Oct 2026 06:10:00",
-         "title" : "FIDE General Assembly adopts resolution on shorter time controls"
       },
       {
          "description" : "Editor's Note: Chess Life and Chess Life Online Editor John Hartmann made it to St. Louis for the first two rounds of the 2026 U.S. Championships. A true journalist, Hartmann kept a log of each day's goings-on, which he has allowed to be published on Chess Life Online. This is a collection of observations, not a complete write-up from Hartmann (you'll have to wait for the print issue). We've grouped his notes into three sections. The first will help you get a feel for the ambiance and atmosphere of the Saint Louis Chess Club (SLCC) before and during the rounds. The second introduces you to some of the many chess fans - from casual observers to life members, locals and travelers - he met at t",
@@ -328,22 +256,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-guam-and-us-virgin-islands-46th-olympiad",
          "pubDate" : "Wed, 14 Oct 2026 00:00:00",
          "title" : "Wednesday Workout: Guam and U.S. Virgin Islands at 46th Olympiad"
-      },
-      {
-         "description" : "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she played: 1&frac12; points. Not bad for an 11-year-old girl. Before the matches she visited ChessBase in Hamburg and did some recordings for us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhabna-in-the-bundesliga",
-         "pubDate" : "Tue, 13 Oct 2026 17:49:30",
-         "title" : "Bodhana in the Bundesliga"
-      },
-      {
-         "description" : "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 season: A match started late, raising the question of whether a grandmaster had arrived on time. What followed was a furious battle over the rules, a series of appeals, a replayed match, a relegation play-off and repeated changes to which team would be relegated. | Photo: Dr Robert H&uuml;bner playing in the Bundesliga in the 1980s (All photos courtesy of Eising and Treppner, Schachbundesliga)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
-         "pubDate" : "Tue, 13 Oct 2026 12:33:33",
-         "title" : "A dispute in the Bundesliga"
       },
       {
          "description" : "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&#38;mdash;where he currently shares the tournament lead&#38;mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th...",
