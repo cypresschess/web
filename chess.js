@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a potential battle between Anish Giri and Nodirbek Abdusattorov (pictured) on the top board. In the women's competition, Monte-Carlo and Gambit Bonnevoie are the only teams with perfect scores and will meet on Tuesday. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-3",
+         "pubDate" : "Tue, 20 Oct 2026 05:05:00",
+         "title" : "European Club Cup: Favourites set for direct encounters"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Nazi Paikidze | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
+         "pubDate" : "Mon, 19 Oct 2026 18:35:40",
+         "title" : "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana"
+      },
+      {
          "description" : "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
          "pubDate" : "Mon, 19 Oct 2026 15:23:00",
          "title" : "15-Year-Old Erdogmus Climbs To World No. 15"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Mon, 19 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitive chess, how a career detour ultimately brought him back to the game, and how coaching, streaming and commentary became increasingly important parts of his life.",
@@ -498,14 +506,6 @@ news_feed (
          "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
       },
       {
-         "description" : "In a week when GM Hikaru Nakamura pushed Chess.com&#39;s blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
-         "pubDate" : "Sat, 03 Oct 2026 21:30:00",
-         "title" : "Nakamura Breaks Calendar Record With 4th Consecutive Victory"
-      },
-      {
          "description" : "I always believed that if I became a Grandmaster, I could be proud of my game and enjoy chess fully. When I did it, nothing changed. If anything, I felt more stressed. My next goal was 2550. Achieved this, again, nothing changed. Then, one day I wrote in my diary: I want to become European []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -600,14 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
          "pubDate" : "Tue, 29 Sep 2026 09:38:57",
          "title" : "Uzbekistan and China win the 46th Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134553791.cms\" />Nihal Sarin responded to an X user who told him to \"play for Pakistan\" after India's Open team won silver at the Chess Olympiad, replying simply, \"on board 0?\" Nihal's tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
-         "pubDate" : "Tue, 29 Sep 2026 02:05:22",
-         "title" : "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words"
       }
    ]
 }
