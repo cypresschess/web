@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
-         "pubDate" : "Mon, 19 Oct 2026 18:35:40",
+         "pubDate" : "Mon, 19 Oct 2026 18:35:00",
          "title" : "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana"
       },
       {
