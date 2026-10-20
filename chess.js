@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2026-round-3-recap/",
+         "pubDate" : "Tue, 20 Oct 2026 10:52:40",
+         "title" : "European Chess Club Cup 2026 - Round 3 recap"
+      },
+      {
          "description" : "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a potential battle between Anish Giri and Nodirbek Abdusattorov (pictured) on the top board. In the women's competition, Monte-Carlo and Gambit Bonnevoie are the only teams with perfect scores and will meet on Tuesday. | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
          "pubDate" : "Wed, 30 Sep 2026 07:18:10",
          "title" : "European Senior Team Chess Championship 2027 - Official invitation"
-      },
-      {
-         "description" : "The 46th FIDE Chess Olympiad took place from 15-27 September in Samarkand, Uzbekistan. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, claiming their second Olympiad title after Chennai 2022.&#160;In the Women's section, China emerged as the Winner of the event clinching gold medal and the Winners trophy. The closing ceremony of the event took place on Sunday, 27th of September, at the Eternal City (Boqiy Shahar) Amphitheater, located on the banks of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
-         "pubDate" : "Tue, 29 Sep 2026 09:38:57",
-         "title" : "Uzbekistan and China win the 46th Chess Olympiad"
       }
    ]
 }
