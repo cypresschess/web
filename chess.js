@@ -10,6 +10,14 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&#38;rsquo;s bestselling chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
+         "pubDate" : "Tue, 20 Oct 2026 14:46:57",
+         "title" : "GothamChess Returns To NYT Bestseller List, Holds Amazon's Top 2 Chess Spots"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
          "pubDate" : "Fri, 09 Oct 2026 07:00:42",
          "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
-      },
-      {
-         "description" : "Europe is about to meet the world&#39;s biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
-         "pubDate" : "Wed, 07 Oct 2026 08:00:00",
-         "title" : "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756391.cms\" />In the final installment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Savitha Shri opens up about her remarkable breakthrough as India's only individual gold medallist. The 19-year-old recalls arriving as a reserve, playing all 10 rounds and delivering when India needed her most, while discussing her family's sacrifices, the team's bronze, Swayams Mishra's support and her goal of becoming a Grandmaster.",
