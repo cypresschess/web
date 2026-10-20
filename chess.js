@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Anna Zatonskih | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Tue, 20 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
          "pubDate" : "Tue, 20 Oct 2026 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
+         "pubDate" : "Tue, 20 Oct 2026 12:00:00",
+         "title" : "Nakamura Starts 7/7, Wins Titled Tuesday"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
@@ -26,12 +42,20 @@ news_feed (
          "title" : "European Club Cup: Favourites set for direct encounters"
       },
       {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Nazi Paikidze | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Mon, 19 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico, Guam, and USVIfeatures, and this week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-nationals-46th-womens-olympiad",
+         "pubDate" : "Tue, 20 Oct 2026 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Nationals at 46th Women's Olympiad"
+      },
+      {
+         "description" : "As we reach the final stage of the 2026 U.S. Championships, each tournament now has a clear frontrunner. Round 9 featured several key matchups that had a massive impact on the standings and now, with just two rounds to go, GM Wesley So and WIM Rachael Li each boast full point leads. U.S Championship: So Survives, Oparin ClimbsThe most important matchup of the round was clearly between So and GM Fabiano Caruana. Caruana entered the round trailing by a full point but, with the white pieces, had a shot to shake things up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Fabiano Caruana (L) tried to surprise Wesley So with the Dubov Italian, but So found a ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-9-li-and-so-control",
+         "pubDate" : "Tue, 20 Oct 2026 00:00:00",
+         "title" : "Round 9: Li and So in Control"
       },
       {
          "description" : "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland...",
@@ -338,20 +362,12 @@ news_feed (
          "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
       },
       {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the second installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico and Guam features, and this week we take a look at U.S. Virgin Islands! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our i",
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the third installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico and Guam features, and this week we take a look at U.S. Virgin Islands! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our in",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-us-virgin-islands-46th-olympiad",
          "pubDate" : "Tue, 13 Oct 2026 00:00:00",
          "title" : "Tactics Tuesday: U.S. Virgin Islands at 46th Olympiad"
-      },
-      {
-         "description" : "In Round 4 of the 2026 U.S. Championships, we witnessed brilliant sacrifices, complex endgames, and missed opportunities. Going into the first rest day, GMs Wesley So and Fabiano Caruana are tied for first in the Open, while IM Alice Lee has taken the sole lead - half a point ahead of WGM Thalia Cervantes - in the Women's event. Play resumes Wednesday, Oct. 14, at noon CDT. Open: Caruana Catches SoWith four decisive results (and just two draws), there was clearly blood in the water today. The co-leaders - So and GM Awonder Liang - were a combined &frac12;/2, leading to a standings shakeup, too. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> An impress",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/caruana-catches-so-lee-leaps",
-         "pubDate" : "Tue, 13 Oct 2026 00:00:00",
-         "title" : "Caruana Catches So as Lee Leaps"
       },
       {
          "description" : "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G...",
@@ -360,14 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
          "pubDate" : "Mon, 12 Oct 2026 00:40:22",
          "title" : "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders"
-      },
-      {
-         "description" : "The Fischer Prize is safe for another year and journalists will have to find new storylines. Round 3 of the 2026 U.S. Championships saw all four remaining players with 2/2 settle for draws. In the Open, GMs Awonder Liang and Wesley So drew a quiet game and remain in joint first. In the Women's, WGM Thalia Cervantes and FM Megan Paragua each drew (mostly) uneventful games, allowing IM Alice Lee to join them in joint first after a tactical oversight by IM Nazi Paikidze. Annotations are coming from your author today, but fear not: guest commentary resumes tomorrow. Women's: Lee Joins LeadersParagua and Cervantes remain atop the leaderboard after draws on Sunday, but their games could have went ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/no-more-searching-bobby-fischer-prize",
-         "pubDate" : "Mon, 12 Oct 2026 00:00:00",
-         "title" : "No More Searching For Bobby Fischer Prize"
       },
       {
          "description" : "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his...",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/between-parents-struggles-and-endless-coffees-how-savitha-shri-became-indias-only-gold-medallist-at-chess-olympiad-exclusive/articleshow/134756391.cms",
          "pubDate" : "Wed, 07 Oct 2026 05:10:03",
          "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
-      },
-      {
-         "description" : "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
-         "pubDate" : "Tue, 06 Oct 2026 13:53:06",
-         "title" : "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
