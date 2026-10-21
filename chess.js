@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Grigoriy Oparin | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
+         "pubDate" : "Wed, 21 Oct 2026 19:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
          "pubDate" : "Wed, 21 Oct 2026 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "Think you can dunk on an NBA player at chess? Houston Rockets star Steven Adams is now a bot on Chess.com! Head to the Play Bots page and try your luck against our tallest chess bot ever! With a towering 6&#39;11&#34; presence and a tough chess rating of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-steven-adams",
+         "pubDate" : "Wed, 21 Oct 2026 10:00:17",
+         "title" : "Play Chess Against NBA Star Steven Adams"
       },
       {
          "description" : "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photo: Vladimir Lionter / @the_lionter",
@@ -26,20 +42,20 @@ news_feed (
          "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
       },
       {
+         "description" : "Barring a miracle, the 2026 U.S. Championships will end today without a need for tiebreaks in either event. GM Wesley So and WIM Rachael Li each protected their full point leads and now enter the final round needing only a draw to secure the title outright. Still, with over $400,000 in prizes, there is still plenty to play for. We certainly saw this on Tuesday, as Round 10 delivered several of the tournament's most fascinating, intense, and complicated games, all played by players out of the running for first place.GM Luka Budisavljevic is here to guide us through today's dark forests, and will be back tomorrow with even more highlights. U.S. Championship: Shankland - Sevian Steals ShowWith ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-10-great-games-stable-standings",
+         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
+         "title" : "Round 10: Great Games, Stable Standings"
+      },
+      {
          "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
          "pubDate" : "Tue, 20 Oct 2026 21:25:00",
          "title" : "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round"
-      },
-      {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Anna Zatonskih | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Tue, 20 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus all lost in round four of the 2026 European Chess Club Cup, falling to GMs Aydin Suleymanli, Pranav Venkatesh, and Karthikeyan Murali respectively. While Abdusattorov was rescued by hi...",
@@ -114,30 +130,6 @@ news_feed (
          "title" : "15-Year-Old Erdogmus Climbs To World No. 15"
       },
       {
-         "description" : "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitive chess, how a career detour ultimately brought him back to the game, and how coaching, streaming and commentary became increasingly important parts of his life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
-         "pubDate" : "Mon, 19 Oct 2026 11:37:10",
-         "title" : "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans"
-      },
-      {
-         "description" : "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-2",
-         "pubDate" : "Mon, 19 Oct 2026 08:05:00",
-         "title" : "European Club Cup: Crowded at the top"
-      },
-      {
-         "description" : "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overall playing strength across the three formats. Magnus Carlsen (pictured) tops the inaugural ranking, followed by Hikaru Nakamura and Nodirbek Abdusattorov. The system will undergo testing and public consultation before potential revisions. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-unified-rating-system",
-         "pubDate" : "Mon, 19 Oct 2026 02:45:00",
-         "title" : "Total Chess proposes unified rating system"
-      },
-      {
          "description" : "Just three days ago, we had a tie atop the U.S. Championship standings while IM Alice Lee led the U.S. Women's Championship field by a full point. Now, it's fellow Minnesotan GM Wesley So leading by a full point while Lee is tied with WIM Rachael Li. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Today is the second and final rest day, and play resumes Monday at noon CDT in St. Louis. Today, we are again joined by 2017 U.S. Women's champion WGM Sabina Foisor with annotations from the key games. Open: Wesley So Does it AgainToday's headliner was the clash between So, a three-time U.S. Champion, and ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -154,14 +146,6 @@ news_feed (
          "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
       },
       {
-         "description" : "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remain tied for first place on 6/8, while Thalia Cervantes moved within half a point of the leaders by defeating four-time national champion Carissa Yip. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-8",
-         "pubDate" : "Sun, 18 Oct 2026 20:00:00",
-         "title" : "US Championships: So wins again, now a full point ahead"
-      },
-      {
          "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -176,22 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
          "pubDate" : "Sun, 18 Oct 2026 16:12:00",
          "title" : "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup"
-      },
-      {
-         "description" : "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance of his compatriot Abdusattorov, among others, as Abdusattorov himself recently revealed. | Photo: UzChess / Yoav Nis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-ch-2026-seconds",
-         "pubDate" : "Sun, 18 Oct 2026 12:30:00",
-         "title" : "The hour of the seconds"
-      },
-      {
-         "description" : "The European Club Cup began on Saturday in Budva, Montenegro, with 108 teams competing in the open section and 22 in the women's tournament. The leading clubs secured comfortable victories, although there were a couple of individual upsets. Defending champions SuperChess Romania and Monte-Carlo both started with wins, while Novy Bor's Nils Grandelius suffered a surprising defeat against Serbian CM Slobodan Filipovic. The women's competition saw seventh seeds Crvena Zvezda held to a draw. | Pictured: Alkaloid's Arjun Erigaisi | Photo: Mark Livshitz / ECU",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-1",
-         "pubDate" : "Sun, 18 Oct 2026 09:25:00",
-         "title" : "European Club Cup: Comfortable wins for the favourites"
       },
       {
          "description" : "After his three wins in the 2026 U.S. Chess Championship so far in different endgames, GM Wesley So defeated one of his nearest pursuers, GM Andy Woodward, in a pawn endgame in the eighth round. He is now on six points and extends his sole lead to...",
@@ -402,14 +370,6 @@ news_feed (
          "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
       },
       {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the third installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico and Guam features, and this week we take a look at U.S. Virgin Islands! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-virgin-islands-46th-olympiad",
-         "pubDate" : "Tue, 13 Oct 2026 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Virgin Islands at 46th Olympiad"
-      },
-      {
          "description" : "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -456,14 +416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-get-rs-15-lakh-each-as-tamil-nadu-awards-rs-60-lakh-to-chess-olympiad-medallists/articleshow/134849027.cms",
          "pubDate" : "Sat, 10 Oct 2026 06:34:28",
          "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
-      },
-      {
-         "description" : "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
-         "pubDate" : "Sat, 10 Oct 2026 01:55:00",
-         "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
       },
       {
          "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
