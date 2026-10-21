@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Vahap Sanal won the 2026 NATO Chess Championship in Jurmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website",
+         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
+         "pubDate" : "Wed, 21 Oct 2026 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photo: Vladimir Lionter / @the_lionter",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nato-chess-championship-2026-report",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
          "pubDate" : "Tue, 20 Oct 2026 14:46:57",
          "title" : "GothamChess Returns To NYT Bestseller List, Holds Amazon's Top 2 Chess Spots"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Tue, 20 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco...",
@@ -600,14 +600,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
          "pubDate" : "Thu, 01 Oct 2026 14:00:52",
          "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134593973.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the 32-year-old opens up about Gukesh's move to Board 4, India's silver, the campaign's key challenges, team unity, the upcoming Gukesh-Sindarov world championship match, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unrealistic-to-win-gold-every-single-time-captain-srinath-narayanan-after-indias-chess-olympiad-silver-exclusive/articleshow/134593973.cms",
-         "pubDate" : "Wed, 30 Sep 2026 12:24:59",
-         "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
       }
    ]
 }
