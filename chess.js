@@ -18,11 +18,11 @@ news_feed (
          "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
       },
       {
-         "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead on GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead, b...",
+         "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-         "pubDate" : "Tue, 20 Oct 2026 21:25:39",
+         "pubDate" : "Tue, 20 Oct 2026 21:25:00",
          "title" : "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round"
       },
       {
@@ -608,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unrealistic-to-win-gold-every-single-time-captain-srinath-narayanan-after-indias-chess-olympiad-silver-exclusive/articleshow/134593973.cms",
          "pubDate" : "Wed, 30 Sep 2026 12:24:59",
          "title" : "'Unrealistic to win gold every time': India captain after Chess Olympiad silver"
-      },
-      {
-         "description" : "Greetings all! Putting on my ECF Manager of Coaches hat I have been asked by Gerry Walsh if there are any coaches out there who would like to coach blind...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/coaching-blind-players/",
-         "pubDate" : "Wed, 30 Sep 2026 08:21:32",
-         "title" : "Coaching blind players"
       }
    ]
 }
