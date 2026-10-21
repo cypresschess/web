@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, seeded 30th, secured three consecutive wins to catch the leader. Baadur Jobava took third place on 6&frac12;/9. | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/atyrau-masters-2026-r9",
+         "pubDate" : "Wed, 21 Oct 2026 21:40:00",
+         "title" : "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Grigoriy Oparin | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid. In the penultimate round, they&#39;ll face the only other team ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
+         "pubDate" : "Wed, 21 Oct 2026 15:50:00",
+         "title" : "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
          "pubDate" : "Wed, 21 Oct 2026 14:00:00",
          "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world&#39;s second-most followed person on Instagram, behind only...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
+         "pubDate" : "Wed, 21 Oct 2026 13:55:00",
+         "title" : "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers"
       },
       {
          "description" : "Think you can dunk on an NBA player at chess? Houston Rockets star Steven Adams is now a bot on Chess.com! Head to the Play Bots page and try your luck against our tallest chess bot ever! With a towering 6&#39;11&#34; presence and a tough chess rating of...",
@@ -40,6 +64,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
          "pubDate" : "Wed, 21 Oct 2026 01:15:00",
          "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
+      },
+      {
+         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. This week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-nationals-46th-womens-olympiad",
+         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
+         "title" : "Wednesday Workout: U.S. Nationals at 46th Women's Olympiad"
+      },
+      {
+         "description" : "And other questions for ICCF GM Jon Edwards, 32nd World Correspondence Chess ChampionOne of the speakers at the 2026 Saint Louis Chess Conference is ICCF GM Dr. Jon Edwards, the 32nd World Correspondence Chess Champion. While his October 24th presentation, titled \"The American Chess Archive Use Cases,\" is about a project he is involved with as the Vice President of Chess Journalists of America, he is an expert on more than old chess magazines. In 2026, his peer-reviewed article Chess: Toward a Methodological Solution of Chess was published in the journal of the International Computer Games Association. It implies that humans should sometimes override chess engines. One key definition from hi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/when-should-humans-override-chess-engines",
+         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
+         "title" : "When Should Humans Override Chess Engines? "
       },
       {
          "description" : "Barring a miracle, the 2026 U.S. Championships will end today without a need for tiebreaks in either event. GM Wesley So and WIM Rachael Li each protected their full point leads and now enter the final round needing only a draw to secure the title outright. Still, with over $400,000 in prizes, there is still plenty to play for. We certainly saw this on Tuesday, as Round 10 delivered several of the tournament's most fascinating, intense, and complicated games, all played by players out of the running for first place.GM Luka Budisavljevic is here to guide us through today's dark forests, and will be back tomorrow with even more highlights. U.S. Championship: Shankland - Sevian Steals ShowWith ",
@@ -330,22 +370,6 @@ news_feed (
          "title" : "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record"
       },
       {
-         "description" : "Editor's Note: Chess Life and Chess Life Online Editor John Hartmann made it to St. Louis for the first two rounds of the 2026 U.S. Championships. A true journalist, Hartmann kept a log of each day's goings-on, which he has allowed to be published on Chess Life Online. This is a collection of observations, not a complete write-up from Hartmann (you'll have to wait for the print issue). We've grouped his notes into three sections. The first will help you get a feel for the ambiance and atmosphere of the Saint Louis Chess Club (SLCC) before and during the rounds. The second introduces you to some of the many chess fans - from casual observers to life members, locals and travelers - he met at t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/club-notes-st-louis",
-         "pubDate" : "Wed, 14 Oct 2026 00:00:00",
-         "title" : "In the Club: Notes from St. Louis"
-      },
-      {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! We will be focusing on the U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. Puerto Rico's team finished with a 10/22 score in the Open section, and a number of its instructive victories are featured here and in a previous Tactics Tuesday.This week, we double-up with worksheets from Guam and U.S. Virgin Islands' Open teams. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> U.S. Virgin Islands team. (Photo courtesy FIDE/Michal Walusza)<br> <br> <br> <br> <br> <br> Guam's Open ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-guam-and-us-virgin-islands-46th-olympiad",
-         "pubDate" : "Wed, 14 Oct 2026 00:00:00",
-         "title" : "Wednesday Workout: Guam and U.S. Virgin Islands at 46th Olympiad"
-      },
-      {
          "description" : "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&#38;mdash;where he currently shares the tournament lead&#38;mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -386,28 +410,12 @@ news_feed (
          "title" : "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores"
       },
       {
-         "description" : "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
-         "pubDate" : "Sat, 10 Oct 2026 17:14:00",
-         "title" : "Nakamura Makes History With Record 5th Straight Bullet Brawl Victory"
-      },
-      {
          "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/a-reminder-to-slow-down/",
          "pubDate" : "Sat, 10 Oct 2026 13:00:00",
          "title" : "A reminder to slow down"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
-         "pubDate" : "Sat, 10 Oct 2026 07:47:00",
-         "title" : "Maghsoodloo Wins Star-Studded Freestyle Friday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134849027.cms\" />Tamil Nadu Chief Minister C Joseph Vijay honoured the state's 2026 Chess Olympiad medallists, distributing Rs 60 lakh among five recipients. D Gukesh and R Praggnanandhaa received Rs 15 lakh each, while Savitha Shri, R Vaishali and captain Srinath Narayanan were awarded Rs 10 lakh each. The state also launched its Dream Olympics 2036 scheme to support athletes with training and nutrition costs.",
