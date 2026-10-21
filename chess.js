@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nato-chess-championship-2026-report",
+         "pubDate" : "Wed, 21 Oct 2026 03:30:00",
+         "title" : "Vahap Sanal and Team T&uuml;rkiye triumph at NATO Chess Championship"
+      },
+      {
+         "description" : "FIDE President Timur Turlov met Cypriot President Nikos Christodoulides in Nicosia to discuss the country's growing chess infrastructure and future cooperation with FIDE. Cyprus has hosted several major international events in recent years while also expanding domestic tournaments, youth training and permanent facilities. The meeting highlighted the island's development as an emerging European chess centre and its potential as a model for combining elite events with long-term national growth. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
+         "pubDate" : "Wed, 21 Oct 2026 01:15:00",
+         "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Anna Zatonskih | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2026-live",
          "pubDate" : "Tue, 20 Oct 2026 19:00:00",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus all lost in round four of the 2026 European Chess Club Cup, falling to GMs Aydin Suleymanli, Pranav Venkatesh, and Karthikeyan Murali respectively. While Abdusattorov was rescued by hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
+         "pubDate" : "Tue, 20 Oct 2026 16:20:00",
+         "title" : "Abdusattorov, Giri, Erdogmus All Beaten In European Club Cup Round 4"
       },
       {
          "description" : "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&#38;rsquo;s bestselling chess...",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2026/",
          "pubDate" : "Fri, 09 Oct 2026 08:53:13",
          "title" : "BCET Awards 2026"
-      },
-      {
-         "description" : "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
-         "pubDate" : "Fri, 09 Oct 2026 08:30:22",
-         "title" : "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'"
       },
       {
          "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
