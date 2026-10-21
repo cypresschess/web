@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Vahap Sanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website",
+         "description" : "Vahap Sanal won the 2026 NATO Chess Championship in Jurmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nato-chess-championship-2026-report",
