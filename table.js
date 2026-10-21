@@ -1,8 +1,10 @@
 jtable([
+"HOUSTON","2026-10-18","15","<a href=https://ratings.uschess.org/event/202610180493 target='_blank'>OCT 18th SUNDAY SWISS</a>",
 "HOUSTON","2026-10-18","17","<a href=https://ratings.uschess.org/event/202610180393 target='_blank'>Bellaire Sunday Swiss 2026.10.18</a>",
 "HOUSTON","2026-10-18","39","<a href=https://ratings.uschess.org/event/202610180323 target='_blank'>Texas Fall FIDE</a>",
 "HOUSTON","2026-10-17","10","<a href=https://ratings.uschess.org/event/202610171253 target='_blank'>Texas Fall Blitz</a>",
 "HOUSTON","2026-10-17","27","<a href=https://ratings.uschess.org/event/202610171173 target='_blank'>Texas Fall Scholastic</a>",
+"HOUSTON","2026-10-17","5","<a href=https://ratings.uschess.org/event/202610170603 target='_blank'>OCT 17th TROPHY SCHOLASTIC</a>",
 "HOUSTON","2026-10-17","9","<a href=https://ratings.uschess.org/event/202610170403 target='_blank'>chesspanda10172026saturday</a>",
 "CYPRESS","2026-10-16","34","<a href=https://ratings.uschess.org/event/202610160273 target='_blank'>Knights of Cypress</a>",
 "SPRING","2026-10-16","19","<a href=https://ratings.uschess.org/event/202610160173 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-07-25","9","<a href=https://ratings.uschess.org/event/202607250233 target='_blank'>chesspanda07252026saturday</a>",
 "HOUSTON","2026-07-24","55","<a href=https://ratings.uschess.org/event/202607240543 target='_blank'>Gulf Coast FIDE 2026</a>",
 "SUGAR LAND","2026-07-24","24","<a href=https://ratings.uschess.org/event/202607240493 target='_blank'>FBCC 2026 National Amelia Earhart Day</a>",
-"SPRING","2026-07-24","15","<a href=https://ratings.uschess.org/event/202607240473 target='_blank'>The Friday Knights</a>",
-"KATY","2026-07-24","31","<a href=https://ratings.uschess.org/event/202607240463 target='_blank'>Katy Scholastic Chess Tournament</a>",
 ]);
