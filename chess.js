@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
       },
       {
+         "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead on GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead, b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
+         "pubDate" : "Tue, 20 Oct 2026 21:25:39",
+         "title" : "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round"
+      },
+      {
          "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Anna Zatonskih | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,14 +466,6 @@ news_feed (
          "title" : "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win"
       },
       {
-         "description" : "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8&#39;s 3 0 Thursday&#38;nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
-         "pubDate" : "Fri, 09 Oct 2026 23:09:00",
-         "title" : "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score"
-      },
-      {
          "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -616,14 +616,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/coaching-blind-players/",
          "pubDate" : "Wed, 30 Sep 2026 08:21:32",
          "title" : "Coaching blind players"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2027 will take place from 23 April 3 May in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game+ 30 seconds increment for every move played. A separate Women's Championship will be organised []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2027-official-invitation/",
-         "pubDate" : "Wed, 30 Sep 2026 07:18:10",
-         "title" : "European Senior Team Chess Championship 2027 - Official invitation"
       }
    ]
 }
