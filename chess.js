@@ -18,6 +18,14 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
+         "description" : "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
+         "pubDate" : "Wed, 21 Oct 2026 16:33:59",
+         "title" : "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs"
+      },
+      {
          "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid. In the penultimate round, they&#39;ll face the only other team ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
          "pubDate" : "Mon, 12 Oct 2026 00:40:22",
          "title" : "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders"
-      },
-      {
-         "description" : "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
-         "pubDate" : "Sat, 10 Oct 2026 19:58:00",
-         "title" : "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores"
       },
       {
          "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
