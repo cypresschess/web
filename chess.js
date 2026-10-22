@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Queen's Gambit. ChessBase Magazine 233 rounds off the selection with up-to-date opening ideas, annotated games by top players and a wide range of training material. The products combine practical recommendations for tournament play with suggestions for independent analysis. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-new-releases-in-september",
+         "pubDate" : "Thu, 22 Oct 2026 10:12:08",
+         "title" : "All new releases in September!"
+      },
+      {
+         "description" : "Five rounds were played and there are only two rounds left before the announcement of the European Chess Club Cup winners for 2026! Two teams in the Open section score perfect 10 match points, tying for the top: defending champions SuperChess Romania, and Novy Bor Chess Club (Czech Republic). In the Women's section, CE Gambit Bonnevoie (Luxembourg) remined the only team with the maximum score and all five match wins to maintain the sole lead in the tournament. Playing on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/two-rounds-to-go-at-european-chess-club-cup-2026/",
+         "pubDate" : "Thu, 22 Oct 2026 09:34:25",
+         "title" : "Two rounds to go at European Chess Club Cup 2026"
+      },
+      {
          "description" : "The cosmopolitan capital of Spain's Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the world's top grandmasters to Barcelona from 18 to 20 January 2027.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,11 +54,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-         "pubDate" : "Wed, 21 Oct 2026 16:33:59",
+         "pubDate" : "Wed, 21 Oct 2026 16:33:00",
          "title" : "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs"
       },
       {
-         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid. In the penultimate round, they&#39;ll face the only other team ...",
+         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round four of the 2026 European Chess Club Cup. In the pe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
