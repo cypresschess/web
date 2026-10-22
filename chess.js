@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
+         "pubDate" : "Thu, 22 Oct 2026 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-england-juniors-lichess-team-manager-volunteer-wanted/",
+         "pubDate" : "Thu, 22 Oct 2026 11:51:04",
+         "title" : "ECF England Juniors Lichess Team Manager (Volunteer) wanted"
+      },
+      {
          "description" : "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Queen's Gambit. ChessBase Magazine 233 rounds off the selection with up-to-date opening ideas, annotated games by top players and a wide range of training material. The products combine practical recommendations for tournament play with suggestions for independent analysis. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs"
       },
       {
-         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round four of the 2026 European Chess Club Cup. In the pe...",
+         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/if-india-won-a-medal-we-owe-it-to-her-captain-swayams-mishra-on-savitha-shris-chess-olympiad-heroics-exclusive/articleshow/134622703.cms",
          "pubDate" : "Fri, 02 Oct 2026 00:30:00",
          "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
-      },
-      {
-         "description" : " Bodhana Sivanandan's father taught her to play age five and soon she was beating ex-champions. Now she is lighting up the Chess Olympiad Over the weekend, 11-year-old Bodhana Sivanandan became the <a href=\"https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines\">youngest ever</a> holder of the title of woman grandmaster at the Chess Olympiad in Uzbekistan - while playing on a car booster seat so she could reach the board. By Tuesday morning she was back at school in north London for a design and technology lesson. Bodhana has to juggle the competing pressures of being an international chess sensation with the more ordinar",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
-         "pubDate" : "Thu, 01 Oct 2026 14:00:52",
-         "title" : "School gate to checkmate: British chess prodigy, 11, is youngest ever woman grandmaster"
       }
    ]
 }
