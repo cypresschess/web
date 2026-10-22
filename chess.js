@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The cosmopolitan capital of Spain's Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the world's top grandmasters to Barcelona from 18 to 20 January 2027.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
+         "pubDate" : "Thu, 22 Oct 2026 08:00:00",
+         "title" : "Barcelona to host the MOVE Cup"
+      },
+      {
+         "description" : "Novy Bor and SuperChess Romania remain the only teams with perfect scores in the open section of the European Club Cup after five rounds. The co-leaders will face each other in Thursday's penultimate round, with three teams following one match point behind. In the women's competition, CE Gambit Bonnevoie secured their fifth consecutive victory and now hold a two-point lead over Monte-Carlo and Odlar Yurdu with two rounds remaining. | Pictured: SuperChess' Jorden van Foreest and Nodirbek Abdusattorov | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-5",
+         "pubDate" : "Thu, 22 Oct 2026 07:20:00",
+         "title" : "European Club Cup: Novy Bor and SuperChess remain perfect"
+      },
+      {
          "description" : "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, seeded 30th, secured three consecutive wins to catch the leader. Baadur Jobava took third place on 6&frac12;/9. | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
          "pubDate" : "Wed, 21 Oct 2026 15:50:00",
          "title" : "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Wed, 21 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world&#39;s second-most followed person on Instagram, behind only...",
