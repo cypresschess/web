@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So at the top of the standings. The title will now be decided in a playoff, beginning with two rapid games at 15+10. If the scores remain level, another two rapid games will follow, then up to two two-game blitz matches at 5+2. If the players are still tied, the arbiter will decide how to proceed. | Live with commentary from 12.00 CDT / 18.00 BST / 19.00 CEST | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-meisterschaften-live-7",
+         "pubDate" : "Thu, 22 Oct 2026 18:45:00",
+         "title" : "US Championship 2026: Tiebreak!"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2026-5",
          "pubDate" : "Thu, 22 Oct 2026 07:20:00",
          "title" : "European Club Cup: Novy Bor and SuperChess remain perfect"
+      },
+      {
+         "description" : "The 2026 U.S. Championships were supposed to end on Wednesday without a need for tiebreaks. GM Wesley So led the field by a full point, and a draw as Black against GM Samuel Sevian would clinch his fourth title. Likewise, WIM Rachael Li only needed a draw against IM Anna Zatonskih to win her first title. Besides, even if So or Li did lose, would anybody else even be able to win on demand to close the full-point gap? What could have been a formality of a final round in St. Louis instead turned into high drama, and today we will have an encore at noon CDT when So faces off against GM Fabiano Caruana in a playoff! Today's games are once again annotated by GM Luka Budisavljevic, and we have on s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rachael-li-wins-2026-us-womens-championship-caruana-forces-playoff-so",
+         "pubDate" : "Thu, 22 Oct 2026 00:00:00",
+         "title" : "Rachael Li Wins 2026 U.S. Women's Championship, Caruana Forces Playoff with So"
       },
       {
          "description" : "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, seeded 30th, secured three consecutive wins to catch the leader. Baadur Jobava took third place on 6&frac12;/9. | Photo: Kazakhstan Chess Federation",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
          "pubDate" : "Thu, 15 Oct 2026 12:57:00",
          "title" : "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League"
-      },
-      {
-         "description" : "After a day off, players were ready to fight, and the 2026 U.S. Championships delivered eight decisive results on Wednesday. IM Alice Lee extended her lead in the U.S. Women's Championship to a full point by improving to 4&frac12;/5. Lee turned 17 on her day off, but she picked up right where 16-year-old Alice left off, winning her fourth consecutive game. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Woodward confidently moves against Caruana as Lee blurs by. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> But in the U.S. Championship, reigning U.S. Junior Champion GM Andy Woodward scored the best win of his career (so far), upsetting the fou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-5-teen-takeover-us-championships",
-         "pubDate" : "Thu, 15 Oct 2026 00:00:00",
-         "title" : "Round 5: Teen Takeover at U.S. Championships"
       },
       {
          "description" : "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year&#39;s 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead...",
