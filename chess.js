@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
+         "pubDate" : "Thu, 22 Oct 2026 22:12:00",
+         "title" : "US Chess Championships 2026 - Games and results"
+      },
+      {
+         "description" : "Heading into the final round of the European Chess Club Cup 2026, the battle at the top of the leaderboards remains intensely competitive across both divisions. Three teams are currently tied for first place in the Open section, each securing 11 match points: SuperChess (Romania), Bayegan Pendik Chess Sports Club (Turkey), and Novy Bor Chess Club (Czech Republic). Trailing closely by just a single point are four teams on 10 match points: Elektroprivreda (Montenegro), Rishon LeZion A (Israel), Marseille Échecs []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/high-stakes-and-tied-leaders-ahead-of-european-chess-club-cup-2026-final-round/",
+         "pubDate" : "Thu, 22 Oct 2026 20:57:31",
+         "title" : "High Stakes and tied Leaders ahead of European Chess Club Cup 2026 Final Round"
+      },
+      {
          "description" : "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So at the top of the standings. The title will now be decided in a playoff, beginning with two rapid games at 15+10. If the scores remain level, another two rapid games will follow, then up to two two-game blitz matches at 5+2. If the players are still tied, the arbiter will decide how to proceed. | Live with commentary from 12.00 CDT / 18.00 BST / 19.00 CEST | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-meisterschaften-live-7",
          "pubDate" : "Thu, 22 Oct 2026 18:45:00",
          "title" : "US Championship 2026: Tiebreak!"
+      },
+      {
+         "description" : "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
+         "pubDate" : "Thu, 22 Oct 2026 14:54:00",
+         "title" : "Wesley So Wins 4th U.S. Chess Championship"
       },
       {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2026-5",
          "pubDate" : "Thu, 22 Oct 2026 07:20:00",
          "title" : "European Club Cup: Novy Bor and SuperChess remain perfect"
+      },
+      {
+         "description" : "GM Wesley So won his fourth U.S. Championship - and first in five years - on Thursday after defeating GM Fabiano Caruana 1&frac12;-&frac12; in a two-game rapid playoff mini-match. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So won his fourth U.S. Championship on Thursday, defeating Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> So entered Wednesday's final round with a full-point lead, but GM Samuel Sevian opened the door for Caruana by taking down the frontrunner shortly after Caruana won his game against GM Awonder Liang.The playoff format consisted of a two-game mini-match w",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wesley-so-wins-2026-us-championship",
+         "pubDate" : "Thu, 22 Oct 2026 00:00:00",
+         "title" : "Wesley So Wins 2026 U.S. Championship"
       },
       {
          "description" : "The 2026 U.S. Championships were supposed to end on Wednesday without a need for tiebreaks. GM Wesley So led the field by a full point, and a draw as Black against GM Samuel Sevian would clinch his fourth title. Likewise, WIM Rachael Li only needed a draw against IM Anna Zatonskih to win her first title. Besides, even if So or Li did lose, would anybody else even be able to win on demand to close the full-point gap? What could have been a formality of a final round in St. Louis instead turned into high drama, and today we will have an encore at noon CDT when So faces off against GM Fabiano Caruana in a playoff! Today's games are once again annotated by GM Luka Budisavljevic, and we have on s",
@@ -386,14 +418,6 @@ news_feed (
          "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
       },
       {
-         "description" : "An eventful Thursday saw two more players join the share of first place in both the 2026 U.S. Championship and the U.S. Women's Championship. Across both sections, seven of the field's 24 players are currently tied for first, with three more only a half-point back.2017 U.S. Women's Champion WGM Sabina Foisor joins us today for annotations on the key games, particularly in the Women's event. Women'sIM Alice Lee entered Round 6 with a full-point lead over her closest competitors. But one of them - WIM Rachael Li - took down Lee as Black to join her in a share of first. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> With a win over Alice Lee, Rachael Li ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leaderboard-logjam-after-us-championships-round-6",
-         "pubDate" : "Fri, 16 Oct 2026 00:00:00",
-         "title" : "Leaderboard Logjam after U.S. Championships Round 6"
-      },
-      {
          "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
          "pubDate" : "Tue, 13 Oct 2026 01:04:00",
          "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
-      },
-      {
-         "description" : "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
-         "pubDate" : "Mon, 12 Oct 2026 00:40:22",
-         "title" : "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders"
       },
       {
          "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
