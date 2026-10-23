@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, \tErdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsev",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
+         "pubDate" : "Fri, 23 Oct 2026 19:33:00",
+         "title" : "41st European Club Cup 2026 - Games and Results"
+      },
+      {
+         "description" : "In the end, Wesley So did it! Following his bitter defeat to Sam Sevian in the final round of the 2026 US Championship - which ended his 48-game unbeaten run at the event - he defeated Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff for the title. It was a thrilling encounter, not without mistakes, but full of interesting moments. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-14",
+         "pubDate" : "Fri, 23 Oct 2026 16:05:00",
+         "title" : "Wesley So beats Fabiano Caruana in tiebreaks, wins fourth US Chess Championship title"
+      },
+      {
          "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action of the final round live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Anish Giri | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,6 +226,14 @@ news_feed (
          "title" : "When Should Humans Override Chess Engines? "
       },
       {
+         "description" : "Migration to a new server began over the past week for correspondence chess (CC) back-end processing - entering and rating results and setting up tournaments - and CC tournament cross tables and related data. Back-end tasks, including updating players' CC ratings after results are entered, are suspended during migration and testing.Work is expected to finish by October 27, 2026, when back-end processing will resume. Online event registration, CC event administration and assignments, and manual entry of tournament results are unaffected.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-correspondence-chess-migration",
+         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
+         "title" : "Update on Correspondence Chess Migration"
+      },
+      {
          "description" : "Barring a miracle, the 2026 U.S. Championships will end today without a need for tiebreaks in either event. GM Wesley So and WIM Rachael Li each protected their full point leads and now enter the final round needing only a draw to secure the title outright. Still, with over $400,000 in prizes, there is still plenty to play for. We certainly saw this on Tuesday, as Round 10 delivered several of the tournament's most fascinating, intense, and complicated games, all played by players out of the running for first place.GM Luka Budisavljevic is here to guide us through today's dark forests, and will be back tomorrow with even more highlights. U.S. Championship: Shankland - Sevian Steals ShowWith ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
-      },
-      {
-         "description" : "GM Wesley So traveled an unlikely route into first place at the 2026 U.S. Championship in Round 7. A terrible position blossomed into a winning one in a span of 11 moves, allowing him to defeat GM Ray Robson and grab the lead with 5/7. Lurking a half-point back are GMs Fabiano Caruana and Andy Woodward, both of whom drew in Friday's seventh round of play. So faces Woodward in today's Round 8.The Women's Championship is becoming a sprint to the finish, with IM Alice Lee and WIM Rachael Li both winning to share first with 5&frac12;/7. Meanwhile GM Irina Krush continues to push forward, and after defeating IM Carissa Yip she stands a half-point back at 5/7.Open ChampionshipThe Open suffered an ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-7-so-surges-lead",
-         "pubDate" : "Sat, 17 Oct 2026 00:00:00",
-         "title" : "Round 7: So Surges Into the Lead"
       },
       {
          "description" : "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess&#39;s future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an...",
