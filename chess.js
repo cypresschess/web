@@ -26,6 +26,14 @@ news_feed (
          "title" : "US Championship 2026: Tiebreak!"
       },
       {
+         "description" : "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
+         "pubDate" : "Thu, 22 Oct 2026 16:31:00",
+         "title" : "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round"
+      },
+      {
          "description" : "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -466,14 +474,6 @@ news_feed (
          "title" : "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi"
       },
       {
-         "description" : "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
-         "pubDate" : "Tue, 13 Oct 2026 01:04:00",
-         "title" : "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's"
-      },
-      {
          "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -608,14 +608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record",
          "pubDate" : "Fri, 02 Oct 2026 07:00:14",
          "title" : "Uzbekistan dominates chess Olympiad while England's Sivanandan, 11, sets new world age record"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134622703.cms\" />Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After kicking things off with Srinath Narayanan and India's silver-winning Open team, we turn to Swayams Mishra, captain of the bronze-winning women's team. In an exclusive interaction, the 34-year-old opens up about his first full stint as captain, the difficult decision-making around Vaishali, Savitha Shri's match-winning impact, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/if-india-won-a-medal-we-owe-it-to-her-captain-swayams-mishra-on-savitha-shris-chess-olympiad-heroics-exclusive/articleshow/134622703.cms",
-         "pubDate" : "Fri, 02 Oct 2026 00:30:00",
-         "title" : "'If India won a medal, we owe it to her': Captain Swayams on Savitha's heroics"
       }
    ]
 }
