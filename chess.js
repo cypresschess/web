@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-6",
+         "pubDate" : "Fri, 23 Oct 2026 06:40:00",
+         "title" : "European Club Cup: Three co-leaders in both sections going into final round"
+      },
+      {
+         "description" : "Going into the final round of the 2026 US Women's Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tournament. Li secured both the draw and the title, becoming US Women's Champion at just 16 years of age. She also collected $45,000 in prize money, qualified for the next Women's World Cup and earned her first IM norm. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2026-13",
+         "pubDate" : "Fri, 23 Oct 2026 03:50:00",
+         "title" : "Rachel Li wins US Women's Championship on her debut"
+      },
+      {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
          "pubDate" : "Thu, 22 Oct 2026 14:54:00",
          "title" : "Wesley So Wins 4th U.S. Chess Championship"
-      },
-      {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Nino Batsiashvili | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Thu, 22 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-learning-experience-for-gm-diptayan/articleshow/134637399.cms",
          "pubDate" : "Fri, 02 Oct 2026 10:44:31",
          "title" : "A learning experience for GM Diptayan"
-      },
-      {
-         "description" : " Host nation won having led almost from start to finish, while young English player reached a stunning landmark Uzbekistan, the host nation, won the open gold medals at the 2026 Olympiad, the biennial chess international team tournament, at Samarkand last week in the style of the legendary Soviet grandmasters of long ago. India, the defending champions, were second, Germany a surprise third, and the top-seeded United States fourth. The hosts led almost from start to finish, with world No 5 Nodirbek Abdusattorov and the world title challenger Javokhir Sindarov their top-board powerhouses. The team recovered swiftly from a single defeat by Germany, and were particularly impressive in crushing ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/02/uzbekistan-dominates-chess-olympiad-bodhana-sivanandan-sets-new-world-age-record",
-         "pubDate" : "Fri, 02 Oct 2026 07:00:14",
-         "title" : "Uzbekistan dominates chess Olympiad while England's Sivanandan, 11, sets new world age record"
       }
    ]
 }
