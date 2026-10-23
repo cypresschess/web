@@ -42,20 +42,20 @@ news_feed (
          "title" : "US Championship 2026: Tiebreak!"
       },
       {
-         "description" : "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
-         "pubDate" : "Thu, 22 Oct 2026 16:31:00",
-         "title" : "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round"
-      },
-      {
          "description" : "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
          "pubDate" : "Thu, 22 Oct 2026 14:54:00",
          "title" : "Wesley So Wins 4th U.S. Chess Championship"
+      },
+      {
+         "description" : "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
+         "pubDate" : "Thu, 22 Oct 2026 14:31:00",
+         "title" : "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round"
       },
       {
          "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
@@ -592,22 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-in-chess-there-are-just-these-blind-spots-nihal-sarin-looks-back-at-his-chess-olympiad-loss-to-uzbekistan-exclusive/articleshow/134640893.cms",
          "pubDate" : "Fri, 02 Oct 2026 13:35:01",
          "title" : "'Sometimes there are blind spots': Nihal Sarin looks back at Chess Olympiad loss"
-      },
-      {
-         "description" : " Have you been watching football, chess, cricket, rugby, motor racing, hockey, boxing, table tennis and horse racing? <a href=\"https://www.theguardian.com/sport/2026/oct/02/sports-quiz-football-chess-cricket-rugby-f1-hockey-boxing-table-tennis-horse-racing\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/02/sports-quiz-football-chess-cricket-rugby-f1-hockey-boxing-table-tennis-horse-racing",
-         "pubDate" : "Fri, 02 Oct 2026 11:14:37",
-         "title" : "Sports quiz of the week: winners, losers, prodigies, heroes, villains and rivals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134637399.cms\" />Diptayan Ghosh played a pivotal role in guiding the Indian women's chess team to a bronze medal at the 46th Chess Olympiad. Collaborating closely with the team captain, he helped prepare strategies in an online camp focused on openings before the tournament. Throughout the matches, Ghosh monitored the competition while fostering a calm environment. Though they faced a setback against Poland, the team's belief led to a well-deserved podium finish.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-learning-experience-for-gm-diptayan/articleshow/134637399.cms",
-         "pubDate" : "Fri, 02 Oct 2026 10:44:31",
-         "title" : "A learning experience for GM Diptayan"
       }
    ]
 }
