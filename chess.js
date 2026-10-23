@@ -10,6 +10,22 @@ news_feed (
          "title" : "41st European Club Cup 2026 - Games and Results"
       },
       {
+         "description" : "GM Hikaru Nakamura played the GOAT Horns Variation, referencing a recent advertisement featuring soccer star Lionel Messi, on his way to winning the first 3 0 Thursday tournament on October 22. GMs Fabiano Caruana and Parham Maghsoodloo won the se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
+         "pubDate" : "Fri, 23 Oct 2026 16:18:56",
+         "title" : "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday"
+      },
+      {
+         "description" : "GM Hans Niemann won his third Freestyle Friday on October 23, scoring nine points and defeating last week&#39;s winner, GM Sina Movahed, on tiebreaks, as well as in their individual encounter in round 10. Like Movahed, the win was Niemann&#39;s first in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
+         "pubDate" : "Fri, 23 Oct 2026 16:08:00",
+         "title" : "Niemann Wins Freestyle Friday, Preventing Movahed Repeat"
+      },
+      {
          "description" : "In the end, Wesley So did it! Following his bitter defeat to Sam Sevian in the final round of the 2026 US Championship - which ended his 48-game unbeaten run at the event - he defeated Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff for the title. It was a thrilling encounter, not without mistakes, but full of interesting moments. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,30 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
          "pubDate" : "Thu, 15 Oct 2026 18:08:00",
          "title" : "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead"
-      },
-      {
-         "description" : "The last two league champions, Saint Louis University (SLU) and the University of Texas at Dallas (UTD), are the two undefeated teams after two matches each in the 2026 fall season of the Collegiate Chess League. SLU has dominated both matches tha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
-         "pubDate" : "Thu, 15 Oct 2026 12:57:00",
-         "title" : "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League"
-      },
-      {
-         "description" : "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year&#39;s 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
-         "pubDate" : "Wed, 14 Oct 2026 18:57:00",
-         "title" : "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet"
-      },
-      {
-         "description" : "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
-         "pubDate" : "Wed, 14 Oct 2026 12:00:54",
-         "title" : "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
