@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action of the final round live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Anish Giri | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
+         "pubDate" : "Fri, 23 Oct 2026 14:00:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&#38;ndash;20, 2027, an eight-player rapid tournament with &#38;euro;300,000 i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
+         "pubDate" : "Fri, 23 Oct 2026 07:11:00",
+         "title" : "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment"
+      },
+      {
          "description" : "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -466,14 +482,6 @@ news_feed (
          "title" : "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record"
       },
       {
-         "description" : "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&#38;mdash;where he currently shares the tournament lead&#38;mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
-         "pubDate" : "Tue, 13 Oct 2026 11:44:54",
-         "title" : "Caruana Wins Titled Tuesday On Day Off In U.S. Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
          "pubDate" : "Sat, 3 Oct 2026 11:02:00",
          "title" : "46th World Chess Olympiad 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134640893.cms\" />Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sometimes-in-chess-there-are-just-these-blind-spots-nihal-sarin-looks-back-at-his-chess-olympiad-loss-to-uzbekistan-exclusive/articleshow/134640893.cms",
-         "pubDate" : "Fri, 02 Oct 2026 13:35:01",
-         "title" : "'Sometimes there are blind spots': Nihal Sarin looks back at Chess Olympiad loss"
       }
    ]
 }
