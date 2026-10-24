@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Intercontinental Online Chess Championship for Prisoners brought together a record 140 teams from 56 countries, highlighting the continued growth of FIDE's Chess for Freedom initiative. Beyond the competition itself, programmes in Argentina, Romania, Ghana, Australia (pictured), Nigeria and Zimbabwe show how chess is being used in correctional facilities to encourage discipline, critical thinking, emotional control and social reintegration, while giving incarcerated players opportunities for structured learning and international participation. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
+         "pubDate" : "Sat, 24 Oct 2026 03:30:00",
+         "title" : "The global impact of the Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135159739.cms\" />Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro, with Nihal Sarin winning individual gold and Pentala Harikrishna taking silver. Karthikeyan Murali secured bronze, while Arjun Erigaisi finished fourth. In the women's event, Koneru Humpy won individual gold and helped Cercle d'Echecs de Monte-Carlo clinch the team title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-koneru-humpy-clinch-individual-gold-medals-at-european-chess-club-cup-2026/articleshow/135159739.cms",
+         "pubDate" : "Sat, 24 Oct 2026 02:19:30",
+         "title" : "Nihal, Humpy clinch individual gold medals at European Chess Club Cup"
+      },
+      {
          "description" : " The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, \tErdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsev",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
          "pubDate" : "Fri, 23 Oct 2026 19:33:00",
          "title" : "41st European Club Cup 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Anish Giri scored a crushing win over GM Nodirbek Abdusattorov as top-seed Bayegan Pendik Chess Sports Club beat defending champion SuperChess Romania 3.5-2.5 to win the 2026 European Chess Club Cup. Novy Bor Chess Club missed out on gold on ti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
+         "pubDate" : "Fri, 23 Oct 2026 17:51:00",
+         "title" : "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup"
       },
       {
          "description" : "GM Hikaru Nakamura played the GOAT Horns Variation, referencing a recent advertisement featuring soccer star Lionel Messi, on his way to winning the first 3 0 Thursday tournament on October 22. GMs Fabiano Caruana and Parham Maghsoodloo won the se...",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri-leads-she-plays-to-win-women-to-unlikely-victory",
          "pubDate" : "Fri, 16 Oct 2026 07:00:55",
          "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
-      },
-      {
-         "description" : "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
-         "pubDate" : "Thu, 15 Oct 2026 18:08:00",
-         "title" : "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
