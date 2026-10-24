@@ -624,14 +624,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/there-is-only-one-way-to-enjoy-chess/",
          "pubDate" : "Sat, 03 Oct 2026 13:00:00",
          "title" : "There is only one way to enjoy chess"
-      },
-      {
-         "description" : " The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold medal ahead of India and Germany. In the women's event China won ahead of Kazakhstan and India. All the games are available for download including my own corrections, I chose not to display files of this size. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
-         "pubDate" : "Sat, 3 Oct 2026 11:02:00",
-         "title" : "46th World Chess Olympiad 2026 - Games and Results"
       }
    ]
 }
