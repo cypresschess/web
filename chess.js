@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bayegan Pendik and Cercle d'Echecs de Monte-Carlo won the European Club Cup titles in Budva, both finishing level on match points with their closest rivals and prevailing on tiebreaks. Novy Bor took silver in the open section, while Gambit Bonnevoie finished second in the women's competition. Meanwhile, 11-year-old Bodhana Sivanandan completed her final international master norm, becoming the youngest female player to fulfil the requirements for the title. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-7",
+         "pubDate" : "Sat, 24 Oct 2026 15:40:00",
+         "title" : "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions"
+      },
+      {
+         "description" : "Here I am, once again realising I've lost my way in the past 6 months. Moving in a direction full speed, convinced it was right, until I realize it and go: what have I been thinking? Until recently, I always felt tremendous guilt after such a period. It felt like I was wasting my life, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/getting-off-track-is-the-norm-not-a-shameful-exception/",
+         "pubDate" : "Sat, 24 Oct 2026 13:00:00",
+         "title" : "Getting off track is the norm, not a shameful exception"
+      },
+      {
          "description" : "For Jochen Schwarz, club player from Bremen, FritzTrainer courses have become an essential part of his hobby. Over the past ten years, he has studied numerous courses and now shares some of the favourites that have impressed him most.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-witty-alien-the-shirtless-guy-who-shocked-world-no-1-magnus-carlsen/articleshow/134668742.cms",
          "pubDate" : "Sun, 04 Oct 2026 01:51:37",
          "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
-      },
-      {
-         "description" : "I always believed that if I became a Grandmaster, I could be proud of my game and enjoy chess fully. When I did it, nothing changed. If anything, I felt more stressed. My next goal was 2550. Achieved this, again, nothing changed. Then, one day I wrote in my diary: I want to become European []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/there-is-only-one-way-to-enjoy-chess/",
-         "pubDate" : "Sat, 03 Oct 2026 13:00:00",
-         "title" : "There is only one way to enjoy chess"
       }
    ]
 }
