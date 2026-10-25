@@ -608,22 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
          "pubDate" : "Mon, 05 Oct 2026 01:35:29",
          "title" : "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670348.cms\" />In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-got-latent-gambit-behind-vantika-agrawals-double-bronze-at-chess-olympiad-exclusive/articleshow/134670348.cms",
-         "pubDate" : "Sun, 04 Oct 2026 06:16:36",
-         "title" : "'India's Got Latent' Gambit? Behind Vantika's double bronze at Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134669830.cms\" />For much of its history, the world chess championship was not a title a player could simply qualify to challenge for. From Steinitz-Zukertort in 1886 to the long disputes involving Lasker, Capablanca and Rubinstein, challengers had to raise money, negotiate terms and persuade champions to play. As Gukesh prepares to defend his title against Sindarov in Geneva, the USD 2.5 million match offers a striking contrast: the challenger has earned his shot through a formal qualifying system.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-price-of-a-title-shot-when-challengers-had-to-pay-to-face-the-champion/articleshow/134669830.cms",
-         "pubDate" : "Sun, 04 Oct 2026 05:06:12",
-         "title" : "The Price of a Title Shot: When challengers had to pay to face the champion"
       }
    ]
 }
