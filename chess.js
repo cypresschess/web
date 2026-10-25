@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against this backdrop, it is easy to overlook the fact that Jos&eacute; Ra&uacute;l Capablanca, world champion from 1921 to 1927, played his final tournament and his final competitive game in Buenos Aires. | Photo: Jos&eacute; Ra&uacute;l Capablanca (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
+         "pubDate" : "Sun, 25 Oct 2026 15:25:00",
+         "title" : "A farewell triumph: Capablanca wins gold in Buenos Aires 1939"
+      },
+      {
          "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
