@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-11-breaks-38-year-world-record/",
+         "pubDate" : "Sun, 25 Oct 2026 09:58:02",
+         "title" : "Bodhana Sivanandan, 11, breaks 38-year world record"
+      },
+      {
          "description" : "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
