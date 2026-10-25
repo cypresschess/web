@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
+         "pubDate" : "Sat, 24 Oct 2026 20:06:00",
+         "title" : "Another Week, Another Win For Bullet Brawl's GOAT Nakamura"
+      },
+      {
          "description" : "Bayegan Pendik and Cercle d'Echecs de Monte-Carlo won the European Club Cup titles in Budva, both finishing level on match points with their closest rivals and prevailing on tiebreaks. Novy Bor took silver in the open section, while Gambit Bonnevoie finished second in the women's competition. Meanwhile, 11-year-old Bodhana Sivanandan completed her final international master norm, becoming the youngest female player to fulfil the requirements for the title. | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,14 +522,6 @@ news_feed (
          "title" : "Movahed Returns To Familiar Freestyle Friday First Position"
       },
       {
-         "description" : "GM Parham Maghsoodloo won the first two 3 0 Thursday tournaments on October 15, the first player to win consecutive events since GM Jose Martinez did it in back-to-back weeks in March and April. Maghsoodloo tried to become the first player to ever...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
-         "pubDate" : "Fri, 16 Oct 2026 11:32:08",
-         "title" : "Maghsoodloo Takes Two 3 0 Thursdays, Caruana Wins 3rd"
-      },
-      {
          "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -624,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-price-of-a-title-shot-when-challengers-had-to-pay-to-face-the-champion/articleshow/134669830.cms",
          "pubDate" : "Sun, 04 Oct 2026 05:06:12",
          "title" : "The Price of a Title Shot: When challengers had to pay to face the champion"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134668742.cms\" />Bulgarian chess creator Volen Dyulgerov, known as Witty Alien, stunned world No. 1 Magnus Carlsen in a blitz game during Chess.com's Chess Club Showdown. The 27-year-old Candidate Master, known for his energetic content and Alien Gambit, has a 2181 FIDE rating. Despite Carlsen's much higher online rating, Dyulgerov secured a memorable upset victory in the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-witty-alien-the-shirtless-guy-who-shocked-world-no-1-magnus-carlsen/articleshow/134668742.cms",
-         "pubDate" : "Sun, 04 Oct 2026 01:51:37",
-         "title" : "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen"
       }
    ]
 }
