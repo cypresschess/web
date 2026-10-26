@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Clutch Chess: Champions Showdown event returns to Saint Louis on 27-29 October, with Fabiano Caruana, Hikaru Nakamura, Praggnanandhaa Rameshbabu and Javokhir Sindarov (pictured) competing in an 18-game rapid tournament. The four elite GMs will play three double round-robins, with victories worth progressively more points over the three days. A jackpot funded by drawn games further adds entertainment value to the competition. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
+         "pubDate" : "Mon, 26 Oct 2026 01:25:00",
+         "title" : "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis"
+      },
+      {
          "description" : "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against this backdrop, it is easy to overlook the fact that Jos&eacute; Ra&uacute;l Capablanca, world champion from 1921 to 1927, played his final tournament and his final competitive game in Buenos Aires. | Photo: Jos&eacute; Ra&uacute;l Capablanca (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-medicines-and-playing-every-day-how-koneru-humpy-battled-diarrhoea-to-win-two-medals-at-chess-olympiad-exclusive/articleshow/134721640.cms",
          "pubDate" : "Tue, 06 Oct 2026 03:49:46",
          "title" : "'Taking medicines every day': How Humpy battled diarrhoea to win medals for India"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134683498.cms\" />In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
-         "pubDate" : "Mon, 05 Oct 2026 01:35:29",
-         "title" : "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad"
       }
    ]
 }
