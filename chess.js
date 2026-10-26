@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While looking through the standings of the European Club Cup which concluded last week, Ren&eacute; Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are good club players - still, he had expected stronger opposition at a European championship. \"With a field like this, we shouldn't finish last\", he thought. | Photos: SK Weisse Dame Hamburg",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
+         "pubDate" : "Mon, 26 Oct 2026 23:30:00",
+         "title" : "European Club Cup: Amateurs rub shoulders with the pros"
+      },
+      {
          "description" : "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a draw in the final round. Harvey and Willow exchanged wins in both the rapid and blitz stages of the playoff before Harvey prevailed in Armageddon. | Photo: Yuri Krylov / 4NCL",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
          "pubDate" : "Mon, 26 Oct 2026 01:25:00",
          "title" : "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis"
+      },
+      {
+         "description" : "Just counting events with \"National Chess Day\" in the title on MUIR, affiliates hosted 40 rated tournaments around the country with 1,791 chessplayers competing on Saturday, Oct. 10. This does not include dozens more tournaments held that weekend and even more National Chess Day (NCD) non-rated events, exhibitions, and meet-ups. Below is a wrap-up of some of the many events, as submitted by organizers. We have also added some information about tournaments held close to NCD by organizers that hosted NCD events. Feel free to share more information and photos to Click here to show email address, and keep an eye out for updates to this page.Atlantic Chess Association: Princeton NCD Open and Blue",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2026-national-chess-day-wrap",
+         "pubDate" : "Mon, 26 Oct 2026 00:00:00",
+         "title" : "2026 National Chess Day Wrap-Up"
       },
       {
          "description" : "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against this backdrop, it is easy to overlook the fact that Jos&eacute; Ra&uacute;l Capablanca, world champion from 1921 to 1927, played his final tournament and his final competitive game in Buenos Aires. | Photo: Jos&eacute; Ra&uacute;l Capablanca (Archive)",
@@ -146,36 +162,12 @@ news_feed (
          "title" : "Wesley So beats Fabiano Caruana in tiebreaks, wins fourth US Chess Championship title"
       },
       {
-         "description" : "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action of the final round live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Anish Giri | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-live",
-         "pubDate" : "Fri, 23 Oct 2026 14:00:00",
-         "title" : "European Club Cup - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&#38;ndash;20, 2027, an eight-player rapid tournament with &#38;euro;300,000 i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
          "pubDate" : "Fri, 23 Oct 2026 07:11:00",
          "title" : "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment"
-      },
-      {
-         "description" : "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-6",
-         "pubDate" : "Fri, 23 Oct 2026 06:40:00",
-         "title" : "European Club Cup: Three co-leaders in both sections going into final round"
-      },
-      {
-         "description" : "Going into the final round of the 2026 US Women's Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tournament. Li secured both the draw and the title, becoming US Women's Champion at just 16 years of age. She also collected $45,000 in prize money, qualified for the next Women's World Cup and earned her first IM norm. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-13",
-         "pubDate" : "Fri, 23 Oct 2026 03:50:00",
-         "title" : "Rachel Li wins US Women's Championship on her debut"
       },
       {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
@@ -192,14 +184,6 @@ news_feed (
          "link" : "https://www.europechess.org/high-stakes-and-tied-leaders-ahead-of-european-chess-club-cup-2026-final-round/",
          "pubDate" : "Thu, 22 Oct 2026 20:57:31",
          "title" : "High Stakes and tied Leaders ahead of European Chess Club Cup 2026 Final Round"
-      },
-      {
-         "description" : "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So at the top of the standings. The title will now be decided in a playoff, beginning with two rapid games at 15+10. If the scores remain level, another two rapid games will follow, then up to two two-game blitz matches at 5+2. If the players are still tied, the arbiter will decide how to proceed. | Live with commentary from 12.00 CDT / 18.00 BST / 19.00 CEST | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-meisterschaften-live-7",
-         "pubDate" : "Thu, 22 Oct 2026 18:45:00",
-         "title" : "US Championship 2026: Tiebreak!"
       },
       {
          "description" : "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an...",
@@ -226,36 +210,12 @@ news_feed (
          "title" : "ECF England Juniors Lichess Team Manager (Volunteer) wanted"
       },
       {
-         "description" : "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Queen's Gambit. ChessBase Magazine 233 rounds off the selection with up-to-date opening ideas, annotated games by top players and a wide range of training material. The products combine practical recommendations for tournament play with suggestions for independent analysis. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-new-releases-in-september",
-         "pubDate" : "Thu, 22 Oct 2026 10:12:08",
-         "title" : "All new releases in September!"
-      },
-      {
          "description" : "Five rounds were played and there are only two rounds left before the announcement of the European Chess Club Cup winners for 2026! Two teams in the Open section score perfect 10 match points, tying for the top: defending champions SuperChess Romania, and Novy Bor Chess Club (Czech Republic). In the Women's section, CE Gambit Bonnevoie (Luxembourg) remined the only team with the maximum score and all five match wins to maintain the sole lead in the tournament. Playing on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/two-rounds-to-go-at-european-chess-club-cup-2026/",
          "pubDate" : "Thu, 22 Oct 2026 09:34:25",
          "title" : "Two rounds to go at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "The cosmopolitan capital of Spain's Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the world's top grandmasters to Barcelona from 18 to 20 January 2027.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
-         "pubDate" : "Thu, 22 Oct 2026 08:00:00",
-         "title" : "Barcelona to host the MOVE Cup"
-      },
-      {
-         "description" : "Novy Bor and SuperChess Romania remain the only teams with perfect scores in the open section of the European Club Cup after five rounds. The co-leaders will face each other in Thursday's penultimate round, with three teams following one match point behind. In the women's competition, CE Gambit Bonnevoie secured their fifth consecutive victory and now hold a two-point lead over Monte-Carlo and Odlar Yurdu with two rounds remaining. | Pictured: SuperChess' Jorden van Foreest and Nodirbek Abdusattorov | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-5",
-         "pubDate" : "Thu, 22 Oct 2026 07:20:00",
-         "title" : "European Club Cup: Novy Bor and SuperChess remain perfect"
       },
       {
          "description" : "GM Wesley So won his fourth U.S. Championship - and first in five years - on Thursday after defeating GM Fabiano Caruana 1&frac12;-&frac12; in a two-game rapid playoff mini-match. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So won his fourth U.S. Championship on Thursday, defeating Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> So entered Wednesday's final round with a full-point lead, but GM Samuel Sevian opened the door for Caruana by taking down the frontrunner shortly after Caruana won his game against GM Awonder Liang.The playoff format consisted of a two-game mini-match w",
@@ -272,22 +232,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/rachael-li-wins-2026-us-womens-championship-caruana-forces-playoff-so",
          "pubDate" : "Thu, 22 Oct 2026 00:00:00",
          "title" : "Rachael Li Wins 2026 U.S. Women's Championship, Caruana Forces Playoff with So"
-      },
-      {
-         "description" : "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, seeded 30th, secured three consecutive wins to catch the leader. Baadur Jobava took third place on 6&frac12;/9. | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/atyrau-masters-2026-r9",
-         "pubDate" : "Wed, 21 Oct 2026 21:40:00",
-         "title" : "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters"
-      },
-      {
-         "description" : "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip, Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Pictured: Grigoriy Oparin | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-live",
-         "pubDate" : "Wed, 21 Oct 2026 19:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not...",
@@ -320,22 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-steven-adams",
          "pubDate" : "Wed, 21 Oct 2026 10:00:17",
          "title" : "Play Chess Against NBA Star Steven Adams"
-      },
-      {
-         "description" : "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while T&uuml;rkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photo: Vladimir Lionter / @the_lionter",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nato-chess-championship-2026-report",
-         "pubDate" : "Wed, 21 Oct 2026 03:30:00",
-         "title" : "Vahap Sanal and Team T&uuml;rkiye triumph at NATO Chess Championship"
-      },
-      {
-         "description" : "FIDE President Timur Turlov met Cypriot President Nikos Christodoulides in Nicosia to discuss the country's growing chess infrastructure and future cooperation with FIDE. Cyprus has hosted several major international events in recent years while also expanding domestic tournaments, youth training and permanent facilities. The meeting highlighted the island's development as an emerging European chess centre and its potential as a model for combining elite events with long-term national growth. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
-         "pubDate" : "Wed, 21 Oct 2026 01:15:00",
-         "title" : "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia"
       },
       {
          "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. This week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -410,14 +338,6 @@ news_feed (
          "title" : "European Chess Club Cup 2026 - Round 3 recap"
       },
       {
-         "description" : "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a potential battle between Anish Giri and Nodirbek Abdusattorov (pictured) on the top board. In the women's competition, Monte-Carlo and Gambit Bonnevoie are the only teams with perfect scores and will meet on Tuesday. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-3",
-         "pubDate" : "Tue, 20 Oct 2026 05:05:00",
-         "title" : "European Club Cup: Favourites set for direct encounters"
-      },
-      {
          "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico, Guam, and USVIfeatures, and this week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -456,14 +376,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/round-8-how-tables-turn",
          "pubDate" : "Mon, 19 Oct 2026 00:00:00",
          "title" : "Round 8: How the Tables Turn"
-      },
-      {
-         "description" : "This announcement was originally published on September 10, 2026 and was reposted on October 19, 2026 with the below text from Charlotte Chess Center (CCC) (also available on the CCC Facebook page) announcing the fellowship's selection committee on the anniversary of Danya's passing\"One year ago we lost our friend, our colleague, and our brilliant Resident-GM, Daniel Naroditsky. Danya not only touched the Charlotte Chess Center community, but the world as a whole, and we collectively mourned the loss of such a gifted, generous, and kind human being. While his loss echoes in nearly everything we do, our mission remains clear: ensuring Danya's legacy continues for generations to come. Through ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/50000-naroditsky-fellowship-now-open-applications",
-         "pubDate" : "Mon, 19 Oct 2026 00:00:00",
-         "title" : "$50,000 Naroditsky Fellowship Now Open for Applications"
       },
       {
          "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
