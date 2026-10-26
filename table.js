@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-10-25","14","<a href=https://ratings.uschess.org/event/202610250393 target='_blank'>Bellaire Sunday Swiss 2026.10.25</a>",
+"KATY","2026-10-24","79","<a href=https://ratings.uschess.org/event/202610241083 target='_blank'>Aristoi Fall Classic 2026</a>",
 "HOUSTON","2026-10-24","9","<a href=https://ratings.uschess.org/event/202610240323 target='_blank'>chesspanda10242026saturday</a>",
 "SUGAR LAND","2026-10-23","14","<a href=https://ratings.uschess.org/event/202610230283 target='_blank'>FBCC 2026 National Horror Movie Day Open</a>",
 "CYPRESS","2026-10-23","44","<a href=https://ratings.uschess.org/event/202610230243 target='_blank'>Knights of Cypress</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290043 target='_blank'>Open</a>",
 "HOUSTON","2026-07-29","3","<a href=https://ratings.uschess.org/event/202607290023 target='_blank'>Open</a>",
 "HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290013 target='_blank'>Houston Open</a>",
-"HOUSTON","2026-07-27","3","<a href=https://ratings.uschess.org/event/202607270093 target='_blank'>BWHY Chess Marathon</a>",
-"KATY","2026-07-26","39","<a href=https://ratings.uschess.org/event/202607260843 target='_blank'>Katy Kids Chess 2026 Beginner Monthly</a>",
 ]);
