@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a draw in the final round. Harvey and Willow exchanged wins in both the rapid and blitz stages of the playoff before Harvey prevailed in Armageddon. | Photo: Yuri Krylov / 4NCL",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/english-championship-2026-rapid",
+         "pubDate" : "Mon, 26 Oct 2026 18:40:00",
+         "title" : "Harvey beats Willow in Armageddon, claims English Rapidplay title"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Academy has wrapped up its third season, marking another important year of growth for the organization, with expanding educational programs, international events, and outstanding achievements by participants in KCF programs. And the momentum isn't slowing down: registration is now open for the KCF Academy 2027 season, a six-month online training program for ambitious chess players around the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-third-season-highlights",
+         "pubDate" : "Mon, 26 Oct 2026 16:40:46",
+         "title" : "KCF Academy: Third Season Highlights"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
