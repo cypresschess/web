@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+         "pubDate" : "Tue, 27 Oct 2026 17:45:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
+      },
+      {
          "description" : "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title. With eight months remaining to break Abhimanyu Mishra's age record, Shogdzhiev has a realistic chance of becoming the youngest grandmaster in history. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,44 +42,12 @@ news_feed (
          "title" : "Chess.com Crazyhouse Championship 2026 Starts November 5"
       },
       {
-         "description" : "In this special Olympiad episode of Svitlana's Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of an early pawn sacrifice, and how typical plans such as e5 and kingside pressure developed into a strong attack. She features several instructive tactical moments, difficult decisions about when to simplify, and a winning endgame that Svitlana had to calculate precisely.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-at-the-olympiad",
-         "pubDate" : "Tue, 27 Oct 2026 08:00:00",
-         "title" : "Svitlana's Smart Moves - King's Indian Attack at the Olympiad"
-      },
-      {
          "description" : "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the FIDE Council, a new Advisory Board and several leadership appointments. Turlov also outlined plans to expand support for national federations, chess education and international partnerships.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
          "pubDate" : "Tue, 27 Oct 2026 07:35:17",
          "title" : "Timur Turlov outlines plans to restructure FIDE"
-      },
-      {
-         "description" : "While looking through the standings of the European Club Cup which concluded last week, Ren&eacute; Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are good club players - still, he had expected stronger opposition at a European championship. \"With a field like this, we shouldn't finish last\", he thought. | Photos: SK Weisse Dame Hamburg",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
-         "pubDate" : "Mon, 26 Oct 2026 23:30:00",
-         "title" : "European Club Cup: Amateurs rub shoulders with the pros"
-      },
-      {
-         "description" : "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a draw in the final round. Harvey and Willow exchanged wins in both the rapid and blitz stages of the playoff before Harvey prevailed in Armageddon. | Photo: Yuri Krylov / 4NCL",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/english-championship-2026-rapid",
-         "pubDate" : "Mon, 26 Oct 2026 18:40:00",
-         "title" : "Harvey beats Willow in Armageddon, claims English Rapidplay title"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy has wrapped up its third season, marking another important year of growth for the organization, with expanding educational programs, international events, and outstanding achievements by participants in KCF programs. And the momentum isn't slowing down: registration is now open for the KCF Academy 2027 season, a six-month online training program for ambitious chess players around the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-third-season-highlights",
-         "pubDate" : "Mon, 26 Oct 2026 16:40:46",
-         "title" : "KCF Academy: Third Season Highlights"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
@@ -82,28 +58,12 @@ news_feed (
          "title" : "Gukesh vs Sindarov: What do world's top GMs think about the match?"
       },
       {
-         "description" : "The Clutch Chess: Champions Showdown event returns to Saint Louis on 27-29 October, with Fabiano Caruana, Hikaru Nakamura, Praggnanandhaa Rameshbabu and Javokhir Sindarov (pictured) competing in an 18-game rapid tournament. The four elite GMs will play three double round-robins, with victories worth progressively more points over the three days. A jackpot funded by drawn games further adds entertainment value to the competition. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
-         "pubDate" : "Mon, 26 Oct 2026 01:25:00",
-         "title" : "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis"
-      },
-      {
          "description" : "Just counting events with \"National Chess Day\" in the title on MUIR, affiliates hosted 40 rated tournaments around the country with 1,791 chessplayers competing on Saturday, Oct. 10. This does not include dozens more tournaments held that weekend and even more National Chess Day (NCD) non-rated events, exhibitions, and meet-ups. Below is a wrap-up of some of the many events, as submitted by organizers. We have also added some information about tournaments held close to NCD by organizers that hosted NCD events. Feel free to share more information and photos to Click here to show email address, and keep an eye out for updates to this page.Atlantic Chess Association: Princeton NCD Open and Blue",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2026-national-chess-day-wrap",
          "pubDate" : "Mon, 26 Oct 2026 00:00:00",
          "title" : "2026 National Chess Day Wrap-Up"
-      },
-      {
-         "description" : "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against this backdrop, it is easy to overlook the fact that Jos&eacute; Ra&uacute;l Capablanca, world champion from 1921 to 1927, played his final tournament and his final competitive game in Buenos Aires. | Photo: Jos&eacute; Ra&uacute;l Capablanca (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
-         "pubDate" : "Sun, 25 Oct 2026 15:25:00",
-         "title" : "A farewell triumph: Capablanca wins gold in Buenos Aires 1939"
       },
       {
          "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
@@ -154,14 +114,6 @@ news_feed (
          "title" : "European Chess Club Cup 2026 Winners Crowned in Budva, Montenegro"
       },
       {
-         "description" : "The 6th Intercontinental Online Chess Championship for Prisoners brought together a record 140 teams from 56 countries, highlighting the continued growth of FIDE's Chess for Freedom initiative. Beyond the competition itself, programmes in Argentina, Romania, Ghana, Australia (pictured), Nigeria and Zimbabwe show how chess is being used in correctional facilities to encourage discipline, critical thinking, emotional control and social reintegration, while giving incarcerated players opportunities for structured learning and international participation. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
-         "pubDate" : "Sat, 24 Oct 2026 03:30:00",
-         "title" : "The global impact of the Intercontinental Online Chess Championship for Prisoners"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135159739.cms\" />Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro, with Nihal Sarin winning individual gold and Pentala Harikrishna taking silver. Karthikeyan Murali secured bronze, while Arjun Erigaisi finished fourth. In the women's event, Koneru Humpy won individual gold and helped Cercle d'Echecs de Monte-Carlo clinch the team title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -200,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
          "pubDate" : "Fri, 23 Oct 2026 16:08:00",
          "title" : "Niemann Wins Freestyle Friday, Preventing Movahed Repeat"
-      },
-      {
-         "description" : "In the end, Wesley So did it! Following his bitter defeat to Sam Sevian in the final round of the 2026 US Championship - which ended his 48-game unbeaten run at the event - he defeated Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff for the title. It was a thrilling encounter, not without mistakes, but full of interesting moments. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2026-14",
-         "pubDate" : "Fri, 23 Oct 2026 16:05:00",
-         "title" : "Wesley So beats Fabiano Caruana in tiebreaks, wins fourth US Chess Championship title"
       },
       {
          "description" : "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&#38;ndash;20, 2027, an eight-player rapid tournament with &#38;euro;300,000 i...",
