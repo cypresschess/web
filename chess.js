@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Tue, 27 Oct 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
+         "pubDate" : "Tue, 27 Oct 2026 10:28:57",
+         "title" : "English Chess Championships 2026 - Reports"
+      },
+      {
          "description" : "In this special Olympiad episode of Svitlana's Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of an early pawn sacrifice, and how typical plans such as e5 and kingside pressure developed into a strong attack. She features several instructive tactical moments, difficult decisions about when to simplify, and a winning endgame that Svitlana had to calculate precisely.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
