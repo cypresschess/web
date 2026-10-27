@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this special Olympiad episode of Svitlana's Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of an early pawn sacrifice, and how typical plans such as e5 and kingside pressure developed into a strong attack. She features several instructive tactical moments, difficult decisions about when to simplify, and a winning endgame that Svitlana had to calculate precisely.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-at-the-olympiad",
+         "pubDate" : "Tue, 27 Oct 2026 08:00:00",
+         "title" : "Svitlana's Smart Moves - King's Indian Attack at the Olympiad"
+      },
+      {
+         "description" : "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the FIDE Council, a new Advisory Board and several leadership appointments. Turlov also outlined plans to expand support for national federations, chess education and international partnerships.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
+         "pubDate" : "Tue, 27 Oct 2026 07:35:17",
+         "title" : "Timur Turlov outlines plans to restructure FIDE"
+      },
+      {
          "description" : "While looking through the standings of the European Club Cup which concluded last week, Ren&eacute; Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are good club players - still, he had expected stronger opposition at a European championship. \"With a field like this, we shouldn't finish last\", he thought. | Photos: SK Weisse Dame Hamburg",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/between-parents-struggles-and-endless-coffees-how-savitha-shri-became-indias-only-gold-medallist-at-chess-olympiad-exclusive/articleshow/134756391.cms",
          "pubDate" : "Wed, 07 Oct 2026 05:10:03",
          "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134721640.cms\" />In the sixth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Koneru Humpy opens up about playing through illness to help the women's team win bronze. The 39-year-old reveals how diarrhoea and stomach pain forced her to take medicines and play almost every day. Humpy also discusses the physical demands of playing 10 of 11 rounds, Vaishali's struggles, her busiest stretch of the season and what lies ahead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/taking-medicines-and-playing-every-day-how-koneru-humpy-battled-diarrhoea-to-win-two-medals-at-chess-olympiad-exclusive/articleshow/134721640.cms",
-         "pubDate" : "Tue, 06 Oct 2026 03:49:46",
-         "title" : "'Taking medicines every day': How Humpy battled diarrhoea to win medals for India"
       }
    ]
 }
