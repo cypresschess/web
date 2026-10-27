@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title. With eight months remaining to break Abhimanyu Mishra's age record, Shogdzhiev has a realistic chance of becoming the youngest grandmaster in history. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/roman-shogdzhiev-second-gm-norm",
+         "pubDate" : "Tue, 27 Oct 2026 14:00:00",
+         "title" : "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
          "pubDate" : "Tue, 27 Oct 2026 10:28:57",
          "title" : "English Chess Championships 2026 - Reports"
+      },
+      {
+         "description" : "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts on November 5 and features a $2,500 prize fund. Crazyhouse is a chess variant in which play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
+         "pubDate" : "Tue, 27 Oct 2026 08:00:00",
+         "title" : "Chess.com Crazyhouse Championship 2026 Starts November 5"
       },
       {
          "description" : "In this special Olympiad episode of Svitlana's Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of an early pawn sacrifice, and how typical plans such as e5 and kingside pressure developed into a strong attack. She features several instructive tactical moments, difficult decisions about when to simplify, and a winning endgame that Svitlana had to calculate precisely.",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
          "pubDate" : "Fri, 16 Oct 2026 14:14:59",
          "title" : "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters"
-      },
-      {
-         "description" : "GM Sina Movahed won Freestyle Friday on October 16, riding a 7/7 start to sole first place on nine points. GM Haowen Xue finished second with 8.5/11, surpassing GM Ian Nepomniachtchi on tiebreaks. The win was Movahed&#39;s sixth in Freestyle Friday, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-16-2026",
-         "pubDate" : "Fri, 16 Oct 2026 13:25:18",
-         "title" : "Movahed Returns To Familiar Freestyle Friday First Position"
       },
       {
          "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
