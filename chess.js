@@ -18,6 +18,14 @@ news_feed (
          "title" : "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement"
       },
       {
+         "description" : "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
+         "pubDate" : "Tue, 27 Oct 2026 12:50:43",
+         "title" : "'W' Is For Woodward Wins Titled Tuesday"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
          "pubDate" : "Tue, 27 Oct 2026 07:35:17",
          "title" : "Timur Turlov outlines plans to restructure FIDE"
+      },
+      {
+         "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-world-u7-u17-championships-pt-1",
+         "pubDate" : "Tue, 27 Oct 2026 00:00:00",
+         "title" : "Tactics Tuesday: World U7-U17 Championships, Pt. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
@@ -362,14 +378,6 @@ news_feed (
          "title" : "15-Year-Old Erdogmus Climbs To World No. 15"
       },
       {
-         "description" : "Just three days ago, we had a tie atop the U.S. Championship standings while IM Alice Lee led the U.S. Women's Championship field by a full point. Now, it's fellow Minnesotan GM Wesley So leading by a full point while Lee is tied with WIM Rachael Li. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy SLCC/Lennart Ootes.<br> <br> <br> <br> Today is the second and final rest day, and play resumes Monday at noon CDT in St. Louis. Today, we are again joined by 2017 U.S. Women's champion WGM Sabina Foisor with annotations from the key games. Open: Wesley So Does it AgainToday's headliner was the clash between So, a three-time U.S. Champion, and ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-8-how-tables-turn",
-         "pubDate" : "Mon, 19 Oct 2026 00:00:00",
-         "title" : "Round 8: How the Tables Turn"
-      },
-      {
          "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
-      },
-      {
-         "description" : "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess&#39;s future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
-         "pubDate" : "Fri, 16 Oct 2026 14:14:59",
-         "title" : "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters"
       },
       {
          "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
