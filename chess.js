@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2&frac12; points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r3",
+         "pubDate" : "Wed, 28 Oct 2026 23:40:00",
+         "title" : "KazChess Masters: Mamedov and Makhnev set the pace in Almaty"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
+         "description" : "For the second month in a row, 9z Globant won the Chess Club Showdown on October 28, once again defeating Team Liquid in the finals. They were the two highest-scoring teams after a two-hour arena of five-minute blitz games. In the finals, 50 playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oro-taher-lead-9z-globant-to-victory-in-october-chess-club-showdown",
+         "pubDate" : "Wed, 28 Oct 2026 14:33:00",
+         "title" : "Oro, Taher Lead 9z Globant To Victory In October Chess Club Showdown"
+      },
+      {
          "description" : "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dragons-of-the-olympiad-2026-the-monthly-dragon",
          "pubDate" : "Wed, 28 Oct 2026 14:31:20",
          "title" : "Dragons of the Olympiad 2026 - The Monthly Dragon"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Wed, 28 Oct 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
          "pubDate" : "Sat, 17 Oct 2026 21:02:00",
          "title" : "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory"
-      },
-      {
-         "description" : "The top teams could rest the likes of GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus while still scoring 6-0 clean sweeps in round one of the 41st European Chess Club Cup in Budva, Montenegro. GM Nils Grandelius was one of the few ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1",
-         "pubDate" : "Sat, 17 Oct 2026 15:12:00",
-         "title" : "Bodhana & Co. Test Favorites As European Club Cup Begins In Budva"
       },
       {
          "description" : "I genuinely don't get the point of winning with an opening trap. Let's put aside that it will stop working quicker than the clickbaiters like to admit. When you repeat a memorized line you learned from a YouTube video, what reason do you have to be happy? You did not learn anything. You didn't use []",
