@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Wed, 28 Oct 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
+         "pubDate" : "Wed, 28 Oct 2026 10:30:14",
+         "title" : "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?"
+      },
+      {
          "description" : "Hikaru Nakamura took the early lead at the Clutch Chess: Champions Showdown tournament in Saint Louis, scoring two wins and four draws to finish day one on 4/6 points. Javokhir Sindarov follows half a point behind, while Fabiano Caruana and Praggnanandhaa Rameshbabu occupy third and fourth place. The opening day featured five decisive games and plenty of exciting battles. Victories will be worth increasingly more points over the next two days. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +26,11 @@ news_feed (
          "title" : "Clutch Chess: Nakamura leads after lively first day of action"
       },
       {
-         "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses on 3.5 points, is in sole second, ...",
+         "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
-         "pubDate" : "Tue, 27 Oct 2026 21:16:27",
+         "pubDate" : "Tue, 27 Oct 2026 21:16:00",
          "title" : "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa"
       },
       {
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
          "pubDate" : "Tue, 27 Oct 2026 12:50:43",
          "title" : "'W' Is For Woodward Wins Titled Tuesday"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Tue, 27 Oct 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "",
