@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "description" : "Hikaru Nakamura took the early lead at the Clutch Chess: Champions Showdown tournament in Saint Louis, scoring two wins and four draws to finish day one on 4/6 points. Javokhir Sindarov follows half a point behind, while Fabiano Caruana and Praggnanandhaa Rameshbabu occupy third and fourth place. The opening day featured five decisive games and plenty of exciting battles. Victories will be worth increasingly more points over the next two days. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-         "pubDate" : "Tue, 27 Oct 2026 17:45:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-1",
+         "pubDate" : "Wed, 28 Oct 2026 07:00:00",
+         "title" : "Clutch Chess: Nakamura leads after lively first day of action"
+      },
+      {
+         "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses on 3.5 points, is in sole second, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
+         "pubDate" : "Tue, 27 Oct 2026 21:16:27",
+         "title" : "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa"
       },
       {
          "description" : "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title. With eight months remaining to break Abhimanyu Mishra's age record, Shogdzhiev has a realistic chance of becoming the youngest grandmaster in history. | Photo: Eteri Kublashvili",
@@ -450,14 +458,6 @@ news_feed (
          "title" : "European Chess Club Cup 2026 officially opened"
       },
       {
-         "description" : "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
-         "pubDate" : "Sat, 17 Oct 2026 01:00:00",
-         "title" : "So Sole Leader After Turnaround Win; Li And Lee Lead Women's"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134989688.cms\" />In an exclusive interaction with TimesofIndia.com, China's No. 1 Wei Yi opens up about the exhaustion of competing in his maiden Candidates Tournament, describing the end of the gruelling 14-round event as a relief. The Grandmaster reflects on his performance in Cyprus, the pressures of elite chess, why players sometimes need extended breaks to recover, and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -528,14 +528,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
          "pubDate" : "Fri, 09 Oct 2026 07:00:42",
          "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756391.cms\" />In the final installment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Savitha Shri opens up about her remarkable breakthrough as India's only individual gold medallist. The 19-year-old recalls arriving as a reserve, playing all 10 rounds and delivering when India needed her most, while discussing her family's sacrifices, the team's bronze, Swayams Mishra's support and her goal of becoming a Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/between-parents-struggles-and-endless-coffees-how-savitha-shri-became-indias-only-gold-medallist-at-chess-olympiad-exclusive/articleshow/134756391.cms",
-         "pubDate" : "Wed, 07 Oct 2026 05:10:03",
-         "title" : "From parents' struggles to 'endless coffees': How Savitha became India's only Olympiad gold medallist"
       }
    ]
 }
