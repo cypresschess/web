@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dragons-of-the-olympiad-2026-the-monthly-dragon",
+         "pubDate" : "Wed, 28 Oct 2026 14:31:20",
+         "title" : "Dragons of the Olympiad 2026 - The Monthly Dragon"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
