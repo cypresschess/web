@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+         "pubDate" : "Wed, 28 Oct 2026 17:45:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
+      },
+      {
          "description" : "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-1",
          "pubDate" : "Wed, 28 Oct 2026 07:00:00",
          "title" : "Clutch Chess: Nakamura leads after lively first day of action"
+      },
+      {
+         "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-world-u7-u17-championships-pt-1",
+         "pubDate" : "Wed, 28 Oct 2026 00:00:00",
+         "title" : "Wednesday Workout: World U7-U17 Championships, Pt. 1"
       },
       {
          "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,...",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-us-nationals-46th-womens-olympiad",
          "pubDate" : "Tue, 20 Oct 2026 00:00:00",
          "title" : "Tactics Tuesday: U.S. Nationals at 46th Women's Olympiad"
-      },
-      {
-         "description" : "As we reach the final stage of the 2026 U.S. Championships, each tournament now has a clear frontrunner. Round 9 featured several key matchups that had a massive impact on the standings and now, with just two rounds to go, GM Wesley So and WIM Rachael Li each boast full point leads. U.S Championship: So Survives, Oparin ClimbsThe most important matchup of the round was clearly between So and GM Fabiano Caruana. Caruana entered the round trailing by a full point but, with the white pieces, had a shot to shake things up. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Fabiano Caruana (L) tried to surprise Wesley So with the Dubov Italian, but So found a ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-9-li-and-so-control",
-         "pubDate" : "Tue, 20 Oct 2026 00:00:00",
-         "title" : "Round 9: Li and So in Control"
       },
       {
          "description" : "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland...",
