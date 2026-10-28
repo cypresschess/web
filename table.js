@@ -1,7 +1,11 @@
 jtable([
+"HOUSTON","2026-10-27","14","<a href=https://ratings.uschess.org/event/202610270223 target='_blank'>OCTOBER TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-10-25","14","<a href=https://ratings.uschess.org/event/202610250393 target='_blank'>Bellaire Sunday Swiss 2026.10.25</a>",
+"HOUSTON","2026-10-25","10","<a href=https://ratings.uschess.org/event/202610250023 target='_blank'>2026 Texas Women's Chess Championsh</a>",
+"HOUSTON","2026-10-24","17","<a href=https://ratings.uschess.org/event/202610241263 target='_blank'>HCA-CK Oct 26</a>",
 "KATY","2026-10-24","79","<a href=https://ratings.uschess.org/event/202610241083 target='_blank'>Aristoi Fall Classic 2026</a>",
 "HOUSTON","2026-10-24","9","<a href=https://ratings.uschess.org/event/202610240323 target='_blank'>chesspanda10242026saturday</a>",
+"SPRING","2026-10-23","8","<a href=https://ratings.uschess.org/event/202610230483 target='_blank'>Friday Knights</a>",
 "SUGAR LAND","2026-10-23","14","<a href=https://ratings.uschess.org/event/202610230283 target='_blank'>FBCC 2026 National Horror Movie Day Open</a>",
 "CYPRESS","2026-10-23","44","<a href=https://ratings.uschess.org/event/202610230243 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-10-18","15","<a href=https://ratings.uschess.org/event/202610180493 target='_blank'>OCT 18th SUNDAY SWISS</a>",
@@ -95,8 +99,4 @@ jtable([
 "SPRING","2026-07-31","16","<a href=https://ratings.uschess.org/event/202607310433 target='_blank'>The Friday Knights</a>",
 "CYPRESS","2026-07-31","56","<a href=https://ratings.uschess.org/event/202607310423 target='_blank'>Knights of Cypress</a>",
 "SUGAR LAND","2026-07-31","20","<a href=https://ratings.uschess.org/event/202607310323 target='_blank'>FBCC 2026 National Parents Day Open</a>",
-"HOUSTON","2026-07-30","14","<a href=https://ratings.uschess.org/event/202607300033 target='_blank'>JULY TUE NITE SWISS 2026</a>",
-"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290043 target='_blank'>Open</a>",
-"HOUSTON","2026-07-29","3","<a href=https://ratings.uschess.org/event/202607290023 target='_blank'>Open</a>",
-"HOUSTON","2026-07-29","2","<a href=https://ratings.uschess.org/event/202607290013 target='_blank'>Houston Open</a>",
 ]);
