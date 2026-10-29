@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and when a quieter or prophylactic move is the stronger choice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sipke-ernst-attacking-chess-know-when-to-strike",
+         "pubDate" : "Thu, 29 Oct 2026 07:03:12",
+         "title" : "Sipke Ernst - Attacking Chess: Know When to Strike"
+      },
+      {
          "description" : "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2&frac12; points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
-         "pubDate" : "Wed, 28 Oct 2026 18:01:27",
+         "pubDate" : "Wed, 28 Oct 2026 18:01:00",
          "title" : "Praggnanandhaa Jumps From Last To 1st With Hat Trick"
       },
       {
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa"
       },
       {
-         "description" : "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title. With eight months remaining to break Abhimanyu Mishra's age record, Shogdzhiev has a realistic chance of becoming the youngest grandmaster in history. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/roman-shogdzhiev-second-gm-norm",
-         "pubDate" : "Tue, 27 Oct 2026 14:00:00",
-         "title" : "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement"
-      },
-      {
          "description" : "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
          "pubDate" : "Tue, 27 Oct 2026 08:00:00",
          "title" : "Chess.com Crazyhouse Championship 2026 Starts November 5"
-      },
-      {
-         "description" : "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the FIDE Council, a new Advisory Board and several leadership appointments. Turlov also outlined plans to expand support for national federations, chess education and international partnerships.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
-         "pubDate" : "Tue, 27 Oct 2026 07:35:17",
-         "title" : "Timur Turlov outlines plans to restructure FIDE"
       },
       {
          "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -152,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
          "pubDate" : "Sat, 24 Oct 2026 20:06:00",
          "title" : "Another Week, Another Win For Bullet Brawl's GOAT Nakamura"
-      },
-      {
-         "description" : "Bayegan Pendik and Cercle d'Echecs de Monte-Carlo won the European Club Cup titles in Budva, both finishing level on match points with their closest rivals and prevailing on tiebreaks. Novy Bor took silver in the open section, while Gambit Bonnevoie finished second in the women's competition. Meanwhile, 11-year-old Bodhana Sivanandan completed her final international master norm, becoming the youngest female player to fulfil the requirements for the title. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2026-7",
-         "pubDate" : "Sat, 24 Oct 2026 15:40:00",
-         "title" : "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions"
       },
       {
          "description" : "Here I am, once again realising I've lost my way in the past 6 months. Moving in a direction full speed, convinced it was right, until I realize it and go: what have I been thinking? Until recently, I always felt tremendous guilt after such a period. It felt like I was wasting my life, []",
