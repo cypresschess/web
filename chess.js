@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The full ten-player line-up for the 2026 XTX Markets London Chess Classic has been announced, bringing together some of the biggest names in world chess for the UK's most prestigious international tournament. Defending champion Nodirbek Abdusattorov, the Uzbek world number five, will return to London seeking to become the first player since Magnus Carlsen in 2010 to win back-to-back Classic titles. Tennis star Andy Murray makes the ceremonial first move on Nodirbek Abdusattorov's board at the 2025 London Chess Classic, while tournament director Malcolm Pein looks on and provides commentary. | Photo: London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stellar-line-up-for-2026-xtx-london-chess-classic",
+         "pubDate" : "Thu, 29 Oct 2026 22:30:25",
+         "title" : "Stellar line-up for 2026 XTX London Chess Classic"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,28 @@ news_feed (
          "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
-         "description" : "The Clutch Chess tournament in Saint Louis did not get off to a good start for Praggnanandhaa Rameshbabu, currently ranked seventh in the world and the lowest seed in the four-player field, behind Hikaru Nakamura, Fabiano Caruana and Javokhir Sindarov. On the first day, Praggnanandhaa scored just 2 out of a possible 6 points and finished bottom of the standings. Things went better on day two, however, as he collected 9 out of a possible 12 points to take the lead. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-2",
-         "pubDate" : "Thu, 29 Oct 2026 17:05:00",
-         "title" : "Clutch Chess: Pragg scores four wins, climbs to clear first place"
-      },
-      {
          "description" : "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
          "pubDate" : "Thu, 29 Oct 2026 16:16:07",
          "title" : "English Championships final round change of timing - important!"
+      },
+      {
+         "description" : "GM Javokhir Sindarov won the second edition of Clutch Chess: Champions Showdown 2026 with a final score of 20.5 points after three days. He earned $168,000 (including bonuses) and played the game of the tournament against GM Hikaru Nakamura along ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
+         "pubDate" : "Thu, 29 Oct 2026 13:59:00",
+         "title" : "🏆 Sindarov Plays Game Of Tournament & Wins Final Event Before World Championship"
+      },
+      {
+         "description" : "Istanbul, T&#38;uuml;rkiye, will host the 2026 FIDE World Rapid &#38;amp; Blitz Championships from December 26-30, FIDE announced on Thursday. GMs Magnus Carlsen, Aleksandra Goryachkina, and Bibisara Assaubayeva are the defending champions heading into th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
+         "pubDate" : "Thu, 29 Oct 2026 13:03:56",
+         "title" : "Istanbul To Host 2026 World Rapid & Blitz Championships"
       },
       {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
          "pubDate" : "Thu, 29 Oct 2026 07:46:00",
          "title" : "⚽ GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise"
-      },
-      {
-         "description" : "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and when a quieter or prophylactic move is the stronger choice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sipke-ernst-attacking-chess-know-when-to-strike",
-         "pubDate" : "Thu, 29 Oct 2026 07:03:12",
-         "title" : "Sipke Ernst - Attacking Chess: Know When to Strike"
       },
       {
          "description" : "When US Chess Vice President John D. Rockefeller V reached out to me to help organize a chess exhibition at a National Squash League (NSL) event, I knew right away I was all in. I used to organize tennis outings at U.S. Opens during my time at US Chess, and, of course, other chess hybrids like chess boxing have become very popular. US Chess was even organizing an exhibition with USA Fencing until COVID put the kibosh on that. Rockefeller's son John is an accomplished squash player who lost a tough match this past spring to Timmy Brownell, the highest-ranked American player ever at world-number 23. Rockefeller was intrigued, when listening to Brownell's episode on the Squash University Podcas",
@@ -434,28 +442,12 @@ news_feed (
          "title" : "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana"
       },
       {
-         "description" : "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
-         "pubDate" : "Mon, 19 Oct 2026 15:23:00",
-         "title" : "15-Year-Old Erdogmus Climbs To World No. 15"
-      },
-      {
          "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/round-2-played-at-european-chess-club-cup-2026/",
          "pubDate" : "Sun, 18 Oct 2026 19:29:00",
          "title" : "Round 2 played at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "The favorites continued to cruise in round two of the 2026 European Chess Club Cup, with GMs Wei Yi, Arjun Erigaisi, and Richard Rapport among the stars to move to 2/2. Top seed Bayegan Pendik Chess Sports Club again rested GMs Anish Giri and Yagi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
-         "pubDate" : "Sun, 18 Oct 2026 16:12:00",
-         "title" : "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup"
       },
       {
          "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous. It was played seventy years ago, today.",
