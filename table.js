@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2026-10-27","14","<a href=https://ratings.uschess.org/event/202610270223 target='_blank'>OCTOBER TUE NITE SWISS 2026</a>",
+"KATY","2026-10-25","46","<a href=https://ratings.uschess.org/event/202610250863 target='_blank'>Katy Kids Chess Beginners monthly R</a>",
 "HOUSTON","2026-10-25","14","<a href=https://ratings.uschess.org/event/202610250393 target='_blank'>Bellaire Sunday Swiss 2026.10.25</a>",
 "HOUSTON","2026-10-25","10","<a href=https://ratings.uschess.org/event/202610250023 target='_blank'>2026 Texas Women's Chess Championsh</a>",
 "HOUSTON","2026-10-24","17","<a href=https://ratings.uschess.org/event/202610241263 target='_blank'>HCA-CK Oct 26</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-08-01","12","<a href=https://ratings.uschess.org/event/202608010823 target='_blank'>chesspanda04012026saturday</a>",
 "SPRING","2026-07-31","16","<a href=https://ratings.uschess.org/event/202607310433 target='_blank'>The Friday Knights</a>",
 "CYPRESS","2026-07-31","56","<a href=https://ratings.uschess.org/event/202607310423 target='_blank'>Knights of Cypress</a>",
-"SUGAR LAND","2026-07-31","20","<a href=https://ratings.uschess.org/event/202607310323 target='_blank'>FBCC 2026 National Parents Day Open</a>",
 ]);
