@@ -10,6 +10,14 @@ news_feed (
          "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
+         "description" : "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&#38;rsquo;Or in London. On Thursd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
+         "pubDate" : "Thu, 29 Oct 2026 07:46:00",
+         "title" : "⚽ GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise"
+      },
+      {
          "description" : "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and when a quieter or prophylactic move is the stronger choice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -432,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
          "pubDate" : "Sun, 18 Oct 2026 16:12:00",
          "title" : "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup"
-      },
-      {
-         "description" : "After his three wins in the 2026 U.S. Chess Championship so far in different endgames, GM Wesley So defeated one of his nearest pursuers, GM Andy Woodward, in a pawn endgame in the eighth round. He is now on six points and extends his sole lead to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-8",
-         "pubDate" : "Sun, 18 Oct 2026 02:02:18",
-         "title" : "Wesley So Extends Lead; Status Quo In Women's"
       },
       {
          "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous. It was played seventy years ago, today.",
