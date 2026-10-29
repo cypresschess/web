@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Thu, 29 Oct 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
          "description" : "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and when a quieter or prophylactic move is the stronger choice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
