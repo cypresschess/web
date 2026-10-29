@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+         "pubDate" : "Thu, 29 Oct 2026 17:45:00",
+         "title" : "Clutch Chess: Champions Showdown - Live!"
+      },
+      {
+         "description" : "The Clutch Chess tournament in Saint Louis did not get off to a good start for Praggnanandhaa Rameshbabu, currently ranked seventh in the world and the lowest seed in the four-player field, behind Hikaru Nakamura, Fabiano Caruana and Javokhir Sindarov. On the first day, Praggnanandhaa scored just 2 out of a possible 6 points and finished bottom of the standings. Things went better on day two, however, as he collected 9 out of a possible 12 points to take the lead. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-2",
+         "pubDate" : "Thu, 29 Oct 2026 17:05:00",
+         "title" : "Clutch Chess: Pragg scores four wins, climbs to clear first place"
+      },
+      {
+         "description" : "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
+         "pubDate" : "Thu, 29 Oct 2026 16:16:07",
+         "title" : "English Championships final round change of timing - important!"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Sipke Ernst - Attacking Chess: Know When to Strike"
       },
       {
+         "description" : "When US Chess Vice President John D. Rockefeller V reached out to me to help organize a chess exhibition at a National Squash League (NSL) event, I knew right away I was all in. I used to organize tennis outings at U.S. Opens during my time at US Chess, and, of course, other chess hybrids like chess boxing have become very popular. US Chess was even organizing an exhibition with USA Fencing until COVID put the kibosh on that. Rockefeller's son John is an accomplished squash player who lost a tough match this past spring to Timmy Brownell, the highest-ranked American player ever at world-number 23. Rockefeller was intrigued, when listening to Brownell's episode on the Squash University Podcas",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/bughouse-blindfold-and-more-national-squash-league-collaboration",
+         "pubDate" : "Thu, 29 Oct 2026 00:00:00",
+         "title" : "Bughouse, Blindfold, and More at National Squash League Collaboration"
+      },
+      {
          "description" : "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2&frac12; points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
          "pubDate" : "Wed, 28 Oct 2026 18:01:00",
          "title" : "Praggnanandhaa Jumps From Last To 1st With Hat Trick"
-      },
-      {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-         "pubDate" : "Wed, 28 Oct 2026 17:45:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
          "description" : "For the second month in a row, 9z Globant won the Chess Club Showdown on October 28, once again defeating Team Liquid in the finals. They were the two highest-scoring teams after a two-hour arena of five-minute blitz games. In the finals, 50 playe...",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-round-3-recap/",
          "pubDate" : "Tue, 20 Oct 2026 10:52:40",
          "title" : "European Chess Club Cup 2026 - Round 3 recap"
-      },
-      {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. See our Puerto Rico, Guam, and USVIfeatures, and this week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-nationals-46th-womens-olympiad",
-         "pubDate" : "Tue, 20 Oct 2026 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Nationals at 46th Women's Olympiad"
       },
       {
          "description" : "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland...",
