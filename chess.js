@@ -10,6 +10,14 @@ news_feed (
          "title" : "KazChess Masters: Mamedov and Makhnev set the pace in Almaty"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu started at the bottom, but now he&#39;s at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
+         "pubDate" : "Wed, 28 Oct 2026 18:01:27",
+         "title" : "Praggnanandhaa Jumps From Last To 1st With Hat Trick"
+      },
+      {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-commenced-in-budva/",
          "pubDate" : "Sat, 17 Oct 2026 21:25:57",
          "title" : "European Chess Club Cup 2026 commenced in Budva"
-      },
-      {
-         "description" : "GM Hikaru Nakamura extended the most dominant run in Bullet Brawl history on Saturday, cruising to a resounding 46-point victory with a score of 190 points. The American secured his sixth consecutive first-place finish and netted the $400 first pr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
-         "pubDate" : "Sat, 17 Oct 2026 21:02:00",
-         "title" : "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory"
       },
       {
          "description" : "I genuinely don't get the point of winning with an opening trap. Let's put aside that it will stop working quicker than the clickbaiters like to admit. When you repeat a memorized line you learned from a YouTube video, what reason do you have to be happy? You did not learn anything. You didn't use []",
