@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Istanbul will host the 2026 FIDE World Rapid and Blitz Championships from 25 to 30 December, with hundreds of players expected to compete for four world titles in the open and women's sections. Freedom Holding Corp. will serve as title sponsor. The event marks another major international chess competition in T&uuml;rkiye, which has hosted the Olympiad and several youth championships while continuing to expand chess through schools and national development programmes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue",
+         "pubDate" : "Fri, 30 Oct 2026 01:30:00",
+         "title" : "Istanbul to host FIDE World Rapid and Blitz Championships 2026"
+      },
+      {
          "description" : "The full ten-player line-up for the 2026 XTX Markets London Chess Classic has been announced, bringing together some of the biggest names in world chess for the UK's most prestigious international tournament. Defending champion Nodirbek Abdusattorov, the Uzbek world number five, will return to London seeking to become the first player since Magnus Carlsen in 2010 to win back-to-back Classic titles. Tennis star Andy Murray makes the ceremonial first move on Nodirbek Abdusattorov's board at the 2025 London Chess Classic, while tournament director Malcolm Pein looks on and provides commentary. | Photo: London Chess Classic",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/stellar-line-up-for-2026-xtx-london-chess-classic",
          "pubDate" : "Thu, 29 Oct 2026 22:30:25",
          "title" : "Stellar line-up for 2026 XTX London Chess Classic"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Thursday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-seeks-neem-karoli-babas-blessings-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/135324093.cms",
+         "pubDate" : "Thu, 29 Oct 2026 17:46:29",
+         "title" : "Watch: Gukesh seeks Neem Karoli Baba's blessings ahead of World Chess Championship"
       },
       {
          "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
@@ -31,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
          "pubDate" : "Thu, 29 Oct 2026 13:59:00",
-         "title" : "🏆 Sindarov Plays Game Of Tournament & Wins Final Event Before World Championship"
+         "title" : "🏆 Sindarov Plays Game Of Tournament, Wins Final Event Before World Championship"
       },
       {
          "description" : "Istanbul, T&#38;uuml;rkiye, will host the 2026 FIDE World Rapid &#38;amp; Blitz Championships from December 26-30, FIDE announced on Thursday. GMs Magnus Carlsen, Aleksandra Goryachkina, and Bibisara Assaubayeva are the defending champions heading into th...",
