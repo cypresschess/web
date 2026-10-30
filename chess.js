@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+         "pubDate" : "Fri, 30 Oct 2026 05:20:00",
+         "title" : "Sindarov takes Clutch Chess title ahead of World Championship match"
+      },
+      {
          "description" : "Istanbul will host the 2026 FIDE World Rapid and Blitz Championships from 25 to 30 December, with hundreds of players expected to compete for four world titles in the open and women's sections. Freedom Holding Corp. will serve as title sponsor. The event marks another major international chess competition in T&uuml;rkiye, which has hosted the Olympiad and several youth championships while continuing to expand chess through schools and national development programmes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2026/",
          "pubDate" : "Fri, 09 Oct 2026 08:53:13",
          "title" : "BCET Awards 2026"
-      },
-      {
-         "description" : " The Chess England event was a rare test of UK skills against strong foreign opposition Master chess in central London is rare, although the annual ChessFest in Trafalgar Square attracts more than 20,000 visitors. In London's clubland in Pall Mall, the RAC clubhouse has hosted the Oxford v Cambridge Varsity match for almost half a century, while the Athenaeum was the venue for a dramatic match in 2023 where the <a href=\"https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster\">record-breaking prodigy</a> Bodhana Sivanandan <a href=\"https://www.youtube.com/watch?reload=9&amp;v=BSzZwRBJVvY&amp;t=9s\">defeated the former British champion</a> Pete",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/09/chess-france-and-us-dominate-rapid-and-blitz-at-pall-mall-masters",
-         "pubDate" : "Fri, 09 Oct 2026 07:00:42",
-         "title" : "Chess: France and US dominate rapid and blitz at Pall Mall Masters"
       }
    ]
 }
