@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The London chess caf&eacute; Simpson's-in-the-Strand was, for a time, a meeting place for the world's leading players. Now, thanks to Jeremy King and Jason Kouchak, the historic venue is enjoying a revival not only as a top restaurant but also as a gathering place for chess enthusiasts. | Photos: Chiao Lee",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-revival-simpsons-in-strand",
+         "pubDate" : "Fri, 30 Oct 2026 18:30:00",
+         "title" : "A chess revival at Simpson's-in-the-Strand"
+      },
+      {
          "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting October 2026"
       },
       {
+         "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+         "pubDate" : "Fri, 30 Oct 2026 11:20:00",
+         "title" : "Sindarov takes Clutch Chess title ahead of World Championship match"
+      },
+      {
          "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
       },
       {
-         "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
-         "pubDate" : "Fri, 30 Oct 2026 05:20:00",
-         "title" : "Sindarov takes Clutch Chess title ahead of World Championship match"
-      },
-      {
          "description" : "Istanbul will host the 2026 FIDE World Rapid and Blitz Championships from 25 to 30 December, with hundreds of players expected to compete for four world titles in the open and women's sections. Freedom Holding Corp. will serve as title sponsor. The event marks another major international chess competition in T&uuml;rkiye, which has hosted the Olympiad and several youth championships while continuing to expand chess through schools and national development programmes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue",
          "pubDate" : "Fri, 30 Oct 2026 01:30:00",
          "title" : "Istanbul to host FIDE World Rapid and Blitz Championships 2026"
+      },
+      {
+         "description" : "When girls walk into a room and see male-identifying competitors constitute the overwhelming majority, they can feel alienated and unwelcome. Rooks and Roots, co-founded by WGM Iris Mou and Lisa Sun, works to combat this issue in both the math and chess worlds. Earlier this year, Rooks and Roots made use of a US Chess Women's Grant to plan, coordinate, and organize a free chess festival for 60 girls in New York City. As a nonprofit dedicated to creating a welcoming and social environment for girls to connect to fellow girls in their areas of interest, over 580 girls from almost 50 New York City schools participated in Rooks and Roots' activities. In the 2025-2026 school year, over 300 girls ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rooks-and-roots-promotes-mentorship-inclusivity-girls-chess",
+         "pubDate" : "Fri, 30 Oct 2026 00:00:00",
+         "title" : "Rooks and Roots Promotes Mentorship, Inclusivity for Girls in Chess"
       },
       {
          "description" : "The full ten-player line-up for the 2026 XTX Markets London Chess Classic has been announced, bringing together some of the biggest names in world chess for the UK's most prestigious international tournament. Defending champion Nodirbek Abdusattorov, the Uzbek world number five, will return to London seeking to become the first player since Magnus Carlsen in 2010 to win back-to-back Classic titles. Tennis star Andy Murray makes the ceremonial first move on Nodirbek Abdusattorov's board at the 2025 London Chess Classic, while tournament director Malcolm Pein looks on and provides commentary. | Photo: London Chess Classic",
@@ -434,14 +450,6 @@ news_feed (
          "title" : "Update on Correspondence Chess Migration"
       },
       {
-         "description" : "Barring a miracle, the 2026 U.S. Championships will end today without a need for tiebreaks in either event. GM Wesley So and WIM Rachael Li each protected their full point leads and now enter the final round needing only a draw to secure the title outright. Still, with over $400,000 in prizes, there is still plenty to play for. We certainly saw this on Tuesday, as Round 10 delivered several of the tournament's most fascinating, intense, and complicated games, all played by players out of the running for first place.GM Luka Budisavljevic is here to guide us through today's dark forests, and will be back tomorrow with even more highlights. U.S. Championship: Shankland - Sevian Steals ShowWith ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-10-great-games-stable-standings",
-         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
-         "title" : "Round 10: Great Games, Stable Standings"
-      },
-      {
          "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,14 +504,6 @@ news_feed (
          "link" : "https://www.europechess.org/round-2-played-at-european-chess-club-cup-2026/",
          "pubDate" : "Sun, 18 Oct 2026 19:29:00",
          "title" : "Round 2 played at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous. It was played seventy years ago, today.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-70th-memorable-game",
-         "pubDate" : "Sat, 17 Oct 2026 22:00:00",
-         "title" : "My 70th Memorable Game"
       },
       {
          "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women&#160;kicked off today in Budva, Montenegro! The record-breaking number of 130 teams (108 in the Open section and 22 teams in the Women's section) gathered today for the start of the first round of the events. The first round of the event was inaugurated after the ECU President Mr. Zurab Azmaiparashvili and Founder and CEO of Superbet Mr. Sacha Dragic played the first ceremonial move in []",
