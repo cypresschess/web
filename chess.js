@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
+         "pubDate" : "Fri, 30 Oct 2026 13:53:00",
+         "title" : "Clutch Chess: Champions Showdown 2026 - Games and results"
+      },
+      {
+         "description" : "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian champion, who represented his country on numerous occasions, died at the age of 88. | Foto: https://montsame.mn/",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lhamsuren-myagmarsuren-1938-2026",
+         "pubDate" : "Fri, 30 Oct 2026 13:00:00",
+         "title" : "Lhamsuren Myagmarsuren (1938-2026)"
+      },
+      {
+         "description" : "The fourth quarter meeting of the ECU Board took place on 22 and 23 October 2026 in Budva, Montenegro, under the well-known hospitality of the Montenegro Chess Federation. The President of the Montenegro Chess Federation, Mr Jovan Milovic, warmly welcomed the members of the ECU Board to Budva. Main information and decisions ECU Statutes The ECU Board launched the procedure to review and amend the ECU Statutes. The newly established Chess Olympic Affairs Commission will be the main contributor to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-october-2026/",
+         "pubDate" : "Fri, 30 Oct 2026 12:57:10",
+         "title" : "Communique of the ECU Board Meeting October 2026"
+      },
+      {
          "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
