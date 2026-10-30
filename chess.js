@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
+         "pubDate" : "Fri, 30 Oct 2026 08:00:50",
+         "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
+      },
+      {
          "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Stellar line-up for 2026 XTX London Chess Classic"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Thursday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Wednesday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-seeks-neem-karoli-babas-blessings-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/135324093.cms",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
          "pubDate" : "Thu, 29 Oct 2026 13:03:56",
          "title" : "Istanbul To Host 2026 World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Thu, 29 Oct 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&#38;rsquo;Or in London. On Thursd...",
@@ -552,22 +552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-get-rs-15-lakh-each-as-tamil-nadu-awards-rs-60-lakh-to-chess-olympiad-medallists/articleshow/134849027.cms",
          "pubDate" : "Sat, 10 Oct 2026 06:34:28",
          "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
-      },
-      {
-         "description" : "HMP Whitemoor HM Prison Whitemoor is a Category A men's prison near March, Cambridgeshire, England, operated by His Majesty's Prison Service. It was built on the site of an old...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/visit-to-hmp-whitemoor-carl-portman/",
-         "pubDate" : "Fri, 09 Oct 2026 10:23:57",
-         "title" : "Visit to HMP Whitemoor - Carl Portman"
-      },
-      {
-         "description" : "The Chess Trust make annual BCET Awards to schools and junior clubs. This year we received several very good applications and had a difficult task in selecting six.&#160;Those receiving the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2026/",
-         "pubDate" : "Fri, 09 Oct 2026 08:53:13",
-         "title" : "BCET Awards 2026"
       }
    ]
 }
