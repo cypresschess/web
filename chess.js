@@ -18,6 +18,14 @@ news_feed (
          "title" : "Clutch Chess: Champions Showdown 2026 - Games and results"
       },
       {
+         "description" : "GM Sina Movahed won Freestyle Friday for the second time in three weeks (channeling the old Meat Loaf song) on October 30, despite starting on 1.5/3 points. GM Nodirbek Yakubboev led much of the way, but settled for second place after his 10th-rou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-30-2026",
+         "pubDate" : "Fri, 30 Oct 2026 13:39:00",
+         "title" : "'Two Out Of Three Ain't Bad' In Movahed's Freestyle Friday Victory"
+      },
+      {
          "description" : "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian champion, who represented his country on numerous occasions, died at the age of 88. | Foto: https://montsame.mn/",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-october-2026/",
          "pubDate" : "Fri, 30 Oct 2026 12:57:10",
          "title" : "Communique of the ECU Board Meeting October 2026"
+      },
+      {
+         "description" : "GM Alexey Sarana won the first 3 0 Thursday with a dominant 10/11 score. Not to be outdone, GM Arjun Erigaisi proceeded to win both the second and third tournaments. It was the second time this year that Arjun won two 3 0 Thursdays on the same day...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
+         "pubDate" : "Fri, 30 Oct 2026 12:32:12",
+         "title" : "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday"
       },
       {
          "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -474,28 +490,12 @@ news_feed (
          "title" : "GothamChess Returns To NYT Bestseller List, Holds Amazon's Top 2 Chess Spots"
       },
       {
-         "description" : "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
-         "pubDate" : "Tue, 20 Oct 2026 12:00:00",
-         "title" : "Nakamura Starts 7/7, Wins Titled Tuesday"
-      },
-      {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-round-3-recap/",
          "pubDate" : "Tue, 20 Oct 2026 10:52:40",
          "title" : "European Chess Club Cup 2026 - Round 3 recap"
-      },
-      {
-         "description" : "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
-         "pubDate" : "Mon, 19 Oct 2026 18:35:00",
-         "title" : "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana"
       },
       {
          "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
