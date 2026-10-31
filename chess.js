@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135397490.cms\" />R Praggnanandhaa finished runner-up at the Clutch Chess: Champions Showdown in Saint Louis, earning USD 109,000 (approximately Rs 1.04 crore). Despite his impressive performance, he admitted disappointment at narrowly missing the title. Uzbekistan's Javokhir Sindarov staged a final-day comeback to win with 20.5 points, finishing 1.5 points ahead of Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-rs-1-crore-in-pocket-yet-r-praggnanandhaa-calls-clutch-chess-campaign-little-disappointing/articleshow/135397490.cms",
+         "pubDate" : "Sat, 31 Oct 2026 10:52:00",
+         "title" : "Over Rs 1 cr in pocket, yet Pragg calls Clutch Chess campaign 'little disappointing'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135366386.cms\" />After leaving her Rs 50 LPA corporate career to support her daughter Shivika's chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi's chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
