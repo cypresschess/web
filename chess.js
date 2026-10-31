@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniil Dubov has taken the sole lead at the KazChess Masters in Almaty after scoring consecutive wins in rounds five and six. The Russian grandmaster stands on 4&frac12;/6, half a point ahead of Shamsiddin Vokhidov and Denis Lazavik. Remarkably, the same three players - Dubov, Vokhidov and Mahammad Muradli - won their games in the last two rounds. Early leaders Edgar Mamedov and Denis Makhnev are now a point behind Dubov. | Photo: Niki Riga / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r6",
+         "pubDate" : "Sat, 31 Oct 2026 23:35:00",
+         "title" : "KazChess Masters: Dubov moves ahead with consecutive wins"
+      },
+      {
+         "description" : "GM Javokhir Sindarov goes into the 2026 Salesforce FIDE World Championship against reigning champion GM Gukesh Dommaraju with a lead of 72 rating points and 22 places on the November FIDE rating list. The biggest climber near the top of the list w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/november-2026-fide-rating-list",
+         "pubDate" : "Sat, 31 Oct 2026 16:23:51",
+         "title" : "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points"
+      },
+      {
          "description" : "&#8220;How can someone be training chess and be below 1500? They must be stupid.\" This is sadly a quite common sentiment among Grandmasters. It is not only a cruel statement, but simply wrong. Because here is the truth: The players that study chess, spend time, energy, money and still get stuck below 1500 are often []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/what-actually-holds-you-back-from-reaching-1500-elo/",
          "pubDate" : "Sat, 31 Oct 2026 13:00:00",
          "title" : "What actually holds you back from reaching 1500 elo"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Sat, 31 Oct 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135397490.cms\" />R Praggnanandhaa finished runner-up at the Clutch Chess: Champions Showdown in Saint Louis, earning USD 109,000 (approximately Rs 1.04 crore). Despite his impressive performance, he admitted disappointment at narrowly missing the title. Uzbekistan's Javokhir Sindarov staged a final-day comeback to win with 20.5 points, finishing 1.5 points ahead of Praggnanandhaa.",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
          "pubDate" : "Tue, 20 Oct 2026 21:25:00",
          "title" : "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round"
-      },
-      {
-         "description" : "GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus all lost in round four of the 2026 European Chess Club Cup, falling to GMs Aydin Suleymanli, Pranav Venkatesh, and Karthikeyan Murali respectively. While Abdusattorov was rescued by hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-         "pubDate" : "Tue, 20 Oct 2026 16:20:00",
-         "title" : "Abdusattorov, Giri, Erdogmus All Beaten In European Club Cup Round 4"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
