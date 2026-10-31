@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135366386.cms\" />After leaving her Rs 50 LPA corporate career to support her daughter Shivika's chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi's chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-mother-who-had-to-quit-her-rs-50-lpa-job-now-changing-chess-scene-in-north-india/articleshow/135366386.cms",
+         "pubDate" : "Sat, 31 Oct 2026 01:30:00",
+         "title" : "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India"
+      },
+      {
+         "description" : "Almaty will host the 4th International Scientific and Practical Conference \"Chess in Education\" on 12-13 November at Narxoz University. Organised as part of Kazakhstan's national chess development plan, the event will focus on expanding school chess, improving teacher training and integrating chess more systematically into education. FIDE President Timur Turlov and international specialists will join discussions on cognitive development, curriculum design, digital tools and the training of educators. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-education-international-conference-almaty",
+         "pubDate" : "Sat, 31 Oct 2026 01:00:00",
+         "title" : "International conference \"Chess in Education\" to b ­ ­e held in Almaty"
+      },
+      {
          "description" : "The London chess caf&eacute; Simpson's-in-the-Strand was, for a time, a meeting place for the world's leading players. Now, thanks to Jeremy King and Jason Kouchak, the historic venue is enjoying a revival not only as a top restaurant but also as a gathering place for chess enthusiasts. | Photos: Chiao Lee",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
