@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#8220;How can someone be training chess and be below 1500? They must be stupid.\" This is sadly a quite common sentiment among Grandmasters. It is not only a cruel statement, but simply wrong. Because here is the truth: The players that study chess, spend time, energy, money and still get stuck below 1500 are often []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/what-actually-holds-you-back-from-reaching-1500-elo/",
+         "pubDate" : "Sat, 31 Oct 2026 13:00:00",
+         "title" : "What actually holds you back from reaching 1500 elo"
+      },
+      {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Sat, 31 Oct 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135397490.cms\" />R Praggnanandhaa finished runner-up at the Clutch Chess: Champions Showdown in Saint Louis, earning USD 109,000 (approximately Rs 1.04 crore). Despite his impressive performance, he admitted disappointment at narrowly missing the title. Uzbekistan's Javokhir Sindarov staged a final-day comeback to win with 20.5 points, finishing 1.5 points ahead of Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/over-rs-1-crore-in-pocket-yet-r-praggnanandhaa-calls-clutch-chess-campaign-little-disappointing/articleshow/135397490.cms",
          "pubDate" : "Sat, 31 Oct 2026 10:52:00",
          "title" : "Over Rs 1 cr in pocket, yet Pragg calls Clutch Chess campaign 'little disappointing'"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Nodirbek Abdusattorov have teamed up for a training camp in Spain ahead of the Total Chess World Championship Tour Pilot. Joining them are GM David Howell and Carlsen&#39;s longtime coach, GM Peter Heine Nielsen. Carlsen and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
+         "pubDate" : "Sat, 31 Oct 2026 07:10:00",
+         "title" : "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135366386.cms\" />After leaving her Rs 50 LPA corporate career to support her daughter Shivika's chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi's chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "Abdusattorov, Giri, Erdogmus All Beaten In European Club Cup Round 4"
       },
       {
-         "description" : "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&#38;rsquo;s bestselling chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
-         "pubDate" : "Tue, 20 Oct 2026 14:46:57",
-         "title" : "GothamChess Returns To NYT Bestseller List, Holds Amazon's Top 2 Chess Spots"
-      },
-      {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
          "pubDate" : "Tue, 13 Oct 2026 05:45:02",
          "title" : "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi"
-      },
-      {
-         "description" : "It is so logical for me, yet so hard to apply. Pace yourself. Start small. Don't cram. Take your breaks. Even though I know it, I continously catch myself over-pacing, then slightly burning out. Many adult improvers, especially the ones successful in their career, struggle with the same problem. The Core Belief I've realized that []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/a-reminder-to-slow-down/",
-         "pubDate" : "Sat, 10 Oct 2026 13:00:00",
-         "title" : "A reminder to slow down"
       }
    ]
 }
