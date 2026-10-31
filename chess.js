@@ -584,14 +584,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/a-reminder-to-slow-down/",
          "pubDate" : "Sat, 10 Oct 2026 13:00:00",
          "title" : "A reminder to slow down"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134849027.cms\" />Tamil Nadu Chief Minister C Joseph Vijay honoured the state's 2026 Chess Olympiad medallists, distributing Rs 60 lakh among five recipients. D Gukesh and R Praggnanandhaa received Rs 15 lakh each, while Savitha Shri, R Vaishali and captain Srinath Narayanan were awarded Rs 10 lakh each. The state also launched its Dream Olympics 2036 scheme to support athletes with training and nutrition costs.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-get-rs-15-lakh-each-as-tamil-nadu-awards-rs-60-lakh-to-chess-olympiad-medallists/articleshow/134849027.cms",
-         "pubDate" : "Sat, 10 Oct 2026 06:34:28",
-         "title" : "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists"
       }
    ]
 }
