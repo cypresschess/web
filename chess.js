@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Sun, 01 Nov 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
          "description" : "The Grand Final of the WFCC Fujairah Grand Prix 2025-2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series' inaugural cycle. The finalists will compete across six solving rounds for a €30,000 prize fund, while an accompanying composing tournament will add another dimension, with the solvers themselves voting for the best original problems and studies used in the event. | Photo: Fujairah Chess & Culture Club / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "Review: Libiszewski's Chigorin Defence - Calculated Risk against 1.d4 d5 2.c4"
       },
       {
-         "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja storm home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, four ...",
+         "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
-         "pubDate" : "Sun, 01 Nov 2026 00:20:52",
+         "pubDate" : "Sun, 01 Nov 2026 00:20:00",
          "title" : "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs"
       },
       {
