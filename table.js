@@ -1,8 +1,10 @@
 jtable([
+"HOUSTON","2026-10-31","10","<a href=https://ratings.uschess.org/event/202610310213 target='_blank'>chesspanda10312026saturday</a>",
 "SPRING","2026-10-30","18","<a href=https://ratings.uschess.org/event/202610300343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-10-30","35","<a href=https://ratings.uschess.org/event/202610300333 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2026-10-28","18","<a href=https://ratings.uschess.org/event/202610280323 target='_blank'>Aristoi Cypress Inaugural JTP Tournament 2026</a>",
 "HOUSTON","2026-10-27","14","<a href=https://ratings.uschess.org/event/202610270223 target='_blank'>OCTOBER TUE NITE SWISS 2026</a>",
+"SUGAR LAND","2026-10-25","12","<a href=https://ratings.uschess.org/event/202610250983 target='_blank'>Sunbridge Learning Chess Tournament</a>",
 "KATY","2026-10-25","46","<a href=https://ratings.uschess.org/event/202610250863 target='_blank'>Katy Kids Chess Beginners monthly R</a>",
 "HOUSTON","2026-10-25","14","<a href=https://ratings.uschess.org/event/202610250393 target='_blank'>Bellaire Sunday Swiss 2026.10.25</a>",
 "HOUSTON","2026-10-25","10","<a href=https://ratings.uschess.org/event/202610250023 target='_blank'>2026 Texas Women's Chess Championsh</a>",
@@ -97,6 +99,4 @@ jtable([
 "SPRING","2026-08-07","24","<a href=https://ratings.uschess.org/event/202608070373 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-07","20","<a href=https://ratings.uschess.org/event/202608070333 target='_blank'>FBCC 2026 Sea Serpent Day Open</a>",
 "HOUSTON","2026-08-02","42","<a href=https://ratings.uschess.org/event/202608020173 target='_blank'>Poison Pawns August 2026 (Split)</a>",
-"HOUSTON","2026-08-02","17","<a href=https://ratings.uschess.org/event/202608020133 target='_blank'>Bellaire Sunday Swiss 2026.08.02</a>",
-"KATY","2026-08-01","30","<a href=https://ratings.uschess.org/event/202608010893 target='_blank'>2026 Foundation Chess Back-to-School Tournament</a>",
 ]);
