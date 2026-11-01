@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/november-2026-fide-rating-list",
-         "pubDate" : "Sat, 31 Oct 2026 16:23:51",
+         "pubDate" : "Sat, 31 Oct 2026 16:23:00",
          "title" : "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points"
       },
       {
