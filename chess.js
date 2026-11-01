@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Final of the WFCC Fujairah Grand Prix 2025-2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series' inaugural cycle. The finalists will compete across six solving rounds for a €30,000 prize fund, while an accompanying composing tournament will add another dimension, with the solvers themselves voting for the best original problems and studies used in the event. | Photo: Fujairah Chess & Culture Club / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
+         "pubDate" : "Sun, 01 Nov 2026 08:30:00",
+         "title" : "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers"
+      },
+      {
+         "description" : "\"The Chigorin Defence is an opening that brings back romantic chess memories for me. As a teenager, I played it for a few years. More precisely, between 1999 and 2001, as the Mega Database reminds me with unerring accuracy - a quarter of a century ago!\" says Hannes Langrock. He is an editor at a publishing house specialising in fiction and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. Here he reviews Libiszewski's latest course, which brought back a number of memories. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
+         "pubDate" : "Sun, 01 Nov 2026 07:00:00",
+         "title" : "Review: Libiszewski's Chigorin Defence - Calculated Risk against 1.d4 d5 2.c4"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja storm home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, four ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
+         "pubDate" : "Sun, 01 Nov 2026 00:20:52",
+         "title" : "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs"
+      },
+      {
          "description" : "Daniil Dubov has taken the sole lead at the KazChess Masters in Almaty after scoring consecutive wins in rounds five and six. The Russian grandmaster stands on 4&frac12;/6, half a point ahead of Shamsiddin Vokhidov and Denis Lazavik. Remarkably, the same three players - Dubov, Vokhidov and Mahammad Muradli - won their games in the last two rounds. Early leaders Edgar Mamedov and Denis Makhnev are now a point behind Dubov. | Photo: Niki Riga / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/update-correspondence-chess-migration",
          "pubDate" : "Wed, 21 Oct 2026 00:00:00",
          "title" : "Update on Correspondence Chess Migration"
-      },
-      {
-         "description" : "It&#39;s the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-         "pubDate" : "Tue, 20 Oct 2026 21:25:00",
-         "title" : "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
