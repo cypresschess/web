@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Born on 1 November 1906, Vasily Panov was not among the leading Soviet chess players of his generation. However, he was a prominent figure as an author and theoretician. Many players know his name as the inventor of the Panov Attack, which was named after him. Yet Panov's career also had a darker side.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
+         "pubDate" : "Sun, 01 Nov 2026 18:15:00",
+         "title" : "Vasily Panov: An influential theoretician with a dark side"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
