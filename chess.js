@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r2",
+         "pubDate" : "Mon, 02 Nov 2026 06:30:00",
+         "title" : "Bavarian Championship: Few surprises in the opening rounds at Tegernsee"
+      },
+      {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
