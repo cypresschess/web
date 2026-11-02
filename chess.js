@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
+         "pubDate" : "Mon, 2 Nov 2026 13:23:00",
+         "title" : "English Open Championships 2026 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135460992.cms\" />Nihal Sarin broke into the world's Top 20 for the first time, reaching a career-best World No. 19 with 2720 rating points after winning individual gold at the European Chess Club Cup. India also has 13 players in the Open Top 100 and 11 in the Women's Top 100, while remaining the world's second-ranked chess federation across all three categories.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rankings-r-praggnanandhaa-only-indian-chess-player-in-worlds-top-10-where-is-gukesh/articleshow/135460992.cms",
          "pubDate" : "Mon, 02 Nov 2026 12:08:58",
          "title" : "FIDE Rankings: Pragg only Indian chess player in world's top 10; where is Gukesh?"
+      },
+      {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Mon, 02 Nov 2026 11:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Sandra Schmidt/OIBM",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
          "pubDate" : "Sun, 01 Nov 2026 18:15:00",
          "title" : "Vasily Panov: An influential theoretician with a dark side"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Sun, 01 Nov 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "The Grand Final of the WFCC Fujairah Grand Prix 2025-2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series' inaugural cycle. The finalists will compete across six solving rounds for a €30,000 prize fund, while an accompanying composing tournament will add another dimension, with the solvers themselves voting for the best original problems and studies used in the event. | Photo: Fujairah Chess & Culture Club / FIDE",
