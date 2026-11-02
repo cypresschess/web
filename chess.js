@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Official website",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135460992.cms\" />Nihal Sarin broke into the world's Top 20 for the first time, reaching a career-best World No. 19 with 2720 rating points after winning individual gold at the European Chess Club Cup. India also has 13 players in the Open Top 100 and 11 in the Women's Top 100, while remaining the world's second-ranked chess federation across all three categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rankings-r-praggnanandhaa-only-indian-chess-player-in-worlds-top-10-where-is-gukesh/articleshow/135460992.cms",
+         "pubDate" : "Mon, 02 Nov 2026 12:08:58",
+         "title" : "FIDE Rankings: Pragg only Indian chess player in world's top 10; where is Gukesh?"
+      },
+      {
+         "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Sandra Schmidt/OIBM",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r2",
