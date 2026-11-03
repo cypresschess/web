@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The open tournament at this year's English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7&frac12; points out of 9. In round five, he drew with Michael Adams, who also remained undefeated and secured second place, one point behind the winner. In the women's event, Elmira Mirzoeva claimed the title with the same one-point margin over runner-up Anusha Subramanian. | Photos: Official website / Melinda White",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/english-championship-2026-main-tournament",
+         "pubDate" : "Tue, 03 Nov 2026 09:25:00",
+         "title" : "Gawain Maroroa Jones wins English Championship 2026"
+      },
+      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/why-indias-99th-grandmaster-had-to-do-it-twice-the-latest-mystery-of-indian-chess-vs-rathanvel/articleshow/135482066.cms",
          "pubDate" : "Tue, 03 Nov 2026 04:38:10",
          "title" : "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel"
+      },
+      {
+         "description" : "This week continues a series on the FIDE World U7-U17 World Championships, which concluded in Spain last month. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Our exercises focus on hanging piece tactics (with a side of king safety), but our example features a highly instructive king-and-pawn endgame. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-world-u7-u17-championships-pt-2",
+         "pubDate" : "Tue, 03 Nov 2026 00:00:00",
+         "title" : "Tactics Tuesday: World U7-U17 Championships, Pt. 2"
       },
       {
          "description" : "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the rankings in their respective categories. Meanwhile, Nihal Sarin entered the world top 20 and Hans Niemann dropped below the 2700 mark.",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wesley-so-wins-2026-us-championship",
          "pubDate" : "Thu, 22 Oct 2026 00:00:00",
          "title" : "Wesley So Wins 2026 U.S. Championship"
-      },
-      {
-         "description" : "The 2026 U.S. Championships were supposed to end on Wednesday without a need for tiebreaks. GM Wesley So led the field by a full point, and a draw as Black against GM Samuel Sevian would clinch his fourth title. Likewise, WIM Rachael Li only needed a draw against IM Anna Zatonskih to win her first title. Besides, even if So or Li did lose, would anybody else even be able to win on demand to close the full-point gap? What could have been a formality of a final round in St. Louis instead turned into high drama, and today we will have an encore at noon CDT when So faces off against GM Fabiano Caruana in a playoff! Today's games are once again annotated by GM Luka Budisavljevic, and we have on s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rachael-li-wins-2026-us-womens-championship-caruana-forces-playoff-so",
-         "pubDate" : "Thu, 22 Oct 2026 00:00:00",
-         "title" : "Rachael Li Wins 2026 U.S. Women's Championship, Caruana Forces Playoff with So"
       },
       {
          "description" : "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not...",
