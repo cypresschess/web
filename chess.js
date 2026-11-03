@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the rankings in their respective categories. Meanwhile, Nihal Sarin entered the world top 20 and Hans Niemann dropped below the 2700 mark.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-november-2026",
+         "pubDate" : "Mon, 02 Nov 2026 23:50:00",
+         "title" : "FIDE ratings - November 2026"
+      },
+      {
+         "description" : "With the World Championship match in Geneva just over three weeks away, Jon Speelman considers the prospects of defending champion Gukesh Dommaraju and challenger Javokhir Sindarov. He reflects on the demands of a 14-game match, recent form and the importance of preparation, while revisiting Sindarov's attacking win over Hikaru Nakamura in Saint Louis. Speelman also draws on past Candidates battles to underline the tactical possibilities ahead. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-245",
+         "pubDate" : "Mon, 02 Nov 2026 18:30:00",
+         "title" : "Jon Speelman: Ya-hoo!"
+      },
+      {
          "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,12 +42,44 @@ news_feed (
          "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
+         "description" : "The Grand Chess Auto Bots are here this November, bringing their shady dealings to the board as they calculate their next big scheme. It&#38;rsquo;s up to you to foil their plans and score exclusive rewards before the end of the month. Think you can ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
+         "pubDate" : "Mon, 02 Nov 2026 10:06:31",
+         "title" : "Challenge the Grand Chess Auto Bots"
+      },
+      {
          "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Sandra Schmidt/OIBM",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r2",
          "pubDate" : "Mon, 02 Nov 2026 06:30:00",
          "title" : "Bavarian Championship: Few surprises in the opening rounds at Tegernsee"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (consistent with last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2026 grant recipients are:Affiliate NameLocationMVP Chess CenterAlexandria, VAGirl Chess Power and BeyondSugarland, TXChessKids &amp; NNvChessReno, NVKindness On Board FoundationDiamond Bar, CABehind it All FoundationSt. Louis, MORISE ScholarsSan Rafael, CAChess Education FoundationLouisville, KYMinnesota Stat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-23-2026-27-grants",
+         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
+         "title" : "US Chess Women's Program Awards 23 2026-27 Grants"
+      },
+      {
+         "description" : "You get an itch to push a little wood. Your fast review - online at the US Chess Site - of nearby events for the upcoming weekend revealed exactly what fills the bill: The Chessboard Open. The entry fee is a mere $20. The four round schedule sets games ASAP (as soon as possible) starting at 9 a.m.. The time control is G/30 with no delay or increment. And check out those prizes: $50 - $30 - $25. This little event will scratch your itch. You arrive at the site, which turns out to be a couple of rooms in the community center. The TD takes your cash and processes your entry. He notes that you are the top dog so far. Your rating outdistances most of the other players. There are a few chaps close ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-extra-round",
+         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
+         "title" : "Just the Rules: An Extra Round?"
+      },
+      {
+         "description" : "Check is in the Mail November 2026As previously reported, the 2025 Absolute Championship concluded on September 29, 2026, with five players tied for first at 6&frac12;/12. Those players are:CCM Tim Corkum - 2nd title (2025 and 2022)CCM Danny Horwitz - 3rd title (2025, 2021, and 2016)SIM Harry Ingersol - 4th title (2025, 2019, 2017, and 2010)CCM Gordon Magat - 1st title (2025)CCM John Walton - 2nd title (2025 and 2022)The 13-player field also included former Absolute Champions John Millett (2023), Timothy Harris (2024), Kristo Miettinen (2015), and David Sogin (2009). Electronic Knights champions competing included Dr. Ferdinand Burmiester (2017), Corkum (2018, 2016, and 2011), and Millett (2",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-november-2026-2025-absolute-championship",
+         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
+         "title" : "Check is in the Mail November 2026: 2025 Absolute Championship"
       },
       {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
          "pubDate" : "Sun, 01 Nov 2026 08:30:00",
          "title" : "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers"
-      },
-      {
-         "description" : "\"The Chigorin Defence is an opening that brings back romantic chess memories for me. As a teenager, I played it for a few years. More precisely, between 1999 and 2001, as the Mega Database reminds me with unerring accuracy - a quarter of a century ago!\" says Hannes Langrock. He is an editor at a publishing house specialising in fiction and an International Master. He lives in Leipzig and plays for ESV Nickelh&uuml;tte-Aue. Here he reviews Libiszewski's latest course, which brought back a number of memories. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
-         "pubDate" : "Sun, 01 Nov 2026 07:00:00",
-         "title" : "Review: Libiszewski's Chigorin Defence - Calculated Risk against 1.d4 d5 2.c4"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou...",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "'Two Out Of Three Ain't Bad' In Movahed's Freestyle Friday Victory"
       },
       {
-         "description" : "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian champion, who represented his country on numerous occasions, died at the age of 88. | Foto: https://montsame.mn/",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lhamsuren-myagmarsuren-1938-2026",
-         "pubDate" : "Fri, 30 Oct 2026 13:00:00",
-         "title" : "Lhamsuren Myagmarsuren (1938-2026)"
-      },
-      {
          "description" : "The fourth quarter meeting of the ECU Board took place on 22 and 23 October 2026 in Budva, Montenegro, under the well-known hospitality of the Montenegro Chess Federation. The President of the Montenegro Chess Federation, Mr Jovan Milovic, warmly welcomed the members of the ECU Board to Budva. Main information and decisions ECU Statutes The ECU Board launched the procedure to review and amend the ECU Statutes. The newly established Chess Olympic Affairs Commission will be the main contributor to []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -178,28 +210,12 @@ news_feed (
          "title" : "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday"
       },
       {
-         "description" : "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2&frac12;-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1&frac12; points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
-         "pubDate" : "Fri, 30 Oct 2026 11:20:00",
-         "title" : "Sindarov takes Clutch Chess title ahead of World Championship match"
-      },
-      {
          "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
          "pubDate" : "Fri, 30 Oct 2026 08:00:50",
          "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
-      },
-      {
-         "description" : "Istanbul will host the 2026 FIDE World Rapid and Blitz Championships from 25 to 30 December, with hundreds of players expected to compete for four world titles in the open and women's sections. Freedom Holding Corp. will serve as title sponsor. The event marks another major international chess competition in T&uuml;rkiye, which has hosted the Olympiad and several youth championships while continuing to expand chess through schools and national development programmes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue",
-         "pubDate" : "Fri, 30 Oct 2026 01:30:00",
-         "title" : "Istanbul to host FIDE World Rapid and Blitz Championships 2026"
       },
       {
          "description" : "When girls walk into a room and see male-identifying competitors constitute the overwhelming majority, they can feel alienated and unwelcome. Rooks and Roots, co-founded by WGM Iris Mou and Lisa Sun, works to combat this issue in both the math and chess worlds. Earlier this year, Rooks and Roots made use of a US Chess Women's Grant to plan, coordinate, and organize a free chess festival for 60 girls in New York City. As a nonprofit dedicated to creating a welcoming and social environment for girls to connect to fellow girls in their areas of interest, over 580 girls from almost 50 New York City schools participated in Rooks and Roots' activities. In the 2025-2026 school year, over 300 girls ",
@@ -210,28 +226,12 @@ news_feed (
          "title" : "Rooks and Roots Promotes Mentorship, Inclusivity for Girls in Chess"
       },
       {
-         "description" : "The full ten-player line-up for the 2026 XTX Markets London Chess Classic has been announced, bringing together some of the biggest names in world chess for the UK's most prestigious international tournament. Defending champion Nodirbek Abdusattorov, the Uzbek world number five, will return to London seeking to become the first player since Magnus Carlsen in 2010 to win back-to-back Classic titles. Tennis star Andy Murray makes the ceremonial first move on Nodirbek Abdusattorov's board at the 2025 London Chess Classic, while tournament director Malcolm Pein looks on and provides commentary. | Photo: London Chess Classic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stellar-line-up-for-2026-xtx-london-chess-classic",
-         "pubDate" : "Thu, 29 Oct 2026 22:30:25",
-         "title" : "Stellar line-up for 2026 XTX London Chess Classic"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Wednesday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-seeks-neem-karoli-babas-blessings-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/135324093.cms",
          "pubDate" : "Thu, 29 Oct 2026 17:46:29",
          "title" : "Watch: Gukesh seeks Neem Karoli Baba's blessings ahead of World Chess Championship"
-      },
-      {
-         "description" : "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-         "pubDate" : "Thu, 29 Oct 2026 17:45:00",
-         "title" : "Clutch Chess: Champions Showdown - Live!"
       },
       {
          "description" : "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have...",
@@ -274,14 +274,6 @@ news_feed (
          "title" : "Bughouse, Blindfold, and More at National Squash League Collaboration"
       },
       {
-         "description" : "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2&frac12; points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r3",
-         "pubDate" : "Wed, 28 Oct 2026 23:40:00",
-         "title" : "KazChess Masters: Mamedov and Makhnev set the pace in Almaty"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu started at the bottom, but now he&#39;s at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -298,28 +290,12 @@ news_feed (
          "title" : "Oro, Taher Lead 9z Globant To Victory In October Chess Club Showdown"
       },
       {
-         "description" : "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dragons-of-the-olympiad-2026-the-monthly-dragon",
-         "pubDate" : "Wed, 28 Oct 2026 14:31:20",
-         "title" : "Dragons of the Olympiad 2026 - The Monthly Dragon"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
          "pubDate" : "Wed, 28 Oct 2026 10:30:14",
          "title" : "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?"
-      },
-      {
-         "description" : "Hikaru Nakamura took the early lead at the Clutch Chess: Champions Showdown tournament in Saint Louis, scoring two wins and four draws to finish day one on 4/6 points. Javokhir Sindarov follows half a point behind, while Fabiano Caruana and Praggnanandhaa Rameshbabu occupy third and fourth place. The opening day featured five decisive games and plenty of exciting battles. Victories will be worth increasingly more points over the next two days. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clutch-chess-showdown-2026-1",
-         "pubDate" : "Wed, 28 Oct 2026 07:00:00",
-         "title" : "Clutch Chess: Nakamura leads after lively first day of action"
       },
       {
          "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
@@ -560,38 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
          "pubDate" : "Wed, 21 Oct 2026 13:55:00",
          "title" : "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers"
-      },
-      {
-         "description" : "Think you can dunk on an NBA player at chess? Houston Rockets star Steven Adams is now a bot on Chess.com! Head to the Play Bots page and try your luck against our tallest chess bot ever! With a towering 6&#39;11&#34; presence and a tough chess rating of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-steven-adams",
-         "pubDate" : "Wed, 21 Oct 2026 10:00:17",
-         "title" : "Play Chess Against NBA Star Steven Adams"
-      },
-      {
-         "description" : "Following the conclusion of the 46th FIDE Olympiad (see all our coverage here), our two weekly tactics worksheets are back! This week, we have the fourth and final installment of our four-week series on U.S. nationals from three other federations that traveled to Samarkand: Puerto Rico, Guam, and U.S. Virgin Islands. This week we take a look at all three federation's women's teams! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-nationals-46th-womens-olympiad",
-         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
-         "title" : "Wednesday Workout: U.S. Nationals at 46th Women's Olympiad"
-      },
-      {
-         "description" : "And other questions for ICCF GM Jon Edwards, 32nd World Correspondence Chess ChampionOne of the speakers at the 2026 Saint Louis Chess Conference is ICCF GM Dr. Jon Edwards, the 32nd World Correspondence Chess Champion. While his October 24th presentation, titled \"The American Chess Archive Use Cases,\" is about a project he is involved with as the Vice President of Chess Journalists of America, he is an expert on more than old chess magazines. In 2026, his peer-reviewed article Chess: Toward a Methodological Solution of Chess was published in the journal of the International Computer Games Association. It implies that humans should sometimes override chess engines. One key definition from hi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/when-should-humans-override-chess-engines",
-         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
-         "title" : "When Should Humans Override Chess Engines? "
-      },
-      {
-         "description" : "Migration to a new server began over the past week for correspondence chess (CC) back-end processing - entering and rating results and setting up tournaments - and CC tournament cross tables and related data. Back-end tasks, including updating players' CC ratings after results are entered, are suspended during migration and testing.Work is expected to finish by October 27, 2026, when back-end processing will resume. Online event registration, CC event administration and assignments, and manual entry of tournament results are unaffected.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-correspondence-chess-migration",
-         "pubDate" : "Wed, 21 Oct 2026 00:00:00",
-         "title" : "Update on Correspondence Chess Migration"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
