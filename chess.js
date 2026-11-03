@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+         "pubDate" : "Tue, 03 Nov 2026 09:00:00",
+         "title" : "KazChess Masters Almaty 2026 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135482066.cms\" />VS Rathanvel's journey to becoming India's 99th Grandmaster took an unexpected turn after FIDE did not recognise his initial rating achievement. Despite completing his norms in 2022, the Coimbatore player had to cross the 2500 rating mark again. After setbacks, pressure and uncertainty, he finally secured the required rating in Hungary, ending a four-year wait with relief rather than celebration.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-indias-99th-grandmaster-had-to-do-it-twice-the-latest-mystery-of-indian-chess-vs-rathanvel/articleshow/135482066.cms",
+         "pubDate" : "Tue, 03 Nov 2026 04:38:10",
+         "title" : "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel"
+      },
+      {
          "description" : "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the rankings in their respective categories. Meanwhile, Nihal Sarin entered the world top 20 and Hans Niemann dropped below the 2700 mark.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rankings-r-praggnanandhaa-only-indian-chess-player-in-worlds-top-10-where-is-gukesh/articleshow/135460992.cms",
          "pubDate" : "Mon, 02 Nov 2026 12:08:58",
          "title" : "FIDE Rankings: Pragg only Indian chess player in world's top 10; where is Gukesh?"
-      },
-      {
-         "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-         "pubDate" : "Mon, 02 Nov 2026 11:00:00",
-         "title" : "KazChess Masters Almaty 2026 - Live!"
       },
       {
          "description" : "The Grand Chess Auto Bots are here this November, bringing their shady dealings to the board as they calculate their next big scheme. It&#38;rsquo;s up to you to foil their plans and score exclusive rewards before the end of the month. Think you can ...",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri-leads-she-plays-to-win-women-to-unlikely-victory",
          "pubDate" : "Fri, 16 Oct 2026 07:00:55",
          "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908967.cms\" />Sahithi Varshini Moogi's journey to becoming India's latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach. After selling property, pledging gold, and quitting his job, he continues pursuing her dream of chess greatness.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
-         "pubDate" : "Tue, 13 Oct 2026 05:45:02",
-         "title" : "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi"
       }
    ]
 }
