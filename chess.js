@@ -42,6 +42,14 @@ news_feed (
          "title" : "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed"
       },
       {
+         "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-breaks-monthly-membership-record",
+         "pubDate" : "Wed, 04 Nov 2026 00:00:00",
+         "title" : "US Chess Breaks Monthly Membership Record"
+      },
+      {
          "description" : "This week continues a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-javokhir-sindarov-what-do-the-worlds-top-gms-think-about-the-upcoming-world-chess-championship-match/articleshow/135204329.cms",
          "pubDate" : "Mon, 26 Oct 2026 06:19:24",
          "title" : "Gukesh vs Sindarov: What do world's top GMs think about the match?"
-      },
-      {
-         "description" : "Just counting events with \"National Chess Day\" in the title on MUIR, affiliates hosted 40 rated tournaments around the country with 1,791 chessplayers competing on Saturday, Oct. 10. This does not include dozens more tournaments held that weekend and even more National Chess Day (NCD) non-rated events, exhibitions, and meet-ups. Below is a wrap-up of some of the many events, as submitted by organizers. We have also added some information about tournaments held close to NCD by organizers that hosted NCD events. Feel free to share more information and photos to Click here to show email address, and keep an eye out for updates to this page.Atlantic Chess Association: Princeton NCD Open and Blue",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2026-national-chess-day-wrap",
-         "pubDate" : "Mon, 26 Oct 2026 00:00:00",
-         "title" : "2026 National Chess Day Wrap-Up"
       },
       {
          "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
