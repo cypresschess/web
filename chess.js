@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Denis Lazavik won the KazChess Masters in Almaty with 6&frac12;/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5&frac12;/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9-2",
+         "pubDate" : "Tue, 03 Nov 2026 23:15:00",
+         "title" : "KazChess Masters: Lazavik takes title, Smirnov earns GM norm"
+      },
+      {
+         "description" : "The 2026 European Youth Chess Championship kicked off today in Hersonissos, Crete, Greece! The Opening day commenced with the Technical meeting, which took place in one of the playing venues of the event this morning. The Head of Delegations representing delegations from 49 European federations, attended the meeting and were introduced to the rules by the Arbiters team led by the Chief Arbiter Mr. Marco Biagioli. The Opening ceremony of the event took place shortly before the start of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-commenced-in-crete/",
+         "pubDate" : "Tue, 03 Nov 2026 21:08:18",
+         "title" : "European Youth Chess Championship 2026 commenced in Crete"
+      },
+      {
+         "description" : "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we&#39;re excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to 150 Champions Chess Tour Lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
+         "pubDate" : "Tue, 03 Nov 2026 12:45:00",
+         "title" : "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London"
+      },
+      {
          "description" : "The open tournament at this year's English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7&frac12; points out of 9. In round five, he drew with Michael Adams, who also remained undefeated and secured second place, one point behind the winner. In the women's event, Elmira Mirzoeva claimed the title with the same one-point margin over runner-up Anusha Subramanian. | Photos: Official website / Melinda White",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid"
       },
       {
-         "description" : "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world&#39;s second-most followed person on Instagram, behind only...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
-         "pubDate" : "Wed, 21 Oct 2026 13:55:00",
-         "title" : "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers"
-      },
-      {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
-      },
-      {
-         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women is set to kick off in Budva, Montenegro! The event will be played in Hotel Slovenska Plaza, from 17th October to 23rd October 2026. Today is the arrival day and the Opening ceremony of the event is scheduled for this evening with the start at 18:00 CEST. Both European Chess Club Cup and the European Chess Club Cup for Women will be played in 7 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2026-starts-in-budva-montenegro/",
-         "pubDate" : "Fri, 16 Oct 2026 08:18:16",
-         "title" : "European Chess Club Cup 2026 starts in Budva, Montenegro"
       },
       {
          "description" : " Newly promoted SPTW were expected to be outclassed in the top division of the 4NCL British League, but proved a revelation She Plays to Win Lionesses, the all-female team which won successive promotions to the first division of Britain's Four Nations Chess League (4NCL), were expected to be outclassed in the top flight, but instead proved the revelation of the opening weekend of the new season. SPTW wanted to continue without male players in the season's 2026-27 renewal, but the league stood by its rule, introduced to promote women's chess, that top division teams must include at least one player of each sex. <a href=\"https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-gir",
