@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the record for the most appearances at Chess Olympiads, having competed in 23 editions. He was also one of the few people to maintain a close friendship with Bobby Fischer over many years. Today, Eugenio Torre celebrates his 75th birthday. | Photo: Reykjavik Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
+         "pubDate" : "Wed, 04 Nov 2026 16:40:00",
+         "title" : "Eugenio Torre: Asia's first grandmaster turns 75"
+      },
+      {
          "description" : "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across three time controls. The organisers have now announced their broadcast team: Anna Rudolf, Fiona Steil-Antoni, David Howell and Jovanka Houska will cover the tournament, while Levy Rozman, better known as GothamChess, will host a daily highlights show featuring interviews, analysis and special guests.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,36 @@ news_feed (
          "title" : "GothamChess to host new Total Chess highlights show in Budapest"
       },
       {
+         "description" : "The Gambit Cup, Gambit&#39;s non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all Gambit members. The Gambit Cup i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
+         "pubDate" : "Wed, 04 Nov 2026 08:00:00",
+         "title" : "Play In The Second Special Edition Of Gambit Cup On November 9"
+      },
+      {
+         "description" : "GM Denis Lazavik is approaching 2650 after winning the 2026 KazChess Masters with an unbeaten 6.5/9, half a point ahead of the only other unbeaten player, GM Daniil Dubov. It was also a memorable tournament for 14-year-old IM Mark Smirnov, who bea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
+         "pubDate" : "Wed, 04 Nov 2026 05:28:00",
+         "title" : "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm"
+      },
+      {
          "description" : "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
          "pubDate" : "Wed, 04 Nov 2026 01:31:15",
          "title" : "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed"
+      },
+      {
+         "description" : "This week continues a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-world-u7-u17-championships-pt-2",
+         "pubDate" : "Wed, 04 Nov 2026 00:00:00",
+         "title" : "Wednesday Workout: World U7-U17 Championships, Pt. 2"
       },
       {
          "description" : "Denis Lazavik won the KazChess Masters in Almaty with 6&frac12;/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5&frac12;/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)",
@@ -210,7 +242,7 @@ news_feed (
          "title" : "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India"
       },
       {
-         "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. ",
+         "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event was to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. Mortifyingly I had the wrong scores in the final standings although the right results. It seems that contrary to logic it was 1pt for a draw on the final day not 1.5pts. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
@@ -506,14 +538,6 @@ news_feed (
          "title" : "Wesley So Wins 4th U.S. Chess Championship"
       },
       {
-         "description" : "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
-         "pubDate" : "Thu, 22 Oct 2026 14:31:00",
-         "title" : "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round"
-      },
-      {
          "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -528,22 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/two-rounds-to-go-at-european-chess-club-cup-2026/",
          "pubDate" : "Thu, 22 Oct 2026 09:34:25",
          "title" : "Two rounds to go at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "GM Wesley So won his fourth U.S. Championship - and first in five years - on Thursday after defeating GM Fabiano Caruana 1&frac12;-&frac12; in a two-game rapid playoff mini-match. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Wesley So won his fourth U.S. Championship on Thursday, defeating Fabiano Caruana 1&frac12;-&frac12; in the rapid playoff. (Photo courtesy SLCC/Lennart Ootes)<br> <br> <br> <br> So entered Wednesday's final round with a full-point lead, but GM Samuel Sevian opened the door for Caruana by taking down the frontrunner shortly after Caruana won his game against GM Awonder Liang.The playoff format consisted of a two-game mini-match w",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wesley-so-wins-2026-us-championship",
-         "pubDate" : "Thu, 22 Oct 2026 00:00:00",
-         "title" : "Wesley So Wins 2026 U.S. Championship"
-      },
-      {
-         "description" : "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-         "pubDate" : "Wed, 21 Oct 2026 16:33:00",
-         "title" : "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
