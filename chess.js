@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across three time controls. The organisers have now announced their broadcast team: Anna Rudolf, Fiona Steil-Antoni, David Howell and Jovanka Houska will cover the tournament, while Levy Rozman, better known as GothamChess, will host a daily highlights show featuring interviews, analysis and special guests.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
+         "pubDate" : "Wed, 04 Nov 2026 08:12:32",
+         "title" : "GothamChess to host new Total Chess highlights show in Budapest"
+      },
+      {
          "description" : "Denis Lazavik won the KazChess Masters in Almaty with 6&frac12;/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5&frac12;/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,28 +154,12 @@ news_feed (
          "title" : "Vasily Panov: An influential theoretician with a dark side"
       },
       {
-         "description" : "The Grand Final of the WFCC Fujairah Grand Prix 2025-2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series' inaugural cycle. The finalists will compete across six solving rounds for a â‚¬30,000 prize fund, while an accompanying composing tournament will add another dimension, with the solvers themselves voting for the best original problems and studies used in the event. | Photo: Fujairah Chess & Culture Club / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
-         "pubDate" : "Sun, 01 Nov 2026 08:30:00",
-         "title" : "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers"
-      },
-      {
          "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
          "pubDate" : "Sun, 01 Nov 2026 00:20:00",
          "title" : "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs"
-      },
-      {
-         "description" : "Daniil Dubov has taken the sole lead at the KazChess Masters in Almaty after scoring consecutive wins in rounds five and six. The Russian grandmaster stands on 4&frac12;/6, half a point ahead of Shamsiddin Vokhidov and Denis Lazavik. Remarkably, the same three players - Dubov, Vokhidov and Mahammad Muradli - won their games in the last two rounds. Early leaders Edgar Mamedov and Denis Makhnev are now a point behind Dubov. | Photo: Niki Riga / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r6",
-         "pubDate" : "Sat, 31 Oct 2026 23:35:00",
-         "title" : "KazChess Masters: Dubov moves ahead with consecutive wins"
       },
       {
          "description" : "GM Javokhir Sindarov goes into the 2026 Salesforce FIDE World Championship against reigning champion GM Gukesh Dommaraju with a lead of 72 rating points and 22 places on the November FIDE rating list. The biggest climber near the top of the list w...",
@@ -208,22 +200,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-mother-who-had-to-quit-her-rs-50-lpa-job-now-changing-chess-scene-in-north-india/articleshow/135366386.cms",
          "pubDate" : "Sat, 31 Oct 2026 01:30:00",
          "title" : "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India"
-      },
-      {
-         "description" : "Almaty will host the 4th International Scientific and Practical Conference \"Chess in Education\" on 12-13 November at Narxoz University. Organised as part of Kazakhstan's national chess development plan, the event will focus on expanding school chess, improving teacher training and integrating chess more systematically into education. FIDE President Timur Turlov and international specialists will join discussions on cognitive development, curriculum design, digital tools and the training of educators. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-education-international-conference-almaty",
-         "pubDate" : "Sat, 31 Oct 2026 01:00:00",
-         "title" : "International conference \"Chess in Education\" to b ­ ­e held in Almaty"
-      },
-      {
-         "description" : "The London chess caf&eacute; Simpson's-in-the-Strand was, for a time, a meeting place for the world's leading players. Now, thanks to Jeremy King and Jason Kouchak, the historic venue is enjoying a revival not only as a top restaurant but also as a gathering place for chess enthusiasts. | Photos: Chiao Lee",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-revival-simpsons-in-strand",
-         "pubDate" : "Fri, 30 Oct 2026 18:30:00",
-         "title" : "A chess revival at Simpson's-in-the-Strand"
       },
       {
          "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. ",
