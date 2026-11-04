@@ -10,6 +10,14 @@ news_feed (
          "title" : "GothamChess to host new Total Chess highlights show in Budapest"
       },
       {
+         "description" : "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
+         "pubDate" : "Wed, 04 Nov 2026 01:31:15",
+         "title" : "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed"
+      },
+      {
          "description" : "Denis Lazavik won the KazChess Masters in Almaty with 6&frac12;/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5&frac12;/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
          "pubDate" : "Wed, 21 Oct 2026 16:33:00",
          "title" : "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs"
-      },
-      {
-         "description" : "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
-         "pubDate" : "Wed, 21 Oct 2026 15:50:00",
-         "title" : "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
