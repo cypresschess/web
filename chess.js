@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren and Wang Hao were both eliminated in the quarterfinals of the Chinese Rapid Championship, as three of the four rating favourites failed to reach the last four. Ding lost to Xiao Tong in a blitz tiebreaker, while Wang Hao was defeated by Xu Xiangyu. Yu Yangyi was the only higher-rated player to advance, joining Xiao, Xu and Lu Shanglei in the semifinals. | Photo: Chinese Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-rapid-championship-2026-quarterfinals",
+         "pubDate" : "Thu, 05 Nov 2026 01:15:00",
+         "title" : "Chinese Rapid Championship: Ding Liren and Wang Hao exit in quarterfinals"
+      },
+      {
          "description" : "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the record for the most appearances at Chess Olympiads, having competed in 23 editions. He was also one of the few people to maintain a close friendship with Bobby Fischer over many years. Today, Eugenio Torre celebrates his 75th birthday. | Photo: Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
