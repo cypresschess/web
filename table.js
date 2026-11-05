@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2026-11-01","12","<a href=https://ratings.uschess.org/event/202611010383 target='_blank'>Bellaire Sunday Swiss 2026.11.01</a>",
+"HOUSTON","2026-10-31","9","<a href=https://ratings.uschess.org/event/202610310863 target='_blank'>OCT 31st ADULTS-ONLY SWISS</a>",
 "HOUSTON","2026-10-31","10","<a href=https://ratings.uschess.org/event/202610310213 target='_blank'>chesspanda10312026saturday</a>",
 "SPRING","2026-10-30","18","<a href=https://ratings.uschess.org/event/202610300343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2026-10-30","35","<a href=https://ratings.uschess.org/event/202610300333 target='_blank'>Knights of Cypress</a>",
@@ -98,5 +99,4 @@ jtable([
 "HOUSTON","2026-08-09","19","<a href=https://ratings.uschess.org/event/202608090293 target='_blank'>Bellaire Sunday Swiss 2026.08.09</a>",
 "HOUSTON","2026-08-08","10","<a href=https://ratings.uschess.org/event/202608080363 target='_blank'>chesspanda08082026saturday</a>",
 "CYPRESS","2026-08-07","56","<a href=https://ratings.uschess.org/event/202608070403 target='_blank'>Knights of Cypress</a>",
-"SPRING","2026-08-07","24","<a href=https://ratings.uschess.org/event/202608070373 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
