@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Six players share the lead with 4&frac12; points after five rounds of the Bavarian Chess Championship in Gmund am Tegernsee. The leading group includes three Indian grandmasters and 15-year-old German IM Hussain Besou, who defeated former world junior champion Peter Acs in round five. Top seed Frederik Svane and third seed Alexander Donchenko are among the 31 players trailing the leaders by half a point. | Photo: Finn Engesser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r5",
+         "pubDate" : "Thu, 05 Nov 2026 07:10:00",
+         "title" : "Bavarian Championship: 15-year-old Hussain Besou joins the leaders"
+      },
+      {
          "description" : "Ding Liren and Wang Hao were both eliminated in the quarterfinals of the Chinese Rapid Championship, as three of the four rating favourites failed to reach the last four. Ding lost to Xiao Tong in a blitz tiebreaker, while Wang Hao was defeated by Xu Xiangyu. Yu Yangyi was the only higher-rated player to advance, joining Xiao, Xu and Lu Shanglei in the semifinals. | Photo: Chinese Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
