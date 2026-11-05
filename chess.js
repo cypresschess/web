@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026. In this interview with Devansh Singh, he recalls beating a 12-year-old Gukesh Dommaraju and explains why he considers Javokhir Sindarov the favourite in the World Championship match. He also speaks about his ambitions in chess and the importance of staying psychologically strong. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
+         "pubDate" : "Thu, 05 Nov 2026 16:34:00",
+         "title" : "Suleymenov on Gukesh, Sindarov and the psychological side of chess"
+      },
+      {
          "description" : "Six players share the lead with 4&frac12; points after five rounds of the Bavarian Chess Championship in Gmund am Tegernsee. The leading group includes three Indian grandmasters and 15-year-old German IM Hussain Besou, who defeated former world junior champion Peter Acs in round five. Top seed Frederik Svane and third seed Alexander Donchenko are among the 31 players trailing the leaders by half a point. | Photo: Finn Engesser",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
