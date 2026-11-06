@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135613071.cms\" />Indian Grandmaster Pranav Venkatesh won the Open title at the FIDE World Junior Blitz Championship in Al Ain, UAE, scoring 10.5 points from 13 rounds. The 20-year-old finished a point clear of his closest rivals, adding blitz gold to the rapid silver he won earlier. India's Aamuktha Guntaka finished fifth in the Girls section, while Savitha Shri placed seventh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms",
+         "pubDate" : "Fri, 06 Nov 2026 16:07:50",
+         "title" : "India's 20-year-old chess GM Pranav crowned World Jr Blitz champion"
+      },
+      {
+         "description" : "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion. Both the winner and the runner-up will then qualify for the Candidates Tournament for the classical World Championship. How did this format come about? | Photo: Michal Walusza / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-combined-champion",
+         "pubDate" : "Fri, 06 Nov 2026 15:00:00",
+         "title" : "Who will become the FIDE World Combined Champion?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135605071.cms\" />R Praggnanandhaa expects an exciting World Chess Championship battle between D Gukesh and Javokhir Sindarov, highlighting their recent form and long-standing familiarity. He also said defending the world title brings pressure he cannot fully understand without experiencing it. Meanwhile, Gukesh visited Neem Karoli Baba's ashram ahead of the November 24 title clash in Geneva",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-pressure-is-completely-different-india-no-1-r-praggnanandhaa-on-gukesh-vs-javokhir-sindarov-match/articleshow/135605071.cms",
+         "pubDate" : "Fri, 06 Nov 2026 12:30:59",
+         "title" : "'World Champion pressure is completely different': Pragg on Gukesh-Sindarov match"
+      },
+      {
          "description" : "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions are really made at the board: managing your clock around the critical moments, knowing when to simplify, staying objective about mistakes and recognising the right moment to take a risk. He also covers the psychological side of chess, from not being intimidated by stronger opponents to trusting your own calculation under pressure. A course about the part of chess that opening theory can't teach you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/nov/06/chess-magnus-carlsen-returns-for-budapest-battle-before-sindarov-targets-classical-crown",
          "pubDate" : "Fri, 06 Nov 2026 08:00:47",
          "title" : "Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown"
+      },
+      {
+         "description" : "GM Magnus Carlsen will have the chance to make it three titles in three appearances as chess was confirmed for the 2027 Esports World Cup (EWC) today. The event returns to Riyadh, Saudi Arabia, next summer, with qualification already underway thro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
+         "pubDate" : "Fri, 06 Nov 2026 07:07:46",
+         "title" : "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title"
       },
       {
          "description" : "The 2026 FIDE World Senior Chess Championships are taking place in Vrnjačka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and women's 50+ and 65+ categories. Among the participants are legendary grandmasters Pia Cramling, Kiril Georgiev, Zurab Sturua and former women's world champion Nona Gaprindashvili. Each tournament consists of 11 rounds. | Photo: FIDE",
@@ -415,10 +447,10 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
          "pubDate" : "Tue, 27 Oct 2026 10:28:57",
-         "title" : "English Chess Championships 2026 - Reports"
+         "title" : "English Chess Championships 2026 - Results and Reports"
       },
       {
-         "description" : "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts on November 5 and features a $2,500 prize fund. Crazyhouse is a chess variant in which play...",
+         "description" : "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts&#38;nbsp;November 5&#38;nbsp;and features a&#38;nbsp;$2,500 prize fund, plus a bonus prize: a special 3D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
          "pubDate" : "Fri, 23 Oct 2026 16:08:00",
          "title" : "Niemann Wins Freestyle Friday, Preventing Movahed Repeat"
-      },
-      {
-         "description" : "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&#38;ndash;20, 2027, an eight-player rapid tournament with &#38;euro;300,000 i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
-         "pubDate" : "Fri, 23 Oct 2026 07:11:00",
-         "title" : "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment"
       },
       {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
