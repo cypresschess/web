@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian grandmaster G.N. Gopal has taken the sole lead at the Bavarian Chess Championship in Gmund am Tegernsee, reaching 5&frac12;/6 points after defeating 15-year-old German IM Hussain Besou on Thursday. Twelve players follow half a point behind, including top seed Frederik Svane, who defeated Polish IM Klaudia Kulon. | Photo: Finn Engesser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r6",
+         "pubDate" : "Fri, 06 Nov 2026 08:50:00",
+         "title" : "Bavarian Championship: Gopal emerges as sole leader"
+      },
+      {
+         "description" : " The Norwegian, 35, has set up a training camp in Spain to prepare for the Budapest Total Chess pilot This will be an important month for global chess, with the Total World Championship pilot, combining fast classical, rapid and blitz segments due in Budapest from 10-20 November. This will be followed by the Gukesh Dommaraju v Javokhir Sindarov Salesforce Fide World Championship match in Geneva between 24 November and 12 December, featuring 14 games of classical chess followed, if needed, by rapid and blitz tiebreaks. The traditional London Classic at the Novotel West in Hammersmith will also start on 24 November and will continue until 7 December. <a href=\"https://www.theguardian.com/sport/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/06/chess-magnus-carlsen-returns-for-budapest-battle-before-sindarov-targets-classical-crown",
+         "pubDate" : "Fri, 06 Nov 2026 08:00:47",
+         "title" : "Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown"
+      },
+      {
+         "description" : "The 2026 FIDE World Senior Chess Championships are taking place in Vrnjačka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and women's 50+ and 65+ categories. Among the participants are legendary grandmasters Pia Cramling, Kiril Georgiev, Zurab Sturua and former women's world champion Nona Gaprindashvili. Each tournament consists of 11 rounds. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-championship-2026-r3",
+         "pubDate" : "Fri, 06 Nov 2026 06:50:00",
+         "title" : "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants"
+      },
+      {
          "description" : "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the world title, while Svidler combines extensive top-level experience with a long-standing reputation as a commentator. Their coverage will accompany the 14-game match, which begins on 24 November at the Fondation Martin Bodmer in Cologny. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,22 +74,6 @@ news_feed (
          "title" : "Chinese Rapid Championship: Ding Liren and Wang Hao exit in quarterfinals"
       },
       {
-         "description" : "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the record for the most appearances at Chess Olympiads, having competed in 23 editions. He was also one of the few people to maintain a close friendship with Bobby Fischer over many years. Today, Eugenio Torre celebrates his 75th birthday. | Photo: Reykjavik Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
-         "pubDate" : "Wed, 04 Nov 2026 16:40:00",
-         "title" : "Eugenio Torre: Asia's first grandmaster turns 75"
-      },
-      {
-         "description" : "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across three time controls. The organisers have now announced their broadcast team: Anna Rudolf, Fiona Steil-Antoni, David Howell and Jovanka Houska will cover the tournament, while Levy Rozman, better known as GothamChess, will host a daily highlights show featuring interviews, analysis and special guests.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
-         "pubDate" : "Wed, 04 Nov 2026 08:12:32",
-         "title" : "GothamChess to host new Total Chess highlights show in Budapest"
-      },
-      {
          "description" : "The Gambit Cup, Gambit&#39;s non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all Gambit members. The Gambit Cup i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "Wednesday Workout: World U7-U17 Championships, Pt. 2"
       },
       {
-         "description" : "Denis Lazavik won the KazChess Masters in Almaty with 6&frac12;/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5&frac12;/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9-2",
-         "pubDate" : "Tue, 03 Nov 2026 23:15:00",
-         "title" : "KazChess Masters: Lazavik takes title, Smirnov earns GM norm"
-      },
-      {
          "description" : "The 2026 European Youth Chess Championship kicked off today in Hersonissos, Crete, Greece! The Opening day commenced with the Technical meeting, which took place in one of the playing venues of the event this morning. The Head of Delegations representing delegations from 49 European federations, attended the meeting and were introduced to the rules by the Arbiters team led by the Chief Arbiter Mr. Marco Biagioli. The Opening ceremony of the event took place shortly before the start of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
          "pubDate" : "Tue, 03 Nov 2026 12:45:00",
          "title" : "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London"
-      },
-      {
-         "description" : "The open tournament at this year's English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7&frac12; points out of 9. In round five, he drew with Michael Adams, who also remained undefeated and secured second place, one point behind the winner. In the women's event, Elmira Mirzoeva claimed the title with the same one-point margin over runner-up Anusha Subramanian. | Photos: Official website / Melinda White",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/english-championship-2026-main-tournament",
-         "pubDate" : "Tue, 03 Nov 2026 09:25:00",
-         "title" : "Gawain Maroroa Jones wins English Championship 2026"
       },
       {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
@@ -162,22 +154,6 @@ news_feed (
          "title" : "Tactics Tuesday: World U7-U17 Championships, Pt. 2"
       },
       {
-         "description" : "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the rankings in their respective categories. Meanwhile, Nihal Sarin entered the world top 20 and Hans Niemann dropped below the 2700 mark.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-november-2026",
-         "pubDate" : "Mon, 02 Nov 2026 23:50:00",
-         "title" : "FIDE ratings - November 2026"
-      },
-      {
-         "description" : "With the World Championship match in Geneva just over three weeks away, Jon Speelman considers the prospects of defending champion Gukesh Dommaraju and challenger Javokhir Sindarov. He reflects on the demands of a 14-game match, recent form and the importance of preparation, while revisiting Sindarov's attacking win over Hikaru Nakamura in Saint Louis. Speelman also draws on past Candidates battles to underline the tactical possibilities ahead. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-245",
-         "pubDate" : "Mon, 02 Nov 2026 18:30:00",
-         "title" : "Jon Speelman: Ya-hoo!"
-      },
-      {
          "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -200,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
          "pubDate" : "Mon, 02 Nov 2026 10:06:31",
          "title" : "Challenge the Grand Chess Auto Bots"
-      },
-      {
-         "description" : "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Sandra Schmidt/OIBM",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r2",
-         "pubDate" : "Mon, 02 Nov 2026 06:30:00",
-         "title" : "Bavarian Championship: Few surprises in the opening rounds at Tegernsee"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (consistent with last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2026 grant recipients are:Affiliate NameLocationMVP Chess CenterAlexandria, VAGirl Chess Power and BeyondSugarland, TXChessKids &amp; NNvChessReno, NVKindness On Board FoundationDiamond Bar, CABehind it All FoundationSt. Louis, MORISE ScholarsSan Rafael, CAChess Education FoundationLouisville, KYMinnesota Stat",
@@ -240,14 +208,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-starts-in-crete/",
          "pubDate" : "Sun, 01 Nov 2026 20:31:06",
          "title" : "European Youth Chess Championship 2026 starts in Crete"
-      },
-      {
-         "description" : "Born on 1 November 1906, Vasily Panov was not among the leading Soviet chess players of his generation. However, he was a prominent figure as an author and theoretician. Many players know his name as the inventor of the Panov Attack, which was named after him. Yet Panov's career also had a darker side.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
-         "pubDate" : "Sun, 01 Nov 2026 18:15:00",
-         "title" : "Vasily Panov: An influential theoretician with a dark side"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou...",
@@ -632,14 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
          "pubDate" : "Sat, 17 Oct 2026 00:30:00",
          "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
-      },
-      {
-         "description" : " Newly promoted SPTW were expected to be outclassed in the top division of the 4NCL British League, but proved a revelation She Plays to Win Lionesses, the all-female team which won successive promotions to the first division of Britain's Four Nations Chess League (4NCL), were expected to be outclassed in the top flight, but instead proved the revelation of the opening weekend of the new season. SPTW wanted to continue without male players in the season's 2026-27 renewal, but the league stood by its rule, introduced to promote women's chess, that top division teams must include at least one player of each sex. <a href=\"https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-gir",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/16/chess-world-no-11-anish-giri-leads-she-plays-to-win-women-to-unlikely-victory",
-         "pubDate" : "Fri, 16 Oct 2026 07:00:55",
-         "title" : "Chess: World No 11, Anish Giri, leads She Plays to Win women to unlikely victory"
       }
    ]
 }
