@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions are really made at the board: managing your clock around the critical moments, knowing when to simplify, staying objective about mistakes and recognising the right moment to take a risk. He also covers the psychological side of chess, from not being intimidated by stronger opponents to trusting your own calculation under pressure. A course about the part of chess that opening theory can't teach you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
+         "pubDate" : "Fri, 06 Nov 2026 10:00:00",
+         "title" : "Loek van Wely: 10 Chess Principles That Actually Matter"
+      },
+      {
          "description" : "Indian grandmaster G.N. Gopal has taken the sole lead at the Bavarian Chess Championship in Gmund am Tegernsee, reaching 5&frac12;/6 points after defeating 15-year-old German IM Hussain Besou on Thursday. Twelve players follow half a point behind, including top seed Frederik Svane, who defeated Polish IM Klaudia Kulon. | Photo: Finn Engesser",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
