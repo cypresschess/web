@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the world title, while Svidler combines extensive top-level experience with a long-standing reputation as a commentator. Their coverage will accompany the 14-game match, which begins on 24 November at the Fondation Martin Bodmer in Cologny. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2026-commentators",
+         "pubDate" : "Thu, 05 Nov 2026 23:30:00",
+         "title" : "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match"
+      },
+      {
+         "description" : "Three rounds were played at the European Youth Chess Championship 2026 and only 68 players in the competition of nearly 1250 participants have reached the maximum score of 3/3 points across 12 categories. In the Girls U8 category, six players tie for the top scoring 3/3 points: Anastasia-Sofia Rusu (ROU, 1543), Anna Skrzat (POL), Kalina Pejin (SRB, 1612), Maryna Feseniuk (AUT, 1468), Elif Urgen (TUR) and Melike Eliz Karahan (TUR, 1636). The Open U8 event is led by five players []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-round-3-recap/",
+         "pubDate" : "Thu, 05 Nov 2026 20:57:40",
+         "title" : "European Youth Chess Championship 2026 - Round 3 recap"
+      },
+      {
          "description" : "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026. In this interview with Devansh Singh, he recalls beating a 12-year-old Gukesh Dommaraju and explains why he considers Javokhir Sindarov the favourite in the World Championship match. He also speaks about his ambitions in chess and the importance of staying psychologically strong. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
          "pubDate" : "Thu, 05 Nov 2026 16:34:00",
          "title" : "Suleymenov on Gukesh, Sindarov and the psychological side of chess"
+      },
+      {
+         "description" : "Saint Louis University (SLU) and the University of Texas, Dallas (UTD) are locked in a tight race for first place in the Collegiate Chess League as teams approach the end of the regular season and push for playoff seeding. With most teams having j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ccl-week-6-2026",
+         "pubDate" : "Thu, 05 Nov 2026 12:49:55",
+         "title" : "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs"
       },
       {
          "description" : "Six players share the lead with 4&frac12; points after five rounds of the Bavarian Chess Championship in Gmund am Tegernsee. The leading group includes three Indian grandmasters and 15-year-old German IM Hussain Besou, who defeated former world junior champion Peter Acs in round five. Top seed Frederik Svane and third seed Alexander Donchenko are among the 31 players trailing the leaders by half a point. | Photo: Finn Engesser",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "High Stakes and tied Leaders ahead of European Chess Club Cup 2026 Final Round"
       },
       {
-         "description" : "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
-         "pubDate" : "Thu, 22 Oct 2026 14:54:00",
-         "title" : "Wesley So Wins 4th U.S. Chess Championship"
-      },
-      {
          "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-is-the-point-of-winning-with-a-trap/",
          "pubDate" : "Sat, 17 Oct 2026 13:00:00",
          "title" : "What is the point of winning with a trap?"
-      },
-      {
-         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women were officially declared opened yesterday! The Opening Ceremony of the event took place at the Hotel Complex Slovenska Plaza, starting with musical performances, speeches by officials, and finishing with a spectacular firework show. The Opening ceremony was attended by the Minister of Sports and Youth of Montenegro Mr. Zoran Jojic, Mayor of the Municipality of Budva Mr. Nikola Jovanovic, the ECU President Mr. Zurab Azmaiparashvili, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2026-officially-opened/",
-         "pubDate" : "Sat, 17 Oct 2026 08:57:21",
-         "title" : "European Chess Club Cup 2026 officially opened"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134989688.cms\" />In an exclusive interaction with TimesofIndia.com, China's No. 1 Wei Yi opens up about the exhaustion of competing in his maiden Candidates Tournament, describing the end of the gruelling 14-round event as a relief. The Grandmaster reflects on his performance in Cyprus, the pressures of elite chess, why players sometimes need extended breaks to recover, and more.",
