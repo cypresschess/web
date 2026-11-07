@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5&frac12;/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r7",
+         "pubDate" : "Sat, 07 Nov 2026 15:00:00",
+         "title" : "Bavarian Championship: Sasikiran joins Gopal in the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135638737.cms\" />Reigning World Chess Champion D Gukesh visited Tirumala's Sri Venkateswara Temple to seek blessings ahead of his title defence against Uzbekistan's Javokhir Sindarov. The 14-game championship will take place in Geneva from November 24 to December 12. Both players will be 20, making it the youngest World Championship clash in chess history. The tournament carries a USD 2.5 million prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-visits-famous-tirumala-temple-ahead-of-world-chess-championship-title-defence/articleshow/135638737.cms",
+         "pubDate" : "Sat, 07 Nov 2026 14:40:12",
+         "title" : "Watch: Gukesh visits famous Tirumala temple ahead of World C'ship title defence"
+      },
+      {
+         "description" : "One day I wake up, check chess news and see this headline: GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise I've rarely been this jealous. From since I was 5 years old, I'm a huge Bayern fan. I proudly played for their Bundesliga Chess Team, and try to watch most matches. Harry []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/i-was-jealous-of-gothamchess-then-i-asked-one-question/",
+         "pubDate" : "Sat, 07 Nov 2026 14:00:00",
+         "title" : "I was jealous of GothamChess. Then I asked one question"
+      },
+      {
          "description" : "For a long time, the Petroff Defence had a reputation for being a purely drawish opening - reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how modern players can turn this old reputation to their psychological advantage. Christian H&ouml;the took a close look at the course. | Photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
          "pubDate" : "Sat, 07 Nov 2026 07:00:00",
          "title" : "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski"
+      },
+      {
+         "description" : "NM Janak Awatramani beat GM Guillermo Vazquez 3-0 in the Grand Final to win the 2026 Crazyhouse Championship, following up on his victory in 2024. Crazyhouse, as commentator GM Yasser Seirawan mentioned,&#38;nbsp; is often called &#34;Bughouse for one pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
+         "pubDate" : "Sat, 07 Nov 2026 05:13:00",
+         "title" : "Janak Awatramani Wins His 2nd Crazyhouse Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135613071.cms\" />Indian Grandmaster Pranav Venkatesh won the Open title at the FIDE World Junior Blitz Championship in Al Ain, UAE, scoring 10.5 points from 13 rounds. The 20-year-old finished a point clear of his closest rivals, adding blitz gold to the rapid silver he won earlier. India's Aamuktha Guntaka finished fifth in the Girls section, while Savitha Shri placed seventh.",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup"
       },
       {
-         "description" : "GM Hikaru Nakamura played the GOAT Horns Variation, referencing a recent advertisement featuring soccer star Lionel Messi, on his way to winning the first 3 0 Thursday tournament on October 22. GMs Fabiano Caruana and Parham Maghsoodloo won the se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
-         "pubDate" : "Fri, 23 Oct 2026 16:18:56",
-         "title" : "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday"
-      },
-      {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-commenced-in-budva/",
          "pubDate" : "Sat, 17 Oct 2026 21:25:57",
          "title" : "European Chess Club Cup 2026 commenced in Budva"
-      },
-      {
-         "description" : "I genuinely don't get the point of winning with an opening trap. Let's put aside that it will stop working quicker than the clickbaiters like to admit. When you repeat a memorized line you learned from a YouTube video, what reason do you have to be happy? You did not learn anything. You didn't use []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/what-is-the-point-of-winning-with-a-trap/",
-         "pubDate" : "Sat, 17 Oct 2026 13:00:00",
-         "title" : "What is the point of winning with a trap?"
       }
    ]
 }
