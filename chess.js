@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far from easy and sadly cut short. Today marks the 140th anniversary of his birth. | Photo: J. Graudenz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
+         "pubDate" : "Sat, 07 Nov 2026 20:25:00",
+         "title" : "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer"
+      },
+      {
+         "description" : "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster has endured a more difficult period and slipped down the world rankings. The match therefore presents a different challenge: rediscovering his best form while facing a younger rival who arrives with strong recent results and considerable momentum. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier",
+         "pubDate" : "Sat, 07 Nov 2026 19:20:00",
+         "title" : "The young king faces his toughest challenge"
+      },
+      {
          "description" : "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5&frac12;/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
