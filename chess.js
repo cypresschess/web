@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a long time, the Petroff Defence had a reputation for being a purely drawish opening - reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how modern players can turn this old reputation to their psychological advantage. Christian H&ouml;the took a close look at the course. | Photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
+         "pubDate" : "Sat, 07 Nov 2026 07:00:00",
+         "title" : "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135613071.cms\" />Indian Grandmaster Pranav Venkatesh won the Open title at the FIDE World Junior Blitz Championship in Al Ain, UAE, scoring 10.5 points from 13 rounds. The 20-year-old finished a point clear of his closest rivals, adding blitz gold to the rapid silver he won earlier. India's Aamuktha Guntaka finished fifth in the Girls section, while Savitha Shri placed seventh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
-         "pubDate" : "Fri, 06 Nov 2026 10:00:00",
+         "pubDate" : "Fri, 06 Nov 2026 08:55:00",
          "title" : "Loek van Wely: 10 Chess Principles That Actually Matter"
       },
       {
