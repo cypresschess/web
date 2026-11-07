@@ -18,6 +18,22 @@ news_feed (
          "title" : "Who will become the FIDE World Combined Champion?"
       },
       {
+         "description" : "GM Nodirbek Yakubboev won in a tense final round of Freestyle Friday on November 6 to lock up victory ahead of second-place GM Ian Nepomniachtchi. Both players improved their position in the standings for the Freestyle Friday Championship (FFC), Y...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
+         "pubDate" : "Fri, 06 Nov 2026 14:12:27",
+         "title" : "Yakubboev Continues Freestyle Friday Championship Push"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first victory since March 19. Meanwhil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
+         "pubDate" : "Fri, 06 Nov 2026 12:39:30",
+         "title" : "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135605071.cms\" />R Praggnanandhaa expects an exciting World Chess Championship battle between D Gukesh and Javokhir Sindarov, highlighting their recent form and long-standing familiarity. He also said defending the world title brings pressure he cannot fully understand without experiencing it. Meanwhile, Gukesh visited Neem Karoli Baba's ashram ahead of the November 24 title clash in Geneva",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-championship-2026-r3",
          "pubDate" : "Fri, 06 Nov 2026 06:50:00",
          "title" : "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants"
+      },
+      {
+         "description" : "John D. \"Jay\" Rockefeller IV passed away on Friday; he was 89. A former U.S. senator and governor of West Virginia, he holds a special place in the chess community. Rockefeller sponsored the 2010 Senate resolution officially establishing the second Saturday in October as National Chess Day; until then, the day was in a 1976 presidential proclamation that had no real effect.He was also the father of US Chess Vice President John Rockefeller V, an Executive Board member and former chair of the Scholastic Committee.The former senator wrote a My Best Move piece for the October 2017 Chess Life; we're reprinting it below, and you can see that while he didn't play chess himself, he saw the effect it",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/john-rockefeller-iv-1937-2026",
+         "pubDate" : "Fri, 06 Nov 2026 00:00:00",
+         "title" : "John Rockefeller IV, 1937-2026"
       },
       {
          "description" : "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the world title, while Svidler combines extensive top-level experience with a long-standing reputation as a commentator. Their coverage will accompany the 14-game match, which begins on 24 November at the Fondation Martin Bodmer in Cologny. | Image: FIDE",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Chess.com Crazyhouse Championship 2026 Starts November 5"
       },
       {
-         "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-world-u7-u17-championships-pt-1",
-         "pubDate" : "Tue, 27 Oct 2026 00:00:00",
-         "title" : "Tactics Tuesday: World U7-U17 Championships, Pt. 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday"
       },
       {
-         "description" : "GM Hans Niemann won his third Freestyle Friday on October 23, scoring nine points and defeating last week&#39;s winner, GM Sina Movahed, on tiebreaks, as well as in their individual encounter in round 10. Like Movahed, the win was Niemann&#39;s first in t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
-         "pubDate" : "Fri, 23 Oct 2026 16:08:00",
-         "title" : "Niemann Wins Freestyle Friday, Preventing Movahed Repeat"
-      },
-      {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-is-the-point-of-winning-with-a-trap/",
          "pubDate" : "Sat, 17 Oct 2026 13:00:00",
          "title" : "What is the point of winning with a trap?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134989688.cms\" />In an exclusive interaction with TimesofIndia.com, China's No. 1 Wei Yi opens up about the exhaustion of competing in his maiden Candidates Tournament, describing the end of the gruelling 14-round event as a relief. The Grandmaster reflects on his performance in Cyprus, the pressures of elite chess, why players sometimes need extended breaks to recover, and more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-relief-that-it-was-over-china-no-1-wei-yi-now-chess-olympiad-gold-medallist-reveals-taking-long-break-after-candidates/articleshow/134989688.cms",
-         "pubDate" : "Sat, 17 Oct 2026 00:30:00",
-         "title" : "'A relief that it was over': China No. 1 Wei Yi on 'long break' after Candidates"
       }
    ]
 }
