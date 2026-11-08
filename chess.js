@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-100th-grandmaster-anuj-shrivatri-becomes-first-gm-from-madhya-pradesh/articleshow/135660706.cms",
+         "pubDate" : "Sun, 08 Nov 2026 14:23:03",
+         "title" : "India gets its 100th Grandmaster! Anuj Shrivatri becomes first GM from MP"
+      },
+      {
+         "description" : "Yu Yangyi successfully defended his Chinese Rapid Championship title in Shaoxing, defeating 18-year-old Xiao Tong in an Armageddon decider after six games had failed to separate the finalists. Xiao had previously eliminated Ding Liren and Lu Shanglei in blitz tiebreaks to reach the final. Meanwhile, Lu secured third place by defeating Xu Xiangyu. | Photo: Chinese Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-rapid-championship-2026-final",
+         "pubDate" : "Sun, 08 Nov 2026 13:40:00",
+         "title" : "Yu Yangyi retains Chinese Rapid Championship title after Armageddon decider"
+      },
+      {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -14,8 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
-         "pubDate" : "Sun, 08 Nov 2026 02:41:43",
-         "title" : "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes Second"
+         "pubDate" : "Sun, 08 Nov 2026 02:41:00",
+         "title" : "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes 2nd"
       },
       {
          "description" : "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far from easy and sadly cut short. Today marks the 140th anniversary of his birth. | Photo: J. Graudenz",
