@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-is-halfway-through/",
+         "pubDate" : "Sun, 08 Nov 2026 10:34:17",
+         "title" : "European Youth Chess Championship 2026 is halfway through"
+      },
+      {
+         "description" : "GM Hikaru Nakamura wasted little time reclaiming his place at the top of the Bullet Brawl standings, capturing his 73rd title after finishing ahead of GM Ediz Gurel and GM Parham Maghsoodloo in Saturday&#39;s 225-player arena.&#38;nbsp; Nakamura scored 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
+         "pubDate" : "Sun, 08 Nov 2026 02:41:43",
+         "title" : "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes Second"
+      },
+      {
          "description" : "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far from easy and sadly cut short. Today marks the 140th anniversary of his birth. | Photo: J. Graudenz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-11-breaks-38-year-world-record/",
          "pubDate" : "Sun, 25 Oct 2026 09:58:02",
          "title" : "Bodhana Sivanandan, 11, breaks 38-year world record"
-      },
-      {
-         "description" : "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
-         "pubDate" : "Sat, 24 Oct 2026 20:06:00",
-         "title" : "Another Week, Another Win For Bullet Brawl's GOAT Nakamura"
       },
       {
          "description" : "Here I am, once again realising I've lost my way in the past 6 months. Moving in a direction full speed, convinced it was right, until I realize it and go: what have I been thinking? Until recently, I always felt tremendous guilt after such a period. It felt like I was wasting my life, []",
