@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
-         "pubDate" : "Sat, 07 Nov 2026 15:00:01",
+         "pubDate" : "Sat, 07 Nov 2026 15:00:00",
          "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 28"
       },
       {
