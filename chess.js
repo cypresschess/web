@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandmaster Paco Vallejo, who returns to top-level competition after a lengthy absence. Elisabeth Paehtz, Jos&eacute; Mart&iacute;nez Alc&aacute;ntara and Anastasiia Hnatyshyn complete the lineup. Several side events are also scheduled. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2026-preview",
+         "pubDate" : "Sun, 08 Nov 2026 17:30:00",
+         "title" : "Bodhana Sivanandan joins strong field in Salamanca"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-round-3-recap/",
          "pubDate" : "Tue, 20 Oct 2026 10:52:40",
          "title" : "European Chess Club Cup 2026 - Round 3 recap"
-      },
-      {
-         "description" : "The European Open and Women's Chess Club Cups 2026 are moving forward and the matches are becoming increasingly challenging with each round. Today's second round brought a few surprises. In the Open section, most of the top-seeded teams lived up to expectations and scored convincing wins against the lower-rated underdogs. The rating favourite of the tournament Bayegan Pendik Chess Sports Club (Turkey) won against Crvena Zvezda (Serbia) with a final score of 5-1 as GM Temur Kuybokarov (Crvena Zvezda) defeated []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/round-2-played-at-european-chess-club-cup-2026/",
-         "pubDate" : "Sun, 18 Oct 2026 19:29:00",
-         "title" : "Round 2 played at European Chess Club Cup 2026"
       }
    ]
 }
