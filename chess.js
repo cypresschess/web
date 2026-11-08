@@ -18,6 +18,14 @@ news_feed (
          "title" : "The young king faces his toughest challenge"
       },
       {
+         "description" : "Arizona businessman and amateur chess player Josh Smith (@BulletGrandpa) won a single game against super-GM Daniil Dubov in the final match of the 100-0 Project Season 1 to prevent a super-adoption. The question was whether a super-grandmaster can...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
+         "pubDate" : "Sat, 07 Nov 2026 15:00:01",
+         "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 28"
+      },
+      {
          "description" : "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5&frac12;/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "41st European Club Cup 2026 - Games and Results"
       },
       {
-         "description" : "GM Anish Giri scored a crushing win over GM Nodirbek Abdusattorov as top-seed Bayegan Pendik Chess Sports Club beat defending champion SuperChess Romania 3.5-2.5 to win the 2026 European Chess Club Cup. Novy Bor Chess Club missed out on gold on ti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
-         "pubDate" : "Fri, 23 Oct 2026 17:51:00",
-         "title" : "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup"
-      },
-      {
          "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -656,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/round-2-played-at-european-chess-club-cup-2026/",
          "pubDate" : "Sun, 18 Oct 2026 19:29:00",
          "title" : "Round 2 played at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "The 41st European Chess Club Cup and the 30th European Chess Club Cup for Women&#160;kicked off today in Budva, Montenegro! The record-breaking number of 130 teams (108 in the Open section and 22 teams in the Women's section) gathered today for the start of the first round of the events. The first round of the event was inaugurated after the ECU President Mr. Zurab Azmaiparashvili and Founder and CEO of Superbet Mr. Sacha Dragic played the first ceremonial move in []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2026-commenced-in-budva/",
-         "pubDate" : "Sat, 17 Oct 2026 21:25:57",
-         "title" : "European Chess Club Cup 2026 commenced in Budva"
       }
    ]
 }
