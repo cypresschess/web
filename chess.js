@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135668698.cms\" />Total Chess chief Kjell Madland has defended the pilot tournament's fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and attract wider audiences.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
+         "pubDate" : "Mon, 09 Nov 2026 02:40:58",
+         "title" : "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage"
+      },
+      {
          "description" : "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandmaster Paco Vallejo, who returns to top-level competition after a lengthy absence. Elisabeth Paehtz, Jos&eacute; Mart&iacute;nez Alc&aacute;ntara and Anastasiia Hnatyshyn complete the lineup. Several side events are also scheduled. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
