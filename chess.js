@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Uzbekistan Chess Federation invites you to take part in the 5th International Chess Tournament for the Prize of the President of the Republic of Uzbekistan. It will be held in Tashkent from November 27 to December 7, 2026. It brings together an invited Masters round robin and two open Swiss competitions under a single programme. The prize fund: US $100,000, the registration deadline is November 13, 2026.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/5th-president-cup-tashkent",
+         "pubDate" : "Mon, 09 Nov 2026 16:05:00",
+         "title" : "5th President Cup Tashkent"
+      },
+      {
          "description" : "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7&frac12;/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin also reached 7&frac12; points. All four won their final-round games with the black pieces, bringing an event that attracted 548 participants to a close. | Photo: Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anuj-shrivatri-becomes-indias-100th-chess-grandmaster-full-list-of-all-100-indian-gms/articleshow/135673461.cms",
          "pubDate" : "Mon, 09 Nov 2026 06:28:53",
          "title" : "Anuj Shrivatri becomes India's 100th Grandmaster: Full list of all 100 Indian GMs"
+      },
+      {
+         "description" : "In a new FIDE survey, three in four women and girls who responded had experienced discrimination or harassment in chess settings, while 44% said they had considered leaving the game.&#38;nbsp; Women and girls account for roughly one in six active FID...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
+         "pubDate" : "Mon, 09 Nov 2026 04:56:00",
+         "title" : "3 In 4 Women Surveyed Report Discrimination Or Harassment In Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135668698.cms\" />Total Chess chief Kjell Madland has defended the pilot tournament's fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and attract wider audiences.",
@@ -95,7 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
          "pubDate" : "Sat, 07 Nov 2026 15:00:00",
-         "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 28"
+         "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 29"
       },
       {
          "description" : "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5&frac12;/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
          "pubDate" : "Tue, 27 Oct 2026 10:28:57",
          "title" : "English Chess Championships 2026 - Results and Reports"
-      },
-      {
-         "description" : "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts&#38;nbsp;November 5&#38;nbsp;and features a&#38;nbsp;$2,500 prize fund, plus a bonus prize: a special 3D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
-         "pubDate" : "Tue, 27 Oct 2026 08:00:00",
-         "title" : "Chess.com Crazyhouse Championship 2026 Starts November 5"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
