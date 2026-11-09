@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Uzbekistan Chess Federation invites you to take part in the 5th International Chess Tournament for the Prize of the President of the Republic of Uzbekistan. It will be held in Tashkent from November 27 to December 7, 2026. It brings together an invited Masters round robin and two open Swiss competitions under a single programme. The prize fund: US $100,000, the registration deadline is November 13, 2026.",
+         "description" : "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L. Narayanan. The tournament also saw 16-year-old Viresh Sharnarthi earn his second GM norm in ten days, while 11-year-old Sarbartho Mani secured his first IM norm. Nine title norms were achieved in total. | Photo: Devansh Singh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/5th-president-cup-tashkent",
-         "pubDate" : "Mon, 09 Nov 2026 16:05:00",
-         "title" : "5th President Cup Tashkent"
+         "link" : "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
+         "pubDate" : "Mon, 09 Nov 2026 19:30:00",
+         "title" : "Pranesh wins Chola Chess Open as young talents make their mark"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135689790.cms\" />World No. 1 Magnus Carlsen will headline the 2026 London Chess Classic Super Rapid on December 5-6, alongside India's Nihal Sarin, Maxime Vachier-Lagrave and Anish Giri. The open event offers amateurs a chance to face Carlsen. Also competing are World No. 5 Nodirbek Abdusattorov and prodigy Bodhana Sivanandan, the youngest Woman Grandmaster in history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-set-for-london-chess-classic-super-rapid-who-is-there-from-india/articleshow/135689790.cms",
+         "pubDate" : "Mon, 09 Nov 2026 17:42:18",
+         "title" : "World No. 1 Carlsen set for LCC Super Rapid; who is there from India?"
       },
       {
          "description" : "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7&frac12;/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin also reached 7&frac12; points. All four won their final-round games with the black pieces, bringing an event that attracted 548 participants to a close. | Photo: Sandra Schmidt",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
          "pubDate" : "Mon, 09 Nov 2026 02:40:58",
          "title" : "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage"
+      },
+      {
+         "description" : "IA/IO Carlos Chavez is the Executive Director of the storied Marshall Chess Club in Manhattan, NY. Last month, he served as an arbiter for the 6th Intercontinental Championship for PrisonersHe documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. From October 13-15, FIDE and the Cook County Sheriff's Office held the 6th Intercontinental Championship for Prisoners, hosted online by Chess.com. A record 140 teams representing 56 countries participated across the men's, women's, and youth sections competed across multiple time zones. The goal of the event was to promote chess as a tool for educ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/arbiters-perspective-fide-6th-intercontinental-championship-prisoners",
+         "pubDate" : "Mon, 09 Nov 2026 00:00:00",
+         "title" : "An Arbiter's Perspective: FIDE 6th Intercontinental Championship for Prisoners"
       },
       {
          "description" : "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandmaster Paco Vallejo, who returns to top-level competition after a lengthy absence. Elisabeth Paehtz, Jos&eacute; Mart&iacute;nez Alc&aacute;ntara and Anastasiia Hnatyshyn complete the lineup. Several side events are also scheduled. | Photo: Nils Rohde / ChessBase",
@@ -138,14 +154,6 @@ news_feed (
          "title" : "I was jealous of GothamChess. Then I asked one question"
       },
       {
-         "description" : "For a long time, the Petroff Defence had a reputation for being a purely drawish opening - reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how modern players can turn this old reputation to their psychological advantage. Christian H&ouml;the took a close look at the course. | Photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
-         "pubDate" : "Sat, 07 Nov 2026 07:00:00",
-         "title" : "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski"
-      },
-      {
          "description" : "NM Janak Awatramani beat GM Guillermo Vazquez 3-0 in the Grand Final to win the 2026 Crazyhouse Championship, following up on his victory in 2024. Crazyhouse, as commentator GM Yasser Seirawan mentioned,&#38;nbsp; is often called &#34;Bughouse for one pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms",
          "pubDate" : "Fri, 06 Nov 2026 16:07:50",
          "title" : "India's 20-year-old chess GM Pranav crowned World Jr Blitz champion"
-      },
-      {
-         "description" : "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion. Both the winner and the runner-up will then qualify for the Candidates Tournament for the classical World Championship. How did this format come about? | Photo: Michal Walusza / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-world-ch-2026-combined-champion",
-         "pubDate" : "Fri, 06 Nov 2026 15:00:00",
-         "title" : "Who will become the FIDE World Combined Champion?"
       },
       {
          "description" : "GM Nodirbek Yakubboev won in a tense final round of Freestyle Friday on November 6 to lock up victory ahead of second-place GM Ian Nepomniachtchi. Both players improved their position in the standings for the Freestyle Friday Championship (FFC), Y...",
@@ -194,22 +194,6 @@ news_feed (
          "title" : "'World Champion pressure is completely different': Pragg on Gukesh-Sindarov match"
       },
       {
-         "description" : "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions are really made at the board: managing your clock around the critical moments, knowing when to simplify, staying objective about mistakes and recognising the right moment to take a risk. He also covers the psychological side of chess, from not being intimidated by stronger opponents to trusting your own calculation under pressure. A course about the part of chess that opening theory can't teach you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
-         "pubDate" : "Fri, 06 Nov 2026 08:55:00",
-         "title" : "Loek van Wely: 10 Chess Principles That Actually Matter"
-      },
-      {
-         "description" : "Indian grandmaster G.N. Gopal has taken the sole lead at the Bavarian Chess Championship in Gmund am Tegernsee, reaching 5&frac12;/6 points after defeating 15-year-old German IM Hussain Besou on Thursday. Twelve players follow half a point behind, including top seed Frederik Svane, who defeated Polish IM Klaudia Kulon. | Photo: Finn Engesser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r6",
-         "pubDate" : "Fri, 06 Nov 2026 08:50:00",
-         "title" : "Bavarian Championship: Gopal emerges as sole leader"
-      },
-      {
          "description" : " The Norwegian, 35, has set up a training camp in Spain to prepare for the Budapest Total Chess pilot November will be an important month for global chess, with the Total World Championship pilot, combining fast classical, rapid and blitz segments due in Budapest from 10-20 November. This will be followed by the Gukesh Dommaraju v Javokhir Sindarov Fide World Championship match in Geneva between 24 November and 12 December, featuring 14 games of classical chess ­followed, if needed, by rapid and blitz tie-breaks. The traditional London Classic at the Novotel West in Hammersmith will also start on 24 November and will continue until 7 December. <a href=\"https://www.theguardian.com/sport/2026/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -226,28 +210,12 @@ news_feed (
          "title" : "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title"
       },
       {
-         "description" : "The 2026 FIDE World Senior Chess Championships are taking place in VrnjaÄka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and women's 50+ and 65+ categories. Among the participants are legendary grandmasters Pia Cramling, Kiril Georgiev, Zurab Sturua and former women's world champion Nona Gaprindashvili. Each tournament consists of 11 rounds. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-championship-2026-r3",
-         "pubDate" : "Fri, 06 Nov 2026 06:50:00",
-         "title" : "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants"
-      },
-      {
          "description" : "John D. \"Jay\" Rockefeller IV passed away on Friday; he was 89. A former U.S. senator and governor of West Virginia, he holds a special place in the chess community. Rockefeller sponsored the 2010 Senate resolution officially establishing the second Saturday in October as National Chess Day; until then, the day was in a 1976 presidential proclamation that had no real effect.He was also the father of US Chess Vice President John Rockefeller V, an Executive Board member and former chair of the Scholastic Committee.The former senator wrote a My Best Move piece for the October 2017 Chess Life; we're reprinting it below, and you can see that while he didn't play chess himself, he saw the effect it",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/john-rockefeller-iv-1937-2026",
          "pubDate" : "Fri, 06 Nov 2026 00:00:00",
          "title" : "John Rockefeller IV, 1937-2026"
-      },
-      {
-         "description" : "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the world title, while Svidler combines extensive top-level experience with a long-standing reputation as a commentator. Their coverage will accompany the 14-game match, which begins on 24 November at the Fondation Martin Bodmer in Cologny. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2026-commentators",
-         "pubDate" : "Thu, 05 Nov 2026 23:30:00",
-         "title" : "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match"
       },
       {
          "description" : "Three rounds were played at the European Youth Chess Championship 2026 and only 68 players in the competition of nearly 1250 participants have reached the maximum score of 3/3 points across 12 categories. In the Girls U8 category, six players tie for the top scoring 3/3 points: Anastasia-Sofia Rusu (ROU, 1543), Anna Skrzat (POL), Kalina Pejin (SRB, 1612), Maryna Feseniuk (AUT, 1468), Elif Urgen (TUR) and Melike Eliz Karahan (TUR, 1636). The Open U8 event is led by five players []",
@@ -258,36 +226,12 @@ news_feed (
          "title" : "European Youth Chess Championship 2026 - Round 3 recap"
       },
       {
-         "description" : "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026. In this interview with Devansh Singh, he recalls beating a 12-year-old Gukesh Dommaraju and explains why he considers Javokhir Sindarov the favourite in the World Championship match. He also speaks about his ambitions in chess and the importance of staying psychologically strong. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
-         "pubDate" : "Thu, 05 Nov 2026 16:34:00",
-         "title" : "Suleymenov on Gukesh, Sindarov and the psychological side of chess"
-      },
-      {
          "description" : "Saint Louis University (SLU) and the University of Texas, Dallas (UTD) are locked in a tight race for first place in the Collegiate Chess League as teams approach the end of the regular season and push for playoff seeding. With most teams having j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ccl-week-6-2026",
          "pubDate" : "Thu, 05 Nov 2026 12:49:55",
          "title" : "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs"
-      },
-      {
-         "description" : "Six players share the lead with 4&frac12; points after five rounds of the Bavarian Chess Championship in Gmund am Tegernsee. The leading group includes three Indian grandmasters and 15-year-old German IM Hussain Besou, who defeated former world junior champion Peter Acs in round five. Top seed Frederik Svane and third seed Alexander Donchenko are among the 31 players trailing the leaders by half a point. | Photo: Finn Engesser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r5",
-         "pubDate" : "Thu, 05 Nov 2026 07:10:00",
-         "title" : "Bavarian Championship: 15-year-old Hussain Besou joins the leaders"
-      },
-      {
-         "description" : "Ding Liren and Wang Hao were both eliminated in the quarterfinals of the Chinese Rapid Championship, as three of the four rating favourites failed to reach the last four. Ding lost to Xiao Tong in a blitz tiebreaker, while Wang Hao was defeated by Xu Xiangyu. Yu Yangyi was the only higher-rated player to advance, joining Xiao, Xu and Lu Shanglei in the semifinals. | Photo: Chinese Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-rapid-championship-2026-quarterfinals",
-         "pubDate" : "Thu, 05 Nov 2026 01:15:00",
-         "title" : "Chinese Rapid Championship: Ding Liren and Wang Hao exit in quarterfinals"
       },
       {
          "description" : "The Gambit Cup, Gambit&#39;s non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all Gambit members. The Gambit Cup i...",
@@ -592,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
          "pubDate" : "Wed, 28 Oct 2026 10:30:14",
          "title" : "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?"
-      },
-      {
-         "description" : "This week begins a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-world-u7-u17-championships-pt-1",
-         "pubDate" : "Wed, 28 Oct 2026 00:00:00",
-         "title" : "Wednesday Workout: World U7-U17 Championships, Pt. 1"
       },
       {
          "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,...",
