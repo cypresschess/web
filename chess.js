@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7&frac12;/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin also reached 7&frac12; points. All four won their final-round games with the black pieces, bringing an event that attracted 548 participants to a close. | Photo: Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r9",
+         "pubDate" : "Mon, 09 Nov 2026 08:30:00",
+         "title" : "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673988.cms\" />Anuj Shrivatri has made history by becoming India's 100th Grandmaster while competing in the Philippines. His journey, which began in childhood under the influence of his father's fascination with chess, had seen multiple unsuccessful attempts before this triumph. As he celebrates this remarkable milestone, Shrivatri is committed to honing his skills and aims to dominate in more chess tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rejected-a-job-offer-for-chess-now-indias-100th-grandmaster-how-anuj-shrivatri-became-madhya-pradeshs-first-gm/articleshow/135673988.cms",
+         "pubDate" : "Mon, 09 Nov 2026 07:00:02",
+         "title" : "Rejected a job offer for chess, now India's 100th Grandmaster: How Anuj Shrivatri became a GM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673461.cms\" />Celebrating a monumental achievement, India now boasts its 100th Grandmaster, Anuj Shrivatri, who secured this prestigious title at the 7th ASEAN Plus Individual Open Chess Championship held in the Philippines. Anuj showcased exceptional resilience, finishing with seven points after a rocky start in his first game. This achievement underscores the remarkable evolution of Indian chess since Viswanathan Anand first paved the way in 1988, highlighting the sport's rising international stature.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anuj-shrivatri-becomes-indias-100th-chess-grandmaster-full-list-of-all-100-indian-gms/articleshow/135673461.cms",
+         "pubDate" : "Mon, 09 Nov 2026 06:28:53",
+         "title" : "Anuj Shrivatri becomes India's 100th Grandmaster: Full list of all 100 Indian GMs"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135668698.cms\" />Total Chess chief Kjell Madland has defended the pilot tournament's fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and attract wider audiences.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
