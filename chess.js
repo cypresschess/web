@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 - the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20 November. The field is strong, the format is complicated, and ChessBase has gone through the Total Chess webpage in an attempt to understand it. However, it is unclear whether all the rules have been correctly understood and reproduced. The following information is therefore provided without guarantee of accuracy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-format",
+         "pubDate" : "Tue, 10 Nov 2026 08:10:00",
+         "title" : "Total Chess - totally complicated"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135698082.cms\" />With the celebration of 100 Grandmasters in India, Anuj Shrivatri stands as the newest star. While reaching the Grandmaster title is commendable, certain players manipulate rules to safeguard their ratings. Currently, only a few maintain an Elo rating above 2500, exposing the fierce competition. The ongoing scarcity of sponsorship and support for chess talents is a pressing issue, which contrasts sharply with better-resourced nations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
-         "pubDate" : "Mon, 09 Nov 2026 19:15:07",
+         "pubDate" : "Mon, 09 Nov 2026 19:15:00",
          "title" : "Anuj Shrivatri Becomes India's 100th Grandmaster"
       },
       {
