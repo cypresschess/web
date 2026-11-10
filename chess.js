@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960. Unfortunately, he suffered from health problems throughout his life and died at a relatively young age. | Tal giving a simultaneous exhibition in 1977 (Photo: Miass City Museum Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-mikhail-tal",
+         "pubDate" : "Mon, 09 Nov 2026 22:50:00",
+         "title" : "Remembering Mikhail Tal"
+      },
+      {
          "description" : "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L. Narayanan. The tournament also saw 16-year-old Viresh Sharnarthi earn his second GM norm in ten days, while 11-year-old Sarbartho Mani secured his first IM norm. Nine title norms were achieved in total. | Photo: Devansh Singh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
          "pubDate" : "Mon, 09 Nov 2026 02:40:58",
          "title" : "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage"
+      },
+      {
+         "description" : "The US Chess Federation (US Chess) will hold an election in 2027 for four at-large positions on the Executive Board. The top four vote-getters will be elected for a term of four years expiring in 2031.Any current US Chess member who is not a current US Chess employee or designated contractor (as defined in the US Chess bylaws) may be nominated for election to the Executive Board.Nominations must be made by submitting a petition containing the signatures of 50 or more members of US Chess who are either registered or eligible to register to vote, and by paying a $100 filing fee to the US Chess Federation.The members signing the nomination petition must include at least 15 US Chess delegates (a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2027-us-chess-executive-board-election",
+         "pubDate" : "Mon, 09 Nov 2026 00:00:00",
+         "title" : "2027 US Chess Executive Board Election"
       },
       {
          "description" : "IA/IO Carlos Chavez is the Executive Director of the storied Marshall Chess Club in Manhattan, NY. Last month, he served as an arbiter for the 6th Intercontinental Championship for PrisonersHe documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. From October 13-15, FIDE and the Cook County Sheriff's Office held the 6th Intercontinental Championship for Prisoners, hosted online by Chess.com. A record 140 teams representing 56 countries participated across the men's, women's, and youth sections competed across multiple time zones. The goal of the event was to promote chess as a tool for educ",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
          "pubDate" : "Thu, 29 Oct 2026 07:46:00",
          "title" : "⚽ GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise"
-      },
-      {
-         "description" : "When US Chess Vice President John D. Rockefeller V reached out to me to help organize a chess exhibition at a National Squash League (NSL) event, I knew right away I was all in. I used to organize tennis outings at U.S. Opens during my time at US Chess, and, of course, other chess hybrids like chess boxing have become very popular. US Chess was even organizing an exhibition with USA Fencing until COVID put the kibosh on that. Rockefeller's son John is an accomplished squash player who lost a tough match this past spring to Timmy Brownell, the highest-ranked American player ever at world-number 23. Rockefeller was intrigued, when listening to Brownell's episode on the Squash University Podcas",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/bughouse-blindfold-and-more-national-squash-league-collaboration",
-         "pubDate" : "Thu, 29 Oct 2026 00:00:00",
-         "title" : "Bughouse, Blindfold, and More at National Squash League Collaboration"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu started at the bottom, but now he&#39;s at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car...",
