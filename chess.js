@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our database program - used by everyone, from the World Champion to lowly club players - is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or €99.95 per year. Make sure you don't miss the launch of a new era in chess study on the Mac.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-mac",
+         "pubDate" : "Tue, 10 Nov 2026 12:58:26",
+         "title" : "ChessBase for Mac"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135706544.cms\" />Russian Grandmaster Peter Svidler has given Javokhir Sindarov a narrow 55-45 edge over reigning champion D Gukesh ahead of their November 24 title clash in Geneva. Svidler cautioned against underestimating Gukesh, citing his strength and experience. The 14-game contest will be historic, with both players aged 20, and carries a $2.5 million prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/55-45-for-javokhir-sindarov-russian-gm-peter-svidler-gives-world-chess-cship-challenger-narrow-edge-over-d-gukesh/articleshow/135706544.cms",
+         "pubDate" : "Tue, 10 Nov 2026 11:05:47",
+         "title" : "'55-45 for Javokhir': Russian GM gives Sindarov narrow edge over Gukesh"
+      },
+      {
          "description" : "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 - the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20 November. The field is strong, the format is complicated, and ChessBase has gone through the Total Chess webpage in an attempt to understand it. However, it is unclear whether all the rules have been correctly understood and reproduced. The following information is therefore provided without guarantee of accuracy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.europechess.org/two-rounds-to-go-at-european-chess-club-cup-2026/",
          "pubDate" : "Thu, 22 Oct 2026 09:34:25",
          "title" : "Two rounds to go at European Chess Club Cup 2026"
-      },
-      {
-         "description" : "Three rounds were played at the European Chess Club Cup 2026 in Budva, Montenegro, and only 11 teams remained perfect in the Open section, while only two teams score maximum in the Women's event. Yesterday's third round saw all the top players joining their teams, and the teams scoring 6 match points (each) in the Open competition are: Vugar Gashimov (Azerbaijan), Bayegan Pendik Chess Sports Club (Turkey), Alkaloid (North Macedonia), Tuxera Aquaprofit Nagykanizsai (Hungary), SuperChess (Romania), Aix-en-Provence (France), Rishon LeZion []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2026-round-3-recap/",
-         "pubDate" : "Tue, 20 Oct 2026 10:52:40",
-         "title" : "European Chess Club Cup 2026 - Round 3 recap"
       }
    ]
 }
