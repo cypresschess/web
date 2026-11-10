@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135698082.cms\" />With the celebration of 100 Grandmasters in India, Anuj Shrivatri stands as the newest star. While reaching the Grandmaster title is commendable, certain players manipulate rules to safeguard their ratings. Currently, only a few maintain an Elo rating above 2500, exposing the fierce competition. The ongoing scarcity of sponsorship and support for chess talents is a pressing issue, which contrasts sharply with better-resourced nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-gms-100-and-counting-why-becoming-a-grandmaster-is-now-just-a-tiny-step/articleshow/135698082.cms",
+         "pubDate" : "Tue, 10 Nov 2026 03:44:16",
+         "title" : "India's chess GMs: 100 and counting - Why becoming a GM is now just a tiny step"
+      },
+      {
          "description" : "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960. Unfortunately, he suffered from health problems throughout his life and died at a relatively young age. | Tal giving a simultaneous exhibition in 1977 (Photo: Miass City Museum Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
          "pubDate" : "Mon, 09 Nov 2026 19:30:00",
          "title" : "Pranesh wins Chola Chess Open as young talents make their mark"
+      },
+      {
+         "description" : "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country&#39;s 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an opening-round defeat to finish alone in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
+         "pubDate" : "Mon, 09 Nov 2026 19:15:07",
+         "title" : "Anuj Shrivatri Becomes India's 100th Grandmaster"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135689790.cms\" />World No. 1 Magnus Carlsen will headline the 2026 London Chess Classic Super Rapid on December 5-6, alongside India's Nihal Sarin, Maxime Vachier-Lagrave and Anish Giri. The open event offers amateurs a chance to face Carlsen. Also competing are World No. 5 Nodirbek Abdusattorov and prodigy Bodhana Sivanandan, the youngest Woman Grandmaster in history.",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
          "pubDate" : "Tue, 27 Oct 2026 21:16:00",
          "title" : "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa"
-      },
-      {
-         "description" : "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
-         "pubDate" : "Tue, 27 Oct 2026 12:50:43",
-         "title" : "'W' Is For Woodward Wins Titled Tuesday"
       },
       {
          "description" : "",
