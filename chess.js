@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (Blitz: 3 min + 2 sec per move, starting from move 1 Rapid: 15 min + 10 sec per move, starting from move 1 Fast Classic: 45 min + 30 sec per move, starting from move 1) Players: Magnus Carlsen, Fabiano Caruana, Wesley So, Vincent Keymer, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu, Arjun Erigaisi, Anish Giri, Alireza Firouzja, Jan-Krzysztof Duda, Quang Liem Le, Richard Rapport, Levon Aronian, Hans Moke Niemann, Shakhriyar Mamedyarov, ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
+         "pubDate" : "Tue, 10 Nov 2026 15:35:00",
+         "title" : "Total Chess Pilot 2026 - Games and Results"
+      },
+      {
+         "description" : " The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vladimir Fedoseev, Jorden van Foreest, Aravindh Chithambaram, Matthias Bluebaum, Yagiz Kaan Erdogmus, Thai Dai Van Nguyen. Challengers: Velimir Ivic, Erwin l'Ami, Aydin Suleymanli, Marc'Andria Maurizzi, Andy Woodward, Vasyl Ivanchuk, Daniil Yuffa, Max Warmerdam, Faustino Oro, Bibisara Assaubayeva, Carissa Yip, Lu Miaoyi, Vedant Panesar, Eline Roebers. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
+         "pubDate" : "Tue, 10 Nov 2026 15:28:00",
+         "title" : "89th Tata Steel 2027 - Games and Results"
+      },
+      {
          "description" : "Our database program - used by everyone, from the World Champion to lowly club players - is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or €99.95 per year. Make sure you don't miss the launch of a new era in chess study on the Mac.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-format",
          "pubDate" : "Tue, 10 Nov 2026 08:10:00",
          "title" : "Total Chess - totally complicated"
+      },
+      {
+         "description" : "GM Hikaru Nakamura, one of the game&#39;s leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess to new audiences through s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
+         "pubDate" : "Tue, 10 Nov 2026 08:02:08",
+         "title" : "Hikaru Nakamura Renews With Chess.com"
+      },
+      {
+         "description" : "It&#39;s now just two weeks until the Salesforce FIDE World Championship 2026 sees GM Javokhir Sindarov take on World Champion Gukesh Dommaraju for the most important title in chess. On the eve of that showdown in Geneva, we look at some of the predic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
+         "pubDate" : "Tue, 10 Nov 2026 07:46:00",
+         "title" : "Gukesh-Sindarov Predictions: Kasparov, Nakamura, Carlsen & More"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135698082.cms\" />With the celebration of 100 Grandmasters in India, Anuj Shrivatri stands as the newest star. While reaching the Grandmaster title is commendable, certain players manipulate rules to safeguard their ratings. Currently, only a few maintain an Elo rating above 2500, exposing the fierce competition. The ongoing scarcity of sponsorship and support for chess talents is a pressing issue, which contrasts sharply with better-resourced nations.",
@@ -570,28 +602,12 @@ news_feed (
          "title" : "Praggnanandhaa Jumps From Last To 1st With Hat Trick"
       },
       {
-         "description" : "For the second month in a row, 9z Globant won the Chess Club Showdown on October 28, once again defeating Team Liquid in the finals. They were the two highest-scoring teams after a two-hour arena of five-minute blitz games. In the finals, 50 playe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oro-taher-lead-9z-globant-to-victory-in-october-chess-club-showdown",
-         "pubDate" : "Wed, 28 Oct 2026 14:33:00",
-         "title" : "Oro, Taher Lead 9z Globant To Victory In October Chess Club Showdown"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
          "pubDate" : "Wed, 28 Oct 2026 10:30:14",
          "title" : "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?"
-      },
-      {
-         "description" : "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
-         "pubDate" : "Tue, 27 Oct 2026 21:16:00",
-         "title" : "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa"
       },
       {
          "description" : "",
