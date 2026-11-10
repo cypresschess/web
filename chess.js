@@ -26,6 +26,30 @@ news_feed (
          "title" : "ChessBase for Mac"
       },
       {
+         "description" : "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon Aronian third (6 points). The tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
+         "pubDate" : "Tue, 10 Nov 2026 12:22:12",
+         "title" : "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot"
+      },
+      {
+         "description" : "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was ultimately Movahed who grabbed firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
+         "pubDate" : "Tue, 10 Nov 2026 12:00:00",
+         "title" : "Movahed Stays Strong Ahead of Speed Chess Championship"
+      },
+      {
+         "description" : "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced for the Masters and Challenger...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
+         "pubDate" : "Tue, 10 Nov 2026 11:40:58",
+         "title" : "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135706544.cms\" />Russian Grandmaster Peter Svidler has given Javokhir Sindarov a narrow 55-45 edge over reigning champion D Gukesh ahead of their November 24 title clash in Geneva. Svidler cautioned against underestimating Gukesh, citing his strength and experience. The 14-game contest will be historic, with both players aged 20, and carries a $2.5 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-gms-100-and-counting-why-becoming-a-grandmaster-is-now-just-a-tiny-step/articleshow/135698082.cms",
          "pubDate" : "Tue, 10 Nov 2026 03:44:16",
          "title" : "India's chess GMs: 100 and counting - Why becoming a GM is now just a tiny step"
+      },
+      {
+         "description" : "This week's exercises comes from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-clutch-chess-champions-showdown",
+         "pubDate" : "Tue, 10 Nov 2026 00:00:00",
+         "title" : "Tactics Tuesday: 2026 Clutch Chess Champions Showdown"
       },
       {
          "description" : "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960. Unfortunately, he suffered from health problems throughout his life and died at a relatively young age. | Tal giving a simultaneous exhibition in 1977 (Photo: Miass City Museum Archive)",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
       },
       {
-         "description" : "When girls walk into a room and see male-identifying competitors constitute the overwhelming majority, they can feel alienated and unwelcome. Rooks and Roots, co-founded by WGM Iris Mou and Lisa Sun, works to combat this issue in both the math and chess worlds. Earlier this year, Rooks and Roots made use of a US Chess Women's Grant to plan, coordinate, and organize a free chess festival for 60 girls in New York City. As a nonprofit dedicated to creating a welcoming and social environment for girls to connect to fellow girls in their areas of interest, over 580 girls from almost 50 New York City schools participated in Rooks and Roots' activities. In the 2025-2026 school year, over 300 girls ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rooks-and-roots-promotes-mentorship-inclusivity-girls-chess",
-         "pubDate" : "Fri, 30 Oct 2026 00:00:00",
-         "title" : "Rooks and Roots Promotes Mentorship, Inclusivity for Girls in Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Wednesday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -576,30 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
          "pubDate" : "Thu, 29 Oct 2026 13:59:00",
          "title" : "🏆 Sindarov Plays Game Of Tournament, Wins Final Event Before World Championship"
-      },
-      {
-         "description" : "Istanbul, T&#38;uuml;rkiye, will host the 2026 FIDE World Rapid &#38;amp; Blitz Championships from December 26-30, FIDE announced on Thursday. GMs Magnus Carlsen, Aleksandra Goryachkina, and Bibisara Assaubayeva are the defending champions heading into th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
-         "pubDate" : "Thu, 29 Oct 2026 13:03:56",
-         "title" : "Istanbul To Host 2026 World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&#38;rsquo;Or in London. On Thursd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
-         "pubDate" : "Thu, 29 Oct 2026 07:46:00",
-         "title" : "⚽ GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu started at the bottom, but now he&#39;s at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
-         "pubDate" : "Wed, 28 Oct 2026 18:01:00",
-         "title" : "Praggnanandhaa Jumps From Last To 1st With Hat Trick"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
