@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135725387.cms\" />India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event. One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-women-vs-elite-gms-vaishali-answers-with-wins-over-so-niemann-as-carlsen-strikes-first/articleshow/135725387.cms",
+         "pubDate" : "Wed, 11 Nov 2026 04:18:44",
+         "title" : "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann"
+      },
+      {
          "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
