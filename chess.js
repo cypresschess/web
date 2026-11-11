@@ -50,6 +50,14 @@ news_feed (
          "title" : "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot"
       },
       {
+         "description" : "AAce_Cracker, a veteran who has played nearly 60,000 hands of poker on Gambit.com (where he was named Player of the Month in August and September), won the second special edition of the Gambit Cup, held on November 9. He outlasted a field of 1,359...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aace-cracker-wins-2026-gambit-cup-2",
+         "pubDate" : "Tue, 10 Nov 2026 12:15:00",
+         "title" : "AAce_Cracker Stages Comeback In 2nd Gambit Cup"
+      },
+      {
          "description" : "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was ultimately Movahed who grabbed firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
          "pubDate" : "Thu, 29 Oct 2026 16:16:07",
          "title" : "English Championships final round change of timing - important!"
-      },
-      {
-         "description" : "GM Javokhir Sindarov won the second edition of Clutch Chess: Champions Showdown 2026 with a final score of 20.5 points after three days. He earned $168,000 (including bonuses) and played the game of the tournament against GM Hikaru Nakamura along ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
-         "pubDate" : "Thu, 29 Oct 2026 13:59:00",
-         "title" : "🏆 Sindarov Plays Game Of Tournament, Wins Final Event Before World Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
