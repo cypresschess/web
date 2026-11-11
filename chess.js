@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
-         "pubDate" : "Wed, 11 Nov 2026 08:00:26",
+         "pubDate" : "Wed, 11 Nov 2026 08:00:00",
          "title" : "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight"
       },
       {
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-women-vs-elite-gms-vaishali-answers-with-wins-over-so-niemann-as-carlsen-strikes-first/articleshow/135725387.cms",
          "pubDate" : "Wed, 11 Nov 2026 04:18:44",
          "title" : "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann"
+      },
+      {
+         "description" : "This week's exercises come from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Check out even more exercises from this tournament in yesterday's more beginner-friendly Tactics Tuesday worksheet. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2026-clutch-chess-champions-showdown",
+         "pubDate" : "Wed, 11 Nov 2026 00:00:00",
+         "title" : "Wednesday Workout: 2026 Clutch Chess Champions Showdown"
       },
       {
          "description" : "Third-party vendors are overloading our data system, causing frequent issues for Tournament Directors (TDs) and players submitting tournaments and affecting our entire tournament system. Therefore, we have made a decision to lower the API usage limits on a temporary basis until we can adequately control and allocate system resources. US Chess will always prioritize TDs and players over automated third-party requests for our data. We will also be releasing a data usage policy and agreement, setting out our plan to work with and manage other sites, users, and vendors.Thank you for your patience and attention to this matter.",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "India's chess GMs: 100 and counting - Why becoming a GM is now just a tiny step"
       },
       {
-         "description" : "This week's exercises comes from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "description" : "This week's exercises come from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-clutch-chess-champions-showdown",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-23-2026-27-grants",
          "pubDate" : "Mon, 02 Nov 2026 00:00:00",
          "title" : "US Chess Women's Program Awards 23 2026-27 Grants"
-      },
-      {
-         "description" : "You get an itch to push a little wood. Your fast review - online at the US Chess Site - of nearby events for the upcoming weekend revealed exactly what fills the bill: The Chessboard Open. The entry fee is a mere $20. The four round schedule sets games ASAP (as soon as possible) starting at 9 a.m.. The time control is G/30 with no delay or increment. And check out those prizes: $50 - $30 - $25. This little event will scratch your itch. You arrive at the site, which turns out to be a couple of rooms in the community center. The TD takes your cash and processes your entry. He notes that you are the top dog so far. Your rating outdistances most of the other players. There are a few chaps close ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-extra-round",
-         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
-         "title" : "Just the Rules: An Extra Round?"
       },
       {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
