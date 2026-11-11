@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant will play two games per day - a total of 24 games featuring world-class players per day. The time control is Fast Classic (45+30). A win earns three points, a draw one and a loss none. Keymer faces Pragg in Group B, while Carlsen takes on Giri in Group C. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Wed, 11 Nov 2026 14:45:00",
+         "title" : "Total Chess live: The group stage begins - things get serious"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135736478.cms\" />Indian Grandmaster Vaishali Rameshbabu impressed at the Total Chess World Championship Tour Pilot in Budapest, defeating Hans Niemann and Wesley So in the blitz event. She scored four points from nine rounds and looks forward to the challenging group stage. Meanwhile, Magnus Carlsen won the blitz event unbeaten with seven points, securing an early tournament advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-looking-forward-to-be-in-magnus-carlsens-group-vaishali-after-winning-two-blitz-games-against-super-gms/articleshow/135736478.cms",
+         "pubDate" : "Wed, 11 Nov 2026 12:49:13",
+         "title" : "'I was looking forward to Magnus's group': Vaishali after blitz wins over super GMs"
+      },
+      {
          "description" : "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In under two minutes, our Mac developer Stefan Raetzke von Stoyentin explains whether and how you can keep using your existing ChessBase databases on a Mac.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "What happens with my databases? - ChessBase on Mac"
       },
       {
+         "description" : "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
+         "pubDate" : "Wed, 11 Nov 2026 08:00:26",
+         "title" : "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135725387.cms\" />India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event. One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-women-vs-elite-gms-vaishali-answers-with-wins-over-so-niemann-as-carlsen-strikes-first/articleshow/135725387.cms",
          "pubDate" : "Wed, 11 Nov 2026 04:18:44",
          "title" : "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann"
+      },
+      {
+         "description" : "Third-party vendors are overloading our data system, causing frequent issues for Tournament Directors (TDs) and players submitting tournaments and affecting our entire tournament system. Therefore, we have made a decision to lower the API usage limits on a temporary basis until we can adequately control and allocate system resources. US Chess will always prioritize TDs and players over automated third-party requests for our data. We will also be releasing a data usage policy and agreement, setting out our plan to work with and manage other sites, users, and vendors.Thank you for your patience and attention to this matter.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-api-limits-lowered",
+         "pubDate" : "Wed, 11 Nov 2026 00:00:00",
+         "title" : "US Chess API Limits Lowered"
       },
       {
          "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
@@ -506,14 +538,6 @@ news_feed (
          "title" : "Just the Rules: An Extra Round?"
       },
       {
-         "description" : "Check is in the Mail November 2026As previously reported, the 2025 Absolute Championship concluded on September 29, 2026, with five players tied for first at 6&frac12;/12. Those players are:CCM Tim Corkum - 2nd title (2025 and 2022)CCM Danny Horwitz - 3rd title (2025, 2021, and 2016)SIM Harry Ingersol - 4th title (2025, 2019, 2017, and 2010)CCM Gordon Magat - 1st title (2025)CCM John Walton - 2nd title (2025 and 2022)The 13-player field also included former Absolute Champions John Millett (2023), Timothy Harris (2024), Kristo Miettinen (2015), and David Sogin (2009). Electronic Knights champions competing included Dr. Ferdinand Burmiester (2017), Corkum (2018, 2016, and 2011), and Millett (2",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-november-2026-2025-absolute-championship",
-         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
-         "title" : "Check is in the Mail November 2026: 2025 Absolute Championship"
-      },
-      {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -592,14 +616,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-october-2026/",
          "pubDate" : "Fri, 30 Oct 2026 12:57:10",
          "title" : "Communique of the ECU Board Meeting October 2026"
-      },
-      {
-         "description" : "GM Alexey Sarana won the first 3 0 Thursday with a dominant 10/11 score. Not to be outdone, GM Arjun Erigaisi proceeded to win both the second and third tournaments. It was the second time this year that Arjun won two 3 0 Thursdays on the same day...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
-         "pubDate" : "Fri, 30 Oct 2026 12:32:12",
-         "title" : "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday"
       },
       {
          "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
