@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-youth-chess-championship-2026/",
+         "pubDate" : "Tue, 10 Nov 2026 21:31:55",
+         "title" : "Two rounds to go at the European Youth Chess Championship 2026"
+      },
+      {
          "description" : " The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (Blitz: 3 min + 2 sec per move, starting from move 1 Rapid: 15 min + 10 sec per move, starting from move 1 Fast Classic: 45 min + 30 sec per move, starting from move 1) Players: Magnus Carlsen, Fabiano Caruana, Wesley So, Vincent Keymer, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu, Arjun Erigaisi, Anish Giri, Alireza Firouzja, Jan-Krzysztof Duda, Quang Liem Le, Richard Rapport, Levon Aronian, Hans Moke Niemann, Shakhriyar Mamedyarov, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
-         "pubDate" : "Tue, 10 Nov 2026 12:22:12",
+         "pubDate" : "Tue, 10 Nov 2026 12:22:00",
          "title" : "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot"
       },
       {
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
-         "pubDate" : "Tue, 10 Nov 2026 11:40:58",
+         "pubDate" : "Tue, 10 Nov 2026 11:40:00",
          "title" : "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field"
       },
       {
