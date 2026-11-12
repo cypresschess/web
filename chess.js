@@ -736,22 +736,6 @@ news_feed (
          "link" : "https://www.europechess.org/high-stakes-and-tied-leaders-ahead-of-european-chess-club-cup-2026-final-round/",
          "pubDate" : "Thu, 22 Oct 2026 20:57:31",
          "title" : "High Stakes and tied Leaders ahead of European Chess Club Cup 2026 Final Round"
-      },
-      {
-         "description" : "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-england-juniors-lichess-team-manager-volunteer-wanted/",
-         "pubDate" : "Thu, 22 Oct 2026 11:51:04",
-         "title" : "ECF England Juniors Lichess Team Manager (Volunteer) wanted"
-      },
-      {
-         "description" : "Five rounds were played and there are only two rounds left before the announcement of the European Chess Club Cup winners for 2026! Two teams in the Open section score perfect 10 match points, tying for the top: defending champions SuperChess Romania, and Novy Bor Chess Club (Czech Republic). In the Women's section, CE Gambit Bonnevoie (Luxembourg) remined the only team with the maximum score and all five match wins to maintain the sole lead in the tournament. Playing on []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/two-rounds-to-go-at-european-chess-club-cup-2026/",
-         "pubDate" : "Thu, 22 Oct 2026 09:34:25",
-         "title" : "Two rounds to go at European Chess Club Cup 2026"
       }
    ]
 }
