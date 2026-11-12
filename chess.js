@@ -2,10 +2,18 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
+         "pubDate" : "Thu, 12 Nov 2026 08:00:00",
+         "title" : "Total Chess: Top scorers obtain 4/6 points on first day of group stage"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-50-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
          "pubDate" : "Thu, 12 Nov 2026 03:30:39",
          "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
       },
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
          "pubDate" : "Wed, 11 Nov 2026 21:30:00",
          "title" : "CBM 233: Aronian and Pragg shine"
-      },
-      {
-         "description" : "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant will play two games per day - a total of 24 games featuring world-class players per day. The time control is Fast Classic (45+30). A win earns three points, a draw one and a loss none. Keymer faces Pragg in Group B, while Carlsen takes on Giri in Group C. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Wed, 11 Nov 2026 14:45:00",
-         "title" : "Total Chess live: The group stage begins - things get serious"
       },
       {
          "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
