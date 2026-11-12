@@ -10,6 +10,14 @@ news_feed (
          "title" : "Total Chess: Group stage - Live!"
       },
       {
+         "description" : "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins!&#38;nbsp; Will UT Dallas defend their championship title, or will SRM IST get their revenge and their first-ever CCL Champ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/win-prizes-in-the-fall-2026-ccl-predictions-challenge",
+         "pubDate" : "Thu, 12 Nov 2026 12:17:00",
+         "title" : "Win Prizes In The Fall 2026 CCL Predictions Challenge"
+      },
+      {
          "description" : "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/over-rs-1-crore-in-pocket-yet-r-praggnanandhaa-calls-clutch-chess-campaign-little-disappointing/articleshow/135397490.cms",
          "pubDate" : "Sat, 31 Oct 2026 10:52:00",
          "title" : "Over Rs 1 cr in pocket, yet Pragg calls Clutch Chess campaign 'little disappointing'"
-      },
-      {
-         "description" : "GM Magnus Carlsen and GM Nodirbek Abdusattorov have teamed up for a training camp in Spain ahead of the Total Chess World Championship Tour Pilot. Joining them are GM David Howell and Carlsen&#39;s longtime coach, GM Peter Heine Nielsen. Carlsen and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
-         "pubDate" : "Sat, 31 Oct 2026 07:10:00",
-         "title" : "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135366386.cms\" />After leaving her Rs 50 LPA corporate career to support her daughter Shivika's chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi's chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
