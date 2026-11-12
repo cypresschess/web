@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2026-11-08","17","<a href=https://ratings.uschess.org/event/202611080423 target='_blank'>Bellaire Sunday Swiss 2026.11.08</a>",
 "HOUSTON","2026-11-08","23","<a href=https://ratings.uschess.org/event/202611080273 target='_blank'>$1,500 NOVEMBER CHAMPIONSHIP 2026</a>",
 "SPRING","2026-11-06","21","<a href=https://ratings.uschess.org/event/202611060263 target='_blank'>The Friday Knights</a>",
 "SUGAR LAND","2026-11-06","16","<a href=https://ratings.uschess.org/event/202611060243 target='_blank'>FBCC 2026 National Nachos Day Open</a>",
@@ -98,5 +99,4 @@ jtable([
 "KATY","2026-08-15","31","<a href=https://ratings.uschess.org/event/202608150363 target='_blank'>Healthy Gurukul's August Back to School Scholastic</a>",
 "SUGAR LAND","2026-08-14","21","<a href=https://ratings.uschess.org/event/202608140433 target='_blank'>FBCC 2026 World Lizard Day Open</a>",
 "HOUSTON","2026-08-14","25","<a href=https://ratings.uschess.org/event/202608140363 target='_blank'>HOUSTON CITY SCHOLASTIC 2026</a>",
-"SPRING","2026-08-14","23","<a href=https://ratings.uschess.org/event/202608140343 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
