@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Thursday, Maxime Vachier-Lagrave faces Wesley So, while Fabiano Caruana (pictured) faces Praggnanandhaa Rameshbabu. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Thu, 12 Nov 2026 14:45:00",
+         "title" : "Total Chess: Group stage - Live!"
+      },
+      {
          "description" : "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
          "pubDate" : "Tue, 10 Nov 2026 15:28:00",
          "title" : "89th Tata Steel 2027 - Games and Results"
-      },
-      {
-         "description" : "Our database program - used by everyone, from the World Champion to lowly club players - is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or €99.95 per year. Make sure you don't miss the launch of a new era in chess study on the Mac.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-mac",
-         "pubDate" : "Tue, 10 Nov 2026 12:58:26",
-         "title" : "ChessBase for Mac"
       },
       {
          "description" : "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon Aronian third (6 points). The tour...",
