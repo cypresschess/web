@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Lubomir Ftacnik. Aydin Suleymanli and Le Quang Liem, among others. The icing on the cake is Anish Giri's analysis of two decisive games from the Quantbox Chennai Grandmasters Tournament. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
+         "pubDate" : "Wed, 11 Nov 2026 21:30:00",
+         "title" : "CBM 233: Aronian and Pragg shine"
+      },
+      {
          "description" : "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant will play two games per day - a total of 24 games featuring world-class players per day. The time control is Fast Classic (45+30). A win earns three points, a draw one and a loss none. Keymer faces Pragg in Group B, while Carlsen takes on Giri in Group C. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
          "pubDate" : "Wed, 11 Nov 2026 14:45:00",
          "title" : "Total Chess live: The group stage begins - things get serious"
+      },
+      {
+         "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 group stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
+         "pubDate" : "Wed, 11 Nov 2026 13:24:00",
+         "title" : "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135736478.cms\" />Indian Grandmaster Vaishali Rameshbabu impressed at the Total Chess World Championship Tour Pilot in Budapest, defeating Hans Niemann and Wesley So in the blitz event. She scored four points from nine rounds and looks forward to the challenging group stage. Meanwhile, Magnus Carlsen won the blitz event unbeaten with seven points, securing an early tournament advantage.",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
          "pubDate" : "Fri, 30 Oct 2026 13:53:00",
          "title" : "Clutch Chess: Champions Showdown 2026 - Games and results"
-      },
-      {
-         "description" : "GM Sina Movahed won Freestyle Friday for the second time in three weeks (channeling the old Meat Loaf song) on October 30, despite starting on 1.5/3 points. GM Nodirbek Yakubboev led much of the way, but settled for second place after his 10th-rou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-30-2026",
-         "pubDate" : "Fri, 30 Oct 2026 13:39:00",
-         "title" : "'Two Out Of Three Ain't Bad' In Movahed's Freestyle Friday Victory"
       },
       {
          "description" : "The fourth quarter meeting of the ECU Board took place on 22 and 23 October 2026 in Budva, Montenegro, under the well-known hospitality of the Montenegro Chess Federation. The President of the Montenegro Chess Federation, Mr Jovan Milovic, warmly welcomed the members of the ECU Board to Budva. Main information and decisions ECU Statutes The ECU Board launched the procedure to review and amend the ECU Statutes. The newly established Chess Olympic Affairs Commission will be the main contributor to []",
