@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Lubomir Ftacnik. Aydin Suleymanli and Le Quang Liem, among others. The icing on the cake is Anish Giri's analysis of two decisive games from the Quantbox Chennai Grandmasters Tournament. | Photo: Nils Rohde / ChessBase",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-50-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
+         "pubDate" : "Thu, 12 Nov 2026 03:30:39",
+         "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Lubomir Ftacnik. Aydin Suleymanli and Le Quang Liem, among others. The icing on the cake is Anish Giri's analysis of two decisive games from the Quantbox Chennai Grandmasters Tournament. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Total Chess live: The group stage begins - things get serious"
       },
       {
-         "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 group stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
+         "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-winners-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 24 Oct 2026 06:35:57",
          "title" : "European Chess Club Cup 2026 Winners Crowned in Budva, Montenegro"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135159739.cms\" />Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro, with Nihal Sarin winning individual gold and Pentala Harikrishna taking silver. Karthikeyan Murali secured bronze, while Arjun Erigaisi finished fourth. In the women's event, Koneru Humpy won individual gold and helped Cercle d'Echecs de Monte-Carlo clinch the team title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-koneru-humpy-clinch-individual-gold-medals-at-european-chess-club-cup-2026/articleshow/135159739.cms",
-         "pubDate" : "Sat, 24 Oct 2026 02:19:30",
-         "title" : "Nihal, Humpy clinch individual gold medals at European Chess Club Cup"
       },
       {
          "description" : " The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, \tErdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsev",
