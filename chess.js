@@ -18,7 +18,7 @@ news_feed (
          "title" : "Total Chess: Group stage - Live!"
       },
       {
-         "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. He leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanandhaa ...",
+         "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
          "pubDate" : "Thu, 12 Nov 2026 03:30:39",
          "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
+      },
+      {
+         "description" : "Today, a widespread global outage affecting Microsoft 365 is disrupting email and workplace communication platforms for organizations worldwide, including US Chess. In addition to delays to email communication, our membership and tournament reporting services may also be affected. Please expect slower-than-usual response times to your emails and inquiries today, and we are working diligently to ameliorate these issues. As we learn more, we will share more information on our social media channels and on this page. Thank you for your patience and understanding. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/portions-website-are-down-0",
+         "pubDate" : "Thu, 12 Nov 2026 00:00:00",
+         "title" : "Portions of Website are Down"
       },
       {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Lubomir Ftacnik. Aydin Suleymanli and Le Quang Liem, among others. The icing on the cake is Anish Giri's analysis of two decisive games from the Quantbox Chennai Grandmasters Tournament. | Photo: Nils Rohde / ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
          "pubDate" : "Mon, 02 Nov 2026 10:06:31",
          "title" : "Challenge the Grand Chess Auto Bots"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 23 grant awards (consistent with last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2026 grant recipients are:Affiliate NameLocationMVP Chess CenterAlexandria, VAGirl Chess Power and BeyondSugarland, TXChessKids &amp; NNvChessReno, NVKindness On Board FoundationDiamond Bar, CABehind it All FoundationSt. Louis, MORISE ScholarsSan Rafael, CAChess Education FoundationLouisville, KYMinnesota Stat",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-23-2026-27-grants",
-         "pubDate" : "Mon, 02 Nov 2026 00:00:00",
-         "title" : "US Chess Women's Program Awards 23 2026-27 Grants"
       },
       {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
