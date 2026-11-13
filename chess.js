@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess players will have the opportunity to play alongside ten grandmasters, including former World Blitz Champion Maxime Vachier-Lagrave, at the Royal Automobile Club in London on Saturday 6 March 2027....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/play-10-grandmasters-in-london/",
+         "pubDate" : "Fri, 13 Nov 2026 17:19:00",
+         "title" : "Play 10 Grandmasters in London"
+      },
+      {
          "description" : "The European Youth Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece with the magnificent Closing ceremony and Awarding of the Medalists and Winners. The Closing ceremony of the event was held in the open air, in the resort of Hotel Royal &#38; Imperial Belvedere, with spectacular acrobatic and dance performances. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Secretary General Mr. Theodoros Tsorbatzoglou, representative of the Cretan Periphery Mr. Georgis Pitsoulis, Tournament Director Mr. Nikos []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Total Chess: Group stage - Live!"
       },
       {
+         "description" : "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
+         "pubDate" : "Fri, 13 Nov 2026 11:48:56",
+         "title" : "Andreikin Nearly Sweeps 3 0 Thursday Tournaments"
+      },
+      {
          "description" : "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D with Maxime Vachier-Lagrave. Meanwhile, Magnus Carlsen remains winless but just 2 points off the lead in Group C after again signing two draws. Notably, Bibisara Assaubayeva obtained a memorable upset victory over Arjun Erigaisi. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid",
          "pubDate" : "Fri, 13 Nov 2026 08:00:15",
          "title" : "Chess: Carlsen comes to town with tantalising tests for London Classic Super Rapid"
+      },
+      {
+         "description" : "The Coolest Ticket in TownEditor's note: this story first appeared in the November 2026 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.Seth Dousman has been writing his own story and changing the face of chess in the ATL at the same time <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos by Kara Wise for US Chess.<br> <br> Walking into a chess club 20 years ago, you knew exactly what to expect: fluorescent lighting and a sterile atmosphere domin",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-coolest-ticket-town",
+         "pubDate" : "Fri, 13 Nov 2026 00:00:00",
+         "title" : "Inside Story: The Coolest Ticket in Town"
       },
       {
          "description" : "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for a time. His death came as a great surprise. | Photo: British Chess News",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel"
       },
       {
-         "description" : "This week continues a series on the FIDE World U7-U17 World Championships, which concluded in Spain last month. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Our exercises focus on hanging piece tactics (with a side of king safety), but our example features a highly instructive king-and-pawn endgame. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-world-u7-u17-championships-pt-2",
-         "pubDate" : "Tue, 03 Nov 2026 00:00:00",
-         "title" : "Tactics Tuesday: World U7-U17 Championships, Pt. 2"
-      },
-      {
          "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-starts-in-crete/",
          "pubDate" : "Sun, 01 Nov 2026 20:31:06",
          "title" : "European Youth Chess Championship 2026 starts in Crete"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
-         "pubDate" : "Sun, 01 Nov 2026 00:20:00",
-         "title" : "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs"
       },
       {
          "description" : "&#8220;How can someone be training chess and be below 1500? They must be stupid.\" This is sadly a quite common sentiment among Grandmasters. It is not only a cruel statement, but simply wrong. Because here is the truth: The players that study chess, spend time, energy, money and still get stuck below 1500 are often []",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2026-winners-crowned-in-budva-montenegro/",
          "pubDate" : "Sat, 24 Oct 2026 06:35:57",
          "title" : "European Chess Club Cup 2026 Winners Crowned in Budva, Montenegro"
-      },
-      {
-         "description" : " The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, \tErdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsev",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
-         "pubDate" : "Fri, 23 Oct 2026 19:33:00",
-         "title" : "41st European Club Cup 2026 - Games and Results"
       }
    ]
 }
