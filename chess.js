@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece with the magnificent Closing ceremony and Awarding of the Medalists and Winners. The Closing ceremony of the event was held in the open air, in the resort of Hotel Royal &#38; Imperial Belvedere, with spectacular acrobatic and dance performances. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Secretary General Mr. Theodoros Tsorbatzoglou, representative of the Cretan Periphery Mr. Georgis Pitsoulis, Tournament Director Mr. Nikos []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-champions-2026-crowned-in-crete/",
+         "pubDate" : "Fri, 13 Nov 2026 14:59:45",
+         "title" : "European Youth Chess Champions 2026 crowned"
+      },
+      {
+         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Friday, Vincent Keymer faces Fabiano Caruana, while Hans Niemann faces Maxime Vachier-Lagrave in a battle of co-leaders in Group D. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Richard Rapport | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Fri, 13 Nov 2026 14:45:00",
+         "title" : "Total Chess: Group stage - Live!"
+      },
+      {
          "description" : "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D with Maxime Vachier-Lagrave. Meanwhile, Magnus Carlsen remains winless but just 2 points off the lead in Group C after again signing two draws. Notably, Bibisara Assaubayeva obtained a memorable upset victory over Arjun Erigaisi. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva"
       },
       {
-         "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the Chief Arbi",
+         "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the chief arbi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid",
