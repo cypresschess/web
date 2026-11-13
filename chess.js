@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D with Maxime Vachier-Lagrave. Meanwhile, Magnus Carlsen remains winless but just 2 points off the lead in Group C after again signing two draws. Notably, Bibisara Assaubayeva obtained a memorable upset victory over Arjun Erigaisi. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
+         "pubDate" : "Fri, 13 Nov 2026 08:15:00",
+         "title" : "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva"
+      },
+      {
+         "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the Chief Arbi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid",
+         "pubDate" : "Fri, 13 Nov 2026 08:00:15",
+         "title" : "Chess: Carlsen comes to town with tantalising tests for London Classic Super Rapid"
+      },
+      {
          "description" : "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for a time. His death came as a great surprise. | Photo: British Chess News",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/anthony-miles-25-years-death",
          "pubDate" : "Thu, 12 Nov 2026 21:30:00",
          "title" : "Tony Miles: 25 years since the sudden death of an English star"
-      },
-      {
-         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Thursday, Maxime Vachier-Lagrave faces Wesley So, while Fabiano Caruana (pictured) faces Praggnanandhaa Rameshbabu. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Thu, 12 Nov 2026 14:45:00",
-         "title" : "Total Chess: Group stage - Live!"
       },
       {
          "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanan...",
