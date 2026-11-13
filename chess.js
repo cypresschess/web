@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for a time. His death came as a great surprise. | Photo: British Chess News",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anthony-miles-25-years-death",
+         "pubDate" : "Thu, 12 Nov 2026 21:30:00",
+         "title" : "Tony Miles: 25 years since the sudden death of an English star"
+      },
+      {
          "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Thursday, Maxime Vachier-Lagrave faces Wesley So, while Fabiano Caruana (pictured) faces Praggnanandhaa Rameshbabu. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
          "pubDate" : "Thu, 12 Nov 2026 14:45:00",
          "title" : "Total Chess: Group stage - Live!"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. He leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanandhaa ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
+         "pubDate" : "Thu, 12 Nov 2026 12:54:00",
+         "title" : "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun"
       },
       {
          "description" : "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins!&#38;nbsp; Will UT Dallas defend their championship title, or will SRM IST get their revenge and their first-ever CCL Champ...",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs"
       },
       {
-         "description" : "GM Javokhir Sindarov goes into the 2026 Salesforce FIDE World Championship against reigning champion GM Gukesh Dommaraju with a lead of 72 rating points and 22 places on the November FIDE rating list. The biggest climber near the top of the list w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/november-2026-fide-rating-list",
-         "pubDate" : "Sat, 31 Oct 2026 16:23:00",
-         "title" : "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points"
-      },
-      {
          "description" : "&#8220;How can someone be training chess and be below 1500? They must be stupid.\" This is sadly a quite common sentiment among Grandmasters. It is not only a cruel statement, but simply wrong. Because here is the truth: The players that study chess, spend time, energy, money and still get stuck below 1500 are often []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -720,22 +728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
          "pubDate" : "Fri, 23 Oct 2026 19:33:00",
          "title" : "41st European Club Cup 2026 - Games and Results"
-      },
-      {
-         "description" : " The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
-         "pubDate" : "Thu, 22 Oct 2026 22:12:00",
-         "title" : "US Chess Championships 2026 - Games and results"
-      },
-      {
-         "description" : "Heading into the final round of the European Chess Club Cup 2026, the battle at the top of the leaderboards remains intensely competitive across both divisions. Three teams are currently tied for first place in the Open section, each securing 11 match points: SuperChess (Romania), Bayegan Pendik Chess Sports Club (Turkey), and Novy Bor Chess Club (Czech Republic). Trailing closely by just a single point are four teams on 10 match points: Elektroprivreda (Montenegro), Rishon LeZion A (Israel), Marseille Échecs []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/high-stakes-and-tied-leaders-ahead-of-european-chess-club-cup-2026-final-round/",
-         "pubDate" : "Thu, 22 Oct 2026 20:57:31",
-         "title" : "High Stakes and tied Leaders ahead of European Chess Club Cup 2026 Final Round"
       }
    ]
 }
