@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Haik Martirosyan defeated Magnus Carlsen on Friday to take the sole lead in Group C at the Total Chess Pilot in Budapest. Fabiano Caruana remains the tournament's top scorer with 14 points, while Alireza Firouzja and Maxime Vachier-Lagrave also lead their respective groups. Carlsen's struggles have cost him 15.8 rating points so far in the event, leaving Caruana just 7.2 points behind the Norwegian at the top of the live classical rankings. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-3",
+         "pubDate" : "Sat, 14 Nov 2026 10:05:00",
+         "title" : "Total Chess: Caruana and MVL impress, Martirosyan upsets Carlsen"
+      },
+      {
          "description" : "\"The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,\" writes Lukas K&ouml;pl in his comprehensive review of Robert Ris's video courses.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2026-crowned-in-crete/",
          "pubDate" : "Fri, 13 Nov 2026 14:59:45",
          "title" : "European Youth Chess Champions 2026 crowned"
-      },
-      {
-         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Friday, Vincent Keymer faces Fabiano Caruana, while Hans Niemann faces Maxime Vachier-Lagrave in a battle of co-leaders in Group D. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Richard Rapport | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Fri, 13 Nov 2026 14:45:00",
-         "title" : "Total Chess: Group stage - Live!"
       },
       {
          "description" : "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy...",
