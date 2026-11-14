@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In addition: the 11-year-old UK sensation Bodhana Sivanandan will also compete.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/like-to-play-magnus-in-london",
+         "pubDate" : "Sat, 14 Nov 2026 21:15:00",
+         "title" : "Like to play Magnus in London?"
+      },
+      {
          "description" : "The English Chess Federation is pleased to announce that Luis Fern&aacute;ndez Siles has won the ECF Book of the Year 2026 award for The Stories, Games, and Intrigues of Capablanca...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
