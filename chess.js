@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
-         "pubDate" : "Fri, 13 Nov 2026 13:20:32",
+         "pubDate" : "Fri, 13 Nov 2026 13:20:00",
          "title" : "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot"
       },
       {
