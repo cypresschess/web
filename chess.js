@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,\" writes Lukas K&ouml;pl in his comprehensive review of Robert Ris's video courses.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
+         "pubDate" : "Sat, 14 Nov 2026 07:00:00",
+         "title" : "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824247.cms\" />Magnus Carlsen faces increasing challenges to his world No. 1 title following a series of disappointing results. Fabiano Caruana has narrowed the rating gap significantly after showing exceptional form, including victories in the same tournament where Carlsen unexpectedly lost to Haik Martirosyan. Meanwhile, Arjun Erigaisi overcame Wesley So, and R Vaishali clinched her first win, reshaping the leaderboard landscape in this thrilling tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/just-7-2-points-apart-magnus-carlsen-risks-losing-world-no-1-crown-after-15-years/articleshow/135824247.cms",
+         "pubDate" : "Sat, 14 Nov 2026 05:51:13",
+         "title" : "Just 7.2 points apart! Magnus Carlsen risks losing world No. 1 crown after 15 years"
+      },
+      {
          "description" : "Chess players will have the opportunity to play alongside ten grandmasters, including former World Blitz Champion Maxime Vachier-Lagrave, at the Royal Automobile Club in London on Saturday 6 March 2027....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "English Chess Championships 2026 - Results and Reports"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135204329.cms\" />With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover his peak form, the world's top grandmasters believe the unique format of match play could change the dynamics. From psychological pressure and opening preparation to experience and momentum, the 14-game duel promises a real battle of minds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-javokhir-sindarov-what-do-the-worlds-top-gms-think-about-the-upcoming-world-chess-championship-match/articleshow/135204329.cms",
-         "pubDate" : "Mon, 26 Oct 2026 06:19:24",
-         "title" : "Gukesh vs Sindarov: What do world's top GMs think about the match?"
-      },
-      {
          "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -744,22 +752,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/getting-off-track-is-the-norm-not-a-shameful-exception/",
          "pubDate" : "Sat, 24 Oct 2026 13:00:00",
          "title" : "Getting off track is the norm, not a shameful exception"
-      },
-      {
-         "description" : "For Jochen Schwarz, club player from Bremen, FritzTrainer courses have become an essential part of his hobby. Over the past ten years, he has studied numerous courses and now shares some of the favourites that have impressed him most.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-my-favourite-fritztrainer-courses",
-         "pubDate" : "Sat, 24 Oct 2026 07:00:00",
-         "title" : "Review: My favourite FritzTrainer courses"
-      },
-      {
-         "description" : "The 41st European Chess Club Cup and the 30th edition of the European Women's Chess Club Cup concluded yesterday in Budva, Montenegro. Bayegan Pendik Sports Chess Club (Turkey) emerged as the Winner of the Open section, while Cercle d'Echecs de Monte-Carlo successfully defended the title in the Women's event. Heading into the final round of the event, there were three teams in the Open section tying for the top: Bayegan Pendik Sports Chess Club (Turkey), SuperChess (Romania) and Novy Bor []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2026-winners-crowned-in-budva-montenegro/",
-         "pubDate" : "Sat, 24 Oct 2026 06:35:57",
-         "title" : "European Chess Club Cup 2026 Winners Crowned in Budva, Montenegro"
       }
    ]
 }
