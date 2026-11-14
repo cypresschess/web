@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Haik Martirosyan defeated Magnus Carlsen on Friday to take the sole lead in Group C at the Total Chess Pilot in Budapest. Fabiano Caruana remains the tournament's top scorer with 14 points, while Alireza Firouzja and Maxime Vachier-Lagrave also lead their respective groups. Carlsen's struggles have cost him 15.8 rating points so far in the event, leaving Caruana just 7.2 points behind the Norwegian at the top of the live classical rankings. | Photo: Michal Walusza / Total Chess",
+         "description" : "The English Chess Federation is pleased to announce that Luis Fern&aacute;ndez Siles has won the ECF Book of the Year 2026 award for The Stories, Games, and Intrigues of Capablanca...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2026-winner-announced/",
+         "pubDate" : "Sat, 14 Nov 2026 16:00:19",
+         "title" : "ECF Book of the Year 2026 - Winner Announced"
+      },
+      {
+         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Saturday, Magnus Carlsen will attempt to recover from earlier setbacks in his mini-match against Shakhriyar Mamedyarov. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Hans Niemann | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-3",
-         "pubDate" : "Sat, 14 Nov 2026 10:05:00",
-         "title" : "Total Chess: Caruana and MVL impress, Martirosyan upsets Carlsen"
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Sat, 14 Nov 2026 14:45:00",
+         "title" : "Total Chess: Group stage - Live!"
+      },
+      {
+         "description" : "just played a Padel tournament. And I realized how much of an advantage I have over people who never competed professionally. While this little tournament for me was nothing special compared to years competing professionally, for many, it is the only pressure in competitions they ever felt. So when under pressure, once they started losing []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/losing-streak-dont-change-a-thing/",
+         "pubDate" : "Sat, 14 Nov 2026 14:00:00",
+         "title" : "Losing streak? Don't change a thing."
       },
       {
          "description" : "\"The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,\" writes Lukas K&ouml;pl in his comprehensive review of Robert Ris's video courses.",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-11-breaks-38-year-world-record/",
          "pubDate" : "Sun, 25 Oct 2026 09:58:02",
          "title" : "Bodhana Sivanandan, 11, breaks 38-year world record"
-      },
-      {
-         "description" : "Here I am, once again realising I've lost my way in the past 6 months. Moving in a direction full speed, convinced it was right, until I realize it and go: what have I been thinking? Until recently, I always felt tremendous guilt after such a period. It felt like I was wasting my life, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/getting-off-track-is-the-norm-not-a-shameful-exception/",
-         "pubDate" : "Sat, 24 Oct 2026 13:00:00",
-         "title" : "Getting off track is the norm, not a shameful exception"
       }
    ]
 }
