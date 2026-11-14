@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2026-11-13","14","<a href=https://ratings.uschess.org/event/202611130203 target='_blank'>FBCC 2026 Fantasia Premiere Open</a>",
+"CYPRESS","2026-11-13","31","<a href=https://ratings.uschess.org/event/202611130183 target='_blank'>Knights of Cypress</a>",
+"SPRING","2026-11-13","17","<a href=https://ratings.uschess.org/event/202611130153 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2026-11-08","17","<a href=https://ratings.uschess.org/event/202611080423 target='_blank'>Bellaire Sunday Swiss 2026.11.08</a>",
 "HOUSTON","2026-11-08","23","<a href=https://ratings.uschess.org/event/202611080273 target='_blank'>$1,500 NOVEMBER CHAMPIONSHIP 2026</a>",
 "SPRING","2026-11-06","21","<a href=https://ratings.uschess.org/event/202611060263 target='_blank'>The Friday Knights</a>",
@@ -96,7 +99,4 @@ jtable([
 "HOUSTON","2026-08-16","66","<a href=https://ratings.uschess.org/event/202608160493 target='_blank'>Houston City Championship 2026</a>",
 "HOUSTON","2026-08-16","18","<a href=https://ratings.uschess.org/event/202608160243 target='_blank'>Bellaire Sunday Swiss 2026.08.16</a>",
 "HOUSTON","2026-08-15","75","<a href=https://ratings.uschess.org/event/202608151143 target='_blank'>HOUSTON CITY TEAM BLITZ CHAMPIONSHIP 2026</a>",
-"KATY","2026-08-15","31","<a href=https://ratings.uschess.org/event/202608150363 target='_blank'>Healthy Gurukul's August Back to School Scholastic</a>",
-"SUGAR LAND","2026-08-14","21","<a href=https://ratings.uschess.org/event/202608140433 target='_blank'>FBCC 2026 World Lizard Day Open</a>",
-"HOUSTON","2026-08-14","25","<a href=https://ratings.uschess.org/event/202608140363 target='_blank'>HOUSTON CITY SCHOLASTIC 2026</a>",
 ]);
