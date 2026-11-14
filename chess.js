@@ -10,6 +10,14 @@ news_feed (
          "title" : "Play 10 Grandmasters in London"
       },
       {
+         "description" : "The 89th Tata Steel Chess Tournament will take place in Wijk aan Zee from 15 to 31 January 2027, with a Masters field led by Javokhir Sindarov (pictured), Nodirbek Abdusattorov, Vincent Keymer, Alireza Firouzja, Anish Giri and Levon Aronian. The Challengers section will also feature a strong international lineup, including Aravindh Chithambaram, Zhu Jiner, Bibisara Assaubayeva, Alice Lee and returning Ukrainian grandmaster Ihor Samunenkov. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2027-announcement",
+         "pubDate" : "Fri, 13 Nov 2026 15:50:00",
+         "title" : "Top players and rising stars head to Tata Steel Chess Tournament 2027"
+      },
+      {
          "description" : "The European Youth Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece with the magnificent Closing ceremony and Awarding of the Medalists and Winners. The Closing ceremony of the event was held in the open air, in the resort of Hotel Royal &#38; Imperial Belvedere, with spectacular acrobatic and dance performances. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Secretary General Mr. Theodoros Tsorbatzoglou, representative of the Cretan Periphery Mr. Georgis Pitsoulis, Tournament Director Mr. Nikos []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
          "pubDate" : "Fri, 13 Nov 2026 14:45:00",
          "title" : "Total Chess: Group stage - Live!"
+      },
+      {
+         "description" : "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+         "pubDate" : "Fri, 13 Nov 2026 13:20:32",
+         "title" : "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot"
+      },
+      {
+         "description" : "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau&#39;s first in either event, and he did it by 1.5 points ahead of second ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
+         "pubDate" : "Fri, 13 Nov 2026 13:10:00",
+         "title" : "Teenage Phenom Wins Freestyle Friday"
       },
       {
          "description" : "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs...",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "European Youth Chess Championship 2026 commenced in Crete"
       },
       {
-         "description" : "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we&#39;re excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to 150 Champions Chess Tour Lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
-         "pubDate" : "Tue, 03 Nov 2026 12:45:00",
-         "title" : "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London"
-      },
-      {
          "description" : "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov. | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Pictured: Edgar Mamedov | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rankings-r-praggnanandhaa-only-indian-chess-player-in-worlds-top-10-where-is-gukesh/articleshow/135460992.cms",
          "pubDate" : "Mon, 02 Nov 2026 12:08:58",
          "title" : "FIDE Rankings: Pragg only Indian chess player in world's top 10; where is Gukesh?"
-      },
-      {
-         "description" : "The Grand Chess Auto Bots are here this November, bringing their shady dealings to the board as they calculate their next big scheme. It&#38;rsquo;s up to you to foil their plans and score exclusive rewards before the end of the month. Think you can ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
-         "pubDate" : "Mon, 02 Nov 2026 10:06:31",
-         "title" : "Challenge the Grand Chess Auto Bots"
       },
       {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
