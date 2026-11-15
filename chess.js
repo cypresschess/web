@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
+         "pubDate" : "Sun, 15 Nov 2026 07:00:00",
+         "title" : "Review: All new releases in October!"
+      },
+      {
          "description" : "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase - because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
