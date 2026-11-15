@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Chess Federation recognised the achievements and contributions of individuals, clubs and organisers across English chess at its Annual General Meeting on Saturday 14 November 2026. The ECF Awards...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/celebrating-the-ecf-awards-2026/",
+         "pubDate" : "Sun, 15 Nov 2026 09:53:27",
+         "title" : "Celebrating the ECF Awards 2026"
+      },
+      {
          "description" : "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
          "pubDate" : "Tue, 27 Oct 2026 10:28:57",
          "title" : "English Chess Championships 2026 - Results and Reports"
-      },
-      {
-         "description" : "Many congratulations to Bodhana! The English Chess Federation hails a \"generational talent\" after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bodhana-sivanandan-11-breaks-38-year-world-record/",
-         "pubDate" : "Sun, 25 Oct 2026 09:58:02",
-         "title" : "Bodhana Sivanandan, 11, breaks 38-year world record"
       }
    ]
 }
