@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). Despite being out of contention for tournament victory, Magnus Carlsen will try to climb in his group's standings in Sunday's mini-match against Ian Nepomniachtchi. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Nodirbek Abdusattorov | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Sun, 15 Nov 2026 14:45:00",
+         "title" : "Total Chess: Group stage - Live!"
+      },
+      {
          "description" : "The English Chess Federation recognised the achievements and contributions of individuals, clubs and organisers across English chess at its Annual General Meeting on Saturday 14 November 2026. The ECF Awards...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/celebrating-the-ecf-awards-2026/",
          "pubDate" : "Sun, 15 Nov 2026 09:53:27",
          "title" : "Celebrating the ECF Awards 2026"
+      },
+      {
+         "description" : "GM Hikaru Nakamura brought up his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
+         "pubDate" : "Sun, 15 Nov 2026 08:13:58",
+         "title" : "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title"
       },
       {
          "description" : "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "ChessBase for Mac: people are loving it"
       },
       {
+         "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. For the first time, five categories of clubs can be nominated this year, up from three in previous years. These categories are Small, Medium, and Large Club, and the new categories of Extra-Large Club and College Club. The nomination period for the 2027 cycle opens Nov. 15, 2026 and closes April 1, 2027. The nomination form is available here. Award CategoriesExtra-Large Large Clubs have 200 or more members, Large Clubs have 100 to 199 members, Medium Clubs have 30 to 99 members, and Small Clubs have 3 to 29 members. Category",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2027-us-chess-club-year-awards-nominations-open",
+         "pubDate" : "Sun, 15 Nov 2026 00:00:00",
+         "title" : "2027 US Chess Club of the Year Awards: Nominations Open"
+      },
+      {
          "description" : "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In addition: the 11-year-old UK sensation Bodhana Sivanandan will also compete.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2026-winner-announced/",
          "pubDate" : "Sat, 14 Nov 2026 16:00:19",
          "title" : "ECF Book of the Year 2026 - Winner Announced"
-      },
-      {
-         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Saturday, Magnus Carlsen will attempt to recover from earlier setbacks in his mini-match against Shakhriyar Mamedyarov. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Hans Niemann | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Sat, 14 Nov 2026 14:45:00",
-         "title" : "Total Chess: Group stage - Live!"
       },
       {
          "description" : "just played a Padel tournament. And I realized how much of an advantage I have over people who never competed professionally. While this little tournament for me was nothing special compared to years competing professionally, for many, it is the only pressure in competitions they ever felt. So when under pressure, once they started losing []",
@@ -634,28 +650,12 @@ news_feed (
          "title" : "Play In The Second Special Edition Of Gambit Cup On November 9"
       },
       {
-         "description" : "GM Denis Lazavik is approaching 2650 after winning the 2026 KazChess Masters with an unbeaten 6.5/9, half a point ahead of the only other unbeaten player, GM Daniil Dubov. It was also a memorable tournament for 14-year-old IM Mark Smirnov, who bea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
-         "pubDate" : "Wed, 04 Nov 2026 05:28:00",
-         "title" : "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm"
-      },
-      {
          "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-breaks-monthly-membership-record",
          "pubDate" : "Wed, 04 Nov 2026 00:00:00",
          "title" : "US Chess Breaks Monthly Membership Record"
-      },
-      {
-         "description" : "This week continues a series on the FIDE World U7-U17 World Championships, which concluded in Spain last week. International youth tournaments often provide a treasure trove of tactical examples and training positions, and this one was no exception! Check out even more exercises from this event in our Tactics Tuesday series. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-world-u7-u17-championships-pt-2",
-         "pubDate" : "Wed, 04 Nov 2026 00:00:00",
-         "title" : "Wednesday Workout: World U7-U17 Championships, Pt. 2"
       },
       {
          "description" : "The 2026 European Youth Chess Championship kicked off today in Hersonissos, Crete, Greece! The Opening day commenced with the Technical meeting, which took place in one of the playing venues of the event this morning. The Head of Delegations representing delegations from 49 European federations, attended the meeting and were introduced to the rules by the Arbiters team led by the Chief Arbiter Mr. Marco Biagioli. The Opening ceremony of the event took place shortly before the start of []",
