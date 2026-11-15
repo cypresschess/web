@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most important change in th new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improve performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2027.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-27-all-new-functions",
+         "pubDate" : "Sun, 15 Nov 2026 18:26:30",
+         "title" : "ChessBase 27: Ready for Launch!"
+      },
+      {
          "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). Despite being out of contention for tournament victory, Magnus Carlsen will try to climb in his group's standings in Sunday's mini-match against Ian Nepomniachtchi. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Nodirbek Abdusattorov | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,8 +30,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
-         "pubDate" : "Sun, 15 Nov 2026 08:13:58",
+         "pubDate" : "Sun, 15 Nov 2026 08:13:00",
          "title" : "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title"
+      },
+      {
+         "description" : "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase - because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
+         "pubDate" : "Sun, 15 Nov 2026 08:00:00",
+         "title" : "ChessBase for Mac: people are loving it"
       },
       {
          "description" : "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
          "pubDate" : "Sun, 15 Nov 2026 07:00:00",
          "title" : "Review: All new releases in October!"
-      },
-      {
-         "description" : "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase - because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
-         "pubDate" : "Sun, 15 Nov 2026 01:07:42",
-         "title" : "ChessBase for Mac: people are loving it"
       },
       {
          "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. For the first time, five categories of clubs can be nominated this year, up from three in previous years. These categories are Small, Medium, and Large Club, and the new categories of Extra-Large Club and College Club. The nomination period for the 2027 cycle opens Nov. 15, 2026 and closes April 1, 2027. The nomination form is available here. Award CategoriesExtra-Large Large Clubs have 200 or more members, Large Clubs have 100 to 199 members, Medium Clubs have 30 to 99 members, and Small Clubs have 3 to 29 members. Category",
