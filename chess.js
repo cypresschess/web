@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase - because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
+         "pubDate" : "Sun, 15 Nov 2026 01:07:42",
+         "title" : "ChessBase for Mac: people are loving it"
+      },
+      {
          "description" : "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In addition: the 11-year-old UK sensation Bodhana Sivanandan will also compete.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/losing-streak-dont-change-a-thing/",
          "pubDate" : "Sat, 14 Nov 2026 14:00:00",
          "title" : "Losing streak? Don't change a thing."
+      },
+      {
+         "description" : "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world number-one after GM Fabiano C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
+         "pubDate" : "Sat, 14 Nov 2026 13:56:00",
+         "title" : "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention"
       },
       {
          "description" : "\"The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,\" writes Lukas K&ouml;pl in his comprehensive review of Robert Ris's video courses.",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
          "pubDate" : "Wed, 04 Nov 2026 05:28:00",
          "title" : "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm"
-      },
-      {
-         "description" : "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
-         "pubDate" : "Wed, 04 Nov 2026 01:31:15",
-         "title" : "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed"
       },
       {
          "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
