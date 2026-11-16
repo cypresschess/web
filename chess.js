@@ -2,20 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2027.",
+         "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-27-all-new-functions",
          "pubDate" : "Sun, 15 Nov 2026 18:26:30",
          "title" : "ChessBase 27: Ready for Launch!"
-      },
-      {
-         "description" : "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). Despite being out of contention for tournament victory, Magnus Carlsen will try to climb in his group's standings in Sunday's mini-match against Ian Nepomniachtchi. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Nodirbek Abdusattorov | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Sun, 15 Nov 2026 14:45:00",
-         "title" : "Total Chess: Group stage - Live!"
       },
       {
          "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun...",
