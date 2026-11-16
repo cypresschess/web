@@ -10,6 +10,14 @@ news_feed (
          "title" : "Discount Day"
       },
       {
+         "description" : "JP Morgan Chase won the 14th season of the North American Corporate Chess League in an exciting final match against PWC, taking the title 3-2. It was the banking company&#39;s first championship. The company fielded a strong team led by IM Edward Song...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jp-morgan-chase-wins-north-american-corporate-chess-league-season-14",
+         "pubDate" : "Mon, 16 Nov 2026 11:00:09",
+         "title" : "JP Morgan Chase Wins North American Corporate Chess League Season 14"
+      },
+      {
          "description" : "Speed Chess Championship XI is almost here. Which of its 16 players will win all four of their matches, earn the biggest share of $250,000, and take home the most Champions Chess Tour (CCT) standings points on their way to the 2027 Esports World C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -232,6 +240,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
          "pubDate" : "Thu, 12 Nov 2026 08:00:00",
          "title" : "Total Chess: Top scorers obtain 4/6 points on first day of group stage"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
+         "pubDate" : "Thu, 12 Nov 2026 03:30:39",
+         "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
       },
       {
          "description" : "Today, a widespread global outage affecting Microsoft 365 is disrupting email and workplace communication platforms for organizations worldwide, including US Chess. In addition to delays to email communication, our membership and tournament reporting services may also be affected. Please expect slower-than-usual response times to your emails and inquiries today, and we are working diligently to ameliorate these issues. As we learn more, we will share more information on our social media channels and on this page. Thank you for your patience and understanding. ",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
          "pubDate" : "Fri, 06 Nov 2026 14:12:27",
          "title" : "Yakubboev Continues Freestyle Friday Championship Push"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first victory since March 19. Meanwhil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
-         "pubDate" : "Fri, 06 Nov 2026 12:39:30",
-         "title" : "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135605071.cms\" />R Praggnanandhaa expects an exciting World Chess Championship battle between D Gukesh and Javokhir Sindarov, highlighting their recent form and long-standing familiarity. He also said defending the world title brings pressure he cannot fully understand without experiencing it. Meanwhile, Gukesh visited Neem Karoli Baba's ashram ahead of the November 24 title clash in Geneva",
