@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The most important change in th new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improve performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2027.",
+         "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2027.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-27-all-new-functions",
@@ -18,6 +18,14 @@ news_feed (
          "title" : "Total Chess: Group stage - Live!"
       },
       {
+         "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after those four players won their groups. Caruana wrapped up victory with a ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-6",
+         "pubDate" : "Sun, 15 Nov 2026 13:28:00",
+         "title" : "Firouzja, Caruana, Giri, MVL Win Groups; Carlsen's No. 1 Status Boosted By Caruana Loss"
+      },
+      {
          "description" : "The English Chess Federation recognised the achievements and contributions of individuals, clubs and organisers across English chess at its Annual General Meeting on Saturday 14 November 2026. The ECF Awards...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Celebrating the ECF Awards 2026"
       },
       {
-         "description" : "GM Hikaru Nakamura brought up his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xio...",
+         "description" : "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xiong t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ccl-week-6-2026",
          "pubDate" : "Thu, 05 Nov 2026 12:49:55",
          "title" : "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs"
-      },
-      {
-         "description" : "The Gambit Cup, Gambit&#39;s non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all Gambit members. The Gambit Cup i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
-         "pubDate" : "Wed, 04 Nov 2026 08:00:00",
-         "title" : "Play In The Second Special Edition Of Gambit Cup On November 9"
       },
       {
          "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
