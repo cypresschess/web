@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Francisco \"Paco\" Vallejo won the Salamanca Masters with 8&frac12;/10, finishing 1&frac12; points ahead of Jos&eacute; Mart&iacute;nez. The 44-year-old Spaniard started with six consecutive wins and recovered from a round-seven loss to Mart&iacute;nez to secure the title. Loek van Wely finished third with 6&frac12; points, while 11-year-old Bodhana Sivanandan took fourth place with 3&frac12;/10, gaining 34.4 rapid rating points after scoring three wins. | Photo: Salamanca University Alumni",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2026-final",
+         "pubDate" : "Mon, 16 Nov 2026 03:10:00",
+         "title" : "Paco Vallejo claims clear victory at Salamanca Masters"
+      },
+      {
          "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2027.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Total Chess: Group stage - Live!"
       },
       {
-         "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after those four players won their groups. Caruana wrapped up victory with a ro...",
+         "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-6",
