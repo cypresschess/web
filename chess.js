@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, - but excluding books, vouchers, Ducats and subscriptions to ChessBase for Mac, CBM and Premium/Starter accounts. The premium offer is the brand-new ChessBase'27, which provides a new way to understand opening plans and prepare for your next opponent. And, of course, the new Mega-Database 2027, the indispensable game database with weekly game updates!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/discount-day-4",
+         "pubDate" : "Mon, 16 Nov 2026 14:01:04",
+         "title" : "Discount Day"
+      },
+      {
+         "description" : "Speed Chess Championship XI is almost here. Which of its 16 players will win all four of their matches, earn the biggest share of $250,000, and take home the most Champions Chess Tour (CCT) standings points on their way to the 2027 Esports World C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-championship-first-round-preview",
+         "pubDate" : "Mon, 16 Nov 2026 08:17:17",
+         "title" : "Here Comes The SCC: Who's Playing, Who Will Win In Round 1"
+      },
+      {
+         "description" : "When Bernard Sanico&#38;rsquo;s son was born in 2019, he knew exactly what to call him. A fan of the world champion since he was 12, he named the boy Magnus Carlsen Sanico. Seven years later, the younger Magnus is a rising player in the Philippines dr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-sanico-7-year-old-grandmaster-dream",
+         "pubDate" : "Mon, 16 Nov 2026 05:25:04",
+         "title" : "Meet The 7-Year-Old Magnus Carlsen Who Dreams Of Becoming A Grandmaster"
+      },
+      {
          "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2026.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
          "pubDate" : "Thu, 12 Nov 2026 08:00:00",
          "title" : "Total Chess: Top scorers obtain 4/6 points on first day of group stage"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
-         "pubDate" : "Thu, 12 Nov 2026 03:30:39",
-         "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
       },
       {
          "description" : "Today, a widespread global outage affecting Microsoft 365 is disrupting email and workplace communication platforms for organizations worldwide, including US Chess. In addition to delays to email communication, our membership and tournament reporting services may also be affected. Please expect slower-than-usual response times to your emails and inquiries today, and we are working diligently to ameliorate these issues. As we learn more, we will share more information on our social media channels and on this page. Thank you for your patience and understanding. ",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown"
       },
       {
-         "description" : "GM Magnus Carlsen will have the chance to make it three titles in three appearances as chess was confirmed for the 2027 Esports World Cup (EWC) today. The event returns to Riyadh, Saudi Arabia, next summer, with qualification already underway thro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
-         "pubDate" : "Fri, 06 Nov 2026 07:07:46",
-         "title" : "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title"
-      },
-      {
          "description" : "John D. \"Jay\" Rockefeller IV passed away on Friday; he was 89. A former U.S. senator and governor of West Virginia, he holds a special place in the chess community. Rockefeller sponsored the 2010 Senate resolution officially establishing the second Saturday in October as National Chess Day; until then, the day was in a 1976 presidential proclamation that had no real effect.He was also the father of US Chess Vice President John Rockefeller V, an Executive Board member and former chair of the Scholastic Committee.The former senator wrote a My Best Move piece for the October 2017 Chess Life; we're reprinting it below, and you can see that while he didn't play chess himself, he saw the effect it",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-round-3-recap/",
          "pubDate" : "Thu, 05 Nov 2026 20:57:40",
          "title" : "European Youth Chess Championship 2026 - Round 3 recap"
-      },
-      {
-         "description" : "Saint Louis University (SLU) and the University of Texas, Dallas (UTD) are locked in a tight race for first place in the Collegiate Chess League as teams approach the end of the regular season and push for playoff seeding. With most teams having j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ccl-week-6-2026",
-         "pubDate" : "Thu, 05 Nov 2026 12:49:55",
-         "title" : "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs"
       },
       {
          "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
