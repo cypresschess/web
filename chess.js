@@ -10,6 +10,14 @@ news_feed (
          "title" : "Discount Day"
       },
       {
+         "description" : "GM Hikaru Nakamura of Team Falcons won the first Round of 16 match in the Speed Chess Championship XI with a 12-8 score against 15-year-old GM Yagiz Erdogmus. Erdogmus won the bullet segment, which is normally Nakamura&#39;s specialty, but it wasn&#39;t e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-speed-chess-championship-r16-nakamura-erdogmus",
+         "pubDate" : "Mon, 16 Nov 2026 14:01:00",
+         "title" : "Nakamura Beats Erdogmus En Route To London Live Finals"
+      },
+      {
          "description" : "JP Morgan Chase won the 14th season of the North American Corporate Chess League in an exciting final match against PWC, taking the title 3-2. It was the banking company&#39;s first championship. The company fielded a strong team led by IM Edward Song...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-sanico-7-year-old-grandmaster-dream",
          "pubDate" : "Mon, 16 Nov 2026 05:25:04",
          "title" : "Meet The 7-Year-Old Magnus Carlsen Who Dreams Of Becoming A Grandmaster"
+      },
+      {
+         "description" : "Three Disciplines, One CrownTotal Chess Tour puts its enigmatic slogan to the test for the first time at the Total Chess Pilot 2026 in Budapest, Hungary. The \"disciplines\" are the three disparate time controls - blitz, rapid, and the trending 45+30 \"fast classic\" - combined into a single event. The \"crown\" is an $80,000 prize for the last player standing after three stages of competition.A concept by Norway Chess, Total Chess aims to bring the best players in the world into competition to determine the FIDE World Combined Champion beginning with the 2027 season. To introduce the format ahead of the March 2027 tour debut, the Total Chess Pilot showcases the versatility promised by this innova",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/total-chess-pilot-caruana-makes-knockout-stage",
+         "pubDate" : "Mon, 16 Nov 2026 00:00:00",
+         "title" : "Total Chess Pilot: Caruana Makes Knockout Stage"
       },
       {
          "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2026.",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2027-us-chess-club-year-awards-nominations-open",
          "pubDate" : "Sun, 15 Nov 2026 00:00:00",
          "title" : "2027 US Chess Club of the Year Awards: Nominations Open"
-      },
-      {
-         "description" : "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In addition: the 11-year-old UK sensation Bodhana Sivanandan will also compete.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/like-to-play-magnus-in-london",
-         "pubDate" : "Sat, 14 Nov 2026 21:15:00",
-         "title" : "Like to play Magnus in London?"
       },
       {
          "description" : "The English Chess Federation is pleased to announce that Luis Fern&aacute;ndez Siles has won the ECF Book of the Year 2026 award for The Stories, Games, and Intrigues of Capablanca...",
@@ -386,14 +394,6 @@ news_feed (
          "title" : "'55-45 for Javokhir': Russian GM gives Sindarov narrow edge over Gukesh"
       },
       {
-         "description" : "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 - the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20 November. The field is strong, the format is complicated, and ChessBase has gone through the Total Chess webpage in an attempt to understand it. However, it is unclear whether all the rules have been correctly understood and reproduced. The following information is therefore provided without guarantee of accuracy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-format",
-         "pubDate" : "Tue, 10 Nov 2026 08:10:00",
-         "title" : "Total Chess - totally complicated"
-      },
-      {
          "description" : "GM Hikaru Nakamura, one of the game&#39;s leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess to new audiences through s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -426,22 +426,6 @@ news_feed (
          "title" : "Tactics Tuesday: 2026 Clutch Chess Champions Showdown"
       },
       {
-         "description" : "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960. Unfortunately, he suffered from health problems throughout his life and died at a relatively young age. | Tal giving a simultaneous exhibition in 1977 (Photo: Miass City Museum Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-mikhail-tal",
-         "pubDate" : "Mon, 09 Nov 2026 22:50:00",
-         "title" : "Remembering Mikhail Tal"
-      },
-      {
-         "description" : "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L. Narayanan. The tournament also saw 16-year-old Viresh Sharnarthi earn his second GM norm in ten days, while 11-year-old Sarbartho Mani secured his first IM norm. Nine title norms were achieved in total. | Photo: Devansh Singh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
-         "pubDate" : "Mon, 09 Nov 2026 19:30:00",
-         "title" : "Pranesh wins Chola Chess Open as young talents make their mark"
-      },
-      {
          "description" : "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country&#39;s 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an opening-round defeat to finish alone in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -456,14 +440,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-set-for-london-chess-classic-super-rapid-who-is-there-from-india/articleshow/135689790.cms",
          "pubDate" : "Mon, 09 Nov 2026 17:42:18",
          "title" : "World No. 1 Carlsen set for LCC Super Rapid; who is there from India?"
-      },
-      {
-         "description" : "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7&frac12;/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin also reached 7&frac12; points. All four won their final-round games with the black pieces, bringing an event that attracted 548 participants to a close. | Photo: Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r9",
-         "pubDate" : "Mon, 09 Nov 2026 08:30:00",
-         "title" : "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673988.cms\" />Anuj Shrivatri has made history by becoming India's 100th Grandmaster while competing in the Philippines. His journey, which began in childhood under the influence of his father's fascination with chess, had seen multiple unsuccessful attempts before this triumph. As he celebrates this remarkable milestone, Shrivatri is committed to honing his skills and aims to dominate in more chess tournaments.",
@@ -514,28 +490,12 @@ news_feed (
          "title" : "An Arbiter's Perspective: FIDE 6th Intercontinental Championship for Prisoners"
       },
       {
-         "description" : "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandmaster Paco Vallejo, who returns to top-level competition after a lengthy absence. Elisabeth Paehtz, Jos&eacute; Mart&iacute;nez Alc&aacute;ntara and Anastasiia Hnatyshyn complete the lineup. Several side events are also scheduled. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2026-preview",
-         "pubDate" : "Sun, 08 Nov 2026 17:30:00",
-         "title" : "Bodhana Sivanandan joins strong field in Salamanca"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-100th-grandmaster-anuj-shrivatri-becomes-first-gm-from-madhya-pradesh/articleshow/135660706.cms",
          "pubDate" : "Sun, 08 Nov 2026 14:23:03",
          "title" : "India gets its 100th Grandmaster! Anuj Shrivatri becomes first GM from MP"
-      },
-      {
-         "description" : "Yu Yangyi successfully defended his Chinese Rapid Championship title in Shaoxing, defeating 18-year-old Xiao Tong in an Armageddon decider after six games had failed to separate the finalists. Xiao had previously eliminated Ding Liren and Lu Shanglei in blitz tiebreaks to reach the final. Meanwhile, Lu secured third place by defeating Xu Xiangyu. | Photo: Chinese Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-rapid-championship-2026-final",
-         "pubDate" : "Sun, 08 Nov 2026 13:40:00",
-         "title" : "Yu Yangyi retains Chinese Rapid Championship title after Armageddon decider"
       },
       {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
@@ -554,36 +514,12 @@ news_feed (
          "title" : "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes 2nd"
       },
       {
-         "description" : "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far from easy and sadly cut short. Today marks the 140th anniversary of his birth. | Photo: J. Graudenz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
-         "pubDate" : "Sat, 07 Nov 2026 20:25:00",
-         "title" : "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer"
-      },
-      {
-         "description" : "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster has endured a more difficult period and slipped down the world rankings. The match therefore presents a different challenge: rediscovering his best form while facing a younger rival who arrives with strong recent results and considerable momentum. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier",
-         "pubDate" : "Sat, 07 Nov 2026 19:20:00",
-         "title" : "The young king faces his toughest challenge"
-      },
-      {
          "description" : "Arizona businessman and amateur chess player Josh Smith (@BulletGrandpa) won a single game against super-GM Daniil Dubov in the final match of the 100-0 Project Season 1 to prevent a super-adoption. The question was whether a super-grandmaster can...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
          "pubDate" : "Sat, 07 Nov 2026 15:00:00",
          "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 29"
-      },
-      {
-         "description" : "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5&frac12;/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tegernsee-open-2026-r7",
-         "pubDate" : "Sat, 07 Nov 2026 15:00:00",
-         "title" : "Bavarian Championship: Sasikiran joins Gopal in the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135638737.cms\" />Reigning World Chess Champion D Gukesh visited Tirumala's Sri Venkateswara Temple to seek blessings ahead of his title defence against Uzbekistan's Javokhir Sindarov. The 14-game championship will take place in Geneva from November 24 to December 12. Both players will be 20, making it the youngest World Championship clash in chess history. The tournament carries a USD 2.5 million prize fund.",
@@ -618,14 +554,6 @@ news_feed (
          "title" : "India's 20-year-old chess GM Pranav crowned World Jr Blitz champion"
       },
       {
-         "description" : "GM Nodirbek Yakubboev won in a tense final round of Freestyle Friday on November 6 to lock up victory ahead of second-place GM Ian Nepomniachtchi. Both players improved their position in the standings for the Freestyle Friday Championship (FFC), Y...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
-         "pubDate" : "Fri, 06 Nov 2026 14:12:27",
-         "title" : "Yakubboev Continues Freestyle Friday Championship Push"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135605071.cms\" />R Praggnanandhaa expects an exciting World Chess Championship battle between D Gukesh and Javokhir Sindarov, highlighting their recent form and long-standing familiarity. He also said defending the world title brings pressure he cannot fully understand without experiencing it. Meanwhile, Gukesh visited Neem Karoli Baba's ashram ahead of the November 24 title clash in Geneva",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -656,14 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-round-3-recap/",
          "pubDate" : "Thu, 05 Nov 2026 20:57:40",
          "title" : "European Youth Chess Championship 2026 - Round 3 recap"
-      },
-      {
-         "description" : "US Chess is proud to announce that it has reached a new all-time high in membership. With 118,303 members as of Oct. 31 - an increase of 2,184 over September's numbers - we bettered our March 2024 record of 117,716.Members are the lifeblood of our organization. You make our work possible, and we are always looking for better ways to serve you. Thank you for continuing to support US Chess by investing in American chess!",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-breaks-monthly-membership-record",
-         "pubDate" : "Wed, 04 Nov 2026 00:00:00",
-         "title" : "US Chess Breaks Monthly Membership Record"
       },
       {
          "description" : "The 2026 European Youth Chess Championship kicked off today in Hersonissos, Crete, Greece! The Opening day commenced with the Technical meeting, which took place in one of the playing venues of the event this morning. The Head of Delegations representing delegations from 49 European federations, attended the meeting and were introduced to the rules by the Arbiters team led by the Chief Arbiter Mr. Marco Biagioli. The Opening ceremony of the event took place shortly before the start of []",
