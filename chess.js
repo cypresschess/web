@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The UK Chess Challenge has announced a new five-year sponsorship agreement with the J.M Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/j-m-mouskos-foundation-to-sponsor-uk-chess-challenge/",
+         "pubDate" : "Tue, 17 Nov 2026 09:20:32",
+         "title" : "J.M. Mouskos Foundation to Sponsor UK Chess Challenge"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135909095.cms\" />Among the Indians, only Erigaisi was in contention to top his group on Sunday, the final day of the group league.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
          "pubDate" : "Thu, 29 Oct 2026 16:16:07",
          "title" : "English Championships final round change of timing - important!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
-         "pubDate" : "Tue, 27 Oct 2026 10:28:57",
-         "title" : "English Chess Championships 2026 - Results and Reports"
       }
    ]
 }
