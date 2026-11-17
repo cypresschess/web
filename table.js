@@ -1,5 +1,7 @@
 jtable([
+"HOUSTON","2026-11-15","123","<a href=https://ratings.uschess.org/event/202611150973 target='_blank'>2026 Houston Open</a>",
 "HOUSTON","2026-11-15","13","<a href=https://ratings.uschess.org/event/202611150433 target='_blank'>Bellaire Sunday Swiss 2026.11.15</a>",
+"HOUSTON","2026-11-14","72","<a href=https://ratings.uschess.org/event/202611141443 target='_blank'>All Saints Chess Tournament 2026</a>",
 "HOUSTON","2026-11-14","51","<a href=https://ratings.uschess.org/event/202611141363 target='_blank'>2026 Houston Open Scholastic</a>",
 "HOUSTON","2026-11-14","8","<a href=https://ratings.uschess.org/event/202611140393 target='_blank'>chesspanda11142026saturday</a>",
 "SUGAR LAND","2026-11-13","14","<a href=https://ratings.uschess.org/event/202611130203 target='_blank'>FBCC 2026 Fantasia Premiere Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-08-22","8","<a href=https://ratings.uschess.org/event/202608220433 target='_blank'>chesspanda08222026saturday</a>",
 "HOUSTON","2026-08-22","8","<a href=https://ratings.uschess.org/event/202608220123 target='_blank'>AUG 22ND TROPHY SCHOLASTIC</a>",
 "SPRING","2026-08-21","24","<a href=https://ratings.uschess.org/event/202608210363 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-08-21","20","<a href=https://ratings.uschess.org/event/202608210263 target='_blank'>FBCC Jeremiah's Ice Treat Open</a>",
-"CYPRESS","2026-08-21","50","<a href=https://ratings.uschess.org/event/202608210243 target='_blank'>Knights of Cypress</a>",
 ]);
