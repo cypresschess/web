@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming semifinal match between the Sa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ccl-quarterfinals-fall-2026",
+         "pubDate" : "Tue, 17 Nov 2026 12:05:00",
+         "title" : "UTD Advances To Defend CCL Title"
+      },
+      {
          "description" : "The UK Chess Challenge has announced a new five-year sponsorship agreement with the J.M Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -498,14 +506,6 @@ news_feed (
          "title" : "Anuj Shrivatri becomes India's 100th Grandmaster: Full list of all 100 Indian GMs"
       },
       {
-         "description" : "In a new FIDE survey, three in four women and girls who responded had experienced discrimination or harassment in chess settings, while 44% said they had considered leaving the game.&#38;nbsp; Women and girls account for roughly one in six active FID...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
-         "pubDate" : "Mon, 09 Nov 2026 04:56:00",
-         "title" : "3 In 4 Women Surveyed Report Discrimination Or Harassment In Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135668698.cms\" />Total Chess chief Kjell Madland has defended the pilot tournament's fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and attract wider audiences.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -584,14 +584,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/nov/06/chess-magnus-carlsen-returns-for-budapest-battle-before-sindarov-targets-classical-crown",
          "pubDate" : "Fri, 06 Nov 2026 08:00:47",
          "title" : "Chess: Magnus Carlsen returns for Budapest battle before Sindarov targets classical crown"
-      },
-      {
-         "description" : "John D. \"Jay\" Rockefeller IV passed away on Friday; he was 89. A former U.S. senator and governor of West Virginia, he holds a special place in the chess community. Rockefeller sponsored the 2010 Senate resolution officially establishing the second Saturday in October as National Chess Day; until then, the day was in a 1976 presidential proclamation that had no real effect.He was also the father of US Chess Vice President John Rockefeller V, an Executive Board member and former chair of the Scholastic Committee.The former senator wrote a My Best Move piece for the October 2017 Chess Life; we're reprinting it below, and you can see that while he didn't play chess himself, he saw the effect it",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/john-rockefeller-iv-1937-2026",
-         "pubDate" : "Fri, 06 Nov 2026 00:00:00",
-         "title" : "John Rockefeller IV, 1937-2026"
       },
       {
          "description" : "Three rounds were played at the European Youth Chess Championship 2026 and only 68 players in the competition of nearly 1250 participants have reached the maximum score of 3/3 points across 12 categories. In the Girls U8 category, six players tie for the top scoring 3/3 points: Anastasia-Sofia Rusu (ROU, 1543), Anna Skrzat (POL), Kalina Pejin (SRB, 1612), Maryna Feseniuk (AUT, 1468), Elif Urgen (TUR) and Melike Eliz Karahan (TUR, 1636). The Open U8 event is led by five players []",
