@@ -10,6 +10,30 @@ news_feed (
          "title" : "J.M. Mouskos Foundation to Sponsor UK Chess Challenge"
       },
       {
+         "description" : "One of Chess.com&#39;s biggest annual traditions is coming back in 2027: Registration is now open for the 2027 Daily Chess Championship (DCC). The Daily Chess Championship is one of the biggest tournaments in the world, and you can be a part of it! Re...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daily-chess-championship-2027",
+         "pubDate" : "Tue, 17 Nov 2026 08:00:00",
+         "title" : "Register Today For The 2027 Daily Chess Championship"
+      },
+      {
+         "description" : "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
+         "pubDate" : "Tue, 17 Nov 2026 07:30:00",
+         "title" : "How To Play With Carlsen, Caruana, And Your Favorite Stars In The Chess Club Shodown"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju says he has struggled to handle the pressure and expectations of the world title, and is finding ways to deal with the criticism ahead of his match against GM Javokhir Sindarov. &#38;ldquo;I think clearly so far I&#39;ve n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
+         "pubDate" : "Tue, 17 Nov 2026 07:23:14",
+         "title" : "Gukesh Opens Up About Pressure, Criticism Ahead Of Sindarov Match"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135909095.cms\" />Among the Indians, only Erigaisi was in contention to top his group on Sunday, the final day of the group league.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -306,7 +330,7 @@ news_feed (
          "title" : "'I was looking forward to Magnus's group': Vaishali after blitz wins over super GMs"
       },
       {
-         "description" : "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In under two minutes, our Mac developer Stefan Raetzke von Stoyentin explains whether and how you can keep using your existing ChessBase databases on a Mac.",
+         "description" : "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In under two minutes, our Mac developer Steffen Raetzke von Stoyentin explains whether and how you can keep using your existing ChessBase databases on a Mac.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
@@ -522,22 +546,6 @@ news_feed (
          "title" : "European Youth Chess Championship 2026 is halfway through"
       },
       {
-         "description" : "GM Hikaru Nakamura wasted little time reclaiming his place at the top of the Bullet Brawl standings, capturing his 73rd title after finishing ahead of GM Ediz Gurel and GM Parham Maghsoodloo in Saturday&#39;s 225-player arena.&#38;nbsp; Nakamura scored 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
-         "pubDate" : "Sun, 08 Nov 2026 02:41:00",
-         "title" : "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes 2nd"
-      },
-      {
-         "description" : "Arizona businessman and amateur chess player Josh Smith (@BulletGrandpa) won a single game against super-GM Daniil Dubov in the final match of the 100-0 Project Season 1 to prevent a super-adoption. The question was whether a super-grandmaster can...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
-         "pubDate" : "Sat, 07 Nov 2026 15:00:00",
-         "title" : "100-0 Denied: Bullet Grandpa Beats Dubov In Game 29"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135638737.cms\" />Reigning World Chess Champion D Gukesh visited Tirumala's Sri Venkateswara Temple to seek blessings ahead of his title defence against Uzbekistan's Javokhir Sindarov. The 14-game championship will take place in Geneva from November 24 to December 12. Both players will be 20, making it the youngest World Championship clash in chess history. The tournament carries a USD 2.5 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/i-was-jealous-of-gothamchess-then-i-asked-one-question/",
          "pubDate" : "Sat, 07 Nov 2026 14:00:00",
          "title" : "I was jealous of GothamChess. Then I asked one question"
-      },
-      {
-         "description" : "NM Janak Awatramani beat GM Guillermo Vazquez 3-0 in the Grand Final to win the 2026 Crazyhouse Championship, following up on his victory in 2024. Crazyhouse, as commentator GM Yasser Seirawan mentioned,&#38;nbsp; is often called &#34;Bughouse for one pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
-         "pubDate" : "Sat, 07 Nov 2026 05:13:00",
-         "title" : "Janak Awatramani Wins His 2nd Crazyhouse Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135613071.cms\" />Indian Grandmaster Pranav Venkatesh won the Open title at the FIDE World Junior Blitz Championship in Al Ain, UAE, scoring 10.5 points from 13 rounds. The 20-year-old finished a point clear of his closest rivals, adding blitz gold to the rapid silver he won earlier. India's Aamuktha Guntaka finished fifth in the Girls section, while Savitha Shri placed seventh.",
