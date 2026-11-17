@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135909095.cms\" />Among the Indians, only Erigaisi was in contention to top his group on Sunday, the final day of the group league.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-pilot-indian-players-out-of-title-contention/articleshow/135909095.cms",
+         "pubDate" : "Tue, 17 Nov 2026 03:37:53",
+         "title" : "Total Chess Pilot: Indian players out of title contention"
+      },
+      {
          "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, - but excluding books, vouchers, Ducats and subscriptions to ChessBase for Mac, CBM and Premium/Starter accounts. The premium offer is the brand-new ChessBase'27, which provides a new way to understand opening plans and prepare for your next opponent. And, of course, the new Mega-Database 2027, the indispensable game database with weekly game updates!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
          "pubDate" : "Thu, 29 Oct 2026 16:16:07",
          "title" : "English Championships final round change of timing - important!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135260489.cms\" />American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India's R Praggnanandhaa remains in contention under the tournament's escalating scoring system. After a difficult start, including losses to Nakamura and Sindarov, Pragg defeated Fabiano Caruana in his final game, boosting his hopes of a comeback.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
-         "pubDate" : "Wed, 28 Oct 2026 10:30:14",
-         "title" : "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?"
       },
       {
          "description" : "",
