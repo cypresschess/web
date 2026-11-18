@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135945109.cms\" />Magnus Carlsen forfeited his Fast Classic game against Bibisara Assaubayeva after achieving a decisive lead. He expressed that the decision was due to the game's irrelevance after the day's results were secured. Carlsen's forfeit followed a disappointing performance in the group stage that affected his classical rating significantly. The Fast Classic format features shorter time controls, enhancing the pace of the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/controversy-magnus-carlsen-forfeits-fast-classic-game-against-kazakhstans-bibisara-assaubayeva-calls-it-totally-useless/articleshow/135945109.cms",
+         "pubDate" : "Wed, 18 Nov 2026 01:43:43",
+         "title" : "Controversy! Magnus Carlsen forfeits Fast Classic game against Bibisara"
+      },
+      {
          "description" : "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship Tour Pilot 2026 began. The oth...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
          "pubDate" : "Fri, 30 Oct 2026 08:00:50",
          "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135324093.cms\" />Reigning world chess champion D Gukesh visited Neem Karoli Baba's ashram on Wednesday to seek blessings ahead of his World Championship title defence against Uzbekistan's Javokhir Sindarov. The match, scheduled in Geneva from November 24 to December 11, will feature a maximum of 14 classical games. Both players will be 20, making it the youngest World Championship match in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-seeks-neem-karoli-babas-blessings-ahead-of-world-chess-championship-match-against-javokhir-sindarov/articleshow/135324093.cms",
-         "pubDate" : "Thu, 29 Oct 2026 17:46:29",
-         "title" : "Watch: Gukesh seeks Neem Karoli Baba's blessings ahead of World Chess Championship"
       },
       {
          "description" : "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have...",
