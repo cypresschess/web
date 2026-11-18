@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship Tour Pilot 2026 began. The oth...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
+         "pubDate" : "Tue, 17 Nov 2026 13:39:00",
+         "title" : "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game"
+      },
+      {
+         "description" : "GM Amin Tabatabaei came from behind to win Titled Tuesday (TT) on tiebreaks on November 17, winning his last six games to finish with 9.5 points. GM Hikaru Nakamura was held to draws in two of his last three games and his own 9.5-point performance...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
+         "pubDate" : "Tue, 17 Nov 2026 13:30:00",
+         "title" : "Tabatabaei Win Streak Earns Second Titled Tuesday"
+      },
+      {
+         "description" : "One of the most anticipated moments in gaming history is coming&#38;mdash;and we don&#39;t want you to stress about losing your Chess.com streak. From November 19 to 23, we&#39;re freezing everyone&#39;s streak so you can disappear into GTA VI on launch weekend w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gta-vi-streak-freeze",
+         "pubDate" : "Tue, 17 Nov 2026 13:00:00",
+         "title" : "Streaks Are Freezing From November 19 To 23 So You Can Enjoy GTA VI's Launch Stress-Free"
+      },
+      {
          "description" : "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming semifinal match between the Sa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -442,22 +466,6 @@ news_feed (
          "title" : "'55-45 for Javokhir': Russian GM gives Sindarov narrow edge over Gukesh"
       },
       {
-         "description" : "GM Hikaru Nakamura, one of the game&#39;s leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess to new audiences through s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
-         "pubDate" : "Tue, 10 Nov 2026 08:02:08",
-         "title" : "Hikaru Nakamura Renews With Chess.com"
-      },
-      {
-         "description" : "It&#39;s now just two weeks until the Salesforce FIDE World Championship 2026 sees GM Javokhir Sindarov take on World Champion Gukesh Dommaraju for the most important title in chess. On the eve of that showdown in Geneva, we look at some of the predic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
-         "pubDate" : "Tue, 10 Nov 2026 07:46:00",
-         "title" : "Gukesh-Sindarov Predictions: Kasparov, Nakamura, Carlsen & More"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135698082.cms\" />With the celebration of 100 Grandmasters in India, Anuj Shrivatri stands as the newest star. While reaching the Grandmaster title is commendable, certain players manipulate rules to safeguard their ratings. Currently, only a few maintain an Elo rating above 2500, exposing the fierce competition. The ongoing scarcity of sponsorship and support for chess talents is a pressing issue, which contrasts sharply with better-resourced nations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-2026-clutch-chess-champions-showdown",
          "pubDate" : "Tue, 10 Nov 2026 00:00:00",
          "title" : "Tactics Tuesday: 2026 Clutch Chess Champions Showdown"
-      },
-      {
-         "description" : "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country&#39;s 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an opening-round defeat to finish alone in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
-         "pubDate" : "Mon, 09 Nov 2026 19:15:00",
-         "title" : "Anuj Shrivatri Becomes India's 100th Grandmaster"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135689790.cms\" />World No. 1 Magnus Carlsen will headline the 2026 London Chess Classic Super Rapid on December 5-6, alongside India's Nihal Sarin, Maxime Vachier-Lagrave and Anish Giri. The open event offers amateurs a chance to face Carlsen. Also competing are World No. 5 Nodirbek Abdusattorov and prodigy Bodhana Sivanandan, the youngest Woman Grandmaster in history.",
