@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135959819.cms\" />Magnus Carlsen sparked controversy after forfeiting his Fast Classic game against Bibisara Assaubayeva in Budapest, arguing that the match was \"totally useless\" after he had secured the day's overall result. Indian Grandmaster Srinath Narayanan criticised his conduct, saying, \"Dignity and courtesy took a fall long before the rating,\" while FIDE official Emil Sutovsky also questioned his sportsmanship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dignity-and-courtesy-took-a-fall-india-gm-srinath-narayanan-criticises-magnus-carlsen-over-controversial-forfeit/articleshow/135959819.cms",
+         "pubDate" : "Wed, 18 Nov 2026 11:29:56",
+         "title" : "'Dignity and courtesy took a fall': India's Srinath criticises Carlsen over forfeit"
+      },
+      {
+         "description" : "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as Magnus Carlsen declined to play the final fast classic game against Bibisara Assaubayeva, having already secured the set victory. The Norwegian's decision prompted criticism, given the game's implications for his classical rating. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
+         "pubDate" : "Wed, 18 Nov 2026 07:50:00",
+         "title" : "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135951761.cms\" />Magnus Carlsen has sparked controversy after refusing to play his final Fast Classical game against Bibisara Assaubayeva, despite being required to appear. Having already secured victory, he avoided risking valuable rating points. While organisers and arbiters maintained that no rules were broken, it raised multiple questions, exposing gaps in tournament regulations ahead of the Total Chess World Championship Tour's 2027 launch.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "Total Chess Pilot: Indian players out of title contention"
       },
       {
-         "description" : "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, - but excluding books, vouchers, Ducats and subscriptions to ChessBase for Mac, CBM and Premium/Starter accounts. The premium offer is the brand-new ChessBase'27, which provides a new way to understand opening plans and prepare for your next opponent. And, of course, the new Mega-Database 2027, the indispensable game database with weekly game updates!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/discount-day-4",
-         "pubDate" : "Mon, 16 Nov 2026 14:01:04",
-         "title" : "Discount Day"
-      },
-      {
          "description" : "GM Hikaru Nakamura of Team Falcons won the first Round of 16 match in the Speed Chess Championship XI with a 12-8 score against 15-year-old GM Yagiz Erdogmus. Erdogmus won the bullet segment, which is normally Nakamura&#39;s specialty, but it wasn&#39;t e...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/total-chess-pilot-caruana-makes-knockout-stage",
          "pubDate" : "Mon, 16 Nov 2026 00:00:00",
          "title" : "Total Chess Pilot: Caruana Makes Knockout Stage"
-      },
-      {
-         "description" : "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program - it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research. New programming techniques have improved performance and stability, particularly in database searching, sorting and maintenance. And everything is noticeably faster. Take note of the launch date: November 17, 2026.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-27-all-new-functions",
-         "pubDate" : "Sun, 15 Nov 2026 18:26:30",
-         "title" : "ChessBase 27: Ready for Launch!"
       },
       {
          "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun...",
@@ -648,14 +648,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
          "pubDate" : "Mon, 2 Nov 2026 13:23:00",
          "title" : "English Open Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135460992.cms\" />Nihal Sarin broke into the world's Top 20 for the first time, reaching a career-best World No. 19 with 2720 rating points after winning individual gold at the European Chess Club Cup. India also has 13 players in the Open Top 100 and 11 in the Women's Top 100, while remaining the world's second-ranked chess federation across all three categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rankings-r-praggnanandhaa-only-indian-chess-player-in-worlds-top-10-where-is-gukesh/articleshow/135460992.cms",
-         "pubDate" : "Mon, 02 Nov 2026 12:08:58",
-         "title" : "FIDE Rankings: Pragg only Indian chess player in world's top 10; where is Gukesh?"
       },
       {
          "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
