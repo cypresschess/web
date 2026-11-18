@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135951761.cms\" />Magnus Carlsen has sparked controversy after refusing to play his final Fast Classical game against Bibisara Assaubayeva, despite being required to appear. Having already secured victory, he avoided risking valuable rating points. While organisers and arbiters maintained that no rules were broken, it raised multiple questions, exposing gaps in tournament regulations ahead of the Total Chess World Championship Tour's 2027 launch.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-didnt-show-up-for-fast-classical-chess-who-is-at-fault/articleshow/135951761.cms",
+         "pubDate" : "Wed, 18 Nov 2026 06:22:20",
+         "title" : "World No. 1 Magnus Carlsen didn't show up for fast classical chess: Who is at fault?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135950882.cms\" />Abhimanyu Mishra, who became the youngest Grandmaster at 12, has matured significantly since then. He acknowledges changes in his approach to chess, especially regarding his opening strategies. Mishra now explores various openings, which has enhanced his understanding of the game significantly. He expresses a preference for becoming a world champion rather than just the world No. 1.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-abhimanyu-mishra-would-prefer-being-world-champion-to-world-no-1-tag/articleshow/135950882.cms",
+         "pubDate" : "Wed, 18 Nov 2026 05:45:03",
+         "title" : "Total Chess: GM Abhimanyu Mishra would prefer being world champion to world No. 1 tag"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135945109.cms\" />Magnus Carlsen forfeited his Fast Classic game against Bibisara Assaubayeva after achieving a decisive lead. He expressed that the decision was due to the game's irrelevance after the day's results were secured. Carlsen's forfeit followed a disappointing performance in the group stage that affected his classical rating significantly. The Fast Classic format features shorter time controls, enhancing the pace of the game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -656,22 +672,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-actually-holds-you-back-from-reaching-1500-elo/",
          "pubDate" : "Sat, 31 Oct 2026 13:00:00",
          "title" : "What actually holds you back from reaching 1500 elo"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135397490.cms\" />R Praggnanandhaa finished runner-up at the Clutch Chess: Champions Showdown in Saint Louis, earning USD 109,000 (approximately Rs 1.04 crore). Despite his impressive performance, he admitted disappointment at narrowly missing the title. Uzbekistan's Javokhir Sindarov staged a final-day comeback to win with 20.5 points, finishing 1.5 points ahead of Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-rs-1-crore-in-pocket-yet-r-praggnanandhaa-calls-clutch-chess-campaign-little-disappointing/articleshow/135397490.cms",
-         "pubDate" : "Sat, 31 Oct 2026 10:52:00",
-         "title" : "Over Rs 1 cr in pocket, yet Pragg calls Clutch Chess campaign 'little disappointing'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135366386.cms\" />After leaving her Rs 50 LPA corporate career to support her daughter Shivika's chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi's chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-mother-who-had-to-quit-her-rs-50-lpa-job-now-changing-chess-scene-in-north-india/articleshow/135366386.cms",
-         "pubDate" : "Sat, 31 Oct 2026 01:30:00",
-         "title" : "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India"
       },
       {
          "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event was to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. Mortifyingly I had the wrong scores in the final standings although the right results. It seems that contrary to logic it was 1pt for a draw on the final day not 1.5pts. ",
