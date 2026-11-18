@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the semifinals of the top bracket, Maxime Vachier-Lagrave faces Anish Giri, while Alireza Firouzja faces Fabiano Caruana. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game scheduled each day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Praggnanandhaa Rameshbabu | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Wed, 18 Nov 2026 14:45:00",
+         "title" : "Total Chess: Semifinals - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135962745.cms\" />India won silver in the men's section of the Asian Nations Chess Cup 2026 despite competing with just four players and no coach or reserve player. Nihal Sarin, Pranav Venkatesh, Pranesh M and Aravindh Chithambaram finished with 15 points. Russia won gold, while India defeated Syria 4-0. India's women's team finished seventh, with Shubhi Gupta winning individual bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-win-mens-silver-at-asian-nations-chess-cup-aravindh-chithambaram-claims-gold-pranesh-and-pranav-also-take-board-medals/articleshow/135962745.cms",
+         "pubDate" : "Wed, 18 Nov 2026 12:37:21",
+         "title" : "India win men's silver at Asian Nations Cup; Aravindh claims individual gold"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135959819.cms\" />Magnus Carlsen sparked controversy after forfeiting his Fast Classic game against Bibisara Assaubayeva in Budapest, arguing that the match was \"totally useless\" after he had secured the day's overall result. Indian Grandmaster Srinath Narayanan criticised his conduct, saying, \"Dignity and courtesy took a fall long before the rating,\" while FIDE official Emil Sutovsky also questioned his sportsmanship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/dignity-and-courtesy-took-a-fall-india-gm-srinath-narayanan-criticises-magnus-carlsen-over-controversial-forfeit/articleshow/135959819.cms",
          "pubDate" : "Wed, 18 Nov 2026 11:29:56",
          "title" : "'Dignity and courtesy took a fall': India's Srinath criticises Carlsen over forfeit"
+      },
+      {
+         "description" : "These glasses might not improve your calculation, but they&#39;ll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the game in style. Coming in two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
+         "pubDate" : "Wed, 18 Nov 2026 08:00:00",
+         "title" : "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses"
       },
       {
          "description" : "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as Magnus Carlsen declined to play the final fast classic game against Bibisara Assaubayeva, having already secured the set victory. The Norwegian's decision prompted criticism, given the game's implications for his classical rating. | Photo: Michal Walusza / Total Chess",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-abhimanyu-mishra-would-prefer-being-world-champion-to-world-no-1-tag/articleshow/135950882.cms",
          "pubDate" : "Wed, 18 Nov 2026 05:45:03",
          "title" : "Total Chess: GM Abhimanyu Mishra would prefer being world champion to world No. 1 tag"
+      },
+      {
+         "description" : "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world junior blitz champion, and h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
+         "pubDate" : "Wed, 18 Nov 2026 05:21:14",
+         "title" : "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135945109.cms\" />Magnus Carlsen forfeited his Fast Classic game against Bibisara Assaubayeva after achieving a decisive lead. He expressed that the decision was due to the game's irrelevance after the day's results were secured. Carlsen's forfeit followed a disappointing performance in the group stage that affected his classical rating significantly. The Fast Classic format features shorter time controls, enhancing the pace of the game.",
@@ -466,22 +498,6 @@ news_feed (
          "title" : "AAce_Cracker Stages Comeback In 2nd Gambit Cup"
       },
       {
-         "description" : "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was ultimately Movahed who grabbed firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
-         "pubDate" : "Tue, 10 Nov 2026 12:00:00",
-         "title" : "Movahed Stays Strong Ahead of Speed Chess Championship"
-      },
-      {
-         "description" : "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced for the Masters and Challenger...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
-         "pubDate" : "Tue, 10 Nov 2026 11:40:00",
-         "title" : "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135706544.cms\" />Russian Grandmaster Peter Svidler has given Javokhir Sindarov a narrow 55-45 edge over reigning champion D Gukesh ahead of their November 24 title clash in Geneva. Svidler cautioned against underestimating Gukesh, citing his strength and experience. The 14-game contest will be historic, with both players aged 20, and carries a $2.5 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2027-us-chess-executive-board-election",
          "pubDate" : "Mon, 09 Nov 2026 00:00:00",
          "title" : "2027 US Chess Executive Board Election"
-      },
-      {
-         "description" : "IA/IO Carlos Chavez is the Executive Director of the storied Marshall Chess Club in Manhattan, NY. Last month, he served as an arbiter for the 6th Intercontinental Championship for PrisonersHe documented his experience in The Marshall Spectator newsletter, and, with permission from the Spectator and from Chavez, we are reprinting his article here. From October 13-15, FIDE and the Cook County Sheriff's Office held the 6th Intercontinental Championship for Prisoners, hosted online by Chess.com. A record 140 teams representing 56 countries participated across the men's, women's, and youth sections competed across multiple time zones. The goal of the event was to promote chess as a tool for educ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/arbiters-perspective-fide-6th-intercontinental-championship-prisoners",
-         "pubDate" : "Mon, 09 Nov 2026 00:00:00",
-         "title" : "An Arbiter's Perspective: FIDE 6th Intercontinental Championship for Prisoners"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
          "pubDate" : "Tue, 03 Nov 2026 09:00:00",
          "title" : "KazChess Masters Almaty 2026 - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135482066.cms\" />VS Rathanvel's journey to becoming India's 99th Grandmaster took an unexpected turn after FIDE did not recognise his initial rating achievement. Despite completing his norms in 2022, the Coimbatore player had to cross the 2500 rating mark again. After setbacks, pressure and uncertainty, he finally secured the required rating in Hungary, ending a four-year wait with relief rather than celebration.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-indias-99th-grandmaster-had-to-do-it-twice-the-latest-mystery-of-indian-chess-vs-rathanvel/articleshow/135482066.cms",
-         "pubDate" : "Tue, 03 Nov 2026 04:38:10",
-         "title" : "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel"
       },
       {
          "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
