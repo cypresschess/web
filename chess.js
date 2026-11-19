@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome Fabiano Caruana. Meanwhile, Magnus Carlsen once again forfeited his final fast classic game, with Richard Rapport and Abhimanyu Mishra following suit. The decisions have prompted further discussion about the tournament's format and demanding schedule. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
+         "pubDate" : "Thu, 19 Nov 2026 07:10:00",
+         "title" : "Total Chess: Giri and Firouzja to battle for tournament title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135977270.cms\" />The recent decision by World No. 1 Magnus Carlsen to forfeit his Fast Classic games has sparked a debate on tournament rules and fair play. In light of this, fellow competitors Abhimanyu Mishra and Richard Rapport opted out of their final matches. Mishra mentioned fatigue and concerns about impact on his ratings, while Rapport skipped his concluding game following a previous loss.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-the-land-of-frankenstein-gukesh-asked-to-distance-himself-from-what-people-are-saying-ahead-of-world-chess-championship/articleshow/135974914.cms",
          "pubDate" : "Thu, 19 Nov 2026 01:31:43",
          "title" : "Gukesh asked to distance himself from 'what people are saying' ahead of World Championship"
-      },
-      {
-         "description" : "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the semifinals of the top bracket, Maxime Vachier-Lagrave faces Anish Giri, while Alireza Firouzja faces Fabiano Caruana. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game scheduled each day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Praggnanandhaa Rameshbabu | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Wed, 18 Nov 2026 14:45:00",
-         "title" : "Total Chess: Semifinals - Live!"
       },
       {
          "description" : "GMs Alireza Firouzja and Anish Giri won their matches to advance to the Knockout 1 Final in the Total Chess World Championship Tour Pilot 2026. GM Fabiano Caruana won the second set against Firouzja (including a fast classical win), but the French...",
@@ -266,22 +266,6 @@ news_feed (
          "title" : "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title"
       },
       {
-         "description" : "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase - because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
-         "pubDate" : "Sun, 15 Nov 2026 08:00:00",
-         "title" : "ChessBase for Mac: people are loving it"
-      },
-      {
-         "description" : "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
-         "pubDate" : "Sun, 15 Nov 2026 07:00:00",
-         "title" : "Review: All new releases in October!"
-      },
-      {
          "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. For the first time, five categories of clubs can be nominated this year, up from three in previous years. These categories are Small, Medium, and Large Club, and the new categories of Extra-Large Club and College Club. The nomination period for the 2027 cycle opens Nov. 15, 2026 and closes April 1, 2027. The nomination form is available here. Award CategoriesExtra-Large Large Clubs have 200 or more members, Large Clubs have 100 to 199 members, Medium Clubs have 30 to 99 members, and Small Clubs have 3 to 29 members. Category",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -314,14 +298,6 @@ news_feed (
          "title" : "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention"
       },
       {
-         "description" : "\"The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,\" writes Lukas K&ouml;pl in his comprehensive review of Robert Ris's video courses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
-         "pubDate" : "Sat, 14 Nov 2026 07:00:00",
-         "title" : "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824247.cms\" />Magnus Carlsen faces increasing challenges to his world No. 1 title following a series of disappointing results. Fabiano Caruana has narrowed the rating gap significantly after showing exceptional form, including victories in the same tournament where Carlsen unexpectedly lost to Haik Martirosyan. Meanwhile, Arjun Erigaisi overcame Wesley So, and R Vaishali clinched her first win, reshaping the leaderboard landscape in this thrilling tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -336,14 +312,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/play-10-grandmasters-in-london/",
          "pubDate" : "Fri, 13 Nov 2026 17:19:00",
          "title" : "Play 10 Grandmasters in London"
-      },
-      {
-         "description" : "The 89th Tata Steel Chess Tournament will take place in Wijk aan Zee from 15 to 31 January 2027, with a Masters field led by Javokhir Sindarov (pictured), Nodirbek Abdusattorov, Vincent Keymer, Alireza Firouzja, Anish Giri and Levon Aronian. The Challengers section will also feature a strong international lineup, including Aravindh Chithambaram, Zhu Jiner, Bibisara Assaubayeva, Alice Lee and returning Ukrainian grandmaster Ihor Samunenkov. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2027-announcement",
-         "pubDate" : "Fri, 13 Nov 2026 15:50:00",
-         "title" : "Top players and rising stars head to Tata Steel Chess Tournament 2027"
       },
       {
          "description" : "The European Youth Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece with the magnificent Closing ceremony and Awarding of the Medalists and Winners. The Closing ceremony of the event was held in the open air, in the resort of Hotel Royal &#38; Imperial Belvedere, with spectacular acrobatic and dance performances. The ceremony was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Secretary General Mr. Theodoros Tsorbatzoglou, representative of the Cretan Periphery Mr. Georgis Pitsoulis, Tournament Director Mr. Nikos []",
@@ -378,14 +346,6 @@ news_feed (
          "title" : "Andreikin Nearly Sweeps 3 0 Thursday Tournaments"
       },
       {
-         "description" : "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D with Maxime Vachier-Lagrave. Meanwhile, Magnus Carlsen remains winless but just 2 points off the lead in Group C after again signing two draws. Notably, Bibisara Assaubayeva obtained a memorable upset victory over Arjun Erigaisi. | Photo: Michal Walusza / Total Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
-         "pubDate" : "Fri, 13 Nov 2026 08:15:00",
-         "title" : "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva"
-      },
-      {
          "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the chief arbi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -400,14 +360,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-coolest-ticket-town",
          "pubDate" : "Fri, 13 Nov 2026 00:00:00",
          "title" : "Inside Story: The Coolest Ticket in Town"
-      },
-      {
-         "description" : "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for a time. His death came as a great surprise. | Photo: British Chess News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anthony-miles-25-years-death",
-         "pubDate" : "Thu, 12 Nov 2026 21:30:00",
-         "title" : "Tony Miles: 25 years since the sudden death of an English star"
       },
       {
          "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanan...",
@@ -426,14 +378,6 @@ news_feed (
          "title" : "Win Prizes In The Fall 2026 CCL Predictions Challenge"
       },
       {
-         "description" : "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
-         "pubDate" : "Thu, 12 Nov 2026 08:00:00",
-         "title" : "Total Chess: Top scorers obtain 4/6 points on first day of group stage"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -450,14 +394,6 @@ news_feed (
          "title" : "Portions of Website are Down"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures and several exercises for training. Annotators include Lubomir Ftacnik. Aydin Suleymanli and Le Quang Liem, among others. The icing on the cake is Anish Giri's analysis of two decisive games from the Quantbox Chennai Grandmasters Tournament. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
-         "pubDate" : "Wed, 11 Nov 2026 21:30:00",
-         "title" : "CBM 233: Aronian and Pragg shine"
-      },
-      {
          "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -472,14 +408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-looking-forward-to-be-in-magnus-carlsens-group-vaishali-after-winning-two-blitz-games-against-super-gms/articleshow/135736478.cms",
          "pubDate" : "Wed, 11 Nov 2026 12:49:13",
          "title" : "'I was looking forward to Magnus's group': Vaishali after blitz wins over super GMs"
-      },
-      {
-         "description" : "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In under two minutes, our Mac developer Steffen Raetzke von Stoyentin explains whether and how you can keep using your existing ChessBase databases on a Mac.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
-         "pubDate" : "Wed, 11 Nov 2026 11:46:54",
-         "title" : "What happens with my databases? - ChessBase on Mac"
       },
       {
          "description" : "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f...",
