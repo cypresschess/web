@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Arjun Erigaisi | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Thu, 19 Nov 2026 14:45:00",
+         "title" : "Total Chess: Finals - Live!"
+      },
+      {
+         "description" : "Congratulations to GM Keith Arkell, who won the silver medal in the Open 65 and Over section at the FIDE World Senior Chess Championships in Vrnjačka Banja, Serbia.&#160;Keith scored an...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/keith-arkell-wins-silver-at-world-senior-championships/",
+         "pubDate" : "Thu, 19 Nov 2026 13:12:17",
+         "title" : "Keith Arkell wins Silver at World Senior Championships"
+      },
+      {
+         "description" : "England's junior players returned from the European Youth Chess Championships in Hersonissos, Crete, with two bronze medals after nine rounds.&#160;Harry Chan won bronze in the Open Under 8 section with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/two-bronze-medals-for-england-at-the-european-youth-championships/",
+         "pubDate" : "Thu, 19 Nov 2026 13:07:51",
+         "title" : "Two Bronze medals for England at the European Youth Championships"
+      },
+      {
          "description" : "The ECU E-Magazine September &#38; October 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine can be read online with interactive links through the following link, or it can be downloaded below in PDF format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -130,7 +154,7 @@ news_feed (
          "title" : "Controversy! Magnus Carlsen forfeits Fast Classic game against Bibisara"
       },
       {
-         "description" : "Editor's note: Pending any official photos of the awards ceremony, this article is light on pictures. Any accompanying persons who took photos of podium finishers is invited to email photos to Click here to show email address in order to enrich this article. Some photos from of players during games are available on FENEMAC's Facebook page. Additionally, any spelling or other errors can be emailed to me at the same address. North American Youth Chess Championship 2026400 players representing the U.S., Canada, and Mexico competed across 12 sections for the North American Youth Chess Championship 2026, held November 10 through 17 in Mexico City. The event was organized by the Confederation of C",
+         "description" : "Editor's note: Pending any official photos of the awards ceremony, this article is light on pictures. Any accompanying persons who took photos of podium finishers is invited to email photos to Click here to show email address in order to enrich this article. Some photos from of players during games are available on FENEMAC's Facebook page. Additionally, any spelling or other errors can be emailed to me at the same address. Update Nov. 19, 2026: I've seen been made aware that there were additional prizes for girls' blitz and rapid tournaments. Unfortunately, until the organizers add results to this page, all I have to go on are the Chess-Results standings linked below, which do not demarcate ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/usa-players-win-17-gold-medals-north-american-youth-chess-championship-2026",
@@ -178,12 +202,12 @@ news_feed (
          "title" : "UTD Advances To Defend CCL Title"
       },
       {
-         "description" : "The UK Chess Challenge has announced a new five-year sponsorship agreement with the J.M Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The...",
+         "description" : "The UK Chess Challenge has announced a new five-year partnership with the J.M. Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/j-m-mouskos-foundation-to-sponsor-uk-chess-challenge/",
          "pubDate" : "Tue, 17 Nov 2026 09:20:32",
-         "title" : "J.M. Mouskos Foundation to Sponsor UK Chess Challenge"
+         "title" : "UK Chess Challenge and J.M. Mouskos Foundation announce five-year partnership"
       },
       {
          "description" : "One of Chess.com&#39;s biggest annual traditions is coming back in 2027: Registration is now open for the 2027 Daily Chess Championship (DCC). The Daily Chess Championship is one of the biggest tournaments in the world, and you can be a part of it! Re...",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
          "pubDate" : "Fri, 30 Oct 2026 08:00:50",
          "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
-      },
-      {
-         "description" : "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
-         "pubDate" : "Thu, 29 Oct 2026 16:16:07",
-         "title" : "English Championships final round change of timing - important!"
       }
    ]
 }
