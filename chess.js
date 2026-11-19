@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In this article, we introduce the defending champion and offer insights into his career to date. | Photos: ChessBase India, Amruta Mokal / Michal Walusza / Eng Chin An (cover photo) / Tushar Damor /Frederic Friedel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
+         "pubDate" : "Thu, 19 Nov 2026 20:00:00",
+         "title" : "The Difficult Road to Defending His Title: Gukesh Dommaraju"
+      },
+      {
          "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Arjun Erigaisi | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
