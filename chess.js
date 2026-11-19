@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135977270.cms\" />The recent decision by World No. 1 Magnus Carlsen to forfeit his Fast Classic games has sparked a debate on tournament rules and fair play. In light of this, fellow competitors Abhimanyu Mishra and Richard Rapport opted out of their final matches. Mishra mentioned fatigue and concerns about impact on his ratings, while Rapport skipped his concluding game following a previous loss.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-controversial-forfeits-spark-domino-effect-two-more-gms-skip-games-at-total-chess-pilot/articleshow/135977270.cms",
+         "pubDate" : "Thu, 19 Nov 2026 04:23:08",
+         "title" : "Carlsen's forfeits spark domino effect! Two more GMs skip games at Total Chess Pilot"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135974981.cms\" />Magnus Carlsen was already out of the title race and was playing for a 17th-place finish. On Tuesday, he built an 11-point lead by winning three of the four blitz games and two rapid games against Bibisara. He took the same decision on Wednesday after collecting 10 points from the four blitz and two rapid games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meaningless-game-magnus-carlsen-sparks-controversy-forfeits-games-against-bibisara-assaubayeva-on-back-to-back-days/articleshow/135974981.cms",
+         "pubDate" : "Thu, 19 Nov 2026 01:42:29",
+         "title" : "Magnus Carlsen sparks controversy, forfeits games against Bibisara on back-to-back days"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135974914.cms\" />Set against Cologny's literary history, where Frankenstein and The Vampyre were conceived, the 2026 World Chess Championship pits reigning champion D Gukesh against Uzbekistan's Javokhir Sindarov. Former challenger Peter Leko believes Gukesh must distance himself from expectations, as Sindarov now carries the favourite's burden. He also welcomes the return of the demanding 14-game championship format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-the-land-of-frankenstein-gukesh-asked-to-distance-himself-from-what-people-are-saying-ahead-of-world-chess-championship/articleshow/135974914.cms",
+         "pubDate" : "Thu, 19 Nov 2026 01:31:43",
+         "title" : "Gukesh asked to distance himself from 'what people are saying' ahead of World Championship"
+      },
+      {
          "description" : "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the semifinals of the top bracket, Maxime Vachier-Lagrave faces Anish Giri, while Alireza Firouzja faces Fabiano Caruana. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game scheduled each day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Praggnanandhaa Rameshbabu | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,36 +602,12 @@ news_feed (
          "title" : "European Youth Chess Championship 2026 is halfway through"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135638737.cms\" />Reigning World Chess Champion D Gukesh visited Tirumala's Sri Venkateswara Temple to seek blessings ahead of his title defence against Uzbekistan's Javokhir Sindarov. The 14-game championship will take place in Geneva from November 24 to December 12. Both players will be 20, making it the youngest World Championship clash in chess history. The tournament carries a USD 2.5 million prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-visits-famous-tirumala-temple-ahead-of-world-chess-championship-title-defence/articleshow/135638737.cms",
-         "pubDate" : "Sat, 07 Nov 2026 14:40:12",
-         "title" : "Watch: Gukesh visits famous Tirumala temple ahead of World C'ship title defence"
-      },
-      {
          "description" : "One day I wake up, check chess news and see this headline: GothamChess Plays Chess With Ballon d'Or Winner Harry Kane, Michael Olise I've rarely been this jealous. From since I was 5 years old, I'm a huge Bayern fan. I proudly played for their Bundesliga Chess Team, and try to watch most matches. Harry []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/i-was-jealous-of-gothamchess-then-i-asked-one-question/",
          "pubDate" : "Sat, 07 Nov 2026 14:00:00",
          "title" : "I was jealous of GothamChess. Then I asked one question"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135613071.cms\" />Indian Grandmaster Pranav Venkatesh won the Open title at the FIDE World Junior Blitz Championship in Al Ain, UAE, scoring 10.5 points from 13 rounds. The 20-year-old finished a point clear of his closest rivals, adding blitz gold to the rapid silver he won earlier. India's Aamuktha Guntaka finished fifth in the Girls section, while Savitha Shri placed seventh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms",
-         "pubDate" : "Fri, 06 Nov 2026 16:07:50",
-         "title" : "India's 20-year-old chess GM Pranav crowned World Jr Blitz champion"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135605071.cms\" />R Praggnanandhaa expects an exciting World Chess Championship battle between D Gukesh and Javokhir Sindarov, highlighting their recent form and long-standing familiarity. He also said defending the world title brings pressure he cannot fully understand without experiencing it. Meanwhile, Gukesh visited Neem Karoli Baba's ashram ahead of the November 24 title clash in Geneva",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-pressure-is-completely-different-india-no-1-r-praggnanandhaa-on-gukesh-vs-javokhir-sindarov-match/articleshow/135605071.cms",
-         "pubDate" : "Fri, 06 Nov 2026 12:30:59",
-         "title" : "'World Champion pressure is completely different': Pragg on Gukesh-Sindarov match"
       },
       {
          "description" : " The Norwegian, 35, has set up a training camp in Spain to prepare for the Budapest Total Chess pilot November will be an important month for global chess, with the Total World Championship pilot, combining fast classical, rapid and blitz segments due in Budapest from 10-20 November. This will be followed by the Gukesh Dommaraju v Javokhir Sindarov Fide World Championship match in Geneva between 24 November and 12 December, featuring 14 games of classical chess ­followed, if needed, by rapid and blitz tie-breaks. The traditional London Classic at the Novotel West in Hammersmith will also start on 24 November and will continue until 7 December. <a href=\"https://www.theguardian.com/sport/2026/",
