@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine September &#38; October 2026 is out! In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine can be read online with interactive links through the following link, or it can be downloaded below in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-september-october-2026/",
+         "pubDate" : "Thu, 19 Nov 2026 10:59:50",
+         "title" : "ECU E-Magazine September & October 2026"
+      },
+      {
+         "description" : "The ECU Arbiters' Council has launched the 2027 Call of Interest for arbiters wishing to be appointed to European Championships. The Call of Interest has come in advance this year since the Council wishes to finalise all lists before Christmas 2026, in order to start appointing earlier in the 2027 beginning. For this reason, the window to apply has been reduced to 3 weeks and will expire on Saturday, December 5th. Deadline for submissions is: Saturday, 5 December 2026. Among []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/call-of-interest-for-ecu-arbiters-2027/",
+         "pubDate" : "Thu, 19 Nov 2026 09:40:27",
+         "title" : "Call of Interest for ECU Arbiters 2027"
+      },
+      {
          "description" : "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome Fabiano Caruana. Meanwhile, Magnus Carlsen once again forfeited his final fast classic game, with Richard Rapport and Abhimanyu Mishra following suit. The decisions have prompted further discussion about the tournament's format and demanding schedule. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
