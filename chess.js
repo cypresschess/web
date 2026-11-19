@@ -10,12 +10,28 @@ news_feed (
          "title" : "Total Chess: Semifinals - Live!"
       },
       {
+         "description" : "GMs Alireza Firouzja and Anish Giri won their matches to advance to the Knockout 1 Final in the Total Chess World Championship Tour Pilot 2026. GM Fabiano Caruana won the second set against Firouzja (including a fast classical win), but the French...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-8",
+         "pubDate" : "Wed, 18 Nov 2026 13:01:00",
+         "title" : "Giri, Firouzja Advance To Final Match"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135962745.cms\" />India won silver in the men's section of the Asian Nations Chess Cup 2026 despite competing with just four players and no coach or reserve player. Nihal Sarin, Pranav Venkatesh, Pranesh M and Aravindh Chithambaram finished with 15 points. Russia won gold, while India defeated Syria 4-0. India's women's team finished seventh, with Shubhi Gupta winning individual bronze.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-win-mens-silver-at-asian-nations-chess-cup-aravindh-chithambaram-claims-gold-pranesh-and-pranav-also-take-board-medals/articleshow/135962745.cms",
          "pubDate" : "Wed, 18 Nov 2026 12:37:21",
          "title" : "India win men's silver at Asian Nations Cup; Aravindh claims individual gold"
+      },
+      {
+         "description" : "GM Jose Martinez and the world&#39;s youngest GM, Faustino Oro, led the 9z Globant Chess Club to victory in the Chess Club Showdown on November 18. The 72-28 final score marked the team&#39;s third straight victory. 9z Globant has now won every showdown s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
+         "pubDate" : "Wed, 18 Nov 2026 12:34:00",
+         "title" : "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135959819.cms\" />Magnus Carlsen sparked controversy after forfeiting his Fast Classic game against Bibisara Assaubayeva in Budapest, arguing that the match was \"totally useless\" after he had secured the day's overall result. Indian Grandmaster Srinath Narayanan criticised his conduct, saying, \"Dignity and courtesy took a fall long before the rating,\" while FIDE official Emil Sutovsky also questioned his sportsmanship.",
@@ -72,6 +88,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/controversy-magnus-carlsen-forfeits-fast-classic-game-against-kazakhstans-bibisara-assaubayeva-calls-it-totally-useless/articleshow/135945109.cms",
          "pubDate" : "Wed, 18 Nov 2026 01:43:43",
          "title" : "Controversy! Magnus Carlsen forfeits Fast Classic game against Bibisara"
+      },
+      {
+         "description" : "Editor's note: Pending any official photos of the awards ceremony, this article is light on pictures. Any accompanying persons who took photos of podium finishers is invited to email photos to Click here to show email address in order to enrich this article. Some photos from of players during games are available on FENEMAC's Facebook page. Additionally, any spelling or other errors can be emailed to me at the same address. North American Youth Chess Championship 2026400 players representing the U.S., Canada, and Mexico competed across 12 sections for the North American Youth Chess Championship 2026, held November 10 through 17 in Mexico City. The event was organized by the Confederation of C",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-players-win-17-gold-medals-north-american-youth-chess-championship-2026",
+         "pubDate" : "Wed, 18 Nov 2026 00:00:00",
+         "title" : "USA Players Win 17 Gold Medals at North American Youth Chess Championship 2026"
+      },
+      {
+         "description" : "The MUIR tournament rating server began experiencing technical issues earlier this afternoon. As a result, accessing rating reports might take some users longer than usual, if they load at all. Our Development team is actively working to resolve the issue as quickly as possible. Thank you for your patience and understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/muir-rating-server-experiencing-issues",
+         "pubDate" : "Wed, 18 Nov 2026 00:00:00",
+         "title" : "MUIR Rating Server Experiencing Issues"
       },
       {
          "description" : "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship Tour Pilot 2026 began. The oth...",
@@ -482,22 +514,6 @@ news_feed (
          "title" : "89th Tata Steel 2027 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon Aronian third (6 points). The tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
-         "pubDate" : "Tue, 10 Nov 2026 12:22:00",
-         "title" : "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot"
-      },
-      {
-         "description" : "AAce_Cracker, a veteran who has played nearly 60,000 hands of poker on Gambit.com (where he was named Player of the Month in August and September), won the second special edition of the Gambit Cup, held on November 9. He outlasted a field of 1,359...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aace-cracker-wins-2026-gambit-cup-2",
-         "pubDate" : "Tue, 10 Nov 2026 12:15:00",
-         "title" : "AAce_Cracker Stages Comeback In 2nd Gambit Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135706544.cms\" />Russian Grandmaster Peter Svidler has given Javokhir Sindarov a narrow 55-45 edge over reigning champion D Gukesh ahead of their November 24 title clash in Geneva. Svidler cautioned against underestimating Gukesh, citing his strength and experience. The 14-game contest will be historic, with both players aged 20, and carries a $2.5 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-gms-100-and-counting-why-becoming-a-grandmaster-is-now-just-a-tiny-step/articleshow/135698082.cms",
          "pubDate" : "Tue, 10 Nov 2026 03:44:16",
          "title" : "India's chess GMs: 100 and counting - Why becoming a GM is now just a tiny step"
-      },
-      {
-         "description" : "This week's exercises come from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Enjoy! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-2026-clutch-chess-champions-showdown",
-         "pubDate" : "Tue, 10 Nov 2026 00:00:00",
-         "title" : "Tactics Tuesday: 2026 Clutch Chess Champions Showdown"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135689790.cms\" />World No. 1 Magnus Carlsen will headline the 2026 London Chess Classic Super Rapid on December 5-6, alongside India's Nihal Sarin, Maxime Vachier-Lagrave and Anish Giri. The open event offers amateurs a chance to face Carlsen. Also competing are World No. 5 Nodirbek Abdusattorov and prodigy Bodhana Sivanandan, the youngest Woman Grandmaster in history.",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
          "pubDate" : "Mon, 09 Nov 2026 02:40:58",
          "title" : "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage"
-      },
-      {
-         "description" : "The US Chess Federation (US Chess) will hold an election in 2027 for four at-large positions on the Executive Board. The top four vote-getters will be elected for a term of four years expiring in 2031.Any current US Chess member who is not a current US Chess employee or designated contractor (as defined in the US Chess bylaws) may be nominated for election to the Executive Board.Nominations must be made by submitting a petition containing the signatures of 50 or more members of US Chess who are either registered or eligible to register to vote, and by paying a $100 filing fee to the US Chess Federation.The members signing the nomination petition must include at least 15 US Chess delegates (a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2027-us-chess-executive-board-election",
-         "pubDate" : "Mon, 09 Nov 2026 00:00:00",
-         "title" : "2027 US Chess Executive Board Election"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
