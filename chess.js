@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
          "pubDate" : "Thu, 19 Nov 2026 20:00:00",
-         "title" : "The Difficult Road to Defending His Title: Gukesh Dommaraju"
+         "title" : "The difficult road to defending his title: Gukesh Dommaraju"
       },
       {
          "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Arjun Erigaisi | Photo: Michal Walusza",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
          "pubDate" : "Thu, 19 Nov 2026 14:45:00",
          "title" : "Total Chess: Finals - Live!"
+      },
+      {
+         "description" : "GM Anish Giri leads the Final against GM Alireza Firouzja after winning the first set 11-9 in the Total Chess World Championship on Thursday. The fast classic game was critical, and he managed to defend a lost (but tricky) position to maintain his...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
+         "pubDate" : "Thu, 19 Nov 2026 13:14:00",
+         "title" : "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800"
       },
       {
          "description" : "Congratulations to GM Keith Arkell, who won the silver medal in the Open 65 and Over section at the FIDE World Senior Chess Championships in Vrnjačka Banja, Serbia.&#160;Keith scored an...",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-looking-forward-to-be-in-magnus-carlsens-group-vaishali-after-winning-two-blitz-games-against-super-gms/articleshow/135736478.cms",
          "pubDate" : "Wed, 11 Nov 2026 12:49:13",
          "title" : "'I was looking forward to Magnus's group': Vaishali after blitz wins over super GMs"
-      },
-      {
-         "description" : "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
-         "pubDate" : "Wed, 11 Nov 2026 08:00:00",
-         "title" : "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135725387.cms\" />India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event. One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage.",
