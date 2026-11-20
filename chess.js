@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player ratings, national federations, participation, women in chess, tournament activity and historical rankings. It also includes head-to-head statistics for Gukesh Dommaraju and Javokhir Sindarov ahead of their World Championship match. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
+         "pubDate" : "Fri, 20 Nov 2026 21:00:00",
+         "title" : "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce"
+      },
+      {
          "description" : " When does it start? Who's tipped to win? And why isn't Magnus Carlsen playing? We (mostly) have the answers <ul><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history\">Play through 22 famous world championship games</a> </li></ul> India's <a href=\"https://www.theguardian.com/sport/gukesh-dommaraju\">Gukesh Dommaraju</a> is making his first defense of the world chess championship against fast-rising Uzbek star <a href=\"https://www.theguardian.com/sport/javokhir-sindarov\">Javokhir Sindarov</a> over the next three weeks in the affluent Geneva suburb of Cologny. Both players are 20 years old, making it the youngest matchup in <a href=\"https://",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Total Chess: Finals - Live!"
       },
       {
-         "description" : " As Gukesh Dommaraju and Javokhir Sindarov meet across the board in Geneva, revisit 22 classic games from the world chess championship's 140-year history The newest chapter in the 140-year history of the world <a href=\"https://www.theguardian.com/sport/chess\">chess</a> championship will be written over the next three weeks in Geneva, where Gukesh Dommaraju of India will defend his title against Uzbekistan's Javokhir Sindarov. The two 20-year-olds will make history as the youngest ever pairing to contest for the sport's most coveted title, joining a roll call of great players whose encounters have helped define the game itself. From the middle of the 16th century, the names of chess players w",
+         "description" : " As Gukesh Dommaraju and Javokhir Sindarov meet across the board in Geneva, revisit 22 classic games from the world chess championship's 140-year history <ul><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">Read our World Chess Championship watch guide</a> </li></ul> The newest chapter in the 140-year history of the world <a href=\"https://www.theguardian.com/sport/chess\">chess</a> championship <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">will be written over the next three weeks</a> in Geneva, where Guke",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-forfeit-controversy-viswanathan-anand-anish-giri-and-other-top-grandmasters-react/articleshow/136025362.cms",
          "pubDate" : "Fri, 20 Nov 2026 13:55:58",
          "title" : "Carlsen's forfeit controversy: Anand, Giri and other top Grandmasters react"
+      },
+      {
+         "description" : "For the second straight week, a youthful IM won Freestyle Friday on November 20, this time IM Sergey Sklokin-Bagiyan, whose 9.5 points were enough for outright victory. GM Jeffery Xiong finished sole second on nine points, with GMs Alexey Sarana a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sklokin-bagiyan-wins-freestyle-friday-november-20-2026",
+         "pubDate" : "Fri, 20 Nov 2026 12:18:31",
+         "title" : "Sklokin-Bagiyan, 13, Wins Freestyle Friday"
+      },
+      {
+         "description" : "15-year-old IM Khuong Duy Dau won his first-ever 3 0 Thursday title in the first tournament on November 19, just six days after he won his first Freestyle Friday tournament. Later that day, GM Sina Movahed won his fifth title in the second tournam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duy-dau-movahed-fedoseev-3-0-thursday-11-19-2026",
+         "pubDate" : "Fri, 20 Nov 2026 10:52:00",
+         "title" : "Dau, Movahed, Fedoseev Win 3 0 Thursday"
       },
       {
          "description" : "The 27th edition of the European Women's Chess Championship will take place from 18-31 March, 2027 in Hersonissos, Crete, Greece. The event was initially scheduled to take place in Malta; however, due to issues that arose with the hosting venue and hotels, and following a joint proposal from the organizers and the Malta Chess Federation to the ECU, the event will be organized in Crete. The event will be played in 11 rounds, swiss system, with the time control of []",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Teenage Phenom Wins Freestyle Friday"
       },
       {
-         "description" : "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
-         "pubDate" : "Fri, 13 Nov 2026 11:48:56",
-         "title" : "Andreikin Nearly Sweeps 3 0 Thursday Tournaments"
-      },
-      {
          "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the chief arbi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-coolest-ticket-town",
          "pubDate" : "Fri, 13 Nov 2026 00:00:00",
          "title" : "Inside Story: The Coolest Ticket in Town"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
-         "pubDate" : "Thu, 12 Nov 2026 12:54:00",
-         "title" : "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
