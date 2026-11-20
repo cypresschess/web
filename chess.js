@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-board Magnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest. A run of 10 winless games, including a <a href=\"https://lichess.org/broadcast/total-chess-world-championship-tour-pilot-2026-group-stage-c/round-5/frgTPEfx/42oACrDx\">loss to Armenia's Haik Martirosyan</a>, meant that Carlsen, who was expected to qualify for the semi-finals, instead met Kazakhstan's Bibisara Assaubayeva in a semi-final for 17th-20th places. ",
+         "description" : "The 27th edition of the European Women's Chess Championship will take place from 18-31 March, 2027 in Hersonissos, Crete, Greece. The event was initially scheduled to take place in Malta; however, due to issues that arose with the hosting venue and hotels, and following a joint proposal from the organizers and the Malta Chess Federation to the ECU, the event will be organized in Crete. The event will be played in 11 rounds, swiss system, with the time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2027-official-invitation/",
+         "pubDate" : "Fri, 20 Nov 2026 09:17:12",
+         "title" : "European Women's Chess Championship 2027 - Official invitation"
+      },
+      {
+         "description" : " The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-board Magnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest. A run of 10 winless games, including a <a href=\"https://lichess.org/broadcast/total-chess-world-championship-tour-pilot-2026-group-stage-c/round-5/frgTPEfx/42oACrDx\">loss to Armenia's Haik Martirosyan</a>, meant Carlsen, who was expected to qualify for the top four, instead met Kazakhstan's Bibisara Assaubayeva in a semi-final for 17th-20th places. <a href=",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/nov/20/chess-magnus-carlsen-winless-world-no1-spot-2800-rating",
