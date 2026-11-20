@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-board Magnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest. A run of 10 winless games, including a <a href=\"https://lichess.org/broadcast/total-chess-world-championship-tour-pilot-2026-group-stage-c/round-5/frgTPEfx/42oACrDx\">loss to Armenia's Haik Martirosyan</a>, meant that Carlsen, who was expected to qualify for the semi-finals, instead met Kazakhstan's Bibisara Assaubayeva in a semi-final for 17th-20th places. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/20/chess-magnus-carlsen-winless-world-no1-spot-2800-rating",
+         "pubDate" : "Fri, 20 Nov 2026 08:00:27",
+         "title" : "Chess: Carlsen's winless sequence at Budapest risks loss of world No 1 spot and 2800 rating"
+      },
+      {
+         "description" : "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11-9. Meanwhile, Magnus Carlsen sparked further controversy by forfeiting both rapid games against Vladislav Artemiev before returning to win the fast classic encounter. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
+         "pubDate" : "Fri, 20 Nov 2026 07:10:00",
+         "title" : "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136013677.cms\" />Magnus Carlsen forfeited two games against Vladislav Artemiev, needing to secure a must-win Fast Classic. After falling behind 3-9, Carlsen made a remarkable comeback with an 11-9 victory. This win ensured his Elo rating remained above 2,800, preserving his status as world number one. Meanwhile, Anish Giri defeated Alireza Firouzja in their match for the title on the opening day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-high-stakes-gamble-pays-off-forfeits-two-games-fights-back-to-save-2800-elo-and-no-1-ranking/articleshow/136013677.cms",
+         "pubDate" : "Fri, 20 Nov 2026 04:53:27",
+         "title" : "Carlsen's gamble pays off: Forfeits games, fights back to save 2800 Elo &amp; No.1 ranking"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136012026.cms\" />Gukesh Dommaraju is gearing up to defend his World Chess Championship title against Javokhir Sindarov in Geneva. Legendary player Viswanathan Anand has encouraged Gukesh to stay calm and focus, suggesting that stress serves no purpose. Both competitors are backed by chess icons, with Anand mentoring Gukesh and Rustam Kazimdzhanov guiding Sindarov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
          "pubDate" : "Thu, 19 Nov 2026 20:00:00",
          "title" : "The difficult road to defending his title: Gukesh Dommaraju"
-      },
-      {
-         "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Arjun Erigaisi | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Thu, 19 Nov 2026 14:45:00",
-         "title" : "Total Chess: Finals - Live!"
       },
       {
          "description" : "GM Anish Giri leads the Final against GM Alireza Firouzja after winning the first set 11-9 in the Total Chess World Championship on Thursday. The fast classic game was critical, and he managed to defend a lost (but tricky) position to maintain his...",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Rejected a job offer for chess, now India's 100th Grandmaster: How Anuj Shrivatri became a GM"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673461.cms\" />Celebrating a monumental achievement, India now boasts its 100th Grandmaster, Anuj Shrivatri, who secured this prestigious title at the 7th ASEAN Plus Individual Open Chess Championship held in the Philippines. Anuj showcased exceptional resilience, finishing with seven points after a rocky start in his first game. This achievement underscores the remarkable evolution of Indian chess since Viswanathan Anand first paved the way in 1988, highlighting the sport's rising international stature.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anuj-shrivatri-becomes-indias-100th-chess-grandmaster-full-list-of-all-100-indian-gms/articleshow/135673461.cms",
-         "pubDate" : "Mon, 09 Nov 2026 06:28:53",
-         "title" : "Anuj Shrivatri becomes India's 100th Grandmaster: Full list of all 100 Indian GMs"
-      },
-      {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-october-2026/",
          "pubDate" : "Fri, 30 Oct 2026 12:57:10",
          "title" : "Communique of the ECU Board Meeting October 2026"
-      },
-      {
-         "description" : " From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after <a href=\"https://chesstempo.com/game-database/game/viktor-korchnoi-vs-nigel-short/2270154\">defeating the legendary Viktor Korchnoi</a> in a simultaneous display in London the previous year. David Bronstein, watching that game, compared the winner's rook infiltration via the fifth rank after move 40 to Jos&eacute; Capablanca's strategy against Aron Nimzowitsch at ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
-         "pubDate" : "Fri, 30 Oct 2026 08:00:50",
-         "title" : "Chess: English prodigies have proud record of giantkilling across the generations"
       }
    ]
 }
