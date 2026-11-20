@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " When does it start? Who's tipped to win? And why isn't Magnus Carlsen playing? We (mostly) have the answers <ul><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history\">Play through 22 famous world championship games</a> </li></ul> India's <a href=\"https://www.theguardian.com/sport/gukesh-dommaraju\">Gukesh Dommaraju</a> is making his first defense of the world chess championship against fast-rising Uzbek star <a href=\"https://www.theguardian.com/sport/javokhir-sindarov\">Javokhir Sindarov</a> over the next three weeks in the affluent Geneva suburb of Cologny. Both players are 20 years old, making it the youngest matchup in <a href=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer",
+         "pubDate" : "Fri, 20 Nov 2026 15:00:32",
+         "title" : "World Chess Championship 2026: Gukesh Dommaraju v Javokhir Sindarov match questions, answered"
+      },
+      {
+         "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Richard Rapport | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+         "pubDate" : "Fri, 20 Nov 2026 14:45:00",
+         "title" : "Total Chess: Finals - Live!"
+      },
+      {
+         "description" : " As Gukesh Dommaraju and Javokhir Sindarov meet across the board in Geneva, revisit 22 classic games from the world chess championship's 140-year history The newest chapter in the 140-year history of the world <a href=\"https://www.theguardian.com/sport/chess\">chess</a> championship will be written over the next three weeks in Geneva, where Gukesh Dommaraju of India will defend his title against Uzbekistan's Javokhir Sindarov. The two 20-year-olds will make history as the youngest ever pairing to contest for the sport's most coveted title, joining a roll call of great players whose encounters have helped define the game itself. From the middle of the 16th century, the names of chess players w",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history",
+         "pubDate" : "Fri, 20 Nov 2026 13:57:31",
+         "title" : "From Bobby Fischer to Magnus Carlsen: 22 of the most famous world chess championship games"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136025362.cms\" />Magnus Carlsen's decision to forfeit two Rapid games against Vladislav Artemiev has divided the chess world. While Artemiev expresses some understanding, Ian Nepomniachtchi calls for expulsion, and Fabiano Caruana criticises the move. Anish Giri also distances himself from the approach, while Viswanathan Anand highlights loopholes in the Total Chess rules and calls for stricter regulations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-forfeit-controversy-viswanathan-anand-anish-giri-and-other-top-grandmasters-react/articleshow/136025362.cms",
+         "pubDate" : "Fri, 20 Nov 2026 13:55:58",
+         "title" : "Carlsen's forfeit controversy: Anand, Giri and other top Grandmasters react"
+      },
+      {
          "description" : "The 27th edition of the European Women's Chess Championship will take place from 18-31 March, 2027 in Hersonissos, Crete, Greece. The event was initially scheduled to take place in Malta; however, due to issues that arose with the hosting venue and hotels, and following a joint proposal from the organizers and the Malta Chess Federation to the ECU, the event will be organized in Crete. The event will be played in 11 rounds, swiss system, with the time control of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,12 +50,28 @@ news_feed (
          "title" : "Chess: Carlsen's winless sequence at Budapest risks loss of world No 1 spot and 2800 rating"
       },
       {
+         "description" : "&#34;I will give my all and try to bring the crown to Uzbekistan,&#34; says 20-year-old World Championship Challenger Javokhir Sindarov in Chess.com&#39;s documentary, which will be released on November 20, days before the 2026 Salesforce FIDE World Champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-documentary-salesforce-2026-fide-world-championship",
+         "pubDate" : "Fri, 20 Nov 2026 08:00:00",
+         "title" : "Chess.com Releases Behind-The-Scenes Documentary Of Sindarov (Part 1)"
+      },
+      {
          "description" : "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11-9. Meanwhile, Magnus Carlsen sparked further controversy by forfeiting both rapid games against Vladislav Artemiev before returning to win the fast classic encounter. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
          "pubDate" : "Fri, 20 Nov 2026 07:10:00",
          "title" : "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games"
+      },
+      {
+         "description" : "A six-part documentary series titled Candidates: India&#39;s Chess Story will be releasing on YouTube, with the first episode airing on November 22. Viewership is free. The series follows the five Indian players at the 2024 Candidates Tournaments&#38;mdas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/candidates-indias-chess-story-documentary",
+         "pubDate" : "Fri, 20 Nov 2026 05:47:05",
+         "title" : "Docuseries Featuring Gukesh, Other Top Indian GMs Begins November 22"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136013677.cms\" />Magnus Carlsen forfeited two games against Vladislav Artemiev, needing to secure a must-win Fast Classic. After falling behind 3-9, Carlsen made a remarkable comeback with an 11-9 victory. This win ensured his Elo rating remained above 2,800, preserving his status as world number one. Meanwhile, Anish Giri defeated Alireza Firouzja in their match for the title on the opening day.",
@@ -466,14 +514,6 @@ news_feed (
          "title" : "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun"
       },
       {
-         "description" : "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins!&#38;nbsp; Will UT Dallas defend their championship title, or will SRM IST get their revenge and their first-ever CCL Champ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/win-prizes-in-the-fall-2026-ccl-predictions-challenge",
-         "pubDate" : "Thu, 12 Nov 2026 12:17:00",
-         "title" : "Win Prizes In The Fall 2026 CCL Predictions Challenge"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -488,14 +528,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/portions-website-are-down-0",
          "pubDate" : "Thu, 12 Nov 2026 00:00:00",
          "title" : "Portions of Website are Down"
-      },
-      {
-         "description" : "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
-         "pubDate" : "Wed, 11 Nov 2026 13:24:00",
-         "title" : "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135736478.cms\" />Indian Grandmaster Vaishali Rameshbabu impressed at the Total Chess World Championship Tour Pilot in Budapest, defeating Hans Niemann and Wesley So in the blitz event. She scored four points from nine rounds and looks forward to the challenging group stage. Meanwhile, Magnus Carlsen won the blitz event unbeaten with seven points, securing an early tournament advantage.",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "World No. 1 Carlsen set for LCC Super Rapid; who is there from India?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673988.cms\" />Anuj Shrivatri has made history by becoming India's 100th Grandmaster while competing in the Philippines. His journey, which began in childhood under the influence of his father's fascination with chess, had seen multiple unsuccessful attempts before this triumph. As he celebrates this remarkable milestone, Shrivatri is committed to honing his skills and aims to dominate in more chess tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rejected-a-job-offer-for-chess-now-indias-100th-grandmaster-how-anuj-shrivatri-became-madhya-pradeshs-first-gm/articleshow/135673988.cms",
-         "pubDate" : "Mon, 09 Nov 2026 07:00:02",
-         "title" : "Rejected a job offer for chess, now India's 100th Grandmaster: How Anuj Shrivatri became a GM"
-      },
-      {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -656,22 +680,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/what-actually-holds-you-back-from-reaching-1500-elo/",
          "pubDate" : "Sat, 31 Oct 2026 13:00:00",
          "title" : "What actually holds you back from reaching 1500 elo"
-      },
-      {
-         "description" : " The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event was to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring. Mortifyingly I had the wrong scores in the final standings although the right results. It seems that contrary to logic it was 1pt for a draw on the final day not 1.5pts. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
-         "pubDate" : "Fri, 30 Oct 2026 13:53:00",
-         "title" : "Clutch Chess: Champions Showdown 2026 - Games and results"
-      },
-      {
-         "description" : "The fourth quarter meeting of the ECU Board took place on 22 and 23 October 2026 in Budva, Montenegro, under the well-known hospitality of the Montenegro Chess Federation. The President of the Montenegro Chess Federation, Mr Jovan Milovic, warmly welcomed the members of the ECU Board to Budva. Main information and decisions ECU Statutes The ECU Board launched the procedure to review and amend the ECU Statutes. The newly established Chess Olympic Affairs Commission will be the main contributor to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-october-2026/",
-         "pubDate" : "Fri, 30 Oct 2026 12:57:10",
-         "title" : "Communique of the ECU Board Meeting October 2026"
       }
    ]
 }
