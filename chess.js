@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136012026.cms\" />Gukesh Dommaraju is gearing up to defend his World Chess Championship title against Javokhir Sindarov in Geneva. Legendary player Viswanathan Anand has encouraged Gukesh to stay calm and focus, suggesting that stress serves no purpose. Both competitors are backed by chess icons, with Anand mentoring Gukesh and Rustam Kazimdzhanov guiding Sindarov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-amount-of-worrying-is-going-to-fix-some-things-anand-tells-gukesh-to-relax-ahead-of-world-championship-match/articleshow/136012026.cms",
+         "pubDate" : "Fri, 20 Nov 2026 03:49:17",
+         "title" : "Anand tells Gukesh to relax ahead of World C'ship: 'Worrying won't fix some things'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136010200.cms\" />In Budapest, Magnus Carlsen, alongside Abhimanyu Mishra and Richard Rapport, chose to forfeit their Fast Classic matches. This tactical move avoided potential risks while allowing them to secure points from earlier rounds. While the strategy may invite ethical discussions, it fits well within the tournament's structure. The organisers are set to gather player insights to refine future events based on this initial experience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/forfeitures-could-be-a-lesson-for-total-chess-organisers/articleshow/136010200.cms",
+         "pubDate" : "Fri, 20 Nov 2026 02:10:48",
+         "title" : "Forfeitures could be a lesson for Total Chess organisers"
+      },
+      {
          "description" : "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In this article, we introduce the defending champion and offer insights into his career to date. | Photos: ChessBase India, Amruta Mokal / Michal Walusza / Eng Chin An (cover photo) / Tushar Damor /Frederic Friedel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,22 +568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anuj-shrivatri-becomes-indias-100th-chess-grandmaster-full-list-of-all-100-indian-gms/articleshow/135673461.cms",
          "pubDate" : "Mon, 09 Nov 2026 06:28:53",
          "title" : "Anuj Shrivatri becomes India's 100th Grandmaster: Full list of all 100 Indian GMs"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135668698.cms\" />Total Chess chief Kjell Madland has defended the pilot tournament's fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and attract wider audiences.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
-         "pubDate" : "Mon, 09 Nov 2026 02:40:58",
-         "title" : "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135660706.cms\" />Anuj Shrivatri made history by becoming India's 100th chess Grandmaster and the first from Madhya Pradesh after winning the 7th ASEAN Plus Individual Open Chess Championship on Diwali. The 2004-born player recovered from an opening defeat to finish with seven points. His achievement marks a major milestone for Indian chess, 38 years after Viswanathan Anand became the country's first Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-100th-grandmaster-anuj-shrivatri-becomes-first-gm-from-madhya-pradesh/articleshow/135660706.cms",
-         "pubDate" : "Sun, 08 Nov 2026 14:23:03",
-         "title" : "India gets its 100th Grandmaster! Anuj Shrivatri becomes first GM from MP"
       },
       {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
