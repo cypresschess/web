@@ -10,6 +10,22 @@ news_feed (
          "title" : "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce"
       },
       {
+         "description" : " The Total Chess Pilot tournament took place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games took place across a multiplicity of time controls and weighted results. (Blitz: 3 min + 2 sec per move, starting from move 1 Rapid: 15 min + 10 sec per move, starting from move 1 Fast Classic: 45 min + 30 sec per move, starting from move 1) Alireza Firouzja came from losing on day one to defeat Anish Giri in the final. These two players have sewn up Candidates places and that's perhaps the only real positive, these are players who will grace a Candidates tournament. The event was created by Norwegian organisers to m",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
+         "pubDate" : "Fri, 20 Nov 2026 20:59:00",
+         "title" : "Total Chess Pilot 2026 - Games and Results"
+      },
+      {
+         "description" : "GM Denis Lazavik is through to face either GM Wesley So or GM Praggnanandhaa Rameshbabu in the Quarterfinals of the Speed Chess Championship XI after defeating GM Dmitry Andreikin 12-8 in the Round of 16. Lazavik won the first game before drawing ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
+         "pubDate" : "Fri, 20 Nov 2026 16:15:00",
+         "title" : "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin"
+      },
+      {
          "description" : " When does it start? Who's tipped to win? And why isn't Magnus Carlsen playing? We (mostly) have the answers <ul><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/greatest-chess-games-world-championship-history\">Play through 22 famous world championship games</a> </li></ul> India's <a href=\"https://www.theguardian.com/sport/gukesh-dommaraju\">Gukesh Dommaraju</a> is making his first defense of the world chess championship against fast-rising Uzbek star <a href=\"https://www.theguardian.com/sport/javokhir-sindarov\">Javokhir Sindarov</a> over the next three weeks in the affluent Geneva suburb of Cologny. Both players are 20 years old, making it the youngest matchup in <a href=\"https://",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Carlsen's forfeit controversy: Anand, Giri and other top Grandmasters react"
       },
       {
+         "description" : "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&#38;nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament in an armageddo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+         "pubDate" : "Fri, 20 Nov 2026 13:07:00",
+         "title" : "Firouzja Wins Total Chess World Championship Tour Pilot"
+      },
+      {
          "description" : "For the second straight week, a youthful IM won Freestyle Friday on November 20, this time IM Sergey Sklokin-Bagiyan, whose 9.5 points were enough for outright victory. GM Jeffery Xiong finished sole second on nine points, with GMs Alexey Sarana a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,12 +90,12 @@ news_feed (
          "title" : "European Women's Chess Championship 2027 - Official invitation"
       },
       {
-         "description" : " The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-board Magnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest. A run of 10 winless games, including a <a href=\"https://lichess.org/broadcast/total-chess-world-championship-tour-pilot-2026-group-stage-c/round-5/frgTPEfx/42oACrDx\">loss to Armenia's Haik Martirosyan</a>, meant Carlsen, who was expected to qualify for the top four, instead met Kazakhstan's Bibisara Assaubayeva in a semi-final for 17th-20th places. <a href=",
+         "description" : " The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-board Magnus Carlsen was fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest. A run of 10 games without a win, including a <a href=\"https://lichess.org/broadcast/total-chess-world-championship-tour-pilot-2026-group-stage-c/round-5/frgTPEfx/42oACrDx\">loss to Armenia's Haik Martirosyan</a>, meant Carlsen, who was expected to qualify for the final four, instead met Kazakhstan's Bibisara Assaubayeva in a semi-final for 17th‑20th place",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2026/nov/20/chess-magnus-carlsen-winless-world-no1-spot-2800-rating",
          "pubDate" : "Fri, 20 Nov 2026 08:00:27",
-         "title" : "Chess: Carlsen's winless sequence at Budapest risks loss of world No 1 spot and 2800 rating"
+         "title" : "Chess: Carlsen's winless sequence at Budapest risked loss of world No 1 spot and 2800 rating"
       },
       {
          "description" : "&#34;I will give my all and try to bring the crown to Uzbekistan,&#34; says 20-year-old World Championship Challenger Javokhir Sindarov in Chess.com&#39;s documentary, which will be released on November 20, days before the 2026 Salesforce FIDE World Champions...",
@@ -120,6 +144,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/forfeitures-could-be-a-lesson-for-total-chess-organisers/articleshow/136010200.cms",
          "pubDate" : "Fri, 20 Nov 2026 02:10:48",
          "title" : "Forfeitures could be a lesson for Total Chess organisers"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess will be closed Thursday, Nov. 26 and Friday, Nov. 27 in celebration of Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, Nov. 30. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We recommend submitting anything by noon CST on Wednesday, Nov. 25, to ensure it is processed promptly. Additionally, the US Chess website will be undergoing some scheduled maintenance next Tuesday, Nov. 24, starting at ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-nov-26-and-27-thanksgiving",
+         "pubDate" : "Fri, 20 Nov 2026 00:00:00",
+         "title" : "US Chess Offices Closed Nov. 26 and 27 for Thanksgiving"
+      },
+      {
+         "description" : "The US Chess website will be undergoing some scheduled maintenance next Tuesday, Nov. 24, starting at approximately 5:00 a.m. CST. The entire website will be offline for these updates. It is projected to be completed before 12:00 p.m. noon the same day. We apologize for any inconvenience.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/scheduled-website-outage-tuesday-nov-24",
+         "pubDate" : "Fri, 20 Nov 2026 00:00:00",
+         "title" : "Scheduled Website Outage Tuesday, Nov. 24"
       },
       {
          "description" : "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In this article, we introduce the defending champion and offer insights into his career to date. | Photos: ChessBase India, Amruta Mokal / Michal Walusza / Eng Chin An (cover photo) / Tushar Damor /Frederic Friedel",
@@ -490,22 +530,6 @@ news_feed (
          "title" : "European Youth Chess Champions 2026 crowned"
       },
       {
-         "description" : "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
-         "pubDate" : "Fri, 13 Nov 2026 13:20:00",
-         "title" : "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot"
-      },
-      {
-         "description" : "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau&#39;s first in either event, and he did it by 1.5 points ahead of second ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
-         "pubDate" : "Fri, 13 Nov 2026 13:10:00",
-         "title" : "Teenage Phenom Wins Freestyle Friday"
-      },
-      {
          "description" : " The Norwegian world No 1 will be among 500 competitors in the 10-round contest of 15-minute games Magnus Carlsen makes a very rare appearance in an open tournament on 5-6 December when the Norwegian, who has topped the world rankings for 15 successive years, competes in the 10-round Super Rapid at the XTX Markets London Classic. The venue is the Novotel West at Hammersmith and the time limit is 15 minutes per player for the entire game, plus a 10 seconds increment for each move. In 2025, 267 players entered the Super Rapid. On Monday, when Carlsen's participation was announced, the entry doubled in just 12 hours and is now close to 400. The capacity is 500 and Alex Holowczak, the chief arbi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -554,36 +578,12 @@ news_feed (
          "title" : "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann"
       },
       {
-         "description" : "This week's exercises come from last month's Clutch Chess: Champions Showdown, hosted at the Saint Louis Chess Club. With heated games at faster time controls, spectators were treated to a number of tactical knockouts (and misses!) at critical junctures, making for excellent teaching material. Check out even more exercises from this tournament in yesterday's more beginner-friendly Tactics Tuesday worksheet. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2026-clutch-chess-champions-showdown",
-         "pubDate" : "Wed, 11 Nov 2026 00:00:00",
-         "title" : "Wednesday Workout: 2026 Clutch Chess Champions Showdown"
-      },
-      {
-         "description" : "Third-party vendors are overloading our data system, causing frequent issues for Tournament Directors (TDs) and players submitting tournaments and affecting our entire tournament system. Therefore, we have made a decision to lower the API usage limits on a temporary basis until we can adequately control and allocate system resources. US Chess will always prioritize TDs and players over automated third-party requests for our data. We will also be releasing a data usage policy and agreement, setting out our plan to work with and manage other sites, users, and vendors.Thank you for your patience and attention to this matter.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-api-limits-lowered",
-         "pubDate" : "Wed, 11 Nov 2026 00:00:00",
-         "title" : "US Chess API Limits Lowered"
-      },
-      {
          "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-youth-chess-championship-2026/",
          "pubDate" : "Tue, 10 Nov 2026 21:31:55",
          "title" : "Two rounds to go at the European Youth Chess Championship 2026"
-      },
-      {
-         "description" : " The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (Blitz: 3 min + 2 sec per move, starting from move 1 Rapid: 15 min + 10 sec per move, starting from move 1 Fast Classic: 45 min + 30 sec per move, starting from move 1) Players: Magnus Carlsen, Fabiano Caruana, Wesley So, Vincent Keymer, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu, Arjun Erigaisi, Anish Giri, Alireza Firouzja, Jan-Krzysztof Duda, Quang Liem Le, Richard Rapport, Levon Aronian, Hans Moke Niemann, Shakhriyar Mamedyarov, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
-         "pubDate" : "Tue, 10 Nov 2026 15:35:00",
-         "title" : "Total Chess Pilot 2026 - Games and Results"
       },
       {
          "description" : " The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vladimir Fedoseev, Jorden van Foreest, Aravindh Chithambaram, Matthias Bluebaum, Yagiz Kaan Erdogmus, Thai Dai Van Nguyen. Challengers: Velimir Ivic, Erwin l'Ami, Aydin Suleymanli, Marc'Andria Maurizzi, Andy Woodward, Vasyl Ivanchuk, Daniil Yuffa, Max Warmerdam, Faustino Oro, Bibisara Assaubayeva, Carissa Yip, Lu Miaoyi, Vedant Panesar, Eline Roebers. ",
