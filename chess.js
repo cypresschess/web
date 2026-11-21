@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Niemann finished fifth. Meanwhile, Magnus Carlsen forfeited a game for the fourth consecutive day before claiming seventeenth place. His decisions continued to draw criticism as the experimental tournament came to an end. | Photo: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-ko-4",
+         "pubDate" : "Sat, 21 Nov 2026 18:40:00",
+         "title" : "Firouzja beats Giri in Armageddon to claim Total Chess Pilot title"
+      },
+      {
          "description" : "Ask the right question, and you get the right answer. That's easy for tactical exercises. You know there is a tactic. So you can simply ask yourself: \"Which move could decide the game here?\" You might not do it consciously, but that's what your brain automatically searches for. And once you find a move that []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/the-question-every-chess-player-should-ask-and-nearly-nobody-does/",
          "pubDate" : "Sat, 21 Nov 2026 14:00:00",
          "title" : "The question every chess player should ask (and nearly nobody does)"
+      },
+      {
+         "description" : "FIDE will refer GM Magnus Carlsen&#39;s conduct at the Total Chess World Championship Tour Pilot to its Ethics and Disciplinary Commission (EDC), describing his forfeits as &#34;unacceptable.&#38;rdquo; The tournament&#38;rsquo;s arbiters will also face a separat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
+         "pubDate" : "Sat, 21 Nov 2026 11:13:00",
+         "title" : "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers His Conduct To Ethics Commission"
       },
       {
          "description" : "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World Championship match, Sindarov has achieved an average performance rating of 2812 - higher than any other player. Over the past year, Sindarov has gained 61 Elo points, while Gukesh has lost 53. No wonder Sindarov is favourite in the World Championship match. | Photo: Nils Rohde",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-sindarov-clash-puts-india-uzbek-chess-rivalry-in-focus/articleshow/136042815.cms",
          "pubDate" : "Sat, 21 Nov 2026 02:01:35",
          "title" : "Gukesh-Sindarov clash puts India-Uzbek chess rivalry in focus"
+      },
+      {
+         "description" : "French GM Alireza Firouzja won the Total Chess Pilot 2026 on Friday, Nov. 20 in Budapest after outlasting Dutch GM Anish Giri in Armageddon. Firouzja earned $80,000 for the victory while Giri went home with $50,000. GM Fabiano Caruana won $45,000 for winning the consolation match for third place over French GM Maxime Vachier Lagrave. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> A victorious Firouzja! (All photos courtesy Total Chess/Michal Walusza)<br> <br> <br> <br> As explained in our earlier report, the four Group Stage winners progressed to the Knockout 1 bracket to compete for first place, but the four second place finishers competed for fifth ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/firouzja-wins-total-chess-pilot-caruana-third",
+         "pubDate" : "Sat, 21 Nov 2026 00:00:00",
+         "title" : "Firouzja Wins Total Chess Pilot, Caruana Third"
       },
       {
          "description" : "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player ratings, national federations, participation, women in chess, tournament activity and historical rankings. It also includes head-to-head statistics for Gukesh Dommaraju and Javokhir Sindarov ahead of their World Championship match. | Image: FIDE",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "Celebrating the ECF Awards 2026"
       },
       {
-         "description" : "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xiong t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
-         "pubDate" : "Sun, 15 Nov 2026 08:13:00",
-         "title" : "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title"
-      },
-      {
          "description" : "Each year, the U.S. Chess Federation honors clubs that go above and beyond in promoting the game and serving their communities through the Chess Club of the Year Awards. For the first time, five categories of clubs can be nominated this year, up from three in previous years. These categories are Small, Medium, and Large Club, and the new categories of Extra-Large Club and College Club. The nomination period for the 2027 cycle opens Nov. 15, 2026 and closes April 1, 2027. The nomination form is available here. Award CategoriesExtra-Large Large Clubs have 200 or more members, Large Clubs have 100 to 199 members, Medium Clubs have 30 to 99 members, and Small Clubs have 3 to 29 members. Category",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
          "pubDate" : "Thu, 12 Nov 2026 03:30:39",
          "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
-      },
-      {
-         "description" : "Today, a widespread global outage affecting Microsoft 365 is disrupting email and workplace communication platforms for organizations worldwide, including US Chess. In addition to delays to email communication, our membership and tournament reporting services may also be affected. Please expect slower-than-usual response times to your emails and inquiries today, and we are working diligently to ameliorate these issues. As we learn more, we will share more information on our social media channels and on this page. Thank you for your patience and understanding. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/portions-website-are-down-0",
-         "pubDate" : "Thu, 12 Nov 2026 00:00:00",
-         "title" : "Portions of Website are Down"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135736478.cms\" />Indian Grandmaster Vaishali Rameshbabu impressed at the Total Chess World Championship Tour Pilot in Budapest, defeating Hans Niemann and Wesley So in the blitz event. She scored four points from nine rounds and looks forward to the challenging group stage. Meanwhile, Magnus Carlsen won the blitz event unbeaten with seven points, securing an early tournament advantage.",
