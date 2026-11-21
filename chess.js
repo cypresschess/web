@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World Championship match, Sindarov has achieved an average performance rating of 2812 - higher than any other player. Over the past year, Sindarov has gained 61 Elo points, while Gukesh has lost 53. No wonder Sindarov is favourite in the World Championship match. | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
+         "pubDate" : "Sat, 21 Nov 2026 08:58:32",
+         "title" : "Javokhir Sindarov - the next World Champion?"
+      },
+      {
+         "description" : "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the \"Bremen Opening\". He has taken a look at the most important video courses in the ChessBase range and put together an overview. Some courses present a repertoire for White based on the English Opening, while others offer a repertoire for Black against it. There are also 60-minute courses devoted to specific variations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-english-opening-an-overview",
+         "pubDate" : "Sat, 21 Nov 2026 07:00:00",
+         "title" : "Review: The English Opening - An overview"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136042799.cms\" />\"When it's about this tournament I'll say that my entry was unfortunate,\" he said, as quoted by ChessBase.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
