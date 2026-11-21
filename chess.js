@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ask the right question, and you get the right answer. That's easy for tactical exercises. You know there is a tactic. So you can simply ask yourself: \"Which move could decide the game here?\" You might not do it consciously, but that's what your brain automatically searches for. And once you find a move that []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/the-question-every-chess-player-should-ask-and-nearly-nobody-does/",
+         "pubDate" : "Sat, 21 Nov 2026 14:00:00",
+         "title" : "The question every chess player should ask (and nearly nobody does)"
+      },
+      {
          "description" : "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World Championship match, Sindarov has achieved an average performance rating of 2812 - higher than any other player. Over the past year, Sindarov has gained 61 Elo points, while Gukesh has lost 53. No wonder Sindarov is favourite in the World Championship match. | Photo: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-the-english-opening-an-overview",
          "pubDate" : "Sat, 21 Nov 2026 07:00:00",
          "title" : "Review: The English Opening - An overview"
+      },
+      {
+         "description" : "We&#39;re excited to announce the open Beta of Classic, our new online platform featuring some of the world&#39;s most traditional and beloved games. You can now play and learn 10 games, including sudoku, mahjong, Go, solitaire, checkers, and more, all in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-classic-games-beta",
+         "pubDate" : "Sat, 21 Nov 2026 06:34:49",
+         "title" : "New Classic Games App In Beta, Play And Learn 10 Incredible Games!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136042799.cms\" />\"When it's about this tournament I'll say that my entry was unfortunate,\" he said, as quoted by ChessBase.",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Losing streak? Don't change a thing."
       },
       {
-         "description" : "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world number-one after GM Fabiano C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
-         "pubDate" : "Sat, 14 Nov 2026 13:56:00",
-         "title" : "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824247.cms\" />Magnus Carlsen faces increasing challenges to his world No. 1 title following a series of disappointing results. Fabiano Caruana has narrowed the rating gap significantly after showing exceptional form, including victories in the same tournament where Carlsen unexpectedly lost to Haik Martirosyan. Meanwhile, Arjun Erigaisi overcame Wesley So, and R Vaishali clinched her first win, reshaping the leaderboard landscape in this thrilling tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2026-starts-in-crete/",
          "pubDate" : "Sun, 01 Nov 2026 20:31:06",
          "title" : "European Youth Chess Championship 2026 starts in Crete"
-      },
-      {
-         "description" : "&#8220;How can someone be training chess and be below 1500? They must be stupid.\" This is sadly a quite common sentiment among Grandmasters. It is not only a cruel statement, but simply wrong. Because here is the truth: The players that study chess, spend time, energy, money and still get stuck below 1500 are often []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/what-actually-holds-you-back-from-reaching-1500-elo/",
-         "pubDate" : "Sat, 31 Oct 2026 13:00:00",
-         "title" : "What actually holds you back from reaching 1500 elo"
       }
    ]
 }
