@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136042799.cms\" />\"When it's about this tournament I'll say that my entry was unfortunate,\" he said, as quoted by ChessBase.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/more-stress-than-fun-magnus-carlsen-says-his-entry-at-total-chess-pilot-was-unfortunate/articleshow/136042799.cms",
+         "pubDate" : "Sat, 21 Nov 2026 02:06:01",
+         "title" : "'More stress than fun': Carlsen says his entry at Total Chess Pilot was 'unfortunate'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136042815.cms\" />The World Championship match between D Gukesh and Javokhir Sindarov begins in Geneva on Tuesday. Uzbekistan, known for its team-oriented approach, has excelled in recent chess Olympiads. Gukesh is mentored by legendary player V Anand, while Sindarov is supported by Nodirbek Abdusattorov. Despite having fewer Grandmasters, Uzbeks have shown strong teamwork compared to Gukesh's individual brilliance. This encounter is highly anticipated due to the ongoing rivalry between both countries.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-sindarov-clash-puts-india-uzbek-chess-rivalry-in-focus/articleshow/136042815.cms",
+         "pubDate" : "Sat, 21 Nov 2026 02:01:35",
+         "title" : "Gukesh-Sindarov clash puts India-Uzbek chess rivalry in focus"
+      },
+      {
          "description" : "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player ratings, national federations, participation, women in chess, tournament activity and historical rankings. It also includes head-to-head statistics for Gukesh Dommaraju and Javokhir Sindarov ahead of their World Championship match. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "World Chess Championship 2026: Gukesh Dommaraju v Javokhir Sindarov match questions, answered"
       },
       {
-         "description" : "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over two days, with four blitz games, two rapid games and one fast classic game per day. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Pictured: Richard Rapport | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-         "pubDate" : "Fri, 20 Nov 2026 14:45:00",
-         "title" : "Total Chess: Finals - Live!"
-      },
-      {
          "description" : " As Gukesh Dommaraju and Javokhir Sindarov meet across the board in Geneva, revisit 22 classic games from the world chess championship's 140-year history <ul><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">Read our World Chess Championship watch guide</a> </li></ul> The newest chapter in the 140-year history of the world <a href=\"https://www.theguardian.com/sport/chess\">chess</a> championship <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">will be written over the next three weeks</a> in Geneva, where Guke",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Carlsen's forfeit controversy: Anand, Giri and other top Grandmasters react"
       },
       {
-         "description" : "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&#38;nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament in an armageddo...",
+         "description" : "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&#38;nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament and $80,000 in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
@@ -600,22 +608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/55-45-for-javokhir-sindarov-russian-gm-peter-svidler-gives-world-chess-cship-challenger-narrow-edge-over-d-gukesh/articleshow/135706544.cms",
          "pubDate" : "Tue, 10 Nov 2026 11:05:47",
          "title" : "'55-45 for Javokhir': Russian GM gives Sindarov narrow edge over Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135698082.cms\" />With the celebration of 100 Grandmasters in India, Anuj Shrivatri stands as the newest star. While reaching the Grandmaster title is commendable, certain players manipulate rules to safeguard their ratings. Currently, only a few maintain an Elo rating above 2500, exposing the fierce competition. The ongoing scarcity of sponsorship and support for chess talents is a pressing issue, which contrasts sharply with better-resourced nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-gms-100-and-counting-why-becoming-a-grandmaster-is-now-just-a-tiny-step/articleshow/135698082.cms",
-         "pubDate" : "Tue, 10 Nov 2026 03:44:16",
-         "title" : "India's chess GMs: 100 and counting - Why becoming a GM is now just a tiny step"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135689790.cms\" />World No. 1 Magnus Carlsen will headline the 2026 London Chess Classic Super Rapid on December 5-6, alongside India's Nihal Sarin, Maxime Vachier-Lagrave and Anish Giri. The open event offers amateurs a chance to face Carlsen. Also competing are World No. 5 Nodirbek Abdusattorov and prodigy Bodhana Sivanandan, the youngest Woman Grandmaster in history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-set-for-london-chess-classic-super-rapid-who-is-there-from-india/articleshow/135689790.cms",
-         "pubDate" : "Mon, 09 Nov 2026 17:42:18",
-         "title" : "World No. 1 Carlsen set for LCC Super Rapid; who is there from India?"
       },
       {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
