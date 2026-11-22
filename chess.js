@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for the Total Chess World Championship has crashed. A commentary. | Photos: Michal Walusza / Total Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/total-mess-in-budapest",
+         "pubDate" : "Sun, 22 Nov 2026 19:50:00",
+         "title" : "Total mess in Budapest"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136079292.cms\" />Ahead of Game 1 of the 2026 World Chess Championship on November 24 at the Fondation Martin Bodmer in Cologny, Geneva, defending champion Dommaraju Gukesh and challenger Javokhir Sindarov shared their thoughts on preparation, expectations, and more. Here is what both the players said during the opening press conference on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-sindarov-press-conference-who-said-what-before-world-chess-championship-2026/articleshow/136079292.cms",
+         "pubDate" : "Sun, 22 Nov 2026 17:00:17",
+         "title" : "Gukesh vs Sindarov press conference: Who said what before World Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136076798.cms\" />Ahead of the 2026 World Chess Championship against Javokhir Sindarov in Geneva, defending champion Gukesh stated he is there to win the title afresh rather than protect it. While valuing his 2024 experience and enjoyable training camps, he noted past achievements erase at Game 1, emphasizing mental balance, outdoor sports, and expressing himself against a consistent challenger.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-am-not-here-to-defend-anything-gukesh-warns-javokhir-sindarov-ahead-of-world-chess-championship/articleshow/136076798.cms",
+         "pubDate" : "Sun, 22 Nov 2026 16:20:30",
+         "title" : "'I am not here to defend anything': Gukesh warns Sindarov ahead of World C'ship"
+      },
+      {
          "description" : "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:00 CET. | Live coverage today: Press conference: 15:30 CET, 9:30 EST | Opening ceremony: 17:00 CET, 11:00 EST | Images: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Losing streak? Don't change a thing."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824247.cms\" />Magnus Carlsen faces increasing challenges to his world No. 1 title following a series of disappointing results. Fabiano Caruana has narrowed the rating gap significantly after showing exceptional form, including victories in the same tournament where Carlsen unexpectedly lost to Haik Martirosyan. Meanwhile, Arjun Erigaisi overcame Wesley So, and R Vaishali clinched her first win, reshaping the leaderboard landscape in this thrilling tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/just-7-2-points-apart-magnus-carlsen-risks-losing-world-no-1-crown-after-15-years/articleshow/135824247.cms",
-         "pubDate" : "Sat, 14 Nov 2026 05:51:13",
-         "title" : "Just 7.2 points apart! Magnus Carlsen risks losing world No. 1 crown after 15 years"
-      },
-      {
          "description" : "Chess players will have the opportunity to play alongside ten grandmasters, including former World Blitz Champion Maxime Vachier-Lagrave, at the Royal Automobile Club in London on Saturday 6 March 2027....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-coolest-ticket-town",
          "pubDate" : "Fri, 13 Nov 2026 00:00:00",
          "title" : "Inside Story: The Coolest Ticket in Town"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135753600.cms\" />Seventeen-year-old Indian chess prodigy Md Imran is just one Grandmaster norm away from the coveted title, but a US visa crisis threatens his full scholarship at the University of Texas at Rio Grande Valley. After losing his passport and visas in Slovakia, he faces mounting family debt, bureaucratic hurdles and a January 2027 deadline that could derail his chess and academic dreams.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/50rs-lakh-debt-visa-nightmare-teenage-indian-chess-prodigy-risks-losing-us-scholarship/articleshow/135753600.cms",
-         "pubDate" : "Thu, 12 Nov 2026 03:30:39",
-         "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
       },
       {
          "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
