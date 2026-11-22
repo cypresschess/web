@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:00 CET. | Live coverage today: Press conference: 15:30 CET, 9:30 EST | Opening ceremony: 17:00 CET, 11:00 EST | Images: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
+         "pubDate" : "Sun, 22 Nov 2026 15:00:00",
+         "title" : "LIVE: The World Championship kicks off - press conference and opening ceremony today"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136066703.cms\" />Two years on, 20-year-old Gukesh faces a very different challenge. Having gone from being a young challenger taking on a vastly more experienced opponent to a reigning champion defending his crown, he must now contend with a rival his own age - Uzbekistan's Javokhir Sindarov - in the 2026 World Chess Championship final in Geneva, Switzerland, from Tuesday onwards.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
-         "pubDate" : "Sat, 21 Nov 2026 21:10:02",
+         "pubDate" : "Sat, 21 Nov 2026 21:10:00",
          "title" : "Indomitable Nakamura Captures 75th Bullet Brawl Title"
       },
       {
