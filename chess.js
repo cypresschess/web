@@ -34,6 +34,14 @@ news_feed (
          "title" : "Casablanca and Oromana take early lead at Spanish Team Championship"
       },
       {
+         "description" : "GM Hikaru Nakamura&#39;s dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi, who was Nakamura&#39;s most dange...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
+         "pubDate" : "Sat, 21 Nov 2026 21:10:02",
+         "title" : "Indomitable Nakamura Captures 75th Bullet Brawl Title"
+      },
+      {
          "description" : "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Niemann finished fifth. Meanwhile, Magnus Carlsen forfeited a game for the fourth consecutive day before claiming seventeenth place. His decisions continued to draw criticism as the experimental tournament came to an end. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/total-chess-pilot-caruana-makes-knockout-stage",
          "pubDate" : "Mon, 16 Nov 2026 00:00:00",
          "title" : "Total Chess Pilot: Caruana Makes Knockout Stage"
-      },
-      {
-         "description" : "It&#39;s GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-6",
-         "pubDate" : "Sun, 15 Nov 2026 13:28:00",
-         "title" : "Firouzja, Caruana, Giri, MVL Win Groups; Carlsen's No. 1 Status Boosted By Caruana Loss"
       },
       {
          "description" : "The English Chess Federation recognised the achievements and contributions of individuals, clubs and organisers across English chess at its Annual General Meeting on Saturday 14 November 2026. The ECF Awards...",
