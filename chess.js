@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136066703.cms\" />Two years on, 20-year-old Gukesh faces a very different challenge. Having gone from being a young challenger taking on a vastly more experienced opponent to a reigning champion defending his crown, he must now contend with a rival his own age - Uzbekistan's Javokhir Sindarov - in the 2026 World Chess Championship final in Geneva, Switzerland, from Tuesday onwards.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-has-the-crown-sindarov-has-the-momentum-a-clash-of-two-journeys/articleshow/136066703.cms",
+         "pubDate" : "Sun, 22 Nov 2026 03:39:33",
+         "title" : "Gukesh has the crown, Sindarov has the momentum: A clash of two journeys"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136066504.cms\" />Alireza Firouzja secured the Total Chess Pilot final title after a demanding two weeks of competition. He faced Anish Giri in the decisive match, where a draw was sufficient for victory. Magnus Carlsen experienced an inconsistent tournament, ultimately finishing in 17th place after a forfeited game. R Praggnanandhaa and Arjun Erigaisi represented India, with Pragg finishing 21st and Arjun 10th.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/alireza-firouzja-crowned-budapest-champion-but-magnus-carlsen-steals-the-show/articleshow/136066504.cms",
+         "pubDate" : "Sun, 22 Nov 2026 03:17:00",
+         "title" : "Alireza Firouzja crowned Budapest champion, but Magnus Carlsen steals the show"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136066271.cms\" />Grandmaster Peter Leko's dramatic clash against Vladimir Kramnik in 2004 was the last World Chess Championship hosted in Switzerland. During an exclusive interaction with TimesofIndia.com, the Hungarian chess veteran reflects on the psychological pressure, preparation challenges and dramatic final game of that encounter, while drawing parallels with the upcoming Gukesh-Sindarov title clash in Geneva.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-year-facebook-was-born-switzerland-hosted-its-last-world-chess-championship-gukesh-vs-sindarov-next/articleshow/136066271.cms",
+         "pubDate" : "Sun, 22 Nov 2026 03:12:50",
+         "title" : "Facebook, Kramnik-Leko and a 22-year wait: Switzerland prepares for Gukesh-Sindarov clash"
+      },
+      {
+         "description" : "MyInvestor Casablanca and Oromana Cen Solutions are the only teams to have won both their matches after two rounds of the Spanish Team Championship in Marbella. Casablanca lead the standings on tiebreaks following a convincing 5-1 victory over Silla Bosch Serinsys, while Oromana edged out Jaime Casas de Monz&oacute;n. The eight-team competition features a strong international field, including Nihal Sarin, Parham Maghsoodloo (pictured), Nodirbek Yakubboev and Alexei Shirov. | Photo: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-team-ch-2026-r2",
+         "pubDate" : "Sun, 22 Nov 2026 02:35:00",
+         "title" : "Casablanca and Oromana take early lead at Spanish Team Championship"
+      },
+      {
          "description" : "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Niemann finished fifth. Meanwhile, Magnus Carlsen forfeited a game for the fourth consecutive day before claiming seventeenth place. His decisions continued to draw criticism as the experimental tournament came to an end. | Photo: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -602,22 +634,6 @@ news_feed (
          "title" : "Rs 50 lakh debt, visa nightmare: Indian chess prodigy risks losing US scholarship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135736478.cms\" />Indian Grandmaster Vaishali Rameshbabu impressed at the Total Chess World Championship Tour Pilot in Budapest, defeating Hans Niemann and Wesley So in the blitz event. She scored four points from nine rounds and looks forward to the challenging group stage. Meanwhile, Magnus Carlsen won the blitz event unbeaten with seven points, securing an early tournament advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-looking-forward-to-be-in-magnus-carlsens-group-vaishali-after-winning-two-blitz-games-against-super-gms/articleshow/135736478.cms",
-         "pubDate" : "Wed, 11 Nov 2026 12:49:13",
-         "title" : "'I was looking forward to Magnus's group': Vaishali after blitz wins over super GMs"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135725387.cms\" />India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event. One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-women-vs-elite-gms-vaishali-answers-with-wins-over-so-niemann-as-carlsen-strikes-first/articleshow/135725387.cms",
-         "pubDate" : "Wed, 11 Nov 2026 04:18:44",
-         "title" : "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann"
-      },
-      {
          "description" : "The 7th round of the European Youth Chess Championship 2026 was played today in Hersonissos, Crete, Greece, with only two rounds left to go! In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) has perfect score of 7/7 points, a full point ahead of Elif Urgen (TUR), who follows with 6 points. Nikolas Bausys (LTU, 1857) also has the maximum 7/7 points in the Open U8 category, followed by Ronaldo Balog (ROU, 1698) and Harry Chan (ENG, 1720) on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
          "pubDate" : "Tue, 10 Nov 2026 15:28:00",
          "title" : "89th Tata Steel 2027 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135706544.cms\" />Russian Grandmaster Peter Svidler has given Javokhir Sindarov a narrow 55-45 edge over reigning champion D Gukesh ahead of their November 24 title clash in Geneva. Svidler cautioned against underestimating Gukesh, citing his strength and experience. The 14-game contest will be historic, with both players aged 20, and carries a $2.5 million prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/55-45-for-javokhir-sindarov-russian-gm-peter-svidler-gives-world-chess-cship-challenger-narrow-edge-over-d-gukesh/articleshow/135706544.cms",
-         "pubDate" : "Tue, 10 Nov 2026 11:05:47",
-         "title" : "'55-45 for Javokhir': Russian GM gives Sindarov narrow edge over Gukesh"
       },
       {
          "description" : "Five rounds have been played at the European Youth Chess Championship 2026, and today is the well-deserved free day for the players in Hersonissos, Crete, Greece. Heading into the tournament's only free day, most sections have sole leaders, who are closely followed by the runners-up. In a few sections, no player has a perfect score, and there is a tie for the lead as the event reaches its halfway mark. In the Girls U8 section, Melike Eliz Karahan (TUR, 1636) []",
