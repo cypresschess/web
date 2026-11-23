@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2026-11-22","48","<a href=https://ratings.uschess.org/event/202611220473 target='_blank'>Lone Star FIDE 2026</a>",
+"HOUSTON","2026-11-22","24","<a href=https://ratings.uschess.org/event/202611220293 target='_blank'>Sri Meenakshi Temple 11-22-2026</a>",
 "HOUSTON","2026-11-21","10","<a href=https://ratings.uschess.org/event/202611210353 target='_blank'>chesspanda11212026saturday</a>",
 "KATY","2026-11-21","17","<a href=https://ratings.uschess.org/event/202611210343 target='_blank'>HG - Katy November Championship</a>",
 "SUGAR LAND","2026-11-20","22","<a href=https://ratings.uschess.org/event/202611200343 target='_blank'>FBCC 2026 Toy Story Premiere Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-08-29","12","<a href=https://ratings.uschess.org/event/202608290183 target='_blank'>chesspanda08292026saturday</a>",
 "SPRING","2026-08-28","27","<a href=https://ratings.uschess.org/event/202608280323 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2026-08-28","20","<a href=https://ratings.uschess.org/event/202608280243 target='_blank'>FBCC 2026 Back to School Open</a>",
-"CYPRESS","2026-08-28","37","<a href=https://ratings.uschess.org/event/202608280193 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2026-08-25","22","<a href=https://ratings.uschess.org/event/202608250193 target='_blank'>AUGUST TUE NITE SWISS 2026</a>",
 ]);
