@@ -34,6 +34,22 @@ news_feed (
          "title" : "LIVE: The World Championship kicks off - press conference and opening ceremony today"
       },
       {
+         "description" : "GM Anna Muzychuk won the blitz portion of the WR Women&#39;s Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to go. The second and final day...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
+         "pubDate" : "Sun, 22 Nov 2026 13:59:48",
+         "title" : "Muzychuk Wins Blitz Portion Of WR Women's Chess Tour Grand Final"
+      },
+      {
+         "description" : "GM Javokhir Sindarov will start the 2026 Salesforce FIDE World Championship with the white pieces in Geneva on Tuesday after World Champion Gukesh Dommaraju selected a clock containing a black knight at the opening ceremony. Earlier, at the press ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+         "pubDate" : "Sun, 22 Nov 2026 13:21:00",
+         "title" : "Sindarov Gets White As Gukesh Vows To Win World Championship 'All Over Again'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136066703.cms\" />Two years on, 20-year-old Gukesh faces a very different challenge. Having gone from being a young challenger taking on a vastly more experienced opponent to a reigning champion defending his crown, he must now contend with a rival his own age - Uzbekistan's Javokhir Sindarov - in the 2026 World Chess Championship final in Geneva, Switzerland, from Tuesday onwards.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -562,22 +578,6 @@ news_feed (
          "title" : "JP Morgan Chase Wins North American Corporate Chess League Season 14"
       },
       {
-         "description" : "Speed Chess Championship XI is almost here. Which of its 16 players will win all four of their matches, earn the biggest share of $250,000, and take home the most Champions Chess Tour (CCT) standings points on their way to the 2027 Esports World C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-championship-first-round-preview",
-         "pubDate" : "Mon, 16 Nov 2026 08:17:17",
-         "title" : "Here Comes The SCC: Who's Playing, Who Will Win In Round 1"
-      },
-      {
-         "description" : "When Bernard Sanico&#38;rsquo;s son was born in 2019, he knew exactly what to call him. A fan of the world champion since he was 12, he named the boy Magnus Carlsen Sanico. Seven years later, the younger Magnus is a rising player in the Philippines dr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-sanico-7-year-old-grandmaster-dream",
-         "pubDate" : "Mon, 16 Nov 2026 05:25:04",
-         "title" : "Meet The 7-Year-Old Magnus Carlsen Who Dreams Of Becoming A Grandmaster"
-      },
-      {
          "description" : "Three Disciplines, One CrownTotal Chess Tour puts its enigmatic slogan to the test for the first time at the Total Chess Pilot 2026 in Budapest, Hungary. The \"disciplines\" are the three disparate time controls - blitz, rapid, and the trending 45+30 \"fast classic\" - combined into a single event. The \"crown\" is an $80,000 prize for the last player standing after three stages of competition.A concept by Norway Chess, Total Chess aims to bring the best players in the world into competition to determine the FIDE World Combined Champion beginning with the 2027 season. To introduce the format ahead of the March 2027 tour debut, the Total Chess Pilot showcases the versatility promised by this innova",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
          "pubDate" : "Mon, 2 Nov 2026 13:23:00",
          "title" : "English Open Championships 2026 - Games and Results"
-      },
-      {
-         "description" : "The 2026 European Youth Chess Championship is set to take place from 2-13 November in Hersonissos, Crete, Greece! The event will be played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 rounds, swiss system, with the time control of 90 minutes + 30 seconds increment per each move, starting from move one. The event will gather nearly 1250 children coming from 49 European federations, including []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2026-starts-in-crete/",
-         "pubDate" : "Sun, 01 Nov 2026 20:31:06",
-         "title" : "European Youth Chess Championship 2026 starts in Crete"
       }
    ]
 }
