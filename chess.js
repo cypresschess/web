@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<ul><li> Youngest title match in chess history starts Tuesday </li><li> Uzbek challenger enters as the oddsmakers' favorite </li><li> Champion plays down slump after falling to No 26 </li><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">Read our World Chess Championship watch guide</a> </li></ul> World chess champion <a href=\"https://www.theguardian.com/sport/gukesh-dommaraju\">Gukesh Dommaraju</a> insisted he was approaching his first title defense with the mindset of a challenger on Sunday as he and <a href=\"https://www.theguardian.com/sport/javokhir-sindarov\">Javokhir Sindarov</a> faced the medi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2026/nov/23/gukesh-sindarov-world-chess-championship-2026-geneva-preview",
+         "pubDate" : "Mon, 23 Nov 2026 07:00:51",
+         "title" : "Gukesh vows to win world chess title 'all over again' as Sindarov challenge looms"
+      },
+      {
+         "description" : "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into their preparations, expectations and thoughts ahead of the eagerly anticipated encounter. FIDE press release, written by Yannick Pelletier | Photos: Y.E. Nisenbaum and Michal Waluzsa",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
+         "pubDate" : "Mon, 23 Nov 2026 06:03:11",
+         "title" : "The Two World Championship Contenders Open Up to the Media"
+      },
+      {
          "description" : "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for the Total Chess World Championship has crashed. A commentary. | Photos: Michal Walusza / Total Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
