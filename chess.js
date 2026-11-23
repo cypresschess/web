@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union The President Rainweidstrasse 2, CH-6333 H&uuml;nenberg See, Switzerland Geneva, 23 November 2026 To the Presidents and Delegates of the member federations of the European Chess Union By email The circulars of Mr. Malcolm Pein and Mr. Michael St&ouml;ttinger Dear Presidents, dear Delegates, On 21 November 2026, you received a circular from Mr. Malcolm Pein, wrongly dated 22 November, on English Chess Federation letterhead, inviting your federation to request an extraordinary General Assembly. On 22 November, Mr. Michael []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-president-letter-to-national-chess-federations/",
+         "pubDate" : "Mon, 23 Nov 2026 12:15:49",
+         "title" : "ECU President Letter to National Chess Federations"
+      },
+      {
          "description" : "<ul><li> Youngest title match in chess history starts Tuesday </li><li> Uzbek challenger enters as the oddsmakers' favorite </li><li> Champion plays down slump after falling to No 26 </li><li> <a href=\"https://www.theguardian.com/sport/2026/nov/20/world-chess-championship-2026-gukesh-sindarov-schedule-format-prize-money-explainer\">Read our World Chess Championship watch guide</a> </li></ul> World chess champion <a href=\"https://www.theguardian.com/sport/gukesh-dommaraju\">Gukesh Dommaraju</a> insisted he was approaching his first title defense with the mindset of a challenger on Sunday as he and <a href=\"https://www.theguardian.com/sport/javokhir-sindarov\">Javokhir Sindarov</a> faced the medi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
          "pubDate" : "Mon, 23 Nov 2026 06:03:11",
          "title" : "The Two World Championship Contenders Open Up to the Media"
+      },
+      {
+         "description" : "We caught up with five-time World Champion Viswanathan Anand ahead of the 2026 World Chess Championship match between reigning World Champion Gukesh Dommaraju and challenger GM Javokhir Sindarov. With Sindarov coming off a spectacular Candidates v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
+         "pubDate" : "Mon, 23 Nov 2026 02:57:24",
+         "title" : "Vishy Anand's Gukesh-Sindarov World Championship Predictions"
       },
       {
          "description" : "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for the Total Chess World Championship has crashed. A commentary. | Photos: Michal Walusza / Total Chess",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2026-speed-chess-championship-r16-nakamura-erdogmus",
          "pubDate" : "Mon, 16 Nov 2026 14:01:00",
          "title" : "Nakamura Beats Erdogmus En Route To London Live Finals"
-      },
-      {
-         "description" : "JP Morgan Chase won the 14th season of the North American Corporate Chess League in an exciting final match against PWC, taking the title 3-2. It was the banking company&#39;s first championship. The company fielded a strong team led by IM Edward Song...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jp-morgan-chase-wins-north-american-corporate-chess-league-season-14",
-         "pubDate" : "Mon, 16 Nov 2026 11:00:09",
-         "title" : "JP Morgan Chase Wins North American Corporate Chess League Season 14"
       },
       {
          "description" : "Three Disciplines, One CrownTotal Chess Tour puts its enigmatic slogan to the test for the first time at the Total Chess Pilot 2026 in Budapest, Hungary. The \"disciplines\" are the three disparate time controls - blitz, rapid, and the trending 45+30 \"fast classic\" - combined into a single event. The \"crown\" is an $80,000 prize for the last player standing after three stages of competition.A concept by Norway Chess, Total Chess aims to bring the best players in the world into competition to determine the FIDE World Combined Champion beginning with the 2027 season. To introduce the format ahead of the March 2027 tour debut, the Total Chess Pilot showcases the versatility promised by this innova",
