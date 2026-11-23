@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136108637.cms\" />Indian Grandmaster Rameshbabu Praggnanandhaa has called for a single, uniform classical time control across the entire World Championship cycle. Writing on X after the Total Chess event, he noted that constantly shifting formats, including split rules reported for the 2027 World Cup, hampers player preparation and fan engagement, urging chess to adopt a consistent standard like the FIFA World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fifa-world-cup-has-standard-90-minute-game-indias-r-praggnanandhaa-questions-changing-chess-time-controls/articleshow/136108637.cms",
+         "pubDate" : "Mon, 23 Nov 2026 16:20:52",
+         "title" : "'FIFA WC has standard 90-minute game': Pragg questions changing time controls"
+      },
+      {
+         "description" : "Working with the ChessBase '27: what is a session with the new program like. In an example we show you what it looks like when a top player prepares against an opponent, what information the AI can derive, within seconds, from giant databases of millions of games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-powered-opening-preparation-3",
+         "pubDate" : "Mon, 23 Nov 2026 15:42:08",
+         "title" : "AI Powered Opening Preparation"
+      },
+      {
+         "description" : "The Salesforce&#160;FIDE World Chess Championship Match 2026 between Dommaraju Gukesh the defending Champion and Javokhir Sindarov the Challenger, starts tomorrow in Geneva, Switzerland! The Match will be played from 24 November 12 December at the Fondation Martin Bodmer in Cologny, a unique heritage library - recognized as World Heritage by UNESCO. The Match will feature 14 classical games, and the first player to reach 7&frac12; points wins the match and the title. If the score is equal []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/world-chess-championship-match-2026-starts-in-switzerland/",
+         "pubDate" : "Mon, 23 Nov 2026 15:02:40",
+         "title" : "World Chess Championship Match 2026 starts in Switzerland"
+      },
+      {
+         "description" : " As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan's Javokhir Sindarov and India's Gukesh Dommaraju in Geneva has all the makings of a barnburner. Earlier this year, Sindarov, 20, won the Candidates Tournament as an outside longshot with a magnificent attacking style that overwhelmed the competition, locking up his title shot with a string of dazzling early wins. <a href=\"https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+         "pubDate" : "Mon, 23 Nov 2026 13:00:31",
+         "title" : "AI conquered chess. What happened next should give us hope"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136101538.cms\" />India's Gukesh Dommaraju will defend his world title against Uzbekistan's Javokhir Sindarov in the 2026 FIDE World Chess Championship, beginning November 24 in Geneva. The historic contest features two 20-year-olds and 14 classical games. The winner will receive the larger share of the USD 2.5 million prize fund. Matches begin at 7:30 PM IST, streaming live on FIDE's YouTube and Twitch channels.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-javokhir-sindarov-world-chess-championship-2026-when-and-where-to-watch-live-streaming-in-india/articleshow/136101538.cms",
+         "pubDate" : "Mon, 23 Nov 2026 12:44:25",
+         "title" : "Gukesh vs Sindarov World C'ship: When and where to watch live in India"
+      },
+      {
          "description" : "European Chess Union The President Rainweidstrasse 2, CH-6333 H&uuml;nenberg See, Switzerland Geneva, 23 November 2026 To the Presidents and Delegates of the member federations of the European Chess Union By email The circulars of Mr. Malcolm Pein and Mr. Michael St&ouml;ttinger Dear Presidents, dear Delegates, On 21 November 2026, you received a circular from Mr. Malcolm Pein, wrongly dated 22 November, on English Chess Federation letterhead, inviting your federation to request an extraordinary General Assembly. On 22 November, Mr. Michael []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -23,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
          "pubDate" : "Mon, 23 Nov 2026 06:03:11",
-         "title" : "The Two World Championship Contenders Open Up to the Media"
+         "title" : "The two World Championship contenders open up to the media"
       },
       {
          "description" : "We caught up with five-time World Champion Viswanathan Anand ahead of the 2026 World Chess Championship match between reigning World Champion Gukesh Dommaraju and challenger GM Javokhir Sindarov. With Sindarov coming off a spectacular Candidates v...",
@@ -70,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
-         "pubDate" : "Sun, 22 Nov 2026 13:59:48",
+         "pubDate" : "Sun, 22 Nov 2026 13:59:00",
          "title" : "Muzychuk Wins Blitz Portion Of WR Women's Chess Tour Grand Final"
       },
       {
@@ -498,14 +538,6 @@ news_feed (
          "title" : "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135945109.cms\" />Magnus Carlsen forfeited his Fast Classic game against Bibisara Assaubayeva after achieving a decisive lead. He expressed that the decision was due to the game's irrelevance after the day's results were secured. Carlsen's forfeit followed a disappointing performance in the group stage that affected his classical rating significantly. The Fast Classic format features shorter time controls, enhancing the pace of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/controversy-magnus-carlsen-forfeits-fast-classic-game-against-kazakhstans-bibisara-assaubayeva-calls-it-totally-useless/articleshow/135945109.cms",
-         "pubDate" : "Wed, 18 Nov 2026 01:43:43",
-         "title" : "Controversy! Magnus Carlsen forfeits Fast Classic game against Bibisara"
-      },
-      {
          "description" : "Editor's note: Pending any official photos of the awards ceremony, this article is light on pictures. Any accompanying persons who took photos of podium finishers is invited to email photos to Click here to show email address in order to enrich this article. Some photos from of players during games are available on FENEMAC's Facebook page. Additionally, any spelling or other errors can be emailed to me at the same address. Update Nov. 19, 2026: I've seen been made aware that there were additional prizes for girls' blitz and rapid tournaments. Unfortunately, until the organizers add results to this page, all I have to go on are the Chess-Results standings linked below, which do not demarcate ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
          "pubDate" : "Tue, 17 Nov 2026 07:23:14",
          "title" : "Gukesh Opens Up About Pressure, Criticism Ahead Of Sindarov Match"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135909095.cms\" />Among the Indians, only Erigaisi was in contention to top his group on Sunday, the final day of the group league.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/total-chess-pilot-indian-players-out-of-title-contention/articleshow/135909095.cms",
-         "pubDate" : "Tue, 17 Nov 2026 03:37:53",
-         "title" : "Total Chess Pilot: Indian players out of title contention"
       },
       {
          "description" : "GM Hikaru Nakamura of Team Falcons won the first Round of 16 match in the Speed Chess Championship XI with a 12-8 score against 15-year-old GM Yagiz Erdogmus. Erdogmus won the bullet segment, which is normally Nakamura&#39;s specialty, but it wasn&#39;t e...",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
          "pubDate" : "Tue, 03 Nov 2026 09:00:00",
          "title" : "KazChess Masters Almaty 2026 - Live!"
-      },
-      {
-         "description" : " The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7&frac12;/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6&frac12;. English Women's 2026: Elmira Mirzoeva won with 7&frac12;/9 a point clear of Anusha Subramanian on 6&frac12;. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
-         "pubDate" : "Mon, 2 Nov 2026 13:23:00",
-         "title" : "English Open Championships 2026 - Games and Results"
       }
    ]
 }
