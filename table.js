@@ -1,6 +1,8 @@
 jtable([
+"HOUSTON","2026-11-24","13","<a href=https://ratings.uschess.org/event/202611240213 target='_blank'>NOVEMBER TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-11-22","48","<a href=https://ratings.uschess.org/event/202611220473 target='_blank'>Lone Star FIDE 2026</a>",
 "HOUSTON","2026-11-22","24","<a href=https://ratings.uschess.org/event/202611220293 target='_blank'>Sri Meenakshi Temple 11-22-2026</a>",
+"HOUSTON","2026-11-21","7","<a href=https://ratings.uschess.org/event/202611211273 target='_blank'>NOV 21st TROPHY SCHOLASTIC</a>",
 "HOUSTON","2026-11-21","10","<a href=https://ratings.uschess.org/event/202611210353 target='_blank'>chesspanda11212026saturday</a>",
 "KATY","2026-11-21","17","<a href=https://ratings.uschess.org/event/202611210343 target='_blank'>HG - Katy November Championship</a>",
 "SUGAR LAND","2026-11-20","22","<a href=https://ratings.uschess.org/event/202611200343 target='_blank'>FBCC 2026 Toy Story Premiere Open</a>",
@@ -97,6 +99,4 @@ jtable([
 "HOUSTON","2026-08-29","128","<a href=https://ratings.uschess.org/event/202608290883 target='_blank'>SBSC Back to School 2026</a>",
 "HOUSTON","2026-08-29","16","<a href=https://ratings.uschess.org/event/202608290843 target='_blank'>August 29 The Alan Rodenstein Open</a>",
 "HOUSTON","2026-08-29","12","<a href=https://ratings.uschess.org/event/202608290183 target='_blank'>chesspanda08292026saturday</a>",
-"SPRING","2026-08-28","27","<a href=https://ratings.uschess.org/event/202608280323 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2026-08-28","20","<a href=https://ratings.uschess.org/event/202608280243 target='_blank'>FBCC 2026 Back to School Open</a>",
 ]);
