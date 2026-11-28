@@ -1,4 +1,7 @@
 jtable([
+"SPRING","2026-11-27","13","<a href=https://ratings.uschess.org/event/202611270233 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2026-11-27","13","<a href=https://ratings.uschess.org/event/202611270163 target='_blank'>Knights of Cypress</a>",
+"HOUSTON","2026-11-27","14","<a href=https://ratings.uschess.org/event/202611270073 target='_blank'>NOV27 DAYLIGHT SWISS</a>",
 "HOUSTON","2026-11-24","13","<a href=https://ratings.uschess.org/event/202611240213 target='_blank'>NOVEMBER TUE NITE SWISS 2026</a>",
 "HOUSTON","2026-11-22","48","<a href=https://ratings.uschess.org/event/202611220473 target='_blank'>Lone Star FIDE 2026</a>",
 "HOUSTON","2026-11-22","24","<a href=https://ratings.uschess.org/event/202611220293 target='_blank'>Sri Meenakshi Temple 11-22-2026</a>",
@@ -96,7 +99,4 @@ jtable([
 "SUGAR LAND","2026-09-04","14","<a href=https://ratings.uschess.org/event/202609040233 target='_blank'>FBCC 2026 Labor Day Open</a>",
 "KATY","2026-09-03","34","<a href=https://ratings.uschess.org/event/202609030013 target='_blank'>Katy Kids Chess Monthly Rated</a>",
 "HOUSTON","2026-08-30","17","<a href=https://ratings.uschess.org/event/202608300253 target='_blank'>Bellaire Sunday Swiss 2026.08.30</a>",
-"HOUSTON","2026-08-29","128","<a href=https://ratings.uschess.org/event/202608290883 target='_blank'>SBSC Back to School 2026</a>",
-"HOUSTON","2026-08-29","16","<a href=https://ratings.uschess.org/event/202608290843 target='_blank'>August 29 The Alan Rodenstein Open</a>",
-"HOUSTON","2026-08-29","12","<a href=https://ratings.uschess.org/event/202608290183 target='_blank'>chesspanda08292026saturday</a>",
 ]);
